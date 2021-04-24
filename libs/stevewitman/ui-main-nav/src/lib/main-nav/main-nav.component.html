@@ -1,0 +1,50 @@
+<mat-sidenav-container class="sidenav-container">
+  <mat-sidenav
+    #drawer
+    class="sidenav"
+    fixedInViewport
+    [attr.role]="(isHandset$ | async) ? 'dialog' : 'navigation'"
+    [mode]="(isHandset$ | async) ? 'over' : 'over'"
+    [opened]="(isHandset$ | async) === false"
+  >
+    <mat-toolbar>
+      <button
+        class="menu-close"
+        type="button"
+        aria-label="Toggle sidenav"
+        mat-icon-button
+        (click)="drawer.toggle()"
+      >
+        <mat-icon aria-label="Side nav toggle icon">close</mat-icon>
+      </button>
+      <span class="title-nav">STEVE WITMAN</span>
+
+    </mat-toolbar>
+    <mat-nav-list>
+      <a mat-list-item href="#"><span class="menu-item">Posts</span></a>
+      <a mat-list-item href="#"><span class="menu-item">Projects</span></a>
+      <a mat-list-item href="#"><span class="menu-item">About Me</span></a>
+      <a mat-list-item href="#"><span class="menu-item">Skills</span></a>
+      <a mat-list-item href="#"><span class="menu-item">Volunteer</span></a>
+      <a mat-list-item href="#"><span class="menu-item">Contact</span></a>
+
+    </mat-nav-list>
+  </mat-sidenav>
+
+  <mat-sidenav-content>
+    <mat-toolbar color="primary" class="main-toolbar">
+      <button
+        type="button"
+        aria-label="Toggle sidenav"
+        mat-icon-button
+        (click)="drawer.toggle()"
+      >
+        <mat-icon aria-label="Side nav toggle icon">menu</mat-icon>
+      </button>
+      <span class="title-main">STEVE WITMAN</span>
+
+    </mat-toolbar>
+
+    <!-- Add Content Here -->
+  </mat-sidenav-content>
+</mat-sidenav-container>

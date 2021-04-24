@@ -1,30 +1,29 @@
 {
   "implicitDependencies": {
-    "package.json": {
-      "dependencies": "*",
-      "devDependencies": "*"
-    },
+    "package.json": { "dependencies": "*", "devDependencies": "*" },
     ".eslintrc.json": "*"
   },
-  "affected": {
-    "defaultBase": "master"
-  },
+  "affected": { "defaultBase": "master" },
   "npmScope": "nx-stevewitman",
   "tasksRunnerOptions": {
     "default": {
       "runner": "@nrwl/workspace/tasks-runners/default",
-      "options": {
-        "cacheableOperations": ["build", "lint", "test", "e2e"]
-      }
+      "options": { "cacheableOperations": ["build", "lint", "test", "e2e"] }
     }
   },
   "projects": {
-    "stevewitmandotcom": {
-      "tags": []
-    },
+    "stevewitmandotcom": { "tags": [] },
     "stevewitmandotcom-e2e": {
       "tags": [],
       "implicitDependencies": ["stevewitmandotcom"]
-    }
+    },
+    "shared-material": { "tags": [] },
+    "stevewitman-ui-main-nav": { "tags": [] },
+    "ngnuggetsdotcom": { "tags": [] },
+    "ngnuggetsdotcom-e2e": {
+      "tags": [],
+      "implicitDependencies": ["ngnuggetsdotcom"]
+    },
+    "ngnuggets-ui-main-nav": { "tags": [] }
   }
 }

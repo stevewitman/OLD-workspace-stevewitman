@@ -14,7 +14,15 @@
     "skipLibCheck": true,
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
-    "paths": {}
+    "paths": {
+      "@nx-stevewitman/shared/material": ["libs/shared/material/src/index.ts"],
+      "@nx-stevewitman/stevewitman/ui-main-nav": [
+        "libs/stevewitman/ui-main-nav/src/index.ts"
+      ],
+      "@nx-stevewitman/ngnuggets/ui-main-nav": [
+        "libs/ngnuggets/ui-main-nav/src/index.ts"
+      ]
+    }
   },
   "exclude": ["node_modules", "tmp"]
 }

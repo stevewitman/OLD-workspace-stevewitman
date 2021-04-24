@@ -1,0 +1,90 @@
+.mat-toolbar {
+  height: 56px;
+}
+.sidenav-container {
+  height: 100%;
+}
+.sidenav {
+  width: 240px;
+}
+.sidenav .mat-toolbar { 
+  color: #141618;
+  color: white;
+  background: white;
+  background: #252525;
+}
+.mat-sidenav {
+  border: none;
+  background: white;
+}
+.mat-toolbar.mat-primary {
+  position: sticky;
+  top: 0;
+  z-index: 1;
+}
+.title-main-ng {
+  color: #FF6600;
+  padding-left: 16px;
+  letter-spacing: 0px;
+}
+.title-main-nugs {
+  color: #FFFFFF;
+  padding-left: 1px;
+  letter-spacing: 0px;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+.main-toolbar {
+  background: #252525;
+}
+.mat-icon-button ::ng-deep .mat-button-focus-overlay {
+  display: none;
+}
+.mat-nav-list {
+  padding-left: 0px;
+}
+.menu-item {
+  padding-left: 12px;
+}
+.icon {
+  padding-left: 8px;
+  color: #606060;
+}
+.icon-active {
+  color: #FF6600;
+}
+.ng-site-logo {
+  padding-left: 8px;
+  color: gold;
+}
+.ng-site-ng {
+  color: white;
+  font-weight: 400;
+  // font-family: 'Roboto Condensed', sans-serif;
+}
+.ng-site-nuggets {
+  color: gold;
+  padding-left: 2px;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+.am-site-logo {
+  padding-left: 8px;
+  color: #FF6600;
+}
+.am-site-angular {
+  color: white;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+.am-site-mentors {
+  padding-left: 2px;
+  color: #FF6600;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+.site-dotcom {
+  padding-left: 2px;
+  color: white;
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: .6rem;
+}
+.site {
+  background-color: #141618;
+}

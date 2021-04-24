@@ -1,0 +1,54 @@
+<mat-sidenav-container class="sidenav-container">
+  <mat-sidenav
+    #drawer
+    class="sidenav"
+    fixedInViewport
+    [attr.role]="(isHandset$ | async) ? 'dialog' : 'navigation'"
+    [mode]="(isHandset$ | async) ? 'over' : 'over'"
+    [opened]="(isHandset$ | async) === false"
+  >
+    <mat-toolbar>
+      <button
+        class="menu-close"
+        type="button"
+        aria-label="Toggle sidenav"
+        mat-icon-button
+        (click)="drawer.toggle()"
+      >
+        <mat-icon aria-label="Side nav toggle icon">close</mat-icon>
+      </button>
+      <span class="title-main-ng">NG</span><span class="title-main-nugs">NUGGETS</span>
+
+    </mat-toolbar>
+    <mat-nav-list>
+      <a mat-list-item href="#"><mat-icon class="icon icon-active">home</mat-icon><span class="menu-item">Home</span></a>
+      <a mat-list-item href="#"><mat-icon class="icon">filter_alt</mat-icon><span class="menu-item">Filter By</span></a>
+      <a mat-list-item href="#"><mat-icon class="icon">info</mat-icon><span class="menu-item">About</span></a>
+      <a mat-list-item href="#"><mat-icon class="icon">note_add</mat-icon><span class="menu-item">Submit</span></a>
+      <a mat-list-item href="#"><mat-icon class="icon">contact_page</mat-icon><span class="menu-item">Contact</span></a>
+      <a mat-list-item href="#"><mat-icon class="icon">mail</mat-icon><span class="menu-item">Newsletter</span></a>
+      <a mat-list-item href="#"><mat-icon class="icon">settings</mat-icon><span class="menu-item">Settings</span></a>
+      <a mat-list-item href="#"><mat-icon class="icon">attach_money</mat-icon><span class="menu-item">Donate</span></a>
+      <a mat-list-item href="#"><span class="menu-item"><span class="menu-item-angular">ANGULAR</span><span class="menu-item-mentors">MENTORS</span><span class="menu-item-dotcom">.COM</span></span></a>
+
+
+    </mat-nav-list>
+  </mat-sidenav>
+
+  <mat-sidenav-content>
+    <mat-toolbar color="primary" class="main-toolbar">
+      <button
+        type="button"
+        aria-label="Toggle sidenav"
+        mat-icon-button
+        (click)="drawer.toggle()"
+      >
+        <mat-icon aria-label="Side nav toggle icon">menu</mat-icon>
+      </button>
+      <span class="title-main-ng">NG</span><span class="title-main-nugs">NUGGETS</span>
+
+    </mat-toolbar>
+
+    <!-- Add Content Here -->
+  </mat-sidenav-content>
+</mat-sidenav-container>

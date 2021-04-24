@@ -1,0 +1,72 @@
+.mat-toolbar {
+  height: 56px;
+}
+.sidenav-container {
+  height: 100%;
+}
+.sidenav {
+  width: 240px;
+}
+.sidenav .mat-toolbar { 
+  color: #141618;
+  color: white;
+  background: white;
+  background: #252525;
+}
+.mat-sidenav {
+  border: none;
+  background: white;
+}
+.mat-toolbar.mat-primary {
+  position: sticky;
+  top: 0;
+  z-index: 1;
+}
+.title-main-ng {
+  color: white;
+  padding-left: 10px;
+  letter-spacing: 0px;
+}
+.title-main-nugs {
+  color: gold;
+  padding-left: 1px;
+  letter-spacing: 0px;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+.main-toolbar {
+  background: #252525;
+}
+.mat-icon-button ::ng-deep .mat-button-focus-overlay {
+  display: none;
+}
+.mat-nav-list {
+  padding-left: 0px;
+}
+.menu-item {
+  padding-left: 12px;
+}
+.icon {
+  padding-left: 8px;
+  color: #606060;
+}
+.icon-active {
+  color: #FF6600;
+}
+.menu-item-logo {
+  padding-left: 8px;
+  color: #FF6600;
+}
+.menu-item-angular {
+  font-family: 'Roboto Condensed', sans-serif;
+}
+.menu-item-mentors {
+  padding-left: 2px;
+  color: #FF6600;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+.menu-item-dotcom {
+  padding-left: 2px;
+  color: black;
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: .6rem;
+}
