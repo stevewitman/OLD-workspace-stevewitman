@@ -27,6 +27,11 @@
     "ngnuggets-ui-main-nav": { "tags": [] },
     "ngnuggets-feat-home": { "tags": [] },
     "shared-ui-page-not-found": { "tags": [] },
-    "ngnuggets-feat-about": { "tags": [] }
+    "ngnuggets-feat-about": { "tags": [] },
+    "ngnuggets-feat-submit": { "tags": [] },
+    "ngnuggets-feat-contact": { "tags": [] },
+    "ngnuggets-feat-newsletter": { "tags": [] },
+    "ngnuggets-feat-settings": { "tags": [] },
+    "ngnuggets-feat-donate": { "tags": [] }
   }
 }

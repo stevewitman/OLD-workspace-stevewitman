@@ -411,6 +411,131 @@
           }
         }
       }
+    },
+    "ngnuggets-feat-submit": {
+      "projectType": "library",
+      "root": "libs/ngnuggets/feat-submit",
+      "sourceRoot": "libs/ngnuggets/feat-submit/src",
+      "prefix": "ng",
+      "architect": {
+        "lint": {
+          "builder": "@nrwl/linter:eslint",
+          "options": {
+            "lintFilePatterns": [
+              "libs/ngnuggets/feat-submit/src/**/*.ts",
+              "libs/ngnuggets/feat-submit/src/**/*.html"
+            ]
+          }
+        },
+        "test": {
+          "builder": "@nrwl/jest:jest",
+          "outputs": ["coverage/libs/ngnuggets/feat-submit"],
+          "options": {
+            "jestConfig": "libs/ngnuggets/feat-submit/jest.config.js",
+            "passWithNoTests": true
+          }
+        }
+      }
+    },
+    "ngnuggets-feat-contact": {
+      "projectType": "library",
+      "root": "libs/ngnuggets/feat-contact",
+      "sourceRoot": "libs/ngnuggets/feat-contact/src",
+      "prefix": "ng",
+      "architect": {
+        "lint": {
+          "builder": "@nrwl/linter:eslint",
+          "options": {
+            "lintFilePatterns": [
+              "libs/ngnuggets/feat-contact/src/**/*.ts",
+              "libs/ngnuggets/feat-contact/src/**/*.html"
+            ]
+          }
+        },
+        "test": {
+          "builder": "@nrwl/jest:jest",
+          "outputs": ["coverage/libs/ngnuggets/feat-contact"],
+          "options": {
+            "jestConfig": "libs/ngnuggets/feat-contact/jest.config.js",
+            "passWithNoTests": true
+          }
+        }
+      }
+    },
+    "ngnuggets-feat-newsletter": {
+      "projectType": "library",
+      "root": "libs/ngnuggets/feat-newsletter",
+      "sourceRoot": "libs/ngnuggets/feat-newsletter/src",
+      "prefix": "ng",
+      "architect": {
+        "lint": {
+          "builder": "@nrwl/linter:eslint",
+          "options": {
+            "lintFilePatterns": [
+              "libs/ngnuggets/feat-newsletter/src/**/*.ts",
+              "libs/ngnuggets/feat-newsletter/src/**/*.html"
+            ]
+          }
+        },
+        "test": {
+          "builder": "@nrwl/jest:jest",
+          "outputs": ["coverage/libs/ngnuggets/feat-newsletter"],
+          "options": {
+            "jestConfig": "libs/ngnuggets/feat-newsletter/jest.config.js",
+            "passWithNoTests": true
+          }
+        }
+      }
+    },
+    "ngnuggets-feat-settings": {
+      "projectType": "library",
+      "root": "libs/ngnuggets/feat-settings",
+      "sourceRoot": "libs/ngnuggets/feat-settings/src",
+      "prefix": "ng",
+      "architect": {
+        "lint": {
+          "builder": "@nrwl/linter:eslint",
+          "options": {
+            "lintFilePatterns": [
+              "libs/ngnuggets/feat-settings/src/**/*.ts",
+              "libs/ngnuggets/feat-settings/src/**/*.html"
+            ]
+          }
+        },
+        "test": {
+          "builder": "@nrwl/jest:jest",
+          "outputs": ["coverage/libs/ngnuggets/feat-settings"],
+          "options": {
+            "jestConfig": "libs/ngnuggets/feat-settings/jest.config.js",
+            "passWithNoTests": true
+          }
+        }
+      }
+    },
+    "ngnuggets-feat-donate": {
+      "projectType": "library",
+      "root": "libs/ngnuggets/feat-donate",
+      "sourceRoot": "libs/ngnuggets/feat-donate/src",
+      "prefix": "ng",
+      "architect": {
+        "lint": {
+          "builder": "@nrwl/linter:eslint",
+          "options": {
+            "lintFilePatterns": [
+              "libs/ngnuggets/feat-donate/src/**/*.ts",
+              "libs/ngnuggets/feat-donate/src/**/*.html"
+            ]
+          }
+        },
+        "test": {
+          "builder": "@nrwl/jest:jest",
+          "outputs": ["coverage/libs/ngnuggets/feat-donate"],
+          "options": {
+            "jestConfig": "libs/ngnuggets/feat-donate/jest.config.js",
+            "passWithNoTests": true
+          }
+        }
+      }
     }
   }
 }

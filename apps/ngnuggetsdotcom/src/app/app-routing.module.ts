@@ -20,6 +20,41 @@ const routes: Routes = [
       ),
   },
   {
+    path: 'contact',
+    loadChildren: () =>
+      import('@nx-stevewitman/ngnuggets/feat-contact').then(
+        (m) => m.NgnuggetsFeatContactModule
+      ),
+  },
+  {
+    path: 'donate',
+    loadChildren: () =>
+      import('@nx-stevewitman/ngnuggets/feat-donate').then(
+        (m) => m.NgnuggetsFeatDonateModule
+      ),
+  },
+  {
+    path: 'newsletter',
+    loadChildren: () =>
+      import('@nx-stevewitman/ngnuggets/feat-newsletter').then(
+        (m) => m.NgnuggetsFeatNewsletterModule
+      ),
+  },
+  {
+    path: 'settings',
+    loadChildren: () =>
+      import('@nx-stevewitman/ngnuggets/feat-settings').then(
+        (m) => m.NgnuggetsFeatSettingsModule
+      ),
+  },
+  {
+    path: 'submit',
+    loadChildren: () =>
+      import('@nx-stevewitman/ngnuggets/feat-submit').then(
+        (m) => m.NgnuggetsFeatSubmitModule
+      ),
+  },
+  {
     path: '**',
     loadChildren: () =>
       import('@nx-stevewitman/shared/ui-page-not-found').then(

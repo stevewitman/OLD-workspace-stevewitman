@@ -30,6 +30,21 @@
       ],
       "@nx-stevewitman/ngnuggets/feat-about": [
         "libs/ngnuggets/feat-about/src/index.ts"
+      ],
+      "@nx-stevewitman/ngnuggets/feat-submit": [
+        "libs/ngnuggets/feat-submit/src/index.ts"
+      ],
+      "@nx-stevewitman/ngnuggets/feat-contact": [
+        "libs/ngnuggets/feat-contact/src/index.ts"
+      ],
+      "@nx-stevewitman/ngnuggets/feat-newsletter": [
+        "libs/ngnuggets/feat-newsletter/src/index.ts"
+      ],
+      "@nx-stevewitman/ngnuggets/feat-settings": [
+        "libs/ngnuggets/feat-settings/src/index.ts"
+      ],
+      "@nx-stevewitman/ngnuggets/feat-donate": [
+        "libs/ngnuggets/feat-donate/src/index.ts"
       ]
     }
   },

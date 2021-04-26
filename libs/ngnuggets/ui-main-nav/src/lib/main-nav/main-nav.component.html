@@ -35,12 +35,12 @@
 
     <hr>
 
-      <a mat-list-item (click)="drawer.close()"><mat-icon class="icon">note_add</mat-icon><span class="menu-item">Submit</span></a>
+      <a mat-list-item [routerLink]="['/submit']" (click)="isHandset && drawer.close()"><mat-icon class="icon">note_add</mat-icon><span class="menu-item">Submit</span></a>
       <a mat-list-item [routerLink]="['/about']" (click)="isHandset && drawer.close()"><mat-icon class="icon">info</mat-icon><span class="menu-item">About</span></a>
-      <a mat-list-item (click)="drawer.close()"><mat-icon class="icon">contact_page</mat-icon><span class="menu-item">Contact</span></a>
-      <a mat-list-item (click)="drawer.close()"><mat-icon class="icon">mail</mat-icon><span class="menu-item">Newsletter</span></a>
-      <a mat-list-item (click)="drawer.close()"><mat-icon class="icon">settings</mat-icon><span class="menu-item">Settings</span></a>
-      <a mat-list-item (click)="drawer.close()"><mat-icon class="icon">attach_money</mat-icon><span class="menu-item">Donate</span></a>
+      <a mat-list-item [routerLink]="['/contact']" (click)="isHandset && drawer.close()"><mat-icon class="icon">contact_page</mat-icon><span class="menu-item">Contact</span></a>
+      <a mat-list-item [routerLink]="['/newsletter']" (click)="isHandset && drawer.close()"><mat-icon class="icon">mail</mat-icon><span class="menu-item">Newsletter</span></a>
+      <a mat-list-item [routerLink]="['/settings']" (click)="isHandset && drawer.close()"><mat-icon class="icon">settings</mat-icon><span class="menu-item">Settings</span></a>
+      <a mat-list-item [routerLink]="['/donate']" (click)="isHandset && drawer.close()"><mat-icon class="icon">attach_money</mat-icon><span class="menu-item">Donate</span></a>
 
     <hr>
 
