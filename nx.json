@@ -24,6 +24,9 @@
       "tags": [],
       "implicitDependencies": ["ngnuggetsdotcom"]
     },
-    "ngnuggets-ui-main-nav": { "tags": [] }
+    "ngnuggets-ui-main-nav": { "tags": [] },
+    "ngnuggets-feat-home": { "tags": [] },
+    "shared-ui-page-not-found": { "tags": [] },
+    "ngnuggets-feat-about": { "tags": [] }
   }
 }

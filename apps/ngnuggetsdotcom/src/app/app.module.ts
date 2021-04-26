@@ -1,9 +1,10 @@
 import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
+// import { RouterModule } from '@angular/router';
 
+import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
-import { RouterModule } from '@angular/router';
 import { NgnuggetsUiMainNavModule } from '@nx-stevewitman/ngnuggets/ui-main-nav';
 
 @NgModule({
@@ -11,8 +12,9 @@ import { NgnuggetsUiMainNavModule } from '@nx-stevewitman/ngnuggets/ui-main-nav'
   imports: [
     BrowserModule,
     BrowserAnimationsModule,
-    RouterModule.forRoot([], { initialNavigation: 'enabled' }),
-    NgnuggetsUiMainNavModule
+    AppRoutingModule,
+    // RouterModule.forRoot([], { initialNavigation: 'enabled' }),
+    NgnuggetsUiMainNavModule,
   ],
   providers: [],
   bootstrap: [AppComponent],

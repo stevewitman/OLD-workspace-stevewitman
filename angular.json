@@ -336,6 +336,81 @@
           }
         }
       }
+    },
+    "ngnuggets-feat-home": {
+      "projectType": "library",
+      "root": "libs/ngnuggets/feat-home",
+      "sourceRoot": "libs/ngnuggets/feat-home/src",
+      "prefix": "ng",
+      "architect": {
+        "lint": {
+          "builder": "@nrwl/linter:eslint",
+          "options": {
+            "lintFilePatterns": [
+              "libs/ngnuggets/feat-home/src/**/*.ts",
+              "libs/ngnuggets/feat-home/src/**/*.html"
+            ]
+          }
+        },
+        "test": {
+          "builder": "@nrwl/jest:jest",
+          "outputs": ["coverage/libs/ngnuggets/feat-home"],
+          "options": {
+            "jestConfig": "libs/ngnuggets/feat-home/jest.config.js",
+            "passWithNoTests": true
+          }
+        }
+      }
+    },
+    "shared-ui-page-not-found": {
+      "projectType": "library",
+      "root": "libs/shared/ui-page-not-found",
+      "sourceRoot": "libs/shared/ui-page-not-found/src",
+      "prefix": "sh",
+      "architect": {
+        "lint": {
+          "builder": "@nrwl/linter:eslint",
+          "options": {
+            "lintFilePatterns": [
+              "libs/shared/ui-page-not-found/src/**/*.ts",
+              "libs/shared/ui-page-not-found/src/**/*.html"
+            ]
+          }
+        },
+        "test": {
+          "builder": "@nrwl/jest:jest",
+          "outputs": ["coverage/libs/shared/ui-page-not-found"],
+          "options": {
+            "jestConfig": "libs/shared/ui-page-not-found/jest.config.js",
+            "passWithNoTests": true
+          }
+        }
+      }
+    },
+    "ngnuggets-feat-about": {
+      "projectType": "library",
+      "root": "libs/ngnuggets/feat-about",
+      "sourceRoot": "libs/ngnuggets/feat-about/src",
+      "prefix": "ng",
+      "architect": {
+        "lint": {
+          "builder": "@nrwl/linter:eslint",
+          "options": {
+            "lintFilePatterns": [
+              "libs/ngnuggets/feat-about/src/**/*.ts",
+              "libs/ngnuggets/feat-about/src/**/*.html"
+            ]
+          }
+        },
+        "test": {
+          "builder": "@nrwl/jest:jest",
+          "outputs": ["coverage/libs/ngnuggets/feat-about"],
+          "options": {
+            "jestConfig": "libs/ngnuggets/feat-about/jest.config.js",
+            "passWithNoTests": true
+          }
+        }
+      }
     }
   }
 }
