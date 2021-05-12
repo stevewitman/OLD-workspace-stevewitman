@@ -7,13 +7,14 @@
 .sidenav {
   width: 240px;
 }
-.sidenav .mat-toolbar { 
+.sidenav .mat-toolbar {
   color: #141618;
   color: white;
   background: white;
   background: #252525;
 }
 .mat-sidenav {
+  margin-top: 56px;
   border: none;
   background: white;
 }
@@ -23,18 +24,21 @@
   z-index: 1;
 }
 .title-main-ng {
-  color: #FF6600;
+  color: #ff6600;
   padding-left: 16px;
   letter-spacing: 0px;
 }
 .title-main-nugs {
-  color: #FFFFFF;
+  color: #ffffff;
   padding-left: 1px;
   letter-spacing: 0px;
   font-family: 'Roboto Condensed', sans-serif;
 }
 .main-toolbar {
   background: #252525;
+  position: fixed;
+  z-index: 10;
+  color: gray;
 }
 .mat-icon-button ::ng-deep .mat-button-focus-overlay {
   display: none;
@@ -50,7 +54,7 @@
   color: #606060;
 }
 .icon-active {
-  color: #FF6600;
+  color: #ff6600;
 }
 .ng-site-logo {
   padding-left: 8px;
@@ -68,7 +72,7 @@
 }
 .am-site-logo {
   padding-left: 8px;
-  color: #FF6600;
+  color: #ff6600;
 }
 .am-site-angular {
   color: white;
@@ -76,14 +80,14 @@
 }
 .am-site-mentors {
   padding-left: 2px;
-  color: #FF6600;
+  color: #ff6600;
   font-family: 'Roboto Condensed', sans-serif;
 }
 .site-dotcom {
   padding-left: 2px;
   color: white;
   font-family: 'Roboto Condensed', sans-serif;
-  font-size: .6rem;
+  font-size: 0.6rem;
 }
 .site {
   background-color: #141618;
