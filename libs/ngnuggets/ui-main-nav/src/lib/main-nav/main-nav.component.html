@@ -24,7 +24,7 @@
       <a mat-list-item [routerLink]="['/home']" (click)="isHandset && drawer.close()"><mat-icon class="icon icon-active">home</mat-icon><span class="menu-item">Home</span></a>
       <a mat-list-item (click)="onClickFilters()"><mat-icon class="icon">filter_alt</mat-icon><span class="menu-item">Filter By</span><mat-icon class="menu-expand">expand_more</mat-icon></a>
  
-      <mat-nav-list class="sub-menu" *ngIf="showFilters" [@slideInOut]>
+      <mat-nav-list class="sub-menu" *ngIf="showFilters" @staggerList>
         <a mat-list-item><span class="menu-item">Topic</span></a>
         <a mat-list-item><span class="menu-item">Most Liked</span></a>
         <a mat-list-item><span class="menu-item">Only Videos</span></a>

@@ -6,6 +6,8 @@ import { map, shareReplay } from 'rxjs/operators';
 import {
   animate,
   group,
+  query,
+  stagger,
   state,
   style,
   transition,
@@ -20,27 +22,64 @@ import { Router } from '@angular/router';
   animations: [
     trigger('slideInOut', [
       state('in', style({ height: '*', opacity: 0 })),
+      transition(':enter', [
+        style({ height: '0', opacity: 0 }),
+        group([
+          animate(300, style({ height: '*' })),
+          animate('400ms ease-in-out', style({ opacity: '1' })),
+        ]),
+      ]),
       transition(':leave', [
         style({ height: '*', opacity: 1 }),
-
         group([
           animate(300, style({ height: 0 })),
           animate('200ms ease-in-out', style({ opacity: '0' })),
         ]),
       ]),
+    ]),
+    trigger('staggerList', [
       transition(':enter', [
-        style({ height: '0', opacity: 0 }),
-
+        style({ height: '0px' }),
         group([
-          animate(300, style({ height: '*' })),
-          animate('400ms ease-in-out', style({ opacity: '1' })),
+          animate('250ms ease-in-out', style({ height: '*', opacity: 1 })),
+          query('a', style({ opacity: 0 }), { optional: true }),
+          query(
+            'a',
+            stagger('40ms', [
+              animate(
+                '40ms ease-in-out',
+                style({
+                  opacity: 1,
+                })
+              ),
+            ]),
+            { optional: true }
+          ),
+        ]),
+      ]),
+      transition(':leave', [
+        style({ height: '*' }),
+        group([
+          animate('250ms ease-out', style({ height: '0px', opacity: 1 })),
+          query('a', style({ opacity: 1 }), { optional: true }),
+          query(
+            'a',
+            stagger('-40ms', [
+              animate(
+                '40ms ease-out',
+                style({
+                  opacity: 0,
+                })
+              ),
+            ]),
+            { optional: true }
+          ),
         ]),
       ]),
     ]),
   ],
 })
 export class MainNavComponent implements OnInit {
-
   isHandset$: Observable<boolean> = this.breakpointObserver
     .observe(Breakpoints.Handset)
     .pipe(
@@ -63,9 +102,7 @@ export class MainNavComponent implements OnInit {
     });
   }
 
- 
   onClickFilters() {
     this.showFilters = !this.showFilters;
   }
-
 }
