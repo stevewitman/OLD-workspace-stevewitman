@@ -13,7 +13,13 @@
   background: white;
   background: #252525;
 }
+.main-toolbar {
+  position: fixed;
+  z-index: 10;
+  color: gray;
+}
 .mat-sidenav {
+  margin-top: 56px;
   border: none;
   background: white;
 }
