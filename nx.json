@@ -32,6 +32,7 @@
     "ngnuggets-feat-contact": { "tags": [] },
     "ngnuggets-feat-newsletter": { "tags": [] },
     "ngnuggets-feat-settings": { "tags": [] },
-    "ngnuggets-feat-donate": { "tags": [] }
+    "ngnuggets-feat-donate": { "tags": [] },
+    "ngnuggets-feat-sponsors": { "tags": [] }
   }
 }

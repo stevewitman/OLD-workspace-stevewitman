@@ -106,6 +106,17 @@
         ><mat-icon class="icon">settings</mat-icon
         ><span class="menu-item">Settings</span></a
       >
+
+      <hr />
+
+      <a
+        mat-list-item
+        [routerLink]="['/sponsors']"
+        routerLinkActive="link-active"
+        (click)="isHandset && drawer.close()"
+        ><mat-icon class="icon">star</mat-icon
+        ><span class="menu-item">Sponsors</span></a
+      >
       <a
         mat-list-item
         [routerLink]="['/donate']"

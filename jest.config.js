@@ -13,5 +13,6 @@ module.exports = {
     '<rootDir>/libs/ngnuggets/feat-newsletter',
     '<rootDir>/libs/ngnuggets/feat-settings',
     '<rootDir>/libs/ngnuggets/feat-donate',
+    '<rootDir>/libs/ngnuggets/feat-sponsors',
   ],
 };

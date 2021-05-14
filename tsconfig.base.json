@@ -45,6 +45,9 @@
       ],
       "@nx-stevewitman/ngnuggets/feat-donate": [
         "libs/ngnuggets/feat-donate/src/index.ts"
+      ],
+      "@nx-stevewitman/ngnuggets/feat-sponsors": [
+        "libs/ngnuggets/feat-sponsors/src/index.ts"
       ]
     }
   },

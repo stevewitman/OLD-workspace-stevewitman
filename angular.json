@@ -513,6 +513,31 @@
         }
       }
     },
+    "ngnuggets-feat-sponsors": {
+      "projectType": "library",
+      "root": "libs/ngnuggets/feat-sponsors",
+      "sourceRoot": "libs/ngnuggets/feat-sponsors/src",
+      "prefix": "ng",
+      "architect": {
+        "lint": {
+          "builder": "@nrwl/linter:eslint",
+          "options": {
+            "lintFilePatterns": [
+              "libs/ngnuggets/feat-sponsors/src/**/*.ts",
+              "libs/ngnuggets/feat-sponsors/src/**/*.html"
+            ]
+          }
+        },
+        "test": {
+          "builder": "@nrwl/jest:jest",
+          "outputs": ["coverage/libs/ngnuggetsdotcom/feat-sponsors"],
+          "options": {
+            "jestConfig": "libs/ngnuggetsdotcom/feat-sponsors/jest.config.js",
+            "passWithNoTests": true
+          }
+        }
+      }
+    },
     "ngnuggets-feat-donate": {
       "projectType": "library",
       "root": "libs/ngnuggets/feat-donate",

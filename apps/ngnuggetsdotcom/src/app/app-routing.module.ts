@@ -72,6 +72,17 @@ const routes: Routes = [
     },
   },
   {
+    path: 'sponsors',
+    loadChildren: () =>
+      import('@nx-stevewitman/ngnuggets/feat-sponsors').then(
+        (m) => m.NgnuggetsFeatSponsorsModule
+      ),
+    data: {
+      title: 'NgNuggets - Sponsors',
+      position: 7,
+    },
+  },
+  {
     path: 'donate',
     loadChildren: () =>
       import('@nx-stevewitman/ngnuggets/feat-donate').then(
@@ -79,7 +90,7 @@ const routes: Routes = [
       ),
     data: {
       title: 'NgNuggets - Donate',
-      position: 7,
+      position: 8,
     },
   },
   {
@@ -90,7 +101,7 @@ const routes: Routes = [
       ),
     data: {
       title: 'NgNuggets - Page Not Found',
-      position: 8,
+      position: 9,
     },
   },
 ];
