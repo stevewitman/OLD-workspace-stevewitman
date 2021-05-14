@@ -80,6 +80,10 @@ hr {
 .page-container {
   padding: 76px 32px 10px 32px;
   min-height: 100vh;
+  position: relative; // used for route animation
+}
+.page-container > * {
+  display: block;
 }
 .page-container-handset {
   padding: 63px 10px 10px 10px;

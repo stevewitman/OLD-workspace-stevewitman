@@ -133,8 +133,9 @@
     <div
       class="page-container"
       [ngClass]="{ 'page-container-handset': isHandset }"
+      [@routeAnimations]="prepareRoute(outlet)"
     >
-      <router-outlet></router-outlet>
+      <router-outlet #outlet="outlet"></router-outlet>
     </div>
   </mat-sidenav-content>
 </mat-sidenav-container>

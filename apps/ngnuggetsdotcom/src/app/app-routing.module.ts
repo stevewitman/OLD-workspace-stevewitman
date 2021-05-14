@@ -1,5 +1,5 @@
 import { NgModule } from '@angular/core';
-import { RouterModule, Routes } from '@angular/router';
+import { PreloadAllModules, RouterModule, Routes } from '@angular/router';
 import { HomePageComponent } from '@nx-stevewitman/ngnuggets/feat-home';
 
 const routes: Routes = [
@@ -13,44 +13,7 @@ const routes: Routes = [
     component: HomePageComponent,
     data: {
       title: 'NgNuggets - Home',
-      depth: 1,
-      postition: 1,
-    },
-  },
-  {
-    path: 'submit',
-    loadChildren: () =>
-      import('@nx-stevewitman/ngnuggets/feat-submit').then(
-        (m) => m.NgnuggetsFeatSubmitModule
-      ),
-    data: {
-      title: 'NgNuggets - Submit',
-      depth: 1,
-      postition: 2,
-    },
-  },
-  {
-    path: 'about',
-    loadChildren: () =>
-      import('@nx-stevewitman/ngnuggets/feat-about').then(
-        (m) => m.NgnuggetsFeatAboutModule
-      ),
-    data: {
-      title: 'NgNuggets - About',
-      depth: 1,
-      postition: 3,
-    },
-  },
-  {
-    path: 'contact',
-    loadChildren: () =>
-      import('@nx-stevewitman/ngnuggets/feat-contact').then(
-        (m) => m.NgnuggetsFeatContactModule
-      ),
-    data: {
-      title: 'NgNuggets - Contact',
-      depth: 1,
-      postition: 4,
+      position: 1,
     },
   },
   {
@@ -61,8 +24,40 @@ const routes: Routes = [
       ),
     data: {
       title: 'NgNuggets - Newsletter',
-      depth: 1,
-      postition: 5,
+      position: 2,
+    },
+  },
+  {
+    path: 'submit',
+    loadChildren: () =>
+      import('@nx-stevewitman/ngnuggets/feat-submit').then(
+        (m) => m.NgnuggetsFeatSubmitModule
+      ),
+    data: {
+      title: 'NgNuggets - Submit',
+      position: 3,
+    },
+  },
+  {
+    path: 'about',
+    loadChildren: () =>
+      import('@nx-stevewitman/ngnuggets/feat-about').then(
+        (m) => m.NgnuggetsFeatAboutModule
+      ),
+    data: {
+      title: 'NgNuggets - About',
+      position: 4,
+    },
+  },
+  {
+    path: 'contact',
+    loadChildren: () =>
+      import('@nx-stevewitman/ngnuggets/feat-contact').then(
+        (m) => m.NgnuggetsFeatContactModule
+      ),
+    data: {
+      title: 'NgNuggets - Contact',
+      position: 5,
     },
   },
   {
@@ -73,8 +68,7 @@ const routes: Routes = [
       ),
     data: {
       title: 'NgNuggets - Settings',
-      depth: 1,
-      postition: 6,
+      position: 6,
     },
   },
   {
@@ -85,8 +79,7 @@ const routes: Routes = [
       ),
     data: {
       title: 'NgNuggets - Donate',
-      depth: 1,
-      postition: 7,
+      position: 7,
     },
   },
   {
@@ -97,8 +90,7 @@ const routes: Routes = [
       ),
     data: {
       title: 'NgNuggets - Page Not Found',
-      depth: 1,
-      position: 8
+      position: 8,
     },
   },
 ];
@@ -108,6 +100,7 @@ const routes: Routes = [
     RouterModule.forRoot(routes, {
       initialNavigation: 'enabled',
       scrollPositionRestoration: 'top', // only works WITHOUT height: 100% on body,html
+      preloadingStrategy: PreloadAllModules,
     }),
   ],
 

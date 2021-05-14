@@ -10,6 +10,7 @@ import { Observable } from 'rxjs';
 import { map, shareReplay } from 'rxjs/operators';
 import {
   animate,
+  animateChild,
   group,
   query,
   stagger,
@@ -18,7 +19,7 @@ import {
   transition,
   trigger,
 } from '@angular/animations';
-import { NavigationEnd, Router } from '@angular/router';
+import { NavigationEnd, Router, RouterOutlet } from '@angular/router';
 
 @Component({
   selector: 'ng-main-nav',
@@ -82,6 +83,12 @@ import { NavigationEnd, Router } from '@angular/router';
         ]),
       ]),
     ]),
+    trigger('routeAnimations', [
+      transition('* <=> *', [
+        style({ opacity: 0 }),
+        animate('400ms ease-in'),
+      ]),
+    ]),
   ],
 })
 export class MainNavComponent implements OnInit, AfterViewInit {
@@ -117,6 +124,12 @@ export class MainNavComponent implements OnInit, AfterViewInit {
   ngAfterViewInit() {
     //
     this.changeDetectorRef.detectChanges();
+  }
+
+  prepareRoute(outlet: RouterOutlet) {
+    return (
+      outlet && outlet.activatedRouteData && outlet.activatedRouteData.position
+    );
   }
 
   onClickFilters() {
