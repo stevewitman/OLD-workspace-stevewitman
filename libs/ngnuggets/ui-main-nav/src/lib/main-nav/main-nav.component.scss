@@ -4,7 +4,7 @@
   position: fixed;
   z-index: 10;
   background: #252525;
-  color: gray;
+  color: white;
   a {
     text-decoration: none;
   }
@@ -44,14 +44,18 @@ hr {
 }
 
 // ngNuggets Logo
+.ngnuggets-dark-svg {
+  padding-left: 10px;
+  padding-right: 2px;
+}
 .ngnuggets-dark-ng {
   color: #ff6600;
-  padding-left: 10px;
   letter-spacing: 0px;
 }
 .ngnuggets-dark-nugs {
   color: white;
   padding-left: 1px;
+  padding-right: 3px;
   letter-spacing: 0px;
   font-family: 'Roboto Condensed', sans-serif;
 }
