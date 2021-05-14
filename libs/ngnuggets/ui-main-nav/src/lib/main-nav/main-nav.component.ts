@@ -1,4 +1,9 @@
-import { Component, OnInit } from '@angular/core';
+import {
+  Component,
+  OnInit,
+  AfterViewInit,
+  ChangeDetectorRef,
+} from '@angular/core';
 import { BreakpointObserver, Breakpoints } from '@angular/cdk/layout';
 
 import { Observable } from 'rxjs';
@@ -13,7 +18,7 @@ import {
   transition,
   trigger,
 } from '@angular/animations';
-import { Router } from '@angular/router';
+import { NavigationEnd, Router } from '@angular/router';
 
 @Component({
   selector: 'ng-main-nav',
@@ -79,7 +84,7 @@ import { Router } from '@angular/router';
     ]),
   ],
 })
-export class MainNavComponent implements OnInit {
+export class MainNavComponent implements OnInit, AfterViewInit {
   isHandset$: Observable<boolean> = this.breakpointObserver
     .observe(Breakpoints.Handset)
     .pipe(
@@ -93,13 +98,25 @@ export class MainNavComponent implements OnInit {
 
   constructor(
     private breakpointObserver: BreakpointObserver,
-    private router: Router
-  ) {}
+    private router: Router,
+    private changeDetectorRef: ChangeDetectorRef
+  ) {
+    router.events.subscribe((e) => {
+      if (e instanceof NavigationEnd && location.pathname !== '/home') {
+        this.showFilters = false;
+      }
+    });
+  }
 
   ngOnInit() {
     this.isHandset$.subscribe((value) => {
       this.isHandset = value;
     });
+  }
+
+  ngAfterViewInit() {
+    //
+    this.changeDetectorRef.detectChanges();
   }
 
   onClickFilters() {

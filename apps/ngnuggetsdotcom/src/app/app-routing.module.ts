@@ -104,7 +104,12 @@ const routes: Routes = [
 ];
 
 @NgModule({
-  imports: [RouterModule.forRoot(routes, { initialNavigation: 'enabled' })],
+  imports: [
+    RouterModule.forRoot(routes, {
+      initialNavigation: 'enabled',
+      scrollPositionRestoration: 'top', // only works WITHOUT height: 100% on body,html
+    }),
+  ],
 
   exports: [RouterModule],
 })
