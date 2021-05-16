@@ -49,7 +49,7 @@
             "tsConfig": "apps/stevewitmandotcom/tsconfig.app.json",
             "aot": true,
             "assets": [
-              "apps/stevewitmandotcom/src/favicon.ico",
+              "apps/stevewitmandotcom/src/favicon.png",
               "apps/stevewitmandotcom/src/assets"
             ],
             "styles": [
@@ -212,7 +212,7 @@
             "tsConfig": "apps/ngnuggetsdotcom/tsconfig.app.json",
             "aot": true,
             "assets": [
-              "apps/ngnuggetsdotcom/src/favicon.ico",
+              "apps/ngnuggetsdotcom/src/favicon.png",
               "apps/ngnuggetsdotcom/src/assets"
             ],
             "styles": [
