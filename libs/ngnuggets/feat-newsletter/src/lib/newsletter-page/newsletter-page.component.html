@@ -1,17 +1,59 @@
-<div class="container">
-  <h1>ngNuggets Newsletter</h1>
+<div class="container" [ngClass]="{ 'container-handset': isHandset }">
+  <div class="content-upper">
+    <h1>Newsletter Sign-Up</h1>
+    <form [formGroup]="newsletterForm" class="example-form">
+      <mat-form-field appearance="fill">
+        <mat-label>Email Address or Twitter Handle</mat-label>
+        <input
+          type="text"
+          formControlName="deliveryAddress"
+          matInput
+          id="email"
+          autocomplete="on"
+          (change)="onChange($event.target.value)"
+        />
+      </mat-form-field>
+      <label class="radio-label">Deliver by:</label>
+      <mat-radio-group class="radio-group" formControlName="deliveryMethod">
+        <!-- [checked]="i === 0" checks first option as default -->
+        <mat-radio-button
+          *ngFor="let option of deliveryMethod; let i = index"
+          class="radio-button"
+          [checked]="i === 0"
+          [value]="option"
+        >
+          {{ option }}
+        </mat-radio-button>
+      </mat-radio-group>
 
-  <button mat-raised-button color="basic" class="ng-button">
-    View Latest Newsletter (May 29, 2021)
-  </button>
-  <br />
-  <br />
-  <br />
+      <label class="radio-label">Frequency:</label>
+      <mat-radio-group class="radio-group" formControlName="deliveryFrequency">
+        <!-- [checked]="i === 0" checks first option as default -->
+        <mat-radio-button
+          *ngFor="let option of deliveryFrequency; let i = index"
+          class="radio-button"
+          [checked]="i === 0"
+          [value]="option"
+        >
+          {{ option }}
+        </mat-radio-button>
+      </mat-radio-group>
+      <!-- <div class="preview-hidden" *ngIf="!newsletterForm.valid"></div> -->
+      <div class="preview" *ngIf="newsletterForm.valid" @fadeIn>
+        You are requesting the ngNewsletter to be sent {{ newsletterForm.value.deliveryFrequency | lowercase }} to your
+        {{ formattedDeliveryAddress }} {{ deliveryType }}
+      </div>
+      <div class="actions-container">
+          <button mat-raised-button class="btn-subscribe" (click)="onSubmit()">
+          Sign Me Up
+        </button>
+      </div>
+    </form>
+  </div>
 
-  <h2>Signup</h2>
-  <h3>Choose frequency (default - weekly)</h3>
-
-  <button mat-raised-button color="primary">
-    View Latest Newsletter (May 29, 2021)
-  </button>
+  <div class="content-lower">
+    <button mat-raised-button color="basic" class="btn-view-newsletter">
+      View Latest Newsletter (May 29)
+    </button>
+  </div>
 </div>

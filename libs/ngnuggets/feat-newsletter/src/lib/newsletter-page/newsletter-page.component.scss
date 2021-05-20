@@ -1,15 +1,67 @@
-.heading {
-  position: relative;
+.container {
+  // padding: 76px 32px 10px 32px;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  min-height: calc(100vh - 100px);
+}
+.container-handset {
+  
 }
 
-.ngnuggets-logo-light {
-  position: relative;
-  height: 39px;
-  top: 7px;
-  display: inline;
+mat-form-field {
+  width: 100%;
+  max-width: 560px;
+  display: block;
 }
-.ng-button {
+.radio-label {
+  padding-left: 10px;
+  font-size: 0.75rem;
+  color: #666;
+}
+.radio-group {
+  display: flex;
+  flex-direction: column;
+  margin: 5px 0 20px 25px;
+}
+.radio-button {
+  margin: 5px;
+  width: 160px;
+}
+.preview-hidden {
+  height: 78px;
+  margin-bottom: 12px;
+}
+.preview {
+  background-color: #e7f1fe;
+  padding: 20px;
+  margin-bottom: 12px;
+  max-width: 560px;
+  border-radius: 4px;
+}
+.actions-container {
+  max-width: 560px;
+  display: flex;
+  justify-content: flex-end;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+}
+.btn-unsubscribe {
+  width: calc(50% - 5px);
   font-size: 1.2rem;
-  color: #FF6600;
-  bottom: 3px;
+  padding: 11px;
+}
+.btn-subscribe {
+  background-color: #ff6600;
+  color: white;
+  width: 100%;
+  font-size: 1.2rem;
+  padding: 11px;
+}
+.btn-view-newsletter {
+  width: 100%;
+  max-width: 560px;
+  font-size: 1.2rem;
+  padding: 11px;
+  margin-top: 24px;
 }

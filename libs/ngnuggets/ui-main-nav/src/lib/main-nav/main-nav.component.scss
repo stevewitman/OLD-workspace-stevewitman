@@ -101,8 +101,8 @@ hr {
 
 // Page Styles
 .page-container {
-  padding: 76px 32px 10px 32px;
-  min-height: 100vh;
+  padding: 76px 26px 16px 26px;
+  // min-height: 100vh;
   position: relative; // used for route animation
 }
 .page-container > * {
