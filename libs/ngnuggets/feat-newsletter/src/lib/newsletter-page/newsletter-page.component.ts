@@ -31,13 +31,17 @@ export class NewsletterPageComponent implements OnInit {
 
   ngOnInit() {
     this.initializeForm();
+
+    this.newsletterForm.valueChanges.subscribe(console.log);
   }
 
   initializeForm(): void {
     this.newsletterForm = this.fb.group({
-      deliveryAddress: ['', Validators.required],
+      deliveryAddress: ['', [
+        Validators.required
+      ]],
       deliveryMethod: ['email'],
-      deliveryFrequency: [],
+      deliveryFrequency: ['weekly'],
     });
   }
 
@@ -65,7 +69,9 @@ export class NewsletterPageComponent implements OnInit {
     console.log('INPUT:', input);
 
     if (reEmail.test(input)) {
+      this.newsletterForm.controls[ 'deliveryMethod' ].setValue( 'email' );
       console.log('input is', 'email');
+      this.formattedDeliveryAddress = input;
       return;
     } else if (input.match(reTwitterUrl)) {
       let result = input.substring(input.lastIndexOf('/') + 1);
@@ -73,11 +79,16 @@ export class NewsletterPageComponent implements OnInit {
         result = '@' + result;
       }
       this.validTwitterHandle = result;
-
+      this.newsletterForm.controls['deliveryMethod'].setValue('twitter DM');
+      console.log(
+        'deliv meth:',
+        this.newsletterForm.controls['deliveryMethod']
+      );
       console.log('input is', 'twitter-url', this.validTwitterHandle);
       return;
     } else if (input.match(reTwitterHandle)) {
       this.validTwitterHandle = input;
+      this.newsletterForm.controls['deliveryMethod'].setValue('twitter DM');
       console.log('input is', 'twitter-handle', this.validTwitterHandle);
       return;
     } else {
@@ -86,4 +97,3 @@ export class NewsletterPageComponent implements OnInit {
     }
   }
 }
-// htp://twitter.com/stevewitman

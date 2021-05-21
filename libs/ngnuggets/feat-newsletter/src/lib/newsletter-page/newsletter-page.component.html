@@ -3,7 +3,7 @@
     <h1>Newsletter Sign-Up</h1>
     <form [formGroup]="newsletterForm" class="example-form">
       <mat-form-field appearance="fill">
-        <mat-label>Email Address or Twitter Handle</mat-label>
+        <mat-label>Email Address, Twitter Handle, or Twitter URL</mat-label>
         <input
           type="text"
           formControlName="deliveryAddress"
@@ -22,7 +22,7 @@
           [checked]="i === 0"
           [value]="option"
         >
-          {{ option }}
+          {{ option | titlecase}}
         </mat-radio-button>
       </mat-radio-group>
 
@@ -40,14 +40,15 @@
       </mat-radio-group>
       <!-- <div class="preview-hidden" *ngIf="!newsletterForm.valid"></div> -->
       <div class="preview" *ngIf="newsletterForm.valid" @fadeIn>
-        You are requesting the ngNewsletter to be sent {{ newsletterForm.value.deliveryFrequency | lowercase }} to your
-        {{ formattedDeliveryAddress }} {{ deliveryType }}
+        You are requesting your {{ newsletterForm.value.deliveryFrequency | lowercase }} ngNewsletter to be sent by {{ newsletterForm.value.deliveryMethod }} to {{ formattedDeliveryAddress }}
       </div>
       <div class="actions-container">
           <button mat-raised-button class="btn-subscribe" (click)="onSubmit()">
           Sign Me Up
         </button>
       </div>
+
+      {{ newsletterForm.value | json}}
     </form>
   </div>
 
