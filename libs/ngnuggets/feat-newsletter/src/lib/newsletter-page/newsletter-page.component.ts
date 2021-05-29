@@ -1,7 +1,15 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, ElementRef, OnInit, ViewChild } from '@angular/core';
 import { FormGroup, FormBuilder, Validators } from '@angular/forms';
 import { animate, style, transition, trigger } from '@angular/animations';
-import { Subject } from 'rxjs';
+import { Observable } from 'rxjs';
+
+import { MatDialog } from '@angular/material/dialog';
+import {
+  isValidEmail,
+  isValidTwitterHandle,
+  isValidTwitterUrl,
+  emailOrTwitterRequired,
+} from '../helpers/helpers';
 
 @Component({
   selector: 'ng-newsletter-page',
@@ -17,83 +25,124 @@ import { Subject } from 'rxjs';
   ],
 })
 export class NewsletterPageComponent implements OnInit {
+  @ViewChild('delivery') deliveryAddress: ElementRef;
+
   deliveryFrequency: string[] = ['Weekly', 'Bi-Weekly', 'Monthly', 'Quarterly'];
   deliveryMethod: string[] = ['Email', 'Twitter DM'];
   newsletterForm: FormGroup;
-  isFormValid = false;
-  formattedDeliveryAddress = '(formatted address)';
   isHandset = true;
-  inputChange = new Subject();
-  validEmailAddress = '';
-  validTwitterHandle = '';
+  showFormErrors = false;
+  deliveryAddress$: Observable<string>;
+  deliveryMethod$: Observable<string>;
+  twitterHandle = '';
 
-  constructor(private fb: FormBuilder) {}
+  constructor(private fb: FormBuilder, public dialog: MatDialog) {}
 
   ngOnInit() {
     this.initializeForm();
-
-    this.newsletterForm.valueChanges.subscribe(console.log);
+    this.updateMethodOnAddress();
   }
 
   initializeForm(): void {
-    this.newsletterForm = this.fb.group({
-      deliveryAddress: ['', [
-        Validators.required
-      ]],
-      deliveryMethod: ['email'],
-      deliveryFrequency: ['weekly'],
-    });
+    this.newsletterForm = this.fb.group(
+      {
+        deliveryAddress: ['', { validators: [Validators.required] }],
+        deliveryMethod: ['Email'],
+        deliveryFrequency: ['Weekly'],
+      },
+      { validators: emailOrTwitterRequired }
+    );
   }
 
-  autoEmailSelected(evt) {
-    console.log('autoEmailSelected', evt);
+  get address() {
+    return this.newsletterForm.get('deliveryAddress');
   }
 
-  onSubmit(): void {
-    console.log(this.newsletterForm);
-    this.isFormValid = true;
+  get method() {
+    return this.newsletterForm.get('deliveryMethod');
   }
 
-  onChange(e) {
-    console.log('e', e);
-    this.validateEmailOrTwitter(e);
-    this.inputChange.next(e);
+  get frequency() {
+    return this.newsletterForm.get('deliveryFrequency');
   }
 
-  validateEmailOrTwitter(input) {
+  isValidEmail() {
     const reEmail = new RegExp(/^[^\s@]+@[^\s@]+\.[^\s@]+$/);
+    const result = reEmail.test(this.address.value) ? true : false;
+    return result;
+  }
+
+  isValidTwitterHandle() {
+    const reTwitterHandle = new RegExp(/^@(\w){4,16}$/);
+    const result = reTwitterHandle.test(this.address.value) ? true : false;
+    return result;
+  }
+
+  isValidTwitterUrl() {
     const reTwitterUrl = new RegExp(
       /^((?:http:\/\/)?|(?:https:\/\/)?)?(?:www\.)?twitter\.com\/(\w+)$/i
     );
-    const reTwitterHandle = new RegExp(/^@?(\w+)$/);
-    console.log('INPUT:', input);
+    const result = reTwitterUrl.test(this.address.value) ? true : false;
+    return result;
+  }
 
-    if (reEmail.test(input)) {
-      this.newsletterForm.controls[ 'deliveryMethod' ].setValue( 'email' );
-      console.log('input is', 'email');
-      this.formattedDeliveryAddress = input;
-      return;
-    } else if (input.match(reTwitterUrl)) {
-      let result = input.substring(input.lastIndexOf('/') + 1);
-      if (result[0] !== '@') {
-        result = '@' + result;
+  updateMethodOnAddress(): void {
+    this.newsletterForm.get('deliveryAddress').valueChanges.subscribe((val) => {
+      if (isValidTwitterUrl(val) || isValidTwitterHandle(val)) {
+        this.newsletterForm.patchValue({
+          deliveryMethod: 'Twitter DM',
+        });
       }
-      this.validTwitterHandle = result;
-      this.newsletterForm.controls['deliveryMethod'].setValue('twitter DM');
-      console.log(
-        'deliv meth:',
-        this.newsletterForm.controls['deliveryMethod']
-      );
-      console.log('input is', 'twitter-url', this.validTwitterHandle);
+      if (isValidEmail(val)) {
+        this.newsletterForm.patchValue({
+          deliveryMethod: 'Email',
+        });
+      }
+    });
+  }
+
+  deliveryAddressMatchesMethod(): boolean {
+    const address = this.address.value;
+    const method = this.method.value;
+    const result =
+      (method === 'Email' && isValidEmail(address)) ||
+      (method === 'Twitter DM' &&
+        (isValidTwitterUrl(address) || isValidTwitterHandle(address)));
+    return result;
+  }
+
+  onSubmit() {
+    if (this.newsletterForm.invalid) {
+      this.showFormErrors = true;
       return;
-    } else if (input.match(reTwitterHandle)) {
-      this.validTwitterHandle = input;
-      this.newsletterForm.controls['deliveryMethod'].setValue('twitter DM');
-      console.log('input is', 'twitter-handle', this.validTwitterHandle);
-      return;
-    } else {
-      console.log('input is', 'no valid email or twitter');
-      return;
+    }
+    const newsletterRequest = {
+      method: '',
+      address: '',
+      frequency: this.frequency.value.toLowerCase(),
+    };
+    if (this.method.value === 'Email') {
+      newsletterRequest.method = 'email';
+      newsletterRequest.address = this.address.value.toLowerCase();
+    } else if (this.method.value === 'Twitter DM' && this.isValidTwitterHandle()) {
+      newsletterRequest.method = 'twitter';
+      newsletterRequest.address = this.address.value;
+    } else if (this.method.value === 'Twitter DM' && this.isValidTwitterUrl()) {
+      newsletterRequest.method = 'twitter';      
+      newsletterRequest.address = '@' + this.address.value.split('/').pop();
+    }
+    alert(
+      'Send ' +
+        newsletterRequest.frequency +
+        ' ngNewsletter by ' +
+        newsletterRequest.method + ' to ' +
+        newsletterRequest.address
+    );
+  }
+
+  isOptionSelected(i, control) {
+    if (i === control.value) {
+      return { 'radio-button-selected': true };
     }
   }
 }

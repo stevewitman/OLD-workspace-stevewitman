@@ -1,12 +1,110 @@
-html, body {
-  margin: 0;
-  font-family: Roboto, "Helvetica Neue", sans-serif;
-}
+:root {
+  --color-orange500: #FF6600;
+  --color-orange100: #FF660010;
 
-*, *:before, *:after {
+  --color-turquoise100: #3EC1D317;
+  --color-turquoise500: #3EC1D3;
+  --color-turquoise700: #2e919e;
+}
+html,
+body {
+  margin: 0;
+  font-family: Roboto, 'Helvetica Neue', sans-serif;
+}
+*,
+*:before,
+*:after {
   box-sizing: border-box;
 }
-
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   margin-top: 0;
+}
+h1 {
+  letter-spacing: 1px;
+}
+input:-webkit-autofill,
+input:-webkit-autofill:hover,
+input:-webkit-autofill:focus,
+input:-webkit-autofill:active {
+  transition: background-color 5000s ease-in-out 0s;
+}
+
+// PAGE STYLES
+.page-title {
+  padding: 10px 10px 0 10px;
+}
+.page-container-narrow {
+  max-width: 560px;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  min-height: calc(100vh - 100px);
+  // margin: 0 auto;
+}
+.page-container-wide {
+  max-width: 1340px;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  min-height: calc(100vh - 100px);
+  margin: 0 auto;
+}
+
+// FORM STYLES
+mat-form-field {
+  width: 100%;
+  max-width: 560px;
+  display: block;
+}
+.mat-radio-button.mat-accent.mat-radio-checked .mat-radio-outer-circle {
+  border-color: var(--color-turquoise700);
+}
+.mat-radio-button.mat-accent .mat-radio-inner-circle {
+  color: var(--color-turquoise700);
+  background-color: var(--color-turquoise700);
+}
+.mat-radio-button.mat-accent .mat-radio-ripple .mat-ripple-element {
+  opacity: 0 !important;;
+  background-color: var(--color-turquoise700);
+}
+.form-field {
+  margin-bottom: 24px;
+}
+.mat-form-field-label {
+  color: #333 !important;
+  font-weight: bold !important;
+} 
+// mat input placeholder color when focused
+.mat-focused .mat-form-field-label {
+  color: #333 !important;
+} 
+.radio-group-label {
+  padding: 0 0 6px 10px;
+  font-weight: bold;
+  color: #333;
+}
+.radio-group {
+  display: flex;
+  flex-direction: column;
+}
+.radio-button {
+  max-width: calc(100%);
+  padding: 5px 5px 5px 15px;
+}
+.radio-button-selected {
+  color: #2e919e;
+  font-weight: bolder;
+  background-color: var(--color-turquoise100);
+  border-radius: 4px;
+}
+.mat-radio-label-content {
+  margin-left: 5px;
+}
+.question {
+  padding-left: 0.1em;
 }

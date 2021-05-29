@@ -1,4 +1,8 @@
 // Toolbar Styles
+
+mat-toolbar {
+  padding-left: 12px;
+}
 .main-toolbar {
   height: 56px;
   position: fixed;
@@ -24,13 +28,15 @@
   padding-left: 12px;
 }
 .icon {
-  padding-left: 8px;
+  padding-left: 2px;
+  padding-right: 6px;
+
   color: #606060;
 }
 .link-active {
-  color: #ff6600;
+  color: var(--color-orange500);
   .mat-icon {
-    color: #ff6600;
+    color: var(--color-orange500);
   }
 }
 .sub-menu {
@@ -60,7 +66,7 @@ hr {
   position: absolute;
   top: 8px;
   font-size: 22px;
-  color: #ff6600;
+  color: var(--color-orange500);
   letter-spacing: 0px;
 }
 .ngnuggets-dark-nugs {
@@ -82,14 +88,14 @@ hr {
 }
 .angularmentors-light-icon {
   padding-left: 8px;
-  color: #ff6600;
+  color: var(--color-orange500);
 }
 .angularmentors-light-angular {
   font-family: 'Roboto Condensed', sans-serif;
 }
 .angularmentors-light-mentors {
   padding-left: 2px;
-  color: #ff6600;
+  color: var(--color-orange500);
   font-family: 'Roboto Condensed', sans-serif;
 }
 .angularmentors-light-dotcom {
@@ -101,7 +107,7 @@ hr {
 
 // Page Styles
 .page-container {
-  padding: 76px 26px 16px 26px;
+  padding: 76px 50px 16px 50px;
   // min-height: 100vh;
   position: relative; // used for route animation
 }

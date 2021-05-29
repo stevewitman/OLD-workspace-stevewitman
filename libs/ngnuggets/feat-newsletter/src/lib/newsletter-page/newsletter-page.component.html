@@ -1,60 +1,116 @@
-<div class="container" [ngClass]="{ 'container-handset': isHandset }">
-  <div class="content-upper">
-    <h1>Newsletter Sign-Up</h1>
+<div class="page-container-narrow">
+  <div>
+    <h1 class="page-title">Newsletter Sign-Up</h1>
     <form [formGroup]="newsletterForm" class="example-form">
-      <mat-form-field appearance="fill">
-        <mat-label>Email Address, Twitter Handle, or Twitter URL</mat-label>
-        <input
-          type="text"
-          formControlName="deliveryAddress"
-          matInput
-          id="email"
-          autocomplete="on"
-          (change)="onChange($event.target.value)"
-        />
-      </mat-form-field>
-      <label class="radio-label">Deliver by:</label>
-      <mat-radio-group class="radio-group" formControlName="deliveryMethod">
-        <!-- [checked]="i === 0" checks first option as default -->
-        <mat-radio-button
-          *ngFor="let option of deliveryMethod; let i = index"
-          class="radio-button"
-          [checked]="i === 0"
-          [value]="option"
+      <div class="form-field">
+        <mat-form-field appearance="fill" color="primary">
+          <mat-label>Email Address, Twitter Handle, or Twitter URL</mat-label>
+          <input
+            type="text"
+            class="input-text"
+            formControlName="deliveryAddress"
+            matInput
+            id="delivery"
+            #delivery
+            autocomplete="off"
+          />
+        </mat-form-field>
+        <mat-error
+          *ngIf="
+            showFormErrors &&
+            (address.invalid ||
+              (!isValidEmail() &&
+                !isValidTwitterHandle() &&
+                !isValidTwitterUrl()))
+          "
+          @fadeIn
+          >
+            <mat-icon class="error-icon">report</mat-icon>
+          <span class="error-text">Valid Email Address OR Twitter Handle/URL required</span>
+        </mat-error
         >
-          {{ option | titlecase}}
-        </mat-radio-button>
-      </mat-radio-group>
-
-      <label class="radio-label">Frequency:</label>
-      <mat-radio-group class="radio-group" formControlName="deliveryFrequency">
-        <!-- [checked]="i === 0" checks first option as default -->
-        <mat-radio-button
-          *ngFor="let option of deliveryFrequency; let i = index"
-          class="radio-button"
-          [checked]="i === 0"
-          [value]="option"
-        >
-          {{ option }}
-        </mat-radio-button>
-      </mat-radio-group>
-      <!-- <div class="preview-hidden" *ngIf="!newsletterForm.valid"></div> -->
-      <div class="preview" *ngIf="newsletterForm.valid" @fadeIn>
-        You are requesting your {{ newsletterForm.value.deliveryFrequency | lowercase }} ngNewsletter to be sent by {{ newsletterForm.value.deliveryMethod }} to {{ formattedDeliveryAddress }}
       </div>
+      <div class="form-field">
+        <div class="radio-group-label">
+          Delivery Method<span class="question">?</span>
+        </div>
+        <mat-radio-group class="radio-group" formControlName="deliveryMethod">
+          <mat-radio-button
+            *ngFor="let option of deliveryMethod; let i = index"
+            class="radio-button"
+            [ngClass]="
+              isOptionSelected(
+                deliveryMethod[i],
+                newsletterForm.controls.deliveryMethod
+              )
+            "
+            [checked]="i === 0"
+            [value]="option"
+          >
+            {{ option }}
+          </mat-radio-button>
+        </mat-radio-group>
+        <mat-error
+          *ngIf="showFormErrors && (method.value === 'Email') && isValidTwitterHandle()"
+          @fadeIn
+          ><mat-icon class="error-icon">report</mat-icon><span class="error-text"
+            ><b>Email</b> selected here but a <b>Twitter Handle</b> was provided above</span
+          ></mat-error
+        >
+        <mat-error
+          *ngIf="showFormErrors && (method.value === 'Email') && isValidTwitterUrl()"
+          @fadeIn
+          ><mat-icon class="error-icon">report</mat-icon><span class="error-text"
+            ><b>Email</b> selected here but a <b>Twitter URL</b> was provided above</span
+          ></mat-error
+        >
+        <mat-error
+          *ngIf="showFormErrors && (method.value === 'Twitter DM') && isValidEmail()"
+          @fadeIn
+          ><mat-icon class="error-icon">report</mat-icon><span class="error-text"
+            ><b>Twitter DM</b> selected here but an <b>Email Address</b> was provided above</span
+          ></mat-error
+        >
+      </div>
+
+      <div class="form-field">
+        <div class="radio-group-label">
+          Frequency<span class="question">?</span>
+        </div>
+        <mat-radio-group
+          class="radio-group"
+          formControlName="deliveryFrequency"
+        >
+          <mat-radio-button
+            *ngFor="let option of deliveryFrequency; let i = index"
+            class="radio-button"
+            [ngClass]="
+              isOptionSelected(
+                deliveryFrequency[i],
+                newsletterForm.controls.deliveryFrequency
+              )
+            "
+            [checked]="i === 0"
+            [value]="option"
+          >
+            {{ option }}
+          </mat-radio-button>
+        </mat-radio-group>
+      </div>
+
       <div class="actions-container">
-          <button mat-raised-button class="btn-subscribe" (click)="onSubmit()">
+        <button
+          mat-raised-button
+          class="btn-submit"
+          (click)="onSubmit()"
+          [disabled]="showFormErrors && newsletterForm.invalid"
+        >
           Sign Me Up
         </button>
       </div>
-
-      {{ newsletterForm.value | json}}
     </form>
   </div>
-
-  <div class="content-lower">
-    <button mat-raised-button color="basic" class="btn-view-newsletter">
-      View Latest Newsletter (May 29)
-    </button>
-  </div>
+  <button mat-button color="basic" class="btn-view-newsletter">
+    View Latest Newsletter (May 29)
+  </button>
 </div>
