@@ -1,9 +1,7 @@
-import { Component, ElementRef, OnInit, ViewChild } from '@angular/core';
+import { Component, OnInit } from '@angular/core';
 import { FormGroup, FormBuilder, Validators } from '@angular/forms';
 import { animate, style, transition, trigger } from '@angular/animations';
-import { Observable } from 'rxjs';
 
-import { MatDialog } from '@angular/material/dialog';
 import {
   isValidEmail,
   isValidTwitterHandle,
@@ -25,18 +23,15 @@ import {
   ],
 })
 export class NewsletterPageComponent implements OnInit {
-  @ViewChild('delivery') deliveryAddress: ElementRef;
 
   deliveryFrequency: string[] = ['Weekly', 'Bi-Weekly', 'Monthly', 'Quarterly'];
   deliveryMethod: string[] = ['Email', 'Twitter DM'];
   newsletterForm: FormGroup;
   isHandset = true;
   showFormErrors = false;
-  deliveryAddress$: Observable<string>;
-  deliveryMethod$: Observable<string>;
   twitterHandle = '';
 
-  constructor(private fb: FormBuilder, public dialog: MatDialog) {}
+  constructor(private fb: FormBuilder) {}
 
   ngOnInit() {
     this.initializeForm();
@@ -101,16 +96,6 @@ export class NewsletterPageComponent implements OnInit {
     });
   }
 
-  deliveryAddressMatchesMethod(): boolean {
-    const address = this.address.value;
-    const method = this.method.value;
-    const result =
-      (method === 'Email' && isValidEmail(address)) ||
-      (method === 'Twitter DM' &&
-        (isValidTwitterUrl(address) || isValidTwitterHandle(address)));
-    return result;
-  }
-
   onSubmit() {
     if (this.newsletterForm.invalid) {
       this.showFormErrors = true;
@@ -123,7 +108,7 @@ export class NewsletterPageComponent implements OnInit {
     };
     if (this.method.value === 'Email') {
       newsletterRequest.method = 'email';
-      newsletterRequest.address = this.address.value.toLowerCase();
+      newsletterRequest.address = this.address.value.toLowerCase().trim();
     } else if (this.method.value === 'Twitter DM' && this.isValidTwitterHandle()) {
       newsletterRequest.method = 'twitter';
       newsletterRequest.address = this.address.value;
@@ -131,13 +116,8 @@ export class NewsletterPageComponent implements OnInit {
       newsletterRequest.method = 'twitter';      
       newsletterRequest.address = '@' + this.address.value.split('/').pop();
     }
-    alert(
-      'Send ' +
-        newsletterRequest.frequency +
-        ' ngNewsletter by ' +
-        newsletterRequest.method + ' to ' +
-        newsletterRequest.address
-    );
+    console.log(newsletterRequest);
+    
   }
 
   isOptionSelected(i, control) {

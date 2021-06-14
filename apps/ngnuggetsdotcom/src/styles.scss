@@ -1,6 +1,7 @@
 :root {
-  --color-orange500: #FF6600;
   --color-orange100: #FF660010;
+  --color-orange500: #FF6600;
+  --color-orange500: #ce5200;
 
   --color-turquoise100: #3EC1D317;
   --color-turquoise500: #3EC1D3;
@@ -8,6 +9,7 @@
 }
 html,
 body {
+  padding: 0;
   margin: 0;
   font-family: Roboto, 'Helvetica Neue', sans-serif;
 }
@@ -52,7 +54,7 @@ input:-webkit-autofill:active {
   justify-content: space-between;
   flex-direction: column;
   min-height: calc(100vh - 100px);
-  margin: 0 auto;
+  // margin: 0 auto;
 }
 
 // FORM STYLES
@@ -97,7 +99,7 @@ mat-form-field {
   padding: 5px 5px 5px 15px;
 }
 .radio-button-selected {
-  color: #2e919e;
+  color: var(--color-turquoise700);
   font-weight: bolder;
   background-color: var(--color-turquoise100);
   border-radius: 4px;

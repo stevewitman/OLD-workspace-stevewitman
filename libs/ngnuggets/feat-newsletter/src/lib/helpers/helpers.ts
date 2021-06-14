@@ -2,7 +2,7 @@ import { FormGroup } from "@angular/forms";
 
 export function isValidEmail(deliveryAddress) {
   const reEmail = new RegExp(/^[^\s@]+@[^\s@]+\.[^\s@]+$/);
-  return reEmail.test(deliveryAddress) ? true : false;
+  return reEmail.test(deliveryAddress.trim() ) ? true : false;
 }
 
 export function isValidTwitterHandle(deliveryAddress) {
