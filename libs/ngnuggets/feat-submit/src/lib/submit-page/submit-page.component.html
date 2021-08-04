@@ -1,3 +1,66 @@
 <div class="page-container-narrow">
-  <h1 class="page-title">Submit Articles For Review</h1>
+  <div>
+    <h1 class="page-title">Submit Article/Video</h1>
+    <form [formGroup]="submitForm">
+      <div class="form-field">
+        <mat-form-field appearance="fill" color="primary">
+          <mat-label>URL of Article or Video URL</mat-label>
+          <input
+            type="text"
+            class="input-text"
+            formControlName="articleUrl"
+            matInput
+            id="submit"
+            #submit
+            autocomplete="off"
+          />
+        </mat-form-field>
+        <mat-error
+          *ngIf="
+            showFormErrors
+          "
+          @fadeIn
+          >
+            <mat-icon class="error-icon">report</mat-icon>
+          <span class="error-text">URL does not look right</span>
+        </mat-error
+        >
+      </div>
+  <mat-expansion-panel (opened)="panelOpenState = true"
+                       (closed)="panelOpenState = false">
+    <mat-expansion-panel-header>
+      <mat-panel-title>
+        More fields (Optional - must be signed in)
+      </mat-panel-title>
+      <!-- <mat-panel-description>
+        Currently I am {{panelOpenState ? 'open' : 'closed'}}
+      </mat-panel-description> -->
+    </mat-expansion-panel-header>
+    <p>I'm visible because I am open</p>
+  </mat-expansion-panel>
+      
+  <br/>
+
+      <div class="actions-container">
+        <button
+          mat-raised-button
+          class="btn-submit"
+          (click)="onSubmit()"
+          [disabled]="showFormErrors && submitForm.invalid"
+        >
+          Submit
+        </button>
+      </div>
+
+      
+      
+
+      <div class="form-field">
+        <mat-checkbox formControlName="showSubmitter" class="checkbox">Show that you sumitted this</mat-checkbox>
+      </div>
+
+
+    </form>
+  </div>
+
 </div>

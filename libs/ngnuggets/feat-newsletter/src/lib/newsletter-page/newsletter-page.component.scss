@@ -58,3 +58,10 @@
   padding: 11px;
   margin-top: 24px;
 }
+
+.form-container {
+  @media screen and (max-width: 599px) {
+    margin-left: 12px;
+    margin-right: 12px;
+  }
+}

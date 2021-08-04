@@ -1,0 +1,132 @@
+.flex-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, 360px);
+  column-gap: 40px;
+}
+
+.card {
+  margin-bottom: 15px;
+  max-width: 360px;
+  @media screen and (max-width: 599px) {
+    width: 100vw;
+    max-width: 100vw !important;
+  }
+}
+
+.card-image {
+  width: 100%;
+  &:hover {
+    -webkit-box-shadow: 0px 0px 8px 2px rgba(62,193,211,0.5); 
+    box-shadow: 0px 0px 8px 2px rgba(62,193,211,0.5); // https://html-css-js.com/css/generator/box-shadow/
+  }
+}
+
+h3 {
+  margin: 8px 0;
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+}
+
+p {
+  margin: 12px 0 12px 0;
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  color: #444;
+}
+
+.card-row-top {
+  display: flex;
+  height: 27px;
+  padding: 7px 0px;
+  font-size: 12px;
+  font-weight: 100;
+  letter-spacing: 1px;
+}
+
+.content-type {
+  display: flex;
+  font-size: 14px;
+  font-weight: 200;
+  color: var(--color-small-thin-gray-text);
+  white-space: nowrap;
+  overflow: hidden;
+  flex: 1
+}
+
+.content-type-icon {
+  font-size: 17px;
+  line-height: 13px;
+  width: 22px;
+  // height: 20px;
+  color: #AAA;
+}
+
+.video-icon {
+  color: var(--color-small-gray-logo);
+}
+
+.card-days-ago {
+  flex: 1;
+}
+
+.card-part {
+  padding-left: 0px;
+  padding-right: 0px;
+  @media screen and (max-width: 599px) {
+    padding-left: 12px;
+    padding-right: 12px;
+  }
+}
+
+.post-source {
+  font-size: 14px;
+  font-weight: 200;
+  color: #555;
+  white-space: nowrap;
+  overflow: hidden;
+  flex: 1;
+  height: 20px;
+}
+
+
+
+.details-button {
+  color: var(--color-orange500);
+  top: -10px;
+  padding: 0 8px;
+}
+.details-icon {
+  line-height: 28px; // holds ellipsis icon down in line with text on the button
+}
+
+.card-actions {
+  flex: 1;
+  text-align: right;
+}
+
+.card-row-bottom {
+  display: flex
+}
+.left-group {
+  display: flex;
+  flex-direction: column;
+}
+
+a {
+  cursor: pointer;
+  &:hover {
+    color: var(--color-turquoise700);
+  }
+}
+
+.post-title {
+  height: 52px;
+  @media screen and (max-width: 599px) {
+    height: auto;
+  }
+}
+

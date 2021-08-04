@@ -1,11 +1,16 @@
 :root {
   --color-orange100: #FF660010;
   --color-orange500: #FF6600;
-  --color-orange500: #ce5200;
+  --color-orange700: #ce5200;
 
   --color-turquoise100: #3EC1D317;
+  --color-turquoise200: #3EC1D330;
   --color-turquoise500: #3EC1D3;
   --color-turquoise700: #2e919e;
+
+  --color-small-thin-gray-text: #333;
+  --color-small-gray-logo: #BBB;
+
 }
 html,
 body {
@@ -28,6 +33,11 @@ h6 {
 }
 h1 {
   letter-spacing: 1px;
+  margin-bottom: 10px;
+  @media screen and (max-width: 599px) {
+    margin-left: 12px;
+    margin-right: 12px;
+  }
 }
 input:-webkit-autofill,
 input:-webkit-autofill:hover,
@@ -38,7 +48,7 @@ input:-webkit-autofill:active {
 
 // PAGE STYLES
 .page-title {
-  padding: 10px 10px 0 10px;
+  padding: 10px 10px 0 0;
 }
 .page-container-narrow {
   max-width: 560px;
@@ -46,15 +56,21 @@ input:-webkit-autofill:active {
   justify-content: space-between;
   flex-direction: column;
   min-height: calc(100vh - 100px);
-  // margin: 0 auto;
+  padding-left: 12px;
+  @media screen and (max-width: 599px) {
+    padding-left: 0px;
+  }
 }
+
 .page-container-wide {
-  max-width: 1340px;
   display: flex;
   justify-content: space-between;
   flex-direction: column;
   min-height: calc(100vh - 100px);
-  // margin: 0 auto;
+  padding-left: 12px;
+  @media screen and (max-width: 599px) {
+  padding-left: 0px;
+  }
 }
 
 // FORM STYLES

@@ -93,7 +93,7 @@ import { NavigationEnd, Router, RouterOutlet } from '@angular/router';
 })
 export class MainNavComponent implements OnInit, AfterViewInit {
   isHandset$: Observable<boolean> = this.breakpointObserver
-    .observe(Breakpoints.Handset)
+    .observe(Breakpoints.XSmall)
     .pipe(
       map((result) => result.matches),
       shareReplay()

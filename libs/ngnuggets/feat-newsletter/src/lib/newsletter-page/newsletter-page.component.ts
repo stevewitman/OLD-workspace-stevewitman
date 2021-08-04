@@ -27,7 +27,6 @@ export class NewsletterPageComponent implements OnInit {
   deliveryFrequency: string[] = ['Weekly', 'Bi-Weekly', 'Monthly', 'Quarterly'];
   deliveryMethod: string[] = ['Email', 'Twitter DM'];
   newsletterForm: FormGroup;
-  isHandset = true;
   showFormErrors = false;
   twitterHandle = '';
 
