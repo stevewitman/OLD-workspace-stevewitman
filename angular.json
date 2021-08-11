@@ -562,6 +562,31 @@
           }
         }
       }
+    },
+    "shared-ui-post-card": {
+      "projectType": "library",
+      "root": "libs/shared/ui-post-card",
+      "sourceRoot": "libs/shared/ui-post-card/src",
+      "prefix": "nx-stevewitman",
+      "architect": {
+        "lint": {
+          "builder": "@nrwl/linter:eslint",
+          "options": {
+            "lintFilePatterns": [
+              "libs/shared/ui-post-card/src/**/*.ts",
+              "libs/shared/ui-post-card/src/**/*.html"
+            ]
+          }
+        },
+        "test": {
+          "builder": "@nrwl/jest:jest",
+          "outputs": ["coverage/libs/shared/ui-post-card"],
+          "options": {
+            "jestConfig": "libs/shared/ui-post-card/jest.config.js",
+            "passWithNoTests": true
+          }
+        }
+      }
     }
   }
 }

@@ -48,6 +48,9 @@
       ],
       "@nx-stevewitman/ngnuggets/feat-sponsors": [
         "libs/ngnuggets/feat-sponsors/src/index.ts"
+      ],
+      "@nx-stevewitman/shared/ui-post-card": [
+        "libs/shared/ui-post-card/src/index.ts"
       ]
     }
   },

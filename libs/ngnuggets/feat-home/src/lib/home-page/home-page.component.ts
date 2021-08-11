@@ -112,7 +112,8 @@ export class HomePageComponent {
     },
   ];
 
-  goToLink(url: string) {
+  openPostInTab(url: string) {
+    // save/log post visit
     window.open(url, '_blank');
   }
 }
