@@ -1,6 +1,6 @@
 import { Component, EventEmitter, Input, Output } from '@angular/core';
 
-import { PostSummary } from '../poat-summary';
+import { PostSummary } from '@nx-stevewitman/ngnuggets/services';
 
 @Component({
   selector: 'sh-post-card',

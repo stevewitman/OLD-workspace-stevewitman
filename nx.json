@@ -34,6 +34,8 @@
     "ngnuggets-feat-settings": { "tags": [] },
     "ngnuggets-feat-donate": { "tags": [] },
     "ngnuggets-feat-sponsors": { "tags": [] },
-    "shared-ui-post-card": { "tags": [] }
+    "shared-ui-post-card": { "tags": [] },
+    "ngnuggets-feat-post": { "tags": [] },
+    "ngnuggets-services": { "tags": [] }
   }
 }

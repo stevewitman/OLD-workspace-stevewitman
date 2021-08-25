@@ -6,6 +6,9 @@
     "titleBar.inactiveForeground": "#000000CC",
     "titleBar.activeBackground": "#ffcb88",
     "titleBar.inactiveBackground": "#555555",
+    "tab.activeBackground": "#ffcb8833",
+    "list.activeSelectionBackground": "#ffcb8833",
+    "list.inactiveSelectionBackground": "#ffcb8833"
   },
   "appService.zipIgnorePattern": [
     "node_modules{,/**}",

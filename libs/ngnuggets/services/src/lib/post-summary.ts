@@ -1,5 +1,6 @@
 export interface PostSummary {
   id: string;
+  slug: string;
   contentType: string;
   contentIcon: string;
   title: string;

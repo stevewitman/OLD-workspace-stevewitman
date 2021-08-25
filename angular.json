@@ -587,6 +587,56 @@
           }
         }
       }
+    },
+    "ngnuggets-feat-post": {
+      "projectType": "library",
+      "root": "libs/ngnuggets/feat-post",
+      "sourceRoot": "libs/ngnuggets/feat-post/src",
+      "prefix": "ng",
+      "architect": {
+        "lint": {
+          "builder": "@nrwl/linter:eslint",
+          "options": {
+            "lintFilePatterns": [
+              "libs/ngnuggets/feat-post/src/**/*.ts",
+              "libs/ngnuggets/feat-post/src/**/*.html"
+            ]
+          }
+        },
+        "test": {
+          "builder": "@nrwl/jest:jest",
+          "outputs": ["coverage/libs/ngnuggets/feat-post"],
+          "options": {
+            "jestConfig": "libs/ngnuggets/feat-post/jest.config.js",
+            "passWithNoTests": true
+          }
+        }
+      }
+    },
+    "ngnuggets-services": {
+      "projectType": "library",
+      "root": "libs/ngnuggets/services",
+      "sourceRoot": "libs/ngnuggets/services/src",
+      "prefix": "nx-stevewitman",
+      "architect": {
+        "lint": {
+          "builder": "@nrwl/linter:eslint",
+          "options": {
+            "lintFilePatterns": [
+              "libs/ngnuggets/services/src/**/*.ts",
+              "libs/ngnuggets/services/src/**/*.html"
+            ]
+          }
+        },
+        "test": {
+          "builder": "@nrwl/jest:jest",
+          "outputs": ["coverage/libs/ngnuggets/services"],
+          "options": {
+            "jestConfig": "libs/ngnuggets/services/jest.config.js",
+            "passWithNoTests": true
+          }
+        }
+      }
     }
   }
 }

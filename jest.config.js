@@ -15,5 +15,7 @@ module.exports = {
     '<rootDir>/libs/ngnuggets/feat-donate',
     '<rootDir>/libs/ngnuggets/feat-sponsors',
     '<rootDir>/libs/shared/ui-post-card',
+    '<rootDir>/libs/ngnuggets/feat-post',
+    '<rootDir>/libs/ngnuggets/services',
   ],
 };

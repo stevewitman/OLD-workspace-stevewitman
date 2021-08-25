@@ -8,11 +8,12 @@ const routes: Routes = [
     redirectTo: 'home',
     pathMatch: 'full',
   },
+  // Main menu routes
   {
     path: 'home',
     component: HomePageComponent,
     data: {
-      title: 'NgNuggets - Home',
+      title: 'ngNuggets - Home',
       position: 1,
     },
   },
@@ -23,7 +24,7 @@ const routes: Routes = [
         (m) => m.NgnuggetsFeatNewsletterModule
       ),
     data: {
-      title: 'NgNuggets - Newsletter',
+      title: 'ngNuggets - Newsletter',
       position: 2,
     },
   },
@@ -34,7 +35,7 @@ const routes: Routes = [
         (m) => m.NgnuggetsFeatSubmitModule
       ),
     data: {
-      title: 'NgNuggets - Submit',
+      title: 'ngNuggets - Submit',
       position: 3,
     },
   },
@@ -45,7 +46,7 @@ const routes: Routes = [
         (m) => m.NgnuggetsFeatAboutModule
       ),
     data: {
-      title: 'NgNuggets - About',
+      title: 'ngNuggets - About',
       position: 4,
     },
   },
@@ -56,7 +57,7 @@ const routes: Routes = [
         (m) => m.NgnuggetsFeatContactModule
       ),
     data: {
-      title: 'NgNuggets - Contact',
+      title: 'ngNuggets - Contact',
       position: 5,
     },
   },
@@ -67,7 +68,7 @@ const routes: Routes = [
         (m) => m.NgnuggetsFeatSettingsModule
       ),
     data: {
-      title: 'NgNuggets - Settings',
+      title: 'ngNuggets - Settings',
       position: 6,
     },
   },
@@ -78,7 +79,7 @@ const routes: Routes = [
         (m) => m.NgnuggetsFeatSponsorsModule
       ),
     data: {
-      title: 'NgNuggets - Sponsors',
+      title: 'ngNuggets - Sponsors',
       position: 7,
     },
   },
@@ -89,8 +90,19 @@ const routes: Routes = [
         (m) => m.NgnuggetsFeatDonateModule
       ),
     data: {
-      title: 'NgNuggets - Donate',
+      title: 'ngNuggets - Donate',
       position: 8,
+    },
+  },
+  // Other routes
+  {
+    path: 'post/:slug',
+    loadChildren: () =>
+      import('@nx-stevewitman/ngnuggets/feat-post').then(
+        (m) => m.NgnuggetsFeatPostModule
+      ),
+    data: {
+      title: 'ngNuggets - Post Details',
     },
   },
   {
@@ -100,7 +112,7 @@ const routes: Routes = [
         (m) => m.SharedUiPageNotFoundModule
       ),
     data: {
-      title: 'NgNuggets - Page Not Found',
+      title: 'ngNuggets - Page Not Found',
       position: 9,
     },
   },

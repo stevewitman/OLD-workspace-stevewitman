@@ -4,11 +4,3 @@
   column-gap: 40px;
 }
 
-.card {
-  margin-bottom: 15px;
-  max-width: 360px;
-  @media screen and (max-width: 599px) {
-    width: 100vw;
-    max-width: 100vw !important; 
-  }
-}

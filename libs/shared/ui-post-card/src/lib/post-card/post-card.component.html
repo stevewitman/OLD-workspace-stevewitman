@@ -1,37 +1,44 @@
-      <div class="card-row-top card-part">
-        <div class="card-days-ago">{{ post.datePosted }}</div>
-      </div>
+<div class="card" *ngIf="post as post">
+  <div class="card-row-top card-part">
+    <div class="card-days-ago">{{ post.datePosted }}</div>
+  </div>
 
-      <a (click)="onPostClicked(post.sourceUrl)">
-        <div>
-          <img src="assets/images/{{ post.imgUrl }}" class="card-image" />
+  <a (click)="onPostClicked(post.sourceUrl)">
+    <div>
+      <img src="assets/images/{{ post.imgUrl }}" class="card-image" />
 
-          <div class="card-part post-title">
-            <h3 class="post-title-text">{{ post.title }}</h3>
-          </div>
-        </div>
-      </a>
-      <div class="card-part">
-        <div class="post-source">
-          <a class="post-source-link" href="https://www.youtube.com/channel/UCSj1Igu3ejxqcQISNEmx8VQ">{{ post.sourceAuthor }}</a>
-          <span *ngIf="post.sourceAuthor && post.sourceSite"
-            >&nbsp;&nbsp;|&nbsp;&nbsp;</span
-          >
-          <a class="post-source-link" href="https://www.youtube.com">{{ post.sourceSite }}</a>
-        </div>
-        <div class="card-row-bottom">
-          <div class="content-type">
-            <span
-              *ngIf="post.contentType == 'VIDEO'"
-              class="material-icons content-type-icon video-icon"
-              >smart_display</span
-            >
-            <div class="content-type">{{ post.contentType }}</div>
-          </div>
-          <div class="card-actions">
-            <button mat-button class="details-button">
-              MORE<mat-icon class="details-icon">more_horiz</mat-icon>
-            </button>
-          </div>
-        </div>
+      <div class="card-part post-title">
+        <h3 class="post-title-text">{{ post.title }}</h3>
       </div>
+    </div>
+  </a>
+  <div class="card-part">
+    <div class="post-source">
+      <a class="post-source-link" href="https://www.youtube.com/channel/UCSj1Igu3ejxqcQISNEmx8VQ">{{ post.sourceAuthor }}</a>
+      <span *ngIf="post.sourceAuthor && post.sourceSite"
+        >&nbsp;&nbsp;|&nbsp;&nbsp;</span
+      >
+      <a class="post-source-link" href="https://www.youtube.com">{{ post.sourceSite }}</a>
+    </div>
+    <div class="card-row-bottom">
+      <div class="content-type">
+        <span
+          *ngIf="post.contentType == 'VIDEO'"
+          class="material-icons content-type-icon video-icon"
+          >smart_display</span
+        >
+        <div class="content-type">{{ post.contentType }}</div>
+      </div>
+      <div class="card-actions">
+        <button
+          mat-button
+          class="details-button"
+          [routerLink]="['/post', post.slug]"
+          routerLinkActive="router-link-active"
+          >MORE<mat-icon class="details-icon">more_horiz</mat-icon>
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+
