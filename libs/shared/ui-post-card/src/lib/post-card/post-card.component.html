@@ -3,31 +3,54 @@
     <div class="card-days-ago">{{ post.datePosted }}</div>
   </div>
 
-  <a (click)="onPostClicked(post.sourceUrl)">
+  <a (click)="onPostClicked(post.contentUrl)">
     <div>
-      <img src="assets/images/{{ post.imgUrl }}" class="card-image" />
+      <div class="vignette-inset">
+        <img src="assets/images/{{ post.imgUrl }}" class="card-image" />
+      </div>
 
       <div class="card-part post-title">
-        <h3 class="post-title-text">{{ post.title }}</h3>
+        <h3 class="post-title-text">{{ post.contentTitle }}</h3>
       </div>
     </div>
   </a>
   <div class="card-part">
     <div class="post-source">
-      <a class="post-source-link" href="https://www.youtube.com/channel/UCSj1Igu3ejxqcQISNEmx8VQ">{{ post.sourceAuthor }}</a>
-      <span *ngIf="post.sourceAuthor && post.sourceSite"
+      <a
+        class="post-source-link"
+        href="{{ post.authorUrl }}"
+        >{{ post.authorName }}</a
+      >
+      <span *ngIf="post.authorName && post.sourceSite"
         >&nbsp;&nbsp;|&nbsp;&nbsp;</span
       >
-      <a class="post-source-link" href="https://www.youtube.com">{{ post.sourceSite }}</a>
+      <a class="post-source-link" href="{{ post.sourceUrl}}">{{
+        post.sourceSite
+      }}</a>
     </div>
     <div class="card-row-bottom">
       <div class="content-type">
         <span
-          *ngIf="post.contentType == 'VIDEO'"
+          *ngIf="post.contentType == 'video'"
           class="material-icons content-type-icon video-icon"
           >smart_display</span
         >
-        <div class="content-type">{{ post.contentType }}</div>
+        <span
+          *ngIf="post.contentType == 'podcast'"
+          class="material-icons content-type-icon podcast-icon"
+          >podcasts</span
+        >
+        <span
+          *ngIf="post.contentType == 'blog'"
+          class="material-icons content-type-icon blog-icon"
+          >article</span
+        >
+
+        <span class="content-type">
+          {{ post.contentType | uppercase }}
+          <span *ngIf="post.duration" class="duration">- {{ post.duration }}m</span>
+        </span>
+         
       </div>
       <div class="card-actions">
         <button
@@ -35,10 +58,10 @@
           class="details-button"
           [routerLink]="['/post', post.slug]"
           routerLinkActive="router-link-active"
-          >MORE<mat-icon class="details-icon">more_horiz</mat-icon>
+        >
+          MORE<mat-icon class="details-icon">more_horiz</mat-icon>
         </button>
       </div>
     </div>
   </div>
 </div>
-

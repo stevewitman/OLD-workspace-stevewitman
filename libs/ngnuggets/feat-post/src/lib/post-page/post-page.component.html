@@ -3,92 +3,85 @@
     <div class="row-nav">
       <button
         mat-button
-        class="details-button btn-go"
+        class="nav-button-left"
+        [routerLink]="['/']"
+        routerLinkActive="router-link-active"
+      >
+        BACK
+      </button>
+      <button
+        mat-button
+        class="nav-button-right"
         [routerLink]="['/post', post.slug]"
         routerLinkActive="router-link-active"
       >
         GO TO ARTICLE
       </button>
-
-      <button
-        mat-button
-        class="details-button btn-back"
-        [routerLink]="['/post', post.slug]"
-        routerLinkActive="router-link-active"
-      >
-        BACK
-      </button>
     </div>
-    <div class="row-title">
-      <div class="col-one">
-        <a (click)="onPostClicked(post.sourceUrl)">
+
+    <div class="row-image">
+      <div class="col-left">
+        <a (click)="onPostClicked(post.contentUrl)">
           <div>
             <img src="assets/images/{{ post.imgUrl }}" class="post-image" />
           </div>
         </a>
       </div>
-      <div class="col-two">
-        <div class="post-title">
-          <h3 class="post-title-text">{{ post.title }}</h3>
-        </div>
-        <div>
-          <div class="post-source">
-            <a
-              class="post-source-link"
-              href="https://www.youtube.com/channel/UCSj1Igu3ejxqcQISNEmx8VQ"
-              >{{ post.sourceAuthor }}</a
-            >
-            <span *ngIf="post.sourceAuthor && post.sourceSite"
-              >&nbsp;&nbsp;|&nbsp;&nbsp;</span
-            >
-            <a class="post-source-link" href="https://www.youtube.com">{{
-              post.sourceSite
-            }}</a>
-          </div>
-        </div>
+      <div class="col-right">
+        <button mat-button (click)="toggleStared()">
+          <span class="likes">{{ post.stars }}</span>
+          <mat-icon *ngIf="!stared">star_border</mat-icon>
+          <mat-icon *ngIf="stared">star</mat-icon>
+           STAR
+        </button>
+        <button mat-button (click)="toggleBookmarked()">
+          <mat-icon *ngIf="!bookmarked">bookmark_border</mat-icon>
+          <mat-icon *ngIf="bookmarked">bookmark</mat-icon>
+          MARK
+        </button>
       </div>
     </div>
 
+    <div class="row-title">
+      <h3 class="post-title-text">{{ post.contentTitle }}</h3>
+    </div>
+
     <div class="row-description">
-      <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe,
-        incidunt! Corrupti voluptatum asperiores temporibus error vel quisquam
-        quis quo hic sequi quae, libero debitis atque.
+      <p class="description">
+        {{ post.contentDescription }}
       </p>
     </div>
 
     <div>
-      <div class="card-row-bottom">
-        <div>
-          <button
-            mat-icon-button
-            class="action-button"
-            aria-label="Example icon-button with a heart icon"
-          >
-            <mat-icon>sentiment_satisfied_alt</mat-icon>Like
-          </button>
-        </div>
-        <div>
-          <button
-            mat-icon-button
-            class="action-button"
-            aria-label="Example icon-button with a heart icon"
-          >
-            <mat-icon>post_add</mat-icon>Add to My List
-          </button>
-        </div>
-        <div>
-          <button
-            mat-icon-button
-            class="action-button"
-            aria-label="Example icon-button with a heart icon"
-          >
-            <mat-icon>chat_bubble_outline</mat-icon>Comments
-          </button>
-        </div>
+      <div class="post-source">
+        <a class="post-source-link" href="{{ post.sourceUrl }}">{{
+          post.sourceSite
+        }}</a>
+        <span *ngIf="post.sourceSite && post.authorName"
+          >&nbsp;&nbsp;|&nbsp;&nbsp;</span
+        >
+        <a class="post-source-link" href="{{ post.authorUrl }}">{{
+          post.authorName
+        }}</a>
       </div>
     </div>
+
+    <div class="row-dates">
+      <p class="added">
+        ORIGINAL PUBLISH DATE: {{ post.dateCreated }}<br />
+        ADDED TO NGNUGGETS: {{ post.datePosted}}
+        <span *ngIf="post.postedBy">by {{ post.postedBy }}</span
+        >
+      </p>
+    </div>
+
+    <div>
+      <mat-chip-list>
+        <mat-chip *ngFor="let tag of post.tags">{{ tag }}</mat-chip>
+      </mat-chip-list>
+    </div>
   </div>
+  
   <ng-template #loading>
     <p>L o a d i n g . . .</p>
   </ng-template>

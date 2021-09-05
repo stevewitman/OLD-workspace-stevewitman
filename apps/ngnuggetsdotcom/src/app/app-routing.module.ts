@@ -3,14 +3,14 @@ import { PreloadAllModules, RouterModule, Routes } from '@angular/router';
 import { HomePageComponent } from '@nx-stevewitman/ngnuggets/feat-home';
 
 const routes: Routes = [
-  {
-    path: '',
-    redirectTo: 'home',
-    pathMatch: 'full',
-  },
+  // {
+  //   path: '',
+  //   redirectTo: 'home',
+  //   pathMatch: 'full',
+  // },
   // Main menu routes
   {
-    path: 'home',
+    path: '',
     component: HomePageComponent,
     data: {
       title: 'ngNuggets - Home',

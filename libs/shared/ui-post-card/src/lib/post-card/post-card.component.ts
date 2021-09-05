@@ -1,6 +1,6 @@
 import { Component, EventEmitter, Input, Output } from '@angular/core';
 
-import { PostSummary } from '@nx-stevewitman/ngnuggets/services';
+import { PostDetail } from '@nx-stevewitman/ngnuggets/services';
 
 @Component({
   selector: 'sh-post-card',
@@ -8,7 +8,7 @@ import { PostSummary } from '@nx-stevewitman/ngnuggets/services';
   styleUrls: ['./post-card.component.scss'],
 })
 export class PostCardComponent {
-  @Input() post: PostSummary;
+  @Input() post: PostDetail;
   @Output() postClicked = new EventEmitter<string>();
 
   onPostClicked(value: string) {

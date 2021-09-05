@@ -109,9 +109,12 @@ export class MainNavComponent implements OnInit, AfterViewInit {
     private changeDetectorRef: ChangeDetectorRef
   ) {
     router.events.subscribe((e) => {
-      if (e instanceof NavigationEnd && location.pathname !== '/home') {
+      if (e instanceof NavigationEnd && location.pathname == '/') {
+        this.showFilters = true;
+      } 
+      if (e instanceof NavigationEnd && location.pathname !== '/') {
         this.showFilters = false;
-      }
+      } 
     });
   }
 

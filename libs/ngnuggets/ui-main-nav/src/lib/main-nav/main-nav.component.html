@@ -20,7 +20,7 @@
       <mat-icon aria-label="Side nav toggle icon">menu_open</mat-icon>
     </button>
   </ng-container>
-  <a [routerLink]="['/home']">
+  <a [routerLink]="['/']">
     <img src="./assets/images/ngnuggets-logo-toolbar-dark.png" class="ngnuggets-logo-toolbar">
   </a>
 </mat-toolbar>
@@ -36,7 +36,7 @@
     <mat-nav-list>
       <a
         mat-list-item
-        [routerLink]="['/home']"
+        [routerLink]="['/']"
         (click)="isHandset && drawer.close()"
         routerLinkActive="link-active"
         ><mat-icon class="icon">home</mat-icon
@@ -44,8 +44,8 @@
       >
       <a
         mat-list-item
+        [routerLink]="['/']"
         (click)="onClickFilters()"
-        [routerLink]="['/home']"
         (click)="isHandset && !showFilters && drawer.close()"
       >
         <mat-icon class="icon">filter_alt</mat-icon>

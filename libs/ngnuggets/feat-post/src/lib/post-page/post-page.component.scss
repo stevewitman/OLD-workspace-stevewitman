@@ -16,7 +16,13 @@ a {
 }
 
 p {
-  margin: 0;
+  margin: 0 0 24px 0;
+}
+
+mat-checkbox ::ng-deep .mat-checkbox-inner-container {
+  width: 20px;
+  height: 20px;
+  margin-right: 12px;
 }
 
 .page-content {
@@ -30,76 +36,45 @@ p {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-  color: var(--color-turquoise700);
-
+  color: var(--color-orange500);
+  height: 36px;
 }
-.btn-go {
-  top: -8px;
+.nav-button-left {
+  top: -14px;
   left: -16px;
-}
-.btn-back {
-  top: -8px;
-  right: -16px;
-}
-
-.row-top {
-  display: flex;
-  flex-direction: row;
-  padding-bottom: 10px;
-}
-.row-title {
-  display: flex;
-  flex-direction: row;
-}
-
-.row-description {
-  line-height: 22px;
-  margin: 16px 0;
-
-}
-
-.card-row-top {
-  display: flex;
-  height: 27px;
-  padding: 7px 0px;
-  font-size: 12px;
-  font-weight: 100;
-  letter-spacing: 1px;
-}
-
-.card-part {
-  padding-left: 0px;
-  padding-right: 0px;
   @media screen and (max-width: 599px) {
-    padding-left: 12px;
-    padding-right: 12px;
+    top: -8px;
+  }
+}
+.nav-button-right {
+  top: -14px;
+  right: -16px;
+  @media screen and (max-width: 599px) {
+    top: -8px;
   }
 }
 
-.card-days-ago {
-  flex: 1;
+.row-image {
+  display: flex;
+  flex-direction: row;
 }
-.col-one {
-  width: 35%;
-  // background-color: tan;
+.col-left {
 }
-.col-two {
-  width: 65%;
-  margin-left: 24px;
+.col-right {
+  width: 115px;
+  flex: 0 0 115px;
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
-  @media screen and (max-width: 599px) {
-    margin-left: 14px;
-  }
+  align-items: flex-end;
+  justify-content: flex-end;
 }
-
 .post-image {
   width: 100%;
+  filter: brightness(93%);
 }
 
-.post-title {
-  height: 52px;
+.row-title {
+  margin-top: 20px;
   @media screen and (max-width: 599px) {
     height: auto;
   }
@@ -111,9 +86,18 @@ p {
   display: -webkit-box;
   -webkit-line-clamp: 4;
   -webkit-box-orient: vertical;
-  @media screen and (max-width: 599px) {
-    font-size: smaller;
-  }
+}
+
+.row-description {
+  line-height: 22px;
+  margin: 20px 0;
+}
+
+.description {
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-line-clamp: 7;
+  -webkit-box-orient: vertical;
 }
 
 .post-source {
@@ -122,10 +106,9 @@ p {
   color: #555;
   white-space: nowrap;
   overflow: hidden;
-  flex: 1;
   padding-bottom: 4px;
   @media screen and (max-width: 599px) {
-    font-size: x-small;
+    font-size: small;
   }
 }
 
@@ -133,51 +116,24 @@ p {
   color: var(--color-turquoise700);
 }
 
-.card-row-bottom {
-  display: flex;
+.row-dates {
+  margin-top: 15px;   
 }
 
-.content-type {
+.added {
+  font-size: 12px;
+  font-weight: 300;
+  line-height: 18px;
+  color: #555;
+}
+
+.likes {
+  margin-right: 6px;
   font-size: 14px;
-  font-weight: 200;
-  color: var(--color-small-thin-gray-text);
-  // padding-bottom: 10px;
-  white-space: nowrap;
-  overflow: hidden;
-  display: flex;
-  // flex: 1
+  font-weight: 300;
+  color: #555;
 }
 
-.content-type-icon {
-  font-size: 17px;
-  line-height: 13px;
-  width: 22px;
-  height: 20px;
-  color: #aaa;
-}
-
-.video-icon {
-  color: var(--color-small-gray-logo);
-}
-
-.card-actions {
-  display: flex;
-  justify-content: space-between;
-  text-align: right;
-}
-
-.back-button {
-  color: var(--color-orange500);
-  top: -8px;
-  @media screen and (max-width: 599px) {
-    font-size: smaller;
-  }
-}
-.back-icon {
-  line-height: 20px; // holds ellipsis icon down in line with text on the button
-  margin-left: 0px;
-}
-
-.action-button {
-  color: orange;
+.row-tags {
+  margin-bottom: 24px;
 }

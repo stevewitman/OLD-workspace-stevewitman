@@ -24,6 +24,9 @@ import { PostService } from '@nx-stevewitman/ngnuggets/services';
 export class PostPageComponent implements OnInit {
   slug: string;
   post$: Observable<any>;
+  stared = false;
+  bookmarked = false;
+  later = false;
 
   @Output() postClicked = new EventEmitter<string>();
 
@@ -39,5 +42,17 @@ export class PostPageComponent implements OnInit {
 
   onPostClicked(value: string) {
     this.postClicked.emit(value);
+  }
+
+  toggleStared() {
+    this.stared = !this.stared;
+  }
+
+  toggleBookmarked() {
+    this.bookmarked = !this.bookmarked;
+  }
+
+  laterClicked() {
+    this.later = !this.later;
   }
 }

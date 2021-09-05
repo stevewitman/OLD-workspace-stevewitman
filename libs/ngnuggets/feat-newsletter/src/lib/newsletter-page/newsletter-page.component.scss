@@ -10,11 +10,9 @@
   /*change color of underline*/
   background-color: green !important;
 } 
-.content-container {
-}
 
 .input-text {
-    color: var(--color-turquoise700);
+  color: var(--color-turquoise700);
   font-size: 18px;
   font-weight: bold;
   letter-spacing: 2px;
@@ -63,6 +61,7 @@
 }
 
 .form-container {
+  padding-top: 10px;
   @media screen and (max-width: 599px) {
     margin-left: 12px;
     margin-right: 12px;
