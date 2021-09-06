@@ -19,14 +19,16 @@
       <a
         class="post-source-link"
         href="{{ post.authorUrl }}"
-        >{{ post.authorName }}</a
-      >
-      <span *ngIf="post.authorName && post.sourceSite"
-        >&nbsp;&nbsp;|&nbsp;&nbsp;</span
-      >
-      <a class="post-source-link" href="{{ post.sourceUrl}}">{{
-        post.sourceSite
-      }}</a>
+        target="_blank">
+          {{ post.authorName }}
+      </a>
+      <span *ngIf="post.authorName && post.sourceSite">&nbsp;&nbsp;|&nbsp;&nbsp;</span>
+      <a
+        class="post-source-link"
+        href="{{ post.sourceUrl }}"
+        target="_blank">
+          {{ post.sourceSite }}
+      </a>
     </div>
     <div class="card-row-bottom">
       <div class="content-type">

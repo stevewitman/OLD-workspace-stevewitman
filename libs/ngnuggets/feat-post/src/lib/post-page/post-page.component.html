@@ -54,14 +54,14 @@
 
     <div>
       <div class="post-source">
-        <a class="post-source-link" href="{{ post.sourceUrl }}">{{
-          post.sourceSite
+        <a class="post-source-link" href="{{ post.authorUrl }}" target="_blank">{{
+          post.authorName
         }}</a>
         <span *ngIf="post.sourceSite && post.authorName"
           >&nbsp;&nbsp;|&nbsp;&nbsp;</span
         >
-        <a class="post-source-link" href="{{ post.authorUrl }}">{{
-          post.authorName
+        <a class="post-source-link" href="{{ post.sourceUrl }}" target="_blank">{{
+          post.sourceSite
         }}</a>
       </div>
     </div>

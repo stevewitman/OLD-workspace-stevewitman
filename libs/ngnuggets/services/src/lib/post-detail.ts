@@ -17,8 +17,8 @@ export interface PostDetail {
   authorUrl?: string; //            channel url, personal website, etc.
   addedBy?: string; //              USER who submitted the article
   showAddedBy?: true;
-  visits?: number;
   stars?: number;
   saved?: number;
-  tags: string[];
+  tags?: string[];
+  visits?: number;
 }
