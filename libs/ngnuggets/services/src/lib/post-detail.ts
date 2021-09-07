@@ -1,7 +1,7 @@
 export interface PostDetail {
   id: string;
   slug: string; //                  2021-09-01-A
-  contentType: 'video' | 'blog' | 'podcast'; 
+  contentType: 'video' | 'blog' | 'podcast' | 'question' | 'community' | 'meetup' | 'conference'; 
   duration?: string;
   contentTitle: string;
   contentUrl: string;
@@ -17,6 +17,7 @@ export interface PostDetail {
   authorUrl?: string; //            channel url, personal website, etc.
   addedBy?: string; //              USER who submitted the article
   showAddedBy?: true;
+  twitter?: string;
   stars?: number;
   saved?: number;
   tags?: string[];

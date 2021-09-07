@@ -38,16 +38,20 @@
           >smart_display</span
         >
         <span
-          *ngIf="post.contentType == 'podcast'"
-          class="material-icons content-type-icon podcast-icon"
-          >podcasts</span
-        >
-        <span
           *ngIf="post.contentType == 'blog'"
           class="material-icons content-type-icon blog-icon"
           >article</span
         >
-
+        <span
+          *ngIf="post.contentType == 'question'"
+          class="material-icons content-type-icon question-icon"
+          >question_answer</span
+        >
+        <span
+          *ngIf="post.contentType == 'podcast'"
+          class="material-icons content-type-icon podcast-icon"
+          >podcasts</span
+        >
         <span class="content-type">
           {{ post.contentType | uppercase }}
           <span *ngIf="post.duration" class="duration">- {{ post.duration }}m</span>
