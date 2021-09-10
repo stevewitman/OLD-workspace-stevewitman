@@ -1,10 +1,10 @@
 export interface PostDetail {
   id: string;
   slug: string; //                  2021-09-01-A
-  contentType: 'video' | 'blog' | 'podcast' | 'question' | 'community' | 'meetup' | 'conference'; 
+  contentType: 'video' | 'blog' | 'podcast' | 'question' | 'community' | 'meetup' | 'conference' | 'poll'; 
   duration?: string;
   contentTitle: string;
-  contentUrl: string;
+  contentUrl: string; 
   contentDescription: string;
   descriptionBy: string; //         either from source, by submitter, or by ADMIN
   imgUrl: string;
@@ -19,6 +19,7 @@ export interface PostDetail {
   showAddedBy?: true;
   twitter?: string;
   stars?: number;
+  featured: boolean;
   saved?: number;
   tags?: string[];
   visits?: number;

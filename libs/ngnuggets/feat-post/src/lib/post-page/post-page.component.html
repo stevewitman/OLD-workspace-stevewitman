@@ -68,10 +68,11 @@
 
     <div class="row-dates">
       <p class="added">
-        ORIGINAL PUBLISH DATE: {{ post.dateCreated }}<br />
+
         ADDED TO NGNUGGETS: {{ post.datePosted}}
         <span *ngIf="post.postedBy">by {{ post.postedBy }}</span
-        >
+        ><br />
+        ORIGINAL PUBLISH DATE: {{ post.dateCreated }}
       </p>
     </div>
 
