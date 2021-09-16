@@ -28,16 +28,18 @@
         </a>
       </div>
       <div class="col-right">
-        <button mat-button (click)="toggleStared()">
-          <span class="likes">{{ post.stars }}</span>
-          <mat-icon *ngIf="!stared">star_border</mat-icon>
-          <mat-icon *ngIf="stared">star</mat-icon>
-           STAR
+        <div class="likes">
+          23 LIKES
+        </div>
+        <button mat-button (click)="toggleStared()" class="likes-button">
+          <mat-icon *ngIf="!stared" class="likes-false">star_border</mat-icon>
+          <mat-icon *ngIf="stared" class="likes-true">star</mat-icon>
+          <span class="likes-text">LIKE</span>
         </button>
-        <button mat-button (click)="toggleBookmarked()">
-          <mat-icon *ngIf="!bookmarked">bookmark_border</mat-icon>
-          <mat-icon *ngIf="bookmarked">bookmark</mat-icon>
-          MARK
+        <button mat-button (click)="toggleBookmarked()" class="save-button">
+          <mat-icon *ngIf="!bookmarked" class="save-false">bookmark_border</mat-icon>
+          <mat-icon *ngIf="bookmarked" class="save-true">bookmark</mat-icon>
+          <span class="save-text">SAVE</span>
         </button>
       </div>
     </div>

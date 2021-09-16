@@ -62,11 +62,14 @@ mat-checkbox ::ng-deep .mat-checkbox-inner-container {
 }
 .col-right {
   width: 115px;
+  padding-left: 12px;
   flex: 0 0 115px;
   display: flex;
   flex-direction: column;
   align-items: flex-end;
+  align-items: stretch;
   justify-content: flex-end;
+
 }
 .post-image {
   width: 100%;
@@ -128,12 +131,58 @@ mat-checkbox ::ng-deep .mat-checkbox-inner-container {
 }
 
 .likes {
-  margin-right: 6px;
-  font-size: 14px;
-  font-weight: 300;
-  color: #555;
+  // margin-right: 6px;
+  // font-size: 14px;
+  // font-weight: 300;
+  // color: #555;
 }
 
 .row-tags {
   margin-bottom: 24px;
+}
+
+.likes{
+  flex: 1;
+  font-size: 14px;
+  font-weight: 300;
+  color: #555;
+  text-align: center;
+}
+
+.likes-button {
+  margin-bottom: 6px;
+  flex: 3;
+  background-color: var(--color-orange100);
+  color: var(--color-orange500);
+}
+
+.likes-text {
+  padding-left: 8px;
+  padding-right: 8px;
+}
+
+.likes-false {
+}
+
+.likes-true {
+}
+
+.save-button {
+  margin-top:10px;
+  top: -4px;
+  flex: 3;
+  background-color: var(--color-orange100);
+  color: var(--color-orange500);
+}
+
+.save-text {
+  padding-left: 8px;
+  padding-right: 8px;
+}
+
+.save-false {
+  // padding-right: 20px;
+}
+
+.save-true {
 }
