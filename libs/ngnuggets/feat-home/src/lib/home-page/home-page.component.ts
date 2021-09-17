@@ -21,7 +21,6 @@ export class HomePageComponent implements OnInit {
   }
   
   openPostInTab(url: string) {
-    // save/log post visit
-    window.open(url, '_blank');
+    this.postService.openSourceInTab(url);
   }
 }

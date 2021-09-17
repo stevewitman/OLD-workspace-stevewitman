@@ -42,6 +42,11 @@ export class PostPageComponent implements OnInit {
 
   onPostClicked(value: string) {
     this.postClicked.emit(value);
+    console.log('onPostClicked');
+  }
+
+  openPostInTab(url: string) {
+    this.postService.openSourceInTab(url);
   }
 
   toggleStared() {

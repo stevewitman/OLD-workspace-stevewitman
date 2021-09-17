@@ -2077,7 +2077,139 @@ export class PostService {
       featured: true,
       tags: ['Architecture', 'Nx', 'NgRx'],
     },
-
+    {
+      id: '16-a',
+      slug: '2021-09-16-a',
+      contentType: 'video',
+      duration: '6',
+      contentTitle: 'How to update Angular',
+      contentUrl: 'https://www.youtube.com/watch?v=QGBmSbFxriU',
+      contentDescription:
+        'Updating Angular application can become a huge task. I share my findings for making it easier.',
+      descriptionBy: '',
+      imgUrl: '2021-09-16-a.png',
+      datePosted: '2021-09-16',
+      dateCreated: '2021-09-15',
+      postedBy: 'Steve Witman',
+      sourceSite: 'YouTube',
+      sourceUrl: 'https://youtube.com',
+      authorName: 'Nevyan Neykov',
+      authorUrl: 'https://www.youtube.com/channel/UC69XQPDbEpfAtO5S2-ZyNoA',
+      stars: 0,
+      featured: true,
+      tags: ['Update'],
+    },
+    {
+      id: '16-b',
+      slug: '2021-09-16-b',
+      contentType: 'video',
+      duration: '8',
+      contentTitle: '101. RxJS SwitchAll Operator',
+      contentUrl: 'https://www.youtube.com/watch?v=K4_ry9pPY1A',
+      contentDescription:
+        'In this video, we will learn about the RxJS SwitchAll operator which is one of the Join Category operators in RxJS.',
+      descriptionBy: '',
+      imgUrl: '2021-09-16-b.jpg',
+      datePosted: '2021-09-16',
+      dateCreated: '2021-09-15',
+      postedBy: 'Steve Witman',
+      sourceSite: 'YouTube',
+      sourceUrl: 'https://youtube.com',
+      authorName: 'Leela Web Dev',
+      authorUrl: 'https://www.youtube.com/channel/UC1J-YH25LCjvLnFjy7WDqGA',
+      stars: 0,
+      featured: true,
+      tags: ['RxJS', 'switchAll'],
+    },
+    {
+      id: '16-c',
+      slug: '2021-09-16-c',
+      contentType: 'blog',
+      duration: '',
+      contentTitle: 'RxJS - Creation Operators',
+      contentUrl: 'https://dev.to/this-is-learning/rxjs-creation-operators-6bh',
+      contentDescription:
+        'The Creation Operators are used to create new observables. They are divided into Creation Operators and Join Creation Operators. The main difference between them consists in the fact that the Join Creation Operators create observable from other observables instead the Creation Operators create observables from objects which differ from observable.',
+      descriptionBy: '',
+      imgUrl: '2021-09-16-c.png',
+      datePosted: '2021-09-16',
+      dateCreated: '2021-09-15',
+      postedBy: 'Steve Witman',
+      sourceSite: 'DEV Community',
+      sourceUrl: 'https://dev.to',
+      authorName: 'Luca Del Puppo',
+      authorUrl: 'https://dev.to/puppo',
+      stars: 0,
+      featured: true,
+      tags: ['RxJS', 'Creation Operators'],
+    },
+    {
+      id: '16-d',
+      slug: '2021-09-16-d',
+      contentType: 'video',
+      duration: '4',
+      contentTitle: 'How to "Google It" like a Senior Software Engineer',
+      contentUrl: 'https://www.youtube.com/watch?v=cEBkvm0-rg0',
+      contentDescription:
+        'They say a Software Engineer is just a “professional google searcher” and that is 100% accurate. Learn how to use Google like a 10x developer to get the information you need faster.',
+      descriptionBy: '',
+      imgUrl: '2021-09-16-d.jpg',
+      datePosted: '2021-09-16',
+      dateCreated: '2021-09-16',
+      postedBy: 'Steve Witman',
+      sourceSite: 'YouTube',
+      sourceUrl: 'https://youtube.com',
+      authorName: 'Fireship',
+      authorUrl: 'https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA',
+      stars: 0,
+      featured: true,
+      tags: ['Google'],
+    },
+    {
+      id: '16-e',
+      slug: '2021-09-16-e',
+      contentType: 'video',
+      duration: '52',
+      contentTitle:
+        'ngLeipzig #41: GraphQL Backends for Angular with Hasura | Praveen Durairaju',
+      contentUrl: 'https://www.youtube.com/watch?v=-L2fQRwgw8Y',
+      contentDescription:
+        'Angular Leipzig #41 Online Meetup 14.09.2021 "Building GraphQL Backends for Angular Apps with Hasura" – talk by Praveen Durairaju',
+      descriptionBy: '',
+      imgUrl: '2021-09-16-e.jpg',
+      datePosted: '2021-09-16',
+      dateCreated: '2021-09-16',
+      postedBy: 'Steve Witman',
+      sourceSite: 'YouTube',
+      sourceUrl: 'https://youtube.com',
+      authorName: 'Angular Leipzig Meetup',
+      authorUrl: 'https://www.youtube.com/channel/UCq29lfLOUnZhWWUPR8NAj7g',
+      stars: 0,
+      featured: true,
+      tags: ['GraphQL', 'Hasura'],
+    },
+    {
+      id: '16-f',
+      slug: '2021-09-16-f',
+      contentType: 'video',
+      duration: '361',
+      contentTitle: 'Nx Conf - Day 1',
+      contentUrl: 'https://www.youtube.com/watch?v=oG2QbFquraA',
+      contentDescription:
+        'Nx Conf is a new, online & free-to-attend, 2-day conference featuring members of the Nx team and community. Join us as we share our ideas and expertise about making development faster, more scalable, and more collaborative.',
+      descriptionBy: '',
+      imgUrl: '2021-09-16-f.jpg',
+      datePosted: '2021-09-16',
+      dateCreated: '2021-09-16',
+      postedBy: 'Steve Witman',
+      sourceSite: 'YouTube',
+      sourceUrl: 'https://youtube.com',
+      authorName: 'Nrwl - Narwhal Technologies Inc.',
+      authorUrl: 'https://www.youtube.com/channel/UCF8luR7ORJTCwSNA9yZksCw',
+      stars: 0,
+      featured: true,
+      tags: ['Nx'],
+    },
   ];
 
   getPosts() {
@@ -2088,5 +2220,10 @@ export class PostService {
     return of(this.posts.find((obj) => obj.slug === slug));
   }
 
-  goToLink(externalUrl: string): void {}
+  openSourceInTab(externalUrl: string): void {
+    console.log('Posts Service - openSourceInTab');
+    window.open(externalUrl, '_blank');
+  }
+
+
 }

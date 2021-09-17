@@ -5,23 +5,31 @@
         mat-button
         class="nav-button-left"
         [routerLink]="['/']"
-        routerLinkActive="router-link-active"
       >
         BACK
       </button>
       <button
         mat-button
         class="nav-button-right"
-        [routerLink]="['/post', post.slug]"
-        routerLinkActive="router-link-active"
+        (click)="openPostInTab(post.contentUrl)"
       >
         GO TO ARTICLE
       </button>
     </div>
 
+    <div class="row-dates">
+      <p class="added">
+
+        ADDED TO NGNUGGETS: {{ post.datePosted}}
+        <span *ngIf="post.postedBy">by {{ post.postedBy }}</span
+        ><br />
+        ORIGINAL PUBLISH DATE: {{ post.dateCreated }}
+      </p>
+    </div>
+
     <div class="row-image">
       <div class="col-left">
-        <a (click)="onPostClicked(post.contentUrl)">
+        <a (click)="openPostInTab(post.contentUrl)">
           <div>
             <img src="assets/images/{{ post.imgUrl }}" class="post-image" />
           </div>
@@ -68,14 +76,35 @@
       </div>
     </div>
 
-    <div class="row-dates">
-      <p class="added">
 
-        ADDED TO NGNUGGETS: {{ post.datePosted}}
-        <span *ngIf="post.postedBy">by {{ post.postedBy }}</span
-        ><br />
-        ORIGINAL PUBLISH DATE: {{ post.dateCreated }}
-      </p>
+    <div class="card-row-content-type">
+      <div class="content-type">
+        <span
+          *ngIf="post.contentType == 'video'"
+          class="material-icons content-type-icon video-icon"
+          >smart_display</span
+        >
+        <span
+          *ngIf="post.contentType == 'blog'"
+          class="material-icons content-type-icon blog-icon"
+          >article</span
+        >
+        <span
+          *ngIf="post.contentType == 'question'"
+          class="material-icons content-type-icon question-icon"
+          >question_answer</span
+        >
+        <span
+          *ngIf="post.contentType == 'podcast'"
+          class="material-icons content-type-icon podcast-icon"
+          >podcasts</span
+        >
+        <span class="content-type">
+          {{ post.contentType | uppercase }}
+          <span *ngIf="post.duration" class="duration">- {{ post.duration }}m</span>
+        </span>
+         
+      </div>
     </div>
 
     <div>
