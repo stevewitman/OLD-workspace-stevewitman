@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "ngnuggets": {
+      "hosting": {
+        "stevewitmandotcom": [
+          "ngnuggets"
+        ]
+      }
+    }
+  }
+}

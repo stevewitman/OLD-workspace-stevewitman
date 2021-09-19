@@ -6,6 +6,10 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { NgnuggetsUiMainNavModule } from '@nx-stevewitman/ngnuggets/ui-main-nav';
 
+import { provideFirebaseApp, getApp, initializeApp } from '@angular/fire/app';
+import { getFirestore, provideFirestore } from '@angular/fire/firestore';
+import { environment } from '../environments/environment';
+
 @NgModule({
   declarations: [AppComponent],
   imports: [
@@ -14,6 +18,8 @@ import { NgnuggetsUiMainNavModule } from '@nx-stevewitman/ngnuggets/ui-main-nav'
     AppRoutingModule,
     // RouterModule.forRoot([], { initialNavigation: 'enabled' }),
     NgnuggetsUiMainNavModule,
+    // provideFirebaseApp(() => initializeApp(environment.firebase)),
+    // provideFirestore(() => getFirestore()),
   ],
   providers: [],
   bootstrap: [AppComponent],
