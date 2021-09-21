@@ -15,20 +15,19 @@
     </div>
   </a>
   <div class="card-part">
-    <div class="post-source">
-      <a
-        class="post-source-link"
-        href="{{ post.authorUrl }}"
-        target="_blank">
+    <div class="card-row-bottom">
+      <div class="post-source">
+        <a class="post-source-link" href="{{ post.authorUrl }}" target="_blank">
           {{ post.authorName }}
-      </a>
-      <span *ngIf="post.authorName && post.sourceSite">&nbsp;&nbsp;|&nbsp;&nbsp;</span>
-      <a
-        class="post-source-link"
-        href="{{ post.sourceUrl }}"
-        target="_blank">
+        </a>
+        <span *ngIf="post.authorName && post.sourceSite"
+          >&nbsp;&nbsp;|&nbsp;&nbsp;</span
+        >
+        <a class="post-source-link" href="{{ post.sourceUrl }}" target="_blank">
           {{ post.sourceSite }}
-      </a>
+        </a>
+      </div>
+      <div class="likes" [routerLink]="['/post', post.slug]">{{ likesText }}</div>
     </div>
     <div class="card-row-bottom">
       <div class="content-type">
@@ -43,25 +42,21 @@
           >article</span
         >
         <span
-          *ngIf="post.contentType == 'question'"
-          class="material-icons content-type-icon question-icon"
-          >question_answer</span
-        >
-        <span
           *ngIf="post.contentType == 'podcast'"
           class="material-icons content-type-icon podcast-icon"
           >podcasts</span
         >
         <span class="content-type">
           {{ post.contentType | uppercase }}
-          <span *ngIf="post.duration" class="duration">- {{ post.duration }}m</span>
+          <span *ngIf="post.duration" class="duration"
+            >- {{ post.duration }}m</span
+          >
         </span>
-         
       </div>
       <div class="card-actions">
         <button
           mat-button
-          class="details-button"
+          class="more-button"
           [routerLink]="['/post', post.slug]"
           routerLinkActive="router-link-active"
         >
