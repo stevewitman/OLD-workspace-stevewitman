@@ -1,14 +1,7 @@
-# WORKING ON
-- Log clicks to external links
-
-# ON DECK
-- Star and Save buttons format/style
+# TODO
+- Post-page - change order of save, like buttons (and likes)
 - PostPage go to video|blog|podcast button
 - prevent reloading posts on back button
-
-# BUGS
-
-# BACKLOG
 - day.js for time-ago display (core/misc/shared service)
 - status field on post (pending promotion from Submitted to Published)
 - Google analytics
