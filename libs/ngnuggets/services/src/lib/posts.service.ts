@@ -2983,12 +2983,34 @@ export class PostService {
       sourceUrl: 'https://youtube.com',
       authorName: 'Zoaib Khan',
       authorUrl: 'https://www.youtube.com/channel/UC7__K3OjyT1Ekf_Spi7O8Yg',
-      likes: 0,
+      likes: 22,
       featured: true,
       tags: ['NgRx', 'Component Store', 'Effects'],
       status: 'show',
     },
-
+    {
+      id: '21-d',
+      slug: '2021-09-21-d',
+      contentType: 'video',
+      duration: '7',
+      contentTitle:
+        'Using and Formatting the Slider Component in Angular Material - Angular Material Tutorial',
+      contentUrl: 'https://www.youtube.com/watch?v=qxoGtK7cRUw',
+      contentDescription:
+        "(Beginner Level) - Hey everyone, in today's video we are going to take a look at using the slider component in Angular Materials. Thanks for watching!",
+      imgUrl: '2021-09-21-d.png',
+      datePosted: '2021-09-21',
+      dateCreated: '2021-09-21',
+      postedBy: 'Steve Witman',
+      sourceSite: 'YouTube',
+      sourceUrl: 'https://www.youtube.com',
+      authorName: 'Coding Under Pressure',
+      authorUrl: 'https://www.youtube.com/channel/UCdGYTnk-Ll4S6yOsYwU8D2w',
+      likes: 1,
+      featured: true,
+      tags: ['Angular Material', 'Slider'],
+      status: 'show',
+    },
   ];
 
   getPosts() {

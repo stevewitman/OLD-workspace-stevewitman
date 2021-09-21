@@ -1,68 +1,84 @@
 <div class="card" *ngIf="post as post">
-  <div class="card-row-top card-part">
-    <div class="card-days-ago">{{ post.datePosted }}</div>
-  </div>
-
   <a (click)="onPostClicked(post.contentUrl)">
     <div>
-      <div class="vignette-inset">
-        <img src="assets/images/{{ post.imgUrl }}" class="card-image" />
-      </div>
-
+      <img src="assets/images/{{ post.imgUrl }}" class="card-image" />
       <div class="card-part post-title">
         <h3 class="post-title-text">{{ post.contentTitle }}</h3>
       </div>
     </div>
   </a>
-  <div class="card-part">
-    <div class="card-row-bottom">
-      <div class="post-source">
-        <a class="post-source-link" href="{{ post.authorUrl }}" target="_blank">
-          {{ post.authorName }}
-        </a>
-        <span *ngIf="post.authorName && post.sourceSite"
-          >&nbsp;&nbsp;|&nbsp;&nbsp;</span
-        >
-        <a class="post-source-link" href="{{ post.sourceUrl }}" target="_blank">
-          {{ post.sourceSite }}
-        </a>
-      </div>
-      <div class="likes" [routerLink]="['/post', post.slug]">{{ likesText }}</div>
+  <div class="card-part card-row-source">
+    <div class="post-source">
+      <a class="post-source-link" href="{{ post.authorUrl }}" target="_blank">
+        {{ post.authorName }}
+      </a>
+      <span *ngIf="post.authorName && post.sourceSite"
+        >&nbsp;&nbsp;|&nbsp;&nbsp;</span
+      >
+      <a class="post-source-link" href="{{ post.sourceUrl }}" target="_blank">
+        {{ post.sourceSite }}
+      </a>
     </div>
-    <div class="card-row-bottom">
-      <div class="content-type">
-        <span
-          *ngIf="post.contentType == 'video'"
-          class="material-icons content-type-icon video-icon"
-          >smart_display</span
-        >
-        <span
-          *ngIf="post.contentType == 'blog'"
-          class="material-icons content-type-icon blog-icon"
-          >article</span
-        >
-        <span
-          *ngIf="post.contentType == 'podcast'"
-          class="material-icons content-type-icon podcast-icon"
-          >podcasts</span
-        >
-        <span class="content-type">
-          {{ post.contentType | uppercase }}
-          <span *ngIf="post.duration" class="duration"
-            >- {{ post.duration }}m</span
-          >
+    <!-- <div class="card-days-ago">{{ post.datePosted }}</div> -->
+  </div>
+
+  <div class="card-part card-row-bottom">
+    <div class="content-type">
+      <span
+        *ngIf="post.contentType === 'video'"
+        class="material-icons content-type-icon video-icon"
+        >smart_display</span
+      >
+      <span
+        *ngIf="post.contentType === 'blog'"
+        class="material-icons content-type-icon blog-icon"
+        >article</span
+      >
+      <span
+        *ngIf="post.contentType === 'podcast'"
+        class="material-icons content-type-icon podcast-icon"
+        >podcasts</span
+      >
+      <span>
+        {{ post.contentType | uppercase }}
+        <span *ngIf="post.duration"> - {{ post.duration }}m</span>
+      </span>
+    </div>
+    <div class="likes">
+      <button
+        mat-button
+        class="more-button"
+        [routerLink]="['/post', post.slug]"
+        routerLinkActive="router-link-active"
+      >
+        {{ post.likes }}
+        <span class="material-icons">
+          <mat-icon class="likes-icon">star_border</mat-icon>
         </span>
-      </div>
-      <div class="card-actions">
-        <button
-          mat-button
-          class="more-button"
-          [routerLink]="['/post', post.slug]"
-          routerLinkActive="router-link-active"
-        >
-          MORE<mat-icon class="details-icon">more_horiz</mat-icon>
-        </button>
-      </div>
+      </button>
+    </div>
+    <!-- if logged in ... -->
+    <div class="likes" [routerLink]="['/post', post.slug]">
+      <button
+        mat-button
+        class="more-button"
+        [routerLink]="['/post', post.slug]"
+        routerLinkActive="router-link-active"
+      >
+        <span class="material-icons">
+          <mat-icon class="likes-icon">bookmark_border</mat-icon>
+        </span>
+      </button>
+    </div>
+    <div class="card-actions">
+      <button
+        mat-button
+        class="more-button"
+        [routerLink]="['/post', post.slug]"
+        routerLinkActive="router-link-active"
+      >
+        MORE<mat-icon class="details-icon">more_horiz</mat-icon>
+      </button>
     </div>
   </div>
 </div>

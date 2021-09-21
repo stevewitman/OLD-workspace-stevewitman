@@ -1,11 +1,7 @@
 <div class="page-container-narrow">
-  <div class="page-content" *ngIf="post$ | async as post; else loading">
+  <div class="page-content" *ngIf="post; else loading">
     <div class="row-nav">
-      <button
-        mat-button
-        class="nav-button-left"
-        [routerLink]="['/']"
-      >
+      <button mat-button class="nav-button-left" [routerLink]="['/']">
         BACK
       </button>
       <button
@@ -17,43 +13,32 @@
       </button>
     </div>
 
-    <div class="row-dates">
-      <p class="added">
-
-        ADDED TO NGNUGGETS: {{ post.datePosted}}
-        <span *ngIf="post.postedBy">by {{ post.postedBy }}</span
-        ><br />
-        ORIGINAL PUBLISH DATE: {{ post.dateCreated }}
-      </p>
-    </div>
-
     <div class="row-image">
-      <div class="col-left">
+      <div>
         <a (click)="openPostInTab(post.contentUrl)">
-          <div>
-            <img src="assets/images/{{ post.imgUrl }}" class="post-image" />
-          </div>
+          <img src="assets/images/{{ post.imgUrl }}" class="post-image" />
         </a>
       </div>
       <div class="col-right">
-        <div class="likes">
-          23 LIKES
-        </div>
-        <button mat-button (click)="toggleStared()" class="likes-button">
-          <mat-icon *ngIf="!stared" class="likes-false">star_border</mat-icon>
-          <mat-icon *ngIf="stared" class="likes-true">star</mat-icon>
-          <span class="likes-text">LIKE</span>
+        <button mat-button (click)="toggleStared()" class="like-button">
+          <mat-icon *ngIf="!stared">star_border</mat-icon>
+          <mat-icon *ngIf="stared">star</mat-icon>
+          <span class="action-text">LIKE</span>
         </button>
         <button mat-button (click)="toggleBookmarked()" class="save-button">
-          <mat-icon *ngIf="!bookmarked" class="save-false">bookmark_border</mat-icon>
-          <mat-icon *ngIf="bookmarked" class="save-true">bookmark</mat-icon>
-          <span class="save-text">SAVE</span>
+          <mat-icon *ngIf="!bookmarked">bookmark_border</mat-icon>
+          <mat-icon *ngIf="bookmarked">bookmark</mat-icon>
+          <span class="action-text">SAVE</span>
         </button>
+
+        <!-- <div class="likes">23 LIKES</div> -->
       </div>
     </div>
 
     <div class="row-title">
-      <h3 class="post-title-text">{{ post.contentTitle }}</h3>
+      <a (click)="openPostInTab(post.contentUrl)">
+        <h3 class="post-title-text">{{ post.contentTitle }}</h3>
+      </a>
     </div>
 
     <div class="row-description">
@@ -62,48 +47,67 @@
       </p>
     </div>
 
-    <div>
-      <div class="post-source">
-        <a class="post-source-link" href="{{ post.authorUrl }}" target="_blank">{{
-          post.authorName
-        }}</a>
-        <span *ngIf="post.sourceSite && post.authorName"
-          >&nbsp;&nbsp;|&nbsp;&nbsp;</span
-        >
-        <a class="post-source-link" href="{{ post.sourceUrl }}" target="_blank">{{
-          post.sourceSite
-        }}</a>
+    <div class="row-dates-first dates">
+      <div class="added">
+        Submitted {{ post.datePosted }} by: {{ post.postedBy }}
+      </div>
+      <div class="likes">{{ likesText }}</div>
+    </div>
+
+    <div class="row-dates-second dates">
+      <div class="added">
+        Published {{ post.dateCreated }} by:
+        <span class="post-source">
+          <a
+            class="post-source-link"
+            href="{{ post.authorUrl }}"
+            target="_blank"
+            >{{ post.authorName }}</a
+          >
+          <span *ngIf="post.sourceSite && post.authorName"
+            >&nbsp;&nbsp;|&nbsp;&nbsp;</span
+          >
+          <a
+            class="post-source-link"
+            href="{{ post.sourceUrl }}"
+            target="_blank"
+            >{{ post.sourceSite }}</a
+          >
+        </span>
       </div>
     </div>
 
+    <div></div>
 
     <div class="card-row-content-type">
       <div class="content-type">
         <span
-          *ngIf="post.contentType == 'video'"
+          *ngIf="post.contentType === 'video'"
           class="material-icons content-type-icon video-icon"
           >smart_display</span
         >
         <span
-          *ngIf="post.contentType == 'blog'"
+          *ngIf="post.contentType === 'blog'"
           class="material-icons content-type-icon blog-icon"
           >article</span
         >
         <span
-          *ngIf="post.contentType == 'question'"
-          class="material-icons content-type-icon question-icon"
-          >question_answer</span
-        >
-        <span
-          *ngIf="post.contentType == 'podcast'"
+          *ngIf="post.contentType === 'podcast'"
           class="material-icons content-type-icon podcast-icon"
           >podcasts</span
         >
         <span class="content-type">
           {{ post.contentType | uppercase }}
-          <span *ngIf="post.duration" class="duration">- {{ post.duration }}m</span>
+          <span *ngIf="post.duration" class="duration">
+            - {{ post.duration }}m</span
+          >
         </span>
-         
+      </div>
+      <div class="likes">
+        {{ post.likes }}
+        <span class="material-icons">
+          <mat-icon class="likes-icon">star_border</mat-icon>
+        </span>
       </div>
     </div>
 
@@ -113,7 +117,7 @@
       </mat-chip-list>
     </div>
   </div>
-  
+
   <ng-template #loading>
     <p>L o a d i n g . . .</p>
   </ng-template>

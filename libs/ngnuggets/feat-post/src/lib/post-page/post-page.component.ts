@@ -4,7 +4,7 @@ import { animate, style, transition, trigger } from '@angular/animations';
 
 import { Observable } from 'rxjs';
 
-import { PostService } from '@nx-stevewitman/ngnuggets/services';
+import { PostDetail, PostService } from '@nx-stevewitman/ngnuggets/services';
 // import { PostSummary } from '@nx-stevewitman/ngnuggets/services';
 // import { PostDetail } from '@nx-stevewitman/ngnuggets/services';
 
@@ -23,12 +23,13 @@ import { PostService } from '@nx-stevewitman/ngnuggets/services';
 })
 export class PostPageComponent implements OnInit {
   slug: string;
-  post$: Observable<any>;
+  post: PostDetail;
   stared = false;
   bookmarked = false;
-  later = false;
+  likesText = "";
 
   @Output() postClicked = new EventEmitter<string>();
+
 
   constructor(
     private postService: PostService,
@@ -37,7 +38,17 @@ export class PostPageComponent implements OnInit {
 
   ngOnInit() {
     this.slug = this.route.snapshot.paramMap.get('slug');
-    this.post$ = this.postService.getPostBySlug(this.slug);
+    this.postService.getPostBySlug(this.slug).subscribe(
+      val => this.post = val
+    );
+  }
+
+  ngOnValueChanges() {
+    if (this.post.likes !== 1) {
+      this.likesText = this.post.likes + ' LIKES';
+    } else {
+      this.likesText = this.post.likes + ' LIKE';
+    }
   }
 
   onPostClicked(value: string) {
@@ -57,7 +68,4 @@ export class PostPageComponent implements OnInit {
     this.bookmarked = !this.bookmarked;
   }
 
-  laterClicked() {
-    this.later = !this.later;
-  }
 }
