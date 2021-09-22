@@ -20,6 +20,5 @@ export interface PostDetail {
   featured: boolean;
   tags?: string[];
   visits?: number;
-  status: 'wait' | 'block' | 'show',
   notes?: ''
 }

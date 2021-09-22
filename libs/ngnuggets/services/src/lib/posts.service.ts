@@ -29,7 +29,6 @@ export class PostService {
       likes: 0,
       featured: true,
       tags: ['Kwik'],
-      status: 'show',
       visits: 1,
     },
     {
@@ -53,7 +52,6 @@ export class PostService {
       likes: 0,
       featured: true,
       tags: ['NgRx', 'State Management'],
-      status: 'show',
     },
     {
       id: '01-c',
@@ -75,7 +73,6 @@ export class PostService {
       likes: 0,
       featured: true,
       tags: ['Modules'],
-      status: 'show',
     },
     {
       id: '01-d',
@@ -106,7 +103,6 @@ export class PostService {
         'AsyncSubject',
         'Void Subject',
       ],
-      status: 'show',
     },
     {
       id: '01-e',
@@ -129,7 +125,6 @@ export class PostService {
       likes: 0,
       featured: true,
       tags: ['Eager Loading', 'Lazy Loading', 'Preloading'],
-      status: 'show',
     },
     {
       id: '02-a',
@@ -153,7 +148,6 @@ export class PostService {
       likes: 0,
       featured: true,
       tags: [],
-      status: 'show',
     },
     {
       id: '02-b',
@@ -176,7 +170,6 @@ export class PostService {
       likes: 0,
       featured: true,
       tags: ['ngx-bootstrap', 'tooltip'],
-      status: 'show',
     },
     {
       id: '02-c',
@@ -200,7 +193,6 @@ export class PostService {
       likes: 0,
       featured: true,
       tags: ['RxJS'],
-      status: 'show',
     },
     {
       id: '02-d',
@@ -223,7 +215,6 @@ export class PostService {
       likes: 0,
       featured: true,
       tags: ['conditional load', 'module', 'useFactory'],
-      status: 'show',
     },
     {
       id: '03-a',
@@ -246,7 +237,6 @@ export class PostService {
       likes: 0,
       featured: true,
       tags: ['Firebase', 'Auth', 'Phone'],
-      status: 'show',
     },
     {
       id: '03-c',
@@ -269,7 +259,6 @@ export class PostService {
       likes: 0,
       featured: true,
       tags: ['Libraries'],
-      status: 'show',
     },
     {
       id: '03-d',
@@ -292,7 +281,6 @@ export class PostService {
       likes: 0,
       featured: true,
       tags: ['Performance'],
-      status: 'show',
     },
     {
       id: '03-e',
@@ -314,7 +302,6 @@ export class PostService {
       likes: 0,
       featured: true,
       tags: [],
-      status: 'show',
     },
     {
       id: '03-f',
@@ -336,7 +323,6 @@ export class PostService {
       likes: 0,
       featured: true,
       tags: ['Tour of Heroes'],
-      status: 'show',
     },
     {
       id: '03-g',
@@ -359,7 +345,6 @@ export class PostService {
       likes: 0,
       featured: true,
       tags: ['Social Media Buttons'],
-      status: 'show',
     },
     {
       id: '04-a',
@@ -382,7 +367,6 @@ export class PostService {
       likes: 0,
       featured: true,
       tags: ['RxJS', 'range'],
-      status: 'show',
     },
     {
       id: '05-a',
@@ -405,7 +389,6 @@ export class PostService {
       likes: 0,
       featured: true,
       tags: ['Pipes'],
-      status: 'show',
     },
     {
       id: '05-b',
@@ -428,7 +411,6 @@ export class PostService {
       likes: 0,
       featured: true,
       tags: ['Dependency Injection'],
-      status: 'show',
     },
     {
       id: '05-c',
@@ -451,7 +433,6 @@ export class PostService {
       likes: 0,
       featured: true,
       tags: ['Nx'],
-      status: 'show',
     },
     {
       id: '05-d',
@@ -474,7 +455,6 @@ export class PostService {
       likes: 0,
       featured: true,
       tags: ['ngSwitch'],
-      status: 'show',
     },
     {
       id: '05-e',
@@ -496,7 +476,6 @@ export class PostService {
       likes: 0,
       featured: true,
       tags: ['NgRx'],
-      status: 'show',
     },
     {
       id: '06-b',
@@ -517,7 +496,6 @@ export class PostService {
       likes: 0,
       featured: true,
       tags: ['Cypress'],
-      status: 'show',
     },
     {
       id: '06-c',
@@ -539,7 +517,6 @@ export class PostService {
       likes: 0,
       featured: true,
       tags: ['Community'],
-      status: 'show',
     },
     {
       id: '06-d',
@@ -563,7 +540,6 @@ export class PostService {
       likes: 0,
       featured: true,
       tags: [],
-      status: 'show',
     },
     {
       id: '06-e',
@@ -586,7 +562,6 @@ export class PostService {
       likes: 0,
       featured: true,
       tags: ['Community'],
-      status: 'show',
     },
     {
       id: '06-f',
@@ -609,7 +584,6 @@ export class PostService {
       likes: 0,
       featured: true,
       tags: [],
-      status: 'show',
     },
     {
       id: '06-g',
@@ -631,7 +605,6 @@ export class PostService {
       likes: 0,
       featured: true,
       tags: ['Firebase'],
-      status: 'show',
     },
     {
       id: '07-a',
@@ -652,7 +625,6 @@ export class PostService {
       likes: 0,
       featured: true,
       tags: [],
-      status: 'show',
     },
     {
       id: '07-b',
@@ -674,7 +646,6 @@ export class PostService {
       likes: 0,
       featured: true,
       tags: ['unit test'],
-      status: 'show',
     },
     {
       id: '07-c',
@@ -696,7 +667,6 @@ export class PostService {
       likes: 0,
       featured: true,
       tags: ['Google Maps', 'Capacitor', 'Ionic'],
-      status: 'show',
     },
     {
       id: '07-d',
@@ -719,7 +689,6 @@ export class PostService {
       likes: 0,
       featured: true,
       tags: ['library', 'workspace'],
-      status: 'show',
     },
     {
       id: '07-e',
@@ -741,7 +710,6 @@ export class PostService {
       likes: 0,
       featured: true,
       tags: ['module', 'architecture'],
-      status: 'show',
     },
     {
       id: '07-f',
@@ -776,7 +744,6 @@ export class PostService {
         'Utility Types',
         'Nullish Coalescing Operator',
       ],
-      status: 'show',
     },
     {
       id: '07-g',
@@ -798,7 +765,6 @@ export class PostService {
       likes: 0,
       featured: true,
       tags: ['git'],
-      status: 'show',
     },
     {
       id: '07-h',
@@ -822,7 +788,27 @@ export class PostService {
       likes: 0,
       featured: true,
       tags: ['ngFor', 'ngIf'],
-      status: 'show',
+    },
+    {
+      id: '07-i',
+      slug: '2021-09-07-i',
+      contentType: 'video',
+      duration: '6',
+      contentTitle: 'Fundamental Type Guards - TypeScript Narrowing #2',
+      contentUrl: 'https://www.youtube.com/watch?v=ZdMfiVK7fcM',
+      contentDescription:
+        'The second video in our TypeScript Narrowing series. Learn 6 fundamental type guards (and techniques) available for narrowing ...',
+      imgUrl: '2021-09-07-i.jpg',
+      datePosted: '2021-09-07',
+      dateCreated: '2021-09-07',
+      postedBy: 'Steve Witman',
+      sourceSite: 'YouTube',
+      sourceUrl: 'https://youtube.org',
+      authorName: 'Lucas Paganini',
+      authorUrl: 'https://www.youtube.com/channel/UCb2qfrlxS0kK9vca_fpjdNQ',
+      likes: 0,
+      featured: true,
+      tags: ['TypeScript'],
     },
     {
       id: '08-a',
@@ -844,7 +830,6 @@ export class PostService {
       likes: 0,
       featured: true,
       tags: ['Firebase', 'Cypress', 'Testing'],
-      status: 'show',
     },
     {
       id: '08-b',
@@ -866,7 +851,6 @@ export class PostService {
       likes: 0,
       featured: true,
       tags: ['RxJs', 'Observer', 'Subscription'],
-      status: 'show',
     },
     {
       id: '08-d',
@@ -889,7 +873,6 @@ export class PostService {
       likes: 0,
       featured: true,
       tags: ['Data Binding'],
-      status: 'show',
     },
     {
       id: '08-e',
@@ -912,7 +895,6 @@ export class PostService {
       likes: 0,
       featured: true,
       tags: ['NgRx', 'Schematics'],
-      status: 'show',
     },
     {
       id: '08-f',
@@ -934,7 +916,6 @@ export class PostService {
       likes: 0,
       featured: true,
       tags: ['Custom Directive'],
-      status: 'show',
     },
     {
       id: '08-g',
@@ -957,7 +938,6 @@ export class PostService {
       likes: 0,
       featured: true,
       tags: ['Services'],
-      status: 'show',
     },
     {
       id: '08-h',
@@ -979,7 +959,6 @@ export class PostService {
       likes: 0,
       featured: true,
       tags: ['NgRx'],
-      status: 'show',
     },
     {
       id: '09-a',
@@ -1002,7 +981,6 @@ export class PostService {
       likes: 0,
       featured: true,
       tags: ['Hover'],
-      status: 'show',
     },
     {
       id: '09-b',
@@ -1024,7 +1002,6 @@ export class PostService {
       likes: 0,
       featured: true,
       tags: [],
-      status: 'show',
     },
     {
       id: '09-c',
@@ -1047,7 +1024,6 @@ export class PostService {
       likes: 0,
       featured: true,
       tags: ['Unit Testing', 'Dummies', 'Fakes', 'Mocks', 'Stubs'],
-      status: 'show',
     },
     {
       id: '09-d',
@@ -1070,7 +1046,6 @@ export class PostService {
       likes: 0,
       featured: true,
       tags: ['RxJS', 'Subscription Management'],
-      status: 'show',
     },
     {
       id: '09-e',
@@ -1093,7 +1068,6 @@ export class PostService {
       likes: 0,
       featured: true,
       tags: ['NgRx', 'ComponentStore'],
-      status: 'show',
     },
     {
       id: '09-f',
@@ -1115,7 +1089,6 @@ export class PostService {
       likes: 0,
       featured: true,
       tags: ['Community'],
-      status: 'show',
     },
     {
       id: '09-g',
@@ -1138,7 +1111,6 @@ export class PostService {
       likes: 0,
       featured: true,
       tags: ['Routing', 'Path Parameters'],
-      status: 'show',
     },
     {
       id: '09-h',
@@ -1161,7 +1133,6 @@ export class PostService {
       likes: 0,
       featured: true,
       tags: [],
-      status: 'show',
     },
     {
       id: '09-i',
@@ -1184,7 +1155,6 @@ export class PostService {
       likes: 0,
       featured: true,
       tags: ['Angular Architecture', 'Nx'],
-      status: 'show',
     },
     {
       id: '09-j',
@@ -1207,7 +1177,6 @@ export class PostService {
       likes: 0,
       featured: true,
       tags: ['Angular Architecture', 'Nx'],
-      status: 'show',
     },
     {
       id: '10-a',
@@ -1229,7 +1198,6 @@ export class PostService {
       likes: 0,
       featured: true,
       tags: ['HttpClient', 'CORS'],
-      status: 'show',
     },
     {
       id: '10-b',
@@ -1252,7 +1220,6 @@ export class PostService {
       likes: 0,
       featured: true,
       tags: ['Auth', 'Reactive Forms', 'Routing'],
-      status: 'show',
     },
     {
       id: '10-c',
@@ -1275,7 +1242,6 @@ export class PostService {
       likes: 0,
       featured: true,
       tags: ['Directives'],
-      status: 'show',
     },
     {
       id: '10-d',
@@ -1298,7 +1264,6 @@ export class PostService {
       likes: 0,
       featured: true,
       tags: ['RxJS'],
-      status: 'show',
     },
     {
       id: '10-e',
@@ -1320,7 +1285,6 @@ export class PostService {
       likes: 0,
       featured: true,
       tags: ['reCAPTCHA'],
-      status: 'show',
     },
     {
       id: '10-f',
@@ -1344,7 +1308,6 @@ export class PostService {
       likes: 0,
       featured: true,
       tags: [],
-      status: 'show',
     },
     {
       id: '10-g',
@@ -1367,7 +1330,6 @@ export class PostService {
       likes: 0,
       featured: true,
       tags: [],
-      status: 'show',
     },
     {
       id: '10-h',
@@ -1390,7 +1352,6 @@ export class PostService {
       likes: 0,
       featured: true,
       tags: ['Testing', 'Cypress', 'Code Coverage'],
-      status: 'show',
     },
     {
       id: '10-i',
@@ -1412,7 +1373,6 @@ export class PostService {
       likes: 0,
       featured: true,
       tags: ['Angular Material'],
-      status: 'show',
     },
     {
       id: '11-a',
@@ -1434,7 +1394,6 @@ export class PostService {
       likes: 0,
       featured: true,
       tags: ['Pipes'],
-      status: 'show',
     },
     {
       id: '11-b',
@@ -1456,7 +1415,6 @@ export class PostService {
       likes: 0,
       featured: true,
       tags: ['Testing', 'Jasmine', 'Karma', 'NgRx'],
-      status: 'show',
     },
     {
       id: '12-a',
@@ -1480,7 +1438,6 @@ export class PostService {
       likes: 0,
       featured: true,
       tags: ['RxJS', 'Subscriptions'],
-      status: 'show',
     },
     {
       id: '12-b',
@@ -1501,7 +1458,6 @@ export class PostService {
       likes: 0,
       featured: true,
       tags: ['RxJS', 'Observables', 'Promises'],
-      status: 'show',
     },
     {
       id: '13-a',
@@ -1524,7 +1480,6 @@ export class PostService {
       likes: 0,
       featured: true,
       tags: ['Pagination'],
-      status: 'show',
     },
     {
       id: '13-b',
@@ -1546,7 +1501,6 @@ export class PostService {
       likes: 0,
       featured: true,
       tags: ['Testing'],
-      status: 'show',
     },
     {
       id: '13-c',
@@ -1569,7 +1523,6 @@ export class PostService {
       likes: 0,
       featured: true,
       tags: ['TypeScript'],
-      status: 'show',
     },
     {
       id: '13-d',
@@ -1591,7 +1544,6 @@ export class PostService {
       likes: 0,
       featured: true,
       tags: ['Template Driven Forms'],
-      status: 'show',
     },
     {
       id: '13-e',
@@ -1616,7 +1568,6 @@ export class PostService {
       likes: 0,
       featured: true,
       tags: ['Template Driven Forms'],
-      status: 'show',
     },
     {
       id: '13-f',
@@ -1640,7 +1591,6 @@ export class PostService {
       likes: 0,
       featured: true,
       tags: ['Docker'],
-      status: 'show',
     },
     {
       id: '13-g',
@@ -1664,7 +1614,6 @@ export class PostService {
       likes: 0,
       featured: true,
       tags: ['Attributes'],
-      status: 'show',
     },
     {
       id: '13-h',
@@ -1687,7 +1636,6 @@ export class PostService {
       likes: 0,
       featured: true,
       tags: ['Debugging'],
-      status: 'show',
     },
     {
       id: '13-i',
@@ -1710,7 +1658,6 @@ export class PostService {
       likes: 0,
       featured: true,
       tags: [],
-      status: 'show',
     },
     {
       id: '13-j',
@@ -1734,7 +1681,6 @@ export class PostService {
       likes: 0,
       featured: true,
       tags: ['Internationalization', 'i18n', 'Transloco', 'Nx'],
-      status: 'show',
     },
     {
       id: '13-k',
@@ -1757,7 +1703,6 @@ export class PostService {
       likes: 0,
       featured: true,
       tags: ['Internationalization', 'i18n', 'Transloco', 'Nx'],
-      status: 'show',
     },
     {
       id: '13-m',
@@ -1779,7 +1724,6 @@ export class PostService {
       likes: 0,
       featured: true,
       tags: ['TypeScript', 'Interfaces'],
-      status: 'show',
     },
     {
       id: '14-a',
@@ -1801,7 +1745,6 @@ export class PostService {
       likes: 0,
       featured: true,
       tags: ['RxJS'],
-      status: 'show',
     },
     {
       id: '14-b',
@@ -1823,7 +1766,6 @@ export class PostService {
       likes: 0,
       featured: true,
       tags: ['Nx'],
-      status: 'show',
     },
     {
       id: '14-c',
@@ -1846,7 +1788,6 @@ export class PostService {
       likes: 0,
       featured: true,
       tags: ['Animations'],
-      status: 'show',
     },
     {
       id: '14-d',
@@ -1868,7 +1809,6 @@ export class PostService {
       likes: 0,
       featured: true,
       tags: ['NgRx'],
-      status: 'show',
     },
     {
       id: '14-e',
@@ -1891,7 +1831,6 @@ export class PostService {
       likes: 0,
       featured: true,
       tags: ['NgRx'],
-      status: 'show',
     },
     {
       id: '14-f',
@@ -1913,7 +1852,6 @@ export class PostService {
       likes: 0,
       featured: true,
       tags: ['Accessibility'],
-      status: 'show',
     },
     {
       id: '14-g',
@@ -1935,7 +1873,6 @@ export class PostService {
       likes: 0,
       featured: true,
       tags: ['Virtual Scroll', 'CDK', 'Ionic'],
-      status: 'show',
     },
     {
       id: '14-h',
@@ -1958,7 +1895,6 @@ export class PostService {
       likes: 0,
       featured: true,
       tags: ['NgRx', 'Actions', 'Reducers', 'Effects'],
-      status: 'show',
     },
     {
       id: '14-i',
@@ -1980,7 +1916,6 @@ export class PostService {
       likes: 0,
       featured: true,
       tags: ['Pipes'],
-      status: 'show',
     },
     {
       id: '15-a',
@@ -2005,7 +1940,6 @@ export class PostService {
       likes: 0,
       featured: true,
       tags: [],
-      status: 'show',
     },
     {
       id: '15-b',
@@ -2027,7 +1961,6 @@ export class PostService {
       likes: 0,
       featured: true,
       tags: ['NgRx', 'ComponentStore'],
-      status: 'show',
     },
     {
       id: '15-c',
@@ -2051,7 +1984,6 @@ export class PostService {
       likes: 0,
       featured: true,
       tags: ['NgRx', 'Effects'],
-      status: 'show',
     },
     {
       id: '15-d',
@@ -2074,7 +2006,6 @@ export class PostService {
       likes: 0,
       featured: true,
       tags: ['Architecture', 'Nx', 'NgRx'],
-      status: 'show',
     },
     {
       id: '15-e',
@@ -2097,7 +2028,6 @@ export class PostService {
       likes: 0,
       featured: true,
       tags: ['Architecture', 'Nx', 'NgRx'],
-      status: 'show',
     },
     {
       id: '16-a',
@@ -2119,7 +2049,6 @@ export class PostService {
       likes: 0,
       featured: true,
       tags: ['Update'],
-      status: 'show',
     },
     {
       id: '16-b',
@@ -2141,7 +2070,6 @@ export class PostService {
       likes: 0,
       featured: true,
       tags: ['RxJS', 'switchAll'],
-      status: 'show',
     },
     {
       id: '16-c',
@@ -2163,7 +2091,6 @@ export class PostService {
       likes: 0,
       featured: true,
       tags: ['RxJS', 'Creation Operators'],
-      status: 'show',
     },
     {
       id: '16-d',
@@ -2185,7 +2112,6 @@ export class PostService {
       likes: 0,
       featured: true,
       tags: ['Google'],
-      status: 'show',
     },
     {
       id: '16-e',
@@ -2208,7 +2134,6 @@ export class PostService {
       likes: 0,
       featured: true,
       tags: ['GraphQL', 'Hasura'],
-      status: 'show',
     },
     {
       id: '16-f',
@@ -2230,7 +2155,6 @@ export class PostService {
       likes: 0,
       featured: true,
       tags: ['Nx'],
-      status: 'show',
     },
     {
       id: '16-g',
@@ -2252,7 +2176,6 @@ export class PostService {
       likes: 0,
       featured: true,
       tags: ['Optional Modules'],
-      status: 'show',
     },
     {
       id: '16-g',
@@ -2275,7 +2198,6 @@ export class PostService {
       likes: 0,
       featured: true,
       tags: [],
-      status: 'show',
     },
     {
       id: '16-h',
@@ -2297,7 +2219,6 @@ export class PostService {
       likes: 0,
       featured: true,
       tags: ['TypeScript'],
-      status: 'show',
     },
     {
       id: '17-a',
@@ -2319,7 +2240,6 @@ export class PostService {
       likes: 0,
       featured: true,
       tags: ['Nx'],
-      status: 'show',
     },
     {
       id: '17-b',
@@ -2343,7 +2263,6 @@ export class PostService {
       likes: 0,
       featured: true,
       tags: ['Library'],
-      status: 'show',
     },
     {
       id: '17-c',
@@ -2366,7 +2285,6 @@ export class PostService {
       likes: 0,
       featured: true,
       tags: ['Navigation'],
-      status: 'show',
     },
     {
       id: '17-d',
@@ -2389,7 +2307,6 @@ export class PostService {
       likes: 0,
       featured: true,
       tags: ['Route Guards', 'CanActivate'],
-      status: 'show',
     },
     {
       id: '17-e',
@@ -2411,7 +2328,6 @@ export class PostService {
       likes: 0,
       featured: true,
       tags: ['Routing', 'ActivatedRoute', 'Route Params'],
-      status: 'show',
     },
     {
       id: '17-f',
@@ -2433,7 +2349,6 @@ export class PostService {
       likes: 0,
       featured: true,
       tags: ['Reactive Forms'],
-      status: 'show',
     },
     {
       id: '17-g',
@@ -2456,7 +2371,6 @@ export class PostService {
       likes: 0,
       featured: true,
       tags: ['Migration'],
-      status: 'show',
     },
     {
       id: '17-h',
@@ -2479,7 +2393,6 @@ export class PostService {
       likes: 0,
       featured: true,
       tags: ['Micro-Frontends', 'Routing'],
-      status: 'show',
     },
     {
       id: '18-a',
@@ -2502,7 +2415,6 @@ export class PostService {
       likes: 0,
       featured: true,
       tags: [],
-      status: 'show',
     },
     {
       id: '18-b',
@@ -2525,7 +2437,6 @@ export class PostService {
       likes: 0,
       featured: true,
       tags: [],
-      status: 'show',
     },
     {
       id: '18-c',
@@ -2549,7 +2460,6 @@ export class PostService {
       likes: 0,
       featured: true,
       tags: ['Errors'],
-      status: 'show',
     },
     {
       id: '19-a',
@@ -2572,7 +2482,6 @@ export class PostService {
       likes: 0,
       featured: true,
       tags: ['NestJS'],
-      status: 'show',
     },
     {
       id: '19-b',
@@ -2594,7 +2503,6 @@ export class PostService {
       likes: 0,
       featured: true,
       tags: ['Storybook'],
-      status: 'show',
     },
     {
       id: '19-c',
@@ -2618,7 +2526,6 @@ export class PostService {
       likes: 0,
       featured: true,
       tags: ['ngx-logger'],
-      status: 'show',
     },
     {
       id: '19-d',
@@ -2640,7 +2547,6 @@ export class PostService {
       likes: 0,
       featured: true,
       tags: [],
-      status: 'show',
     },
     {
       id: '19-e',
@@ -2662,7 +2568,6 @@ export class PostService {
       likes: 0,
       featured: true,
       tags: [],
-      status: 'show',
     },
     {
       id: '19-f',
@@ -2684,7 +2589,6 @@ export class PostService {
       likes: 0,
       featured: true,
       tags: [],
-      status: 'show',
     },
     {
       id: '19-g',
@@ -2707,7 +2611,6 @@ export class PostService {
       likes: 0,
       featured: true,
       tags: ['Micro Frontends', 'Module Federation'],
-      status: 'show',
     },
     {
       id: '19-h',
@@ -2730,7 +2633,6 @@ export class PostService {
       likes: 0,
       featured: true,
       tags: ['RxJS'],
-      status: 'show',
     },
     {
       id: '20-a',
@@ -2753,7 +2655,6 @@ export class PostService {
       likes: 0,
       featured: true,
       tags: ['Reactive Forms', 'Angular Material'],
-      status: 'show',
     },
     {
       id: '20-b',
@@ -2776,7 +2677,6 @@ export class PostService {
       likes: 0,
       featured: true,
       tags: ['Nx', 'Library'],
-      status: 'show',
     },
     {
       id: '20-c',
@@ -2798,7 +2698,6 @@ export class PostService {
       likes: 0,
       featured: true,
       tags: [],
-      status: 'show',
     },
     {
       id: '20-d',
@@ -2820,7 +2719,6 @@ export class PostService {
       likes: 0,
       featured: true,
       tags: ['Factory Pattern'],
-      status: 'show',
     },
     {
       id: '20-e',
@@ -2844,7 +2742,6 @@ export class PostService {
       likes: 0,
       featured: true,
       tags: [],
-      status: 'show',
     },
     {
       id: '20-f',
@@ -2868,7 +2765,6 @@ export class PostService {
       likes: 0,
       featured: true,
       tags: ['Testing'],
-      status: 'show',
     },
     {
       id: '20-g',
@@ -2893,7 +2789,6 @@ export class PostService {
       likes: 0,
       featured: true,
       tags: ['ESLint'],
-      status: 'show',
     },
     {
       id: '20-h',
@@ -2917,7 +2812,6 @@ export class PostService {
       likes: 0,
       featured: true,
       tags: ['NgRX', 'NgRX Entity', 'Selectors'],
-      status: 'show',
     },
     {
       id: '21-a',
@@ -2939,7 +2833,6 @@ export class PostService {
       likes: 0,
       featured: true,
       tags: ['Directives', 'Selectors'],
-      status: 'show',
     },
     {
       id: '21-b',
@@ -2963,7 +2856,6 @@ export class PostService {
       likes: 0,
       featured: true,
       tags: ['Testiing', 'RxJS'],
-      status: 'show',
     },
     {
       id: '21-c',
@@ -2986,7 +2878,6 @@ export class PostService {
       likes: 22,
       featured: true,
       tags: ['NgRx', 'Component Store', 'Effects'],
-      status: 'show',
     },
     {
       id: '21-d',
@@ -3009,7 +2900,146 @@ export class PostService {
       likes: 1,
       featured: true,
       tags: ['Angular Material', 'Slider'],
-      status: 'show',
+    },
+    {
+      id: '21-e',
+      slug: '2021-09-21-e',
+      contentType: 'video',
+      duration: '5',
+      contentTitle: 'Custom Type Guards - TypeScript Narrowing #3',
+      contentUrl: 'https://www.youtube.com/watch?v=FvSaID3TjhI',
+      contentDescription:
+        'The third video in our TypeScript Narrowing series. In this video, I explain Type predicates, How to create custom type guards, BONUS: How to create a type guard by exclusion',
+      imgUrl: '2021-09-21-e.jpg',
+      datePosted: '2021-09-21',
+      dateCreated: '2021-09-21',
+      postedBy: 'Steve Witman',
+      sourceSite: 'YouTube',
+      sourceUrl: 'https://youtube.org',
+      authorName: 'Lucas Paganini',
+      authorUrl: 'https://www.youtube.com/channel/UCb2qfrlxS0kK9vca_fpjdNQ',
+      likes: 0,
+      featured: true,
+      tags: ['TypeScript'],
+    },
+    {
+      id: '22-a',
+      slug: '2021-09-22-a',
+      contentType: 'video',
+      duration: '6',
+      contentTitle:
+        'Angular Library: Learn How To Create And Use It In Your App',
+      contentUrl: 'https://www.youtube.com/watch?v=hIEbJkP1M5E',
+      contentDescription:
+        'In this video, you will see how to create an #angular #library, and how to use it in your application.',
+      imgUrl: '2021-09-22-a.jpg',
+      datePosted: '2021-09-22',
+      dateCreated: '2021-09-22',
+      postedBy: 'Steve Witman',
+      sourceSite: 'YouTube',
+      sourceUrl: 'https://youtube.org',
+      authorName: 'Code Shots With Profanis',
+      authorUrl: 'https://www.youtube.com/channel/UCgJAoZCYx1Dk3iGPHSIgV1A',
+      likes: 0,
+      featured: true,
+      tags: ['Libraries'],
+    },
+    {
+      id: '22-b',
+      slug: '2021-09-22-b',
+      contentType: 'blog',
+      duration: '',
+      contentTitle: 'RxJS - Join Operators',
+      contentUrl: 'https://dev.to/this-is-learning/rxjs-join-operators-2lam',
+      contentDescription:
+        "Hi Guys and Welcome Back, Today I'll speak about the Join Operators. Some of these operators are similar to other operators shown in the Creation Operators but they are used in different contexts, ok let's start!",
+      imgUrl: '2021-09-22-b.png',
+      datePosted: '2021-09-22',
+      dateCreated: '2021-09-22',
+      postedBy: 'Steve Witman',
+      sourceSite: 'DEV Community',
+      sourceUrl: 'https://dev.to',
+      authorName: 'Luca Del Puppo',
+      authorUrl: 'https://dev.to/puppo',
+      likes: 0,
+      featured: true,
+      tags: [
+        'RxJS',
+        'combineLatestAll',
+        'cooncatAll',
+        'exhaustAll',
+        'mergeAll',
+        'switchAll',
+        'startWith',
+        'withLatestFrom',
+      ],
+    },
+    {
+      id: '22-c',
+      slug: '2021-09-22-c',
+      contentType: 'video',
+      duration: '27',
+      contentTitle:
+        'Angular Services Tutorial | Learn Angular Dependency Injection | Edureka',
+      contentUrl: 'https://www.youtube.com/watch?v=aqXy-ENzewA',
+      contentDescription:
+        'This Edureka "Angular Services Tutorial" will help you  understand how to implement create services and use dependency injection in Angular.',
+      imgUrl: '2021-09-22-c.jpg',
+      datePosted: '2021-09-22',
+      dateCreated: '2021-09-22',
+      postedBy: 'Steve Witman',
+      sourceSite: 'YouTube',
+      sourceUrl: 'https://youtube.org',
+      authorName: 'edureka',
+      authorUrl: 'https://www.youtube.com/channel/UCkw4JCwteGrDHIsyIIKo4tQ',
+      likes: 0,
+      featured: true,
+      tags: ['Services', 'Dependency Injection'],
+    },
+    {
+      id: '22-d',
+      slug: '2021-09-22-d',
+      contentType: 'video',
+      duration: '31',
+      contentTitle: 'Recap: Web Development with Angular (Part 3)',
+      contentUrl: 'https://www.youtube.com/watch?v=oMrKex8rDkU',
+      contentDescription:
+        'We start the year with some recap lectures. The first one is about web development with Angular. Students have already learned some fundamentals of Angular last year. This lecture should recap important aspects as we will need them in the upcoming weeks.',
+      imgUrl: '2021-09-22-d.jpg',
+      datePosted: '2021-09-22',
+      dateCreated: '2021-09-22',
+      postedBy: 'Steve Witman',
+      sourceSite: 'YouTube',
+      sourceUrl: 'https://youtube.com',
+      authorName: 'Rainer Stropek',
+      authorUrl: 'https://www.youtube.com/channel/UCo2T5CWtdbj4NveB5flTD4A',
+      likes: 0,
+      featured: true,
+      tags: [],
+    },
+    {
+      id: '22-e',
+      slug: '2021-09-22-e',
+      contentType: 'blog',
+      duration: '',
+      contentTitle: 'Animate your Angular App using Animate.css',
+      contentUrl:
+        'https://dev.to/this-is-angular/animate-your-angular-app-using-animate-css-46c5',
+      contentDescription:
+        'Most of you probably have heard of Animate.css. It is an open-source CSS animation library with lots of predefined animations. Animate.css groups their animations into categories such as entrances, exits, and attention seekers, each addressing a different use case.',
+      imgUrl: '2021-09-22-e.png',
+      datePosted: '2021-09-22',
+      dateCreated: '2021-09-22',
+      postedBy: 'Steve Witman',
+      sourceSite: 'DEV Community',
+      sourceUrl: 'https://dev.to',
+      authorName: 'William Juan',
+      authorUrl: 'https://dev.to/williamjuan27',
+      likes: 0,
+      featured: true,
+      tags: [
+        'Animations',
+      ],
     },
   ];
 
