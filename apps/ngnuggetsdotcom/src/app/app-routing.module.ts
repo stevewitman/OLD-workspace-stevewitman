@@ -94,6 +94,17 @@ const routes: Routes = [
       position: 8,
     },
   },
+  {
+    path: 'admin-submit',
+    loadChildren: () =>
+      import('@nx-stevewitman/ngnuggets/feat-admin-submit').then(
+        (m) => m.NgnuggetsFeatAdminSubmitModule
+      ),
+    data: {
+      title: 'ADMIN - Submit',
+      position: 0,
+    },
+  },
   // Other routes
   {
     path: 'post/:slug',
@@ -115,6 +126,13 @@ const routes: Routes = [
       title: 'ngNuggets - Page Not Found',
       position: 9,
     },
+  },
+  {
+    path: 'ngnuggets-feat-admin-submit',
+    loadChildren: () =>
+      import('@nx-stevewitman/ngnuggets/feat-admin-submit').then(
+        (module) => module.NgnuggetsFeatAdminSubmitModule
+      ),
   },
 ];
 

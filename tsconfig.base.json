@@ -18,6 +18,9 @@
       "@nx-stevewitman/ngnuggets/feat-about": [
         "libs/ngnuggets/feat-about/src/index.ts"
       ],
+      "@nx-stevewitman/ngnuggets/feat-admin-submit": [
+        "libs/ngnuggets/feat-admin-submit/src/index.ts"
+      ],
       "@nx-stevewitman/ngnuggets/feat-contact": [
         "libs/ngnuggets/feat-contact/src/index.ts"
       ],
