@@ -1,9 +1,9 @@
 
 mat-form-field {
   width: 100%;
-  max-width: 800px;
+  max-width: 1200px;
   display: block;
-  padding-bottom: 20px;
+  padding-bottom: 12px;
 }
 
 ::ng-deep .mat-form-field-flex {
@@ -14,17 +14,24 @@ mat-form-field {
 ::ng-deep .mat-form-field-wrapper {
   margin-bottom: -21px;
 }
- ::ng-deep.mat-form-field-underline {
-  /*change color of underline*/
-  background-color: green !important;
-} 
+//  ::ng-deep.mat-form-field-underline {
+//   /*change color of underline*/
+//   background-color: green !important;
+// } 
 
 .input-text {
-  // width: 100%;
-  color: var(--color-turquoise700);
+  color: var(--color-orange500);
   font-size: 18px;
   font-weight: bold;
-  letter-spacing: 2px;
+  letter-spacing: 1px;
+  padding: 5px 0 0 10px;
+}
+
+mat-datepicker {
+  color: var(--color-orange500);
+  font-size: 18px;
+  font-weight: bold;
+  letter-spacing: 1px;
   padding: 5px 0 0 10px;
 }
 .actions-container {

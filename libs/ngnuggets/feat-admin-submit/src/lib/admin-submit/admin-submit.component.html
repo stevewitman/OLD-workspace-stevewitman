@@ -46,14 +46,12 @@
     <div class="form-field-wide">
       <mat-form-field appearance="fill" color="primary">
         <mat-label>Content Type</mat-label>
-        <input
-          type="text"
-          class="input-text"
-          matInput
-          id="postTitle"
-          #delivery
-          autocomplete="off"
-        />
+        <mat-select [formControl]="typeControl" name="type" class="input-text">
+          <mat-option>None</mat-option>
+          <mat-option *ngFor="let type of types" [value]="type.value">
+            {{ type.viewValue }}
+          </mat-option>
+        </mat-select>
       </mat-form-field>
     </div>
 
@@ -74,36 +72,40 @@
     <div class="form-field-wide">
       <mat-form-field appearance="fill" color="primary">
         <mat-label>Description</mat-label>
-        <input
+        <textarea
           type="text"
           class="input-text"
           matInput
           id="contentDescription"
           #delivery
           autocomplete="off"
-        />
+          cdkTextareaAutosize
+        ></textarea>
       </mat-form-field>
     </div>
 
     <div class="form-field-wide">
       <mat-form-field appearance="fill" color="primary">
         <mat-label>Date Posted</mat-label>
-  <input matInput [matDatepicker]="datePosted">
-  <mat-datepicker-toggle matSuffix [for]="datePosted"></mat-datepicker-toggle>
-  <mat-datepicker #datePosted></mat-datepicker>
+        <input matInput [matDatepicker]="datePosted" />
+        <mat-datepicker-toggle
+          matSuffix
+          [for]="datePosted"
+        ></mat-datepicker-toggle>
+        <mat-datepicker #datePosted></mat-datepicker>
       </mat-form-field>
     </div>
 
     <div class="form-field-wide">
       <mat-form-field appearance="fill" color="primary">
         <mat-label>Date Created</mat-label>
-  <input matInput [matDatepicker]="picker">
-  <mat-datepicker-toggle matSuffix [for]="picker"></mat-datepicker-toggle>
-  <mat-datepicker #picker></mat-datepicker>
+        <input matInput [matDatepicker]="picker" />
+        <mat-datepicker-toggle matSuffix [for]="picker"></mat-datepicker-toggle>
+        <mat-datepicker #picker></mat-datepicker>
       </mat-form-field>
     </div>
 
-        <div class="form-field-wide">
+    <div class="form-field-wide">
       <mat-form-field appearance="fill" color="primary">
         <mat-label>Source Site</mat-label>
         <input
@@ -117,7 +119,7 @@
       </mat-form-field>
     </div>
 
-            <div class="form-field-wide">
+    <div class="form-field-wide">
       <mat-form-field appearance="fill" color="primary">
         <mat-label>Source URL</mat-label>
         <input
@@ -131,7 +133,7 @@
       </mat-form-field>
     </div>
 
-                <div class="form-field-wide">
+    <div class="form-field-wide">
       <mat-form-field appearance="fill" color="primary">
         <mat-label>Author Name</mat-label>
         <input
@@ -145,7 +147,7 @@
       </mat-form-field>
     </div>
 
-                <div class="form-field-wide">
+    <div class="form-field-wide">
       <mat-form-field appearance="fill" color="primary">
         <mat-label>Author URL</mat-label>
         <input
@@ -159,7 +161,7 @@
       </mat-form-field>
     </div>
 
-                    <div class="form-field-wide">
+    <div class="form-field-wide">
       <mat-form-field appearance="fill" color="primary">
         <mat-label>Featured</mat-label>
         <input
@@ -173,7 +175,7 @@
       </mat-form-field>
     </div>
 
-                        <div class="form-field-wide">
+    <div class="form-field-wide">
       <mat-form-field appearance="fill" color="primary">
         <mat-label>Tags</mat-label>
         <input
@@ -186,6 +188,5 @@
         />
       </mat-form-field>
     </div>
-
   </form>
 </div>

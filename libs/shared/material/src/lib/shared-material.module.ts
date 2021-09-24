@@ -6,7 +6,6 @@ import { MatButtonModule } from '@angular/material/button';
 import { MatCheckboxModule } from '@angular/material/checkbox';
 import { MatChipsModule } from '@angular/material/chips';
 import { MatDatepickerModule } from '@angular/material/datepicker';
-
 import { MatDialogModule } from '@angular/material/dialog';
 import { MatExpansionModule } from '@angular/material/expansion';
 import { MatFormFieldModule } from '@angular/material/form-field';
@@ -15,6 +14,7 @@ import { MatInputModule } from '@angular/material/input';
 import { MatListModule } from '@angular/material/list';
 import { MatNativeDateModule } from '@angular/material/core';
 import { MatRadioModule } from '@angular/material/radio';
+import { MatSelectModule } from '@angular/material/select';
 import { MatSidenavModule } from '@angular/material/sidenav';
 import { MatToolbarModule } from '@angular/material/toolbar';
 
@@ -34,6 +34,7 @@ import { MatToolbarModule } from '@angular/material/toolbar';
     MatListModule,
     MatNativeDateModule,
     MatRadioModule,
+    MatSelectModule,
     MatSidenavModule,
     MatToolbarModule,
   ],
@@ -52,6 +53,7 @@ import { MatToolbarModule } from '@angular/material/toolbar';
     MatListModule,
     MatNativeDateModule,
     MatRadioModule,
+    MatSelectModule,
     MatSidenavModule,
     MatToolbarModule,
   ]
