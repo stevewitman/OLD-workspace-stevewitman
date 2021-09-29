@@ -39,6 +39,11 @@
         class="material-icons content-type-icon podcast-icon"
         >podcasts</span
       >
+      <span
+        *ngIf="post.contentType === 'release'"
+        class="material-icons content-type-icon release-icon"
+        >sell</span
+      >
       <span>
         {{ post.contentType | uppercase }}
         <span *ngIf="post.duration"> - {{ post.duration }}m</span>

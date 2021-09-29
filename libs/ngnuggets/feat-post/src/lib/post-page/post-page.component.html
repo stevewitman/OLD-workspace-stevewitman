@@ -96,6 +96,11 @@
           class="material-icons content-type-icon podcast-icon"
           >podcasts</span
         >
+        <span
+          *ngIf="post.contentType === 'release'"
+          class="material-icons content-type-icon release-icon"
+          >sell</span
+        >
         <span class="content-type">
           {{ post.contentType | uppercase }}
           <span *ngIf="post.duration" class="duration">

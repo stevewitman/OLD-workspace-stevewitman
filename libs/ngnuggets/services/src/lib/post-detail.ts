@@ -1,7 +1,7 @@
 export interface PostDetail {
   id: string;
   slug: string; //                  2021-09-01-A
-  contentType: 'video' | 'blog' | 'podcast' | 'community'; 
+  contentType: 'video' | 'blog' | 'podcast' | 'community' | 'release'; 
   duration?: string;
   contentTitle: string;
   contentUrl: string; 
@@ -21,4 +21,5 @@ export interface PostDetail {
   tags?: string[];
   visits?: number;
   notes?: ''
+  status?: 'review' | 'post' | 'hold'
 }
