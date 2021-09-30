@@ -2,8 +2,6 @@ import { Component, EventEmitter, OnInit, Output } from '@angular/core';
 import { ActivatedRoute } from '@angular/router';
 import { animate, style, transition, trigger } from '@angular/animations';
 
-import { Observable } from 'rxjs';
-
 import { PostDetail, PostService } from '@nx-stevewitman/ngnuggets/services';
 // import { PostSummary } from '@nx-stevewitman/ngnuggets/services';
 // import { PostDetail } from '@nx-stevewitman/ngnuggets/services';
@@ -38,9 +36,9 @@ export class PostPageComponent implements OnInit {
 
   ngOnInit() {
     this.slug = this.route.snapshot.paramMap.get('slug');
-    this.postService.getPostBySlug(this.slug).subscribe(
-      val => this.post = val
-    );
+    // this.postService.getPostBySlug(this.slug).subscribe(
+    //   val => this.post = val
+    // );
   }
 
   ngOnValueChanges() {
