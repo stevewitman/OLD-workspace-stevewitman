@@ -4171,7 +4171,7 @@ export class PostService {
       duration: '80',
       contentTitle: "NgRx and Chill",
       contentUrl: 'https://www.youtube.com/watch?v=0CVNNZ4NoKQ',
-      contentDescription: "Chat Commands !sup !ngrx !discord",
+      contentDescription: "Chat Commands\n!sup\n!ngrx\n!discord",
       imgUrl: '2021-09-29-f.jpg',
       datePosted: '2021-09-29',
       dateCreated: '2021-09-29',
@@ -4234,7 +4234,7 @@ export class PostService {
       contentUrl:
         'https://dev.to/ussdlover/best-practice-for-subscribing-to-observables-in-services-with-angular-1712',
       contentDescription:
-        'I do not like to subscribe to observables inside services, as it feels expensive due to the fact that we are not able to unsubscribe from them when we do not need them any more and we all hate memory leaks, right? So the best way to use this solution will be the way that we would be able to unsubscribe from them when we done listening to that observable.',
+        'I do not like to subscribe to observables inside services, as it feels expensive due to the fact that we are not able to unsubscribe from them when we do not need them any more and we all hate memory leaks, right?\nSo the best way to use this solution will be the way that we would be able to unsubscribe from them when we done listening to that observable.',
       imgUrl: '2021-09-29-i.png',
       datePosted: '2021-09-29',
       dateCreated: '2021-09-29',
@@ -4264,7 +4264,7 @@ export class PostService {
       sourceUrl: 'https://youtube.com',
       authorName: 'Code With Gio',
       authorUrl: 'https://www.youtube.com/channel/UCwPZpXMuZPB2rG1VTREkH5g',
-      likes: 0,
+      likes: 10,
       featured: true,
       tags: ['RxJS'],
     },

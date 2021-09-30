@@ -17,6 +17,8 @@ import { MatRadioModule } from '@angular/material/radio';
 import { MatSelectModule } from '@angular/material/select';
 import { MatSidenavModule } from '@angular/material/sidenav';
 import { MatToolbarModule } from '@angular/material/toolbar';
+import { MatTooltipModule } from '@angular/material/tooltip';
+
 
 @NgModule({
   imports: [
@@ -37,6 +39,7 @@ import { MatToolbarModule } from '@angular/material/toolbar';
     MatSelectModule,
     MatSidenavModule,
     MatToolbarModule,
+    MatTooltipModule
   ],
   exports: [
     LayoutModule,
@@ -56,6 +59,7 @@ import { MatToolbarModule } from '@angular/material/toolbar';
     MatSelectModule,
     MatSidenavModule,
     MatToolbarModule,
+    MatTooltipModule
   ]
 })
 export class SharedMaterialModule {}

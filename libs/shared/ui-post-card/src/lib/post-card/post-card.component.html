@@ -1,7 +1,13 @@
 <div class="card" *ngIf="post as post">
   <a (click)="onPostClicked(post.contentUrl)">
     <div>
-      <img src="assets/images/{{ post.imgUrl }}" class="card-image" />
+      <img
+        src="assets/images/{{ post.imgUrl }}"
+        class="card-image"
+        matTooltip="{{post.contentDescription}}"
+        matTooltipClass="description-tooltip"
+        matTooltipPosition="above"
+        matTooltipShowDelay="750"/>
       <div class="card-part post-title">
         <h3 class="post-title-text">{{ post.contentTitle }}</h3>
       </div>

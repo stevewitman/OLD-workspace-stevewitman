@@ -153,3 +153,25 @@ a {
 .details-icon {
   line-height: 28px; // holds ellipsis icon down in line with text on the button
 }
+
+::ng-deep .description-tooltip {
+  // line-height: 32px;
+  background: #fffffff0;
+  color: #000 !important;
+  font-size: 16px;
+  max-width: 550px !important;
+    -webkit-box-shadow: 0px 0px 8px 2px rgba(62,193,211,0.5); 
+    box-shadow: 0px 0px 8px 2px rgba(62,193,211,0.5);
+  line-height: 22px;
+  padding: 32px 20px 20px 20px!important;
+  white-space: pre-line !important;
+}
+
+::ng-deep .description-tooltip::before {
+  position: relative;
+  content: "DESCRIPTION:\A ";
+  top: -12px;
+  white-space: pre-wrap;
+  letter-spacing: 1px;
+  color: gray;
+}

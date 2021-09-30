@@ -12,16 +12,12 @@ export class PostCardComponent implements OnInit {
   @Output() postClicked = new EventEmitter<string>();
   likesText: string;
 
-  ngOnInit() {
-    if (this.post.likes !== 1) {
-      this.likesText = this.post.likes + ' LIKES'
-    } else {
-      this.likesText = this.post.likes + ' LIKE';
-    }
-  }
+  ngOnInit() {}
 
   onPostClicked(value: string) {
     this.postClicked.emit(value);
     console.log('onPostClicked');
   }
+
+
 }
