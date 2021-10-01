@@ -136,7 +136,7 @@ export class PostService {
         {
           id: '02-a',
           slug: '2021-09-02-a',
-          contentType: 'video',
+          contentType: 'podcast',
           duration: '47',
           contentTitle:
             'Episode 149: Real Time Systems in the Real World with AG Grid',
@@ -184,7 +184,7 @@ export class PostService {
           contentType: 'podcast',
           duration: '64',
           contentTitle:
-            'RxJS Best Practices in Angular ft. Tomas Trajan – AiA 324 (Adventures in Angular Podcast)',
+            'RxJS Best Practices in Angular ft. Tomas Trajan – AiA 324',
           contentUrl:
             'https://devchat.tv/adv-in-angular/rxjs-best-practices-in-angular-ft-tomas-trajan-aia-324/',
           contentDescription:
@@ -278,7 +278,7 @@ export class PostService {
           contentType: 'podcast',
           duration: '37',
           contentTitle:
-            'AMP 10: Target Performance at scale with Michael Hladky (Angular Master Podcast)',
+            'AMP 10: Target Performance at scale with Michael Hladky',
           contentUrl: 'https://open.spotify.com/episode/6ua81Sty4bMLWZbUeROi8i',
           contentDescription:
             "Today we're talking about performance. Whether it is important, everyone will answer yes. How easy it is to create an efficient system, the answers will vary. Together with @Michael_Hladky, we will discuss this topic thoroughly. 1. What is the reason you are so interested in web performance?",
@@ -553,7 +553,7 @@ export class PostService {
           contentType: 'podcast',
           duration: '47',
           contentTitle:
-            'S1E14 | Making the Most of Tech Events and Conferences (The Angular Experience Podcast)',
+            'S1E14 | Making the Most of Tech Events and Conferences',
           contentUrl:
             'https://www.spreaker.com/user/14532324/s1e14-making-the-most-of-tech-events-and?utm_medium=widget&utm_source=user%3A14532324&utm_term=episode_title',
           contentDescription:
@@ -1147,7 +1147,7 @@ export class PostService {
           contentType: 'podcast',
           duration: '37',
           contentTitle:
-            'AMP11: Angular Community is Amazing with Grzegorz Lipke (Angular Master Podcast)',
+            'AMP11: Angular Community is Amazing with Grzegorz Lipke',
           contentUrl: 'https://open.spotify.com/episode/5JN4sOg6bbf3DfulRwijH7',
           contentDescription:
             "Today I met with amazing Grzegorz Lipke, CTO House Of Angular. We talked about Angular and more specifically our amazing community. We also discussed the topic of open source software, how important it is for today's business and how important it is for the company's development.",
@@ -1672,7 +1672,7 @@ export class PostService {
           contentType: 'podcast',
           duration: '40',
           contentTitle:
-            'S1E15 | Working Internationally: Taking Your Career Beyond Borders (The Angular Experience Podcast)',
+            'S1E15 | Working Internationally: Taking Your Career Beyond Borders',
           contentUrl:
             'https://www.spreaker.com/user/14532324/s1e15-working-internationally-taking-you?utm_medium=widget&utm_source=user%3A14532324&utm_term=episode_title',
           contentDescription:
@@ -1878,7 +1878,7 @@ export class PostService {
           slug: '2021-09-14-b',
           contentType: 'podcast',
           duration: '52',
-          contentTitle: "AMP 12: Let's talk about NX (Angular Master Podcast)",
+          contentTitle: "AMP 12: Let's talk about NX",
           contentUrl: 'https://open.spotify.com/episode/5JN4sOg6bbf3DfulRwijH7',
           contentDescription:
             "What's up everyone, this is Dariusz Kalbarczyk co-founder of NG Poland, JS Poland & AngularMaster.dev. Welcom back to Agular Master Podcast. Together with Manfred Steyer - Speaker, Trainer, Consultant, Author from angulararchitects.io. We discuss everything related to our favorite framework. Today we have some special guests from Dynatrace:",
@@ -2190,8 +2190,7 @@ export class PostService {
           slug: '2021-09-15-f',
           contentType: 'podcast',
           duration: '54',
-          contentTitle:
-            'Episode 18: Special Guest Tom! (ng build --pod Podcast)',
+          contentTitle: 'Episode 18: Special Guest Tom!',
           contentUrl:
             'https://anchor.fm/ng-build-pod/episodes/Special-Guest-Tom-e17e30p',
           contentDescription:
@@ -2386,7 +2385,7 @@ export class PostService {
         {
           id: '16-g',
           slug: '2021-09-16-g',
-          contentType: 'video',
+          contentType: 'podcast',
           duration: '42',
           contentTitle:
             'Episode 151: Engineering Technology from Idea to Release',
@@ -2662,7 +2661,7 @@ export class PostService {
           contentType: 'podcast',
           duration: '57',
           contentTitle:
-            'Managing and Capturing Errors in Angular ft. Philipp Kief - AiA 325 (Adventures in Angular Podcast)',
+            'Managing and Capturing Errors in Angular ft. Philipp Kief - AiA 325',
           contentUrl:
             'https://devchat.tv/adv-in-angular/managing-and-capturing-errors-in-angular-ft-philipp-kief-aia-325/',
           contentDescription:
@@ -2976,8 +2975,7 @@ export class PostService {
           slug: '2021-09-20-e',
           contentType: 'podcast',
           duration: '30',
-          contentTitle:
-            'S1E16 | Change the World Highlight: Sondermind (The Angular Experience Podcast)',
+          contentTitle: 'S1E16 | Change the World Highlight: Sondermind',
           contentUrl:
             'https://www.spreaker.com/user/14532324/s1e16-change-the-world-highlight-sonderm?utm_medium=widget&utm_source=user%3A14532324&utm_term=episode_title',
           contentDescription:
@@ -3394,8 +3392,7 @@ export class PostService {
           slug: '2021-09-22-j',
           contentType: 'podcast',
           duration: '46',
-          contentTitle:
-            'All Things TypeScript ft. Wycliffe Maina - AiA 326 (Adventures in Angular Podcast)',
+          contentTitle: 'All Things TypeScript ft. Wycliffe Maina - AiA 326',
           contentUrl:
             'https://devchat.tv/adv-in-angular/all-things-typescript-ft-wycliffe-maina-aia-326/',
           contentDescription:
@@ -3423,7 +3420,7 @@ export class PostService {
           contentType: 'podcast',
           duration: '45',
           contentTitle:
-            'Episode 152: Creating a Successful Front-End Onboarding Plan with Dana Yudelevich (Web Rush Podcast)',
+            'Episode 152: Creating a Successful Front-End Onboarding Plan with Dana Yudelevich',
           contentUrl:
             'https://webrush.io/episodes/episode-152-creating-a-successful-front-end-onboarding-plan-with-dana-yudelevich',
           contentDescription:
@@ -3887,6 +3884,29 @@ export class PostService {
           featured: true,
           tags: ['Testing', 'Cypress'],
         },
+        {
+          id: '26-d',
+          slug: '2021-09-26-d',
+          contentType: 'blog',
+          duration: '',
+          contentTitle:
+            'Full Angular 12 Firebase Authentication Tutorial Example',
+          contentUrl:
+            'https://www.positronx.io/full-angular-7-firebase-authentication-system/',
+          contentDescription:
+            'In this Angular tutorial, we are going to build Angular 12 Firebase Authentication system from scratch using Firebase Real-time NoSQL cloud database.',
+          imgUrl: '2021-09-26-d.png',
+          datePosted: '2021-09-26',
+          dateCreated: '2021-09-26',
+          postedBy: 'Steve Witman',
+          sourceSite: 'positronX.io',
+          sourceUrl: 'https://www.positronx.io',
+          authorName: '',
+          authorUrl: '',
+          likes: 0,
+          featured: true,
+          tags: ['Firebase', "Authentication"],
+        },
       ],
     },
     {
@@ -3898,7 +3918,7 @@ export class PostService {
           contentType: 'podcast',
           duration: '36',
           contentTitle:
-            'AMP13: Accelerating Angular Development with Ivy by Lars Gyrup Brink Nielsen (Angular Master Podcast)',
+            'AMP13: Accelerating Angular Development with Ivy by Lars Gyrup Brink Nielsen',
           contentUrl: 'https://open.spotify.com/episode/3LN0hjg1RKlRu31xOQId4b',
           contentDescription:
             "What's up everyone, this is Dariusz Kalbarczyk co-founder of NG Poland, JS Poland, WorkshopFest.dev & AngularMaster.dev. Welcome back to Angular Master Podcast. Today I met with amazing Lars Gyrup Brink Nielsen. We talked about his new book: Accelerating Angular Development with Ivy.",
@@ -4048,8 +4068,7 @@ export class PostService {
           slug: '2021-09-27-h',
           contentType: 'podcast',
           duration: '39',
-          contentTitle:
-            'S1E17 | Finding Your Professional Path (The Angular Experience Podcast)',
+          contentTitle: 'S1E17 | Finding Your Professional Path',
           contentUrl:
             'https://www.spreaker.com/user/14532324/s1e17-finding-your-professional-path?utm_medium=widget&utm_source=user%3A14532324&utm_term=episode_title',
           contentDescription:
@@ -4477,26 +4496,232 @@ export class PostService {
         },
       ],
     },
-    // {
-    //   id: 'save',
-    //   slug: 'save',
-    //   contentType: 'blog',
-    //   duration: '',
-    //   contentTitle: "With Best Practices from the Start (including Strict Mode)",
-    //   contentUrl: 'https://blog.angular.io/with-best-practices-from-the-start-d64881a16de8',
-    //   contentDescription: "One of the highest priorities for Angular is to enable best practices from the start. We want you to feel comfortable building a large enterprise user interface the same way as creating a to-do app.",
-    //   imgUrl: 'save.png',
-    //   datePosted: '2021-09-28',
-    //   dateCreated: '2021-09-28',
-    //   postedBy: 'Steve Witman',
-    //   sourceSite: 'Angular Blog',
-    //   sourceUrl: 'https://blog.angular.io',
-    //   authorName: 'Minko Gechev',
-    //   authorUrl: 'https://medium.com/@mgechev',
-    //   likes: 0,
-    //   featured: true,
-    //   tags: ['Strict Mode'],
-    // },
+    {
+      date: '2021-09-30',
+      dailyPosts: [
+        {
+          id: '30-a',
+          slug: '2021-09-30-a',
+          contentType: 'podcast',
+          duration: '40',
+          contentTitle:
+            'Episode 153: Single Page Application vs Multi Page Application with Rich Harris',
+          contentUrl:
+            'https://webrush.io/episodes/episode-153-single-page-application-vs-multi-page-application-with-rich-harris',
+          contentDescription:
+            'Rich Harris talks about the differences between a SPA and MPA, what role the server rendering plays, what client side hydration is, and the state of modern tooling for developing SPA or MPA. He also shares his thoughts on the evolution of SPA / MPA.',
+          imgUrl: 'thumb-web-rush.png',
+          datePosted: '2021-09-30',
+          dateCreated: '2021-09-30',
+          postedBy: 'Steve Witman',
+          sourceSite: '',
+          sourceUrl: '',
+          authorName: 'Web Rush',
+          authorUrl: 'https://webrush.io',
+          likes: 0,
+          featured: true,
+          tags: ['SPA'],
+        },
+        {
+          id: '30-b',
+          slug: '2021-09-30-b',
+          contentType: 'podcast',
+          duration: '46',
+          contentTitle: 'TypeScript Mixins – AiA 327',
+          contentUrl:
+            'https://devchat.tv/adv-in-angular/typescript-mixins-aia-327/',
+          contentDescription:
+            'Armen takes the lead this week to discuss TypeScript usage and how to bring in mixins into the picture as you build more complicated applications with TypeScript.',
+          imgUrl: 'thumb-adventures-in-angular.png',
+          datePosted: '2021-09-30',
+          dateCreated: '2021-09-30',
+          postedBy: 'Steve Witman',
+          sourceSite: 'Devchat.tv',
+          sourceUrl: 'https://devchat.tv',
+          authorName: 'Adventures In Angular',
+          authorUrl: 'https://devchat.tv/show/adventures-in-angular/',
+          likes: 0,
+          featured: true,
+          tags: ['TypeScript', 'Mixins'],
+        },
+        {
+          id: '30-c',
+          slug: '2021-09-30-c',
+          contentType: 'video',
+          duration: '23',
+          contentTitle:
+            'TypeScript Pub/Sub Patterns (No BS TS Series 2 Episode 2)',
+          contentUrl: 'https://www.youtube.com/watch?v=f3Cn0CGytSQ',
+          contentDescription:
+            'In this second episode of No BS TS series 2 we look at the Publish & Subscribe pattern (or the Observer pattern as they call it in the book). This pattern allows you to loosen the coupling in your code and maximize reuse, all while making your code easier to understand.',
+          imgUrl: '2021-09-30-c.jpg',
+          datePosted: '2021-09-30',
+          dateCreated: '2021-09-30',
+          postedBy: 'Steve Witman',
+          sourceSite: 'YouTube',
+          sourceUrl: 'https://youtube.com',
+          authorName: 'Jack Herrington',
+          authorUrl: 'https://www.youtube.com/channel/UC6vRUjYqDuoUsYsku86Lrsw',
+          likes: 0,
+          featured: true,
+          tags: ['TypeScript', 'Pub/Sub Pattern'],
+        },
+        {
+          id: '30-d',
+          slug: '2021-09-30-d',
+          contentType: 'video',
+          duration: '45',
+          contentTitle:
+            'Protractor is Going Away: Now What? Webinar w/ Sauce Labs',
+          contentUrl: 'https://www.youtube.com/watch?v=nxQJ7B2J1CU',
+          contentDescription:
+            "It's official: As of Angular 15, development of Protractor will end. What does this mean? And what should you do about it?",
+          imgUrl: '2021-09-30-d.jpg',
+          datePosted: '2021-09-30',
+          dateCreated: '2021-09-30',
+          postedBy: 'Steve Witman',
+          sourceSite: 'YouTube',
+          sourceUrl: 'https://youtube.com',
+          authorName: 'ng-conf',
+          authorUrl: 'https://www.youtube.com/channel/UCm9iiIfgmVODUJxINecHQkA',
+          likes: 0,
+          featured: true,
+          tags: ['Protractor'],
+        },
+        {
+          id: '30-e',
+          slug: '2021-09-30-e',
+          contentType: 'blog',
+          duration: '',
+          contentTitle:
+            'Build A ToDo List Application Using Angular, .Net 5.0 Web API And Microsoft SQL Server',
+          contentUrl:
+            'https://www.c-sharpcorner.com/article/build-a-todo-list-application-using-angular-net-5-0-web-api-and-microsoft-sql/',
+          contentDescription:
+            'This article shows how to build an Angular front end of a ToDo list application. This is part 2 of a two-part tutorial. Part 1 showed how to build a ToDo list application using .Net 5 Web API, JWT authentication, and AspNetCore Identity. Part 1  can be found here. This article starts by stating user stories showing how a user wants to use the application.',
+          imgUrl: '2021-09-30-e.png',
+          datePosted: '2021-09-30',
+          dateCreated: '2021-09-30',
+          postedBy: 'Steve Witman',
+          sourceSite: 'C# Corner',
+          sourceUrl: 'https://www.c-sharpcorner.com',
+          authorName: 'SAKHILE MSIBI',
+          authorUrl: 'https://www.c-sharpcorner.com/members/sakhile-msibi',
+          likes: 0,
+          featured: true,
+          tags: [],
+        },
+        {
+          id: '30-f',
+          slug: '2021-09-30-f',
+          contentType: 'video',
+          duration: '35',
+          contentTitle:
+            'Nx After Dark: Migrating to standalone project configurations',
+          contentUrl: 'https://www.youtube.com/watch?v=y9YplnYEAGo',
+          contentDescription:
+            'Migrating the Angular Tour of Heroes routing tutorial Nx workspace to standalone project configurations to reduce merge conflicts and improve affected detection.',
+          imgUrl: '2021-09-30-f.jpg',
+          datePosted: '2021-09-30',
+          dateCreated: '2021-09-30',
+          postedBy: 'Steve Witman',
+          sourceSite: 'YouTube',
+          sourceUrl: 'https://youtube.com',
+          authorName: 'Lars Gyrup Brink Nielsen',
+          authorUrl: 'https://www.youtube.com/channel/UCsZWzmsdKz2VA49XXBK5TQA',
+          likes: 0,
+          featured: true,
+          tags: ['Nx'],
+        },
+        {
+          id: '30-g',
+          slug: '2021-09-30-g',
+          contentType: 'video',
+          duration: '35',
+          contentTitle:
+            'Cypress.io PH Meetup - Gaining Confidence with Cypress Tests - September 29, 2021',
+          contentUrl: 'https://youtu.be/PN-f6GXvVxM?t=614',
+          contentDescription:
+            "Have you ever wanted to refactor mercilessly but didn't want to break the fragile tower? Or have you ever pushed to production only to spend the next few days cleaning up the regressions? You need end-to-end tests, and Cypress is a great, fast way to build them. With a simple JavaScript or TypeScript interface, you can automate browsers to hit those critical functions in your app to prove it works as expected -- this time and every time. Join us to dive into building Cypress tests and leave with the confidence to refactor your way to greatness.",
+          imgUrl: '2021-09-30-g.jpg',
+          datePosted: '2021-09-30',
+          dateCreated: '2021-09-29',
+          postedBy: 'Steve Witman',
+          sourceSite: 'YouTube',
+          sourceUrl: 'https://youtube.com',
+          authorName: 'Johnny Estilles',
+          authorUrl: 'https://www.youtube.com/channel/UCB7eWSAKEB-c1fKBwHiDYUg',
+          likes: 0,
+          featured: true,
+          tags: ['Testing', 'Cypress'],
+        },
+        {
+          id: '30-h',
+          slug: '2021-09-30-h',
+          contentType: 'video',
+          duration: '41',
+          contentTitle: 'Strategic Design with Angular',
+          contentUrl: 'https://www.youtube.com/watch?v=WuXxqyrHBaM',
+          contentDescription:
+            'What is domain-driven design?\nWhy do we need it?/nWhat it offers?/nKey Concepts\nWhat is Nx?\nImplementation with Nx\nKey benefits of this implementation',
+          imgUrl: '2021-09-30-h.jpg',
+          datePosted: '2021-09-30',
+          dateCreated: '2021-09-30',
+          postedBy: 'Steve Witman',
+          sourceSite: 'YouTube',
+          sourceUrl: 'https://youtube.com',
+          authorName: 'Dot Net Tricks',
+          authorUrl: 'https://www.youtube.com/channel/UCuYuSB7JzDslrwwh8EM-4JA',
+          likes: 0,
+          featured: true,
+          tags: ['Domain Driven Design'],
+        },
+        {
+          id: '30-i',
+          slug: '2021-09-30-i',
+          contentType: 'video',
+          duration: '78',
+          contentTitle:
+            'Angular Birmingham - Angular Builders (Jeffrey Bosch) & How to communicate with backend services using Angular Http (Muhammad Awais)',
+          contentUrl: 'https://www.youtube.com/watch?v=X2rIhCKOYfs',
+          contentDescription:
+            'Muhammad Awais: How to communicate with backend services using Angular Http. Most front-end applications need to communicate with a server over the HTTP protocol, to download or upload data and access other back-end services. Today we will talk about Angular client HTTP API in detail and will see Angular Http in action.\nJeffrey Bosch: Angular Builders, the cool kid under the CLI hood. In this talk we are going to look at the origination of angular builders, what they are, how we use them on a daily base and see how we can make and use our own customer builders.',
+          imgUrl: '2021-09-30-i.jpg',
+          datePosted: '2021-09-30',
+          dateCreated: '2021-09-30',
+          postedBy: 'Steve Witman',
+          sourceSite: 'YouTube',
+          sourceUrl: 'https://youtube.com',
+          authorName: 'Angular Birmingham',
+          authorUrl: 'https://www.youtube.com/channel/UCRMLmJjB3oib_sQF9mKWuRA',
+          likes: 0,
+          featured: true,
+          tags: ['HTTP', 'Builders'],
+        },
+        {
+          id: '30-j',
+          slug: '2021-09-30-j',
+          contentType: 'blog',
+          duration: '',
+          contentTitle: 'Angular Routing Guards: Understanding canActivate Guard (Part-2)',
+          contentUrl:
+            'https://medium.com/@knoldus/angular-routing-guards-understanding-canactivate-guard-part-2-1fae4dcf3845',
+          contentDescription:
+            'Now let\'s start to learn something new about one of the routing guards: canActivate. We will learn what is the canActivate guard is and how to use it to protect the route.',
+          imgUrl: '2021-09-30-j.png',
+          datePosted: '2021-09-30',
+          dateCreated: '2021-09-30',
+          postedBy: 'Steve Witman',
+          sourceSite: 'Medium',
+          sourceUrl: 'https://medium.com',
+          authorName: 'Knoldus',
+          authorUrl: 'https://medium.com/@knoldus',
+          likes: 0,
+          featured: true,
+          tags: ['Routing', 'Guards', 'Can Activate'],
+        },
+      ],
+    },
   ];
 
   getPosts() {
