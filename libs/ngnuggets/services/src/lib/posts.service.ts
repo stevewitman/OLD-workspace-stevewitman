@@ -83,8 +83,7 @@ export class PostService {
           duration: '',
           title:
             'When Use RxJS Subject, BehaviourSubject, ReplaySubject, AsyncSubject, or Void Subject in Angular',
-          url:
-            'https://hasnode.byrayray.dev/rxjs-subject-behavioursubject-replaysubject-asyncsubject-void-subject-angular',
+          url: 'https://hasnode.byrayray.dev/rxjs-subject-behavioursubject-replaysubject-asyncsubject-void-subject-angular',
           description:
             "Angular has many types of Observables which you can use. Maybe you've seen Subject, BehaviourSubject, ReplaySubject, or AsyncSubject in Angular examples and wondering what they are and when you can use them. In this post, I want to dive deeper into what those types of Subjects are and when you should use them. So buckle up and enjoy the ride.",
           imgUrl: '2021-09-01-d.png',
@@ -112,8 +111,7 @@ export class PostService {
           type: 'blog',
           duration: '',
           title: 'Tailwind CSS with Angular V12- What You Need to Know',
-          url:
-            'https://dev.to/bitovi/tailwind-css-with-angular-v12-what-you-need-to-know-2h9b',
+          url: 'https://dev.to/bitovi/tailwind-css-with-angular-v12-what-you-need-to-know-2h9b',
           description:
             'With Angular V12, comes a much awaited support for TailwindCSS, Tailwind is a utility-first CSS framework that contains a deep catalog of micro CSS classes for faster UI development. Micro CSS classes are a collection of CSS styles to accomplish a specific styling need. It can range from something as simple as...',
           imgUrl: '2021-09-01-f.png',
@@ -140,8 +138,7 @@ export class PostService {
           duration: '47',
           title:
             'Episode 149: Real Time Systems in the Real World with AG Grid',
-          url:
-            'https://webrush.io/episodes/episode-149-real-time-systems-in-the-real-world-with-ag-grid',
+          url: 'https://webrush.io/episodes/episode-149-real-time-systems-in-the-real-world-with-ag-grid',
           description:
             'Han and Prerak talk about their approach to developing storytelling tools for financial products, how they deliver real time event updates, using AI in their tech stack, updating and displaying large data sets, and what the benefits are of web workers.',
           imgUrl: 'thumb-web-rush.png',
@@ -162,8 +159,7 @@ export class PostService {
           type: 'blog',
           duration: '',
           title: 'Angular ngx Bootstrap Tooltip Component',
-          url:
-            'https://www.geeksforgeeks.org/angular-ngx-bootstrap-tooltip-component/',
+          url: 'https://www.geeksforgeeks.org/angular-ngx-bootstrap-tooltip-component/',
           description:
             'Angular ngx bootstrap is a bootstrap framework used with angular to create components with great styling and this framework is very easy to use and is used to make responsive websites. In this article, we will see how to use Tooltip in angular ngx bootstrap.',
           imgUrl: '2021-09-02-b.png',
@@ -183,10 +179,8 @@ export class PostService {
           slug: '2021-09-02-c',
           type: 'podcast',
           duration: '64',
-          title:
-            'RxJS Best Practices in Angular ft. Tomas Trajan – AiA 324',
-          url:
-            'https://devchat.tv/adv-in-angular/rxjs-best-practices-in-angular-ft-tomas-trajan-aia-324/',
+          title: 'RxJS Best Practices in Angular ft. Tomas Trajan – AiA 324',
+          url: 'https://devchat.tv/adv-in-angular/rxjs-best-practices-in-angular-ft-tomas-trajan-aia-324/',
           description:
             'Tomas Trajan is a developer from Slovakia living in Switzerland. He talks about his experiences using streams, observables, and RxJS in Angular over the last several years. He gives a few lessons and examples of when and how it should be used in your applications.',
           imgUrl: 'thumb-adventures-in-angular.png',
@@ -207,8 +201,7 @@ export class PostService {
           type: 'blog',
           duration: '',
           title: 'Conditionally Load a Module Using Angular Router',
-          url:
-            'https://netbasal.com/conditionally-load-a-module-using-angular-router-aff022923850',
+          url: 'https://netbasal.com/conditionally-load-a-module-using-angular-router-aff022923850',
           description:
             'In most cases, a feature flag is used when creating a new version of an existing page rather than adding multiple conditions to our code. When this is the case, we usually prefer to use the same URL for both versions.',
           imgUrl: '2021-09-02-d.png',
@@ -228,8 +221,7 @@ export class PostService {
           slug: '2021-09-02-e',
           type: 'blog',
           duration: '',
-          title:
-            'Angular Custom Preloading Strategy',
+          title: 'Angular Custom Preloading Strategy',
           url: 'https://www.concretepage.com/angular-2/angular-custom-preloading-strategy',
           description:
             'This page will walk through Angular custom preloading strategy example. Preloading is loading modules in background just after application starts. In preloading, modules are loaded asynchronously. Angular provides built-in PreloadAllModules strategy that loads all feature modules as quickly as possible configured with loadChildren in application routing module.',
@@ -278,8 +270,7 @@ export class PostService {
           type: 'blog',
           duration: '',
           title: 'Simple selection by Angular CDK',
-          url:
-            'https://dev.to/tomwebwalker/simple-selection-by-angular-cdk-5dep',
+          url: 'https://dev.to/tomwebwalker/simple-selection-by-angular-cdk-5dep',
           description:
             'In my recent projects, I had to implement a table with select all or single row functionality. Angular CDK library has SelectionModel, which makes that selection easy to implement.',
           imgUrl: '2021-09-03-c.png',
@@ -299,8 +290,7 @@ export class PostService {
           slug: '2021-09-03-d',
           type: 'podcast',
           duration: '37',
-          title:
-            'AMP 10: Target Performance at scale with Michael Hladky',
+          title: 'AMP 10: Target Performance at scale with Michael Hladky',
           url: 'https://open.spotify.com/episode/6ua81Sty4bMLWZbUeROi8i',
           description:
             "Today we're talking about performance. Whether it is important, everyone will answer yes. How easy it is to create an efficient system, the answers will vary. Together with @Michael_Hladky, we will discuss this topic thoroughly. 1. What is the reason you are so interested in web performance?",
@@ -365,8 +355,7 @@ export class PostService {
           duration: '',
           title:
             'Adding the social media share buttons component to an Angular application',
-          url:
-            'https://dev.to/rodrigokamada/adding-the-social-media-share-buttons-component-to-an-angular-application-320h',
+          url: 'https://dev.to/rodrigokamada/adding-the-social-media-share-buttons-component-to-an-angular-application-320h',
           description: '',
           imgUrl: '2021-09-03-g.png',
           datePosted: '2021-09-03',
@@ -418,8 +407,7 @@ export class PostService {
           type: 'blog',
           duration: '',
           title: 'Why you should NOT use Functions in Angular HTML',
-          url:
-            'https://medium.com/@heshamaothman/why-you-should-not-use-functions-in-angular-html-f445371a4b6b',
+          url: 'https://medium.com/@heshamaothman/why-you-should-not-use-functions-in-angular-html-f445371a4b6b',
           description:
             'If you worked with Angular on a little bit complex project, you will - most likely - start to write component functions that edit or transform some kind of data that you want to display in the component. If you are not familiar with the Angular way of doing this, you will just use the functions that you wrote in the HTML file and you will find that it works!. So everything is great, isn’t it?',
           imgUrl: '2021-09-05-a.png',
@@ -505,8 +493,7 @@ export class PostService {
           slug: '2021-09-05-e',
           type: 'video',
           duration: '9',
-          title:
-            'Angular ngrx-store Tutorial - Action, Reducer, Selector',
+          title: 'Angular ngrx-store Tutorial - Action, Reducer, Selector',
           url: 'https://www.youtube.com/watch?v=GSc1fHXVBGg',
           description:
             'ngrx-store is a reactive state management framework for angular. In this video we build a simple example online shop, where the shopping cart is being implemented with ngrx-store. Learn the concept of action, reducer and selector',
@@ -532,8 +519,7 @@ export class PostService {
           slug: '2021-09-06-b',
           type: 'video',
           duration: '7',
-          title:
-            'Angular Cypress: Learn How To Properly Use the Selectors',
+          title: 'Angular Cypress: Learn How To Properly Use the Selectors',
           url: 'https://www.youtube.com/watch?v=QqV6b8oLs4k',
           description: '',
           imgUrl: '2021-09-06-b.jpg',
@@ -574,10 +560,8 @@ export class PostService {
           slug: '2021-09-06-d',
           type: 'podcast',
           duration: '47',
-          title:
-            'S1E14 | Making the Most of Tech Events and Conferences',
-          url:
-            'https://www.spreaker.com/user/14532324/s1e14-making-the-most-of-tech-events-and?utm_medium=widget&utm_source=user%3A14532324&utm_term=episode_title',
+          title: 'S1E14 | Making the Most of Tech Events and Conferences',
+          url: 'https://www.spreaker.com/user/14532324/s1e14-making-the-most-of-tech-events-and?utm_medium=widget&utm_source=user%3A14532324&utm_term=episode_title',
           description:
             'In today’s episode of The Angular Experience, Brooke and Erik are joined by event organizing pro Alisa Duncan to talk about event networking tips and suggestions for introverts and extroverts alike. They address how to connect with fellow attendees and developers, speakers, sponsors, and potential employers as well.',
           imgUrl: 'thumb-angular-experience.png',
@@ -621,8 +605,7 @@ export class PostService {
           type: 'blog',
           duration: '',
           title: 'Angular reusable resolvers',
-          url:
-            'https://dev.to/igorfilippov3/angular-reusable-resolvers-3i94',
+          url: 'https://dev.to/igorfilippov3/angular-reusable-resolvers-3i94',
           description:
             "... In this application I had a lot of cases, where I had to duplicate the code of my resolvers to make very, very similar things. That's why I took thought about how to implement the DRY coding principle in my app. ...",
           imgUrl: '2021-09-06-f.png',
@@ -643,8 +626,7 @@ export class PostService {
           type: 'blog',
           duration: '',
           title: 'Angular 12 with Firebase 9',
-          url:
-            'https://dev.to/jdgamble555/angular-12-with-firebase-9-49a0',
+          url: 'https://dev.to/jdgamble555/angular-12-with-firebase-9-49a0',
           description:
             "Angular's Docs have not been updated fully yet, so I made a quick reference.",
           imgUrl: '2021-09-06-g.png',
@@ -710,8 +692,7 @@ export class PostService {
           slug: '2021-09-07-c',
           type: 'video',
           duration: '27',
-          title:
-            'How to use Native Google Maps with Capacitor and Ionic',
+          title: 'How to use Native Google Maps with Capacitor and Ionic',
           url: 'https://www.youtube.com/watch?v=WCexAdxVkVw',
           description:
             'Learn to implement native Google Maps in your Ionic app using a Capacitor community plugin to show a map, add a marker and draw on the Google Map!',
@@ -733,8 +714,7 @@ export class PostService {
           type: 'blog',
           duration: '',
           title: 'Angular library with demo project',
-          url:
-            'https://dev.to/ylerjen/angular-library-with-demo-project-1i1b',
+          url: 'https://dev.to/ylerjen/angular-library-with-demo-project-1i1b',
           description:
             "Angular, with the help of angular-cli makes it easy to create a library project. But when your library is about components, it's very useful to have a visual rendering of what you're creating, and not only the lib code and tests. In this article, we'll see how we can easily create in a same project, the library and the demo app, but still keep a coherent structure like we need for a library project.",
           imgUrl: '2021-09-07-d.png',
@@ -754,8 +734,7 @@ export class PostService {
           slug: '2021-09-07-e',
           type: 'video',
           duration: '10',
-          title:
-            'Multiple modules in Angular application | Angular Tutorial',
+          title: 'Multiple modules in Angular application | Angular Tutorial',
           url: 'https://www.youtube.com/watch?v=UMvjzcPGyTg',
           description: 'Multiple modules in an Angular application',
           imgUrl: '2021-09-07-e.jpg',
@@ -830,10 +809,8 @@ export class PostService {
           slug: '2021-09-07-h',
           type: 'blog',
           duration: '',
-          title:
-            'Angular *ngFor and *ngIf Directives Explained for Beginners',
-          url:
-            'https://www.freecodecamp.org/news/angular-ngfor-and-ngif-explained/',
+          title: 'Angular *ngFor and *ngIf Directives Explained for Beginners',
+          url: 'https://www.freecodecamp.org/news/angular-ngfor-and-ngif-explained/',
           description:
             "*ngIf and *ngFor can help you keep your Angular code clean, simple, and effective. So, let's learn what *ngFor and *ngIf are all about.",
           imgUrl: '2021-09-07-h.png',
@@ -876,8 +853,7 @@ export class PostService {
           duration: '',
           title:
             'Designing Angular architecture - Container-Presentation pattern',
-          url:
-            'https://indepth.dev/posts/1478/designing-angular-architecture-container-presentation-pattern',
+          url: 'https://indepth.dev/posts/1478/designing-angular-architecture-container-presentation-pattern',
           description:
             'Designing architecture could be tricky, especially in the agile world, where requirement changes are frequent. So your design has to support that and provides extendibility without the need for serious modification. In such cases, you will find the Container-Presentation pattern instrumental.',
           imgUrl: '2021-09-07-j.png',
@@ -902,8 +878,7 @@ export class PostService {
           slug: '2021-09-08-a',
           type: 'video',
           duration: '9',
-          title:
-            'How to Bypass Firebase Authentication for Cypress Tests',
+          title: 'How to Bypass Firebase Authentication for Cypress Tests',
           url: 'https://www.youtube.com/watch?v=JqEzA44Lsts',
           description:
             'In this tutorial, we take a look at how to bypass the need to authenticate with Firebase in your E2E tests built with Cypress using the cypress-firebase library.',
@@ -925,8 +900,7 @@ export class PostService {
           type: 'blog',
           duration: '',
           title: 'RxJS - Observer and Subscription',
-          url:
-            'https://dev.to/puppo/rxjs-observer-and-subscription-5cg3',
+          url: 'https://dev.to/puppo/rxjs-observer-and-subscription-5cg3',
           description:
             'Welcome back guys ... today the topics of the article are Observers and Subscriptions.',
           imgUrl: '2021-09-08-b.png',
@@ -947,8 +921,7 @@ export class PostService {
           type: 'blog',
           duration: '',
           title: 'Angular Basics: Data Binding Part 2—Event Binding',
-          url:
-            'https://www.telerik.com/blogs/angular-basics-data-binding-part-2-event-binding',
+          url: 'https://www.telerik.com/blogs/angular-basics-data-binding-part-2-event-binding',
           description:
             'Data binding can be confusing when you’re getting started in Angular. Let’s break it down! This post covers event binding, which is one of the one-way data binding methods.',
           imgUrl: '2021-09-08-d.png',
@@ -968,8 +941,7 @@ export class PostService {
           slug: '2021-09-08-e',
           type: 'video',
           duration: '21',
-          title:
-            'How to add ngrx to angular app easily using Ngrx schematics',
+          title: 'How to add ngrx to angular app easily using Ngrx schematics',
           url: 'https://www.youtube.com/watch?v=fAYH2RkjDqI',
           description:
             'We take a look at the various commands available in the ngrx schematics library which can be used for easily adding Ngrx to any angular application. We first install @ngrx/schematics and all other dependencies. Then we try out commands to generate State, devtools, Action, Reducer, Selector, Container component and Effects.',
@@ -1102,8 +1074,7 @@ export class PostService {
           slug: '2021-09-09-c',
           type: 'video',
           duration: '11',
-          title:
-            'Unit Testing - How to Use Dummies, Fakes, Mocks, and Stubs',
+          title: 'Unit Testing - How to Use Dummies, Fakes, Mocks, and Stubs',
           url: 'https://www.youtube.com/watch?v=vyjUIcr6iYY',
           description:
             'Enterprise applications often lack reliable code, making it difficult to implement new features and scale your application. In this episode, Hudson Baker gives you the tools necessary to make your Unit Tests more dynamic and streamlined. Improving the functionality of your Unit Tests will radically improve the quality and velocity of product releases in your application development.',
@@ -1125,8 +1096,7 @@ export class PostService {
           type: 'blog',
           duration: '',
           title: 'RxJS subscription management with Angular',
-          url:
-            'https://dev.to/j3nnning/rxjs-subscription-management-with-angular-54ek',
+          url: 'https://dev.to/j3nnning/rxjs-subscription-management-with-angular-54ek',
           description:
             "With this article, I'm going to cover the various methods to manage subscriptions and how to decide on which method to use. RxJS subscription management is one of the common mistakes among developers, partly due to the learning curve of RxJS, partly the opaqueness of subscription, yet it is essential to using RxJS effectively.",
           imgUrl: '2021-09-09-d.png',
@@ -1146,8 +1116,7 @@ export class PostService {
           slug: '2021-09-09-e',
           type: 'video',
           duration: '14',
-          title:
-            'How to migrate state from NgRx Store to NgRx ComponentStore',
+          title: 'How to migrate state from NgRx Store to NgRx ComponentStore',
           url: 'https://www.youtube.com/watch?v=3Y16WVam3Zw',
           description:
             'This video shows you how to manage local state and move it from the global NgRx Store to a local NgRx ComponentStore in an Angular application.',
@@ -1168,8 +1137,7 @@ export class PostService {
           slug: '2021-09-09-f',
           type: 'podcast',
           duration: '37',
-          title:
-            'AMP11: Angular Community is Amazing with Grzegorz Lipke',
+          title: 'AMP11: Angular Community is Amazing with Grzegorz Lipke',
           url: 'https://open.spotify.com/episode/5JN4sOg6bbf3DfulRwijH7',
           description:
             "Today I met with amazing Grzegorz Lipke, CTO House Of Angular. We talked about Angular and more specifically our amazing community. We also discussed the topic of open source software, how important it is for today's business and how important it is for the company's development.",
@@ -1191,8 +1159,7 @@ export class PostService {
           type: 'blog',
           duration: '',
           title: 'How to access path parameters in angular router',
-          url:
-            'https://dev.to/codever/how-to-access-path-parameters-in-angular-router-1261',
+          url: 'https://dev.to/codever/how-to-access-path-parameters-in-angular-router-1261',
           description:
             'At Codever we use Angular extensively, and many time the use navigates to certain routes where dynamically content based on an id for example is loaded. To access these path params in angular navigation you have two possibilities.',
           imgUrl: '2021-09-09-g.png',
@@ -1212,10 +1179,8 @@ export class PostService {
           slug: '2021-09-09-h',
           type: 'blog',
           duration: '',
-          title:
-            'Will the Real Senior Dev Please Stand Up? (2021 Edition)',
-          url:
-            'https://dev.to/linearb/will-the-real-senior-dev-please-stand-up-2021-edition-1k4j',
+          title: 'Will the Real Senior Dev Please Stand Up? (2021 Edition)',
+          url: 'https://dev.to/linearb/will-the-real-senior-dev-please-stand-up-2021-edition-1k4j',
           description:
             '... In a follow-up to my article from last year, I’d like to share some of the takeaways from my discussion with Dan and discuss whether or not some of these hiring practices have changed in the past year. ...',
           imgUrl: '2021-09-09-h.png',
@@ -1235,10 +1200,8 @@ export class PostService {
           slug: '2021-09-09-i',
           type: 'blog',
           duration: '',
-          title:
-            'Tutorial – First Steps with Nx and Angular Architecture',
-          url:
-            'https://www.angulararchitects.io/en/aktuelles/tutorial-first-steps-with-nx-and-angular-architecture/',
+          title: 'Tutorial – First Steps with Nx and Angular Architecture',
+          url: 'https://www.angulararchitects.io/en/aktuelles/tutorial-first-steps-with-nx-and-angular-architecture/',
           description:
             'Nx is a famous extension for the Angular CLI provided by former Angular core team members. It’s a great solution (not only) for structuring big enterprise-scale applications. This tutorial shows how to get started with Nx. It starts from scratch with an empty Nx workspace. You learn the following things:',
           imgUrl: '2021-09-09-i.png',
@@ -1259,8 +1222,7 @@ export class PostService {
           type: 'blog',
           duration: '',
           title: 'Firestore: Using Reference Types for Joins',
-          url:
-            'https://dev.to/jdgamble555/firestore-using-reference-types-for-joins-4194',
+          url: 'https://dev.to/jdgamble555/firestore-using-reference-types-for-joins-4194',
           description:
             'What do we even use these "reference" types for? I mean, Firestore doesn\'t even have any joins. Okay, very true. But, I finally found a use for them in Firebase 9 SDK when I "expanded" my mind. Technically you can search for a reference just like anything else:',
           imgUrl: '2021-09-09-j.png',
@@ -1329,8 +1291,7 @@ export class PostService {
           type: 'blog',
           duration: '',
           title: 'Directives in Angular',
-          url:
-            'https://raghuvardhankaranam.medium.com/directives-in-angular-a30dabaa54c4',
+          url: 'https://raghuvardhankaranam.medium.com/directives-in-angular-a30dabaa54c4',
           description:
             'Directives are one of the most fundamental concepts in angular. They are simply instructions to the DOM. Think of it as the directions to the dom. Directives manipulate the DOM to add elements to the DOM or change the behavior of the existing ones.',
           imgUrl: '2021-09-10-c.png',
@@ -1351,8 +1312,7 @@ export class PostService {
           type: 'blog',
           duration: '',
           title: 'Angular: The Single Rule To Get Better At RxJS',
-          url:
-            'https://dev.to/daviddalbusco/angular-the-single-rule-to-get-better-at-rxjs-1i64',
+          url: 'https://dev.to/daviddalbusco/angular-the-single-rule-to-get-better-at-rxjs-1i64',
           description:
             'Even though there is no strict rule, combining imperative and declarative programming concepts with RxJS might be making the development harder and the code less clean.',
           imgUrl: '2021-09-10-d.png',
@@ -1372,10 +1332,8 @@ export class PostService {
           slug: '2021-09-10-e',
           type: 'blog',
           duration: '',
-          title:
-            'Adding the Google reCAPTCHA v2 to an Angular application',
-          url:
-            'https://dev.to/rodrigokamada/adding-the-google-recaptcha-v2-to-an-angular-application-1o7o',
+          title: 'Adding the Google reCAPTCHA v2 to an Angular application',
+          url: 'https://dev.to/rodrigokamada/adding-the-google-recaptcha-v2-to-an-angular-application-1o7o',
           description: '',
           imgUrl: '2021-09-10-e.png',
           datePosted: '2021-09-10',
@@ -1396,8 +1354,7 @@ export class PostService {
           duration: '',
           title:
             'How Angular Web Developer Will Change Your Business Landscape in 2021?',
-          url:
-            'https://dev.to/annasharland/how-angular-web-developer-will-change-your-business-landscape-in-2021-563k',
+          url: 'https://dev.to/annasharland/how-angular-web-developer-will-change-your-business-landscape-in-2021-563k',
           description:
             'Do you know? Angular is the 4th most used web framework among developers worldwide. The top websites like Gmail, Forbes, and PayPal are powered by it.',
           imgUrl: '2021-09-10-f.png',
@@ -1418,8 +1375,7 @@ export class PostService {
           type: 'blog',
           duration: '',
           title: 'Build a Quiz App using a Strapi API with Angular 11',
-          url:
-            'https://dev.to/zaracooper/build-a-quiz-app-using-a-strapi-api-with-angular-11-44ib',
+          url: 'https://dev.to/zaracooper/build-a-quiz-app-using-a-strapi-api-with-angular-11-44ib',
           description:
             'This tutorial is a guide on how to create a quiz app. The app will use Strapi as a backend server and Angular in the frontend.',
           imgUrl: '2021-09-10-g.png',
@@ -1487,8 +1443,7 @@ export class PostService {
           slug: '2021-09-11-a',
           type: 'video',
           duration: '19',
-          title:
-            'Custom Pipes in Angular | Reusable Social Numbers Pipe',
+          title: 'Custom Pipes in Angular | Reusable Social Numbers Pipe',
           url: 'https://www.youtube.com/watch?v=RX8_11Bq6zQ',
           description:
             'In this video we are going to cover Angular Pipes and explain them by example.',
@@ -1537,8 +1492,7 @@ export class PostService {
           duration: '',
           title:
             '[What is the] Cleanest way to subscribe to observable in OnInit?',
-          url:
-            'https://www.reddit.com/r/angular/comments/plnl6a/cleanest_way_to_subscribe_to_observable_in_oninit/',
+          url: 'https://www.reddit.com/r/angular/comments/plnl6a/cleanest_way_to_subscribe_to_observable_in_oninit/',
           description:
             'My component\'s ngOnInit methods with sometimes look bloated due to the multiple observables I\'m subscribing too. Is there a conventional way of keeping the ngOnInit clean when having like 3 or 4 observables to subscribe to? I think about offloading each one into its own private method just to be called once like "subscribeToSearchResults", "subscribeToTextInput". Any recommendations?',
           imgUrl: '2021-09-12-a.png',
@@ -1560,8 +1514,7 @@ export class PostService {
           duration: '',
           title: 'RxJS - Promise vs Observable',
           url: 'https://dev.to/jintoppy/rxjs-promise-vs-observable-243n',
-          description:
-            '... is why to use Observable instead of Promise?',
+          description: '... is why to use Observable instead of Promise?',
           imgUrl: '2021-09-12-b.png',
           datePosted: '2021-09-12',
           dateCreated: '2021-09-12',
@@ -1580,8 +1533,7 @@ export class PostService {
           type: 'blog',
           duration: '',
           title: "What's new in TypeScript v4.4?",
-          url:
-            'https://dev.to/ankittanna/what-s-new-in-typescript-4-4-ai7',
+          url: 'https://dev.to/ankittanna/what-s-new-in-typescript-4-4-ai7',
           description:
             'TypeScript 4.4 came out with a lot of performance update plus some improved type checking. As a developer, you may be excited about a few of the features that are listed below.',
           imgUrl: '2021-09-12-c.png',
@@ -1649,11 +1601,9 @@ export class PostService {
           slug: '2021-09-13-c',
           type: 'video',
           duration: '11',
-          title:
-            '79. Angular Project Tutorial - Event Model for Type safety',
+          title: '79. Angular Project Tutorial - Event Model for Type safety',
           url: 'https://www.youtube.com/watch?v=GgwdrDgM134',
-          description:
-            'Angular Event Model explained in detail with example',
+          description: 'Angular Event Model explained in detail with example',
           imgUrl: '2021-09-13-c.jpg',
           datePosted: '2021-09-13',
           dateCreated: '2021-09-13',
@@ -1671,8 +1621,7 @@ export class PostService {
           slug: '2021-09-13-d',
           type: 'video',
           duration: '19',
-          title:
-            'Prefer Template-Driven Forms | Ward Bell | ng-conf 2021',
+          title: 'Prefer Template-Driven Forms | Ward Bell | ng-conf 2021',
           url: 'https://www.youtube.com/watch?v=L7rGogdfe2Q',
           description:
             'In this session,  he will demonstrate the superiority of Template-Driven Forms in a variety of so-called “advanced”, real-world scenarios. He will leave you with the companion stackblitz sample to enjoy on your own. If you’re fond of Reactive Forms, carry on. If you’re feeling guilty because you use Template-Driven Forms, hold your head high knowing that you’ve chosen wisely.',
@@ -1695,8 +1644,7 @@ export class PostService {
           duration: '40',
           title:
             'S1E15 | Working Internationally: Taking Your Career Beyond Borders',
-          url:
-            'https://www.spreaker.com/user/14532324/s1e15-working-internationally-taking-you?utm_medium=widget&utm_source=user%3A14532324&utm_term=episode_title',
+          url: 'https://www.spreaker.com/user/14532324/s1e15-working-internationally-taking-you?utm_medium=widget&utm_source=user%3A14532324&utm_term=episode_title',
           description:
             'For today’s episode of the Angular Experience, we’re joined by Craig Spence, Senior Engineer at Spotify. Craig talks to us about his experience of moving from his home in New Zealand to living and working in Sweden. He offers his advice on things that should be considered before deciding to work abroad, including barriers, benefits, and financial and logistical aspects.',
           imgUrl: 'thumb-angular-experience.png',
@@ -1719,8 +1667,7 @@ export class PostService {
           duration: '',
           title:
             'Deploying Angular App with multi-stage docker file plus tips/tricks on (Image Optimization)',
-          url:
-            'https://dev.to/laibazahoor1/deploying-angular-app-with-multi-stage-docker-file-plus-tips-tricks-on-image-optimization-87m',
+          url: 'https://dev.to/laibazahoor1/deploying-angular-app-with-multi-stage-docker-file-plus-tips-tricks-on-image-optimization-87m',
           description:
             'It is very important to build efficient docker images using Dockerfile whenever pushing out images into production. We need images as small as possible in production for faster downloads, lesser surface attacks.',
           imgUrl: '2021-09-13-f.png',
@@ -1742,8 +1689,7 @@ export class PostService {
           duration: '',
           title:
             "How to get an attribute value in Angular's components and directives",
-          url:
-            'https://dev.to/shhdharmen/how-to-get-an-attribute-value-in-angular-s-components-and-directives-4b0c',
+          url: 'https://dev.to/shhdharmen/how-to-get-an-attribute-value-in-angular-s-components-and-directives-4b0c',
           description:
             'In this tutorial, we will explore all the ways to read HTML attribute values passed in the component or directive.',
           imgUrl: '2021-09-13-g.png',
@@ -1764,8 +1710,7 @@ export class PostService {
           type: 'blog',
           duration: '',
           title: 'Debugging Angular App on Android from Mac',
-          url:
-            'https://dev.to/kildareflare/debugging-angular-app-on-android-from-mac-4hg6',
+          url: 'https://dev.to/kildareflare/debugging-angular-app-on-android-from-mac-4hg6',
           description:
             "Today I needed to inspect an Angular web app I'm building to determine why it was not displaying correctly. (It displayed just fine in the Chrome Dev Tools Emulator, but no on a real device). I've done this a lot in the past and thought I knew how to set this up, but there was one thing I was missing.",
           imgUrl: '2021-09-13-h.png',
@@ -1809,8 +1754,7 @@ export class PostService {
           duration: '',
           title:
             'Lazy translation assets with Angular, Transloco and Nx Buildable Libs',
-          url:
-            'https://dev.to/seanperkins/lazy-translation-assets-with-angular-transloco-and-nx-buildable-libs-18ce',
+          url: 'https://dev.to/seanperkins/lazy-translation-assets-with-angular-transloco-and-nx-buildable-libs-18ce',
           description:
             "When dealing with applications that support multiple languages, it becomes increasingly more costly to have single translation asset files to contain all the key-value pairs for your application. Instead, making use of webpack's inline loaders and Nx's buildable libs; you can fetch smaller translation assets only for a feature's scope, without requesting additional data.",
           imgUrl: '2021-09-13-j.png',
@@ -1831,8 +1775,7 @@ export class PostService {
           type: 'blog',
           duration: '',
           title: 'How Components Communicate With Each Other In Angular',
-          url:
-            'https://www.c-sharpcorner.com/blogs/how-components-communicate-with-each-other-in-angular',
+          url: 'https://www.c-sharpcorner.com/blogs/how-components-communicate-with-each-other-in-angular',
           description:
             'For better understanding, you should have a basic knowledge about what are components and how to build an application using that. Components are the building blocks of Angular. So we need to understand how components communicate with each other. There are three ways: ...',
           imgUrl: '2021-09-13-k.png',
@@ -1852,8 +1795,7 @@ export class PostService {
           slug: '2021-09-13-m',
           type: 'video',
           duration: '10',
-          title:
-            'TypeScript Core Concepts - Using interfaces in TypeScript',
+          title: 'TypeScript Core Concepts - Using interfaces in TypeScript',
           url: 'https://www.youtube.com/watch?v=dzfCgPFJyr4',
           description:
             'Check out this simple guide to TypeScript interfaces with Microsoft Cloud Advocate Dan Wahlin (https://twitter.com/DanWahlin).',
@@ -1921,10 +1863,8 @@ export class PostService {
           slug: '2021-09-14-c',
           type: 'blog',
           duration: '',
-          title:
-            '3 Easy Ways to Add Animation to your Angular Applications',
-          url:
-            'https://dev.to/this-is-angular/3-easy-ways-to-add-animation-to-your-angular-applications-2537',
+          title: '3 Easy Ways to Add Animation to your Angular Applications',
+          url: 'https://dev.to/this-is-angular/3-easy-ways-to-add-animation-to-your-angular-applications-2537',
           description:
             'This blog post is meant to be a short introduction to animations for Angular. If you are looking for more advanced content, check out my Indepth Guide to Animation in Angular on indepth.dev or my Angular Animation Explorer project. Those include more advanced use cases and covers topics such as performance, debugging, and more.',
           imgUrl: '2021-09-14-c.png',
@@ -1945,8 +1885,7 @@ export class PostService {
           type: 'blog',
           duration: '',
           title: 'NgRx Feature Creator',
-          url:
-            'https://dev.to/this-is-angular/ngrx-feature-creator-2c72',
+          url: 'https://dev.to/this-is-angular/ngrx-feature-creator-2c72',
           description:
             "The createFeature function is introduced in NgRx v12.1. It reduces repetitive code in selector files by generating a feature selector and child selectors for each feature state property. It's inspired by the ngrx-child-selectors library.",
           imgUrl: '2021-09-14-d.png',
@@ -1967,8 +1906,7 @@ export class PostService {
           type: 'blog',
           duration: '',
           title: 'Access modifiers in TypeScript class Constructor',
-          url:
-            'https://dev.to/krishnapolanki/access-modifiers-in-typescript-class-constructor-20pf',
+          url: 'https://dev.to/krishnapolanki/access-modifiers-in-typescript-class-constructor-20pf',
           description:
             'TypeScript includes a concise way to create and assign a class instance property from a constructor parameter',
           imgUrl: '2021-09-14-e.png',
@@ -1988,10 +1926,8 @@ export class PostService {
           slug: '2021-09-14-f',
           type: 'blog',
           duration: '',
-          title:
-            'Accessible Design System in Angular, the Architecture.',
-          url:
-            'https://dev.to/srini/accessible-design-system-in-angular-the-architecture-4g2a',
+          title: 'Accessible Design System in Angular, the Architecture.',
+          url: 'https://dev.to/srini/accessible-design-system-in-angular-the-architecture-4g2a',
           description: '',
           imgUrl: '2021-09-14-f.png',
           datePosted: '2021-09-14',
@@ -2032,8 +1968,7 @@ export class PostService {
           type: 'blog',
           duration: '',
           title: 'Understanding Ngrx Actions, Reducers and Effects',
-          url:
-            'https://dev.to/mcube25/understanding-ngrx-actions-reducers-and-effects-j9e',
+          url: 'https://dev.to/mcube25/understanding-ngrx-actions-reducers-and-effects-j9e',
           description:
             'Actions, Reducers and Effects are building blocks in Ngrx which is used in many Angular applications. This article is meant to explain the relationship between the three and how we can use them in an application',
           imgUrl: '2021-09-14-h.png',
@@ -2075,8 +2010,7 @@ export class PostService {
           type: 'blog',
           duration: '',
           title: 'Tracking user interaction area',
-          url:
-            'https://indepth.dev/posts/1479/tracking-user-interaction-area',
+          url: 'https://indepth.dev/posts/1479/tracking-user-interaction-area',
           description:
             'Explore one of the most complex pieces of Taiga UI — ActiveZone directive that keeps an eye on what region user is working with. It touches on low-level native DOM events API, advanced RxJS and Dependency Injection, ShadowDOM and more!',
           imgUrl: '2021-09-14-j.png',
@@ -2103,8 +2037,7 @@ export class PostService {
           duration: '',
           title:
             'When And Why Angular Is A Good Technical Solution For Your Project',
-          url:
-            'https://www.linkedin.com/pulse/when-why-angular-good-technical-solution-your-project-tanmoy-majumdar?trk=articles_directory',
+          url: 'https://www.linkedin.com/pulse/when-why-angular-good-technical-solution-your-project-tanmoy-majumdar?trk=articles_directory',
           description:
             'Angular has come to the top once again, according to recent statistics. Angular is a web development network that makes the coding task easier, and faster than before. Angular-based applications are lightweight, easy to maintain, and can offer spontaneous results. While all this sounds good, these should not be your only criteria to choose a technology stack. One must learn about the technology stack, its applications, and use cases.',
           imgUrl: '2021-09-15-a.png',
@@ -2147,8 +2080,7 @@ export class PostService {
           type: 'podcast',
           duration: '60',
           title: 'E066 - NgRx Effects Best Practices',
-          url:
-            'https://www.spreaker.com/user/ng-conf/e066-ngrx-effects-best-practices',
+          url: 'https://www.spreaker.com/user/ng-conf/e066-ngrx-effects-best-practices',
           description:
             "We're back from our summer break and we're releasing a fresh episode of The Angular Show with a special guest, Mike Ryan, a Principal Architect with LiveLoveApp. Mike is a co-creator and member of the NgRx core team, a contributor to open-source, and a Google Developer Expert in Angular. Mike joins our panelists Aaron Frosts, Jennifer Wadella, and Brian Love, to chat about NgRx Effects best practices.",
           imgUrl: 'thumb-the-angular-show.png',
@@ -2191,8 +2123,7 @@ export class PostService {
           type: 'blog',
           duration: '',
           title: 'Angular architecture matters: Monorepo',
-          url:
-            'https://dev.to/ngconf/angular-architecture-matters-monorepo-2n11',
+          url: 'https://dev.to/ngconf/angular-architecture-matters-monorepo-2n11',
           description:
             'Whenever you start a new project, one of the first decisions we made is the structure of our code base. This is important because we do not want to have spaghetti code, features breaking when code changes... A few years ago, I worked in a project that comprises several apps with shared libraries. At first, everything was fine: apps were very small, few requirements; but every small app converts into a big one.',
           imgUrl: '2021-09-15-e.png',
@@ -2213,8 +2144,7 @@ export class PostService {
           type: 'podcast',
           duration: '54',
           title: 'Episode 18: Special Guest Tom!',
-          url:
-            'https://anchor.fm/ng-build-pod/episodes/Special-Guest-Tom-e17e30p',
+          url: 'https://anchor.fm/ng-build-pod/episodes/Special-Guest-Tom-e17e30p',
           description:
             "John and Chris have a special guest on today. We are interviewing Tom. Tom is a developer at Miles Technologies and has been developing software using the Breckenridge template we've been talking about so much. He helps share a 1st hand perspective of our software and share's his angular story.",
           imgUrl: 'thumb-ng-build.png',
@@ -2303,8 +2233,7 @@ export class PostService {
           type: 'blog',
           duration: '',
           title: 'RxJS - Creation Operators',
-          url:
-            'https://dev.to/this-is-learning/rxjs-creation-operators-6bh',
+          url: 'https://dev.to/this-is-learning/rxjs-creation-operators-6bh',
           description:
             'The Creation Operators are used to create new observables. They are divided into Creation Operators and Join Creation Operators. The main difference between them consists in the fact that the Join Creation Operators create observable from other observables instead the Creation Operators create observables from objects which differ from observable.',
           imgUrl: '2021-09-16-c.png',
@@ -2409,10 +2338,8 @@ export class PostService {
           slug: '2021-09-16-g',
           type: 'podcast',
           duration: '42',
-          title:
-            'Episode 151: Engineering Technology from Idea to Release',
-          url:
-            'https://webrush.io/episodes/episode-151-engineering-technology-from-idea-to-release',
+          title: 'Episode 151: Engineering Technology from Idea to Release',
+          url: 'https://webrush.io/episodes/episode-151-engineering-technology-from-idea-to-release',
           description:
             'Mitali Karmarkar talks with us about working on Azure Static Web Apps. What is a static web app? What was the first line of code written? Where were some challenges faced developing it? Moving from beta to live, and how they gathered feedback. And advice for anyone building a product in 2021.',
           imgUrl: 'thumb-web-rush.png',
@@ -2481,8 +2408,7 @@ export class PostService {
           duration: '',
           title:
             'Create An Angular Library And Consume it locally (with debugging)',
-          url:
-            'https://dev.to/jsanddotnet/create-an-angular-library-and-consume-it-locally-with-debugging-cma',
+          url: 'https://dev.to/jsanddotnet/create-an-angular-library-and-consume-it-locally-with-debugging-cma',
           description:
             'This tutorial will detail how to: Create an angular library, Create a component in that library, Export that component for use in an application, Create an angular application, Import the local component library, Access debugging for the library from the main application.',
           imgUrl: '2021-09-17-b.png',
@@ -2588,10 +2514,8 @@ export class PostService {
           slug: '2021-09-17-g',
           type: 'blog',
           duration: '',
-          title:
-            'How to Migrate from AngularJS to Angular 9+ Case Study',
-          url:
-            'https://modlogix.com/case-studies/how-to-migrate-from-angularjs-to-angular-9/',
+          title: 'How to Migrate from AngularJS to Angular 9+ Case Study',
+          url: 'https://modlogix.com/case-studies/how-to-migrate-from-angularjs-to-angular-9/',
           description:
             'This was the case of our client whose business growth peaked in the decline of AngularJS. To provide a good level of customer experience, he had to migrate the system to the latest Angular version fast.',
           imgUrl: '2021-09-17-g.png',
@@ -2639,8 +2563,7 @@ export class PostService {
           type: 'blog',
           duration: '',
           title: 'Nested Component',
-          url:
-            'https://www.ngdevelop.tech/angular/tutorial/nested-component/',
+          url: 'https://www.ngdevelop.tech/angular/tutorial/nested-component/',
           description:
             'So far we have built applications with a two component, one is AppComponent and other one is ProductsComponent. our goal now is to start building applications that are composed of multiple components working together.',
           imgUrl: '2021-09-18-a.png',
@@ -2661,8 +2584,7 @@ export class PostService {
           type: 'blog',
           duration: '',
           title: 'Using Angular Change Detection Effectively.',
-          url:
-            'https://jagjeets.medium.com/using-angular-change-detection-effectively-f69d6a493c35',
+          url: 'https://jagjeets.medium.com/using-angular-change-detection-effectively-f69d6a493c35',
           description:
             'Change Detection is a mechanism angular uses to keep DOM in synchronization with component data by re-rendering the DOM whenever the data is changed.',
           imgUrl: '2021-09-18-b.png',
@@ -2684,8 +2606,7 @@ export class PostService {
           duration: '57',
           title:
             'Managing and Capturing Errors in Angular ft. Philipp Kief - AiA 325',
-          url:
-            'https://devchat.tv/adv-in-angular/managing-and-capturing-errors-in-angular-ft-philipp-kief-aia-325/',
+          url: 'https://devchat.tv/adv-in-angular/managing-and-capturing-errors-in-angular-ft-philipp-kief-aia-325/',
           description:
             'Philipp Kief walks through how to manage and capture errors in your Angular application and how to display them to users. He discusses how he standardized error handlers in his applications and what he does to make sure that they get logged someplace.',
           imgUrl: 'thumb-adventures-in-angular.png',
@@ -2710,8 +2631,7 @@ export class PostService {
           slug: '2021-09-19-a',
           type: 'video',
           duration: '40',
-          title:
-            'NestJS Angular Chat WebSocket SocketIO - LinkedIn Clone [26]',
+          title: 'NestJS Angular Chat WebSocket SocketIO - LinkedIn Clone [26]',
           url: 'https://www.youtube.com/watch?v=qSlIX5tWvt0',
           description:
             'In this video we build out the beginnings of our chat application. We establish a WebSocket connection between our NestJS server and Ionic Angular client. We then create the ability to emit and handle events, creating the ability to send and receive messages.',
@@ -2755,8 +2675,7 @@ export class PostService {
           duration: '',
           title:
             'Adding the log component to an Angular application (ngx-logger)',
-          url:
-            'https://dev.to/rodrigokamada/adding-the-log-component-to-an-angular-application-49f9',
+          url: 'https://dev.to/rodrigokamada/adding-the-log-component-to-an-angular-application-49f9',
           description:
             'ngx-logger is a simple log component library and allows messages to be displayed on the console and sent to the server using an HTTP request.',
           imgUrl: '2021-09-19-c.png',
@@ -2861,10 +2780,8 @@ export class PostService {
           slug: '2021-09-19-h',
           type: 'blog',
           duration: '',
-          title:
-            'The better side of the Single value Observables in RxJs',
-          url:
-            'https://generic-ui.com/blog/the-better-side-of-the-single-value-observables-in-rxjs',
+          title: 'The better side of the Single value Observables in RxJs',
+          url: 'https://generic-ui.com/blog/the-better-side-of-the-single-value-observables-in-rxjs',
           description:
             'The RxJs library is a great set of tools that can help you bring your application reactivity to the next level. One of the various features of Observables is that they return a series of values. You can simply connect to a stream of data and receive various values over a period of time. A great example of this is listening to the mouse events or a stream of data that comes from a Websocket. On the other hand ...',
           imgUrl: '2021-09-19-h.png',
@@ -2975,8 +2892,7 @@ export class PostService {
           slug: '2021-09-20-d',
           type: 'video',
           duration: '22',
-          title:
-            'TypeScript Factory Patterns (No BS TS Series 2 Episode 1)',
+          title: 'TypeScript Factory Patterns (No BS TS Series 2 Episode 1)',
           url: 'https://www.youtube.com/watch?v=-1YhP5IOBCI',
           description:
             'No BS TS is back! With the first in an all new series where we cover all the patterns in the original Design Patterns book (and more). This time we are looking at the factory patterns; Abstract Factory, Builder and Factory Method. All of these patterns help you build reusable well architected code.',
@@ -2998,8 +2914,7 @@ export class PostService {
           type: 'podcast',
           duration: '30',
           title: 'S1E16 | Change the World Highlight: Sondermind',
-          url:
-            'https://www.spreaker.com/user/14532324/s1e16-change-the-world-highlight-sonderm?utm_medium=widget&utm_source=user%3A14532324&utm_term=episode_title',
+          url: 'https://www.spreaker.com/user/14532324/s1e16-change-the-world-highlight-sonderm?utm_medium=widget&utm_source=user%3A14532324&utm_term=episode_title',
           description:
             'For today’s episode of the Angular Experience, we’re taking a real world look at how Angular is being used to do good in the community. We sat down with Engineering Manager Dallas Cook from Sondermind.com to discuss how they’re using Angular to make it possible for mental health patients to match with qualified therapists and receive virtual or in-person treatment in as little as a matter of hours. Dallas shares his journey into programming and how he became involved at this startup company ...',
           imgUrl: 'thumb-angular-experience.png',
@@ -3021,8 +2936,7 @@ export class PostService {
           type: 'blog',
           duration: '',
           title: 'How to Unit Test an HTTP Service in Angular',
-          url:
-            'https://braydoncoyer.dev/blog/how-to-unit-test-an-http-service-in-angular/',
+          url: 'https://braydoncoyer.dev/blog/how-to-unit-test-an-http-service-in-angular/',
           description:
             "We now understand the importance of testing in isolation and I want to shift our focus to testing an HTTP Service. By the time we wrap up this addition to the series, not only will you understand how to write valuable tests, but you'll also understand what to test - something I feel a lot of newcomers to unit testing struggle to wrap their minds around.",
           imgUrl: '2021-09-20-f.png',
@@ -3045,8 +2959,7 @@ export class PostService {
           duration: '',
           title:
             'Add EsLint to existing Angular Project and Configure WebStorm',
-          url:
-            'https://dev.to/ussdlover/add-eslint-to-existing-angular-project-and-configure-webstorm-6ja',
+          url: 'https://dev.to/ussdlover/add-eslint-to-existing-angular-project-and-configure-webstorm-6ja',
           description:
             'So as Angular CLI no longer generate new project with deprecated tslint, after we create new one we need to add linting manually.',
           imgUrl: '2021-09-20-g.png',
@@ -3068,8 +2981,7 @@ export class PostService {
           type: 'blog',
           duration: '',
           title: 'Ngrx Entity and Selectors. The why and how',
-          url:
-            'https://dev.to/mcube25/ngrx-entity-and-selectors-the-why-and-how-27e2',
+          url: 'https://dev.to/mcube25/ngrx-entity-and-selectors-the-why-and-how-27e2',
           description:
             'When using Ngrx to build an application, the problem of deciding the format of storing data inside the store is always there. The problem of handling the business data in a centralized store is something that will need to be done in the application. This process could be repetitive and time consuming. It could lead to handwriting the same reducer logic and selectors for different data types. This can be error prone and slows down the development process. We would cover how to solve this problems using the Ngrx Entity and selectors to improve an application.',
           imgUrl: '2021-09-20-h.png',
@@ -3117,8 +3029,7 @@ export class PostService {
           type: 'blog',
           duration: '',
           title: 'RxJs testing patterns',
-          url:
-            'https://medium.com/generic-ui/rxjs-testing-patterns-c2cbf207158b',
+          url: 'https://medium.com/generic-ui/rxjs-testing-patterns-c2cbf207158b',
           description:
             'Testing the RxJs library may require programmers to change their way of thinking as it brings lots of challenges. It is agnostic from any JavaScript framework and has lots of features which makes it a very popular library amongst frontend technical stack. The reactive way of building applications requires developers to change the way they think about application runtime behavior. That said it may be challenging to understand the data flow and the internal behavior of the application. From my experience, one of the techniques which helps developers to figure out better what the code does is to write more…',
           imgUrl: '2021-09-21-b.png',
@@ -3209,8 +3120,7 @@ export class PostService {
           slug: '2021-09-22-a',
           type: 'video',
           duration: '6',
-          title:
-            'Angular Library: Learn How To Create And Use It In Your App',
+          title: 'Angular Library: Learn How To Create And Use It In Your App',
           url: 'https://www.youtube.com/watch?v=hIEbJkP1M5E',
           description:
             'In this video, you will see how to create an #angular #library, and how to use it in your application.',
@@ -3232,8 +3142,7 @@ export class PostService {
           type: 'blog',
           duration: '',
           title: 'RxJS - Join Operators',
-          url:
-            'https://dev.to/this-is-learning/rxjs-join-operators-2lam',
+          url: 'https://dev.to/this-is-learning/rxjs-join-operators-2lam',
           description:
             "Hi Guys and Welcome Back, Today I'll speak about the Join Operators. Some of these operators are similar to other operators shown in the Creation Operators but they are used in different contexts, ok let's start!",
           imgUrl: '2021-09-22-b.png',
@@ -3306,8 +3215,7 @@ export class PostService {
           type: 'blog',
           duration: '',
           title: 'Animate your Angular App using Animate.css',
-          url:
-            'https://dev.to/this-is-angular/animate-your-angular-app-using-animate-css-46c5',
+          url: 'https://dev.to/this-is-angular/animate-your-angular-app-using-animate-css-46c5',
           description:
             'Most of you probably have heard of Animate.css. It is an open-source CSS animation library with lots of predefined animations. Animate.css groups their animations into categories such as entrances, exits, and attention seekers, each addressing a different use case.',
           imgUrl: '2021-09-22-e.png',
@@ -3328,8 +3236,7 @@ export class PostService {
           type: 'blog',
           duration: '',
           title: "A beginner's guide to Dependency Injection",
-          url:
-            'https://dev.to/tobialagbe/a-beginners-guide-to-dependency-injection-3e0m',
+          url: 'https://dev.to/tobialagbe/a-beginners-guide-to-dependency-injection-3e0m',
           description:
             'Dependency injection is one of those topics new developers have a not so easy time grasping. This is because a lot of materials online make it seem a lot more complicated than it is. Is dependency injection a tool, framework or library? Well, none of the above. Dependency Injection is a software design pattern.',
           imgUrl: '2021-09-22-f.png',
@@ -3371,8 +3278,7 @@ export class PostService {
           slug: '2021-09-22-h',
           type: 'video',
           duration: '59',
-          title:
-            'Web Wednesday: Building and deploying a website with Angular',
+          title: 'Web Wednesday: Building and deploying a website with Angular',
           url: 'https://www.youtube.com/watch?v=a0caGwdzczE',
           description:
             "Damola 'D' Omotosho rejoins Web Wednesday to walk us through how he built the website for CardCraft, a full service greeting card company. He'll demonstrate how he's leveraging Angular, Azure Static Web Apps and .NET Core to create a great user experience. A serial entrepreneur, CTO and developer, Damola will highlight the creation of a real-world application and how these technologies can aid your development.",
@@ -3415,8 +3321,7 @@ export class PostService {
           type: 'podcast',
           duration: '46',
           title: 'All Things TypeScript ft. Wycliffe Maina - AiA 326',
-          url:
-            'https://devchat.tv/adv-in-angular/all-things-typescript-ft-wycliffe-maina-aia-326/',
+          url: 'https://devchat.tv/adv-in-angular/all-things-typescript-ft-wycliffe-maina-aia-326/',
           description:
             'Tomas Trajan is a developer from Slovakia living in Switzerland. He talks about his experiences using streams, observables, and RxJS in Angular over the last several years. He gives a few lessons and examples of when and how it should be used in your applications.',
           imgUrl: 'thumb-adventures-in-angular.png',
@@ -3443,8 +3348,7 @@ export class PostService {
           duration: '45',
           title:
             'Episode 152: Creating a Successful Front-End Onboarding Plan with Dana Yudelevich',
-          url:
-            'https://webrush.io/episodes/episode-152-creating-a-successful-front-end-onboarding-plan-with-dana-yudelevich',
+          url: 'https://webrush.io/episodes/episode-152-creating-a-successful-front-end-onboarding-plan-with-dana-yudelevich',
           description:
             'Dana Yudelevich talks with us about the tips, tools, and advice for onboarding new team members. Why is onboarding important? How do you set people up for success? Are there any guides or tools Dana recommends for onboarding? And what is Notion?',
           imgUrl: 'thumb-web-rush.png',
@@ -3589,10 +3493,8 @@ export class PostService {
           slug: '2021-09-23-h',
           type: 'blog',
           duration: '',
-          title:
-            'Inject dynamic content in Angular components with portals',
-          url:
-            'https://blog.logrocket.com/inject-dynamic-content-angular-components-with-portals/',
+          title: 'Inject dynamic content in Angular components with portals',
+          url: 'https://blog.logrocket.com/inject-dynamic-content-angular-components-with-portals/',
           description:
             'As an Angular developer, a large part of our daily job is putting components together to build our app. From time to time, we will need to inject a component or UI template into another component dynamically. In Angular, there are a couple of ways to render dynamic components into a host component before the CDK portals are released. These are...',
           imgUrl: '2021-09-23-h.png',
@@ -3661,8 +3563,7 @@ export class PostService {
           type: 'blog',
           duration: '',
           title: 'Move you angular cli app to Nx',
-          url:
-            'https://dev.to/this-is-angular/move-you-angular-cli-app-to-nx-3ej4',
+          url: 'https://dev.to/this-is-angular/move-you-angular-cli-app-to-nx-3ej4',
           description:
             'This week I mostly focused on my moving my clone to Nx monorepo. While converting it here are some of my findings on how to convert an Angular cli app to Nx monorepo',
           imgUrl: '2021-09-24-c.png',
@@ -3727,8 +3628,7 @@ export class PostService {
           type: 'blog',
           duration: '',
           title: 'What’s new in Angular 13',
-          url:
-            'https://www.infoworld.com/article/3629473/whats-new-in-angular-13.html',
+          url: 'https://www.infoworld.com/article/3629473/whats-new-in-angular-13.html',
           description:
             'The development of the next major version of the TypeScript-based web framework is underway.',
           imgUrl: '2021-09-24-f.png',
@@ -3755,8 +3655,7 @@ export class PostService {
           duration: '',
           title:
             'Hosting an Angular application on GitHub Pages using GitHub Actions',
-          url:
-            'https://dev.to/rodrigokamada/hosting-an-angular-application-on-github-pages-using-github-actions-5ag8',
+          url: 'https://dev.to/rodrigokamada/hosting-an-angular-application-on-github-pages-using-github-actions-5ag8',
           description:
             'GitHub is a source code and file storage service with version control using git tool. GitHub Pages is a static file hosting service using a public repository. GitHub Actions is a service to automate the software workflow.',
           imgUrl: '2021-09-25-a.png',
@@ -3848,8 +3747,7 @@ export class PostService {
           type: 'blog',
           duration: '',
           title: 'Create DatePicker By TailWindCss + Angular',
-          url:
-            'https://dev.to/timsar2/create-datepicker-by-tailwindcss-angular-3p8k',
+          url: 'https://dev.to/timsar2/create-datepicker-by-tailwindcss-angular-3p8k',
           description:
             'Tailwind Elements has good Collection of free, popular components like modal, dropdown and many more.',
           imgUrl: '2021-09-26-a.png',
@@ -3871,8 +3769,7 @@ export class PostService {
           duration: '6',
           title: 'Angular RxJS - Types of Subject',
           url: 'https://www.youtube.com/watch?v=6H2hJLIoWVY',
-          description:
-            'Today I will try to explain the use of subjects.',
+          description: 'Today I will try to explain the use of subjects.',
           imgUrl: '2021-09-26-b.jpg',
           datePosted: '2021-09-26',
           dateCreated: '2021-09-26',
@@ -3911,10 +3808,8 @@ export class PostService {
           slug: '2021-09-26-d',
           type: 'blog',
           duration: '',
-          title:
-            'Full Angular 12 Firebase Authentication Tutorial Example',
-          url:
-            'https://www.positronx.io/full-angular-7-firebase-authentication-system/',
+          title: 'Full Angular 12 Firebase Authentication Tutorial Example',
+          url: 'https://www.positronx.io/full-angular-7-firebase-authentication-system/',
           description:
             'In this Angular tutorial, we are going to build Angular 12 Firebase Authentication system from scratch using Firebase Real-time NoSQL cloud database.',
           imgUrl: '2021-09-26-d.png',
@@ -3927,7 +3822,7 @@ export class PostService {
           authorUrl: '',
           likes: 0,
           featured: true,
-          tags: ['Firebase', "Authentication"],
+          tags: ['Firebase', 'Authentication'],
         },
       ],
     },
@@ -3962,8 +3857,7 @@ export class PostService {
           type: 'blog',
           duration: '',
           title: 'Angular Strict Mode is a Game Changer',
-          url:
-            'https://delushaandelu.medium.com/angular-strict-mode-is-a-game-changer-72778ed94dcd',
+          url: 'https://delushaandelu.medium.com/angular-strict-mode-is-a-game-changer-72778ed94dcd',
           description:
             'If you work with TypeScript in the past it’s a programming language that promotes strict data types which helps developers avoid a lot of production issues which can be preventable during the development. Since strict mode is being enabled by default in the latest angular (v.12) we will study why it is a great idea to enable this feature in your app and how we can write codes that are type safe.',
           imgUrl: '2021-09-27-b.png',
@@ -3984,8 +3878,7 @@ export class PostService {
           type: 'blog',
           duration: '',
           title: 'Best practices in test automation with Cypress',
-          url:
-            'https://dev.to/walmyrlimaesilv/best-practices-in-test-automation-with-cypress-49ee',
+          url: 'https://dev.to/walmyrlimaesilv/best-practices-in-test-automation-with-cypress-49ee',
           description: '',
           imgUrl: '2021-09-27-c.png',
           datePosted: '2021-09-27',
@@ -4091,8 +3984,7 @@ export class PostService {
           type: 'podcast',
           duration: '39',
           title: 'S1E17 | Finding Your Professional Path',
-          url:
-            'https://www.spreaker.com/user/14532324/s1e17-finding-your-professional-path?utm_medium=widget&utm_source=user%3A14532324&utm_term=episode_title',
+          url: 'https://www.spreaker.com/user/14532324/s1e17-finding-your-professional-path?utm_medium=widget&utm_source=user%3A14532324&utm_term=episode_title',
           description:
             'In today’s episode of The Angular Experience, Brooke and Erik are joined by event organizing pro Alisa Duncan to talk about event networking tips and suggestions for introverts and extroverts alike. They address how to connect with fellow attendees and developers, speakers, sponsors, and potential employers as well.',
           imgUrl: 'thumb-angular-experience.png',
@@ -4113,10 +4005,8 @@ export class PostService {
           slug: '2021-09-27-i',
           type: 'blog',
           duration: '',
-          title:
-            'TypeScript Features Every Angular Developer Needs to Know',
-          url:
-            'https://dev.to/bitovi/typescript-features-every-angular-developer-needs-to-know-4b82',
+          title: 'TypeScript Features Every Angular Developer Needs to Know',
+          url: 'https://dev.to/bitovi/typescript-features-every-angular-developer-needs-to-know-4b82',
           description:
             'If you’re an Angular developer, you’re missing out if you’re not using advanced TypeScript features to help you build better code. And it’s well worth the effort: TypeScript has some great features that can make you a stronger Angular developer.',
           imgUrl: '2021-09-27-i.png',
@@ -4142,8 +4032,7 @@ export class PostService {
           type: 'blog',
           duration: '',
           title: 'DRY Way to Manage Subscriptions in Angular Components',
-          url:
-            'https://dev.to/this-is-angular/dry-way-to-manage-subscriptions-in-angular-components-256j',
+          url: 'https://dev.to/this-is-angular/dry-way-to-manage-subscriptions-in-angular-components-256j',
           description:
             'This article explains how to manage subscriptions in Angular components without repeating the same teardown logic in each component. (Cover photo by Tim Swaan on Unsplash.)',
           imgUrl: '2021-09-28-a.png',
@@ -4184,8 +4073,7 @@ export class PostService {
           slug: '2021-09-28-c',
           type: 'video',
           duration: '14',
-          title:
-            'Real-Life Analog of ZIP operator (Reactive Dürüm, 2021)',
+          title: 'Real-Life Analog of ZIP operator (Reactive Dürüm, 2021)',
           url: 'https://www.youtube.com/watch?v=csRIMubWYnw',
           description:
             'In this video, we continue to look for real-life analogs for #rxjs operators, and today we are going to look at the ZIP operator. This operator allows you to combine multiple streams together and emit an array of values arrived from combined streams. Additionally, this operator cares about the order of how values should be paired (it is hard to explain it with text - better one time to see). I hope you will find this video useful. Stay tuned and enjoy watching!',
@@ -4207,8 +4095,7 @@ export class PostService {
           type: 'blog',
           duration: '',
           title: 'How to manage object in Angular FormControl',
-          url:
-            'https://indepth.dev/tutorials/angular/object-in-formcontrol',
+          url: 'https://indepth.dev/tutorials/angular/object-in-formcontrol',
           description:
             'Generally we use FormControl with either string or boolean types and hence it manages only simple values. But what if we want to manage just more than primitive data types? We can do that, let’s see how.',
           imgUrl: '2021-09-28-d.png',
@@ -4228,8 +4115,7 @@ export class PostService {
           slug: '2021-09-28-e',
           type: 'video',
           duration: '4',
-          title:
-            'How to integrate Google Pay in Angular - Payments DevBytes',
+          title: 'How to integrate Google Pay in Angular - Payments DevBytes',
           url: 'https://www.youtube.com/watch?v=kRVBWHQDiAM',
           description:
             'The Google Pay Angular component makes integrating Google Pay into your Angular framework easier than ever. Follow along to a tutorial on how to integrate the Google Pay Angular component in Angular using npm. ',
@@ -4251,8 +4137,7 @@ export class PostService {
           type: 'blog',
           duration: '',
           title: 'String Patterns in TypeScript',
-          url:
-            'https://dev.to/saulodias/string-patterns-in-typescript-5b6k',
+          url: 'https://dev.to/saulodias/string-patterns-in-typescript-5b6k',
           description:
             'While we wait for a regex type in TypeScript, starting on TypeScript 4.1 we can make use of a very neat trick to create string patterns validations which can come in handy for some simple use cases.',
           imgUrl: '2021-09-28-f.png',
@@ -4319,7 +4204,6 @@ export class PostService {
     {
       date: '2021-09-29',
       dailyPosts: [
-
         {
           id: '29-b',
           slug: '2021-09-29-b',
@@ -4369,8 +4253,7 @@ export class PostService {
           type: 'podcast',
           duration: '65',
           title: 'E067 - The Human Side of Development',
-          url:
-            'https://www.spreaker.com/user/ng-conf/e067-the-human-side-of-development',
+          url: 'https://www.spreaker.com/user/ng-conf/e067-the-human-side-of-development',
           description:
             'This episode of the Angular Show features Sara Faatz, who leads the Telerik and KenoUI Developer Relations team at Progress, and Alyssa Nicoll, an Angular Developer Advocate & Google Developers Expert in Angular. Sara and Alyssa share with the panelists their respective journeys into the dev industry and how they ended up together on the Developer Relations team at Progress.',
           imgUrl: 'thumb-the-angular-show.png',
@@ -4392,8 +4275,7 @@ export class PostService {
           type: 'blog',
           duration: '',
           title: 'How to Use Environment Variables in An Angular App',
-          url:
-            'https://dev.to/mick_patterson_/how-to-use-environment-variables-in-an-angular-app-92g',
+          url: 'https://dev.to/mick_patterson_/how-to-use-environment-variables-in-an-angular-app-92g',
           description:
             "Environment variables in an Angular app are extremely useful for storing constants in your app that need to be used frequently, such as API url's, API access keys, Firebase config values and other general flags.",
           imgUrl: '2021-09-29-e.png',
@@ -4455,8 +4337,7 @@ export class PostService {
           type: 'blog',
           duration: '',
           title: 'How to convert HTML to PDF using Angular',
-          url:
-            'https://dev.to/_mnavarros/how-to-convert-html-to-pdf-using-angular-3jj8',
+          url: 'https://dev.to/_mnavarros/how-to-convert-html-to-pdf-using-angular-3jj8',
           description:
             "Yesterday, I was working on Hyperpanels' dashboard feature and my coworker @albertobeiz said the sentence every front-end developer fears: Can we generate a PDF from that?",
           imgUrl: '2021-09-29-h.png',
@@ -4478,8 +4359,7 @@ export class PostService {
           duration: '',
           title:
             'Best practice for subscribing to observables in services with Angular',
-          url:
-            'https://dev.to/ussdlover/best-practice-for-subscribing-to-observables-in-services-with-angular-1712',
+          url: 'https://dev.to/ussdlover/best-practice-for-subscribing-to-observables-in-services-with-angular-1712',
           description:
             'I do not like to subscribe to observables inside services, as it feels expensive due to the fact that we are not able to unsubscribe from them when we do not need them any more and we all hate memory leaks, right?\nSo the best way to use this solution will be the way that we would be able to unsubscribe from them when we done listening to that observable.',
           imgUrl: '2021-09-29-i.png',
@@ -4500,8 +4380,7 @@ export class PostService {
           slug: '2021-09-29-j',
           type: 'video',
           duration: '28',
-          title:
-            'Build Reactive Table (Real world RxJS) | RxJS Tutorials',
+          title: 'Build Reactive Table (Real world RxJS) | RxJS Tutorials',
           url: 'https://www.youtube.com/watch?v=GYLItMyFDIk',
           description:
             'This is the final video in a series. We apply the concepts covered so far in a relatively realistic scenario.',
@@ -4529,8 +4408,7 @@ export class PostService {
           duration: '40',
           title:
             'Episode 153: Single Page Application vs Multi Page Application with Rich Harris',
-          url:
-            'https://webrush.io/episodes/episode-153-single-page-application-vs-multi-page-application-with-rich-harris',
+          url: 'https://webrush.io/episodes/episode-153-single-page-application-vs-multi-page-application-with-rich-harris',
           description:
             'Rich Harris talks about the differences between a SPA and MPA, what role the server rendering plays, what client side hydration is, and the state of modern tooling for developing SPA or MPA. He also shares his thoughts on the evolution of SPA / MPA.',
           imgUrl: 'thumb-web-rush.png',
@@ -4551,8 +4429,7 @@ export class PostService {
           type: 'podcast',
           duration: '46',
           title: 'TypeScript Mixins – AiA 327',
-          url:
-            'https://devchat.tv/adv-in-angular/typescript-mixins-aia-327/',
+          url: 'https://devchat.tv/adv-in-angular/typescript-mixins-aia-327/',
           description:
             'Armen takes the lead this week to discuss TypeScript usage and how to bring in mixins into the picture as you build more complicated applications with TypeScript.',
           imgUrl: 'thumb-adventures-in-angular.png',
@@ -4572,8 +4449,7 @@ export class PostService {
           slug: '2021-09-30-c',
           type: 'video',
           duration: '23',
-          title:
-            'TypeScript Pub/Sub Patterns (No BS TS Series 2 Episode 2)',
+          title: 'TypeScript Pub/Sub Patterns (No BS TS Series 2 Episode 2)',
           url: 'https://www.youtube.com/watch?v=f3Cn0CGytSQ',
           description:
             'In this second episode of No BS TS series 2 we look at the Publish & Subscribe pattern (or the Observer pattern as they call it in the book). This pattern allows you to loosen the coupling in your code and maximize reuse, all while making your code easier to understand.',
@@ -4594,8 +4470,7 @@ export class PostService {
           slug: '2021-09-30-d',
           type: 'video',
           duration: '45',
-          title:
-            'Protractor is Going Away: Now What? Webinar w/ Sauce Labs',
+          title: 'Protractor is Going Away: Now What? Webinar w/ Sauce Labs',
           url: 'https://www.youtube.com/watch?v=nxQJ7B2J1CU',
           description:
             "It's official: As of Angular 15, development of Protractor will end. What does this mean? And what should you do about it?",
@@ -4618,8 +4493,7 @@ export class PostService {
           duration: '',
           title:
             'Build A ToDo List Application Using Angular, .Net 5.0 Web API And Microsoft SQL Server',
-          url:
-            'https://www.c-sharpcorner.com/article/build-a-todo-list-application-using-angular-net-5-0-web-api-and-microsoft-sql/',
+          url: 'https://www.c-sharpcorner.com/article/build-a-todo-list-application-using-angular-net-5-0-web-api-and-microsoft-sql/',
           description:
             'This article shows how to build an Angular front end of a ToDo list application. This is part 2 of a two-part tutorial. Part 1 showed how to build a ToDo list application using .Net 5 Web API, JWT authentication, and AspNetCore Identity. Part 1  can be found here. This article starts by stating user stories showing how a user wants to use the application.',
           imgUrl: '2021-09-30-e.png',
@@ -4726,11 +4600,11 @@ export class PostService {
           slug: '2021-09-30-j',
           type: 'blog',
           duration: '',
-          title: 'Angular Routing Guards: Understanding canActivate Guard (Part-2)',
-          url:
-            'https://medium.com/@knoldus/angular-routing-guards-understanding-canactivate-guard-part-2-1fae4dcf3845',
+          title:
+            'Angular Routing Guards: Understanding canActivate Guard (Part-2)',
+          url: 'https://medium.com/@knoldus/angular-routing-guards-understanding-canactivate-guard-part-2-1fae4dcf3845',
           description:
-            'Now let\'s start to learn something new about one of the routing guards: canActivate. We will learn what is the canActivate guard is and how to use it to protect the route.',
+            "Now let's start to learn something new about one of the routing guards: canActivate. We will learn what is the canActivate guard is and how to use it to protect the route.",
           imgUrl: '2021-09-30-j.png',
           datePosted: '2021-09-30',
           dateCreated: '2021-09-30',
@@ -4777,7 +4651,7 @@ export class PostService {
             'Easy healthy tests with component harnesses | Annie Wang | ng-conf 2021',
           url: 'https://www.youtube.com/watch?v=P-rQejsal6A',
           description:
-            'Component harnesses let you create a supported API for interacting with a component in tests the same way a user will. This talk will show you how you can use the Angular CDK to build your own harnesses for easier, healthier tests in all environments.\nng-conf is a multi-day Angular conference focused on delivering the highest quality training in the Angular JavaScript framework. 1000\'s of developers from across the globe join together to attend talks and workshops by the Angular team and other community experts.',
+            "Component harnesses let you create a supported API for interacting with a component in tests the same way a user will. This talk will show you how you can use the Angular CDK to build your own harnesses for easier, healthier tests in all environments.\nng-conf is a multi-day Angular conference focused on delivering the highest quality training in the Angular JavaScript framework. 1000's of developers from across the globe join together to attend talks and workshops by the Angular team and other community experts.",
           imgUrl: '2021-10-01-b.jpg',
           datePosted: '2021-10-01',
           dateCreated: '2021-10-01',
@@ -4817,8 +4691,7 @@ export class PostService {
           slug: '2021-10-01-d',
           type: 'blog',
           duration: '',
-          title:
-            'Angular OnInit and OnDestroy Example',
+          title: 'Angular OnInit and OnDestroy Example',
           url: 'https://www.concretepage.com/angular-2/angular-2-4-oninit-and-ondestroy-example',
           description:
             'This page will walk through Angular OnInit and OnDestroy example. Component and directive has a full lifecycle managed by Angular. The OnInit and OnDestroy interfaces have method declarations as ngOnInit() and ngOnDestroy() respectively. The ngOnInit() is called only one time after the component/directive is constructed and ngOnDestroy() is called just before component/directive is destroyed. The ngOnInit() is used to perform complex logics and fetching data. The ngOnDestroy() is used to release resources to avoid memory leaks. The constructor should be used only for local variable initializations. All complex logics and data fetching related task should be performed in ngOnInit() so that initializing component/directive becomes easy and we need not to think about their complexity. ',
@@ -4839,11 +4712,10 @@ export class PostService {
           slug: '2021-10-01-e',
           type: 'video',
           duration: '11',
-          title:
-            'How to add Async Validations to your Angular Reactive Forms',
+          title: 'How to add Async Validations to your Angular Reactive Forms',
           url: 'https://www.youtube.com/watch?v=u7vqbKSqiRI',
           description:
-            'In this video, I show you how to add Asynchronous validations to your Angular apps using the Reactive Forms API. We\'ll build an email input field which validates whether the entered email is unique or not with a dummy API call.',
+            "In this video, I show you how to add Asynchronous validations to your Angular apps using the Reactive Forms API. We'll build an email input field which validates whether the entered email is unique or not with a dummy API call.",
           imgUrl: '2021-10-01-e.jpg',
           datePosted: '2021-10-01',
           dateCreated: '2021-10-01',
@@ -4855,6 +4727,158 @@ export class PostService {
           likes: 0,
           featured: true,
           tags: ['Reactive Forms', 'Validation'],
+        },
+      ],
+    },
+    {
+      date: '2021-10-01',
+      dailyPosts: [
+        {
+          id: '02-a',
+          slug: '2021-10-02-a',
+          type: 'podcast',
+          duration: '41',
+          title:
+            "AMP 14: Let's talk about the future of Angular with Minko Gechev",
+          url: 'https://open.spotify.com/episode/1hPx7pIr1vfqUyhQ8ysQKX',
+          description:
+            'Hi everyone, this is Dariusz Kalbarczyk co-founder of NG-Poland.pl & JS-Poland.pl. Welcome back to Agular Master Podcast. Together with Manfred Steyer - Speaker, Trainer, Author from angulararchitects.io. We discuss everything related to our favorite framework. Today we have some special guests from Angular Team: Minko Gechev.',
+          imgUrl: '2021-10-02-a.png',
+          datePosted: '2021-10-02',
+          dateCreated: '2021-10-02',
+          postedBy: 'Steve Witman',
+          sourceSite: 'Spotify',
+          sourceUrl: 'https://open.spotify.com',
+          authorName: 'Angular Master Podcast',
+          authorUrl: 'https://open.spotify.com/show/1wgZAEEIoRZ8eP78LTbyZf',
+          likes: 0,
+          featured: true,
+          tags: [],
+        },
+        {
+          id: '02-b',
+          slug: '2021-10-02-b',
+          type: 'blog',
+          duration: '',
+          title: 'Common chunks in Angular',
+          url: 'https://dev.to/sanketmaru/common-chunks-in-angular-3eel',
+          description:
+            'This blog summarises on use case in which common chunk is created in an Angular application.',
+          imgUrl: '2021-10-02-b.png',
+          datePosted: '2021-10-02',
+          dateCreated: '2021-10-02',
+          postedBy: 'Steve Witman',
+          sourceSite: 'DEV Community',
+          sourceUrl: 'https://dev.to',
+          authorName: 'Sanket Maru',
+          authorUrl: 'https://dev.to/sanketmaru',
+          likes: 0,
+          featured: true,
+          tags: [],
+        },
+        {
+          id: '02-c',
+          slug: '2021-10-02-c',
+          type: 'video',
+          duration: '55',
+          title: 'Alyssa Nicoll and Angular Nation',
+          url: 'https://www.youtube.com/watch?v=UAAD_fc6emY',
+          description:
+            'Inclusive Styles — That’s a thing??  w/Alyssa Nicoll.\nAngular South Asia',
+          imgUrl: '2021-10-02-c.jpg',
+          datePosted: '2021-10-02',
+          dateCreated: '2021-10-02',
+          postedBy: 'Steve Witman',
+          sourceSite: 'YouTube',
+          sourceUrl: 'https://youtube.com',
+          authorName: 'Angular Nation',
+          authorUrl: 'https://www.youtube.com/channel/UCmlK6Jayb3qqJYNfUmL-DkA',
+          likes: 0,
+          featured: true,
+          tags: ['Styles'],
+        },
+        {
+          id: '02-d',
+          slug: '2021-09-02-d',
+          type: 'release',
+          duration: '',
+          title: 'Angular Pre-Release: v13.0.0-next.10',
+          url: 'https://github.com/angular/angular/releases',
+          description: '',
+          imgUrl: 'thumb-angular-releases.png',
+          datePosted: '2021-10-02',
+          dateCreated: '2021-10-01',
+          postedBy: 'Steve Witman',
+          sourceSite: 'GitHub Angular',
+          sourceUrl: 'https://github.com/angular/angular/releases',
+          authorName: 'Dylan Hunn',
+          authorUrl: 'https://github.com/dylhunn',
+          likes: 0,
+          featured: true,
+          tags: ['Pre-Release'],
+        },
+        {
+          id: '02-e',
+          slug: '2021-10-02-e',
+          type: 'blog',
+          duration: '',
+          title: 'RxJS - Multicast Operator',
+          url: 'https://dev.to/this-is-learning/rxjs-multicast-operator-1k9i',
+          description:
+            "in the previous articles we've seen that when we subscribe to an observable, the observable restarts every time and do not remember the last value emitted.\nIn some cases, this behaviour can not be the right solution, so today I'll show you how to share the values using the Multicast Operators",
+          imgUrl: '2021-10-02-e.png',
+          datePosted: '2021-10-02',
+          dateCreated: '2021-10-01',
+          postedBy: 'Steve Witman',
+          sourceSite: 'DEV Community',
+          sourceUrl: 'https://dev.to',
+          authorName: 'Luca Del Puppo',
+          authorUrl: 'https://dev.to/puppo',
+          likes: 0,
+          featured: true,
+          tags: ['RxJS', 'multicast'],
+        },
+        {
+          id: '02-f',
+          slug: '2021-10-02-f',
+          type: 'video',
+          duration: '119',
+          title: 'Alyssa Nicoll and Angular Nation',
+          url: 'How To Make Feedback App from scratch - Angular RxJS NgRx (part 1)',
+          description:
+            'In this tutorial you will see How To Make Feedback App from scratch using Angular RxJS NgRx. It is just the first part of the full tutorial. To build it we are using the latest version of Angular. This application is quite big and require medium skill to work on it. ',
+          imgUrl: '2021-10-02-f.jpg',
+          datePosted: '2021-10-02',
+          dateCreated: '2021-10-02',
+          postedBy: 'Steve Witman',
+          sourceSite: 'YouTube',
+          sourceUrl: 'https://youtube.com',
+          authorName: 'Competent Programming',
+          authorUrl: 'https://www.youtube.com/channel/UCZBwn0Sdl3mabNeDCIJmNlg',
+          likes: 0,
+          featured: true,
+          tags: [],
+        },
+        {
+          id: '02-g',
+          slug: '2021-10-02-g',
+          type: 'blog',
+          duration: '',
+          title: 'Learning TypeScript: Part 1',
+          url: 'https://dev.to/john_madden_13/learning-typescript-part-1-3ll',
+          description:
+            "This is my first post to Dev.to and I am very excited for this to be the beginning of my TypeScript series where I will be documenting what I am learning through Codecademy and Free Code Camp. I will not just be copying and pasting the information, but learning, and bringing it to you in a concise manner. Please enjoy and don't be timid to send me a message of what you think!",
+          imgUrl: '2021-10-02-g.png',
+          datePosted: '2021-10-02',
+          dateCreated: '2021-10-02',
+          postedBy: 'Steve Witman',
+          sourceSite: 'DEV Community',
+          sourceUrl: 'https://dev.to',
+          authorName: 'Jack Madden',
+          authorUrl: 'https://dev.to/john_madden_13',
+          likes: 0,
+          featured: true,
+          tags: ['Typescript'],
         },
       ],
     },

@@ -1,15 +1,15 @@
 <div class="card" *ngIf="post as post">
-  <a (click)="onPostClicked(post.contentUrl)">
+  <a (click)="onPostClicked(post.url)">
     <div>
       <img
         src="assets/images/{{ post.imgUrl }}"
         class="card-image"
-        matTooltip="{{post.contentDescription}}"
+        matTooltip="{{post.description}}"
         matTooltipClass="description-tooltip"
         matTooltipPosition="above"
         matTooltipShowDelay="750"/>
       <div class="card-part post-title">
-        <h3 class="post-title-text">{{ post.contentTitle }}</h3>
+        <h3 class="post-title-text">{{ post.title }}</h3>
       </div>
     </div>
   </a>
@@ -31,27 +31,27 @@
   <div class="card-part card-row-bottom">
     <div class="content-type">
       <span
-        *ngIf="post.contentType === 'video'"
+        *ngIf="post.type === 'video'"
         class="material-icons content-type-icon video-icon"
         >smart_display</span
       >
       <span
-        *ngIf="post.contentType === 'blog'"
+        *ngIf="post.type === 'blog'"
         class="material-icons content-type-icon blog-icon"
         >article</span
       >
       <span
-        *ngIf="post.contentType === 'podcast'"
+        *ngIf="post.type === 'podcast'"
         class="material-icons content-type-icon podcast-icon"
         >podcasts</span
       >
       <span
-        *ngIf="post.contentType === 'release'"
+        *ngIf="post.type === 'release'"
         class="material-icons content-type-icon release-icon"
         >sell</span
       >
       <span>
-        {{ post.contentType | uppercase }}
+        {{ post.type | uppercase }}
         <span *ngIf="post.duration"> - {{ post.duration }}m</span>
       </span>
     </div>
