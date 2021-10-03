@@ -1,73 +1,30 @@
-
-mat-form-field {
-  width: 100%;
-  max-width: 1200px;
-  display: block;
-  padding-bottom: 12px;
-}
-
 ::ng-deep .mat-form-field-flex {
   background-color: var(--color-turquoise100) !important;
   padding-bottom: 0px;
 }
-
 ::ng-deep .mat-form-field-wrapper {
   margin-bottom: -21px;
 }
-//  ::ng-deep.mat-form-field-underline {
-//   /*change color of underline*/
-//   background-color: green !important;
-// } 
+ ::ng-deep.mat-form-field-underline {
+  /*change color of underline*/
+  background-color: green !important;
+} 
 
 .input-text {
-  color: var(--color-orange500);
+  color: var(--color-turquoise700);
   font-size: 18px;
   font-weight: bold;
-  letter-spacing: 1px;
+  letter-spacing: 2px;
   padding: 5px 0 0 10px;
 }
 
-mat-datepicker {
-  color: var(--color-orange500);
-  font-size: 18px;
-  font-weight: bold;
-  letter-spacing: 1px;
-  padding: 5px 0 0 10px;
-}
-.actions-container {
-  max-width: 560px;
-}
-.mat-error {
-  position: relative;
-  background-color: yellow;
-  padding-top: 8px;
-  max-width: 560px;
-  border-radius: 0 0 4px 4px;
-  font-size: 14px;
-  bottom: auto;
-  display: flex;
-}
-.error-icon {
-  font-size: 20px;
-  padding-left: 5px;
-  position: relative;
-  bottom: 2px;
-}
-.error-text {
-  position: relative;
-  bottom: 5px;
-  padding: 5px;
-}
-.btn-submit {
-  background-color: var(--color-turquoise500);
-  color: #FFF;
-  width: 100%;
-  font-size: 1.2rem;
-  padding: 11px;
-}
-
+// PAGE SPECIFIC STYLES
 
 .form-container {
+  max-width: 1160px;
+  display: flex;
+  // flex-direction: row;
+  gap: 30px;
   padding-top: 10px;
   @media screen and (max-width: 599px) {
     margin-left: 12px;
@@ -75,7 +32,27 @@ mat-datepicker {
   }
 }
 
+.form-col {
+  display: flex;
+  flex-direction: column;
+  // flex-basis: 100%;
+  flex: 1;
+}
+.form-row {
+  // display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  // width: 100%;
+}
 
-.admin-form-field {
-  // width: 800px;
+.form-field {
+  margin-bottom: 16px;
+}
+
+.btn-submit {
+  background-color: var(--color-turquoise500);
+  color: #FFF;
+  width: 100%;
+  font-size: 1.2rem;
+  padding: 11px;
 }

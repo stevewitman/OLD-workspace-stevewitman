@@ -14,11 +14,11 @@ export class PostService {
         {
           id: '01-a',
           slug: '2021-09-01-a',
-          contentType: 'podcast',
+          type: 'podcast',
           duration: '65',
-          contentTitle: 'E065 - Angular & Qwik',
-          contentUrl: 'https://www.spreaker.com/user/ng-conf/e065-angular-qwik',
-          contentDescription:
+          title: 'E065 - Angular & Qwik',
+          url: 'https://www.spreaker.com/user/ng-conf/e065-angular-qwik',
+          description:
             "In this episode of the Angular Show, the panelists (Aaron, Brian, and Jennifer) have the esteemed privilege to be chat with Misko Hevery. In case you haven't heard, Misko is the creator (and sometimes lovingly referred to as the father) of Angular...",
           imgUrl: 'thumb-the-angular-show.png',
           datePosted: '2021-09-01',
@@ -30,18 +30,18 @@ export class PostService {
           authorUrl: 'https://www.spreaker.com/show/angular-show',
           likes: 0,
           featured: true,
-          tags: ['Kwik'],
+          tags: [],
           visits: 1,
         },
         {
           id: '01-b',
           slug: '2021-09-01-b',
-          contentType: 'video',
+          type: 'video',
           duration: '95',
-          contentTitle:
+          title:
             'Reactive State Management Using NgRx and Angular (with Brandon Roberts) — Learn With Jason',
-          contentUrl: 'https://www.youtube.com/watch?v=gVOwffv4_hA',
-          contentDescription:
+          url: 'https://www.youtube.com/watch?v=gVOwffv4_hA',
+          description:
             'How do you handle local and global state in Angular projects? Brandon Roberts will show us how using Ngrx demo: ...',
           imgUrl: '2021-09-01-b.jpg',
           datePosted: '2021-09-01',
@@ -58,11 +58,11 @@ export class PostService {
         {
           id: '01-c',
           slug: '2021-09-01-c',
-          contentType: 'video',
+          type: 'video',
           duration: '6',
-          contentTitle: 'Angular modules - shared and featured',
-          contentUrl: 'https://www.youtube.com/watch?v=25XRm8fLPZs',
-          contentDescription:
+          title: 'Angular modules - shared and featured',
+          url: 'https://www.youtube.com/watch?v=25XRm8fLPZs',
+          description:
             "Let's see how to use shared and features modules in Angular in practice. Angular Course: ...",
           imgUrl: '2021-09-01-c.png',
           datePosted: '2021-09-01',
@@ -79,13 +79,13 @@ export class PostService {
         {
           id: '01-d',
           slug: '2021-09-01-d',
-          contentType: 'blog',
+          type: 'blog',
           duration: '',
-          contentTitle:
+          title:
             'When Use RxJS Subject, BehaviourSubject, ReplaySubject, AsyncSubject, or Void Subject in Angular',
-          contentUrl:
+          url:
             'https://hasnode.byrayray.dev/rxjs-subject-behavioursubject-replaysubject-asyncsubject-void-subject-angular',
-          contentDescription:
+          description:
             "Angular has many types of Observables which you can use. Maybe you've seen Subject, BehaviourSubject, ReplaySubject, or AsyncSubject in Angular examples and wondering what they are and when you can use them. In this post, I want to dive deeper into what those types of Subjects are and when you should use them. So buckle up and enjoy the ride.",
           imgUrl: '2021-09-01-d.png',
           datePosted: '2021-09-01',
@@ -109,12 +109,12 @@ export class PostService {
         {
           id: '01-f',
           slug: '2021-09-01-f',
-          contentType: 'blog',
+          type: 'blog',
           duration: '',
-          contentTitle: 'Tailwind CSS with Angular V12- What You Need to Know',
-          contentUrl:
+          title: 'Tailwind CSS with Angular V12- What You Need to Know',
+          url:
             'https://dev.to/bitovi/tailwind-css-with-angular-v12-what-you-need-to-know-2h9b',
-          contentDescription:
+          description:
             'With Angular V12, comes a much awaited support for TailwindCSS, Tailwind is a utility-first CSS framework that contains a deep catalog of micro CSS classes for faster UI development. Micro CSS classes are a collection of CSS styles to accomplish a specific styling need. It can range from something as simple as...',
           imgUrl: '2021-09-01-f.png',
           datePosted: '2021-09-01',
@@ -136,13 +136,13 @@ export class PostService {
         {
           id: '02-a',
           slug: '2021-09-02-a',
-          contentType: 'podcast',
+          type: 'podcast',
           duration: '47',
-          contentTitle:
+          title:
             'Episode 149: Real Time Systems in the Real World with AG Grid',
-          contentUrl:
+          url:
             'https://webrush.io/episodes/episode-149-real-time-systems-in-the-real-world-with-ag-grid',
-          contentDescription:
+          description:
             'Han and Prerak talk about their approach to developing storytelling tools for financial products, how they deliver real time event updates, using AI in their tech stack, updating and displaying large data sets, and what the benefits are of web workers.',
           imgUrl: 'thumb-web-rush.png',
           datePosted: '2021-09-02',
@@ -159,12 +159,12 @@ export class PostService {
         {
           id: '02-b',
           slug: '2021-09-02-b',
-          contentType: 'blog',
+          type: 'blog',
           duration: '',
-          contentTitle: 'Angular ngx Bootstrap Tooltip Component',
-          contentUrl:
+          title: 'Angular ngx Bootstrap Tooltip Component',
+          url:
             'https://www.geeksforgeeks.org/angular-ngx-bootstrap-tooltip-component/',
-          contentDescription:
+          description:
             'Angular ngx bootstrap is a bootstrap framework used with angular to create components with great styling and this framework is very easy to use and is used to make responsive websites. In this article, we will see how to use Tooltip in angular ngx bootstrap.',
           imgUrl: '2021-09-02-b.png',
           datePosted: '2021-09-02',
@@ -181,13 +181,13 @@ export class PostService {
         {
           id: '02-c',
           slug: '2021-09-02-c',
-          contentType: 'podcast',
+          type: 'podcast',
           duration: '64',
-          contentTitle:
+          title:
             'RxJS Best Practices in Angular ft. Tomas Trajan – AiA 324',
-          contentUrl:
+          url:
             'https://devchat.tv/adv-in-angular/rxjs-best-practices-in-angular-ft-tomas-trajan-aia-324/',
-          contentDescription:
+          description:
             'Tomas Trajan is a developer from Slovakia living in Switzerland. He talks about his experiences using streams, observables, and RxJS in Angular over the last several years. He gives a few lessons and examples of when and how it should be used in your applications.',
           imgUrl: 'thumb-adventures-in-angular.png',
           datePosted: '2021-09-02',
@@ -204,12 +204,12 @@ export class PostService {
         {
           id: '02-d',
           slug: '2021-09-02-d',
-          contentType: 'blog',
+          type: 'blog',
           duration: '',
-          contentTitle: 'Conditionally Load a Module Using Angular Router',
-          contentUrl:
+          title: 'Conditionally Load a Module Using Angular Router',
+          url:
             'https://netbasal.com/conditionally-load-a-module-using-angular-router-aff022923850',
-          contentDescription:
+          description:
             'In most cases, a feature flag is used when creating a new version of an existing page rather than adding multiple conditions to our code. When this is the case, we usually prefer to use the same URL for both versions.',
           imgUrl: '2021-09-02-d.png',
           datePosted: '2021-09-02',
@@ -226,12 +226,12 @@ export class PostService {
         {
           id: '02-e',
           slug: '2021-09-02-e',
-          contentType: 'blog',
+          type: 'blog',
           duration: '',
-          contentTitle:
+          title:
             'Angular Custom Preloading Strategy',
-          contentUrl: 'https://www.concretepage.com/angular-2/angular-custom-preloading-strategy',
-          contentDescription:
+          url: 'https://www.concretepage.com/angular-2/angular-custom-preloading-strategy',
+          description:
             'This page will walk through Angular custom preloading strategy example. Preloading is loading modules in background just after application starts. In preloading, modules are loaded asynchronously. Angular provides built-in PreloadAllModules strategy that loads all feature modules as quickly as possible configured with loadChildren in application routing module.',
           imgUrl: '2021-09-02-e.png',
           datePosted: '2021-09-02',
@@ -253,12 +253,12 @@ export class PostService {
         {
           id: '03-a',
           slug: '2021-09-03-a',
-          contentType: 'video',
+          type: 'video',
           duration: '45',
-          contentTitle:
+          title:
             'Integrate Firebase Phone Number Authentication with Angular 12 Using an Auto Focus Input Field',
-          contentUrl: 'https://www.youtube.com/watch?v=2k1m952Iyk8',
-          contentDescription:
+          url: 'https://www.youtube.com/watch?v=2k1m952Iyk8',
+          description:
             'In this video, you will learn how to integrate phone number authentication sign up with Angular 12(A TypeScript frontend framework) Application using Firebase. The process involves an SMS being sent to the user on their phone and which contains a six-digit code they need to enter into the form to get authenticated and then routed into the dashboard.',
           imgUrl: '2021-09-03-a.jpg',
           datePosted: '2021-09-03',
@@ -275,12 +275,12 @@ export class PostService {
         {
           id: '03-c',
           slug: '2021-09-03-c',
-          contentType: 'blog',
+          type: 'blog',
           duration: '',
-          contentTitle: 'Simple selection by Angular CDK',
-          contentUrl:
+          title: 'Simple selection by Angular CDK',
+          url:
             'https://dev.to/tomwebwalker/simple-selection-by-angular-cdk-5dep',
-          contentDescription:
+          description:
             'In my recent projects, I had to implement a table with select all or single row functionality. Angular CDK library has SelectionModel, which makes that selection easy to implement.',
           imgUrl: '2021-09-03-c.png',
           datePosted: '2021-09-03',
@@ -297,12 +297,12 @@ export class PostService {
         {
           id: '03-d',
           slug: '2021-09-03-d',
-          contentType: 'podcast',
+          type: 'podcast',
           duration: '37',
-          contentTitle:
+          title:
             'AMP 10: Target Performance at scale with Michael Hladky',
-          contentUrl: 'https://open.spotify.com/episode/6ua81Sty4bMLWZbUeROi8i',
-          contentDescription:
+          url: 'https://open.spotify.com/episode/6ua81Sty4bMLWZbUeROi8i',
+          description:
             "Today we're talking about performance. Whether it is important, everyone will answer yes. How easy it is to create an efficient system, the answers will vary. Together with @Michael_Hladky, we will discuss this topic thoroughly. 1. What is the reason you are so interested in web performance?",
           imgUrl: '2021-09-03-d.png',
           datePosted: '2021-09-03',
@@ -319,11 +319,11 @@ export class PostService {
         {
           id: '03-e',
           slug: '2021-09-03-e',
-          contentType: 'video',
+          type: 'video',
           duration: '78',
-          contentTitle: 'Games + QA with the Angular Team LIVE',
-          contentUrl: 'https://www.youtube.com/watch?v=62wuXalBx8k',
-          contentDescription:
+          title: 'Games + QA with the Angular Team LIVE',
+          url: 'https://www.youtube.com/watch?v=62wuXalBx8k',
+          description:
             'Join members of the Angular team as we play some games and answer your questions.',
           imgUrl: '2021-09-03-e.jpg',
           datePosted: '2021-09-03',
@@ -340,11 +340,11 @@ export class PostService {
         {
           id: '03-f',
           slug: '2021-09-03-f',
-          contentType: 'video',
+          type: 'video',
           duration: '33',
-          contentTitle: "Let's Learn Angular: Project Setup [Ep01]",
-          contentUrl: 'https://www.youtube.com/watch?v=uwGNHZ62KQ0',
-          contentDescription:
+          title: "Let's Learn Angular: Project Setup [Ep01]",
+          url: 'https://www.youtube.com/watch?v=uwGNHZ62KQ0',
+          description:
             'Follow along with my while I learn Angular in real-time! In this episode we scaffold a basic Angular app using the Angular CLI.',
           imgUrl: '2021-09-03-f.jpg',
           datePosted: '2021-09-03',
@@ -361,13 +361,13 @@ export class PostService {
         {
           id: '03-g',
           slug: '2021-09-03-g',
-          contentType: 'blog',
+          type: 'blog',
           duration: '',
-          contentTitle:
+          title:
             'Adding the social media share buttons component to an Angular application',
-          contentUrl:
+          url:
             'https://dev.to/rodrigokamada/adding-the-social-media-share-buttons-component-to-an-angular-application-320h',
-          contentDescription: '',
+          description: '',
           imgUrl: '2021-09-03-g.png',
           datePosted: '2021-09-03',
           dateCreated: '2021-09-03',
@@ -388,12 +388,12 @@ export class PostService {
         {
           id: '04-a',
           slug: '2021-09-04-a',
-          contentType: 'video',
+          type: 'video',
           duration: '33',
-          contentTitle:
+          title:
             '79. RxJS Range Operator. Learn RxJS Creation Range Operator - RxJS.',
-          contentUrl: 'https://www.youtube.com/watch?v=uyJVeN-qzeA',
-          contentDescription:
+          url: 'https://www.youtube.com/watch?v=uyJVeN-qzeA',
+          description:
             'In this video, we will learn about the Range Operator which is one of the Creation OPerator in RxJS.',
           imgUrl: '2021-09-04-a.jpg',
           datePosted: '2021-09-04',
@@ -415,12 +415,12 @@ export class PostService {
         {
           id: '05-a',
           slug: '2021-09-05-a',
-          contentType: 'blog',
+          type: 'blog',
           duration: '',
-          contentTitle: 'Why you should NOT use Functions in Angular HTML',
-          contentUrl:
+          title: 'Why you should NOT use Functions in Angular HTML',
+          url:
             'https://medium.com/@heshamaothman/why-you-should-not-use-functions-in-angular-html-f445371a4b6b',
-          contentDescription:
+          description:
             'If you worked with Angular on a little bit complex project, you will - most likely - start to write component functions that edit or transform some kind of data that you want to display in the component. If you are not familiar with the Angular way of doing this, you will just use the functions that you wrote in the HTML file and you will find that it works!. So everything is great, isn’t it?',
           imgUrl: '2021-09-05-a.png',
           datePosted: '2021-09-05',
@@ -437,12 +437,12 @@ export class PostService {
         {
           id: '05-b',
           slug: '2021-09-05-b',
-          contentType: 'video',
+          type: 'video',
           duration: '7',
-          contentTitle:
+          title:
             'Angular dependency hierarchical injectors || How DI hierarchy works in Angular',
-          contentUrl: 'https://www.youtube.com/watch?v=litrtXscrCU',
-          contentDescription:
+          url: 'https://www.youtube.com/watch?v=litrtXscrCU',
+          description:
             'In this #Angular video we will cover dependency injection hierarchy and how it works. This will give a complete picture of two types of injector hierarchy in #Angular. Module injector and element injector.  At the end of the video, we covered the cases to see dependency resolution of services.',
           imgUrl: '2021-09-05-b.png',
           datePosted: '2021-09-05',
@@ -459,12 +459,12 @@ export class PostService {
         {
           id: '05-c',
           slug: '2021-09-05-c',
-          contentType: 'video',
+          type: 'video',
           duration: '35',
-          contentTitle:
+          title:
             'Nx After Dark: Extracting workspace libraries from an Angular application',
-          contentUrl: 'https://www.youtube.com/watch?v=SxJD3ttB5go',
-          contentDescription:
+          url: 'https://www.youtube.com/watch?v=SxJD3ttB5go',
+          description:
             "We're continuing to extract more workspace libraries from the Tour of Heroes router tutorial application.",
           imgUrl: '2021-09-05-c.jpg',
           datePosted: '2021-09-05',
@@ -481,12 +481,12 @@ export class PostService {
         {
           id: '05-d',
           slug: '2021-09-05-d',
-          contentType: 'video',
+          type: 'video',
           duration: '4',
-          contentTitle:
+          title:
             '*ngSwitch directive | Switch Case in Angular html template | Angular Tutorial',
-          contentUrl: 'https://www.youtube.com/watch?v=JsZolD_X1sk',
-          contentDescription:
+          url: 'https://www.youtube.com/watch?v=JsZolD_X1sk',
+          description:
             'Switch case in angular HTML template can be used using the *ngSwitch directive.',
           imgUrl: '2021-09-05-d.jpg',
           datePosted: '2021-09-05',
@@ -503,12 +503,12 @@ export class PostService {
         {
           id: '05-e',
           slug: '2021-09-05-e',
-          contentType: 'video',
+          type: 'video',
           duration: '9',
-          contentTitle:
+          title:
             'Angular ngrx-store Tutorial - Action, Reducer, Selector',
-          contentUrl: 'https://www.youtube.com/watch?v=GSc1fHXVBGg',
-          contentDescription:
+          url: 'https://www.youtube.com/watch?v=GSc1fHXVBGg',
+          description:
             'ngrx-store is a reactive state management framework for angular. In this video we build a simple example online shop, where the shopping cart is being implemented with ngrx-store. Learn the concept of action, reducer and selector',
           imgUrl: '2021-09-05-e.jpg',
           datePosted: '2021-09-05',
@@ -530,12 +530,12 @@ export class PostService {
         {
           id: '06-b',
           slug: '2021-09-06-b',
-          contentType: 'video',
+          type: 'video',
           duration: '7',
-          contentTitle:
+          title:
             'Angular Cypress: Learn How To Properly Use the Selectors',
-          contentUrl: 'https://www.youtube.com/watch?v=QqV6b8oLs4k',
-          contentDescription: '',
+          url: 'https://www.youtube.com/watch?v=QqV6b8oLs4k',
+          description: '',
           imgUrl: '2021-09-06-b.jpg',
           datePosted: '2021-09-06',
           dateCreated: '2021-09-06',
@@ -551,12 +551,12 @@ export class PostService {
         {
           id: '06-c',
           slug: '2021-09-06-c',
-          contentType: 'community',
+          type: 'community',
           duration: '',
-          contentTitle:
+          title:
             'Join the Angular Community Discord (SIGNIN REQUIRED) (Currently 14,765 Members)',
-          contentUrl: 'https://discord.com/invite/angular',
-          contentDescription: '',
+          url: 'https://discord.com/invite/angular',
+          description: '',
           imgUrl: 'thumb-angular-community-discord.png',
           datePosted: '2021-09-06',
           dateCreated: '',
@@ -572,13 +572,13 @@ export class PostService {
         {
           id: '06-d',
           slug: '2021-09-06-d',
-          contentType: 'podcast',
+          type: 'podcast',
           duration: '47',
-          contentTitle:
+          title:
             'S1E14 | Making the Most of Tech Events and Conferences',
-          contentUrl:
+          url:
             'https://www.spreaker.com/user/14532324/s1e14-making-the-most-of-tech-events-and?utm_medium=widget&utm_source=user%3A14532324&utm_term=episode_title',
-          contentDescription:
+          description:
             'In today’s episode of The Angular Experience, Brooke and Erik are joined by event organizing pro Alisa Duncan to talk about event networking tips and suggestions for introverts and extroverts alike. They address how to connect with fellow attendees and developers, speakers, sponsors, and potential employers as well.',
           imgUrl: 'thumb-angular-experience.png',
           datePosted: '2021-09-06',
@@ -596,12 +596,12 @@ export class PostService {
         {
           id: '06-e',
           slug: '2021-09-06-e',
-          contentType: 'community',
+          type: 'community',
           duration: '',
-          contentTitle:
+          title:
             'Angular Nation (SIGNIN REQUIRED) - a free private network created for Angular developers',
-          contentUrl: 'https://angularnation.net',
-          contentDescription:
+          url: 'https://angularnation.net',
+          description:
             'Angular Nation is a free private network created for Angular developers to network, collaborate, and ask questions. Beginners and Introverts are always welcome here!',
           imgUrl: 'thumb-angular-nation.png',
           datePosted: '2021-09-06',
@@ -618,12 +618,12 @@ export class PostService {
         {
           id: '06-f',
           slug: '2021-09-06-f',
-          contentType: 'blog',
+          type: 'blog',
           duration: '',
-          contentTitle: 'Angular reusable resolvers',
-          contentUrl:
+          title: 'Angular reusable resolvers',
+          url:
             'https://dev.to/igorfilippov3/angular-reusable-resolvers-3i94',
-          contentDescription:
+          description:
             "... In this application I had a lot of cases, where I had to duplicate the code of my resolvers to make very, very similar things. That's why I took thought about how to implement the DRY coding principle in my app. ...",
           imgUrl: '2021-09-06-f.png',
           datePosted: '2021-09-06',
@@ -640,12 +640,12 @@ export class PostService {
         {
           id: '06-g',
           slug: '2021-09-06-g',
-          contentType: 'blog',
+          type: 'blog',
           duration: '',
-          contentTitle: 'Angular 12 with Firebase 9',
-          contentUrl:
+          title: 'Angular 12 with Firebase 9',
+          url:
             'https://dev.to/jdgamble555/angular-12-with-firebase-9-49a0',
-          contentDescription:
+          description:
             "Angular's Docs have not been updated fully yet, so I made a quick reference.",
           imgUrl: '2021-09-06-g.png',
           datePosted: '2021-09-06',
@@ -667,11 +667,11 @@ export class PostService {
         {
           id: '07-a',
           slug: '2021-09-07-a',
-          contentType: 'video',
+          type: 'video',
           duration: '1',
-          contentTitle: 'Angular ViewChild Decorator Trick',
-          contentUrl: 'https://www.youtube.com/watch?v=0YKF8051Mp4',
-          contentDescription: '',
+          title: 'Angular ViewChild Decorator Trick',
+          url: 'https://www.youtube.com/watch?v=0YKF8051Mp4',
+          description: '',
           imgUrl: '2021-09-07-a.jpg',
           datePosted: '2021-09-07',
           dateCreated: '2021-09-07',
@@ -687,11 +687,11 @@ export class PostService {
         {
           id: '07-b',
           slug: '2021-09-07-b',
-          contentType: 'blog',
+          type: 'blog',
           duration: '',
-          contentTitle: 'Angular Konami Code',
-          contentUrl: 'https://dev.to/rfornal/angular-konami-code-3fk',
-          contentDescription:
+          title: 'Angular Konami Code',
+          url: 'https://dev.to/rfornal/angular-konami-code-3fk',
+          description:
             "I've had the pleasure of working on several projects where small easter eggs were allowed. In the most recent, I build an Angular Directive, created a Module, and actually built Unit Tests.",
           imgUrl: '2021-09-07-b.png',
           datePosted: '2021-09-07',
@@ -708,12 +708,12 @@ export class PostService {
         {
           id: '07-c',
           slug: '2021-09-07-c',
-          contentType: 'video',
+          type: 'video',
           duration: '27',
-          contentTitle:
+          title:
             'How to use Native Google Maps with Capacitor and Ionic',
-          contentUrl: 'https://www.youtube.com/watch?v=WCexAdxVkVw',
-          contentDescription:
+          url: 'https://www.youtube.com/watch?v=WCexAdxVkVw',
+          description:
             'Learn to implement native Google Maps in your Ionic app using a Capacitor community plugin to show a map, add a marker and draw on the Google Map!',
           imgUrl: '2021-09-07-c.jpg',
           datePosted: '2021-09-07',
@@ -730,12 +730,12 @@ export class PostService {
         {
           id: '07-d',
           slug: '2021-09-07-d',
-          contentType: 'blog',
+          type: 'blog',
           duration: '',
-          contentTitle: 'Angular library with demo project',
-          contentUrl:
+          title: 'Angular library with demo project',
+          url:
             'https://dev.to/ylerjen/angular-library-with-demo-project-1i1b',
-          contentDescription:
+          description:
             "Angular, with the help of angular-cli makes it easy to create a library project. But when your library is about components, it's very useful to have a visual rendering of what you're creating, and not only the lib code and tests. In this article, we'll see how we can easily create in a same project, the library and the demo app, but still keep a coherent structure like we need for a library project.",
           imgUrl: '2021-09-07-d.png',
           datePosted: '2021-09-07',
@@ -752,12 +752,12 @@ export class PostService {
         {
           id: '07-e',
           slug: '2021-09-07-e',
-          contentType: 'video',
+          type: 'video',
           duration: '10',
-          contentTitle:
+          title:
             'Multiple modules in Angular application | Angular Tutorial',
-          contentUrl: 'https://www.youtube.com/watch?v=UMvjzcPGyTg',
-          contentDescription: 'Multiple modules in an Angular application',
+          url: 'https://www.youtube.com/watch?v=UMvjzcPGyTg',
+          description: 'Multiple modules in an Angular application',
           imgUrl: '2021-09-07-e.jpg',
           datePosted: '2021-09-07',
           dateCreated: '2021-09-07',
@@ -773,12 +773,12 @@ export class PostService {
         {
           id: '07-f',
           slug: '2021-09-07-f',
-          contentType: 'video',
+          type: 'video',
           duration: '58',
-          contentTitle:
+          title:
             'Angular Singapore #6 - Setting Up Maintainable Angular Apps w/ Juan Herrera',
-          contentUrl: 'https://www.youtube.com/watch?v=ZkvOUy5yRog',
-          contentDescription:
+          url: 'https://www.youtube.com/watch?v=ZkvOUy5yRog',
+          description:
             "Following the angular style guide is your safest bet when you are new to the framework and want to get started. But once you've spent 4 years building Angular applications you realize that there's a set of hidden patterns that you mostly learn through experience.",
           imgUrl: '2021-09-07-f.jpg',
           datePosted: '2021-09-07',
@@ -807,11 +807,11 @@ export class PostService {
         {
           id: '07-g',
           slug: '2021-09-07-g',
-          contentType: 'video',
+          type: 'video',
           duration: '8',
-          contentTitle: '13 Advanced (but useful) Git Techniques and Shortcuts',
-          contentUrl: 'https://www.youtube.com/watch?v=ecK3EnyGD8o',
-          contentDescription:
+          title: '13 Advanced (but useful) Git Techniques and Shortcuts',
+          url: 'https://www.youtube.com/watch?v=ecK3EnyGD8o',
+          description:
             'Productive programmers tend to be really good at Git. Take a look at 13 advanced git tips and tricks to supercharge your development workflow.',
           imgUrl: '2021-09-07-g.jpg',
           datePosted: '2021-09-07',
@@ -828,13 +828,13 @@ export class PostService {
         {
           id: '07-h',
           slug: '2021-09-07-h',
-          contentType: 'blog',
+          type: 'blog',
           duration: '',
-          contentTitle:
+          title:
             'Angular *ngFor and *ngIf Directives Explained for Beginners',
-          contentUrl:
+          url:
             'https://www.freecodecamp.org/news/angular-ngfor-and-ngif-explained/',
-          contentDescription:
+          description:
             "*ngIf and *ngFor can help you keep your Angular code clean, simple, and effective. So, let's learn what *ngFor and *ngIf are all about.",
           imgUrl: '2021-09-07-h.png',
           datePosted: '2021-09-07',
@@ -851,11 +851,11 @@ export class PostService {
         {
           id: '07-i',
           slug: '2021-09-07-i',
-          contentType: 'video',
+          type: 'video',
           duration: '6',
-          contentTitle: 'Fundamental Type Guards - TypeScript Narrowing #2',
-          contentUrl: 'https://www.youtube.com/watch?v=ZdMfiVK7fcM',
-          contentDescription:
+          title: 'Fundamental Type Guards - TypeScript Narrowing #2',
+          url: 'https://www.youtube.com/watch?v=ZdMfiVK7fcM',
+          description:
             'The second video in our TypeScript Narrowing series. Learn 6 fundamental type guards (and techniques) available for narrowing ...',
           imgUrl: '2021-09-07-i.jpg',
           datePosted: '2021-09-07',
@@ -872,13 +872,13 @@ export class PostService {
         {
           id: '07-j',
           slug: '2021-09-07-j',
-          contentType: 'blog',
+          type: 'blog',
           duration: '',
-          contentTitle:
+          title:
             'Designing Angular architecture - Container-Presentation pattern',
-          contentUrl:
+          url:
             'https://indepth.dev/posts/1478/designing-angular-architecture-container-presentation-pattern',
-          contentDescription:
+          description:
             'Designing architecture could be tricky, especially in the agile world, where requirement changes are frequent. So your design has to support that and provides extendibility without the need for serious modification. In such cases, you will find the Container-Presentation pattern instrumental.',
           imgUrl: '2021-09-07-j.png',
           datePosted: '2021-09-07',
@@ -900,12 +900,12 @@ export class PostService {
         {
           id: '08-a',
           slug: '2021-09-08-a',
-          contentType: 'video',
+          type: 'video',
           duration: '9',
-          contentTitle:
+          title:
             'How to Bypass Firebase Authentication for Cypress Tests',
-          contentUrl: 'https://www.youtube.com/watch?v=JqEzA44Lsts',
-          contentDescription:
+          url: 'https://www.youtube.com/watch?v=JqEzA44Lsts',
+          description:
             'In this tutorial, we take a look at how to bypass the need to authenticate with Firebase in your E2E tests built with Cypress using the cypress-firebase library.',
           imgUrl: '2021-09-08-a.jpg',
           datePosted: '2021-09-08',
@@ -922,12 +922,12 @@ export class PostService {
         {
           id: '08-b',
           slug: '2021-09-08-b',
-          contentType: 'blog',
+          type: 'blog',
           duration: '',
-          contentTitle: 'RxJS - Observer and Subscription',
-          contentUrl:
+          title: 'RxJS - Observer and Subscription',
+          url:
             'https://dev.to/puppo/rxjs-observer-and-subscription-5cg3',
-          contentDescription:
+          description:
             'Welcome back guys ... today the topics of the article are Observers and Subscriptions.',
           imgUrl: '2021-09-08-b.png',
           datePosted: '2021-09-08',
@@ -944,12 +944,12 @@ export class PostService {
         {
           id: '08-d',
           slug: '2021-09-08-d',
-          contentType: 'blog',
+          type: 'blog',
           duration: '',
-          contentTitle: 'Angular Basics: Data Binding Part 2—Event Binding',
-          contentUrl:
+          title: 'Angular Basics: Data Binding Part 2—Event Binding',
+          url:
             'https://www.telerik.com/blogs/angular-basics-data-binding-part-2-event-binding',
-          contentDescription:
+          description:
             'Data binding can be confusing when you’re getting started in Angular. Let’s break it down! This post covers event binding, which is one of the one-way data binding methods.',
           imgUrl: '2021-09-08-d.png',
           datePosted: '2021-09-08',
@@ -966,12 +966,12 @@ export class PostService {
         {
           id: '08-e',
           slug: '2021-09-08-e',
-          contentType: 'video',
+          type: 'video',
           duration: '21',
-          contentTitle:
+          title:
             'How to add ngrx to angular app easily using Ngrx schematics',
-          contentUrl: 'https://www.youtube.com/watch?v=fAYH2RkjDqI',
-          contentDescription:
+          url: 'https://www.youtube.com/watch?v=fAYH2RkjDqI',
+          description:
             'We take a look at the various commands available in the ngrx schematics library which can be used for easily adding Ngrx to any angular application. We first install @ngrx/schematics and all other dependencies. Then we try out commands to generate State, devtools, Action, Reducer, Selector, Container component and Effects.',
           imgUrl: '2021-09-08-e.jpg',
           datePosted: '2021-09-08',
@@ -988,11 +988,11 @@ export class PostService {
         {
           id: '08-f',
           slug: '2021-09-08-f',
-          contentType: 'video',
+          type: 'video',
           duration: '25',
-          contentTitle: 'Angular Custom Directives | Hide for Specific Users',
-          contentUrl: 'https://www.youtube.com/watch?v=1lOA3Opkw3o',
-          contentDescription:
+          title: 'Angular Custom Directives | Hide for Specific Users',
+          url: 'https://www.youtube.com/watch?v=1lOA3Opkw3o',
+          description:
             'How to create a custom directive to hide elements for specific users. (Role-based approach). This video is showing you how to create custom directives, call them, and import into angular modules.',
           imgUrl: '2021-09-08-f.jpg',
           datePosted: '2021-09-08',
@@ -1009,12 +1009,12 @@ export class PostService {
         {
           id: '08-g',
           slug: '2021-09-08-g',
-          contentType: 'video',
+          type: 'video',
           duration: '51',
-          contentTitle:
+          title:
             'All About Communicating with a backend service in Angular (Wafa Waheeda Syed)',
-          contentUrl: 'https://www.youtube.com/watch?v=Cw48k3Uuxmw',
-          contentDescription:
+          url: 'https://www.youtube.com/watch?v=Cw48k3Uuxmw',
+          description:
             'Angular is an amazing framework to build frontend applications. Learn how Angular communicates with back-end services in depth.',
           imgUrl: '2021-09-08-g.jpg',
           datePosted: '2021-09-08',
@@ -1031,11 +1031,11 @@ export class PostService {
         {
           id: '08-h',
           slug: '2021-09-08-h',
-          contentType: 'video',
+          type: 'video',
           duration: '51',
-          contentTitle: '[Live Coding]: Building a new tutorial for NgRx',
-          contentUrl: 'https://www.youtube.com/watch?v=u6kpIwum5d8',
-          contentDescription:
+          title: '[Live Coding]: Building a new tutorial for NgRx',
+          url: 'https://www.youtube.com/watch?v=u6kpIwum5d8',
+          description:
             'Angular is an amazing framework to build frontend applications. Learn how Angular communicates with back-end services in depth.',
           imgUrl: '2021-09-08-h.png',
           datePosted: '2021-09-08',
@@ -1057,12 +1057,12 @@ export class PostService {
         {
           id: '09-a',
           slug: '2021-09-09-a',
-          contentType: 'video',
+          type: 'video',
           duration: '7',
-          contentTitle:
+          title:
             'The Mouseover Hover Event in Angular - Mouseover and Mouseout Event Angular Tutorial',
-          contentUrl: 'https://www.youtube.com/watch?v=HQA4qi-CYUg',
-          contentDescription:
+          url: 'https://www.youtube.com/watch?v=HQA4qi-CYUg',
+          description:
             "(Beginner Level) - Hey everyone, in today's video we take a look at the mouseover and mouseout event in Angular! Thanks so much for watching",
           imgUrl: '2021-09-09-a.png',
           datePosted: '2021-09-09',
@@ -1079,12 +1079,12 @@ export class PostService {
         {
           id: '09-b',
           slug: '2021-09-09-b',
-          contentType: 'video',
+          type: 'video',
           duration: '6',
-          contentTitle:
+          title:
             'How to apply business logic / constraint to Angular Multiple Choices (mat-select)',
-          contentUrl: 'https://www.youtube.com/watch?v=cB-uWvK3JMs',
-          contentDescription: '',
+          url: 'https://www.youtube.com/watch?v=cB-uWvK3JMs',
+          description: '',
           imgUrl: '2021-09-09-b.png',
           datePosted: '2021-09-09',
           dateCreated: '2021-09-08',
@@ -1100,12 +1100,12 @@ export class PostService {
         {
           id: '09-c',
           slug: '2021-09-09-c',
-          contentType: 'video',
+          type: 'video',
           duration: '11',
-          contentTitle:
+          title:
             'Unit Testing - How to Use Dummies, Fakes, Mocks, and Stubs',
-          contentUrl: 'https://www.youtube.com/watch?v=vyjUIcr6iYY',
-          contentDescription:
+          url: 'https://www.youtube.com/watch?v=vyjUIcr6iYY',
+          description:
             'Enterprise applications often lack reliable code, making it difficult to implement new features and scale your application. In this episode, Hudson Baker gives you the tools necessary to make your Unit Tests more dynamic and streamlined. Improving the functionality of your Unit Tests will radically improve the quality and velocity of product releases in your application development.',
           imgUrl: '2021-09-09-c.jpg',
           datePosted: '2021-09-09',
@@ -1122,12 +1122,12 @@ export class PostService {
         {
           id: '09-d',
           slug: '2021-09-09-d',
-          contentType: 'blog',
+          type: 'blog',
           duration: '',
-          contentTitle: 'RxJS subscription management with Angular',
-          contentUrl:
+          title: 'RxJS subscription management with Angular',
+          url:
             'https://dev.to/j3nnning/rxjs-subscription-management-with-angular-54ek',
-          contentDescription:
+          description:
             "With this article, I'm going to cover the various methods to manage subscriptions and how to decide on which method to use. RxJS subscription management is one of the common mistakes among developers, partly due to the learning curve of RxJS, partly the opaqueness of subscription, yet it is essential to using RxJS effectively.",
           imgUrl: '2021-09-09-d.png',
           datePosted: '2021-09-09',
@@ -1144,12 +1144,12 @@ export class PostService {
         {
           id: '09-e',
           slug: '2021-09-09-e',
-          contentType: 'video',
+          type: 'video',
           duration: '14',
-          contentTitle:
+          title:
             'How to migrate state from NgRx Store to NgRx ComponentStore',
-          contentUrl: 'https://www.youtube.com/watch?v=3Y16WVam3Zw',
-          contentDescription:
+          url: 'https://www.youtube.com/watch?v=3Y16WVam3Zw',
+          description:
             'This video shows you how to manage local state and move it from the global NgRx Store to a local NgRx ComponentStore in an Angular application.',
           imgUrl: '2021-09-09-e.jpg',
           datePosted: '2021-09-09',
@@ -1166,12 +1166,12 @@ export class PostService {
         {
           id: '09-f',
           slug: '2021-09-09-f',
-          contentType: 'podcast',
+          type: 'podcast',
           duration: '37',
-          contentTitle:
+          title:
             'AMP11: Angular Community is Amazing with Grzegorz Lipke',
-          contentUrl: 'https://open.spotify.com/episode/5JN4sOg6bbf3DfulRwijH7',
-          contentDescription:
+          url: 'https://open.spotify.com/episode/5JN4sOg6bbf3DfulRwijH7',
+          description:
             "Today I met with amazing Grzegorz Lipke, CTO House Of Angular. We talked about Angular and more specifically our amazing community. We also discussed the topic of open source software, how important it is for today's business and how important it is for the company's development.",
           imgUrl: '2021-09-09-f.png',
           datePosted: '2021-09-09',
@@ -1188,12 +1188,12 @@ export class PostService {
         {
           id: '09-g',
           slug: '2021-09-09-g',
-          contentType: 'blog',
+          type: 'blog',
           duration: '',
-          contentTitle: 'How to access path parameters in angular router',
-          contentUrl:
+          title: 'How to access path parameters in angular router',
+          url:
             'https://dev.to/codever/how-to-access-path-parameters-in-angular-router-1261',
-          contentDescription:
+          description:
             'At Codever we use Angular extensively, and many time the use navigates to certain routes where dynamically content based on an id for example is loaded. To access these path params in angular navigation you have two possibilities.',
           imgUrl: '2021-09-09-g.png',
           datePosted: '2021-09-09',
@@ -1210,13 +1210,13 @@ export class PostService {
         {
           id: '09-h',
           slug: '2021-09-09-h',
-          contentType: 'blog',
+          type: 'blog',
           duration: '',
-          contentTitle:
+          title:
             'Will the Real Senior Dev Please Stand Up? (2021 Edition)',
-          contentUrl:
+          url:
             'https://dev.to/linearb/will-the-real-senior-dev-please-stand-up-2021-edition-1k4j',
-          contentDescription:
+          description:
             '... In a follow-up to my article from last year, I’d like to share some of the takeaways from my discussion with Dan and discuss whether or not some of these hiring practices have changed in the past year. ...',
           imgUrl: '2021-09-09-h.png',
           datePosted: '2021-09-09',
@@ -1233,13 +1233,13 @@ export class PostService {
         {
           id: '09-i',
           slug: '2021-09-09-i',
-          contentType: 'blog',
+          type: 'blog',
           duration: '',
-          contentTitle:
+          title:
             'Tutorial – First Steps with Nx and Angular Architecture',
-          contentUrl:
+          url:
             'https://www.angulararchitects.io/en/aktuelles/tutorial-first-steps-with-nx-and-angular-architecture/',
-          contentDescription:
+          description:
             'Nx is a famous extension for the Angular CLI provided by former Angular core team members. It’s a great solution (not only) for structuring big enterprise-scale applications. This tutorial shows how to get started with Nx. It starts from scratch with an empty Nx workspace. You learn the following things:',
           imgUrl: '2021-09-09-i.png',
           datePosted: '2021-09-09',
@@ -1256,12 +1256,12 @@ export class PostService {
         {
           id: '09-j',
           slug: '2021-09-09-j',
-          contentType: 'blog',
+          type: 'blog',
           duration: '',
-          contentTitle: 'Firestore: Using Reference Types for Joins',
-          contentUrl:
+          title: 'Firestore: Using Reference Types for Joins',
+          url:
             'https://dev.to/jdgamble555/firestore-using-reference-types-for-joins-4194',
-          contentDescription:
+          description:
             'What do we even use these "reference" types for? I mean, Firestore doesn\'t even have any joins. Okay, very true. But, I finally found a use for them in Firebase 9 SDK when I "expanded" my mind. Technically you can search for a reference just like anything else:',
           imgUrl: '2021-09-09-j.png',
           datePosted: '2021-09-09',
@@ -1283,11 +1283,11 @@ export class PostService {
         {
           id: '10-a',
           slug: '2021-09-10-a',
-          contentType: 'video',
+          type: 'video',
           duration: '19',
-          contentTitle: 'Angular - Calling the API',
-          contentUrl: 'https://www.youtube.com/watch?v=7fPSp3OG9t8',
-          contentDescription:
+          title: 'Angular - Calling the API',
+          url: 'https://www.youtube.com/watch?v=7fPSp3OG9t8',
+          description:
             "We've got our back end. We've got our front end. We need HttpClient to connect the two.",
           imgUrl: '2021-09-10-a.jpg',
           datePosted: '2021-09-10',
@@ -1304,12 +1304,12 @@ export class PostService {
         {
           id: '10-b',
           slug: '2021-09-10-b',
-          contentType: 'video',
+          type: 'video',
           duration: '39',
-          contentTitle:
+          title:
             'Angular Login and Signup using JSON-Server | Angular Routing | Angular Reactive Form',
-          contentUrl: 'https://www.youtube.com/watch?v=eMJ5spB3P1c',
-          contentDescription:
+          url: 'https://www.youtube.com/watch?v=eMJ5spB3P1c',
+          description:
             'In this video, we will try to implement Login and Signup using JSON-server. We will cover concepts like reactive forms, angular routing, and basics HTML and CSS to create Login and Signup cards.',
           imgUrl: '2021-09-10-b.jpg',
           datePosted: '2021-09-10',
@@ -1326,12 +1326,12 @@ export class PostService {
         {
           id: '10-c',
           slug: '2021-09-10-c',
-          contentType: 'blog',
+          type: 'blog',
           duration: '',
-          contentTitle: 'Directives in Angular',
-          contentUrl:
+          title: 'Directives in Angular',
+          url:
             'https://raghuvardhankaranam.medium.com/directives-in-angular-a30dabaa54c4',
-          contentDescription:
+          description:
             'Directives are one of the most fundamental concepts in angular. They are simply instructions to the DOM. Think of it as the directions to the dom. Directives manipulate the DOM to add elements to the DOM or change the behavior of the existing ones.',
           imgUrl: '2021-09-10-c.png',
           datePosted: '2021-09-10',
@@ -1348,12 +1348,12 @@ export class PostService {
         {
           id: '10-d',
           slug: '2021-09-10-d',
-          contentType: 'blog',
+          type: 'blog',
           duration: '',
-          contentTitle: 'Angular: The Single Rule To Get Better At RxJS',
-          contentUrl:
+          title: 'Angular: The Single Rule To Get Better At RxJS',
+          url:
             'https://dev.to/daviddalbusco/angular-the-single-rule-to-get-better-at-rxjs-1i64',
-          contentDescription:
+          description:
             'Even though there is no strict rule, combining imperative and declarative programming concepts with RxJS might be making the development harder and the code less clean.',
           imgUrl: '2021-09-10-d.png',
           datePosted: '2021-09-10',
@@ -1370,13 +1370,13 @@ export class PostService {
         {
           id: '10-e',
           slug: '2021-09-10-e',
-          contentType: 'blog',
+          type: 'blog',
           duration: '',
-          contentTitle:
+          title:
             'Adding the Google reCAPTCHA v2 to an Angular application',
-          contentUrl:
+          url:
             'https://dev.to/rodrigokamada/adding-the-google-recaptcha-v2-to-an-angular-application-1o7o',
-          contentDescription: '',
+          description: '',
           imgUrl: '2021-09-10-e.png',
           datePosted: '2021-09-10',
           dateCreated: '2021-09-10',
@@ -1392,13 +1392,13 @@ export class PostService {
         {
           id: '10-f',
           slug: '2021-09-10-f',
-          contentType: 'blog',
+          type: 'blog',
           duration: '',
-          contentTitle:
+          title:
             'How Angular Web Developer Will Change Your Business Landscape in 2021?',
-          contentUrl:
+          url:
             'https://dev.to/annasharland/how-angular-web-developer-will-change-your-business-landscape-in-2021-563k',
-          contentDescription:
+          description:
             'Do you know? Angular is the 4th most used web framework among developers worldwide. The top websites like Gmail, Forbes, and PayPal are powered by it.',
           imgUrl: '2021-09-10-f.png',
           datePosted: '2021-09-10',
@@ -1415,12 +1415,12 @@ export class PostService {
         {
           id: '10-g',
           slug: '2021-09-10-g',
-          contentType: 'blog',
+          type: 'blog',
           duration: '',
-          contentTitle: 'Build a Quiz App using a Strapi API with Angular 11',
-          contentUrl:
+          title: 'Build a Quiz App using a Strapi API with Angular 11',
+          url:
             'https://dev.to/zaracooper/build-a-quiz-app-using-a-strapi-api-with-angular-11-44ib',
-          contentDescription:
+          description:
             'This tutorial is a guide on how to create a quiz app. The app will use Strapi as a backend server and Angular in the frontend.',
           imgUrl: '2021-09-10-g.png',
           datePosted: '2021-09-10',
@@ -1437,12 +1437,12 @@ export class PostService {
         {
           id: '10-h',
           slug: '2021-09-10-h',
-          contentType: 'video',
+          type: 'video',
           duration: '12',
-          contentTitle:
+          title:
             'Generate Code Coverage report from Cypress E2E Tests for Angular UI Application',
-          contentUrl: 'https://www.youtube.com/watch?v=3V7l4I6u-Ws',
-          contentDescription:
+          url: 'https://www.youtube.com/watch?v=3V7l4I6u-Ws',
+          description:
             "In this video I've shown how to Generate Code Coverage from Cypress E2E Tests for Angular application",
           imgUrl: '2021-09-10-h.png',
           datePosted: '2021-09-10',
@@ -1459,11 +1459,11 @@ export class PostService {
         {
           id: '10-i',
           slug: '2021-09-10-i',
-          contentType: 'video',
+          type: 'video',
           duration: '5',
-          contentTitle: 'What is Angular Material?',
-          contentUrl: 'https://www.youtube.com/watch?v=5Z6Rt1llPnw',
-          contentDescription:
+          title: 'What is Angular Material?',
+          url: 'https://www.youtube.com/watch?v=5Z6Rt1llPnw',
+          description:
             'This video is part of the Angular Material In Depth Course',
           imgUrl: '2021-09-10-i.png',
           datePosted: '2021-09-10',
@@ -1485,12 +1485,12 @@ export class PostService {
         {
           id: '11-a',
           slug: '2021-09-11-a',
-          contentType: 'video',
+          type: 'video',
           duration: '19',
-          contentTitle:
+          title:
             'Custom Pipes in Angular | Reusable Social Numbers Pipe',
-          contentUrl: 'https://www.youtube.com/watch?v=RX8_11Bq6zQ',
-          contentDescription:
+          url: 'https://www.youtube.com/watch?v=RX8_11Bq6zQ',
+          description:
             'In this video we are going to cover Angular Pipes and explain them by example.',
           imgUrl: '2021-09-11-a.jpg',
           datePosted: '2021-09-11',
@@ -1507,11 +1507,11 @@ export class PostService {
         {
           id: '11-b',
           slug: '2021-09-11-b',
-          contentType: 'blog',
+          type: 'blog',
           duration: '',
-          contentTitle: 'How We Test Angular2+ (Part 2)',
-          contentUrl: 'https://dev.to/cblaine/how-we-test-angular2-part-2-21b4',
-          contentDescription:
+          title: 'How We Test Angular2+ (Part 2)',
+          url: 'https://dev.to/cblaine/how-we-test-angular2-part-2-21b4',
+          description:
             "... This is part two in a series of undefined length ... In part one I gave a little intro and explained that I'm trying to write these blogs with as much detail in each step (including the issues you will inevitably run into) as possible. I'll try to be consistent in format so you can learn the pattern and jump to what interests you easier as time goes on. If you want to play with the code you can find it here.",
           imgUrl: '2021-09-11-b.png',
           datePosted: '2021-09-11',
@@ -1533,13 +1533,13 @@ export class PostService {
         {
           id: '12-a',
           slug: '2021-09-12-a',
-          contentType: 'blog',
+          type: 'blog',
           duration: '',
-          contentTitle:
+          title:
             '[What is the] Cleanest way to subscribe to observable in OnInit?',
-          contentUrl:
+          url:
             'https://www.reddit.com/r/angular/comments/plnl6a/cleanest_way_to_subscribe_to_observable_in_oninit/',
-          contentDescription:
+          description:
             'My component\'s ngOnInit methods with sometimes look bloated due to the multiple observables I\'m subscribing too. Is there a conventional way of keeping the ngOnInit clean when having like 3 or 4 observables to subscribe to? I think about offloading each one into its own private method just to be called once like "subscribeToSearchResults", "subscribeToTextInput". Any recommendations?',
           imgUrl: '2021-09-12-a.png',
           datePosted: '2021-09-12',
@@ -1556,11 +1556,11 @@ export class PostService {
         {
           id: '12-b',
           slug: '2021-09-12-b',
-          contentType: 'blog',
+          type: 'blog',
           duration: '',
-          contentTitle: 'RxJS - Promise vs Observable',
-          contentUrl: 'https://dev.to/jintoppy/rxjs-promise-vs-observable-243n',
-          contentDescription:
+          title: 'RxJS - Promise vs Observable',
+          url: 'https://dev.to/jintoppy/rxjs-promise-vs-observable-243n',
+          description:
             '... is why to use Observable instead of Promise?',
           imgUrl: '2021-09-12-b.png',
           datePosted: '2021-09-12',
@@ -1577,12 +1577,12 @@ export class PostService {
         {
           id: '12-c',
           slug: '2021-09-12-c',
-          contentType: 'blog',
+          type: 'blog',
           duration: '',
-          contentTitle: "What's new in TypeScript v4.4?",
-          contentUrl:
+          title: "What's new in TypeScript v4.4?",
+          url:
             'https://dev.to/ankittanna/what-s-new-in-typescript-4-4-ai7',
-          contentDescription:
+          description:
             'TypeScript 4.4 came out with a lot of performance update plus some improved type checking. As a developer, you may be excited about a few of the features that are listed below.',
           imgUrl: '2021-09-12-c.png',
           datePosted: '2021-09-12',
@@ -1604,12 +1604,12 @@ export class PostService {
         {
           id: '13-a',
           slug: '2021-09-13-a',
-          contentType: 'video',
+          type: 'video',
           duration: '29',
-          contentTitle:
+          title:
             'Angular Tutorials: Creating and Customizing Components in ngx-pagination library',
-          contentUrl: 'https://www.youtube.com/watch?v=jcCrvO4EpGI',
-          contentDescription:
+          url: 'https://www.youtube.com/watch?v=jcCrvO4EpGI',
+          description:
             'Watch this video if you all want to implement pagination in your angular project and customize the component to match it with the requirement. This is the first episode of a multi-part series where in I will be going over a plethora of topics related to Angular. Stay Tuned! Do Like, Share and Subscribe if you enjoyed the content and found it helpful for your projects. Cheers!',
           imgUrl: '2021-09-13-a.jpg',
           datePosted: '2021-09-13',
@@ -1626,11 +1626,11 @@ export class PostService {
         {
           id: '13-b',
           slug: '2021-09-13-b',
-          contentType: 'video',
+          type: 'video',
           duration: '20',
-          contentTitle: 'Angular Unit testing- 16 | Template driven forms',
-          contentUrl: 'https://www.youtube.com/watch?v=E7iVrOyLW80',
-          contentDescription:
+          title: 'Angular Unit testing- 16 | Template driven forms',
+          url: 'https://www.youtube.com/watch?v=E7iVrOyLW80',
+          description:
             'In this video, you will learn How to test basic angular template driven forms at HTML level. How to test template driven forms.',
           imgUrl: '2021-09-13-b.png',
           datePosted: '2021-09-13',
@@ -1647,12 +1647,12 @@ export class PostService {
         {
           id: '13-c',
           slug: '2021-09-13-c',
-          contentType: 'video',
+          type: 'video',
           duration: '11',
-          contentTitle:
+          title:
             '79. Angular Project Tutorial - Event Model for Type safety',
-          contentUrl: 'https://www.youtube.com/watch?v=GgwdrDgM134',
-          contentDescription:
+          url: 'https://www.youtube.com/watch?v=GgwdrDgM134',
+          description:
             'Angular Event Model explained in detail with example',
           imgUrl: '2021-09-13-c.jpg',
           datePosted: '2021-09-13',
@@ -1669,12 +1669,12 @@ export class PostService {
         {
           id: '13-d',
           slug: '2021-09-13-d',
-          contentType: 'video',
+          type: 'video',
           duration: '19',
-          contentTitle:
+          title:
             'Prefer Template-Driven Forms | Ward Bell | ng-conf 2021',
-          contentUrl: 'https://www.youtube.com/watch?v=L7rGogdfe2Q',
-          contentDescription:
+          url: 'https://www.youtube.com/watch?v=L7rGogdfe2Q',
+          description:
             'In this session,  he will demonstrate the superiority of Template-Driven Forms in a variety of so-called “advanced”, real-world scenarios. He will leave you with the companion stackblitz sample to enjoy on your own. If you’re fond of Reactive Forms, carry on. If you’re feeling guilty because you use Template-Driven Forms, hold your head high knowing that you’ve chosen wisely.',
           imgUrl: '2021-09-13-d.jpg',
           datePosted: '2021-09-13',
@@ -1691,13 +1691,13 @@ export class PostService {
         {
           id: '13-e',
           slug: '2021-09-13-e',
-          contentType: 'podcast',
+          type: 'podcast',
           duration: '40',
-          contentTitle:
+          title:
             'S1E15 | Working Internationally: Taking Your Career Beyond Borders',
-          contentUrl:
+          url:
             'https://www.spreaker.com/user/14532324/s1e15-working-internationally-taking-you?utm_medium=widget&utm_source=user%3A14532324&utm_term=episode_title',
-          contentDescription:
+          description:
             'For today’s episode of the Angular Experience, we’re joined by Craig Spence, Senior Engineer at Spotify. Craig talks to us about his experience of moving from his home in New Zealand to living and working in Sweden. He offers his advice on things that should be considered before deciding to work abroad, including barriers, benefits, and financial and logistical aspects.',
           imgUrl: 'thumb-angular-experience.png',
           datePosted: '2021-09-13',
@@ -1715,13 +1715,13 @@ export class PostService {
         {
           id: '13-f',
           slug: '2021-09-13-f',
-          contentType: 'blog',
+          type: 'blog',
           duration: '',
-          contentTitle:
+          title:
             'Deploying Angular App with multi-stage docker file plus tips/tricks on (Image Optimization)',
-          contentUrl:
+          url:
             'https://dev.to/laibazahoor1/deploying-angular-app-with-multi-stage-docker-file-plus-tips-tricks-on-image-optimization-87m',
-          contentDescription:
+          description:
             'It is very important to build efficient docker images using Dockerfile whenever pushing out images into production. We need images as small as possible in production for faster downloads, lesser surface attacks.',
           imgUrl: '2021-09-13-f.png',
           datePosted: '2021-09-13',
@@ -1738,13 +1738,13 @@ export class PostService {
         {
           id: '13-g',
           slug: '2021-09-13-g',
-          contentType: 'blog',
+          type: 'blog',
           duration: '',
-          contentTitle:
+          title:
             "How to get an attribute value in Angular's components and directives",
-          contentUrl:
+          url:
             'https://dev.to/shhdharmen/how-to-get-an-attribute-value-in-angular-s-components-and-directives-4b0c',
-          contentDescription:
+          description:
             'In this tutorial, we will explore all the ways to read HTML attribute values passed in the component or directive.',
           imgUrl: '2021-09-13-g.png',
           datePosted: '2021-09-13',
@@ -1761,12 +1761,12 @@ export class PostService {
         {
           id: '13-h',
           slug: '2021-09-13-h',
-          contentType: 'blog',
+          type: 'blog',
           duration: '',
-          contentTitle: 'Debugging Angular App on Android from Mac',
-          contentUrl:
+          title: 'Debugging Angular App on Android from Mac',
+          url:
             'https://dev.to/kildareflare/debugging-angular-app-on-android-from-mac-4hg6',
-          contentDescription:
+          description:
             "Today I needed to inspect an Angular web app I'm building to determine why it was not displaying correctly. (It displayed just fine in the Chrome Dev Tools Emulator, but no on a real device). I've done this a lot in the past and thought I knew how to set this up, but there was one thing I was missing.",
           imgUrl: '2021-09-13-h.png',
           datePosted: '2021-09-13',
@@ -1783,12 +1783,12 @@ export class PostService {
         {
           id: '13-i',
           slug: '2021-09-13-i',
-          contentType: 'video',
+          type: 'video',
           duration: '113',
-          contentTitle:
+          title:
             'Angular Beginners Workshop (by Oyemaja Oyemade and Aristeidis Bampakos)',
-          contentUrl: 'https://www.youtube.com/watch?v=LJrEdwA-QtM',
-          contentDescription:
+          url: 'https://www.youtube.com/watch?v=LJrEdwA-QtM',
+          description:
             'Thanks Oye and Ari for hosting this Gentle Introduction to Angular! Join us in the Angular Beginners channel on Angular Nation for more beginner workshops and support. ',
           imgUrl: '2021-09-13-i.jpg',
           datePosted: '2021-09-13',
@@ -1805,13 +1805,13 @@ export class PostService {
         {
           id: '13-j',
           slug: '2021-09-13-j',
-          contentType: 'blog',
+          type: 'blog',
           duration: '',
-          contentTitle:
+          title:
             'Lazy translation assets with Angular, Transloco and Nx Buildable Libs',
-          contentUrl:
+          url:
             'https://dev.to/seanperkins/lazy-translation-assets-with-angular-transloco-and-nx-buildable-libs-18ce',
-          contentDescription:
+          description:
             "When dealing with applications that support multiple languages, it becomes increasingly more costly to have single translation asset files to contain all the key-value pairs for your application. Instead, making use of webpack's inline loaders and Nx's buildable libs; you can fetch smaller translation assets only for a feature's scope, without requesting additional data.",
           imgUrl: '2021-09-13-j.png',
           datePosted: '2021-09-13',
@@ -1828,12 +1828,12 @@ export class PostService {
         {
           id: '13-k',
           slug: '2021-09-13-k',
-          contentType: 'blog',
+          type: 'blog',
           duration: '',
-          contentTitle: 'How Components Communicate With Each Other In Angular',
-          contentUrl:
+          title: 'How Components Communicate With Each Other In Angular',
+          url:
             'https://www.c-sharpcorner.com/blogs/how-components-communicate-with-each-other-in-angular',
-          contentDescription:
+          description:
             'For better understanding, you should have a basic knowledge about what are components and how to build an application using that. Components are the building blocks of Angular. So we need to understand how components communicate with each other. There are three ways: ...',
           imgUrl: '2021-09-13-k.png',
           datePosted: '2021-09-13',
@@ -1850,12 +1850,12 @@ export class PostService {
         {
           id: '13-m',
           slug: '2021-09-13-m',
-          contentType: 'video',
+          type: 'video',
           duration: '10',
-          contentTitle:
+          title:
             'TypeScript Core Concepts - Using interfaces in TypeScript',
-          contentUrl: 'https://www.youtube.com/watch?v=dzfCgPFJyr4',
-          contentDescription:
+          url: 'https://www.youtube.com/watch?v=dzfCgPFJyr4',
+          description:
             'Check out this simple guide to TypeScript interfaces with Microsoft Cloud Advocate Dan Wahlin (https://twitter.com/DanWahlin).',
           imgUrl: '2021-09-13-m.jpg',
           datePosted: '2021-09-13',
@@ -1877,11 +1877,11 @@ export class PostService {
         {
           id: '14-a',
           slug: '2021-09-14-a',
-          contentType: 'video',
+          type: 'video',
           duration: '12',
-          contentTitle: 'RxJs - Stream Analogs in Real Life (2021)',
-          contentUrl: 'https://www.youtube.com/watch?v=xCfLfKNbnco',
-          contentDescription:
+          title: 'RxJs - Stream Analogs in Real Life (2021)',
+          url: 'https://www.youtube.com/watch?v=xCfLfKNbnco',
+          description:
             'RxJs isn\'t easy for beginners and definitely requires some shift in the way you think about your data and how this data flows in your application, it is also known as "think reactively". Things like: Why I should always unsubscribe from a stream, why I should keep my data in a stream as much as possible, etc are not always obvious especially when you started with RxJs not so long time ago. Those questions were bothering me for some time until I started looking for stream analogs in real life... and I found it! After that, many things became obvious to me and I started to understand better things I build with RxJs. I hope you will also find it useful. Thank you for watching!',
           imgUrl: '2021-09-14-a.jpg',
           datePosted: '2021-09-14',
@@ -1898,11 +1898,11 @@ export class PostService {
         {
           id: '14-b',
           slug: '2021-09-14-b',
-          contentType: 'podcast',
+          type: 'podcast',
           duration: '52',
-          contentTitle: "AMP 12: Let's talk about NX",
-          contentUrl: 'https://open.spotify.com/episode/5JN4sOg6bbf3DfulRwijH7',
-          contentDescription:
+          title: "AMP 12: Let's talk about NX",
+          url: 'https://open.spotify.com/episode/5JN4sOg6bbf3DfulRwijH7',
+          description:
             "What's up everyone, this is Dariusz Kalbarczyk co-founder of NG Poland, JS Poland & AngularMaster.dev. Welcom back to Agular Master Podcast. Together with Manfred Steyer - Speaker, Trainer, Consultant, Author from angulararchitects.io. We discuss everything related to our favorite framework. Today we have some special guests from Dynatrace:",
           imgUrl: '2021-09-14-b.png',
           datePosted: '2021-09-14',
@@ -1919,13 +1919,13 @@ export class PostService {
         {
           id: '14-c',
           slug: '2021-09-14-c',
-          contentType: 'blog',
+          type: 'blog',
           duration: '',
-          contentTitle:
+          title:
             '3 Easy Ways to Add Animation to your Angular Applications',
-          contentUrl:
+          url:
             'https://dev.to/this-is-angular/3-easy-ways-to-add-animation-to-your-angular-applications-2537',
-          contentDescription:
+          description:
             'This blog post is meant to be a short introduction to animations for Angular. If you are looking for more advanced content, check out my Indepth Guide to Animation in Angular on indepth.dev or my Angular Animation Explorer project. Those include more advanced use cases and covers topics such as performance, debugging, and more.',
           imgUrl: '2021-09-14-c.png',
           datePosted: '2021-09-14',
@@ -1942,12 +1942,12 @@ export class PostService {
         {
           id: '14-d',
           slug: '2021-09-14-d',
-          contentType: 'blog',
+          type: 'blog',
           duration: '',
-          contentTitle: 'NgRx Feature Creator',
-          contentUrl:
+          title: 'NgRx Feature Creator',
+          url:
             'https://dev.to/this-is-angular/ngrx-feature-creator-2c72',
-          contentDescription:
+          description:
             "The createFeature function is introduced in NgRx v12.1. It reduces repetitive code in selector files by generating a feature selector and child selectors for each feature state property. It's inspired by the ngrx-child-selectors library.",
           imgUrl: '2021-09-14-d.png',
           datePosted: '2021-09-14',
@@ -1964,12 +1964,12 @@ export class PostService {
         {
           id: '14-e',
           slug: '2021-09-14-e',
-          contentType: 'blog',
+          type: 'blog',
           duration: '',
-          contentTitle: 'Access modifiers in TypeScript class Constructor',
-          contentUrl:
+          title: 'Access modifiers in TypeScript class Constructor',
+          url:
             'https://dev.to/krishnapolanki/access-modifiers-in-typescript-class-constructor-20pf',
-          contentDescription:
+          description:
             'TypeScript includes a concise way to create and assign a class instance property from a constructor parameter',
           imgUrl: '2021-09-14-e.png',
           datePosted: '2021-09-14',
@@ -1986,13 +1986,13 @@ export class PostService {
         {
           id: '14-f',
           slug: '2021-09-14-f',
-          contentType: 'blog',
+          type: 'blog',
           duration: '',
-          contentTitle:
+          title:
             'Accessible Design System in Angular, the Architecture.',
-          contentUrl:
+          url:
             'https://dev.to/srini/accessible-design-system-in-angular-the-architecture-4g2a',
-          contentDescription: '',
+          description: '',
           imgUrl: '2021-09-14-f.png',
           datePosted: '2021-09-14',
           dateCreated: '2021-09-13',
@@ -2008,11 +2008,11 @@ export class PostService {
         {
           id: '14-g',
           slug: '2021-09-14-g',
-          contentType: 'video',
+          type: 'video',
           duration: '14',
-          contentTitle: 'How to use Angular Virtual Scroll with Ionic',
-          contentUrl: 'https://www.youtube.com/watch?v=qgPNdoB1zhk',
-          contentDescription:
+          title: 'How to use Angular Virtual Scroll with Ionic',
+          url: 'https://www.youtube.com/watch?v=qgPNdoB1zhk',
+          description:
             'The Ionic virtual scroll component was deprecated with Ionic 6, but we can easily transition to the Angular virtual scroll implementation to achieve the same performance gain for huge lists!',
           imgUrl: '2021-09-14-g.jpg',
           datePosted: '2021-09-14',
@@ -2029,12 +2029,12 @@ export class PostService {
         {
           id: '14-h',
           slug: '2021-09-14-h',
-          contentType: 'blog',
+          type: 'blog',
           duration: '',
-          contentTitle: 'Understanding Ngrx Actions, Reducers and Effects',
-          contentUrl:
+          title: 'Understanding Ngrx Actions, Reducers and Effects',
+          url:
             'https://dev.to/mcube25/understanding-ngrx-actions-reducers-and-effects-j9e',
-          contentDescription:
+          description:
             'Actions, Reducers and Effects are building blocks in Ngrx which is used in many Angular applications. This article is meant to explain the relationship between the three and how we can use them in an application',
           imgUrl: '2021-09-14-h.png',
           datePosted: '2021-09-14',
@@ -2051,11 +2051,11 @@ export class PostService {
         {
           id: '14-i',
           slug: '2021-09-14-i',
-          contentType: 'video',
+          type: 'video',
           duration: '14',
-          contentTitle: 'Angular Pipe Tutorial for Beginners | Edureka',
-          contentUrl: 'https://www.youtube.com/watch?v=nWvi4ONhiyE',
-          contentDescription:
+          title: 'Angular Pipe Tutorial for Beginners | Edureka',
+          url: 'https://www.youtube.com/watch?v=nWvi4ONhiyE',
+          description:
             'This Edureka "Angular Pipes Tutorial" will help you  understand how to create Pipes in order to have a transformed data for the data given by users. It also covers the creation of pipes along with their types.',
           imgUrl: '2021-09-14-i.jpg',
           datePosted: '2021-09-14',
@@ -2072,12 +2072,12 @@ export class PostService {
         {
           id: '14-j',
           slug: '2021-09-14-j',
-          contentType: 'blog',
+          type: 'blog',
           duration: '',
-          contentTitle: 'Tracking user interaction area',
-          contentUrl:
+          title: 'Tracking user interaction area',
+          url:
             'https://indepth.dev/posts/1479/tracking-user-interaction-area',
-          contentDescription:
+          description:
             'Explore one of the most complex pieces of Taiga UI — ActiveZone directive that keeps an eye on what region user is working with. It touches on low-level native DOM events API, advanced RxJS and Dependency Injection, ShadowDOM and more!',
           imgUrl: '2021-09-14-j.png',
           datePosted: '2021-09-14',
@@ -2099,13 +2099,13 @@ export class PostService {
         {
           id: '15-a',
           slug: '2021-09-15-a',
-          contentType: 'blog',
+          type: 'blog',
           duration: '',
-          contentTitle:
+          title:
             'When And Why Angular Is A Good Technical Solution For Your Project',
-          contentUrl:
+          url:
             'https://www.linkedin.com/pulse/when-why-angular-good-technical-solution-your-project-tanmoy-majumdar?trk=articles_directory',
-          contentDescription:
+          description:
             'Angular has come to the top once again, according to recent statistics. Angular is a web development network that makes the coding task easier, and faster than before. Angular-based applications are lightweight, easy to maintain, and can offer spontaneous results. While all this sounds good, these should not be your only criteria to choose a technology stack. One must learn about the technology stack, its applications, and use cases.',
           imgUrl: '2021-09-15-a.png',
           datePosted: '2021-09-15',
@@ -2123,11 +2123,11 @@ export class PostService {
         {
           id: '15-b',
           slug: '2021-09-15-b',
-          contentType: 'video',
+          type: 'video',
           duration: '18',
-          contentTitle: 'Ngrx ComponentStore basics using Angular 12 project',
-          contentUrl: 'https://www.youtube.com/watch?v=5iaFyCX-M_U',
-          contentDescription:
+          title: 'Ngrx ComponentStore basics using Angular 12 project',
+          url: 'https://www.youtube.com/watch?v=5iaFyCX-M_U',
+          description:
             'Ngrx Component store tutorial - We explore the ComponentStore concept in ngrx to handle local state in components. We initially explore how we can directly use the ComponentStore Service inside the component to create a local state. We use setState method to initialize the store and patchState to partially update it. We also subscribe to the store.select() method to get the updates from the store. After that we explore the updater and effect methods in ComponentStore. Finally we create an angular service which extends the ComponentStore and move all the store related logic to that service.',
           imgUrl: '2021-09-15-b.jpg',
           datePosted: '2021-09-15',
@@ -2144,12 +2144,12 @@ export class PostService {
         {
           id: '15-c',
           slug: '2021-09-15-c',
-          contentType: 'podcast',
+          type: 'podcast',
           duration: '60',
-          contentTitle: 'E066 - NgRx Effects Best Practices',
-          contentUrl:
+          title: 'E066 - NgRx Effects Best Practices',
+          url:
             'https://www.spreaker.com/user/ng-conf/e066-ngrx-effects-best-practices',
-          contentDescription:
+          description:
             "We're back from our summer break and we're releasing a fresh episode of The Angular Show with a special guest, Mike Ryan, a Principal Architect with LiveLoveApp. Mike is a co-creator and member of the NgRx core team, a contributor to open-source, and a Google Developer Expert in Angular. Mike joins our panelists Aaron Frosts, Jennifer Wadella, and Brian Love, to chat about NgRx Effects best practices.",
           imgUrl: 'thumb-the-angular-show.png',
           datePosted: '2021-09-15',
@@ -2166,12 +2166,12 @@ export class PostService {
         {
           id: '15-d',
           slug: '2021-09-15-d',
-          contentType: 'video',
+          type: 'video',
           duration: '118',
-          contentTitle:
+          title:
             'NgRx at Scale: Evan & Chau talk Nx and NgRx for complex Angular projects',
-          contentUrl: 'https://www.youtube.com/watch?v=UhaFKd5HXgU',
-          contentDescription:
+          url: 'https://www.youtube.com/watch?v=UhaFKd5HXgU',
+          description:
             "Chau and I will be talking through some architectural patterns and examples to keep in mind when working with NgRx (a state management library for Angular) in the form of libs/apps within Nx.  Even working with it every day, there are issues that come up, decisions to be made, hacks to avoid.  We'll touch on these and answer questions the chat might have.  Join us!",
           imgUrl: '2021-09-15-d.jpg',
           datePosted: '2021-09-15',
@@ -2188,12 +2188,12 @@ export class PostService {
         {
           id: '15-e',
           slug: '2021-09-15-e',
-          contentType: 'blog',
+          type: 'blog',
           duration: '',
-          contentTitle: 'Angular architecture matters: Monorepo',
-          contentUrl:
+          title: 'Angular architecture matters: Monorepo',
+          url:
             'https://dev.to/ngconf/angular-architecture-matters-monorepo-2n11',
-          contentDescription:
+          description:
             'Whenever you start a new project, one of the first decisions we made is the structure of our code base. This is important because we do not want to have spaghetti code, features breaking when code changes... A few years ago, I worked in a project that comprises several apps with shared libraries. At first, everything was fine: apps were very small, few requirements; but every small app converts into a big one.',
           imgUrl: '2021-09-15-e.png',
           datePosted: '2021-09-15',
@@ -2210,12 +2210,12 @@ export class PostService {
         {
           id: '15-f',
           slug: '2021-09-15-f',
-          contentType: 'podcast',
+          type: 'podcast',
           duration: '54',
-          contentTitle: 'Episode 18: Special Guest Tom!',
-          contentUrl:
+          title: 'Episode 18: Special Guest Tom!',
+          url:
             'https://anchor.fm/ng-build-pod/episodes/Special-Guest-Tom-e17e30p',
-          contentDescription:
+          description:
             "John and Chris have a special guest on today. We are interviewing Tom. Tom is a developer at Miles Technologies and has been developing software using the Breckenridge template we've been talking about so much. He helps share a 1st hand perspective of our software and share's his angular story.",
           imgUrl: 'thumb-ng-build.png',
           datePosted: '2021-09-15',
@@ -2232,11 +2232,11 @@ export class PostService {
         {
           id: '15-g',
           slug: '2021-09-15-g',
-          contentType: 'video',
+          type: 'video',
           duration: '35',
-          contentTitle: 'Testing (Reiner Hahnekamp)',
-          contentUrl: 'https://www.youtube.com/watch?v=-XB9BLkIJ8w',
-          contentDescription:
+          title: 'Testing (Reiner Hahnekamp)',
+          url: 'https://www.youtube.com/watch?v=-XB9BLkIJ8w',
+          description:
             "John and Chris have a special guest on today. We are interviewing Tom. Tom is a developer at Miles Technologies and has been developing software using the Breckenridge template we've been talking about so much. He helps share a 1st hand perspective of our software and share's his angular story.",
           imgUrl: '2021-09-15-g.jpg',
           datePosted: '2021-09-15',
@@ -2258,11 +2258,11 @@ export class PostService {
         {
           id: '16-a',
           slug: '2021-09-16-a',
-          contentType: 'video',
+          type: 'video',
           duration: '6',
-          contentTitle: 'How to update Angular',
-          contentUrl: 'https://www.youtube.com/watch?v=QGBmSbFxriU',
-          contentDescription:
+          title: 'How to update Angular',
+          url: 'https://www.youtube.com/watch?v=QGBmSbFxriU',
+          description:
             'Updating Angular application can become a huge task. I share my findings for making it easier.',
           imgUrl: '2021-09-16-a.png',
           datePosted: '2021-09-16',
@@ -2279,11 +2279,11 @@ export class PostService {
         {
           id: '16-b',
           slug: '2021-09-16-b',
-          contentType: 'video',
+          type: 'video',
           duration: '8',
-          contentTitle: '101. RxJS SwitchAll Operator',
-          contentUrl: 'https://www.youtube.com/watch?v=K4_ry9pPY1A',
-          contentDescription:
+          title: '101. RxJS SwitchAll Operator',
+          url: 'https://www.youtube.com/watch?v=K4_ry9pPY1A',
+          description:
             'In this video, we will learn about the RxJS SwitchAll operator which is one of the Join Category operators in RxJS.',
           imgUrl: '2021-09-16-b.jpg',
           datePosted: '2021-09-16',
@@ -2300,12 +2300,12 @@ export class PostService {
         {
           id: '16-c',
           slug: '2021-09-16-c',
-          contentType: 'blog',
+          type: 'blog',
           duration: '',
-          contentTitle: 'RxJS - Creation Operators',
-          contentUrl:
+          title: 'RxJS - Creation Operators',
+          url:
             'https://dev.to/this-is-learning/rxjs-creation-operators-6bh',
-          contentDescription:
+          description:
             'The Creation Operators are used to create new observables. They are divided into Creation Operators and Join Creation Operators. The main difference between them consists in the fact that the Join Creation Operators create observable from other observables instead the Creation Operators create observables from objects which differ from observable.',
           imgUrl: '2021-09-16-c.png',
           datePosted: '2021-09-16',
@@ -2322,11 +2322,11 @@ export class PostService {
         {
           id: '16-d',
           slug: '2021-09-16-d',
-          contentType: 'video',
+          type: 'video',
           duration: '4',
-          contentTitle: 'How to "Google It" like a Senior Software Engineer',
-          contentUrl: 'https://www.youtube.com/watch?v=cEBkvm0-rg0',
-          contentDescription:
+          title: 'How to "Google It" like a Senior Software Engineer',
+          url: 'https://www.youtube.com/watch?v=cEBkvm0-rg0',
+          description:
             'They say a Software Engineer is just a “professional google searcher” and that is 100% accurate. Learn how to use Google like a 10x developer to get the information you need faster.',
           imgUrl: '2021-09-16-d.jpg',
           datePosted: '2021-09-16',
@@ -2343,12 +2343,12 @@ export class PostService {
         {
           id: '16-e',
           slug: '2021-09-16-e',
-          contentType: 'video',
+          type: 'video',
           duration: '52',
-          contentTitle:
+          title:
             'ngLeipzig #41: GraphQL Backends for Angular with Hasura | Praveen Durairaju',
-          contentUrl: 'https://www.youtube.com/watch?v=-L2fQRwgw8Y',
-          contentDescription:
+          url: 'https://www.youtube.com/watch?v=-L2fQRwgw8Y',
+          description:
             'Angular Leipzig #41 Online Meetup 14.09.2021 "Building GraphQL Backends for Angular Apps with Hasura" – talk by Praveen Durairaju',
           imgUrl: '2021-09-16-e.jpg',
           datePosted: '2021-09-16',
@@ -2365,11 +2365,11 @@ export class PostService {
         {
           id: '16-f',
           slug: '2021-09-16-f',
-          contentType: 'video',
+          type: 'video',
           duration: '361',
-          contentTitle: 'Nx Conf - Day 1',
-          contentUrl: 'https://www.youtube.com/watch?v=oG2QbFquraA',
-          contentDescription:
+          title: 'Nx Conf - Day 1',
+          url: 'https://www.youtube.com/watch?v=oG2QbFquraA',
+          description:
             'Nx Conf is a new, online & free-to-attend, 2-day conference featuring members of the Nx team and community. Join us as we share our ideas and expertise about making development faster, more scalable, and more collaborative.',
           imgUrl: '2021-09-16-f.jpg',
           datePosted: '2021-09-16',
@@ -2386,11 +2386,11 @@ export class PostService {
         {
           id: '16-g',
           slug: '2021-09-16-g',
-          contentType: 'video',
+          type: 'video',
           duration: '55',
-          contentTitle: 'Hallway Track with Igor Minar',
-          contentUrl: 'https://www.youtube.com/watch?v=LISAu_20Lc4',
-          contentDescription:
+          title: 'Hallway Track with Igor Minar',
+          url: 'https://www.youtube.com/watch?v=LISAu_20Lc4',
+          description:
             "Here's our September edition of Hallway Track with the Angular Team, featuring our friend Igor Minar! Come join us every month for Hallway Track and lots of other great live events on AngularNation.net! #YouCanSitWithUs",
           imgUrl: '2021-09-16-g.jpg',
           datePosted: '2021-09-16',
@@ -2407,13 +2407,13 @@ export class PostService {
         {
           id: '16-g',
           slug: '2021-09-16-g',
-          contentType: 'podcast',
+          type: 'podcast',
           duration: '42',
-          contentTitle:
+          title:
             'Episode 151: Engineering Technology from Idea to Release',
-          contentUrl:
+          url:
             'https://webrush.io/episodes/episode-151-engineering-technology-from-idea-to-release',
-          contentDescription:
+          description:
             'Mitali Karmarkar talks with us about working on Azure Static Web Apps. What is a static web app? What was the first line of code written? Where were some challenges faced developing it? Moving from beta to live, and how they gathered feedback. And advice for anyone building a product in 2021.',
           imgUrl: 'thumb-web-rush.png',
           datePosted: '2021-09-16',
@@ -2430,11 +2430,11 @@ export class PostService {
         {
           id: '16-h',
           slug: '2021-09-16-h',
-          contentType: 'video',
+          type: 'video',
           duration: '52',
-          contentTitle: 'Introduction to TypeScript with Josh Goldberg',
-          contentUrl: 'https://www.youtube.com/watch?v=5_RIHHpQcoM',
-          contentDescription:
+          title: 'Introduction to TypeScript with Josh Goldberg',
+          url: 'https://www.youtube.com/watch?v=5_RIHHpQcoM',
+          description:
             "In this video, we'll be walking through some of the basics of #TypeScript with our very own Josh Goldberg. We'll try to answer some of the following questions: - What does TypeScript add (or not add) to JavaScript?",
           imgUrl: '2021-09-16-h.jpg',
           datePosted: '2021-09-16',
@@ -2456,11 +2456,11 @@ export class PostService {
         {
           id: '17-a',
           slug: '2021-09-17-a',
-          contentType: 'video',
+          type: 'video',
           duration: '361',
-          contentTitle: 'Nx Conf - Day 2',
-          contentUrl: 'https://www.youtube.com/watch?v=hlGOaGDsWKg',
-          contentDescription:
+          title: 'Nx Conf - Day 2',
+          url: 'https://www.youtube.com/watch?v=hlGOaGDsWKg',
+          description:
             'Nx Conf is a new, online & free-to-attend, 2-day conference featuring members of the Nx team and community. Join us as we share our ideas and expertise about making development faster, more scalable, and more collaborative.',
           imgUrl: '2021-09-17-a.jpg',
           datePosted: '2021-09-17',
@@ -2477,13 +2477,13 @@ export class PostService {
         {
           id: '17-b',
           slug: '2021-09-17-b',
-          contentType: 'blog',
+          type: 'blog',
           duration: '',
-          contentTitle:
+          title:
             'Create An Angular Library And Consume it locally (with debugging)',
-          contentUrl:
+          url:
             'https://dev.to/jsanddotnet/create-an-angular-library-and-consume-it-locally-with-debugging-cma',
-          contentDescription:
+          description:
             'This tutorial will detail how to: Create an angular library, Create a component in that library, Export that component for use in an application, Create an angular application, Import the local component library, Access debugging for the library from the main application.',
           imgUrl: '2021-09-17-b.png',
           datePosted: '2021-09-17',
@@ -2500,12 +2500,12 @@ export class PostService {
         {
           id: '17-c',
           slug: '2021-09-17-c',
-          contentType: 'video',
+          type: 'video',
           duration: '9',
-          contentTitle:
+          title:
             'Setting Up a Complete Navigation System With Angular Material',
-          contentUrl: 'https://www.youtube.com/watch?v=O4oA4xgfPm4',
-          contentDescription:
+          url: 'https://www.youtube.com/watch?v=O4oA4xgfPm4',
+          description:
             'This video is part of the Angular Material In Depth Course',
           imgUrl: '2021-09-17-c.png',
           datePosted: '2021-09-17',
@@ -2522,12 +2522,12 @@ export class PostService {
         {
           id: '17-d',
           slug: '2021-09-17-d',
-          contentType: 'video',
+          type: 'video',
           duration: '9',
-          contentTitle:
+          title:
             'Route Protection and Authentication in Angular 12 - Using CanActivate Route Guard (2021)',
-          contentUrl: 'https://www.youtube.com/watch?v=bIWhEHlmHsY',
-          contentDescription:
+          url: 'https://www.youtube.com/watch?v=bIWhEHlmHsY',
+          description:
             'This Angular tutorial shows you how to implement route protection using the CanActivate Route guards in angular and implementing them in a simple firebase phone number login application, in Angular 12.',
           imgUrl: '2021-09-17-d.jpg',
           datePosted: '2021-09-17',
@@ -2544,12 +2544,12 @@ export class PostService {
         {
           id: '17-e',
           slug: '2021-09-17-e',
-          contentType: 'video',
+          type: 'video',
           duration: '5',
-          contentTitle:
+          title:
             'Get Param value in parent and child component | Angular Tutorial',
-          contentUrl: 'https://www.youtube.com/watch?v=PE2OdnIln2E',
-          contentDescription: '',
+          url: 'https://www.youtube.com/watch?v=PE2OdnIln2E',
+          description: '',
           imgUrl: '2021-09-17-e.jpg',
           datePosted: '2021-09-17',
           dateCreated: '2021-09-17',
@@ -2565,11 +2565,11 @@ export class PostService {
         {
           id: '17-f',
           slug: '2021-09-17-f',
-          contentType: 'video',
+          type: 'video',
           duration: '6',
-          contentTitle: 'Angular Video Series Part 20 || Reactive Forms',
-          contentUrl: 'https://www.youtube.com/watch?v=j51iL2uAYA0',
-          contentDescription:
+          title: 'Angular Video Series Part 20 || Reactive Forms',
+          url: 'https://www.youtube.com/watch?v=j51iL2uAYA0',
+          description:
             'Today I’m presenting reactive forms. Reactive forms provide a model-driven approach to handling form inputs whose values change over time. Each change to the form state returns a new state, which maintains the integrity of the model between changes.',
           imgUrl: '2021-09-17-f.jpg',
           datePosted: '2021-09-17',
@@ -2586,13 +2586,13 @@ export class PostService {
         {
           id: '17-g',
           slug: '2021-09-17-g',
-          contentType: 'blog',
+          type: 'blog',
           duration: '',
-          contentTitle:
+          title:
             'How to Migrate from AngularJS to Angular 9+ Case Study',
-          contentUrl:
+          url:
             'https://modlogix.com/case-studies/how-to-migrate-from-angularjs-to-angular-9/',
-          contentDescription:
+          description:
             'This was the case of our client whose business growth peaked in the decline of AngularJS. To provide a good level of customer experience, he had to migrate the system to the latest Angular version fast.',
           imgUrl: '2021-09-17-g.png',
           datePosted: '2021-09-17',
@@ -2609,12 +2609,12 @@ export class PostService {
         {
           id: '17-h',
           slug: '2021-09-17-h',
-          contentType: 'video',
+          type: 'video',
           duration: '5',
-          contentTitle:
+          title:
             'Routeception! How to use the Angular Router in Micro-Frontends | Kyle Cannon | ng-conf 2021',
-          contentUrl: 'https://www.youtube.com/watch?v=fQrUGill9M0',
-          contentDescription:
+          url: 'https://www.youtube.com/watch?v=fQrUGill9M0',
+          description:
             "In this talk, we will walk through how using Angular’s Dependency Injection can provide each Micro Frontend with an isolated routing experience. ng-conf is a multi-day Angular conference focused on delivering the highest quality training in the Angular JavaScript framework. 1000's of developers from across the globe join together to attend talks and workshops by the Angular team and other community experts.",
           imgUrl: '2021-09-17-h.jpg',
           datePosted: '2021-09-17',
@@ -2636,12 +2636,12 @@ export class PostService {
         {
           id: '18-a',
           slug: '2021-09-18-a',
-          contentType: 'blog',
+          type: 'blog',
           duration: '',
-          contentTitle: 'Nested Component',
-          contentUrl:
+          title: 'Nested Component',
+          url:
             'https://www.ngdevelop.tech/angular/tutorial/nested-component/',
-          contentDescription:
+          description:
             'So far we have built applications with a two component, one is AppComponent and other one is ProductsComponent. our goal now is to start building applications that are composed of multiple components working together.',
           imgUrl: '2021-09-18-a.png',
           datePosted: '2021-09-18',
@@ -2658,12 +2658,12 @@ export class PostService {
         {
           id: '18-b',
           slug: '2021-09-18-b',
-          contentType: 'blog',
+          type: 'blog',
           duration: '',
-          contentTitle: 'Using Angular Change Detection Effectively.',
-          contentUrl:
+          title: 'Using Angular Change Detection Effectively.',
+          url:
             'https://jagjeets.medium.com/using-angular-change-detection-effectively-f69d6a493c35',
-          contentDescription:
+          description:
             'Change Detection is a mechanism angular uses to keep DOM in synchronization with component data by re-rendering the DOM whenever the data is changed.',
           imgUrl: '2021-09-18-b.png',
           datePosted: '2021-09-18',
@@ -2680,13 +2680,13 @@ export class PostService {
         {
           id: '18-c',
           slug: '2021-09-18-c',
-          contentType: 'podcast',
+          type: 'podcast',
           duration: '57',
-          contentTitle:
+          title:
             'Managing and Capturing Errors in Angular ft. Philipp Kief - AiA 325',
-          contentUrl:
+          url:
             'https://devchat.tv/adv-in-angular/managing-and-capturing-errors-in-angular-ft-philipp-kief-aia-325/',
-          contentDescription:
+          description:
             'Philipp Kief walks through how to manage and capture errors in your Angular application and how to display them to users. He discusses how he standardized error handlers in his applications and what he does to make sure that they get logged someplace.',
           imgUrl: 'thumb-adventures-in-angular.png',
           datePosted: '2021-09-18',
@@ -2708,12 +2708,12 @@ export class PostService {
         {
           id: '19-a',
           slug: '2021-09-19-a',
-          contentType: 'video',
+          type: 'video',
           duration: '40',
-          contentTitle:
+          title:
             'NestJS Angular Chat WebSocket SocketIO - LinkedIn Clone [26]',
-          contentUrl: 'https://www.youtube.com/watch?v=qSlIX5tWvt0',
-          contentDescription:
+          url: 'https://www.youtube.com/watch?v=qSlIX5tWvt0',
+          description:
             'In this video we build out the beginnings of our chat application. We establish a WebSocket connection between our NestJS server and Ionic Angular client. We then create the ability to emit and handle events, creating the ability to send and receive messages.',
           imgUrl: '2021-09-19-a.jpg',
           datePosted: '2021-09-19',
@@ -2730,11 +2730,11 @@ export class PostService {
         {
           id: '19-b',
           slug: '2021-09-19-b',
-          contentType: 'blog',
+          type: 'blog',
           duration: '',
-          contentTitle: 'Angular Library + Storybook',
-          contentUrl: 'https://dev.to/saulodias/angular-library-storybook-44ma',
-          contentDescription:
+          title: 'Angular Library + Storybook',
+          url: 'https://dev.to/saulodias/angular-library-storybook-44ma',
+          description:
             'Storybook is a tool that allows you to easily create and document UI components. It works with several different libraries and frameworks, such as Angular, React, Vue, and many others.',
           imgUrl: '2021-09-19-b.png',
           datePosted: '2021-09-19',
@@ -2751,13 +2751,13 @@ export class PostService {
         {
           id: '19-c',
           slug: '2021-09-19-c',
-          contentType: 'blog',
+          type: 'blog',
           duration: '',
-          contentTitle:
+          title:
             'Adding the log component to an Angular application (ngx-logger)',
-          contentUrl:
+          url:
             'https://dev.to/rodrigokamada/adding-the-log-component-to-an-angular-application-49f9',
-          contentDescription:
+          description:
             'ngx-logger is a simple log component library and allows messages to be displayed on the console and sent to the server using an HTTP request.',
           imgUrl: '2021-09-19-c.png',
           datePosted: '2021-09-19',
@@ -2774,11 +2774,11 @@ export class PostService {
         {
           id: '19-d',
           slug: '2021-09-19-d',
-          contentType: 'video',
+          type: 'video',
           duration: '117',
-          contentTitle: 'Learn Angular with Women Techmakers Doha',
-          contentUrl: 'https://www.youtube.com/watch?v=aeTGdisJEbg',
-          contentDescription:
+          title: 'Learn Angular with Women Techmakers Doha',
+          url: 'https://www.youtube.com/watch?v=aeTGdisJEbg',
+          description:
             'Learn #Angular with Women Techmakers Doha in this first episode of the #LearnwithWTMDoha series! ',
           imgUrl: '2021-09-19-d.png',
           datePosted: '2021-09-19',
@@ -2795,11 +2795,11 @@ export class PostService {
         {
           id: '19-e',
           slug: '2021-09-19-e',
-          contentType: 'video',
+          type: 'video',
           duration: '46',
-          contentTitle: 'Recap: Web Development with Angular (Part 2)',
-          contentUrl: 'https://www.youtube.com/watch?v=gS6jME06bmI',
-          contentDescription:
+          title: 'Recap: Web Development with Angular (Part 2)',
+          url: 'https://www.youtube.com/watch?v=gS6jME06bmI',
+          description:
             'Recording of my lectures at HTL Leonding 2021/22. You can find the course material on GitHub at https://github.com/rstropek/htl-leo-p.... We start the year with some recap lectures. The first one is about web development with Angular. Students have already learned some fundamentals of Angular last year. This lecture should recap important aspects as we will need them in the upcoming weeks.',
           imgUrl: '2021-09-19-e.jpg',
           datePosted: '2021-09-19',
@@ -2816,11 +2816,11 @@ export class PostService {
         {
           id: '19-f',
           slug: '2021-09-19-f',
-          contentType: 'video',
+          type: 'video',
           duration: '46',
-          contentTitle: 'Recap: Web Development with Angular (Part 1)',
-          contentUrl: 'https://www.youtube.com/watch?v=XxnBG5H4xh8',
-          contentDescription:
+          title: 'Recap: Web Development with Angular (Part 1)',
+          url: 'https://www.youtube.com/watch?v=XxnBG5H4xh8',
+          description:
             'Recording of my lectures at HTL Leonding 2021/22. You can find the course material on GitHub at https://github.com/rstropek/htl-leo-p.... We start the year with some recap lectures. The first one is about web development with Angular. Students have already learned some fundamentals of Angular last year. This lecture should recap important aspects as we will need them in the upcoming weeks.',
           imgUrl: '2021-09-19-f.jpg',
           datePosted: '2021-09-19',
@@ -2837,12 +2837,12 @@ export class PostService {
         {
           id: '19-g',
           slug: '2021-09-19-g',
-          contentType: 'video',
+          type: 'video',
           duration: '30',
-          contentTitle:
+          title:
             'Manfred Steyer - Federated Angular: Micro Frontends with Module Federation',
-          contentUrl: 'https://www.youtube.com/watch?v=nPrMmgwOWtc',
-          contentDescription:
+          url: 'https://www.youtube.com/watch?v=nPrMmgwOWtc',
+          description:
             'JSWORLD Conference 2021 - In this session, you learn how to use this mechanism to create micro frontends with Angular. Besides the default scenarios, we also look into dynamic Module Federation, sharing libraries, and dealing with version mismatches. At the end of the session, you know how to use Module Federation in your projects and what the consequences are.',
           imgUrl: '2021-09-19-g.jpg',
           datePosted: '2021-09-19',
@@ -2859,13 +2859,13 @@ export class PostService {
         {
           id: '19-h',
           slug: '2021-09-19-h',
-          contentType: 'blog',
+          type: 'blog',
           duration: '',
-          contentTitle:
+          title:
             'The better side of the Single value Observables in RxJs',
-          contentUrl:
+          url:
             'https://generic-ui.com/blog/the-better-side-of-the-single-value-observables-in-rxjs',
-          contentDescription:
+          description:
             'The RxJs library is a great set of tools that can help you bring your application reactivity to the next level. One of the various features of Observables is that they return a series of values. You can simply connect to a stream of data and receive various values over a period of time. A great example of this is listening to the mouse events or a stream of data that comes from a Websocket. On the other hand ...',
           imgUrl: '2021-09-19-h.png',
           datePosted: '2021-09-19',
@@ -2882,11 +2882,11 @@ export class PostService {
         {
           id: '19-i',
           slug: '2021-09-19-i',
-          contentType: 'video',
+          type: 'video',
           duration: '76',
-          contentTitle: 'Custom Reusable Slider in Angular: Coca Cola Template',
-          contentUrl: 'https://www.youtube.com/watch?v=np-OZzmI_qY',
-          contentDescription:
+          title: 'Custom Reusable Slider in Angular: Coca Cola Template',
+          url: 'https://www.youtube.com/watch?v=np-OZzmI_qY',
+          description:
             "Creating fully customizable and reusable slider in Angular using the design on Coca Cola's store page.",
           imgUrl: '2021-09-19-i.jpg',
           datePosted: '2021-09-19',
@@ -2908,12 +2908,12 @@ export class PostService {
         {
           id: '20-a',
           slug: '2021-09-20-a',
-          contentType: 'video',
+          type: 'video',
           duration: '44',
-          contentTitle:
+          title:
             'Angular 12 Course | Angular Reactive Forms with Angular Material | Signup Form',
-          contentUrl: 'https://www.youtube.com/watch?v=yw_CulQfN5I',
-          contentDescription:
+          url: 'https://www.youtube.com/watch?v=yw_CulQfN5I',
+          description:
             'Angular Reactive Forms. What if I told you about a course that is for FREE and will teach you all the necessary ins and outs of Angular using industry-standard techniques. My GOAL: To create a community where we can learn Angular together.',
           imgUrl: '2021-09-20-a.jpg',
           datePosted: '2021-09-20',
@@ -2930,12 +2930,12 @@ export class PostService {
         {
           id: '20-b',
           slug: '2021-09-20-b',
-          contentType: 'video',
+          type: 'video',
           duration: '141',
-          contentTitle:
+          title:
             'Nx After Dark: Extracting a shell library from an Angular feature',
-          contentUrl: 'https://www.youtube.com/watch?v=eEfSlaCr6PQ',
-          contentDescription:
+          url: 'https://www.youtube.com/watch?v=eEfSlaCr6PQ',
+          description:
             'Continuing our Angular Tour of Heroes routing tutorial case study, we start by extracting a shell library from an Angular feature library and see where it takes us.',
           imgUrl: '2021-09-20-b.jpg',
           datePosted: '2021-09-20',
@@ -2952,11 +2952,11 @@ export class PostService {
         {
           id: '20-c',
           slug: '2021-09-20-c',
-          contentType: 'video',
+          type: 'video',
           duration: '2',
-          contentTitle: 'ng-news: 2021-09-20',
-          contentUrl: 'https://www.youtube.com/watch?v=qs8cTVg8xhk',
-          contentDescription:
+          title: 'ng-news: 2021-09-20',
+          url: 'https://www.youtube.com/watch?v=qs8cTVg8xhk',
+          description:
             'Nx Conf, Angular Nation with Igor Minar, Sarah Drasner, NgRx createFeature, AngularShow - NgRx Effects Best Practices',
           imgUrl: '2021-09-20-c.jpg',
           datePosted: '2021-09-20',
@@ -2973,12 +2973,12 @@ export class PostService {
         {
           id: '20-d',
           slug: '2021-09-20-d',
-          contentType: 'video',
+          type: 'video',
           duration: '22',
-          contentTitle:
+          title:
             'TypeScript Factory Patterns (No BS TS Series 2 Episode 1)',
-          contentUrl: 'https://www.youtube.com/watch?v=-1YhP5IOBCI',
-          contentDescription:
+          url: 'https://www.youtube.com/watch?v=-1YhP5IOBCI',
+          description:
             'No BS TS is back! With the first in an all new series where we cover all the patterns in the original Design Patterns book (and more). This time we are looking at the factory patterns; Abstract Factory, Builder and Factory Method. All of these patterns help you build reusable well architected code.',
           imgUrl: '2021-09-20-d.jpg',
           datePosted: '2021-09-20',
@@ -2995,12 +2995,12 @@ export class PostService {
         {
           id: '20-e',
           slug: '2021-09-20-e',
-          contentType: 'podcast',
+          type: 'podcast',
           duration: '30',
-          contentTitle: 'S1E16 | Change the World Highlight: Sondermind',
-          contentUrl:
+          title: 'S1E16 | Change the World Highlight: Sondermind',
+          url:
             'https://www.spreaker.com/user/14532324/s1e16-change-the-world-highlight-sonderm?utm_medium=widget&utm_source=user%3A14532324&utm_term=episode_title',
-          contentDescription:
+          description:
             'For today’s episode of the Angular Experience, we’re taking a real world look at how Angular is being used to do good in the community. We sat down with Engineering Manager Dallas Cook from Sondermind.com to discuss how they’re using Angular to make it possible for mental health patients to match with qualified therapists and receive virtual or in-person treatment in as little as a matter of hours. Dallas shares his journey into programming and how he became involved at this startup company ...',
           imgUrl: 'thumb-angular-experience.png',
           datePosted: '2021-09-20',
@@ -3018,12 +3018,12 @@ export class PostService {
         {
           id: '20-f',
           slug: '2021-09-20-f',
-          contentType: 'blog',
+          type: 'blog',
           duration: '',
-          contentTitle: 'How to Unit Test an HTTP Service in Angular',
-          contentUrl:
+          title: 'How to Unit Test an HTTP Service in Angular',
+          url:
             'https://braydoncoyer.dev/blog/how-to-unit-test-an-http-service-in-angular/',
-          contentDescription:
+          description:
             "We now understand the importance of testing in isolation and I want to shift our focus to testing an HTTP Service. By the time we wrap up this addition to the series, not only will you understand how to write valuable tests, but you'll also understand what to test - something I feel a lot of newcomers to unit testing struggle to wrap their minds around.",
           imgUrl: '2021-09-20-f.png',
           datePosted: '2021-09-20',
@@ -3041,13 +3041,13 @@ export class PostService {
         {
           id: '20-g',
           slug: '2021-09-20-g',
-          contentType: 'blog',
+          type: 'blog',
           duration: '',
-          contentTitle:
+          title:
             'Add EsLint to existing Angular Project and Configure WebStorm',
-          contentUrl:
+          url:
             'https://dev.to/ussdlover/add-eslint-to-existing-angular-project-and-configure-webstorm-6ja',
-          contentDescription:
+          description:
             'So as Angular CLI no longer generate new project with deprecated tslint, after we create new one we need to add linting manually.',
           imgUrl: '2021-09-20-g.png',
           datePosted: '2021-09-20',
@@ -3065,12 +3065,12 @@ export class PostService {
         {
           id: '20-h',
           slug: '2021-09-20-h',
-          contentType: 'blog',
+          type: 'blog',
           duration: '',
-          contentTitle: 'Ngrx Entity and Selectors. The why and how',
-          contentUrl:
+          title: 'Ngrx Entity and Selectors. The why and how',
+          url:
             'https://dev.to/mcube25/ngrx-entity-and-selectors-the-why-and-how-27e2',
-          contentDescription:
+          description:
             'When using Ngrx to build an application, the problem of deciding the format of storing data inside the store is always there. The problem of handling the business data in a centralized store is something that will need to be done in the application. This process could be repetitive and time consuming. It could lead to handwriting the same reducer logic and selectors for different data types. This can be error prone and slows down the development process. We would cover how to solve this problems using the Ngrx Entity and selectors to improve an application.',
           imgUrl: '2021-09-20-h.png',
           datePosted: '2021-09-20',
@@ -3093,11 +3093,11 @@ export class PostService {
         {
           id: '21-a',
           slug: '2021-09-21-a',
-          contentType: 'video',
+          type: 'video',
           duration: '1',
-          contentTitle: 'Angular Directive Selectors',
-          contentUrl: 'https://www.youtube.com/watch?v=24CZWTAnJMU',
-          contentDescription:
+          title: 'Angular Directive Selectors',
+          url: 'https://www.youtube.com/watch?v=24CZWTAnJMU',
+          description:
             'From this short tip you will know which other possible options has directive selectors. Thanks for watching and like the video if it deserves!',
           imgUrl: '2021-09-21-a.jpg',
           datePosted: '2021-09-21',
@@ -3114,12 +3114,12 @@ export class PostService {
         {
           id: '21-b',
           slug: '2021-09-21-b',
-          contentType: 'blog',
+          type: 'blog',
           duration: '',
-          contentTitle: 'RxJs testing patterns',
-          contentUrl:
+          title: 'RxJs testing patterns',
+          url:
             'https://medium.com/generic-ui/rxjs-testing-patterns-c2cbf207158b',
-          contentDescription:
+          description:
             'Testing the RxJs library may require programmers to change their way of thinking as it brings lots of challenges. It is agnostic from any JavaScript framework and has lots of features which makes it a very popular library amongst frontend technical stack. The reactive way of building applications requires developers to change the way they think about application runtime behavior. That said it may be challenging to understand the data flow and the internal behavior of the application. From my experience, one of the techniques which helps developers to figure out better what the code does is to write more…',
           imgUrl: '2021-09-21-b.png',
           datePosted: '2021-09-21',
@@ -3137,12 +3137,12 @@ export class PostService {
         {
           id: '21-c',
           slug: '2021-09-21-c',
-          contentType: 'video',
+          type: 'video',
           duration: '11',
-          contentTitle:
+          title:
             'Simple State Management in Angular with Ngrx Component Store - Part 2 - Using Effects',
-          contentUrl: 'https://www.youtube.com/watch?v=r2nHUjWKB0I',
-          contentDescription:
+          url: 'https://www.youtube.com/watch?v=r2nHUjWKB0I',
+          description:
             'This is the second part of my introduction to ngrx component store and how to use it to manage state in Angular apps. In this video, I discuss the concept of Effects and how to add them to my simple contacts app!',
           imgUrl: '2021-09-21-c.jpg',
           datePosted: '2021-09-21',
@@ -3159,12 +3159,12 @@ export class PostService {
         {
           id: '21-d',
           slug: '2021-09-21-d',
-          contentType: 'video',
+          type: 'video',
           duration: '7',
-          contentTitle:
+          title:
             'Using and Formatting the Slider Component in Angular Material - Angular Material Tutorial',
-          contentUrl: 'https://www.youtube.com/watch?v=qxoGtK7cRUw',
-          contentDescription:
+          url: 'https://www.youtube.com/watch?v=qxoGtK7cRUw',
+          description:
             "(Beginner Level) - Hey everyone, in today's video we are going to take a look at using the slider component in Angular Materials. Thanks for watching!",
           imgUrl: '2021-09-21-d.png',
           datePosted: '2021-09-21',
@@ -3181,11 +3181,11 @@ export class PostService {
         {
           id: '21-e',
           slug: '2021-09-21-e',
-          contentType: 'video',
+          type: 'video',
           duration: '5',
-          contentTitle: 'Custom Type Guards - TypeScript Narrowing #3',
-          contentUrl: 'https://www.youtube.com/watch?v=FvSaID3TjhI',
-          contentDescription:
+          title: 'Custom Type Guards - TypeScript Narrowing #3',
+          url: 'https://www.youtube.com/watch?v=FvSaID3TjhI',
+          description:
             'The third video in our TypeScript Narrowing series. In this video, I explain Type predicates, How to create custom type guards, BONUS: How to create a type guard by exclusion',
           imgUrl: '2021-09-21-e.jpg',
           datePosted: '2021-09-21',
@@ -3207,12 +3207,12 @@ export class PostService {
         {
           id: '22-a',
           slug: '2021-09-22-a',
-          contentType: 'video',
+          type: 'video',
           duration: '6',
-          contentTitle:
+          title:
             'Angular Library: Learn How To Create And Use It In Your App',
-          contentUrl: 'https://www.youtube.com/watch?v=hIEbJkP1M5E',
-          contentDescription:
+          url: 'https://www.youtube.com/watch?v=hIEbJkP1M5E',
+          description:
             'In this video, you will see how to create an #angular #library, and how to use it in your application.',
           imgUrl: '2021-09-22-a.jpg',
           datePosted: '2021-09-22',
@@ -3229,12 +3229,12 @@ export class PostService {
         {
           id: '22-b',
           slug: '2021-09-22-b',
-          contentType: 'blog',
+          type: 'blog',
           duration: '',
-          contentTitle: 'RxJS - Join Operators',
-          contentUrl:
+          title: 'RxJS - Join Operators',
+          url:
             'https://dev.to/this-is-learning/rxjs-join-operators-2lam',
-          contentDescription:
+          description:
             "Hi Guys and Welcome Back, Today I'll speak about the Join Operators. Some of these operators are similar to other operators shown in the Creation Operators but they are used in different contexts, ok let's start!",
           imgUrl: '2021-09-22-b.png',
           datePosted: '2021-09-22',
@@ -3260,12 +3260,12 @@ export class PostService {
         {
           id: '22-c',
           slug: '2021-09-22-c',
-          contentType: 'video',
+          type: 'video',
           duration: '27',
-          contentTitle:
+          title:
             'Angular Services Tutorial | Learn Angular Dependency Injection | Edureka',
-          contentUrl: 'https://www.youtube.com/watch?v=aqXy-ENzewA',
-          contentDescription:
+          url: 'https://www.youtube.com/watch?v=aqXy-ENzewA',
+          description:
             'This Edureka "Angular Services Tutorial" will help you  understand how to implement create services and use dependency injection in Angular.',
           imgUrl: '2021-09-22-c.jpg',
           datePosted: '2021-09-22',
@@ -3282,11 +3282,11 @@ export class PostService {
         {
           id: '22-d',
           slug: '2021-09-22-d',
-          contentType: 'video',
+          type: 'video',
           duration: '31',
-          contentTitle: 'Recap: Web Development with Angular (Part 3)',
-          contentUrl: 'https://www.youtube.com/watch?v=oMrKex8rDkU',
-          contentDescription:
+          title: 'Recap: Web Development with Angular (Part 3)',
+          url: 'https://www.youtube.com/watch?v=oMrKex8rDkU',
+          description:
             'We start the year with some recap lectures. The first one is about web development with Angular. Students have already learned some fundamentals of Angular last year. This lecture should recap important aspects as we will need them in the upcoming weeks.',
           imgUrl: '2021-09-22-d.jpg',
           datePosted: '2021-09-22',
@@ -3303,12 +3303,12 @@ export class PostService {
         {
           id: '22-e',
           slug: '2021-09-22-e',
-          contentType: 'blog',
+          type: 'blog',
           duration: '',
-          contentTitle: 'Animate your Angular App using Animate.css',
-          contentUrl:
+          title: 'Animate your Angular App using Animate.css',
+          url:
             'https://dev.to/this-is-angular/animate-your-angular-app-using-animate-css-46c5',
-          contentDescription:
+          description:
             'Most of you probably have heard of Animate.css. It is an open-source CSS animation library with lots of predefined animations. Animate.css groups their animations into categories such as entrances, exits, and attention seekers, each addressing a different use case.',
           imgUrl: '2021-09-22-e.png',
           datePosted: '2021-09-22',
@@ -3325,12 +3325,12 @@ export class PostService {
         {
           id: '22-f',
           slug: '2021-09-22-f',
-          contentType: 'blog',
+          type: 'blog',
           duration: '',
-          contentTitle: "A beginner's guide to Dependency Injection",
-          contentUrl:
+          title: "A beginner's guide to Dependency Injection",
+          url:
             'https://dev.to/tobialagbe/a-beginners-guide-to-dependency-injection-3e0m',
-          contentDescription:
+          description:
             'Dependency injection is one of those topics new developers have a not so easy time grasping. This is because a lot of materials online make it seem a lot more complicated than it is. Is dependency injection a tool, framework or library? Well, none of the above. Dependency Injection is a software design pattern.',
           imgUrl: '2021-09-22-f.png',
           datePosted: '2021-09-22',
@@ -3347,12 +3347,12 @@ export class PostService {
         {
           id: '22-g',
           slug: '2021-09-22-g',
-          contentType: 'video',
+          type: 'video',
           duration: '11',
-          contentTitle:
+          title:
             'Angular and Core Web Vitals | Minko Gechev & Houssein | ng-conf 2021',
-          contentUrl: 'https://www.youtube.com/watch?v=g04Lry655_g',
-          contentDescription:
+          url: 'https://www.youtube.com/watch?v=g04Lry655_g',
+          description:
             "Core Web Vitals are user-centric metrics that let you quantify the experience of your site and identify opportunities to improve. Angular and Chrome worked together to enable optimizations by default that will improve users' first input delay, largest contentful paint, and cumulative layout shift. In this talk, we'll explore some of the optimizations Angular does under the hood to improve your CWV metrics. At the second part of the presentation, we'll explore techniques for debugging and optimization to achieve the perfect performance score",
           imgUrl: '2021-09-22-g.jpg',
           datePosted: '2021-09-22',
@@ -3369,12 +3369,12 @@ export class PostService {
         {
           id: '22-h',
           slug: '2021-09-22-h',
-          contentType: 'video',
+          type: 'video',
           duration: '59',
-          contentTitle:
+          title:
             'Web Wednesday: Building and deploying a website with Angular',
-          contentUrl: 'https://www.youtube.com/watch?v=a0caGwdzczE',
-          contentDescription:
+          url: 'https://www.youtube.com/watch?v=a0caGwdzczE',
+          description:
             "Damola 'D' Omotosho rejoins Web Wednesday to walk us through how he built the website for CardCraft, a full service greeting card company. He'll demonstrate how he's leveraging Angular, Azure Static Web Apps and .NET Core to create a great user experience. A serial entrepreneur, CTO and developer, Damola will highlight the creation of a real-world application and how these technologies can aid your development.",
           imgUrl: '2021-09-22-h.jpg',
           datePosted: '2021-09-22',
@@ -3391,11 +3391,11 @@ export class PostService {
         {
           id: '22-i',
           slug: '2021-09-22-i',
-          contentType: 'video',
+          type: 'video',
           duration: '45',
-          contentTitle: 'Ditching Angular ng-deep',
-          contentUrl: 'https://www.youtube.com/watch?v=_3ist1Is2wE',
-          contentDescription:
+          title: 'Ditching Angular ng-deep',
+          url: 'https://www.youtube.com/watch?v=_3ist1Is2wE',
+          description:
             "ng-deep has been deprecated (for a very long time). If you architect your styles correctly, you don't need to use ng-deep ever. Find out how! About the speaker: Ankita is currently working as Principal Software Engineer with Dell. Her most favorite things in life involve outdoor activities, dogs, frontend design and development, Disney, and chocolate - in no particular order.",
           imgUrl: '2021-09-22-i.jpg',
           datePosted: '2021-09-22',
@@ -3412,12 +3412,12 @@ export class PostService {
         {
           id: '22-j',
           slug: '2021-09-22-j',
-          contentType: 'podcast',
+          type: 'podcast',
           duration: '46',
-          contentTitle: 'All Things TypeScript ft. Wycliffe Maina - AiA 326',
-          contentUrl:
+          title: 'All Things TypeScript ft. Wycliffe Maina - AiA 326',
+          url:
             'https://devchat.tv/adv-in-angular/all-things-typescript-ft-wycliffe-maina-aia-326/',
-          contentDescription:
+          description:
             'Tomas Trajan is a developer from Slovakia living in Switzerland. He talks about his experiences using streams, observables, and RxJS in Angular over the last several years. He gives a few lessons and examples of when and how it should be used in your applications.',
           imgUrl: 'thumb-adventures-in-angular.png',
           datePosted: '2021-09-22',
@@ -3439,13 +3439,13 @@ export class PostService {
         {
           id: '23-a',
           slug: '2021-09-23-a',
-          contentType: 'podcast',
+          type: 'podcast',
           duration: '45',
-          contentTitle:
+          title:
             'Episode 152: Creating a Successful Front-End Onboarding Plan with Dana Yudelevich',
-          contentUrl:
+          url:
             'https://webrush.io/episodes/episode-152-creating-a-successful-front-end-onboarding-plan-with-dana-yudelevich',
-          contentDescription:
+          description:
             'Dana Yudelevich talks with us about the tips, tools, and advice for onboarding new team members. Why is onboarding important? How do you set people up for success? Are there any guides or tools Dana recommends for onboarding? And what is Notion?',
           imgUrl: 'thumb-web-rush.png',
           datePosted: '2021-09-23',
@@ -3462,11 +3462,11 @@ export class PostService {
         {
           id: '23-b',
           slug: '2021-09-23-b',
-          contentType: 'release',
+          type: 'release',
           duration: '',
-          contentTitle: 'Angular Pre-Release: 13.0.0-next.7',
-          contentUrl: 'https://github.com/angular/angular/releases',
-          contentDescription: '',
+          title: 'Angular Pre-Release: 13.0.0-next.7',
+          url: 'https://github.com/angular/angular/releases',
+          description: '',
           imgUrl: 'thumb-angular-releases.png',
           datePosted: '2021-09-23',
           dateCreated: '2021-09-22',
@@ -3482,11 +3482,11 @@ export class PostService {
         {
           id: '23-c',
           slug: '2021-09-23-c',
-          contentType: 'video',
+          type: 'video',
           duration: '4',
-          contentTitle: 'Nullish Coalescing',
-          contentUrl: 'https://www.youtube.com/watch?v=O1TZD_w16NY',
-          contentDescription:
+          title: 'Nullish Coalescing',
+          url: 'https://www.youtube.com/watch?v=O1TZD_w16NY',
+          description:
             'Hi friends! In this video our very own Mark Thompson walks through some of the details of using nullish coalescing in Angular. Enjoy!',
           imgUrl: '2021-09-23-c.jpg',
           datePosted: '2021-09-23',
@@ -3503,11 +3503,11 @@ export class PostService {
         {
           id: '23-d',
           slug: '2021-09-23-d',
-          contentType: 'video',
+          type: 'video',
           duration: '14',
-          contentTitle: 'Angular Material Input Field: Lots Of Useful Options',
-          contentUrl: 'https://www.youtube.com/watch?v=UICfZwtr4Pk',
-          contentDescription:
+          title: 'Angular Material Input Field: Lots Of Useful Options',
+          url: 'https://www.youtube.com/watch?v=UICfZwtr4Pk',
+          description:
             'This video is part of the Angular Material In Depth course',
           imgUrl: '2021-09-23-d.jpg',
           datePosted: '2021-09-23',
@@ -3524,11 +3524,11 @@ export class PostService {
         {
           id: '23-e',
           slug: '2021-09-23-e',
-          contentType: 'video',
+          type: 'video',
           duration: '12',
-          contentTitle: 'JavaScript testing: Jest mocks',
-          contentUrl: 'https://www.youtube.com/watch?v=OS5mVVM5vAg',
-          contentDescription:
+          title: 'JavaScript testing: Jest mocks',
+          url: 'https://www.youtube.com/watch?v=OS5mVVM5vAg',
+          description:
             'In this episode, a Senior Frontend Developer at Codete – Magda Kwiecień, will shed some light on using test mocks in one of the most popular JavaScript testing frameworks - Jest. From simple basics to a few lifehacks.',
           imgUrl: '2021-09-23-e.jpg',
           datePosted: '2021-09-23',
@@ -3545,11 +3545,11 @@ export class PostService {
         {
           id: '23-f',
           slug: '2021-09-23-f',
-          contentType: 'video',
+          type: 'video',
           duration: '20',
-          contentTitle: 'Cypress Beginner Tutorial 9 | Assertions',
-          contentUrl: 'https://www.youtube.com/watch?v=YofvBZaTexE',
-          contentDescription:
+          title: 'Cypress Beginner Tutorial 9 | Assertions',
+          url: 'https://www.youtube.com/watch?v=YofvBZaTexE',
+          description:
             'Hi, In this video, we will start learning Assertions in Cypress',
           imgUrl: '2021-09-23-f.jpg',
           datePosted: '2021-09-23',
@@ -3566,11 +3566,11 @@ export class PostService {
         {
           id: '23-g',
           slug: '2021-09-23-g',
-          contentType: 'video',
+          type: 'video',
           duration: '26',
-          contentTitle: 'How to add ngrx state management in micro frontend',
-          contentUrl: 'https://www.youtube.com/watch?v=6RySbwRUIzU',
-          contentDescription:
+          title: 'How to add ngrx state management in micro frontend',
+          url: 'https://www.youtube.com/watch?v=6RySbwRUIzU',
+          description:
             'We explore how to share a single Ngrx store across multiple angular 12 micro frontend applications implemented using webpack 5 module federation. We use Nx tool for handling the monorepo.',
           imgUrl: '2021-09-23-g.jpg',
           datePosted: '2021-09-23',
@@ -3587,13 +3587,13 @@ export class PostService {
         {
           id: '23-h',
           slug: '2021-09-23-h',
-          contentType: 'blog',
+          type: 'blog',
           duration: '',
-          contentTitle:
+          title:
             'Inject dynamic content in Angular components with portals',
-          contentUrl:
+          url:
             'https://blog.logrocket.com/inject-dynamic-content-angular-components-with-portals/',
-          contentDescription:
+          description:
             'As an Angular developer, a large part of our daily job is putting components together to build our app. From time to time, we will need to inject a component or UI template into another component dynamically. In Angular, there are a couple of ways to render dynamic components into a host component before the CDK portals are released. These are...',
           imgUrl: '2021-09-23-h.png',
           datePosted: '2021-09-23',
@@ -3615,11 +3615,11 @@ export class PostService {
         {
           id: '24-a',
           slug: '2021-09-24-a',
-          contentType: 'video',
+          type: 'video',
           duration: '19',
-          contentTitle: 'Angular - Mocking the API',
-          contentUrl: 'https://www.youtube.com/watch?v=fODLFJ8D4VU',
-          contentDescription:
+          title: 'Angular - Mocking the API',
+          url: 'https://www.youtube.com/watch?v=fODLFJ8D4VU',
+          description:
             "You may think your application is working, but if the unit testing doesn't pass, you've got nothing. Turn your red lights green by mocking the HTTP Client.",
           imgUrl: '2021-09-24-a.jpg',
           datePosted: '2021-09-24',
@@ -3636,12 +3636,12 @@ export class PostService {
         {
           id: '24-b',
           slug: '2021-09-24-b',
-          contentType: 'video',
+          type: 'video',
           duration: '40',
-          contentTitle:
+          title:
             'Super Charge Your Angular Apps using State Management with NgRx',
-          contentUrl: 'https://www.youtube.com/watch?v=Zo6y_Fi90S0',
-          contentDescription:
+          url: 'https://www.youtube.com/watch?v=Zo6y_Fi90S0',
+          description:
             'The NgRx Store is a Redux-inspired state management system that enables you to use observables to manage state in an Angular application. The primary advantage to using the NgRx Store is the ability to store all state in a single tree that is accessible from any part of the application.',
           imgUrl: '2021-09-24-b.png',
           datePosted: '2021-09-24',
@@ -3658,12 +3658,12 @@ export class PostService {
         {
           id: '24-c',
           slug: '2021-09-24-c',
-          contentType: 'blog',
+          type: 'blog',
           duration: '',
-          contentTitle: 'Move you angular cli app to Nx',
-          contentUrl:
+          title: 'Move you angular cli app to Nx',
+          url:
             'https://dev.to/this-is-angular/move-you-angular-cli-app-to-nx-3ej4',
-          contentDescription:
+          description:
             'This week I mostly focused on my moving my clone to Nx monorepo. While converting it here are some of my findings on how to convert an Angular cli app to Nx monorepo',
           imgUrl: '2021-09-24-c.png',
           datePosted: '2021-09-24',
@@ -3680,12 +3680,12 @@ export class PostService {
         {
           id: '24-d',
           slug: '2021-09-24-d',
-          contentType: 'video',
+          type: 'video',
           duration: '15',
-          contentTitle:
+          title:
             'Reactive Error-Handling in Angular | Maria Korneeva | ng-conf 2021',
-          contentUrl: 'https://www.youtube.com/watch?v=qOH9XsN8aEs',
-          contentDescription:
+          url: 'https://www.youtube.com/watch?v=qOH9XsN8aEs',
+          description:
             "“Whatever can go wrong, will go wrong.” (Murphy’s Law) - Errors do occur, so we need to handle them properly. This talk covers error-handling strategy that has been proven efficient in multiple enterprise applications. I'll show how you can handle validation, general and silent errors - with code snippets and relevant tests.",
           imgUrl: '2021-09-24-d.jpg',
           datePosted: '2021-09-24',
@@ -3702,12 +3702,12 @@ export class PostService {
         {
           id: '24-e',
           slug: '2021-09-24-e',
-          contentType: 'video',
+          type: 'video',
           duration: '83',
-          contentTitle:
+          title:
             'Angular Seattle World Tour - Emma Twersky, Tracy Lee, and Jia Li',
-          contentUrl: 'https://www.youtube.com/watch?v=y2M_QYdNv6I',
-          contentDescription:
+          url: 'https://www.youtube.com/watch?v=y2M_QYdNv6I',
+          description:
             'Angular Seattle will host an event with industry leaders. Join us for Angular talks in the comfort of your own home where ever you are in the world! World Tour Speakers: Emma Twersky - Developer Relations Engineer, Google | Tracy Lee - RxJS Core Team, Angular Google Developer Expert | Jia Li - Angular/zone.js code owner, Angular Collaborator',
           imgUrl: '2021-09-24-e.jpg',
           datePosted: '2021-09-24',
@@ -3724,12 +3724,12 @@ export class PostService {
         {
           id: '24-f',
           slug: '2021-09-24-f',
-          contentType: 'blog',
+          type: 'blog',
           duration: '',
-          contentTitle: 'What’s new in Angular 13',
-          contentUrl:
+          title: 'What’s new in Angular 13',
+          url:
             'https://www.infoworld.com/article/3629473/whats-new-in-angular-13.html',
-          contentDescription:
+          description:
             'The development of the next major version of the TypeScript-based web framework is underway.',
           imgUrl: '2021-09-24-f.png',
           datePosted: '2021-09-24',
@@ -3751,13 +3751,13 @@ export class PostService {
         {
           id: '25-a',
           slug: '2021-09-25-a',
-          contentType: 'blog',
+          type: 'blog',
           duration: '',
-          contentTitle:
+          title:
             'Hosting an Angular application on GitHub Pages using GitHub Actions',
-          contentUrl:
+          url:
             'https://dev.to/rodrigokamada/hosting-an-angular-application-on-github-pages-using-github-actions-5ag8',
-          contentDescription:
+          description:
             'GitHub is a source code and file storage service with version control using git tool. GitHub Pages is a static file hosting service using a public repository. GitHub Actions is a service to automate the software workflow.',
           imgUrl: '2021-09-25-a.png',
           datePosted: '2021-09-25',
@@ -3774,12 +3774,12 @@ export class PostService {
         {
           id: '25-b',
           slug: '2021-09-25-b',
-          contentType: 'video',
+          type: 'video',
           duration: '43',
-          contentTitle:
+          title:
             'Angular Authentication Tutorial | Angular Authentication and Authorization | Edureka',
-          contentUrl: 'https://www.youtube.com/watch?v=4kQK5NCzKQg',
-          contentDescription:
+          url: 'https://www.youtube.com/watch?v=4kQK5NCzKQg',
+          description:
             'This Edureka "Angular Authentication Tutorial" understand how to implement Authentication and Authorization in Angular using JWT Authentication by building an Application. Take a look at topics covered in Angular Authentication Tutorial video: ',
           imgUrl: '2021-09-25-b.jpg',
           datePosted: '2021-09-25',
@@ -3796,12 +3796,12 @@ export class PostService {
         {
           id: '25-c',
           slug: '2021-09-25-c',
-          contentType: 'video',
+          type: 'video',
           duration: '12',
-          contentTitle:
+          title:
             'Angular Material Table Tutorial with API Data - How to Create an Angular Material Table',
-          contentUrl: 'https://www.youtube.com/watch?v=viIxYWO1g6k',
-          contentDescription:
+          url: 'https://www.youtube.com/watch?v=viIxYWO1g6k',
+          description:
             "In this video, we are going to continue with the Angular Materials Modules and specifically, the Angular Material Table with data from an API (even though it's all fake data). Thanks so much for watching and stay tuned for more Angular Videos!",
           imgUrl: '2021-09-25-c.jpg',
           datePosted: '2021-09-25',
@@ -3818,12 +3818,12 @@ export class PostService {
         {
           id: '25-d',
           slug: '2021-09-25-d',
-          contentType: 'video',
+          type: 'video',
           duration: '24',
-          contentTitle:
+          title:
             'Angular 12 - Building Custom Controls using Control Value Accessors',
-          contentUrl: 'https://www.youtube.com/watch?v=pRF97kss8eI',
-          contentDescription:
+          url: 'https://www.youtube.com/watch?v=pRF97kss8eI',
+          description:
             'In this video I show you how to create your very own custom control in Angular 12, by converting a slider toggle component from a regular component to a form control using Control Value Accessors.',
           imgUrl: '2021-09-25-d.jpg',
           datePosted: '2021-09-25',
@@ -3845,12 +3845,12 @@ export class PostService {
         {
           id: '26-a',
           slug: '2021-09-26-a',
-          contentType: 'blog',
+          type: 'blog',
           duration: '',
-          contentTitle: 'Create DatePicker By TailWindCss + Angular',
-          contentUrl:
+          title: 'Create DatePicker By TailWindCss + Angular',
+          url:
             'https://dev.to/timsar2/create-datepicker-by-tailwindcss-angular-3p8k',
-          contentDescription:
+          description:
             'Tailwind Elements has good Collection of free, popular components like modal, dropdown and many more.',
           imgUrl: '2021-09-26-a.png',
           datePosted: '2021-09-26',
@@ -3867,11 +3867,11 @@ export class PostService {
         {
           id: '26-b',
           slug: '2021-09-26-b',
-          contentType: 'video',
+          type: 'video',
           duration: '6',
-          contentTitle: 'Angular RxJS - Types of Subject',
-          contentUrl: 'https://www.youtube.com/watch?v=6H2hJLIoWVY',
-          contentDescription:
+          title: 'Angular RxJS - Types of Subject',
+          url: 'https://www.youtube.com/watch?v=6H2hJLIoWVY',
+          description:
             'Today I will try to explain the use of subjects.',
           imgUrl: '2021-09-26-b.jpg',
           datePosted: '2021-09-26',
@@ -3888,11 +3888,11 @@ export class PostService {
         {
           id: '26-c',
           slug: '2021-09-26-c',
-          contentType: 'video',
+          type: 'video',
           duration: '66',
-          contentTitle: 'Ana Boca and Angular Nation',
-          contentUrl: 'https://www.youtube.com/watch?v=EbLDgQjyLQo',
-          contentDescription:
+          title: 'Ana Boca and Angular Nation',
+          url: 'https://www.youtube.com/watch?v=EbLDgQjyLQo',
+          description:
             "The Testing Intern and the Big, Giant Cypress: A Beginner's Entry Point into the Cypress Testing Framework w/ Ana Boca. (Angular APAC Meetup)",
           imgUrl: '2021-09-26-c.jpg',
           datePosted: '2021-09-26',
@@ -3909,13 +3909,13 @@ export class PostService {
         {
           id: '26-d',
           slug: '2021-09-26-d',
-          contentType: 'blog',
+          type: 'blog',
           duration: '',
-          contentTitle:
+          title:
             'Full Angular 12 Firebase Authentication Tutorial Example',
-          contentUrl:
+          url:
             'https://www.positronx.io/full-angular-7-firebase-authentication-system/',
-          contentDescription:
+          description:
             'In this Angular tutorial, we are going to build Angular 12 Firebase Authentication system from scratch using Firebase Real-time NoSQL cloud database.',
           imgUrl: '2021-09-26-d.png',
           datePosted: '2021-09-26',
@@ -3937,12 +3937,12 @@ export class PostService {
         {
           id: '27-a',
           slug: '2021-09-27-a',
-          contentType: 'podcast',
+          type: 'podcast',
           duration: '36',
-          contentTitle:
+          title:
             'AMP13: Accelerating Angular Development with Ivy by Lars Gyrup Brink Nielsen',
-          contentUrl: 'https://open.spotify.com/episode/3LN0hjg1RKlRu31xOQId4b',
-          contentDescription:
+          url: 'https://open.spotify.com/episode/3LN0hjg1RKlRu31xOQId4b',
+          description:
             "What's up everyone, this is Dariusz Kalbarczyk co-founder of NG Poland, JS Poland, WorkshopFest.dev & AngularMaster.dev. Welcome back to Angular Master Podcast. Today I met with amazing Lars Gyrup Brink Nielsen. We talked about his new book: Accelerating Angular Development with Ivy.",
           imgUrl: '2021-09-27-a.png',
           datePosted: '2021-09-27',
@@ -3959,12 +3959,12 @@ export class PostService {
         {
           id: '27-b',
           slug: '2021-09-27-b',
-          contentType: 'blog',
+          type: 'blog',
           duration: '',
-          contentTitle: 'Angular Strict Mode is a Game Changer',
-          contentUrl:
+          title: 'Angular Strict Mode is a Game Changer',
+          url:
             'https://delushaandelu.medium.com/angular-strict-mode-is-a-game-changer-72778ed94dcd',
-          contentDescription:
+          description:
             'If you work with TypeScript in the past it’s a programming language that promotes strict data types which helps developers avoid a lot of production issues which can be preventable during the development. Since strict mode is being enabled by default in the latest angular (v.12) we will study why it is a great idea to enable this feature in your app and how we can write codes that are type safe.',
           imgUrl: '2021-09-27-b.png',
           datePosted: '2021-09-27',
@@ -3981,12 +3981,12 @@ export class PostService {
         {
           id: '27-c',
           slug: '2021-09-27-c',
-          contentType: 'blog',
+          type: 'blog',
           duration: '',
-          contentTitle: 'Best practices in test automation with Cypress',
-          contentUrl:
+          title: 'Best practices in test automation with Cypress',
+          url:
             'https://dev.to/walmyrlimaesilv/best-practices-in-test-automation-with-cypress-49ee',
-          contentDescription: '',
+          description: '',
           imgUrl: '2021-09-27-c.png',
           datePosted: '2021-09-27',
           dateCreated: '2021-09-27',
@@ -4002,12 +4002,12 @@ export class PostService {
         {
           id: '27-d',
           slug: '2021-09-27-d',
-          contentType: 'video',
+          type: 'video',
           duration: '61',
-          contentTitle:
+          title:
             'Writing Cypress Tests Without Cucumber - Global Tester’s Day, 2021',
-          contentUrl: 'https://www.youtube.com/watch?v=zcoAWehiZzg',
-          contentDescription:
+          url: 'https://www.youtube.com/watch?v=zcoAWehiZzg',
+          description:
             'Are you a tester stuck using Cucumber and want to make use of the keywords Given/When/Then in cypress?',
           imgUrl: '2021-09-27-d.jpg',
           datePosted: '2021-09-27',
@@ -4024,12 +4024,12 @@ export class PostService {
         {
           id: '27-e',
           slug: '2021-09-27-e',
-          contentType: 'video',
+          type: 'video',
           duration: '27',
-          contentTitle:
+          title:
             'Chat with Cecelia Martinez - Technical Account Manager at Cypress.io',
-          contentUrl: 'https://www.youtube.com/watch?v=hXfTsdEXn0c',
-          contentDescription:
+          url: 'https://www.youtube.com/watch?v=hXfTsdEXn0c',
+          description:
             'In this chat, I had the pleasure of speaking with Cecelia, where she shared about her current and previous position at Cypress.io, how she helps Cypress customers, how Cypress uses its own products and lots of good practices.',
           imgUrl: '2021-09-27-e.png',
           datePosted: '2021-09-27',
@@ -4046,11 +4046,11 @@ export class PostService {
         {
           id: '27-f',
           slug: '2021-09-27-f',
-          contentType: 'video',
+          type: 'video',
           duration: '61',
-          contentTitle: 'Nx Workspace Configuration',
-          contentUrl: 'https://www.youtube.com/watch?v=hC36tSnDM3w',
-          contentDescription:
+          title: 'Nx Workspace Configuration',
+          url: 'https://www.youtube.com/watch?v=hC36tSnDM3w',
+          description:
             'Brandon Roberts is joined by fellow Nrwlian and JavaScript Architect Ben Cabanes to discuss configuring and organizing your Nx workspace.',
           imgUrl: '2021-09-27-f.jpg',
           datePosted: '2021-09-27',
@@ -4067,11 +4067,11 @@ export class PostService {
         {
           id: '27-g',
           slug: '2021-09-27-g',
-          contentType: 'video',
+          type: 'video',
           duration: '5',
-          contentTitle: 'Nobody Wins A Programmer Fight',
-          contentUrl: 'https://www.youtube.com/watch?v=0eoyWYP6I4Q',
-          contentDescription:
+          title: 'Nobody Wins A Programmer Fight',
+          url: 'https://www.youtube.com/watch?v=0eoyWYP6I4Q',
+          description:
             "Healthy debate about things like React versus Vue, OOP versus FP, strongly typed versus dynamically typed is fine, but sometimes it can get ugly. So let's talk about how to mitigate the fallout from a technical debate that gets too heated.",
           imgUrl: '2021-09-27-g.jpg',
           datePosted: '2021-09-27',
@@ -4088,12 +4088,12 @@ export class PostService {
         {
           id: '27-h',
           slug: '2021-09-27-h',
-          contentType: 'podcast',
+          type: 'podcast',
           duration: '39',
-          contentTitle: 'S1E17 | Finding Your Professional Path',
-          contentUrl:
+          title: 'S1E17 | Finding Your Professional Path',
+          url:
             'https://www.spreaker.com/user/14532324/s1e17-finding-your-professional-path?utm_medium=widget&utm_source=user%3A14532324&utm_term=episode_title',
-          contentDescription:
+          description:
             'In today’s episode of The Angular Experience, Brooke and Erik are joined by event organizing pro Alisa Duncan to talk about event networking tips and suggestions for introverts and extroverts alike. They address how to connect with fellow attendees and developers, speakers, sponsors, and potential employers as well.',
           imgUrl: 'thumb-angular-experience.png',
           datePosted: '2021-09-27',
@@ -4111,13 +4111,13 @@ export class PostService {
         {
           id: '27-i',
           slug: '2021-09-27-i',
-          contentType: 'blog',
+          type: 'blog',
           duration: '',
-          contentTitle:
+          title:
             'TypeScript Features Every Angular Developer Needs to Know',
-          contentUrl:
+          url:
             'https://dev.to/bitovi/typescript-features-every-angular-developer-needs-to-know-4b82',
-          contentDescription:
+          description:
             'If you’re an Angular developer, you’re missing out if you’re not using advanced TypeScript features to help you build better code. And it’s well worth the effort: TypeScript has some great features that can make you a stronger Angular developer.',
           imgUrl: '2021-09-27-i.png',
           datePosted: '2021-09-27',
@@ -4139,12 +4139,12 @@ export class PostService {
         {
           id: '28-a',
           slug: '2021-09-28-a',
-          contentType: 'blog',
+          type: 'blog',
           duration: '',
-          contentTitle: 'DRY Way to Manage Subscriptions in Angular Components',
-          contentUrl:
+          title: 'DRY Way to Manage Subscriptions in Angular Components',
+          url:
             'https://dev.to/this-is-angular/dry-way-to-manage-subscriptions-in-angular-components-256j',
-          contentDescription:
+          description:
             'This article explains how to manage subscriptions in Angular components without repeating the same teardown logic in each component. (Cover photo by Tim Swaan on Unsplash.)',
           imgUrl: '2021-09-28-a.png',
           datePosted: '2021-09-28',
@@ -4161,11 +4161,11 @@ export class PostService {
         {
           id: '28-b',
           slug: '2021-09-28-b',
-          contentType: 'video',
+          type: 'video',
           duration: '6',
-          contentTitle: 'Lazy Loading Components in Angular | Angular Tutorial',
-          contentUrl: 'https://www.youtube.com/watch?v=T9GYQNgGu0o',
-          contentDescription:
+          title: 'Lazy Loading Components in Angular | Angular Tutorial',
+          url: 'https://www.youtube.com/watch?v=T9GYQNgGu0o',
+          description:
             'Angular Tutorial: Lazy loading components in angular are used to improve the performance of the application. In the lazy loading components concept, we load only the required modules and components. If we need to work on other pages (other modules) then with the help of lazy loading angular loads the files for these modules and components at the run time.',
           imgUrl: '2021-09-28-b.jpg',
           datePosted: '2021-09-28',
@@ -4182,12 +4182,12 @@ export class PostService {
         {
           id: '28-c',
           slug: '2021-09-28-c',
-          contentType: 'video',
+          type: 'video',
           duration: '14',
-          contentTitle:
+          title:
             'Real-Life Analog of ZIP operator (Reactive Dürüm, 2021)',
-          contentUrl: 'https://www.youtube.com/watch?v=csRIMubWYnw',
-          contentDescription:
+          url: 'https://www.youtube.com/watch?v=csRIMubWYnw',
+          description:
             'In this video, we continue to look for real-life analogs for #rxjs operators, and today we are going to look at the ZIP operator. This operator allows you to combine multiple streams together and emit an array of values arrived from combined streams. Additionally, this operator cares about the order of how values should be paired (it is hard to explain it with text - better one time to see). I hope you will find this video useful. Stay tuned and enjoy watching!',
           imgUrl: '2021-09-28-c.jpg',
           datePosted: '2021-09-28',
@@ -4204,12 +4204,12 @@ export class PostService {
         {
           id: '28-d',
           slug: '2021-09-28-d',
-          contentType: 'blog',
+          type: 'blog',
           duration: '',
-          contentTitle: 'How to manage object in Angular FormControl',
-          contentUrl:
+          title: 'How to manage object in Angular FormControl',
+          url:
             'https://indepth.dev/tutorials/angular/object-in-formcontrol',
-          contentDescription:
+          description:
             'Generally we use FormControl with either string or boolean types and hence it manages only simple values. But what if we want to manage just more than primitive data types? We can do that, let’s see how.',
           imgUrl: '2021-09-28-d.png',
           datePosted: '2021-09-28',
@@ -4226,12 +4226,12 @@ export class PostService {
         {
           id: '28-e',
           slug: '2021-09-28-e',
-          contentType: 'video',
+          type: 'video',
           duration: '4',
-          contentTitle:
+          title:
             'How to integrate Google Pay in Angular - Payments DevBytes',
-          contentUrl: 'https://www.youtube.com/watch?v=kRVBWHQDiAM',
-          contentDescription:
+          url: 'https://www.youtube.com/watch?v=kRVBWHQDiAM',
+          description:
             'The Google Pay Angular component makes integrating Google Pay into your Angular framework easier than ever. Follow along to a tutorial on how to integrate the Google Pay Angular component in Angular using npm. ',
           imgUrl: '2021-09-28-e.jpg',
           datePosted: '2021-09-28',
@@ -4248,12 +4248,12 @@ export class PostService {
         {
           id: '28-f',
           slug: '2021-09-28-f',
-          contentType: 'blog',
+          type: 'blog',
           duration: '',
-          contentTitle: 'String Patterns in TypeScript',
-          contentUrl:
+          title: 'String Patterns in TypeScript',
+          url:
             'https://dev.to/saulodias/string-patterns-in-typescript-5b6k',
-          contentDescription:
+          description:
             'While we wait for a regex type in TypeScript, starting on TypeScript 4.1 we can make use of a very neat trick to create string patterns validations which can come in handy for some simple use cases.',
           imgUrl: '2021-09-28-f.png',
           datePosted: '2021-09-28',
@@ -4270,12 +4270,12 @@ export class PostService {
         {
           id: '28-g',
           slug: '2021-09-28-g',
-          contentType: 'video',
+          type: 'video',
           duration: '134',
-          contentTitle:
+          title:
             'Angular Online Meetup, Sep. 2021 (Rainer Hahnekamp, Duncan Faulkner, Michael Zikes)',
-          contentUrl: 'https://www.youtube.com/watch?v=ZXXDAJ-qIYU',
-          contentDescription:
+          url: 'https://www.youtube.com/watch?v=ZXXDAJ-qIYU',
+          description:
             'RxJS 7 - One Share to Rule them all (Deep Dive) - Rainer Hahnekamp | Angular Material - Form Field Fundamentals - Duncan Faulkner | Micro Frontend Routing – Solutions for mature Applications - Michael Zikes',
           imgUrl: '2021-09-28-g.jpg',
           datePosted: '2021-09-28',
@@ -4297,11 +4297,11 @@ export class PostService {
         {
           id: '28-h',
           slug: '2021-09-28-h',
-          contentType: 'release',
+          type: 'release',
           duration: '',
-          contentTitle: 'Angular Pre-Release: v13.0.0-next.8',
-          contentUrl: 'https://github.com/angular/angular/releases',
-          contentDescription: '',
+          title: 'Angular Pre-Release: v13.0.0-next.8',
+          url: 'https://github.com/angular/angular/releases',
+          description: '',
           imgUrl: 'thumb-angular-releases.png',
           datePosted: '2021-09-28',
           dateCreated: '2021-09-27',
@@ -4323,12 +4323,12 @@ export class PostService {
         {
           id: '29-b',
           slug: '2021-09-29-b',
-          contentType: 'video',
+          type: 'video',
           duration: '18',
-          contentTitle:
+          title:
             'Choose Your Own { Form } Adventure | Jennifer Wadella | ng-conf 2021',
-          contentUrl: 'https://www.youtube.com/watch?v=nfVe55EWe_A',
-          contentDescription:
+          url: 'https://www.youtube.com/watch?v=nfVe55EWe_A',
+          description:
             'Choose Your Own Adventure books can be fun AND anxiety-inducing, much like modern software development. What if I choose the wrong path? Will my software suffer? From state-management to Form Modules in Angular Development, we have lots of paths to choose from. In this session we’ll walk through a Choose Your Own Forms Adventure, exploring paths along the Template-Driven and the Reactive Forms approaches. Which approach will we take? Will one end in disaster and the other in triumph? Better come find out!',
           imgUrl: '2021-09-29-b.jpg',
           datePosted: '2021-09-29',
@@ -4345,12 +4345,12 @@ export class PostService {
         {
           id: '29-c',
           slug: '2021-09-29-c',
-          contentType: 'video',
+          type: 'video',
           duration: '84',
-          contentTitle:
+          title:
             'Angular World Tour: Angular Athens - Deborah Kurata, Tracy Lee, and Emma Twersky',
-          contentUrl: 'https://www.youtube.com/watch?v=qxjt5vlG58s',
-          contentDescription: '',
+          url: 'https://www.youtube.com/watch?v=qxjt5vlG58s',
+          description: '',
           imgUrl: '2021-09-29-c.jpg',
           datePosted: '2021-09-29',
           dateCreated: '2021-09-29',
@@ -4366,12 +4366,12 @@ export class PostService {
         {
           id: '29-d',
           slug: '2021-09-29-d',
-          contentType: 'podcast',
+          type: 'podcast',
           duration: '65',
-          contentTitle: 'E067 - The Human Side of Development',
-          contentUrl:
+          title: 'E067 - The Human Side of Development',
+          url:
             'https://www.spreaker.com/user/ng-conf/e067-the-human-side-of-development',
-          contentDescription:
+          description:
             'This episode of the Angular Show features Sara Faatz, who leads the Telerik and KenoUI Developer Relations team at Progress, and Alyssa Nicoll, an Angular Developer Advocate & Google Developers Expert in Angular. Sara and Alyssa share with the panelists their respective journeys into the dev industry and how they ended up together on the Developer Relations team at Progress.',
           imgUrl: 'thumb-the-angular-show.png',
           datePosted: '2021-09-29',
@@ -4389,12 +4389,12 @@ export class PostService {
         {
           id: '29-e',
           slug: '2021-09-29-e',
-          contentType: 'blog',
+          type: 'blog',
           duration: '',
-          contentTitle: 'How to Use Environment Variables in An Angular App',
-          contentUrl:
+          title: 'How to Use Environment Variables in An Angular App',
+          url:
             'https://dev.to/mick_patterson_/how-to-use-environment-variables-in-an-angular-app-92g',
-          contentDescription:
+          description:
             "Environment variables in an Angular app are extremely useful for storing constants in your app that need to be used frequently, such as API url's, API access keys, Firebase config values and other general flags.",
           imgUrl: '2021-09-29-e.png',
           datePosted: '2021-09-29',
@@ -4411,11 +4411,11 @@ export class PostService {
         {
           id: '29-f',
           slug: '2021-09-29-f',
-          contentType: 'video',
+          type: 'video',
           duration: '80',
-          contentTitle: 'NgRx and Chill',
-          contentUrl: 'https://www.youtube.com/watch?v=0CVNNZ4NoKQ',
-          contentDescription: 'Chat Commands\n!sup\n!ngrx\n!discord',
+          title: 'NgRx and Chill',
+          url: 'https://www.youtube.com/watch?v=0CVNNZ4NoKQ',
+          description: 'Chat Commands\n!sup\n!ngrx\n!discord',
           imgUrl: '2021-09-29-f.jpg',
           datePosted: '2021-09-29',
           dateCreated: '2021-09-29',
@@ -4431,11 +4431,11 @@ export class PostService {
         {
           id: '29-g',
           slug: '2021-09-29-g',
-          contentType: 'video',
+          type: 'video',
           duration: '8',
-          contentTitle: 'Introduction to cypress-data-session package',
-          contentUrl: 'https://www.youtube.com/watch?v=As5yqkoZOx8',
-          contentDescription:
+          title: 'Introduction to cypress-data-session package',
+          url: 'https://www.youtube.com/watch?v=As5yqkoZOx8',
+          description:
             'This video shows the cypress-data-session package that abstracts setting up the test data. We need to provide the data setup function and the data validation methods, and this custom command cy.dataSession takes care of the rest. The setup runs only if the data is not there already, or if the validation function returns false. This speeds up the test a lot, since you no longer need to unnecessarily recreate the data from scratch.',
           imgUrl: '2021-09-29-g.jpg',
           datePosted: '2021-09-29',
@@ -4452,12 +4452,12 @@ export class PostService {
         {
           id: '29-h',
           slug: '2021-09-29-h',
-          contentType: 'blog',
+          type: 'blog',
           duration: '',
-          contentTitle: 'How to convert HTML to PDF using Angular',
-          contentUrl:
+          title: 'How to convert HTML to PDF using Angular',
+          url:
             'https://dev.to/_mnavarros/how-to-convert-html-to-pdf-using-angular-3jj8',
-          contentDescription:
+          description:
             "Yesterday, I was working on Hyperpanels' dashboard feature and my coworker @albertobeiz said the sentence every front-end developer fears: Can we generate a PDF from that?",
           imgUrl: '2021-09-29-h.png',
           datePosted: '2021-09-29',
@@ -4474,13 +4474,13 @@ export class PostService {
         {
           id: '29-i',
           slug: '2021-09-29-i',
-          contentType: 'blog',
+          type: 'blog',
           duration: '',
-          contentTitle:
+          title:
             'Best practice for subscribing to observables in services with Angular',
-          contentUrl:
+          url:
             'https://dev.to/ussdlover/best-practice-for-subscribing-to-observables-in-services-with-angular-1712',
-          contentDescription:
+          description:
             'I do not like to subscribe to observables inside services, as it feels expensive due to the fact that we are not able to unsubscribe from them when we do not need them any more and we all hate memory leaks, right?\nSo the best way to use this solution will be the way that we would be able to unsubscribe from them when we done listening to that observable.',
           imgUrl: '2021-09-29-i.png',
           datePosted: '2021-09-29',
@@ -4498,12 +4498,12 @@ export class PostService {
         {
           id: '29-j',
           slug: '2021-09-29-j',
-          contentType: 'video',
+          type: 'video',
           duration: '28',
-          contentTitle:
+          title:
             'Build Reactive Table (Real world RxJS) | RxJS Tutorials',
-          contentUrl: 'https://www.youtube.com/watch?v=GYLItMyFDIk',
-          contentDescription:
+          url: 'https://www.youtube.com/watch?v=GYLItMyFDIk',
+          description:
             'This is the final video in a series. We apply the concepts covered so far in a relatively realistic scenario.',
           imgUrl: '2021-09-29-j.jpg',
           datePosted: '2021-09-29',
@@ -4525,13 +4525,13 @@ export class PostService {
         {
           id: '30-a',
           slug: '2021-09-30-a',
-          contentType: 'podcast',
+          type: 'podcast',
           duration: '40',
-          contentTitle:
+          title:
             'Episode 153: Single Page Application vs Multi Page Application with Rich Harris',
-          contentUrl:
+          url:
             'https://webrush.io/episodes/episode-153-single-page-application-vs-multi-page-application-with-rich-harris',
-          contentDescription:
+          description:
             'Rich Harris talks about the differences between a SPA and MPA, what role the server rendering plays, what client side hydration is, and the state of modern tooling for developing SPA or MPA. He also shares his thoughts on the evolution of SPA / MPA.',
           imgUrl: 'thumb-web-rush.png',
           datePosted: '2021-09-30',
@@ -4548,12 +4548,12 @@ export class PostService {
         {
           id: '30-b',
           slug: '2021-09-30-b',
-          contentType: 'podcast',
+          type: 'podcast',
           duration: '46',
-          contentTitle: 'TypeScript Mixins – AiA 327',
-          contentUrl:
+          title: 'TypeScript Mixins – AiA 327',
+          url:
             'https://devchat.tv/adv-in-angular/typescript-mixins-aia-327/',
-          contentDescription:
+          description:
             'Armen takes the lead this week to discuss TypeScript usage and how to bring in mixins into the picture as you build more complicated applications with TypeScript.',
           imgUrl: 'thumb-adventures-in-angular.png',
           datePosted: '2021-09-30',
@@ -4570,12 +4570,12 @@ export class PostService {
         {
           id: '30-c',
           slug: '2021-09-30-c',
-          contentType: 'video',
+          type: 'video',
           duration: '23',
-          contentTitle:
+          title:
             'TypeScript Pub/Sub Patterns (No BS TS Series 2 Episode 2)',
-          contentUrl: 'https://www.youtube.com/watch?v=f3Cn0CGytSQ',
-          contentDescription:
+          url: 'https://www.youtube.com/watch?v=f3Cn0CGytSQ',
+          description:
             'In this second episode of No BS TS series 2 we look at the Publish & Subscribe pattern (or the Observer pattern as they call it in the book). This pattern allows you to loosen the coupling in your code and maximize reuse, all while making your code easier to understand.',
           imgUrl: '2021-09-30-c.jpg',
           datePosted: '2021-09-30',
@@ -4592,12 +4592,12 @@ export class PostService {
         {
           id: '30-d',
           slug: '2021-09-30-d',
-          contentType: 'video',
+          type: 'video',
           duration: '45',
-          contentTitle:
+          title:
             'Protractor is Going Away: Now What? Webinar w/ Sauce Labs',
-          contentUrl: 'https://www.youtube.com/watch?v=nxQJ7B2J1CU',
-          contentDescription:
+          url: 'https://www.youtube.com/watch?v=nxQJ7B2J1CU',
+          description:
             "It's official: As of Angular 15, development of Protractor will end. What does this mean? And what should you do about it?",
           imgUrl: '2021-09-30-d.jpg',
           datePosted: '2021-09-30',
@@ -4614,13 +4614,13 @@ export class PostService {
         {
           id: '30-e',
           slug: '2021-09-30-e',
-          contentType: 'blog',
+          type: 'blog',
           duration: '',
-          contentTitle:
+          title:
             'Build A ToDo List Application Using Angular, .Net 5.0 Web API And Microsoft SQL Server',
-          contentUrl:
+          url:
             'https://www.c-sharpcorner.com/article/build-a-todo-list-application-using-angular-net-5-0-web-api-and-microsoft-sql/',
-          contentDescription:
+          description:
             'This article shows how to build an Angular front end of a ToDo list application. This is part 2 of a two-part tutorial. Part 1 showed how to build a ToDo list application using .Net 5 Web API, JWT authentication, and AspNetCore Identity. Part 1  can be found here. This article starts by stating user stories showing how a user wants to use the application.',
           imgUrl: '2021-09-30-e.png',
           datePosted: '2021-09-30',
@@ -4637,12 +4637,12 @@ export class PostService {
         {
           id: '30-f',
           slug: '2021-09-30-f',
-          contentType: 'video',
+          type: 'video',
           duration: '35',
-          contentTitle:
+          title:
             'Nx After Dark: Migrating to standalone project configurations',
-          contentUrl: 'https://www.youtube.com/watch?v=y9YplnYEAGo',
-          contentDescription:
+          url: 'https://www.youtube.com/watch?v=y9YplnYEAGo',
+          description:
             'Migrating the Angular Tour of Heroes routing tutorial Nx workspace to standalone project configurations to reduce merge conflicts and improve affected detection.',
           imgUrl: '2021-09-30-f.jpg',
           datePosted: '2021-09-30',
@@ -4659,12 +4659,12 @@ export class PostService {
         {
           id: '30-g',
           slug: '2021-09-30-g',
-          contentType: 'video',
+          type: 'video',
           duration: '35',
-          contentTitle:
+          title:
             'Cypress.io PH Meetup - Gaining Confidence with Cypress Tests - September 29, 2021',
-          contentUrl: 'https://youtu.be/PN-f6GXvVxM?t=614',
-          contentDescription:
+          url: 'https://youtu.be/PN-f6GXvVxM?t=614',
+          description:
             "Have you ever wanted to refactor mercilessly but didn't want to break the fragile tower? Or have you ever pushed to production only to spend the next few days cleaning up the regressions? You need end-to-end tests, and Cypress is a great, fast way to build them. With a simple JavaScript or TypeScript interface, you can automate browsers to hit those critical functions in your app to prove it works as expected -- this time and every time. Join us to dive into building Cypress tests and leave with the confidence to refactor your way to greatness.",
           imgUrl: '2021-09-30-g.jpg',
           datePosted: '2021-09-30',
@@ -4681,11 +4681,11 @@ export class PostService {
         {
           id: '30-h',
           slug: '2021-09-30-h',
-          contentType: 'video',
+          type: 'video',
           duration: '41',
-          contentTitle: 'Strategic Design with Angular',
-          contentUrl: 'https://www.youtube.com/watch?v=WuXxqyrHBaM',
-          contentDescription:
+          title: 'Strategic Design with Angular',
+          url: 'https://www.youtube.com/watch?v=WuXxqyrHBaM',
+          description:
             'What is domain-driven design?\nWhy do we need it?/nWhat it offers?/nKey Concepts\nWhat is Nx?\nImplementation with Nx\nKey benefits of this implementation',
           imgUrl: '2021-09-30-h.jpg',
           datePosted: '2021-09-30',
@@ -4702,12 +4702,12 @@ export class PostService {
         {
           id: '30-i',
           slug: '2021-09-30-i',
-          contentType: 'video',
+          type: 'video',
           duration: '78',
-          contentTitle:
+          title:
             'Angular Birmingham - Angular Builders (Jeffrey Bosch) & How to communicate with backend services using Angular Http (Muhammad Awais)',
-          contentUrl: 'https://www.youtube.com/watch?v=X2rIhCKOYfs',
-          contentDescription:
+          url: 'https://www.youtube.com/watch?v=X2rIhCKOYfs',
+          description:
             'Muhammad Awais: How to communicate with backend services using Angular Http. Most front-end applications need to communicate with a server over the HTTP protocol, to download or upload data and access other back-end services. Today we will talk about Angular client HTTP API in detail and will see Angular Http in action.\nJeffrey Bosch: Angular Builders, the cool kid under the CLI hood. In this talk we are going to look at the origination of angular builders, what they are, how we use them on a daily base and see how we can make and use our own customer builders.',
           imgUrl: '2021-09-30-i.jpg',
           datePosted: '2021-09-30',
@@ -4724,12 +4724,12 @@ export class PostService {
         {
           id: '30-j',
           slug: '2021-09-30-j',
-          contentType: 'blog',
+          type: 'blog',
           duration: '',
-          contentTitle: 'Angular Routing Guards: Understanding canActivate Guard (Part-2)',
-          contentUrl:
+          title: 'Angular Routing Guards: Understanding canActivate Guard (Part-2)',
+          url:
             'https://medium.com/@knoldus/angular-routing-guards-understanding-canactivate-guard-part-2-1fae4dcf3845',
-          contentDescription:
+          description:
             'Now let\'s start to learn something new about one of the routing guards: canActivate. We will learn what is the canActivate guard is and how to use it to protect the route.',
           imgUrl: '2021-09-30-j.png',
           datePosted: '2021-09-30',
@@ -4751,11 +4751,11 @@ export class PostService {
         {
           id: '01-a',
           slug: '2021-09-01-a',
-          contentType: 'release',
+          type: 'release',
           duration: '',
-          contentTitle: 'Angular Pre-Release: v13.0.0-next.9',
-          contentUrl: 'https://github.com/angular/angular/releases',
-          contentDescription: '',
+          title: 'Angular Pre-Release: v13.0.0-next.9',
+          url: 'https://github.com/angular/angular/releases',
+          description: '',
           imgUrl: 'thumb-angular-releases.png',
           datePosted: '2021-10-01',
           dateCreated: '2021-09-30',
@@ -4771,12 +4771,12 @@ export class PostService {
         {
           id: '01-b',
           slug: '2021-10-01-b',
-          contentType: 'video',
+          type: 'video',
           duration: '6',
-          contentTitle:
+          title:
             'Easy healthy tests with component harnesses | Annie Wang | ng-conf 2021',
-          contentUrl: 'https://www.youtube.com/watch?v=P-rQejsal6A',
-          contentDescription:
+          url: 'https://www.youtube.com/watch?v=P-rQejsal6A',
+          description:
             'Component harnesses let you create a supported API for interacting with a component in tests the same way a user will. This talk will show you how you can use the Angular CDK to build your own harnesses for easier, healthier tests in all environments.\nng-conf is a multi-day Angular conference focused on delivering the highest quality training in the Angular JavaScript framework. 1000\'s of developers from across the globe join together to attend talks and workshops by the Angular team and other community experts.',
           imgUrl: '2021-10-01-b.jpg',
           datePosted: '2021-10-01',
@@ -4793,12 +4793,12 @@ export class PostService {
         {
           id: '01-c',
           slug: '2021-10-01-c',
-          contentType: 'video',
+          type: 'video',
           duration: '149',
-          contentTitle:
+          title:
             'NGConf Workshop Using Angular Elements to Give Enterprise Components a New Lease on Life',
-          contentUrl: 'https://www.youtube.com/watch?v=ZWdjTdVuZjQ',
-          contentDescription:
+          url: 'https://www.youtube.com/watch?v=ZWdjTdVuZjQ',
+          description:
             'This workshop will show you how to reuse valuable components across your entire organization. We’ll take you through the process of converting an already existing component in an enterprise environment into a reusable Web Component through Angular Elements. At the end of this workshop, you’ll know...',
           imgUrl: '2021-10-01-c.jpg',
           datePosted: '2021-10-01',
@@ -4815,12 +4815,12 @@ export class PostService {
         {
           id: '01-d',
           slug: '2021-10-01-d',
-          contentType: 'blog',
+          type: 'blog',
           duration: '',
-          contentTitle:
+          title:
             'Angular OnInit and OnDestroy Example',
-          contentUrl: 'https://www.concretepage.com/angular-2/angular-2-4-oninit-and-ondestroy-example',
-          contentDescription:
+          url: 'https://www.concretepage.com/angular-2/angular-2-4-oninit-and-ondestroy-example',
+          description:
             'This page will walk through Angular OnInit and OnDestroy example. Component and directive has a full lifecycle managed by Angular. The OnInit and OnDestroy interfaces have method declarations as ngOnInit() and ngOnDestroy() respectively. The ngOnInit() is called only one time after the component/directive is constructed and ngOnDestroy() is called just before component/directive is destroyed. The ngOnInit() is used to perform complex logics and fetching data. The ngOnDestroy() is used to release resources to avoid memory leaks. The constructor should be used only for local variable initializations. All complex logics and data fetching related task should be performed in ngOnInit() so that initializing component/directive becomes easy and we need not to think about their complexity. ',
           imgUrl: '2021-10-01-d.png',
           datePosted: '2021-10-01',
@@ -4837,12 +4837,12 @@ export class PostService {
         {
           id: '01-e',
           slug: '2021-10-01-e',
-          contentType: 'video',
+          type: 'video',
           duration: '11',
-          contentTitle:
+          title:
             'How to add Async Validations to your Angular Reactive Forms',
-          contentUrl: 'https://www.youtube.com/watch?v=u7vqbKSqiRI',
-          contentDescription:
+          url: 'https://www.youtube.com/watch?v=u7vqbKSqiRI',
+          description:
             'In this video, I show you how to add Asynchronous validations to your Angular apps using the Reactive Forms API. We\'ll build an email input field which validates whether the entered email is unique or not with a dummy API call.',
           imgUrl: '2021-10-01-e.jpg',
           datePosted: '2021-10-01',

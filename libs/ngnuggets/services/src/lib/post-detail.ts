@@ -1,11 +1,11 @@
 export interface PostDetail {
   id: string;
   slug: string; //                  2021-09-01-A
-  contentType: 'video' | 'blog' | 'podcast' | 'community' | 'release'; 
+  type: 'video' | 'blog' | 'podcast' | 'community' | 'release'; 
   duration?: string;
-  contentTitle: string;
-  contentUrl: string; 
-  contentDescription: string;
+  title: string;
+  url: string; 
+  description: string;
   imgUrl: string;
   datePosted: string;
   dateCreated?: string;

@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { FormControl, FormGroup } from '@angular/forms';
+import { FormBuilder, FormControl, FormGroup } from '@angular/forms';
 
 import { PostDetail, PostService } from '@nx-stevewitman/ngnuggets/services';
 @Component({
@@ -8,19 +8,42 @@ import { PostDetail, PostService } from '@nx-stevewitman/ngnuggets/services';
   styleUrls: ['./admin-submit.component.scss'],
 })
 export class AdminSubmitComponent implements OnInit {
-  form: FormGroup;
+  postForm = this.fb.group({
+    slug: [''],
+    url: [''],
+    type: [''],
+    duration: [''],
+    title: [''],
+    description: [''],
+    imgUrl: [''],
+    datePosted: [''],
+    dateCreated: [''],
+    sourceSite: [''],
+    sourceUrl: [''],
+    authorName: [''],
+    authorUrl: [''],
+    likes: [''],
+    featured: [''],
+    tags: [''],
+    visits: [''],
+    postedBy: ['']
+  });
   types = [
     { value: 'video', viewValue: 'Video' },
     { value: 'blog', viewValue: 'Blog' },
     { value: 'podcast', viewValue: 'Podcast' },
+    { value: 'release', viewValue: 'Release' },
+    { value: 'community', viewValue: 'Community' },
   ];
   typeControl = new FormControl();
 
-  constructor() {
-    this.form = new FormGroup({
-      type: this.typeControl,
-    });
+  constructor(private fb: FormBuilder) {}
+
+  ngOnInit(): void {
+    console.log('ON INIT');
   }
 
-  ngOnInit(): void {}
+  onSubmit() {
+    console.log('SUBMIT CLICKED')
+  }
 }
