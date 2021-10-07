@@ -50,7 +50,9 @@
         },
         "test": {
           "builder": "@nrwl/jest:jest",
-          "outputs": ["coverage/libs/ngnuggets/feat-about"],
+          "outputs": [
+            "coverage/libs/ngnuggets/feat-about"
+          ],
           "options": {
             "jestConfig": "libs/ngnuggets/feat-about/jest.config.js",
             "passWithNoTests": true
@@ -66,7 +68,9 @@
       "architect": {
         "test": {
           "builder": "@nrwl/jest:jest",
-          "outputs": ["coverage/libs/ngnuggets/feat-admin-submit"],
+          "outputs": [
+            "coverage/libs/ngnuggets/feat-admin-submit"
+          ],
           "options": {
             "jestConfig": "libs/ngnuggets/feat-admin-submit/jest.config.js",
             "passWithNoTests": true
@@ -100,7 +104,9 @@
         },
         "test": {
           "builder": "@nrwl/jest:jest",
-          "outputs": ["coverage/libs/ngnuggets/feat-contact"],
+          "outputs": [
+            "coverage/libs/ngnuggets/feat-contact"
+          ],
           "options": {
             "jestConfig": "libs/ngnuggets/feat-contact/jest.config.js",
             "passWithNoTests": true
@@ -125,7 +131,9 @@
         },
         "test": {
           "builder": "@nrwl/jest:jest",
-          "outputs": ["coverage/libs/ngnuggets/feat-donate"],
+          "outputs": [
+            "coverage/libs/ngnuggets/feat-donate"
+          ],
           "options": {
             "jestConfig": "libs/ngnuggets/feat-donate/jest.config.js",
             "passWithNoTests": true
@@ -150,7 +158,9 @@
         },
         "test": {
           "builder": "@nrwl/jest:jest",
-          "outputs": ["coverage/libs/ngnuggets/feat-home"],
+          "outputs": [
+            "coverage/libs/ngnuggets/feat-home"
+          ],
           "options": {
             "jestConfig": "libs/ngnuggets/feat-home/jest.config.js",
             "passWithNoTests": true
@@ -175,7 +185,9 @@
         },
         "test": {
           "builder": "@nrwl/jest:jest",
-          "outputs": ["coverage/libs/ngnuggets/feat-newsletter"],
+          "outputs": [
+            "coverage/libs/ngnuggets/feat-newsletter"
+          ],
           "options": {
             "jestConfig": "libs/ngnuggets/feat-newsletter/jest.config.js",
             "passWithNoTests": true
@@ -200,7 +212,9 @@
         },
         "test": {
           "builder": "@nrwl/jest:jest",
-          "outputs": ["coverage/libs/ngnuggets/feat-post"],
+          "outputs": [
+            "coverage/libs/ngnuggets/feat-post"
+          ],
           "options": {
             "jestConfig": "libs/ngnuggets/feat-post/jest.config.js",
             "passWithNoTests": true
@@ -225,7 +239,9 @@
         },
         "test": {
           "builder": "@nrwl/jest:jest",
-          "outputs": ["coverage/libs/ngnuggets/feat-settings"],
+          "outputs": [
+            "coverage/libs/ngnuggets/feat-settings"
+          ],
           "options": {
             "jestConfig": "libs/ngnuggets/feat-settings/jest.config.js",
             "passWithNoTests": true
@@ -250,7 +266,9 @@
         },
         "test": {
           "builder": "@nrwl/jest:jest",
-          "outputs": ["coverage/libs/ngnuggetsdotcom/feat-sponsors"],
+          "outputs": [
+            "coverage/libs/ngnuggetsdotcom/feat-sponsors"
+          ],
           "options": {
             "jestConfig": "libs/ngnuggetsdotcom/feat-sponsors/jest.config.js",
             "passWithNoTests": true
@@ -275,7 +293,9 @@
         },
         "test": {
           "builder": "@nrwl/jest:jest",
-          "outputs": ["coverage/libs/ngnuggets/feat-submit"],
+          "outputs": [
+            "coverage/libs/ngnuggets/feat-submit"
+          ],
           "options": {
             "jestConfig": "libs/ngnuggets/feat-submit/jest.config.js",
             "passWithNoTests": true
@@ -300,7 +320,9 @@
         },
         "test": {
           "builder": "@nrwl/jest:jest",
-          "outputs": ["coverage/libs/ngnuggets/services"],
+          "outputs": [
+            "coverage/libs/ngnuggets/services"
+          ],
           "options": {
             "jestConfig": "libs/ngnuggets/services/jest.config.js",
             "passWithNoTests": true
@@ -325,7 +347,9 @@
         },
         "test": {
           "builder": "@nrwl/jest:jest",
-          "outputs": ["coverage/libs/ngnuggets/ui-main-nav"],
+          "outputs": [
+            "coverage/libs/ngnuggets/ui-main-nav"
+          ],
           "options": {
             "jestConfig": "libs/ngnuggets/ui-main-nav/jest.config.js",
             "passWithNoTests": true
@@ -422,7 +446,9 @@
         },
         "test": {
           "builder": "@nrwl/jest:jest",
-          "outputs": ["coverage/apps/ngnuggetsdotcom"],
+          "outputs": [
+            "coverage/apps/ngnuggetsdotcom"
+          ],
           "options": {
             "jestConfig": "apps/ngnuggetsdotcom/jest.config.js",
             "passWithNoTests": true
@@ -451,7 +477,9 @@
         "lint": {
           "builder": "@nrwl/linter:eslint",
           "options": {
-            "lintFilePatterns": ["apps/ngnuggetsdotcom-e2e/**/*.{js,ts}"]
+            "lintFilePatterns": [
+              "apps/ngnuggetsdotcom-e2e/**/*.{js,ts}"
+            ]
           }
         }
       }
@@ -464,12 +492,16 @@
         "lint": {
           "builder": "@nrwl/linter:eslint",
           "options": {
-            "lintFilePatterns": ["libs/shared/material/**/*.ts"]
+            "lintFilePatterns": [
+              "libs/shared/material/**/*.ts"
+            ]
           }
         },
         "test": {
           "builder": "@nrwl/jest:jest",
-          "outputs": ["coverage/libs/shared/material"],
+          "outputs": [
+            "coverage/libs/shared/material"
+          ],
           "options": {
             "jestConfig": "libs/shared/material/jest.config.js",
             "passWithNoTests": true
@@ -494,7 +526,9 @@
         },
         "test": {
           "builder": "@nrwl/jest:jest",
-          "outputs": ["coverage/libs/shared/ui-page-not-found"],
+          "outputs": [
+            "coverage/libs/shared/ui-page-not-found"
+          ],
           "options": {
             "jestConfig": "libs/shared/ui-page-not-found/jest.config.js",
             "passWithNoTests": true
@@ -519,7 +553,9 @@
         },
         "test": {
           "builder": "@nrwl/jest:jest",
-          "outputs": ["coverage/libs/shared/ui-post-card"],
+          "outputs": [
+            "coverage/libs/shared/ui-post-card"
+          ],
           "options": {
             "jestConfig": "libs/shared/ui-post-card/jest.config.js",
             "passWithNoTests": true
@@ -544,7 +580,9 @@
         },
         "test": {
           "builder": "@nrwl/jest:jest",
-          "outputs": ["coverage/libs/stevewitman/ui-main-nav"],
+          "outputs": [
+            "coverage/libs/stevewitman/ui-main-nav"
+          ],
           "options": {
             "jestConfig": "libs/stevewitman/ui-main-nav/jest.config.js",
             "passWithNoTests": true
@@ -641,7 +679,9 @@
         },
         "test": {
           "builder": "@nrwl/jest:jest",
-          "outputs": ["coverage/apps/stevewitmandotcom"],
+          "outputs": [
+            "coverage/apps/stevewitmandotcom"
+          ],
           "options": {
             "jestConfig": "apps/stevewitmandotcom/jest.config.js",
             "passWithNoTests": true
@@ -674,7 +714,9 @@
         "lint": {
           "builder": "@nrwl/linter:eslint",
           "options": {
-            "lintFilePatterns": ["apps/stevewitmandotcom-e2e/**/*.{js,ts}"]
+            "lintFilePatterns": [
+              "apps/stevewitmandotcom-e2e/**/*.{js,ts}"
+            ]
           }
         }
       }
