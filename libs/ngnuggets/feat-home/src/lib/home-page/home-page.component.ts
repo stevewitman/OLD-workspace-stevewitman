@@ -62,7 +62,9 @@ export class HomePageComponent implements OnInit {
   }
 
   getPost(id) {
-    return docData(doc(this.afs, 'posts', id));
+    const result = docData(doc(this.afs, 'posts', id));
+    console.log('FIRESTORE RESULT:', result);
+    return result;
   }
 
 }
