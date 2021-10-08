@@ -8,7 +8,7 @@ export interface PostDetail {
   description: string;
   imgUrl: string;
   datePosted: string;
-  dateCreated?: string;
+  dateSource?: string;
   postedBy: string;
   sourceSite?: string; //           YouTube, Angular University website
   sourceUrl?: string; //            'https://www.youtube.com/'
