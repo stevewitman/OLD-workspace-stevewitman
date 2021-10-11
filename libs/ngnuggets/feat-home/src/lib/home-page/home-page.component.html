@@ -6,8 +6,7 @@
   <ng-container *ngIf="recentPosts; else loading">
     <div *ngFor="let dayGroup of recentPosts" class="daily-section">
       <div class="divider-line">
-        <!-- <span class="divider-text">{{ dayGroup.date }}</span> -->
-        <span class="divider-text">Sept 1, 2021</span>
+        <span class="divider-text">{{ dayGroup.date }}</span>
       </div>
       <ng-container *ngIf="dayGroup; else loading">
       <div class="flex-container">

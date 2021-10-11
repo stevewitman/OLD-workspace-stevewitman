@@ -22,27 +22,27 @@ export class HomePageComponent implements OnInit, AfterViewInit {
   constructor(private postService: PostService, private db: AngularFirestore) {}
 
   ngOnInit() {
+    this.postService.getPosts();
+
     this.posts$ = this.onReadPosts();
 
   }
 
   ngAfterViewInit() {
-    console.log('recentPosts:', this.recentPosts);
-        this.posts$
-    .subscribe(snaps => {
-      snaps.forEach(snap => {
-        const date = snap.id;
-        const postsData = snap.data();
-        const posts = Object.values(postsData)
-        this.recentPosts.push(
-          {
-            date: date,
-            dailyPosts: posts
-          }
-        )
-      })
-      console.log(this.recentPosts)
-    });
+    this.posts$
+      .subscribe(snaps => {
+        snaps.forEach(snap => {
+          const date = snap.id;
+          const postsData = snap.data();
+          const posts = Object.values(postsData)
+          this.recentPosts.push(
+            {
+              date: date,
+              dailyPosts: posts
+            }
+          )
+        })
+      });
   }
 
   openPostInTab(url: string) {
