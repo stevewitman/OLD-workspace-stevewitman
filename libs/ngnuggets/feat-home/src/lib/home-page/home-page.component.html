@@ -4,20 +4,21 @@
   <!-- ======================================= -->
 
   <ng-container *ngIf="recentPosts; else loading">
-    <!-- <div *ngFor="let dayGroup of posts" class="daily-section">
+    <div *ngFor="let dayGroup of recentPosts" class="daily-section">
       <div class="divider-line">
-        <span class="divider-text">{{ dayGroup.date }}</span>
-      </div> -->
-      <!-- <ng-container *ngIf="dayGroup; else loading"> -->
+        <!-- <span class="divider-text">{{ dayGroup.date }}</span> -->
+        <span class="divider-text">Sept 1, 2021</span>
+      </div>
+      <ng-container *ngIf="dayGroup; else loading">
       <div class="flex-container">
-        <div *ngFor="let post of recentPosts">
+        <div *ngFor="let post of dayGroup.dailyPosts">
           <sh-post-card
             [post]="post"
             (postClicked)="openPostInTab($event)"
           ></sh-post-card>
         </div>
-      <!-- </div> -->
-      <!-- </ng-container> -->
+      </div>
+      </ng-container>
     </div>
   </ng-container>
   <ng-template #loading>

@@ -22,32 +22,27 @@ export class HomePageComponent implements OnInit, AfterViewInit {
   constructor(private postService: PostService, private db: AngularFirestore) {}
 
   ngOnInit() {
-    // this.posts$ = this.postService.getPosts().pipe(delay(200));
-
-    //     ).pipe(
-    //         groupBy(post => post.datePosted),
-    // mergeMap(group => group
-    //   .pipe(
-    //     reduce((acc, cur) => {
-    //         acc.values.push(cur);
-    //         return acc;
-    //       },
-    //       { key: group.key, values: [] }
-    // )
     this.posts$ = this.onReadPosts();
-    this.posts$
-    .subscribe(snaps => {
-        snaps.forEach(snap => {
-          this.recentPosts.push(snap.data());
-          console.log(snap.id);
-          console.log(snap.data());
-        })
-    });
 
   }
 
   ngAfterViewInit() {
     console.log('recentPosts:', this.recentPosts);
+        this.posts$
+    .subscribe(snaps => {
+      snaps.forEach(snap => {
+        const date = snap.id;
+        const postsData = snap.data();
+        const posts = Object.values(postsData)
+        this.recentPosts.push(
+          {
+            date: date,
+            dailyPosts: posts
+          }
+        )
+      })
+      console.log(this.recentPosts)
+    });
   }
 
   openPostInTab(url: string) {
@@ -60,16 +55,8 @@ export class HomePageComponent implements OnInit, AfterViewInit {
 
   onReadPosts() {
     return this.db
-      .collection('posts', (ref) =>
-        ref.orderBy('datePosted', 'desc')
-      )
+      .collection('dailyPosts')
       .get();
-    // .subscribe(snaps => {
-    //   snaps.forEach(snap => {
-    //     console.log(snap.id);
-    //     console.log(snap.data());
-    //   })
-    // });
   }
 
 }

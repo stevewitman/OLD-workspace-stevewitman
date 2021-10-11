@@ -2,7 +2,8 @@
   <a (click)="onPostClicked(post.url)">
     <div>
       <img
-        src="assets/images/{{ post.imgUrl }}"
+        *ngIf="post.imgUrl"
+        [src]="post.imgUrl"
         class="card-image"
         matTooltip="{{post.description}}"
         matTooltipClass="description-tooltip"
