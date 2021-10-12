@@ -3,7 +3,7 @@
     <div>
       <img
         *ngIf="post.imgUrl"
-        [src]="post.imgUrl"
+        src="assets/images/{{ post.imgUrl }}"
         class="card-image"
         matTooltip="{{post.description}}"
         matTooltipClass="description-tooltip"

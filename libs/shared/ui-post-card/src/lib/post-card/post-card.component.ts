@@ -16,7 +16,6 @@ export class PostCardComponent implements OnInit {
 
   onPostClicked(value: string) {
     this.postClicked.emit(value);
-    console.log('onPostClicked');
   }
 
 
