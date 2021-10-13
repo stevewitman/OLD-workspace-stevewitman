@@ -11,6 +11,7 @@ import { map, take, tap } from 'rxjs/operators';
 })
 export class AdminSubmitComponent implements OnInit {
   today = new Date();
+  tagsArray: string[] = [];
   postForm = this.fb.group({
     slug: [this.findNextSlug(this.todayString(this.today))],
     url: [''],
@@ -46,6 +47,7 @@ export class AdminSubmitComponent implements OnInit {
     // this.autoSlug(this.todayString(this.today));
     // this.watchSlug();
     this.watchUrl();
+    this.watchTags();
   }
 
   onSubmit() {
@@ -205,10 +207,24 @@ export class AdminSubmitComponent implements OnInit {
     });
   }
 
+  watchTags() {
+    // TODO remove later or use to check for slightly diff duplicates. Also maybe replace with chips and add tag btn.
+    this.postForm.get('tags').valueChanges.subscribe((val) => {
+      this.tagsArray = this.csvToArray(val)
+    })
+
+  }
+
   dateChanged() {
     const datePosted = this.postForm.get('datePosted').value
     const dateString = this.todayString(datePosted)
     this.findNextSlug(dateString)
+  }
+
+  csvToArray(val: string): string[] {
+    return val.split(',').map(function (item: string) {
+      return item.trim();
+    });;
   }
 
 }

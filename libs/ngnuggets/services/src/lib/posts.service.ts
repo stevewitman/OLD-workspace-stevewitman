@@ -17,7 +17,7 @@ export class PostService {
   getPosts() {
     const results = [];
     return posts.reverse();
-    
+
     const posts$ = this.db
       .collection('dailyPosts')
       .get()
@@ -57,4 +57,6 @@ export class PostService {
   openSourceInTab(externalUrl: string): void {
     window.open(externalUrl, '_blank');
   }
+
+  
 }
