@@ -5,7 +5,7 @@
       <!-- slug -->
       <div class="form-row">
         <!-- <div class="form-label">Slug</div> -->
-        <div class="form-field">
+        <div class="form-field same-row">
           <mat-form-field appearance="fill" color="primary">
             <mat-label>Slug</mat-label>
             <input
@@ -18,6 +18,8 @@
               autocomplete="off"
             />
           </mat-form-field>
+          <!-- <button mat-raised-button (click)="findNextSlug()">Next</button> -->
+          
         </div>
       </div>
 
@@ -128,6 +130,7 @@
               formControlName="datePosted"
               matInput
               [matDatepicker]="datePosted"
+              (dateChange)="dateChanged()"
             />
             <mat-datepicker-toggle
               matSuffix
@@ -138,22 +141,22 @@
         </div>
       </div>
 
-      <!-- dateCreated -->
+      <!-- dateSource -->
       <div class="form-row">
         <!-- <div class="form-label">Date Created</div> -->
         <div class="form-field">
           <mat-form-field appearance="fill" color="primary">
             <mat-label>Date Created</mat-label>
             <input
-              formControlName="dateCreated"
+              formControlName="dateSource"
               matInput
-              [matDatepicker]="dateCreated"
+              [matDatepicker]="dateSource"
             />
             <mat-datepicker-toggle
               matSuffix
-              [for]="dateCreated"
+              [for]="dateSource"
             ></mat-datepicker-toggle>
-            <mat-datepicker #dateCreated></mat-datepicker>
+            <mat-datepicker #dateSource></mat-datepicker>
           </mat-form-field>
         </div>
       </div>
@@ -224,25 +227,6 @@
             <input
               formControlName="authorUrl"
               id="authorUrl"
-              type="text"
-              class="input-text"
-              matInput
-              #delivery
-              autocomplete="off"
-            />
-          </mat-form-field>
-        </div>
-      </div>
-
-      <!-- featured -->
-      <div class="form-row">
-        <!-- <div class="form-label">Featured</div> -->
-        <div class="form-field">
-          <mat-form-field appearance="fill" color="primary">
-            <mat-label>Featured</mat-label>
-            <input
-              formControlName="featured"
-              id="featured"
               type="text"
               class="input-text"
               matInput

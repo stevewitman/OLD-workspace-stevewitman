@@ -15,9 +15,9 @@ export class PostService {
   constructor(private db: AngularFirestore) {}
 
   getPosts() {
-    // return of(this.posts.reverse());
     const results = [];
     return posts.reverse();
+    
     const posts$ = this.db
       .collection('dailyPosts')
       .get()
@@ -42,13 +42,13 @@ export class PostService {
   }
 
   convertSnaps<T>(results) {
-  return <T[]> results.docs.map((snap) => {
-    return {
-      date: snap.id,
-      ...(<any>snap.data()),
-    };
-  })
-}
+    return <T[]> results.docs.map((snap) => {
+      return {
+        date: snap.id,
+        ...(<any>snap.data()),
+      };
+    })
+  }
 
   // getPostBySlug(slug: string) {
   //   // return of(this.posts.find((obj) => obj.slug === slug));
