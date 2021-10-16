@@ -1,6 +1,6 @@
 import { Component, EventEmitter, Input, OnInit, Output } from '@angular/core';
 
-import { PostDetail } from '@nx-stevewitman/ngnuggets/services';
+import { Post } from '@nx-stevewitman/ngnuggets/services';
 
 @Component({
   selector: 'sh-post-card',
@@ -8,7 +8,7 @@ import { PostDetail } from '@nx-stevewitman/ngnuggets/services';
   styleUrls: ['./post-card.component.scss'],
 })
 export class PostCardComponent implements OnInit {
-  @Input() post: PostDetail;
+  @Input() post: Post;
   @Output() postClicked = new EventEmitter<string>();
   likesText: string;
 

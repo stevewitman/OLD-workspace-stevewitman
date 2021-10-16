@@ -2,7 +2,7 @@ import { Component, OnInit } from '@angular/core';
 import { AngularFirestore } from '@angular/fire/firestore';
 import { FormBuilder, FormControl, FormGroup } from '@angular/forms';
 
-import { PostDetail, PostService } from '@nx-stevewitman/ngnuggets/services';
+import { Post, PostService } from '@nx-stevewitman/ngnuggets/services';
 import { map, take, tap } from 'rxjs/operators';
 @Component({
   selector: 'nx-stevewitman-admin-submit',

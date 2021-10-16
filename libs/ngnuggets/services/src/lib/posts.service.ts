@@ -2,7 +2,7 @@ import { Injectable } from '@angular/core';
 import { from, of } from 'rxjs';
 import { map, tap } from 'rxjs/operators';
 
-import { PostDetail } from './post-detail';
+import { Post } from './post';
 import { posts } from './posts'
 
 import { AngularFirestore } from '@angular/fire/firestore';
@@ -58,5 +58,5 @@ export class PostService {
     window.open(externalUrl, '_blank');
   }
 
-  
+
 }

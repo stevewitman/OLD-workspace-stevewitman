@@ -2,7 +2,7 @@ import { Component, EventEmitter, OnInit, Output } from '@angular/core';
 import { ActivatedRoute } from '@angular/router';
 import { animate, style, transition, trigger } from '@angular/animations';
 
-import { PostDetail, PostService } from '@nx-stevewitman/ngnuggets/services';
+import { Post, PostService } from '@nx-stevewitman/ngnuggets/services';
 // import { PostSummary } from '@nx-stevewitman/ngnuggets/services';
 // import { PostDetail } from '@nx-stevewitman/ngnuggets/services';
 
@@ -21,7 +21,7 @@ import { PostDetail, PostService } from '@nx-stevewitman/ngnuggets/services';
 })
 export class PostPageComponent implements OnInit {
   slug: string;
-  post: PostDetail;
+  post: Post;
   stared = false;
   bookmarked = false;
   likesText = "";

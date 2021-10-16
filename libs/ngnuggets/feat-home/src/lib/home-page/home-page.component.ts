@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 
 import { PostService } from '@nx-stevewitman/ngnuggets/services';
-import { PostDetail } from '@nx-stevewitman/ngnuggets/services';
+import { Post } from '@nx-stevewitman/ngnuggets/services';
 // import 'firebase/firestore';
 // import { AngularFirestore } from '@angular/fire/firestore';
 
