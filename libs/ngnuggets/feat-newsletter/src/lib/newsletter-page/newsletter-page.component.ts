@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { FormGroup, FormBuilder, Validators } from '@angular/forms';
+import { FormGroup, FormBuilder, Validators, FormControl } from '@angular/forms';
 import { animate, style, transition, trigger } from '@angular/animations';
 
 import {
@@ -23,7 +23,6 @@ import {
   ],
 })
 export class NewsletterPageComponent implements OnInit {
-
   deliveryFrequency: string[] = ['Weekly', 'Bi-Weekly', 'Monthly', 'Quarterly'];
   deliveryMethod: string[] = ['Email', 'Twitter DM'];
   newsletterForm: FormGroup;
@@ -108,15 +107,17 @@ export class NewsletterPageComponent implements OnInit {
     if (this.method.value === 'Email') {
       newsletterRequest.method = 'email';
       newsletterRequest.address = this.address.value.toLowerCase().trim();
-    } else if (this.method.value === 'Twitter DM' && this.isValidTwitterHandle()) {
+    } else if (
+      this.method.value === 'Twitter DM' &&
+      this.isValidTwitterHandle()
+    ) {
       newsletterRequest.method = 'twitter';
       newsletterRequest.address = this.address.value;
     } else if (this.method.value === 'Twitter DM' && this.isValidTwitterUrl()) {
-      newsletterRequest.method = 'twitter';      
+      newsletterRequest.method = 'twitter';
       newsletterRequest.address = '@' + this.address.value.split('/').pop();
     }
     console.log(newsletterRequest);
-    
   }
 
   isOptionSelected(i, control) {
