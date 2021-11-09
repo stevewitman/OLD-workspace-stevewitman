@@ -2,7 +2,9 @@
   <h1 class="page-title">Latest ANGULAR News, Blogs, Videos and More ...</h1>
   <!-- <div> -->
   <!-- ======================================= -->
-
+  <!-- <div *ngFor="let tag of uniqueTags">
+<span>'{{ tag }}', </span>
+  </div> -->
   <ng-container *ngIf="recentPosts; else loading">
     <div *ngFor="let dayGroup of recentPosts" class="daily-section">
       <div class="divider-line">
@@ -24,6 +26,8 @@
     <div>L o a d i n g . . .</div>
   </ng-template>
 
+
+  
   <!-- ======================================= -->
   <svg
     version="1.1"

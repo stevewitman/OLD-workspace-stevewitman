@@ -1,0 +1,285 @@
+:host-context()
+@Inject
+@ViewChild
+@ViewChildren
+@ngneat/until-destroy
+AST
+Accessibility
+Actions
+ActivatedRoute
+Angular 13
+Angular Architecture
+Angular CDK
+Angular Elements
+Angular Material
+Angular Universal
+AngularFire 7
+Animations
+Architecture
+Assertions
+Async Pipe
+AsyncSubject
+Attribute Binding
+Attributes
+Auth
+Authentication
+Autocomplete
+Azure
+Bash Scripts
+Behavior Subject
+Bootstrap
+Builders
+Bundle Size
+Button
+CDK
+CLI
+CORS
+CanActivate
+Capacitor
+Change Detection
+Checkbox
+Chips
+Code Coverage
+Community
+Component Store (ComponentStore?)
+Components
+Container Presenter
+Content Projection
+Control Value Accessors
+ControlValueAccessor
+Cookies
+Coomponent Harnesses
+Creation Operators
+Custom Directive
+Cypress
+Cypresss
+DOM Manipulation
+Data Table
+Debugging
+Decorators
+Dependency Injection
+Deploy
+Deployment
+Destructuring
+Directives
+Docker
+Domain Driven Design
+Dot Files
+Dummies
+Dynamic Components
+Dynamic Factory
+ESLint
+Effects
+Enums
+Environments
+Error Handling
+Errors
+Event Binding
+Factory Pattern
+Fakes
+Feature Flags
+Firebase
+FlexLayoutModule
+Form Fields
+FormControl
+Forms
+Generics
+Getters/Setters
+GitHub Actions
+Github Pages
+Google
+Google Chart
+Google Maps
+Google Pay
+GraphQL
+Guards
+HTTP
+HTTP Client
+HTTP Interceptors
+Hasura
+HostListener
+Hot vs Cold
+Hover
+HttpClient
+Infinite Scroll
+InjectionToken
+Input
+Input Decorator
+Interceptors
+Interfaces
+Internationalization
+Intersection Observer
+Ionic
+Iterator Pattern
+Ivy
+JSDoc
+JWT
+Jasmine
+Jest
+Karma
+Lazy Loading
+Libraries
+Library
+Lifecycle Hooks
+Linters
+Local Storage
+Lodash-es
+Micro Frontend Routing
+Micro Frontends
+Migrate
+Migration
+Mixins
+Mocks
+Module Federation
+Modules
+Navigation
+NestJS
+NextJS
+NgRX
+NgRX Entity
+NgRx
+NgRx Data
+Ngxs
+Notifications
+Nullish Coalescing
+Nullish Coalescing Operator
+Nx
+Observables
+Observer
+Open Source
+Optional Modules
+Output Decorator
+PDF
+PWA
+Pagination
+Paginator
+Path Mapping
+Path Parameters
+Performance
+Phone
+Pipes
+Portals
+Preloading
+PrimeNG
+PrismJS
+Progress
+Promises
+Property Binding
+Protractor
+Pub/Sub Pattern
+QueryList
+Reactive Forms
+Reducers
+ReplaySubject
+Route Guards
+Route Params
+RouteReuseStrategy
+Router
+Router Outlets
+Routing
+RxJS
+RxJS 7
+RxJs
+SPA
+SSR
+Schematics
+Scully
+Security
+Selectors
+Services
+Share
+ShareReplay
+Single Page App
+Slider
+Social Media Buttons
+Spinner
+Standalone Components
+State Management
+Storybook
+Strict Mode
+Stubs
+Style Binding
+Styles
+Subject
+Subjects
+Subscription Management
+Subscriptions
+Tabs
+Tagged Union Types
+Tailwind
+Template Driven Forms
+Template-Driven Forms
+Testiing
+Testing
+Theming
+Tour of Heroes
+Transloco
+Two-Way Data Binding
+TypeScript
+Typescript
+Unit Testing
+Unit Tests
+Universal
+Update
+Utility Types
+VSCode
+Validation
+VievChild
+View Encapsulation
+Virtual Scroll
+Void Subject
+Workspace
+architecture
+catchError
+catchError()
+cloneDeep
+combineLatestAll
+concatMap
+cooncatAll
+createFeature
+debounceTime
+distinctUntilChanged
+exhaustAll
+exhaustMap
+git
+i18n
+library
+map
+mergeAll
+mergeMap
+module
+multicast
+ng-container
+ng-content
+ng-deep
+ng-template
+ngAfterContentChecked
+ngAfterContentInit
+ngContent
+ngDoCheck
+ngFor
+ngIf
+ngOnChanges
+ngOnDestroy
+ngOnInit
+ngSwitch
+ngTemplateOutlet
+ngx-bootstrap
+ngx-logger
+onPush
+range
+reCAPTCHA
+shareReplay()
+startWith
+switchAll
+switchMap
+takeUntil
+takeUntil()
+testing
+tooltip
+trackBy
+useFactory
+viewContainerRef
+withLatestFrom
+workspace
+zip operator
