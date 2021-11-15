@@ -93,14 +93,13 @@ Google Maps
 Google Pay
 GraphQL
 Guards
-HTTP
+HttpClient
 HTTP Client
 HTTP Interceptors
 Hasura
+HostBinding
 HostListener
 Hot vs Cold
-Hover
-HttpClient
 Infinite Scroll
 InjectionToken
 Input
