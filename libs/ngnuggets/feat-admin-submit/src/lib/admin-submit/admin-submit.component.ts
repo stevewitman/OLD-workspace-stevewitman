@@ -76,7 +76,9 @@ export class AdminSubmitComponent implements OnInit {
         });
       });
   }
-
+  /**
+   * @param  {Date} today
+   */
   todayString(today: Date) {
     let month = '' + (today.getMonth() + 1);
     let day = '' + today.getDate();

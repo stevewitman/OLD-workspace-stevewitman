@@ -226,6 +226,7 @@ VievChild
 View Encapsulation
 Virtual Scroll
 Void Subject
+Web Sockets
 Workspace
 architecture
 catchError
