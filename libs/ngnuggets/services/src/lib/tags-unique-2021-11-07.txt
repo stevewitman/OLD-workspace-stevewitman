@@ -3,6 +3,7 @@
 @ViewChild
 @ViewChildren
 @ngneat/until-destroy
+AOT
 AST
 Accessibility
 Actions
