@@ -185,6 +185,7 @@ Schematics
 Scully
 Security
 Selectors
+Service with a Subject
 Services
 Share
 ShareReplay
@@ -200,7 +201,6 @@ Stubs
 Style Binding
 Styles
 Subject
-Subjects
 Subscription Management
 Subscriptions
 Tabs
