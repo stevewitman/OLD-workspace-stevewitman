@@ -9,7 +9,6 @@ Accessibility
 Actions
 ActivatedRoute
 Angular 13
-Angular Architecture
 Angular CDK
 Angular Elements
 Angular Material
@@ -229,7 +228,6 @@ Virtual Scroll
 Void Subject
 Web Sockets
 Workspace
-architecture
 catchError
 catchError()
 cloneDeep
