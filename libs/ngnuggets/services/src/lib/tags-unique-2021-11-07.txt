@@ -49,6 +49,7 @@ ControlValueAccessor
 Cookies
 Coomponent Harnesses
 Creation Operators
+CRUD
 Custom Directive
 Cypress
 Cypresss
@@ -60,6 +61,7 @@ Dependency Injection
 Deploy
 Deployment
 Destructuring
+Dialog
 Directives
 Docker
 Domain Driven Design
@@ -93,7 +95,6 @@ Google Pay
 GraphQL
 Guards
 HttpClient
-HTTP Client
 HTTP Interceptors
 Hasura
 HostBinding
@@ -176,11 +177,10 @@ Router
 Router Outlets
 Routing
 RxJS
-RxJS 7
-RxJs
 SPA
 SSR
 Schematics
+Schedulers
 Scully
 Security
 Selectors
@@ -190,7 +190,6 @@ Share
 ShareReplay
 Single Page App
 Slider
-Social Media Buttons
 Spinner
 Standalone Components
 State Management

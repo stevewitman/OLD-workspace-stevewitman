@@ -15,6 +15,7 @@ export interface Post {
   sourceUrl: string;
   authorName: string;
   authorUrl: string;
+  speakers: string[];
   likes: number;
   tags: string[];
   visits: number;

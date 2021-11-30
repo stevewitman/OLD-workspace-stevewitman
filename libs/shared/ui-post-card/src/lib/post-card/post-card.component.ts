@@ -11,8 +11,11 @@ export class PostCardComponent implements OnInit {
   @Input() post: Post;
   @Output() postClicked = new EventEmitter<string>();
   likesText: string;
+  tooltip: string;
 
-  ngOnInit() {}
+  ngOnInit() {
+    this.tooltip = `${this.post.description}\n\nSPEAKERS: ${this.post.speakers}\n\nTAGS: ${this.post.tags}`;
+  }
 
   onPostClicked(value: string) {
     this.postClicked.emit(value);
