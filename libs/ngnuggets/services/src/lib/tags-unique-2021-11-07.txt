@@ -199,7 +199,6 @@ Stubs
 Style Binding
 Styles
 Subject
-Subscription Management
 Subscriptions
 Tabs
 Tagged Union Types
