@@ -25,7 +25,7 @@ Auth
 Autocomplete
 Azure
 Bash Scripts
-Behavior Subject
+BehaviorSubject
 Bootstrap
 Builders
 Bundle Size
