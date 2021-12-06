@@ -25,7 +25,6 @@ export const posts = [
   //       authorName: 'The Angular Show',
   //       authorUrl: 'https://www.spreaker.com/show/angular-show',
   //       speakers: ['Misko Hevery'],
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -47,7 +46,6 @@ export const posts = [
   //       authorName: 'Brandon Roberts',
   //       authorUrl: 'https://www.youtube.com/c/Lengstorf/videos',
   //       speakers: ['Brandon Roberts'],
-  //       likes: 0,
   //       tags: ['NgRx', 'State Management'],
   //     },
   //     {
@@ -68,7 +66,6 @@ export const posts = [
   //       authorName: 'Nevyan Neykov',
   //       authorUrl: 'https://www.youtube.com/c/NevyanNeykov/videos',
   //       speakers: ['Nevyan Neykov'],
-  //       likes: 0,
   //       tags: ['Modules'],
   //     },
   //     {
@@ -90,7 +87,6 @@ export const posts = [
   //       authorName: 'Dev by RayRay',
   //       authorUrl: 'https://hashnode.com/@devbyrayray',
   //       speakers: [],
-  //       likes: 0,
   //       tags: [
   //         'RxJS',
   //         'Subject',
@@ -119,7 +115,6 @@ export const posts = [
   //       authorUrl:
   //         'https://www.youtube.com/channel/UCFT4YVZl7AFia7rZBTEvavw/videos',
   //       speakers: ['Kevin Kreuzer'],
-  //       likes: 0,
   //       tags: ['TypeScript', 'Keyof'],
   //     },
   //     {
@@ -141,7 +136,6 @@ export const posts = [
   //       authorName: 'Idris Shedu',
   //       authorUrl: 'https://dev.to/ishedu',
   //       speakers: ['Idris Shedu'],
-  //       likes: 0,
   //       tags: ['Tailwind'],
   //     },
   //   ],
@@ -168,7 +162,6 @@ export const posts = [
   //       authorName: '',
   //       authorUrl: '',
   //       speakers: ['Han Dong', 'Prerak Sanghvi'],
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -189,7 +182,6 @@ export const posts = [
   //       authorName: 'Adventures In Angular',
   //       authorUrl: 'https://devchat.tv/show/adventures-in-angular/',
   //       speakers: ['Tomas Trajan'],
-  //       likes: 0,
   //       tags: ['RxJS'],
   //     },
   //     {
@@ -210,7 +202,6 @@ export const posts = [
   //       authorName: 'Netanel Basal',
   //       authorUrl: 'https://netbasal.com',
   //       speakers: ['Netanel Basal'],
-  //       likes: 0,
   //       tags: ['Modules', 'useFactory'],
   //     },
   //     {
@@ -231,7 +222,6 @@ export const posts = [
   //       authorName: '',
   //       authorUrl: '',
   //       speakers: ['Arvind Rai'],
-  //       likes: 0,
   //       tags: ['Preloading'],
   //     },
   //   ],
@@ -259,7 +249,6 @@ export const posts = [
   //       authorName: 'The Code Angle',
   //       authorUrl: 'https://www.youtube.com/channel/UChi_aILZkMMx8_KlVAsbI7g',
   //       speakers: ['Deji Adesoga'],
-  //       likes: 0,
   //       tags: ['Firebase', 'Auth', 'Phone'],
   //     },
   //     {
@@ -280,7 +269,6 @@ export const posts = [
   //       authorName: 'Tomasz Flis',
   //       authorUrl: 'https://dev.to/tomwebwalker',
   //       speakers: ['Tomasz Flis'],
-  //       likes: 0,
   //       tags: ['CDK'],
   //     },
   //     {
@@ -301,7 +289,6 @@ export const posts = [
   //       authorName: 'Angular Master Podcast',
   //       authorUrl: 'https://open.spotify.com/show/1wgZAEEIoRZ8eP78LTbyZf',
   //       speakers: ['Michael Hladky'],
-  //       likes: 0,
   //       tags: ['Performance'],
   //     },
   //     {
@@ -322,7 +309,6 @@ export const posts = [
   //       authorName: 'Angular',
   //       authorUrl: 'https://www.youtube.com/channel/UCbn1OgGei-DV7aSRo_HaAiw',
   //       speakers: [],
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -343,7 +329,6 @@ export const posts = [
   //       authorName: 'Dan Fletcher',
   //       authorUrl: 'https://www.youtube.com/channel/UCBab7VnuJvcBtp3CUvu_AHw',
   //       speakers: ['Dan Fletcher'],
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -366,7 +351,6 @@ export const posts = [
   //       authorName: 'Rodrigo Kamada',
   //       authorUrl: 'https://dev.to/rodrigokamada',
   //       speakers: ['Rodrigo Kamada'],
-  //       likes: 0,
   //       tags: [],
   //     },
   //   ],
@@ -394,7 +378,6 @@ export const posts = [
         authorName: 'Leela Web Dev',
         authorUrl: 'https://www.youtube.com/c/LeelaWebDev/videos',
         speakers: ['Leela Narasimha'],
-        likes: 0,
         tags: ['RxJS', 'range', 'Schedulers'],
       },
     ],
@@ -421,7 +404,6 @@ export const posts = [
         authorName: 'Hesham A. Othman',
         authorUrl: 'https://medium.com/@heshamaothman',
         speakers: ['Hesham A. Othman'],
-        likes: 0,
         tags: ['Pipes'],
       },
       {
@@ -443,7 +425,6 @@ export const posts = [
         authorName: 'Dipak Telangre',
         authorUrl: 'https://www.youtube.com/channel/UCxz0NFTSGeE4fgaHTD8fASA',
         speakers: ['Dipak Telangre'],
-        likes: 0,
         tags: ['Dependency Injection'],
       },
       {
@@ -465,7 +446,6 @@ export const posts = [
         authorName: 'Lars Gyrup Brink Nielsen',
         authorUrl: 'https://www.youtube.com/channel/UCsZWzmsdKz2VA49XXBK5TQA',
         speakers: ['Lars Gyrup Brink Nielsen'],
-        likes: 0,
         tags: ['Nx'],
       },
       {
@@ -487,7 +467,6 @@ export const posts = [
         authorName: 'WebGentle',
         authorUrl: 'https://www.youtube.com/channel/UC2Us1KkV7BMm5Rp6tV6tTxg',
         speakers: [],
-        likes: 0,
         tags: ['ngSwitch'],
       },
       {
@@ -508,7 +487,6 @@ export const posts = [
         authorName: 'Genka',
         authorUrl: 'https://www.youtube.com/channel/UCBTwKzJg-BR56tKWO5CT7XA',
         speakers: [],
-        likes: 0,
         tags: ['NgRx'],
       },
     ],
@@ -533,7 +511,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'Code Shots With Profanis',
   //       authorUrl: 'https://www.youtube.com/channel/UCgJAoZCYx1Dk3iGPHSIgV1A',
-  //       likes: 0,
   //       tags: ['Cypress'],
   //     },
   //     {
@@ -553,7 +530,6 @@ export const posts = [
   //       sourceUrl: '',
   //       authorName: 'Angular Community Discord',
   //       authorUrl: 'https://discord.com/invite/angular',
-  //       likes: 0,
   //       tags: ['Community'],
   //     },
   //     {
@@ -573,7 +549,6 @@ export const posts = [
   //       sourceUrl: 'https://spreaker.com',
   //       authorName: 'Angular Experience',
   //       authorUrl: 'https://angular-experience.web.app/episodes',
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -594,7 +569,6 @@ export const posts = [
   //       sourceUrl: 'https://angularnation.net',
   //       authorName: '',
   //       authorUrl: '',
-  //       likes: 0,
   //       tags: ['Community'],
   //     },
   //     {
@@ -615,7 +589,6 @@ export const posts = [
   //         'https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc',
   //       authorName: 'Igor Filippov',
   //       authorUrl: 'https://dev.to/igorfilippov3',
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -636,7 +609,6 @@ export const posts = [
   //         'https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc',
   //       authorName: 'Jonathan Gamble',
   //       authorUrl: 'https://dev.to/jdgamble555',
-  //       likes: 0,
   //       tags: ['Firebase'],
   //     },
   //   ],
@@ -662,7 +634,6 @@ export const posts = [
   //       authorName: 'Decoded Frontend',
   //       authorUrl: 'https://www.youtube.com/channel/UCSj1Igu3ejxqcQISNEmx8VQ',
   //       speakers: ['Dmytro Mezhenskyi'],
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -683,7 +654,6 @@ export const posts = [
   //         'https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc',
   //       authorName: 'bob.js',
   //       authorUrl: 'https://dev.to/rfornal',
-  //       likes: 0,
   //       tags: ['Testing', 'Unit Tests'],
   //     },
   //     {
@@ -703,7 +673,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'Simon Grimm',
   //       authorUrl: 'https://www.youtube.com/channel/UCZZPgUIorPao48a1tBYSDgg',
-  //       likes: 0,
   //       tags: ['Google Maps', 'Capacitor', 'Ionic'],
   //     },
   //     {
@@ -724,7 +693,6 @@ export const posts = [
   //         'https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc',
   //       authorName: 'Yann L',
   //       authorUrl: 'https://dev.to/ylerjen',
-  //       likes: 0,
   //       tags: ['Libraries'],
   //     },
   //     {
@@ -743,7 +711,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'WebGentle',
   //       authorUrl: 'https://www.youtube.com/channel/UC2Us1KkV7BMm5Rp6tV6tTxg',
-  //       likes: 0,
   //       tags: ['Modules', 'Architecture'],
   //     },
   //     {
@@ -764,7 +731,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'Angular Singapore',
   //       authorUrl: 'https://www.youtube.com/channel/UC57AdalYQXH-vwufLNEc6Yg',
-  //       likes: 0,
   //       tags: [
   //         'Styles',
   //         'NgRx Data',
@@ -793,7 +759,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'Fireship',
   //       authorUrl: 'https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA',
-  //       likes: 0,
   //       tags: ['git'],
   //     },
   //     {
@@ -813,7 +778,6 @@ export const posts = [
   //       sourceUrl: 'https://freecodecamp.org',
   //       authorName: 'Nishant Kumar',
   //       authorUrl: 'https://www.freecodecamp.org/news/author/nishant-kumar/',
-  //       likes: 0,
   //       tags: ['ngFor', 'ngIf'],
   //     },
   //     {
@@ -833,7 +797,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.org',
   //       authorName: 'Lucas Paganini',
   //       authorUrl: 'https://www.youtube.com/channel/UCb2qfrlxS0kK9vca_fpjdNQ',
-  //       likes: 0,
   //       tags: ['TypeScript'],
   //     },
   //     {
@@ -854,7 +817,6 @@ export const posts = [
   //       sourceUrl: 'https://indepth.dev/',
   //       authorName: 'Maciej Wojcik',
   //       authorUrl: 'https://indepth.dev/authors/1132/maciej',
-  //       likes: 0,
   //       tags: ['Architecture', 'Container Presenter'],
   //     },
   //   ],
@@ -880,7 +842,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'Joshua Morony',
   //       authorUrl: 'https://www.youtube.com/channel/UCbVZdLngJH6KOJvpAOO3qTw',
-  //       likes: 0,
   //       tags: ['Firebase', 'Cypress', 'Testing'],
   //     },
   //     {
@@ -901,7 +862,6 @@ export const posts = [
   //         'https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc',
   //       authorName: 'Luca Del Puppo',
   //       authorUrl: 'https://dev.to/puppo',
-  //       likes: 0,
   //       tags: ['RxJS', 'Observer', 'Subscriptions'],
   //     },
   //     {
@@ -921,7 +881,6 @@ export const posts = [
   //       sourceUrl: 'https://www.telerik.com',
   //       authorName: 'Nwose Lotanna Victor',
   //       authorUrl: 'https://www.telerik.com/blogs/author/nwose-lotanna',
-  //       likes: 0,
   //       tags: ['Event Binding'],
   //     },
   //     {
@@ -941,7 +900,6 @@ export const posts = [
   //       sourceUrl: 'https://www.youtube.com',
   //       authorName: 'JS Frameworks',
   //       authorUrl: 'https://www.youtube.com/channel/UC0vx9plMP1DkVA-34vLRZZA',
-  //       likes: 0,
   //       tags: ['NgRx', 'Schematics'],
   //     },
   //     {
@@ -961,7 +919,6 @@ export const posts = [
   //       sourceUrl: 'https://www.youtube.com',
   //       authorName: 'Adnan Halilovic',
   //       authorUrl: 'https://www.youtube.com/channel/UC8prCZick--FmgLme0lAdvw',
-  //       likes: 0,
   //       tags: ['Custom Directive'],
   //     },
   //     {
@@ -982,7 +939,6 @@ export const posts = [
   //       sourceUrl: 'https://www.youtube.com',
   //       authorName: 'GDGMENA',
   //       authorUrl: 'https://www.youtube.com/channel/UC4Yf0L-AWUIMnf1Kp3TqwSw',
-  //       likes: 0,
   //       tags: ['Services'],
   //     },
   //     {
@@ -1003,7 +959,6 @@ export const posts = [
   //       authorName: 'Brandon Roberts',
   //       authorUrl: 'https://www.youtube.com/channel/UClb3aBqsBD_srhaSGTAEq-Q',
   //       speakers: ['Brandon Roberts']
-  //       likes: 0,
   //       tags: ['NgRx'],
   //     },
   //   ],
@@ -1030,7 +985,6 @@ export const posts = [
   //       sourceUrl: 'https://www.youtube.com',
   //       authorName: 'Coding Under Pressure',
   //       authorUrl: 'https://www.youtube.com/channel/UCdGYTnk-Ll4S6yOsYwU8D2w',
-  //       likes: 0,
   //       tags: ['Hover'],
   //     },
   //     {
@@ -1050,7 +1004,6 @@ export const posts = [
   //       sourceUrl: 'https://www.youtube.com',
   //       authorName: 'Rui Wang',
   //       authorUrl: 'https://www.youtube.com/channel/UCFq1SLf028sZZykdLc_uI_A',
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -1070,7 +1023,6 @@ export const posts = [
   //       sourceUrl: 'https://www.youtube.com',
   //       authorName: 'Briebug',
   //       authorUrl: 'https://www.youtube.com/channel/UChGk7LxRkAvabubVS6LW8tw',
-  //       likes: 0,
   //       tags: ['Unit Tests', 'Dummies', 'Fakes', 'Mocks', 'Stubs'],
   //     },
   //     {
@@ -1090,7 +1042,6 @@ export const posts = [
   //       sourceUrl: 'https://www.youtube.com',
   //       authorName: 'Jenning Ho',
   //       authorUrl: 'https://dev.to/j3nnning',
-  //       likes: 0,
   //       tags: ['RxJS', 'Subscriptions'],
   //     },
   //     {
@@ -1111,7 +1062,6 @@ export const posts = [
   //       authorName: 'Brandon Roberts',
   //       authorUrl: 'https://www.youtube.com/channel/UClb3aBqsBD_srhaSGTAEq-Q',
   //       speakers: ['Brandon Roberts']
-  //       likes: 0,
   //       tags: ['NgRx', 'Component Store'],
   //     },
   //     {
@@ -1131,7 +1081,6 @@ export const posts = [
   //       sourceUrl: 'https://open.spotify.com',
   //       authorName: 'Angular Master Podcast',
   //       authorUrl: 'https://open.spotify.com/show/1wgZAEEIoRZ8eP78LTbyZf',
-  //       likes: 0,
   //       tags: ['Community'],
   //     },
   //     {
@@ -1152,7 +1101,6 @@ export const posts = [
   //         'https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc',
   //       authorName: 'Adrian Matei',
   //       authorUrl: 'https://dev.to/codever',
-  //       likes: 0,
   //       tags: ['Routing', 'Path Parameters'],
   //     },
   //     {
@@ -1173,7 +1121,6 @@ export const posts = [
   //         'https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc',
   //       authorName: 'LinearB',
   //       authorUrl: 'https://dev.to/linearb',
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -1193,7 +1140,6 @@ export const posts = [
   //       sourceUrl: 'https://www.angulararchitects.io',
   //       authorName: 'Manfred Steyer',
   //       authorUrl: '',
-  //       likes: 0,
   //       tags: ['Architecture', 'Nx'],
   //     },
   //   ],
@@ -1219,7 +1165,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'Coding Tutorials',
   //       authorUrl: 'https://www.youtube.com/channel/UCqWQzlUDdllnLmtgfSgYTCA',
-  //       likes: 0,
   //       tags: ['HTTP', 'HttpClient', 'CORS'],
   //     },
   //     {
@@ -1240,7 +1185,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: "Let's Program",
   //       authorUrl: 'https://www.youtube.com/channel/UCW4PLi-ObJt3m6YTSEQY3gw',
-  //       likes: 0,
   //       tags: ['Auth', 'Reactive Forms', 'Routing'],
   //     },
   //     {
@@ -1260,7 +1204,6 @@ export const posts = [
   //       sourceUrl: 'https://medium.com/tag/angular/latest',
   //       authorName: 'Raghuvardhan Karanam',
   //       authorUrl: 'https://raghuvardhankaranam.medium.com',
-  //       likes: 0,
   //       tags: ['Directives'],
   //     },
   //     {
@@ -1281,7 +1224,6 @@ export const posts = [
   //         'https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc',
   //       authorName: 'David Dal Busco',
   //       authorUrl: 'https://dev.to/daviddalbusco',
-  //       likes: 0,
   //       tags: ['RxJS'],
   //     },
   //     {
@@ -1301,7 +1243,6 @@ export const posts = [
   //         'https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc',
   //       authorName: 'Rodrigo Kamada',
   //       authorUrl: 'https://dev.to/rodrigokamada',
-  //       likes: 0,
   //       tags: ['reCAPTCHA'],
   //     },
   //     {
@@ -1323,7 +1264,6 @@ export const posts = [
   //         'https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc',
   //       authorName: 'AnnaSharland',
   //       authorUrl: 'https://dev.to/annasharland',
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -1344,7 +1284,6 @@ export const posts = [
   //         'https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc',
   //       authorName: 'Zara Cooper',
   //       authorUrl: 'https://dev.to/zaracooper',
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -1365,7 +1304,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: "QA Box Let's Test",
   //       authorUrl: 'https://www.youtube.com/channel/UCYCeVQLyn3vwykI4kb_NIVA',
-  //       likes: 0,
   //       tags: ['Testing', 'Cypress', 'Code Coverage'],
   //     },
   //     {
@@ -1385,7 +1323,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'Angular University',
   //       authorUrl: 'https://www.youtube.com/channel/UC3cEGKhg3OERn-ihVsJcb7A',
-  //       likes: 0,
   //       tags: ['Angular Material'],
   //     },
   //   ],
@@ -1411,7 +1348,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'Adnan Halilovic',
   //       authorUrl: 'https://www.youtube.com/channel/UC8prCZick--FmgLme0lAdvw',
-  //       likes: 0,
   //       tags: ['Pipes'],
   //     },
   //     {
@@ -1432,7 +1368,6 @@ export const posts = [
   //         'https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc',
   //       authorName: 'Chuck Blaine',
   //       authorUrl: 'https://dev.to/cblaine',
-  //       likes: 0,
   //       tags: ['Testing', 'Jasmine', 'Karma', 'NgRx'],
   //     },
   //   ],
@@ -1458,7 +1393,6 @@ export const posts = [
   //         'https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc',
   //       authorName: 'Jinto Jose',
   //       authorUrl: 'https://dev.to/jintoppy',
-  //       likes: 0,
   //       tags: ['RxJS', 'Observables', 'Promises'],
   //     },
   //     {
@@ -1479,7 +1413,6 @@ export const posts = [
   //         'https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc',
   //       authorName: 'Ankit Tanna',
   //       authorUrl: 'https://dev.to/ankittanna',
-  //       likes: 0,
   //       tags: ['TypeScript'],
   //     },
   //   ],
@@ -1506,7 +1439,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'Prasad Rao',
   //       authorUrl: 'https://www.youtube.com/channel/UCkRE94ToJj2jhlo3seDThaw',
-  //       likes: 0,
   //       tags: ['Pagination'],
   //     },
   //     {
@@ -1527,7 +1459,6 @@ export const posts = [
   //       authorName: 'TechshareSKK',
   //       authorUrl: 'https://www.youtube.com/channel/UCD8gC85u512FeCFzRV4Ll-A',
   //       speakers: ['Sai Kumar Korthivada'],
-  //       likes: 0,
   //       tags: ['Testing'],
   //     },
   //     {
@@ -1546,7 +1477,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'Tech with Prince Harsha',
   //       authorUrl: 'https://www.youtube.com/channel/UC_0jKHC_1o1djPkumW5HYHw',
-  //       likes: 0,
   //       tags: ['TypeScript'],
   //     },
   //     {
@@ -1566,7 +1496,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'ng-conf',
   //       authorUrl: 'https://www.youtube.com/channel/UCm9iiIfgmVODUJxINecHQkA',
-  //       likes: 0,
   //       tags: ['Template Driven Forms'],
   //     },
   //     {
@@ -1587,7 +1516,6 @@ export const posts = [
   //       sourceUrl: 'https://spreaker.com',
   //       authorName: 'Angular Experience',
   //       authorUrl: 'https://angular-experience.web.app/episodes',
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -1609,7 +1537,6 @@ export const posts = [
   //         'https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc',
   //       authorName: 'Laiba Zahoor',
   //       authorUrl: 'https://dev.to/laibazahoor1',
-  //       likes: 0,
   //       tags: ['Docker'],
   //     },
   //     {
@@ -1631,7 +1558,6 @@ export const posts = [
   //         'https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc',
   //       authorName: 'Dharmen Shah',
   //       authorUrl: 'https://dev.to/shhdharmen',
-  //       likes: 0,
   //       tags: ['Attributes'],
   //     },
   //     {
@@ -1652,7 +1578,6 @@ export const posts = [
   //         'https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc',
   //       authorName: 'Rich Field',
   //       authorUrl: 'https://dev.to/kildareflare',
-  //       likes: 0,
   //       tags: ['Debugging'],
   //     },
   //     {
@@ -1673,7 +1598,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'Angular Nation',
   //       authorUrl: 'https://www.youtube.com/channel/UCmlK6Jayb3qqJYNfUmL-DkA',
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -1695,7 +1619,6 @@ export const posts = [
   //         'https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc',
   //       authorName: 'Sean Perkins',
   //       authorUrl: 'https://dev.to/seanperkins',
-  //       likes: 0,
   //       tags: ['Internationalization', 'i18n', 'Transloco', 'Nx'],
   //     },
   //     {
@@ -1716,7 +1639,6 @@ export const posts = [
   //         'https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc',
   //       authorName: 'SANJANA K',
   //       authorUrl: 'https://www.c-sharpcorner.com/members/sanjana-k3',
-  //       likes: 0,
   //       tags: ['Internationalization', 'i18n', 'Transloco', 'Nx'],
   //     },
   //     {
@@ -1736,7 +1658,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'Microsoft 365 Developer',
   //       authorUrl: 'https://www.youtube.com/channel/UCV_6HOhwxYLXAGd-JOqKPoQ',
-  //       likes: 0,
   //       tags: ['TypeScript', 'Interfaces'],
   //     },
   //   ],
@@ -1763,7 +1684,6 @@ export const posts = [
   //       authorName: 'Decoded Frontend',
   //       authorUrl: 'https://www.youtube.com/channel/UCSj1Igu3ejxqcQISNEmx8VQ',
   //       speakers: ['Dmytro Mezhenskyi'],
-  //       likes: 0,
   //       tags: ['RxJS'],
   //     },
   //     {
@@ -1783,7 +1703,6 @@ export const posts = [
   //       sourceUrl: 'https://open.spotify.com',
   //       authorName: 'Angular Master Podcast',
   //       authorUrl: 'https://open.spotify.com/show/1wgZAEEIoRZ8eP78LTbyZf',
-  //       likes: 0,
   //       tags: ['Nx'],
   //     },
   //     {
@@ -1804,7 +1723,6 @@ export const posts = [
   //         'https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc',
   //       authorName: 'William Juan',
   //       authorUrl: 'https://dev.to/williamjuan27',
-  //       likes: 0,
   //       tags: ['Animations'],
   //     },
   //     {
@@ -1825,7 +1743,6 @@ export const posts = [
   //         'https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc',
   //       authorName: 'Marko Stanimirović',
   //       authorUrl: 'https://dev.to/markostanimirovic',
-  //       likes: 0,
   //       tags: ['NgRx'],
   //     },
   //     {
@@ -1846,7 +1763,6 @@ export const posts = [
   //         'https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc',
   //       authorName: 'KrishnaSai Polanki',
   //       authorUrl: 'https://dev.to/krishnapolanki',
-  //       likes: 0,
   //       tags: ['NgRx'],
   //     },
   //     {
@@ -1866,7 +1782,6 @@ export const posts = [
   //         'https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc',
   //       authorName: 'Sri-Ni, Thirumalaa Srinivas',
   //       authorUrl: 'https://dev.to/srini',
-  //       likes: 0,
   //       tags: ['Accessibility'],
   //     },
   //     {
@@ -1886,7 +1801,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'Simon Grimm',
   //       authorUrl: 'https://www.youtube.com/user/saimon1924/videos',
-  //       likes: 0,
   //       tags: ['Virtual Scroll', 'CDK', 'Ionic'],
   //     },
   //     {
@@ -1906,7 +1820,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'Muhammad Muhktar Musa',
   //       authorUrl: 'https://dev.to/mcube25',
-  //       likes: 0,
   //       tags: ['NgRx', 'NgRx Actions', 'NgRx Reducers', 'NgRx Effects'],
   //     },
   //     {
@@ -1926,7 +1839,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'edureka!',
   //       authorUrl: 'https://www.youtube.com/channel/UCkw4JCwteGrDHIsyIIKo4tQ',
-  //       likes: 0,
   //       tags: ['Pipes'],
   //     },
   //     {
@@ -1946,7 +1858,6 @@ export const posts = [
   //       sourceUrl: 'https://indepth.dev/',
   //       authorName: 'Alex Inkin',
   //       authorUrl: 'https://indepth.dev/authors/1022/alex',
-  //       likes: 0,
   //       tags: [],
   //     },
   //   ],
@@ -1974,7 +1885,6 @@ export const posts = [
   //       authorName: 'Tanmoy Majumdar',
   //       authorUrl:
   //         'https://in.linkedin.com/in/tanmoy-majumdar?trk=pulse-article_main-author-card',
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -1994,7 +1904,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'JS Frameworks',
   //       authorUrl: 'https://www.youtube.com/channel/UC0vx9plMP1DkVA-34vLRZZA',
-  //       likes: 0,
   //       tags: ['NgRx', 'Component Store'],
   //     },
   //     {
@@ -2014,7 +1923,6 @@ export const posts = [
   //       sourceUrl: 'https://www.spreaker.com',
   //       authorName: 'The Angular Show',
   //       authorUrl: 'https://www.spreaker.com/show/angular-show',
-  //       likes: 0,
   //       tags: ['NgRx', 'Effects'],
   //     },
   //     {
@@ -2035,7 +1943,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'Evan Payne',
   //       authorUrl: 'https://www.youtube.com/channel/UCJYihhS35r5bdG4K30-fedQ',
-  //       likes: 0,
   //       tags: ['Architecture', 'Nx', 'NgRx'],
   //     },
   //     {
@@ -2056,7 +1963,6 @@ export const posts = [
   //         'https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc',
   //       authorName: 'ng-conf',
   //       authorUrl: 'https://dev.to/ngconf',
-  //       likes: 0,
   //       tags: ['Architecture', 'Nx', 'NgRx'],
   //     },
   //     {
@@ -2076,7 +1982,6 @@ export const posts = [
   //       sourceUrl: 'https://anchor.fm/ng-build-pod/',
   //       authorName: 'ng build --pod',
   //       authorUrl: 'https://ngbuildpod.com',
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -2096,7 +2001,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'Manfred Steyer',
   //       authorUrl: 'https://www.youtube.com/channel/UCDibA0RwEAn3LBBEwV5W0og',
-  //       likes: 0,
   //       tags: ['Testing'],
   //     },
   //     {
@@ -2116,7 +2020,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'Jack Herrington',
   //       authorUrl: 'https://www.youtube.com/channel/UC6vRUjYqDuoUsYsku86Lrsw',
-  //       likes: 0,
   //       tags: ['Testing'],
   //     },
   //   ],
@@ -2142,7 +2045,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'Nevyan Neykov',
   //       authorUrl: 'https://www.youtube.com/channel/UC69XQPDbEpfAtO5S2-ZyNoA',
-  //       likes: 0,
   //       tags: ['Update'],
   //     },
   //     {
@@ -2163,7 +2065,6 @@ export const posts = [
   //       authorName: 'Leela Web Dev',
   //       authorUrl: 'https://www.youtube.com/c/LeelaWebDev/videos',
   //       speakers: ['Leela Narasimha'],
-  //       likes: 0,
   //       tags: ['RxJS', 'switchAll'],
   //     },
   //     {
@@ -2184,7 +2085,6 @@ export const posts = [
   //         'https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc',
   //       authorName: 'Luca Del Puppo',
   //       authorUrl: 'https://dev.to/puppo',
-  //       likes: 0,
   //       tags: [
   //         'RxJS',
   //         'of',
@@ -2218,7 +2118,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'Fireship',
   //       authorUrl: 'https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA',
-  //       likes: 0,
   //       tags: ['Google'],
   //     },
   //     {
@@ -2239,7 +2138,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'Angular Leipzig Meetup',
   //       authorUrl: 'https://www.youtube.com/channel/UCq29lfLOUnZhWWUPR8NAj7g',
-  //       likes: 0,
   //       tags: ['GraphQL', 'Hasura'],
   //     },
   //     {
@@ -2259,7 +2157,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'Nrwl - Narwhal Technologies Inc.',
   //       authorUrl: 'https://www.youtube.com/channel/UCF8luR7ORJTCwSNA9yZksCw',
-  //       likes: 0,
   //       tags: ['Nx'],
   //     },
   //     {
@@ -2279,7 +2176,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'Angular Nation',
   //       authorUrl: 'https://www.youtube.com/channel/UCmlK6Jayb3qqJYNfUmL-DkA',
-  //       likes: 0,
   //       tags: ['Optional Modules'],
   //     },
   //     {
@@ -2299,7 +2195,6 @@ export const posts = [
   //       sourceUrl: 'https://webrush.io',
   //       authorName: '',
   //       authorUrl: '',
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -2319,7 +2214,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'Codecademy',
   //       authorUrl: 'https://www.youtube.com/channel/UC5CMtpogD_P3mOoeiDHD5eQ',
-  //       likes: 0,
   //       tags: ['TypeScript'],
   //     },
   //   ],
@@ -2345,7 +2239,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'Nrwl - Narwhal Technologies Inc.',
   //       authorUrl: 'https://www.youtube.com/channel/UCF8luR7ORJTCwSNA9yZksCw',
-  //       likes: 0,
   //       tags: ['Nx'],
   //     },
   //     {
@@ -2367,7 +2260,6 @@ export const posts = [
   //         'https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc',
   //       authorName: 'Justin J',
   //       authorUrl: 'https://dev.to/jsanddotnet',
-  //       likes: 0,
   //       tags: ['Libraries'],
   //     },
   //     {
@@ -2387,7 +2279,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'Angular University',
   //       authorUrl: 'https://www.youtube.com/channel/UC3cEGKhg3OERn-ihVsJcb7A',
-  //       likes: 0,
   //       tags: ['Navigation'],
   //     },
   //     {
@@ -2409,7 +2300,6 @@ export const posts = [
   //       authorName: 'The Code Angle',
   //       authorUrl: 'https://www.youtube.com/channel/UChi_aILZkMMx8_KlVAsbI7g',
   //       speakers: ['Deji Adesoga'],
-  //       likes: 0,
   //       tags: ['Routing', 'Route Guards', 'CanActivate'],
   //     },
   //     {
@@ -2429,7 +2319,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'WebGentle',
   //       authorUrl: 'https://www.youtube.com/channel/UC2Us1KkV7BMm5Rp6tV6tTxg',
-  //       likes: 0,
   //       tags: ['Routing', 'ActivatedRoute', 'Route Params'],
   //     },
   //     {
@@ -2449,7 +2338,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'Slobodan Gajic',
   //       authorUrl: 'https://www.youtube.com/channel/UCBu5ulO4d-d47lAVybpRTkw',
-  //       likes: 0,
   //       tags: ['Reactive Forms'],
   //     },
   //     {
@@ -2469,7 +2357,6 @@ export const posts = [
   //       sourceUrl: 'https://modlogix.com',
   //       authorName: '',
   //       authorUrl: '',
-  //       likes: 0,
   //       tags: ['Migration'],
   //     },
   //     {
@@ -2490,7 +2377,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'ng-conf',
   //       authorUrl: 'https://www.youtube.com/channel/UCm9iiIfgmVODUJxINecHQkA',
-  //       likes: 0,
   //       tags: ['Micro Frontends', 'Routing'],
   //     },
   //   ],
@@ -2516,7 +2402,6 @@ export const posts = [
   //       sourceUrl: 'https://www.ngdevelop.tech',
   //       authorName: '',
   //       authorUrl: '',
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -2536,7 +2421,6 @@ export const posts = [
   //       sourceUrl: 'https://medium.com/tag/angular/latest',
   //       authorName: 'Jagjeet Singh',
   //       authorUrl: 'https://jagjeets.medium.com',
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -2557,7 +2441,6 @@ export const posts = [
   //       sourceUrl: 'https://devchat.tv',
   //       authorName: 'Adventures In Angular',
   //       authorUrl: 'https://devchat.tv/show/adventures-in-angular/',
-  //       likes: 0,
   //       tags: ['Error Handling'],
   //     },
   //   ],
@@ -2583,7 +2466,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'Jon Peppinck',
   //       authorUrl: 'https://www.youtube.com/channel/UCjvFndX54k4OfsW3vyg-cUQ',
-  //       likes: 0,
   //       tags: ['NestJS'],
   //     },
   //     {
@@ -2604,7 +2486,6 @@ export const posts = [
   //         'https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc',
   //       authorName: 'Saulo Dias',
   //       authorUrl: 'https://dev.to/saulodias',
-  //       likes: 0,
   //       tags: ['Storybook'],
   //     },
   //     {
@@ -2626,7 +2507,6 @@ export const posts = [
   //         'https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc',
   //       authorName: 'Rodrigo Kamada',
   //       authorUrl: 'https://dev.to/rodrigokamada',
-  //       likes: 0,
   //       tags: ['ngx-logger'],
   //     },
   //     {
@@ -2646,7 +2526,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'GDG Doha',
   //       authorUrl: 'https://www.youtube.com/channel/UCEqqqqKJC0Lte_7P-_FmDHA',
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -2666,7 +2545,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'Rainer Stropek',
   //       authorUrl: 'https://www.youtube.com/channel/UCo2T5CWtdbj4NveB5flTD4A',
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -2686,7 +2564,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'Rainer Stropek',
   //       authorUrl: 'https://www.youtube.com/channel/UCo2T5CWtdbj4NveB5flTD4A',
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -2707,7 +2584,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'Frontend Love',
   //       authorUrl: 'https://www.youtube.com/channel/UC1nBp6ouBB1o5P8YvPznPOw',
-  //       likes: 0,
   //       tags: ['Micro Frontends', 'Module Federation'],
   //     },
   //     {
@@ -2727,7 +2603,6 @@ export const posts = [
   //       sourceUrl: 'https://generic-ui.com/',
   //       authorName: 'Luke',
   //       authorUrl: '',
-  //       likes: 0,
   //       tags: ['RxJS'],
   //     },
   //     {
@@ -2747,7 +2622,6 @@ export const posts = [
   //       sourceUrl: 'https://www.youtube.com',
   //       authorName: 'Adnan Halilovic',
   //       authorUrl: 'https://www.youtube.com/channel/UC8prCZick--FmgLme0lAdvw',
-  //       likes: 0,
   //       tags: [],
   //     },
   //   ],
@@ -2774,7 +2648,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'Kritika & Pranav | Programmer Couple',
   //       authorUrl: 'https://www.youtube.com/channel/UCCDDZ73SMXb3xp-hjMHngXg',
-  //       likes: 0,
   //       tags: ['Reactive Forms', 'Angular Material'],
   //     },
   //     {
@@ -2795,7 +2668,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'Lars Gyrup Brink Nielsen',
   //       authorUrl: 'https://www.youtube.com/channel/UCsZWzmsdKz2VA49XXBK5TQA',
-  //       likes: 0,
   //       tags: ['Nx', 'Libraries'],
   //     },
   //     {
@@ -2815,7 +2687,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'ng-news',
   //       authorUrl: 'https://www.youtube.com/channel/UCpNgAFB5-_3WSHD_olBv7nw',
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -2835,7 +2706,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'Jack Herrington',
   //       authorUrl: 'https://www.youtube.com/channel/UC6vRUjYqDuoUsYsku86Lrsw',
-  //       likes: 0,
   //       tags: ['Factory Pattern'],
   //     },
   //     {
@@ -2855,7 +2725,6 @@ export const posts = [
   //       sourceUrl: 'https://spreaker.com',
   //       authorName: 'Angular Experience',
   //       authorUrl: 'https://angular-experience.web.app/episodes',
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -2875,7 +2744,6 @@ export const posts = [
   //       sourceUrl: 'https://braydoncoyer.dev',
   //       authorName: '',
   //       authorUrl: '',
-  //       likes: 0,
   //       tags: ['Testing'],
   //     },
   //     {
@@ -2896,7 +2764,6 @@ export const posts = [
   //         'https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc',
   //       authorName: 'Alireza Razinejad',
   //       authorUrl: 'https://dev.to/ussdlover',
-  //       likes: 0,
   //       tags: ['ESLint'],
   //     },
   //     {
@@ -2917,7 +2784,6 @@ export const posts = [
   //         'https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc',
   //       authorName: 'Muhammad Muhktar Musa',
   //       authorUrl: 'https://dev.to/mcube25',
-  //       likes: 0,
   //       tags: ['NgRX', 'NgRX Entity', 'Selectors'],
   //     },
   //     {
@@ -2937,7 +2803,6 @@ export const posts = [
   //       sourceUrl: 'https://www.telerik.com/blogs',
   //       authorName: 'Nwose Lotanna Victor',
   //       authorUrl: 'https://www.telerik.com/blogs/author/nwose-lotanna',
-  //       likes: 0,
   //       tags: ['Property Binding'],
   //     },
   //   ],
@@ -2964,7 +2829,6 @@ export const posts = [
   //       authorName: 'Decoded Frontend',
   //       authorUrl: 'https://www.youtube.com/channel/UCSj1Igu3ejxqcQISNEmx8VQ',
   //       speakers: ['Dmytro Mezhenskyi'],
-  //       likes: 0,
   //       tags: ['Directives', 'Selectors'],
   //     },
   //     {
@@ -2984,7 +2848,6 @@ export const posts = [
   //       sourceUrl: 'https://medium.com/tag/angular/latest',
   //       authorName: 'Luke',
   //       authorUrl: 'https://medium.com/@luke_genericui',
-  //       likes: 0,
   //       tags: ['Testing', 'RxJS'],
   //     },
   //     {
@@ -3046,7 +2909,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.org',
   //       authorName: 'Lucas Paganini',
   //       authorUrl: 'https://www.youtube.com/channel/UCb2qfrlxS0kK9vca_fpjdNQ',
-  //       likes: 0,
   //       tags: ['TypeScript'],
   //     },
   //   ],
@@ -3072,7 +2934,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.org',
   //       authorName: 'Code Shots With Profanis',
   //       authorUrl: 'https://www.youtube.com/channel/UCgJAoZCYx1Dk3iGPHSIgV1A',
-  //       likes: 0,
   //       tags: ['Libraries'],
   //     },
   //     {
@@ -3093,7 +2954,6 @@ export const posts = [
   //         'https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc',
   //       authorName: 'Luca Del Puppo',
   //       authorUrl: 'https://dev.to/puppo',
-  //       likes: 0,
   //       tags: [
   //         'RxJS',
   //         'combineLatestAll',
@@ -3123,7 +2983,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.org',
   //       authorName: 'edureka',
   //       authorUrl: 'https://www.youtube.com/channel/UCkw4JCwteGrDHIsyIIKo4tQ',
-  //       likes: 0,
   //       tags: ['Services', 'Dependency Injection'],
   //     },
   //     {
@@ -3143,7 +3002,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'Rainer Stropek',
   //       authorUrl: 'https://www.youtube.com/channel/UCo2T5CWtdbj4NveB5flTD4A',
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -3164,7 +3022,6 @@ export const posts = [
   //         'https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc',
   //       authorName: 'William Juan',
   //       authorUrl: 'https://dev.to/williamjuan27',
-  //       likes: 0,
   //       tags: ['Animations'],
   //     },
   //     {
@@ -3185,7 +3042,6 @@ export const posts = [
   //         'https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc',
   //       authorName: 'Tobi Alagbe',
   //       authorUrl: 'https://dev.to/tobialagbe',
-  //       likes: 0,
   //       tags: ['Dependency Injection'],
   //     },
   //     {
@@ -3206,7 +3062,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.org',
   //       authorName: 'ng-conf',
   //       authorUrl: 'https://www.youtube.com/channel/UCm9iiIfgmVODUJxINecHQkA',
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -3226,7 +3081,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.org',
   //       authorName: 'Microsoft Developer',
   //       authorUrl: 'https://www.youtube.com/channel/UCsMica-v34Irf9KVTh6xx-g',
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -3246,7 +3100,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.org',
   //       authorName: 'Angular Nation',
   //       authorUrl: 'https://www.youtube.com/channel/UCmlK6Jayb3qqJYNfUmL-DkA',
-  //       likes: 0,
   //       tags: ['View Encapsulation', 'ng-deep', ':host-context()'],
   //     },
   //     {
@@ -3266,7 +3119,6 @@ export const posts = [
   //       sourceUrl: 'https://devchat.tv',
   //       authorName: 'Adventures In Angular',
   //       authorUrl: 'https://devchat.tv/show/adventures-in-angular/',
-  //       likes: 0,
   //       tags: ['TypeScript'],
   //     },
   //   ],
@@ -3293,7 +3145,6 @@ export const posts = [
   //       sourceUrl: 'https://webrush.io',
   //       authorName: '',
   //       authorUrl: '',
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -3312,7 +3163,6 @@ export const posts = [
   //       sourceUrl: 'https://github.com/angular/angular/releases',
   //       authorName: 'Jessica Janiuk',
   //       authorUrl: 'https://github.com/jessicajaniuk',
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -3332,7 +3182,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'Angular',
   //       authorUrl: 'https://www.youtube.com/channel/UCbn1OgGei-DV7aSRo_HaAiw',
-  //       likes: 0,
   //       tags: ['Nullish Coalescing'],
   //     },
   //     {
@@ -3352,7 +3201,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'Angular University',
   //       authorUrl: 'https://www.youtube.com/channel/UC3cEGKhg3OERn-ihVsJcb7A',
-  //       likes: 0,
   //       tags: ['Angular Material', 'Input'],
   //     },
   //     {
@@ -3372,7 +3220,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'Codete',
   //       authorUrl: 'https://www.youtube.com/channel/UCOWLofYtKFHdFNlC8AXtXFw',
-  //       likes: 0,
   //       tags: ['Testing', 'Jest', 'Mocks'],
   //     },
   //     {
@@ -3392,7 +3239,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'Automation Step by Step',
   //       authorUrl: 'https://www.youtube.com/channel/UCTt7pyY-o0eltq14glaG5dg',
-  //       likes: 0,
   //       tags: ['Testing', 'Cypress', 'Assertions'],
   //     },
   //     {
@@ -3412,7 +3258,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'JS Frameworks',
   //       authorUrl: 'https://www.youtube.com/c/JSFrameworks/videos',
-  //       likes: 0,
   //       tags: ['NgRx', 'Micro Frontends'],
   //     },
   //     {
@@ -3432,7 +3277,6 @@ export const posts = [
   //       sourceUrl: 'https://blog.logrocket.com',
   //       authorName: 'Yan Sun',
   //       authorUrl: 'https://blog.logrocket.com/author/yansun/',
-  //       likes: 0,
   //       tags: ['Portals'],
   //     },
   //   ],
@@ -3458,7 +3302,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'Coding Tutorials',
   //       authorUrl: 'https://www.youtube.com/channel/UCqWQzlUDdllnLmtgfSgYTCA',
-  //       likes: 0,
   //       tags: ['Testing', 'Unit Tests', 'Mocks'],
   //     },
   //     {
@@ -3479,7 +3322,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'Women Who Code',
   //       authorUrl: 'https://www.youtube.com/channel/UCfMEaBUSABoOsxr7HgSmEdA',
-  //       likes: 0,
   //       tags: ['NgRx'],
   //     },
   //     {
@@ -3500,7 +3342,6 @@ export const posts = [
   //         'https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc',
   //       authorName: 'Ajit Singh',
   //       authorUrl: 'https://dev.to/ajitsinghkaler',
-  //       likes: 0,
   //       tags: ['Nx'],
   //     },
   //     {
@@ -3521,7 +3362,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'ng-conf',
   //       authorUrl: 'https://www.youtube.com/channel/UCm9iiIfgmVODUJxINecHQkA',
-  //       likes: 0,
   //       tags: ['Error Handling'],
   //     },
   //     {
@@ -3542,7 +3382,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'AngularSeattle',
   //       authorUrl: 'https://www.youtube.com/channel/UCsp19MwcW-g3yOLBdO5LbSg',
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -3562,7 +3401,6 @@ export const posts = [
   //       sourceUrl: 'https://www.infoworld.com',
   //       authorName: '',
   //       authorUrl: '',
-  //       likes: 0,
   //       tags: ['Angular 13'],
   //     },
   //     {
@@ -3583,7 +3421,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'Get Arrays',
   //       authorUrl: 'https://www.youtube.com/channel/UC3qeVkfxM7xeFt_AtZwmYhw',
-  //       likes: 0,
   //       tags: ['RxJS'],
   //     },
   //   ],
@@ -3611,7 +3448,6 @@ export const posts = [
   //         'https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc',
   //       authorName: 'Rodrigo Kamada',
   //       authorUrl: 'https://dev.to/rodrigokamada',
-  //       likes: 0,
   //       tags: ['Deploy', 'GitHub Pages', 'GitHub Actions'],
   //     },
   //     {
@@ -3632,7 +3468,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'edureka',
   //       authorUrl: 'https://www.youtube.com/channel/UCkw4JCwteGrDHIsyIIKo4tQ',
-  //       likes: 0,
   //       tags: ['Auth', 'JWT'],
   //     },
   //     {
@@ -3653,7 +3488,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'Coding Under Pressure',
   //       authorUrl: 'https://www.youtube.com/channel/UCdGYTnk-Ll4S6yOsYwU8D2w',
-  //       likes: 0,
   //       tags: ['Angular Material', 'Data Table'],
   //     },
   //     {
@@ -3674,7 +3508,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'Lyrad Digital',
   //       authorUrl: 'https://www.youtube.com/channel/UCh6kCrRP4xT3QfRVH4Du8Eg',
-  //       likes: 0,
   //       tags: ['ControlValueAccessor'],
   //     },
   //   ],
@@ -3700,7 +3533,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'timsar2',
   //       authorUrl: 'https://dev.to/timsar2',
-  //       likes: 0,
   //       tags: ['Tailwind'],
   //     },
   //     {
@@ -3719,7 +3551,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'TheAngularCoder - Gourav',
   //       authorUrl: 'https://www.youtube.com/channel/UCMsApJ_b10ij1L9FD5IGgoQ',
-  //       likes: 0,
   //       tags: ['RxJS', 'Subject'],
   //     },
   //     {
@@ -3739,7 +3570,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'Angular Nation',
   //       authorUrl: 'https://www.youtube.com/channel/UCmlK6Jayb3qqJYNfUmL-DkA',
-  //       likes: 0,
   //       tags: ['Testing', 'Cypress'],
   //     },
   //     {
@@ -3759,7 +3589,6 @@ export const posts = [
   //       sourceUrl: 'https://www.positronx.io',
   //       authorName: '',
   //       authorUrl: '',
-  //       likes: 0,
   //       tags: ['Firebase', 'Auth'],
   //     },
   //   ],
@@ -3786,7 +3615,6 @@ export const posts = [
   //       sourceUrl: 'https://open.spotify.com',
   //       authorName: 'Angular Master Podcast',
   //       authorUrl: 'https://open.spotify.com/show/1wgZAEEIoRZ8eP78LTbyZf',
-  //       likes: 0,
   //       tags: ['Ivy'],
   //     },
   //     {
@@ -3806,7 +3634,6 @@ export const posts = [
   //       sourceUrl: 'https://medium.com/tag/angular/latest',
   //       authorName: 'Delushaan Delu',
   //       authorUrl: 'https://delushaandelu.medium.com/',
-  //       likes: 0,
   //       tags: ['Strict Mode'],
   //     },
   //     {
@@ -3826,7 +3653,6 @@ export const posts = [
   //         'https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc',
   //       authorName: 'Walmyr Filho',
   //       authorUrl: 'https://dev.to/walmyrlimaesilv',
-  //       likes: 0,
   //       tags: ['Cypress'],
   //     },
   //     {
@@ -3847,7 +3673,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'QA Touch',
   //       authorUrl: 'https://www.youtube.com/channel/UCTIh3C1GHoTwc2w3pM7KeUQ',
-  //       likes: 0,
   //       tags: ['Cypress'],
   //     },
   //     {
@@ -3868,7 +3693,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'Talking About Testing',
   //       authorUrl: 'https://www.youtube.com/channel/UCOADfRXMV7j8haY5w9hJUnw',
-  //       likes: 0,
   //       tags: ['Cypress'],
   //     },
   //     {
@@ -3889,7 +3713,6 @@ export const posts = [
   //       authorName: 'Nrwl - Narwhal Technologies Inc.',
   //       authorUrl: 'https://www.youtube.com/channel/UCF8luR7ORJTCwSNA9yZksCw',
   //       speakers: ['Brandon Roberts', 'Ben Cabanes']
-  //       likes: 0,
   //       tags: ['Nx'],
   //     },
   //     {
@@ -3909,7 +3732,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'Jack Herrington',
   //       authorUrl: 'https://www.youtube.com/channel/UC6vRUjYqDuoUsYsku86Lrsw',
-  //       likes: 0,
   //       tags: ['Nx'],
   //     },
   //     {
@@ -3929,7 +3751,6 @@ export const posts = [
   //       sourceUrl: 'https://spreaker.com',
   //       authorName: 'Angular Experience',
   //       authorUrl: 'https://angular-experience.web.app/episodes',
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -3950,7 +3771,6 @@ export const posts = [
   //         'https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc',
   //       authorName: 'Fábio Englert Moutinho',
   //       authorUrl: 'https://dev.to/fabioemoutinho',
-  //       likes: 0,
   //       tags: ['Cypress'],
   //     },
   //     {
@@ -3970,7 +3790,6 @@ export const posts = [
   //       sourceUrl: 'https://www.telerik.com/blogs',
   //       authorName: 'Nwose Lotanna Victor',
   //       authorUrl: 'https://www.telerik.com/blogs/author/nwose-lotanna',
-  //       likes: 0,
   //       tags: ['Attribute Binding'],
   //     },
   //   ],
@@ -3997,7 +3816,6 @@ export const posts = [
   //         'https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc',
   //       authorName: 'Marko Stanimirović',
   //       authorUrl: 'https://dev.to/markostanimirovic',
-  //       likes: 0,
   //       tags: ['RxJS', 'Subscriptions'],
   //     },
   //     {
@@ -4017,7 +3835,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'WebGentle',
   //       authorUrl: 'https://www.youtube.com/channel/UC2Us1KkV7BMm5Rp6tV6tTxg',
-  //       likes: 0,
   //       tags: ['Lazy Loading'],
   //     },
   //     {
@@ -4038,7 +3855,6 @@ export const posts = [
   //       authorName: 'Decoded Frontend',
   //       authorUrl: 'https://www.youtube.com/channel/UCSj1Igu3ejxqcQISNEmx8VQ',
   //       speakers: ['Dmytro Mezhenskyi'],
-  //       likes: 0,
   //       tags: ['RxJS', 'zip'],
   //     },
   //     {
@@ -4058,7 +3874,6 @@ export const posts = [
   //       sourceUrl: 'https://indepth.dev/tutorials/angular',
   //       authorName: 'Dharmen Shah',
   //       authorUrl: 'https://twitter.com/shhdharmen',
-  //       likes: 0,
   //       tags: ['FormControl', 'ControlValueAccessor'],
   //     },
   //     {
@@ -4078,7 +3893,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'Google Developers',
   //       authorUrl: 'https://www.youtube.com/channel/UC_x5XG1OV2P6uZZ5FSM9Ttw',
-  //       likes: 0,
   //       tags: ['Google Pay'],
   //     },
   //     {
@@ -4099,7 +3913,6 @@ export const posts = [
   //         'https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc',
   //       authorName: 'Saulo Dias',
   //       authorUrl: 'https://dev.to/saulodias',
-  //       likes: 0,
   //       tags: ['TypeScript'],
   //     },
   //     {
@@ -4120,7 +3933,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'Manfred Steyer',
   //       authorUrl: 'https://www.youtube.com/channel/UCDibA0RwEAn3LBBEwV5W0og',
-  //       likes: 0,
   //       tags: [
   //         'RxJS',
   //         'Micro Frontend',
@@ -4145,7 +3957,6 @@ export const posts = [
   //       sourceUrl: 'https://github.com/angular/angular/releases',
   //       authorName: 'Alex Rickabaugh',
   //       authorUrl: 'https://github.com/alxhub',
-  //       likes: 0,
   //       tags: [],
   //     },
   //   ],
@@ -4172,7 +3983,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'ng-conf',
   //       authorUrl: 'https://www.youtube.com/channel/UCm9iiIfgmVODUJxINecHQkA',
-  //       likes: 0,
   //       tags: ['Forms', 'Template Driven Forms', 'Reactive Forms'],
   //     },
   //     {
@@ -4192,7 +4002,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'This Dot Media',
   //       authorUrl: 'https://www.youtube.com/channel/UCHkqtrnQO2HMyW50ixOtJGw',
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -4212,7 +4021,6 @@ export const posts = [
   //       sourceUrl: 'https://www.spreaker.com',
   //       authorName: 'The Angular Show',
   //       authorUrl: 'https://www.spreaker.com/show/angular-show',
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -4233,7 +4041,6 @@ export const posts = [
   //         'https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc',
   //       authorName: 'Michael Patterson',
   //       authorUrl: 'https://dev.to/mick_patterson_',
-  //       likes: 0,
   //       tags: ['TypeScript'],
   //     },
   //     {
@@ -4253,7 +4060,6 @@ export const posts = [
   //       authorName: 'Brandon Roberts',
   //       authorUrl: 'https://www.youtube.com/channel/UClb3aBqsBD_srhaSGTAEq-Q',
   //       speakers: ['Brandon Roberts']
-  //       likes: 0,
   //       tags: ['NgRx'],
   //     },
   //     {
@@ -4273,7 +4079,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'gleb bahmutov',
   //       authorUrl: 'https://www.youtube.com/channel/UCRse4WcQxq8Ih6L4CWY3exg',
-  //       likes: 0,
   //       tags: ['Testing', 'Cypress'],
   //     },
   //     {
@@ -4294,7 +4099,6 @@ export const posts = [
   //         'https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc',
   //       authorName: 'Manuel Navarro',
   //       authorUrl: 'https://dev.to/_mnavarros',
-  //       likes: 0,
   //       tags: ['PDF'],
   //     },
   //     {
@@ -4316,7 +4120,6 @@ export const posts = [
   //         'https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc',
   //       authorName: 'Alireza Razinejad',
   //       authorUrl: 'https://dev.to/ussdlover',
-  //       likes: 0,
   //       tags: ['RxJS', 'Subscriptions'],
   //     },
   //     {
@@ -4384,7 +4187,6 @@ export const posts = [
   //       sourceUrl: 'https://webrush.io',
   //       authorName: '',
   //       authorUrl: '',
-  //       likes: 0,
   //       tags: ['SPA'],
   //     },
   //     {
@@ -4404,7 +4206,6 @@ export const posts = [
   //       sourceUrl: 'https://devchat.tv',
   //       authorName: 'Adventures In Angular',
   //       authorUrl: 'https://devchat.tv/show/adventures-in-angular/',
-  //       likes: 0,
   //       tags: ['TypeScript', 'Mixins'],
   //     },
   //     {
@@ -4424,7 +4225,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'Jack Herrington',
   //       authorUrl: 'https://www.youtube.com/channel/UC6vRUjYqDuoUsYsku86Lrsw',
-  //       likes: 0,
   //       tags: ['TypeScript', 'Pub/Sub Pattern'],
   //     },
   //     {
@@ -4444,7 +4244,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'ng-conf',
   //       authorUrl: 'https://www.youtube.com/channel/UCm9iiIfgmVODUJxINecHQkA',
-  //       likes: 0,
   //       tags: ['Protractor'],
   //     },
   //     {
@@ -4465,7 +4264,6 @@ export const posts = [
   //       sourceUrl: 'https://www.c-sharpcorner.com',
   //       authorName: 'SAKHILE MSIBI',
   //       authorUrl: 'https://www.c-sharpcorner.com/members/sakhile-msibi',
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -4485,7 +4283,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'Lars Gyrup Brink Nielsen',
   //       authorUrl: 'https://www.youtube.com/channel/UCsZWzmsdKz2VA49XXBK5TQA',
-  //       likes: 0,
   //       tags: ['Nx'],
   //     },
   //     {
@@ -4506,7 +4303,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'Johnny Estilles',
   //       authorUrl: 'https://www.youtube.com/channel/UCB7eWSAKEB-c1fKBwHiDYUg',
-  //       likes: 0,
   //       tags: ['Testing', 'Cypress'],
   //     },
   //     {
@@ -4526,7 +4322,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'Dot Net Tricks',
   //       authorUrl: 'https://www.youtube.com/channel/UCuYuSB7JzDslrwwh8EM-4JA',
-  //       likes: 0,
   //       tags: ['Domain Driven Design'],
   //     },
   //     {
@@ -4547,7 +4342,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'Angular Birmingham',
   //       authorUrl: 'https://www.youtube.com/channel/UCRMLmJjB3oib_sQF9mKWuRA',
-  //       likes: 0,
   //       tags: ['HTTP', 'Builders'],
   //     },
   //     {
@@ -4568,7 +4362,6 @@ export const posts = [
   //       sourceUrl: 'https://medium.com/tag/angular/latest',
   //       authorName: 'Knoldus',
   //       authorUrl: 'https://medium.com/@knoldus',
-  //       likes: 0,
   //       tags: ['Routing', 'Route Guards', 'CanActivate'],
   //     },
   //     {
@@ -4587,7 +4380,6 @@ export const posts = [
   //       sourceUrl: 'https://github.com/angular/angular/releases',
   //       authorName: 'Alex Rickabaugh',
   //       authorUrl: 'https://github.com/alxhub',
-  //       likes: 0,
   //       tags: [],
   //     },
   //   ],
@@ -4612,7 +4404,6 @@ export const posts = [
   //       sourceUrl: 'https://github.com/angular/angular/releases',
   //       authorName: 'Alex Rickabaugh',
   //       authorUrl: 'https://github.com/alxhub',
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -4633,7 +4424,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'ng-conf',
   //       authorUrl: 'https://www.youtube.com/c/ngconfonline/videos',
-  //       likes: 0,
   //       tags: ['Testing', 'Component Harness'],
   //     },
   //     {
@@ -4654,7 +4444,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'Rangle.io',
   //       authorUrl: 'https://www.youtube.com/c/rangleio/videos',
-  //       likes: 0,
   //       tags: ['Angular Elements'],
   //     },
   //     {
@@ -4674,7 +4463,6 @@ export const posts = [
   //       sourceUrl: 'https://www.concretepage.com/angular/',
   //       authorName: '',
   //       authorUrl: '',
-  //       likes: 0,
   //       tags: ['Lifecycle Hooks', 'ngOnInit', 'ngOnDestroy'],
   //     },
   //     {
@@ -4694,7 +4482,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'Zoaib Khan',
   //       authorUrl: 'https://www.youtube.com/channel/UC7__K3OjyT1Ekf_Spi7O8Yg',
-  //       likes: 0,
   //       tags: ['Reactive Forms', 'Validation'],
   //     },
   //     {
@@ -4713,7 +4500,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'Changelog',
   //       authorUrl: 'https://www.youtube.com/c/Changelog/videos',
-  //       likes: 0,
   //       tags: ['NestJS', 'GraphQL', 'TypeScript'],
   //     },
   //     {
@@ -4733,7 +4519,6 @@ export const posts = [
   //       sourceUrl: 'https://hackernoon.com/',
   //       authorName: 'Maksym Mostovyi',
   //       authorUrl: 'https://hackernoon.com/u/maksymmostovyi',
-  //       likes: 0,
   //       tags: ['Debugging'],
   //     },
   //   ],
@@ -4760,7 +4545,6 @@ export const posts = [
   //       sourceUrl: 'https://open.spotify.com',
   //       authorName: 'Angular Master Podcast',
   //       authorUrl: 'https://open.spotify.com/show/1wgZAEEIoRZ8eP78LTbyZf',
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -4781,7 +4565,6 @@ export const posts = [
   //         'https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc',
   //       authorName: 'Sanket Maru',
   //       authorUrl: 'https://dev.to/sanketmaru',
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -4801,7 +4584,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'Angular Nation',
   //       authorUrl: 'https://www.youtube.com/channel/UCmlK6Jayb3qqJYNfUmL-DkA',
-  //       likes: 0,
   //       tags: ['Styles'],
   //     },
   //     {
@@ -4820,7 +4602,6 @@ export const posts = [
   //       sourceUrl: 'https://github.com/angular/angular/releases',
   //       authorName: 'Dylan Hunn',
   //       authorUrl: 'https://github.com/dylhunn',
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -4841,7 +4622,6 @@ export const posts = [
   //         'https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc',
   //       authorName: 'Luca Del Puppo',
   //       authorUrl: 'https://dev.to/puppo',
-  //       likes: 0,
   //       tags: ['RxJS', 'multicast'],
   //     },
   //     {
@@ -4861,7 +4641,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'Competent Programming',
   //       authorUrl: 'https://www.youtube.com/channel/UCZBwn0Sdl3mabNeDCIJmNlg',
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -4882,7 +4661,6 @@ export const posts = [
   //         'https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc',
   //       authorName: 'Jack Madden',
   //       authorUrl: 'https://dev.to/john_madden_13',
-  //       likes: 0,
   //       tags: ['TypeScript'],
   //     },
   //   ],
@@ -4908,7 +4686,6 @@ export const posts = [
   //       sourceUrl: 'https://spreaker.com',
   //       authorName: 'Angular Experience',
   //       authorUrl: 'https://angular-experience.web.app/episodes',
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -4929,7 +4706,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'Jack Herrington',
   //       authorUrl: 'https://www.youtube.com/channel/UC6vRUjYqDuoUsYsku86Lrsw',
-  //       likes: 0,
   //       tags: ['TypeScript', 'Iterator Pattern'],
   //     },
   //     {
@@ -4948,7 +4724,6 @@ export const posts = [
   //       sourceUrl: 'https://github.com/angular/angular/releases',
   //       authorName: 'Dylan Hunn',
   //       authorUrl: 'https://github.com/dylhunn',
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -4968,7 +4743,6 @@ export const posts = [
   //         'https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc',
   //       authorName: 'Tarun Gurang',
   //       authorUrl: 'https://dev.to/tarungurang',
-  //       likes: 0,
   //       tags: ['Security'],
   //     },
   //     {
@@ -4988,7 +4762,6 @@ export const posts = [
   //       sourceUrl: 'https://www.telerik.com/blogs',
   //       authorName: 'Nwose Lotanna Victor',
   //       authorUrl: 'https://www.telerik.com/blogs/author/nwose-lotanna',
-  //       likes: 0,
   //       tags: ['Style Binding'],
   //     },
   //     {
@@ -5008,7 +4781,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'JS Frameworks',
   //       authorUrl: 'https://www.youtube.com/c/JSFrameworks/videos',
-  //       likes: 0,
   //       tags: ['Testing', 'Cypress'],
   //     },
   //   ],
@@ -5035,7 +4807,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'Lucas Paganini',
   //       authorUrl: 'https://www.youtube.com/channel/UCb2qfrlxS0kK9vca_fpjdNQ',
-  //       likes: 0,
   //       tags: ['TypeScript', 'Tagged Union Types'],
   //     },
   //     {
@@ -5057,7 +4828,6 @@ export const posts = [
   //         'https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc',
   //       authorName: 'Nikos Anifantis',
   //       authorUrl: 'https://dev.to/nikosanif',
-  //       likes: 0,
   //       tags: ['TypeScript', 'Generics'],
   //     },
   //     {
@@ -5078,7 +4848,6 @@ export const posts = [
   //       authorName: 'Decoded Frontend',
   //       authorUrl: 'https://www.youtube.com/channel/UCSj1Igu3ejxqcQISNEmx8VQ',
   //       speakers: ['Dmytro Mezhenskyi'],
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -5097,7 +4866,6 @@ export const posts = [
   //       sourceUrl: 'https://github.com/angular/angular/releases',
   //       authorName: 'Dylan Hunn',
   //       authorUrl: 'https://github.com/dylhunn',
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -5118,7 +4886,6 @@ export const posts = [
   //         'https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc',
   //       authorName: 'Siddharth Venkatesh',
   //       authorUrl: 'https://dev.to/sidv93',
-  //       likes: 0,
   //       tags: ['Preloading'],
   //     },
   //     {
@@ -5138,7 +4905,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'Angular Nation',
   //       authorUrl: 'https://www.youtube.com/channel/UCmlK6Jayb3qqJYNfUmL-DkA',
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -5158,7 +4924,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'Microsoft Developer',
   //       authorUrl: 'https://www.youtube.com/channel/UCsMica-v34Irf9KVTh6xx-g',
-  //       likes: 0,
   //       tags: ['Decorators'],
   //     },
   //     {
@@ -5178,7 +4943,6 @@ export const posts = [
   //       sourceUrl: 'https://blog.bracketsinstitute.com/',
   //       authorName: '',
   //       authorUrl: '',
-  //       likes: 0,
   //       tags: ['Destructuring'],
   //     },
   //     {
@@ -5199,7 +4963,6 @@ export const posts = [
   //         'https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc',
   //       authorName: 'Dany Paredes',
   //       authorUrl: 'https://dev.to/danywalls',
-  //       likes: 0,
   //       tags: ['InjectionToken'],
   //     },
   //   ],
@@ -5225,7 +4988,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'Joshua Morony',
   //       authorUrl: 'https://www.youtube.com/channel/UCbVZdLngJH6KOJvpAOO3qTw',
-  //       likes: 0,
   //       tags: [
   //         'RxJS',
   //         'Hot Observable',
@@ -5251,7 +5013,6 @@ export const posts = [
   //       sourceUrl: 'https://www.spreaker.com',
   //       authorName: 'The Angular Show',
   //       authorUrl: 'https://www.spreaker.com/show/angular-show',
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -5272,7 +5033,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'ng-conf',
   //       authorUrl: 'https://www.youtube.com/channel/UCm9iiIfgmVODUJxINecHQkA',
-  //       likes: 0,
   //       tags: ['RxJS', 'Subject', 'BehaviorSubject'],
   //     },
   //     {
@@ -5291,7 +5051,6 @@ export const posts = [
   //       sourceUrl: 'https://github.com/angular/angular/releases',
   //       authorName: 'Dylan Hunn',
   //       authorUrl: 'https://github.com/dylhunn',
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -5311,7 +5070,6 @@ export const posts = [
   //       sourceUrl: 'https://www.htmlgoodies.com',
   //       authorName: 'Rob Gravelle',
   //       authorUrl: 'https://www.htmlgoodies.com/author/rob-gravelle/',
-  //       likes: 0,
   //       tags: ['ViewChild'],
   //     },
   //     {
@@ -5331,7 +5089,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'Jamstack TV',
   //       authorUrl: 'https://www.youtube.com/channel/UC8bRyfU7ycLXnEBfvdorpUg',
-  //       likes: 0,
   //       tags: ['Angular 13'],
   //     },
   //     {
@@ -5350,7 +5107,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'JS Frameworks',
   //       authorUrl: 'https://www.youtube.com/c/JSFrameworks/videos',
-  //       likes: 0,
   //       tags: ['ESLint'],
   //     },
   //   ],
@@ -5377,7 +5133,6 @@ export const posts = [
   //         'https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc',
   //       authorName: 'Jonathan Gamble',
   //       authorUrl: 'https://dev.to/jdgamble555',
-  //       likes: 0,
   //       tags: ['Async Pipe'],
   //     },
   //     {
@@ -5397,7 +5152,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'Monsterlessons Academy',
   //       authorUrl: 'https://www.youtube.com/watch?v=fiMr91imiHc',
-  //       likes: 0,
   //       tags: ['Dot Files', 'Bash Scripts'],
   //     },
   //     {
@@ -5417,7 +5171,6 @@ export const posts = [
   //       sourceUrl: 'https://devchat.tv',
   //       authorName: 'Adventures In Angular',
   //       authorUrl: 'https://devchat.tv/show/adventures-in-angular/',
-  //       likes: 0,
   //       tags: ['Deploy'],
   //     },
   //     {
@@ -5438,7 +5191,6 @@ export const posts = [
   //       sourceUrl: 'https://webrush.io',
   //       authorName: '',
   //       authorUrl: '',
-  //       likes: 0,
   //       tags: ['Theming', 'Accessibility'],
   //     },
   //     {
@@ -5457,7 +5209,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'Angular Nation',
   //       authorUrl: 'https://www.youtube.com/channel/UCmlK6Jayb3qqJYNfUmL-DkA',
-  //       likes: 0,
   //       tags: ['Docker'],
   //     },
   //     {
@@ -5477,7 +5228,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'The Nomad Programmer',
   //       authorUrl: 'https://www.youtube.com/channel/UCsybtddeV8e5LoCHphjc5LA',
-  //       likes: 0,
   //       tags: ['Testing', 'Unit Tests'],
   //     },
   //     {
@@ -5497,7 +5247,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'Creative Developer',
   //       authorUrl: 'https://www.youtube.com/c/CreativeDeveloper/videos',
-  //       likes: 0,
   //       tags: ['Lifecycle Hooks', 'ngOnChanges'],
   //     },
   //     {
@@ -5516,7 +5265,6 @@ export const posts = [
   //       sourceUrl: 'https://github.com/angular/angular/releases',
   //       authorName: 'Joey Perrott',
   //       authorUrl: 'https://github.com/josephperrott',
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -5535,7 +5283,6 @@ export const posts = [
   //       sourceUrl: 'https://github.com/angular/angular/releases',
   //       authorName: 'Andrew Scott',
   //       authorUrl: 'https://github.com/atscott',
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -5554,7 +5301,6 @@ export const posts = [
   //       sourceUrl: 'https://github.com/angular/angular/releases',
   //       authorName: 'Dylan Hunn',
   //       authorUrl: 'https://github.com/AndrewKushnir',
-  //       likes: 0,
   //       tags: [],
   //     },
   //   ],
@@ -5580,7 +5326,6 @@ export const posts = [
   //       sourceUrl: 'https://stackblogger.com',
   //       authorName: 'Jameer Khan',
   //       authorUrl: 'https://stackblogger.com/about-us/',
-  //       likes: 0,
   //       tags: [
   //         'RxJS',
   //         'map',
@@ -5610,7 +5355,6 @@ export const posts = [
   //         'https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc',
   //       authorName: 'Zack DeRose',
   //       authorUrl: 'https://dev.to/zackderose',
-  //       likes: 0,
   //       tags: ['RxJS'],
   //     },
   //     {
@@ -5630,7 +5374,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'Angular',
   //       authorUrl: 'https://www.youtube.com/channel/UCbn1OgGei-DV7aSRo_HaAiw',
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -5650,7 +5393,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'Workshops.DE',
   //       authorUrl: 'https://www.youtube.com/channel/UC7nGzQTgvPBRIo8rOGPGuaQ',
-  //       likes: 0,
   //       tags: ['NgRx'],
   //     },
   //     {
@@ -5670,7 +5412,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'Nevyan Neykov',
   //       authorUrl: 'https://www.youtube.com/channel/UC69XQPDbEpfAtO5S2-ZyNoA',
-  //       likes: 0,
   //       tags: ['RxJS'],
   //     },
   //     {
@@ -5691,7 +5432,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'ng-conf',
   //       authorUrl: 'https://www.youtube.com/channel/UCm9iiIfgmVODUJxINecHQkA',
-  //       likes: 0,
   //       tags: ['RxJS', 'Animations'],
   //     },
   //     {
@@ -5712,7 +5452,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'CodeWellTech',
   //       authorUrl: 'https://www.youtube.com/channel/UCy14dvlHvVLn0ohYS6YNRsw',
-  //       likes: 0,
   //       tags: ['Dependency Injection'],
   //     },
   //     {
@@ -5732,7 +5471,6 @@ export const posts = [
   //       sourceUrl: 'https://medium.com/tag/angular/latest',
   //       authorName: 'Deepinder Singh',
   //       authorUrl: 'https://medium.com/@iamdeepinder',
-  //       likes: 0,
   //       tags: ['Bundle Size'],
   //     },
   //   ],
@@ -5759,7 +5497,6 @@ export const posts = [
   //         'https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc',
   //       authorName: 'Sanket Maru',
   //       authorUrl: 'https://dev.to/sanketmaru',
-  //       likes: 0,
   //       tags: ['Dependency Injection'],
   //     },
   //     {
@@ -5779,7 +5516,6 @@ export const posts = [
   //       sourceUrl: 'https://dzone.com',
   //       authorName: 'Jawad Hasan Shani',
   //       authorUrl: 'https://dzone.com/users/2951752/jawadhasan.html',
-  //       likes: 0,
   //       tags: ['Auth'],
   //     },
   //     {
@@ -5799,7 +5535,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'Angular',
   //       authorUrl: 'https://www.youtube.com/channel/UCbn1OgGei-DV7aSRo_HaAiw',
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -5819,7 +5554,6 @@ export const posts = [
   //       sourceUrl: 'https://open.spotify.com',
   //       authorName: 'Angular Master Podcast',
   //       authorUrl: 'https://open.spotify.com/show/1wgZAEEIoRZ8eP78LTbyZf',
-  //       likes: 0,
   //       tags: ['NgRx', 'Testing'],
   //     },
   //     {
@@ -5841,7 +5575,6 @@ export const posts = [
   //         'https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc',
   //       authorName: 'Rodrigo Kamada',
   //       authorUrl: 'https://dev.to/rodrigokamada',
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -5861,7 +5594,6 @@ export const posts = [
   //       sourceUrl: 'https://www.telerik.com/blogs',
   //       authorName: 'Alyssa Nicoll',
   //       authorUrl: 'https://www.telerik.com/blogs/author/alyssa-nicoll',
-  //       likes: 0,
   //       tags: ['Standalone Components'],
   //     },
   //     {
@@ -5881,7 +5613,6 @@ export const posts = [
   //       sourceUrl: 'https://medium.com/tag/angular/latest',
   //       authorName: 'Mahjoub Saifeddine',
   //       authorUrl: 'https://medium.com/@mahjoub.saifeddine',
-  //       likes: 0,
   //       tags: ['RxJS'],
   //     },
   //   ],
@@ -5908,7 +5639,6 @@ export const posts = [
   //         'https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc',
   //       authorName: 'Peter Ruttkay-Nedecký',
   //       authorUrl: 'https://dev.to/pruttned',
-  //       likes: 0,
   //       tags: ['RxJS', 'Subscriptions', 'HttpClient],
   //     },
   //     {
@@ -5928,7 +5658,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'Rainer Stropek',
   //       authorUrl: 'https://www.youtube.com/channel/UCo2T5CWtdbj4NveB5flTD4A',
-  //       likes: 0,
   //       tags: ['RxJS'],
   //     },
   //     {
@@ -5949,7 +5678,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'Creative Developer',
   //       authorUrl: 'https://www.youtube.com/c/CreativeDeveloper/videos',
-  //       likes: 0,
   //       tags: [
   //         'Lifecycle Hooks',
   //         'ngAfterContentInit',
@@ -5980,7 +5708,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'ng-conf',
   //       authorUrl: 'https://www.youtube.com/channel/UCm9iiIfgmVODUJxINecHQkA',
-  //       likes: 0,
   //       tags: ['PWA'],
   //     },
   //     {
@@ -6000,7 +5727,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'Learning Partner',
   //       authorUrl: 'https://www.youtube.com/channel/UCtLj4BjaQkltZ6NfLnmEigg',
-  //       likes: 0,
   //       tags: ['Routing', 'Route Guards'],
   //     },
   //     {
@@ -6020,7 +5746,6 @@ export const posts = [
   //       sourceUrl: 'https://spreaker.com',
   //       authorName: 'Angular Experience',
   //       authorUrl: 'https://angular-experience.web.app/episodes',
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -6040,7 +5765,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'Learning Partner',
   //       authorUrl: 'https://www.youtube.com/channel/UCtLj4BjaQkltZ6NfLnmEigg',
-  //       likes: 0,
   //       tags: ['Dynamic Factory', 'viewContainerRef'],
   //     },
   //     {
@@ -6061,7 +5785,6 @@ export const posts = [
   //         'https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc',
   //       authorName: 'Pavan K Jadda',
   //       authorUrl: 'https://dev.to/pavankjadda',
-  //       likes: 0,
   //       tags: ['Universal', 'SSR'],
   //     },
   //     {
@@ -6082,7 +5805,6 @@ export const posts = [
   //         'https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc',
   //       authorName: 'Gesiel Rosa',
   //       authorUrl: 'https://dev.to/gesielrosa',
-  //       likes: 0,
   //       tags: ['Lazy Loading'],
   //     },
   //     {
@@ -6102,7 +5824,6 @@ export const posts = [
   //       sourceUrl: 'https://medium.com/tag/angular/latest',
   //       authorName: 'Bananica Bananica',
   //       authorUrl: 'https://medium.com/@bananicabananica',
-  //       likes: 0,
   //       tags: [],
   //     },
   //   ],
@@ -6128,7 +5849,6 @@ export const posts = [
   //       sourceUrl: 'https://indepth.dev/',
   //       authorName: 'Alex Inkin',
   //       authorUrl: 'https://indepth.dev/authors/1022/alex',
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -6150,7 +5870,6 @@ export const posts = [
   //       authorName: 'Decoded Frontend',
   //       authorUrl: 'https://www.youtube.com/channel/UCSj1Igu3ejxqcQISNEmx8VQ',
   //       speakers: ['Dmytro Mezhenskyi'],
-  //       likes: 0,
   //       tags: ['RxJS', 'switchMap', 'mergeMap'],
   //     },
   //     {
@@ -6170,7 +5889,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'Slobodan Gajic',
   //       authorUrl: 'https://www.youtube.com/channel/UCBu5ulO4d-d47lAVybpRTkw',
-  //       likes: 0,
   //       tags: ['HTTP', 'HttpClient'],
   //     },
   //     {
@@ -6191,7 +5909,6 @@ export const posts = [
   //         'https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc',
   //       authorName: 'queencykoh',
   //       authorUrl: 'https://dev.to/queencykoh',
-  //       likes: 0,
   //       tags: ['Content Projection', 'ngContent'],
   //     },
   //     {
@@ -6212,7 +5929,6 @@ export const posts = [
   //         'https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc',
   //       authorName: 'Ivan Zadivar',
   //       authorUrl: 'https://dev.to/ivanz123',
-  //       likes: 0,
   //       tags: ['TypeScript', 'Decorators'],
   //     },
   //     {
@@ -6234,7 +5950,6 @@ export const posts = [
   //       authorName: 'Brandon Roberts',
   //       authorUrl: 'https://dev.to/brandontroberts',
   //       speakers: ['Brandon Roberts']
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -6254,7 +5969,6 @@ export const posts = [
   //       sourceUrl: 'https://www.telerik.com/blogs',
   //       authorName: 'Nwose Lotanna Victor',
   //       authorUrl: 'https://www.telerik.com/blogs/author/nwose-lotanna',
-  //       likes: 0,
   //       tags: ['Input Decorator'],
   //     },
   //   ],
@@ -6280,7 +5994,6 @@ export const posts = [
   //       sourceUrl: 'https://open.spotify.com',
   //       authorName: 'Angular Master Podcast',
   //       authorUrl: 'https://open.spotify.com/show/1wgZAEEIoRZ8eP78LTbyZf',
-  //       likes: 0,
   //       tags: ['Firebase'],
   //     },
   //     {
@@ -6300,7 +6013,6 @@ export const posts = [
   //       sourceUrl: 'https://dev.to/',
   //       authorName: 'Himanshu Tripathi',
   //       authorUrl: 'https://dev.to/trihims',
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -6319,7 +6031,6 @@ export const posts = [
   //       sourceUrl: 'https://github.com/angular/angular/releases',
   //       authorName: 'Andrew Scott',
   //       authorUrl: 'https://github.com/atscott',
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -6338,7 +6049,6 @@ export const posts = [
   //       sourceUrl: 'https://github.com/angular/angular/releases',
   //       authorName: 'Andrew Scott',
   //       authorUrl: 'https://github.com/atscott',
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -6358,7 +6068,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'Joshua Morony',
   //       authorUrl: 'https://www.youtube.com/channel/UCbVZdLngJH6KOJvpAOO3qTw',
-  //       likes: 0,
   //       tags: ['Async Pipe'],
   //     },
   //     {
@@ -6377,7 +6086,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'Rainer Stropek',
   //       authorUrl: 'https://www.youtube.com/channel/UCo2T5CWtdbj4NveB5flTD4A',
-  //       likes: 0,
   //       tags: ['Async Pipe'],
   //     },
   //     {
@@ -6397,7 +6105,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'Zoaib Khan',
   //       authorUrl: 'https://www.youtube.com/channel/UC7__K3OjyT1Ekf_Spi7O8Yg',
-  //       likes: 0,
   //       tags: ['Forms'],
   //     },
   //     {
@@ -6417,7 +6124,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'ng-conf',
   //       authorUrl: 'https://www.youtube.com/channel/UCm9iiIfgmVODUJxINecHQkA',
-  //       likes: 0,
   //       tags: ['RxJS'],
   //     },
   //     {
@@ -6438,7 +6144,6 @@ export const posts = [
   //       sourceUrl: 'https://dev.to/',
   //       authorName: 'Lars Gyrup Brink Nielsen',
   //       authorUrl: 'https://dev.to/layzee',
-  //       likes: 0,
   //       tags: ['Testing'],
   //     },
   //   ],
@@ -6464,7 +6169,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'This Dot Media',
   //       authorUrl: 'https://www.youtube.com/channel/UCHkqtrnQO2HMyW50ixOtJGw',
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -6484,7 +6188,6 @@ export const posts = [
   //       sourceUrl: 'https://webrush.io',
   //       authorName: '',
   //       authorUrl: '',
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -6504,7 +6207,6 @@ export const posts = [
   //       sourceUrl: 'https://stackblogger.com',
   //       authorName: 'Jameer Khan',
   //       authorUrl: 'https://stackblogger.com/about-us/',
-  //       likes: 0,
   //       tags: ['Data Visualization'],
   //     },
   //     {
@@ -6525,7 +6227,6 @@ export const posts = [
   //       guestName: 'Adithya Sreyaj',
   //       authorName: 'Adithya Sreyaj | Angular Nation',
   //       authorUrl: 'https://www.youtube.com/channel/UCmlK6Jayb3qqJYNfUmL-DkA',
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -6545,7 +6246,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'dotNETZurich',
   //       authorUrl: 'https://www.youtube.com/channel/UCWuYsjeoNPZhErIhXP-iRgA',
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -6566,7 +6266,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'Competent Programming',
   //       authorUrl: 'https://www.youtube.com/channel/UCZBwn0Sdl3mabNeDCIJmNlg',
-  //       likes: 0,
   //       tags: ['RxJS', 'NgRx'],
   //     },
   //     {
@@ -6586,7 +6285,6 @@ export const posts = [
   //       sourceUrl: '',
   //       authorName: 'Lookout.dev',
   //       authorUrl: 'https://lookout.dev',
-  //       likes: 0,
   //       tags: ['Community'],
   //     },
   //     {
@@ -6608,7 +6306,6 @@ export const posts = [
   //       authorName: 'Leela Web Dev',
   //       authorUrl: 'https://www.youtube.com/c/LeelaWebDev/videos',
   //       speakers: ['Leela Narasimha'],
-  //       likes: 0,
   //       tags: ['RxJS', 'map'],
   //     },
   //     {
@@ -6628,7 +6325,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'Rainer Hahnekamp',
   //       authorUrl: 'https://www.youtube.com/c/RainerHahnekamp/videos',
-  //       likes: 0,
   //       tags: ['NgRx', 'createFeature'],
   //     },
   //   ],
@@ -6655,7 +6351,6 @@ export const posts = [
   //       sourceUrl: 'https://devchat.tv',
   //       authorName: 'Adventures In Angular',
   //       authorUrl: 'https://devchat.tv/show/adventures-in-angular/',
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -6675,7 +6370,6 @@ export const posts = [
   //       sourceUrl: 'https://open.spotify.com',
   //       authorName: 'Angular Master Podcast',
   //       authorUrl: 'https://open.spotify.com/show/1wgZAEEIoRZ8eP78LTbyZf',
-  //       likes: 0,
   //       tags: ['Performance'],
   //     },
   //     {
@@ -6694,7 +6388,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'AngularAir',
   //       authorUrl: 'https://www.youtube.com/c/AngularAirPodcast/videos',
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -6715,7 +6408,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'ng-conf',
   //       authorUrl: 'https://www.youtube.com/channel/UCm9iiIfgmVODUJxINecHQkA',
-  //       likes: 0,
   //       tags: ['TypeScript'],
   //     },
   //     {
@@ -6736,7 +6428,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'Angular University',
   //       authorUrl: 'https://www.youtube.com/channel/UC3cEGKhg3OERn-ihVsJcb7A',
-  //       likes: 0,
   //       tags: ['Angular Material'],
   //     },
   //     {
@@ -6757,7 +6448,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'Rudra Tech 2014',
   //       authorUrl: 'https://www.youtube.com/c/RudraTech2014/videos',
-  //       likes: 0,
   //       tags: ['Angular Material'],
   //     },
   //     {
@@ -6778,7 +6468,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'Learning Points',
   //       authorUrl: 'https://www.youtube.com/channel/UCDvC2AsVVYH8tQmZ0L-E3pA',
-  //       likes: 0,
   //       tags: ['Routing'],
   //     },
   //     {
@@ -6799,7 +6488,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'Creative Developer',
   //       authorUrl: 'https://www.youtube.com/c/CreativeDeveloper/videos',
-  //       likes: 0,
   //       tags: ['Custom Directive', 'HostListener'],
   //     },
   //     {
@@ -6819,7 +6507,6 @@ export const posts = [
   //       sourceUrl: 'https://blog.logrocket.com',
   //       authorName: 'Emmanuel John',
   //       authorUrl: 'https://blog.logrocket.com/author/emmanueljohn/',
-  //       likes: 0,
   //       tags: ['RxJS'],
   //     },
   //   ],
@@ -6845,7 +6532,6 @@ export const posts = [
   //         'https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc',
   //       authorName: 'Rodrigo Kamada',
   //       authorUrl: 'https://dev.to/rodrigokamada',
-  //       likes: 0,
   //       tags: ['reCAPTCHA'],
   //     },
   //     {
@@ -6867,7 +6553,6 @@ export const posts = [
   //       authorName: 'Leela Web Dev',
   //       authorUrl: 'https://www.youtube.com/c/LeelaWebDev/videos',
   //       speakers: ['Leela Narasimha'],
-  //       likes: 0,
   //       tags: ['RxJS', 'Change Detection'],
   //     },
   //     {
@@ -6889,7 +6574,6 @@ export const posts = [
   //       authorName: 'Code Shots With Profanis',
   //       authorUrl:
   //         'https://www.youtube.com/channel/UCgJAoZCYx1Dk3iGPHSIgV1A/videos',
-  //       likes: 0,
   //       tags: ['Libraries'],
   //     },
   //     {
@@ -6910,7 +6594,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'Coding Under Pressure',
   //       authorUrl: 'https://www.youtube.com/channel/UCdGYTnk-Ll4S6yOsYwU8D2w',
-  //       likes: 0,
   //       tags: ['TypeScript'],
   //     },
   //     {
@@ -6929,7 +6612,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'js ua',
   //       authorUrl: 'https://www.youtube.com/channel/UClalXOJc3IVxk-sYmycfABA',
-  //       likes: 0,
   //       tags: ['TypeScript'],
   //     },
   //   ],
@@ -6955,7 +6637,6 @@ export const posts = [
   //         'https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc',
   //       authorName: 'Carlos Dubón',
   //       authorUrl: 'https://dev.to/cdubon',
-  //       likes: 0,
   //       tags: ['Validation', 'Reactive Forms'],
   //     },
   //     {
@@ -6976,7 +6657,6 @@ export const posts = [
   //       sourceUrl: 'https://indepth.dev/',
   //       authorName: 'Thabo Ambrose',
   //       authorUrl: 'https://indepth.dev/authors/1090/thabo',
-  //       likes: 0,
   //       tags: ['Reactive Forms'],
   //     },
   //     {
@@ -6997,7 +6677,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'Web Dev Junkie',
   //       authorUrl: 'https://www.youtube.com/channel/UCsrVDPJBYeXItETFHG0qzyw',
-  //       likes: 0,
   //       tags: ['Testing', 'Jest', 'Unit Tests'],
   //     },
   //   ],
@@ -7023,7 +6702,6 @@ export const posts = [
   //       sourceUrl: 'https://spreaker.com',
   //       authorName: 'Angular Experience',
   //       authorUrl: 'https://angular-experience.web.app/episodes',
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -7044,7 +6722,6 @@ export const posts = [
   //         'https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc',
   //       authorName: 'Stephen Cooper',
   //       authorUrl: 'https://dev.to/scooperdev',
-  //       likes: 0,
   //       tags: ['JSDoc', 'AST'],
   //     },
   //     {
@@ -7064,7 +6741,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'ng-conf',
   //       authorUrl: 'https://www.youtube.com/channel/UCm9iiIfgmVODUJxINecHQkA',
-  //       likes: 0,
   //       tags: ['Scully'],
   //     },
   //     {
@@ -7086,7 +6762,6 @@ export const posts = [
   //       authorName: 'Leela Web Dev',
   //       authorUrl: 'https://www.youtube.com/c/LeelaWebDev/videos',
   //       speakers: ['Leela Narasimha'],
-  //       likes: 0,
   //       tags: ['RxJS', 'ngOnDestroy'],
   //     },
   //     {
@@ -7106,7 +6781,6 @@ export const posts = [
   //       sourceUrl: 'https://www.telerik.com/blogs',
   //       authorName: 'Nwose Lotanna Victor',
   //       authorUrl: 'https://www.telerik.com/blogs/author/nwose-lotanna',
-  //       likes: 0,
   //       tags: ['Output Decorator'],
   //     },
   //   ],
@@ -7132,7 +6806,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'Google Chrome Developers',
   //       authorUrl: 'https://www.youtube.com/c/GoogleChromeDevelopers/videos',
-  //       likes: 0,
   //       tags: ['SPA'],
   //     },
   //     {
@@ -7153,7 +6826,6 @@ export const posts = [
   //       authorName: 'Decoded Frontend',
   //       authorUrl: 'https://www.youtube.com/c/DecodedFrontend/videos',
   //       speakers: ['Dmytro Mezhenskyi'],
-  //       likes: 0,
   //       tags: ['RxJS', 'distinctUntilChanged'],
   //     },
   //     {
@@ -7175,7 +6847,6 @@ export const posts = [
   //       authorName: 'Coding Under Pressure',
   //       authorUrl:
   //         'https://www.youtube.com/channel/UCdGYTnk-Ll4S6yOsYwU8D2w/videos',
-  //       likes: 0,
   //       tags: ['Angular Material', 'Getters/Setters'],
   //     },
   //     {
@@ -7195,7 +6866,6 @@ export const posts = [
   //       sourceUrl: 'https://open.spotify.com',
   //       authorName: 'Angular Master Podcast',
   //       authorUrl: 'https://open.spotify.com/show/1wgZAEEIoRZ8eP78LTbyZf',
-  //       likes: 0,
   //       tags: ['GraphQL'],
   //     },
   //     {
@@ -7215,7 +6885,6 @@ export const posts = [
   //       authorName: 'Angular Nation',
   //       authorUrl:
   //         'https://www.youtube.com/channel/UCmlK6Jayb3qqJYNfUmL-DkA/videos',
-  //       likes: 0,
   //       tags: ['Optional Modules'],
   //     },
   //     {
@@ -7236,7 +6905,6 @@ export const posts = [
   //         'https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc',
   //       authorName: 'Kyle Nazario',
   //       authorUrl: 'https://dev.to/kbn_au',
-  //       likes: 0,
   //       tags: ['RxJS', 'share'],
   //     },
   //     {
@@ -7256,7 +6924,6 @@ export const posts = [
   //       sourceUrl: 'https://www.infoworld.com/',
   //       authorName: 'Paul Krill',
   //       authorUrl: 'https://www.infoworld.com/author/Paul-Krill/',
-  //       likes: 0,
   //       tags: ['Angular 13'],
   //     },
   //     {
@@ -7277,7 +6944,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'Fireship',
   //       authorUrl: 'https://www.youtube.com/watch?v=pfaSUYaSgRo',
-  //       likes: 0,
   //       tags: ['Tailwind'],
   //     },
   //     {
@@ -7298,7 +6964,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'Lucas Paganini',
   //       authorUrl: 'https://www.youtube.com/user/LucasPaganiniDM/videos',
-  //       likes: 0,
   //       tags: ['TypeScript'],
   //     },
   //     {
@@ -7319,7 +6984,6 @@ export const posts = [
   //         'https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc',
   //       authorName: 'Chandler Baskins',
   //       authorUrl: 'https://dev.to/chandlerbaskins',
-  //       likes: 0,
   //       tags: ['NgRx'],
   //     },
   //   ],
@@ -7347,7 +7011,6 @@ export const posts = [
   //         'https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc',
   //       authorName: 'Dzhavat Ushev',
   //       authorUrl: 'https://dev.to/dzhavat',
-  //       likes: 0,
   //       tags: ['Angular Material', 'Button', 'Dynamic Components'],
   //     },
   //     {
@@ -7367,7 +7030,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'Cognizant Softvision',
   //       authorUrl: 'https://www.youtube.com/c/SoftVisionTeam/videos',
-  //       likes: 0,
   //       tags: ['Firebase'],
   //     },
   //     {
@@ -7388,7 +7050,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'Cognizant Softvision',
   //       authorUrl: 'https://www.youtube.com/c/SoftVisionTeam/videos',
-  //       likes: 0,
   //       tags: ['Domain Driven Design'],
   //     },
   //     {
@@ -7409,7 +7070,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'freeCodeCamp.org',
   //       authorUrl: 'https://www.youtube.com/c/Freecodecamp/videos',
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -7429,7 +7089,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'This Dot Media',
   //       authorUrl: 'https://www.youtube.com/c/ThisDotMedia/videos',
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -7450,7 +7109,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'ng-conf',
   //       authorUrl: 'https://www.youtube.com/c/ngconfonline/videos',
-  //       likes: 0,
   //       tags: ['Tailwind'],
   //     },
   //     {
@@ -7469,7 +7127,6 @@ export const posts = [
   //       sourceUrl: 'https://github.com/angular/angular/releases',
   //       authorName: 'Andrew Kushnir',
   //       authorUrl: 'https://github.com/AndrewKushnir',
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -7488,7 +7145,6 @@ export const posts = [
   //       sourceUrl: 'https://github.com/angular/angular/releases',
   //       authorName: 'Andrew Kushnir',
   //       authorUrl: 'https://github.com/AndrewKushnir',
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -7509,7 +7165,6 @@ export const posts = [
   //       sourceUrl: 'https://segmentfault.com',
   //       authorName: 'JerryWang',
   //       authorUrl: 'https://segmentfault.com/u/jerrywangsap',
-  //       likes: 0,
   //       tags: ['ng-template', 'ng-content', 'ng-container', 'ngTemplateOutlet'],
   //     },
   //     {
@@ -7530,7 +7185,6 @@ export const posts = [
   //         'https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc',
   //       authorName: 'EzzyLearning.net',
   //       authorUrl: 'https://dev.to/ezzylearning',
-  //       likes: 0,
   //       tags: ['Single Page App'],
   //     },
   //   ],
@@ -7556,7 +7210,6 @@ export const posts = [
   //       sourceUrl: 'https://webrush.io',
   //       authorName: '',
   //       authorUrl: '',
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -7577,7 +7230,6 @@ export const posts = [
   //         'https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc',
   //       authorName: 'Iacovos Constantinou',
   //       authorUrl: 'https://dev.to/iacons',
-  //       likes: 0,
   //       tags: ['Tailwind'],
   //     },
   //     {
@@ -7597,7 +7249,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'JetBrainsTV',
   //       authorUrl: 'https://www.youtube.com/user/JetBrainsTV/videos',
-  //       likes: 0,
   //       tags: ['Angular 13'],
   //     },
   //     {
@@ -7618,7 +7269,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'NG-Poland',
   //       authorUrl: 'https://www.youtube.com/c/NGPoland/videos',
-  //       likes: 0,
   //       tags: ['Cookies', 'Local Storage', 'Styles'],
   //     },
   //     {
@@ -7639,7 +7289,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'JetBrainsTV',
   //       authorUrl: 'https://www.youtube.com/user/JetBrainsTV/videos',
-  //       likes: 0,
   //       tags: ['Open Source'],
   //     },
   //     {
@@ -7660,7 +7309,6 @@ export const posts = [
   //       authorName: 'Tech with Prince Harsha',
   //       authorUrl:
   //         'https://www.youtube.com/channel/UC_0jKHC_1o1djPkumW5HYHw/videos',
-  //       likes: 0,
   //       tags: ['Auth'],
   //     },
   //     {
@@ -7680,7 +7328,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'Zack DeRose',
   //       authorUrl: 'https://www.youtube.com/c/ZackDeRoseDev/videos',
-  //       likes: 0,
   //       tags: ['RxJS'],
   //     },
   //     {
@@ -7701,7 +7348,6 @@ export const posts = [
   //       authorName: 'Angular University',
   //       authorUrl:
   //         'https://www.youtube.com/channel/UC3cEGKhg3OERn-ihVsJcb7A/videos',
-  //       likes: 0,
   //       tags: ['Angular Material', 'Pagination', 'ViewChild'],
   //     },
   //     {
@@ -7721,7 +7367,6 @@ export const posts = [
   //       sourceUrl: 'https://www.split.io/blog',
   //       authorName: 'Toni Franulić',
   //       authorUrl: 'https://www.split.io/blog',
-  //       likes: 0,
   //       tags: ['Feature Flags'],
   //     },
   //     {
@@ -7741,7 +7386,6 @@ export const posts = [
   //       sourceUrl: 'https://hackernoon.com',
   //       authorName: 'Tetiana Stoyko',
   //       authorUrl: 'https://hackernoon.com/u/tetianastoyko',
-  //       likes: 0,
   //       tags: ['Feature Flags'],
   //     },
   //     {
@@ -7762,7 +7406,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'Jack Herrington',
   //       authorUrl: 'https://www.youtube.com/c/JackHerrington/videos',
-  //       likes: 0,
   //       tags: ['TypeScript'],
   //     },
   //   ],
@@ -7788,7 +7431,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'Coding Tutorials',
   //       authorUrl: 'https://www.youtube.com/c/CodingTutorialsAreGo/videos',
-  //       likes: 0,
   //       tags: ['TypeScript'],
   //     },
   //     {
@@ -7808,7 +7450,6 @@ export const posts = [
   //       sourceUrl: 'https://devchat.tv',
   //       authorName: 'Adventures In Angular',
   //       authorUrl: 'https://devchat.tv/show/adventures-in-angular/',
-  //       likes: 0,
   //       tags: ['ESLint'],
   //     },
   //     {
@@ -7828,7 +7469,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'AngularAir',
   //       authorUrl: 'https://www.youtube.com/c/AngularAirPodcast/videos',
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -7849,7 +7489,6 @@ export const posts = [
   //       sourceUrl: 'https://hashnode.com',
   //       authorName: 'Federico Giacomini',
   //       authorUrl: 'https://crocsx.hashnode.dev',
-  //       likes: 0,
   //       tags: ['Nx'],
   //     },
   //     {
@@ -7870,7 +7509,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'ng-conf',
   //       authorUrl: 'https://www.youtube.com/c/ngconfonline/videos',
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -7890,7 +7528,6 @@ export const posts = [
   //       authorName: 'DSC CSULB',
   //       authorUrl:
   //         'https://www.youtube.com/channel/UCyUh_nZfIPfwu3kNzBbPoFQ/videos',
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -7911,7 +7548,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'Zoaib Khan',
   //       authorUrl: 'https://www.youtube.com/c/zoaibkhan/videos',
-  //       likes: 0,
   //       tags: ['Angular CDK', 'RxJS'],
   //     },
   //     {
@@ -7931,7 +7567,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'Omerko',
   //       authorUrl: 'https://www.youtube.com/c/Omerko/videos',
-  //       likes: 0,
   //       tags: ['Angular Material'],
   //     },
   //     {
@@ -7952,7 +7587,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'Moralis Web3',
   //       authorUrl: 'https://www.youtube.com/c/MoralisWeb3/videos',
-  //       likes: 0,
   //       tags: [],
   //     },
   //   ],
@@ -7978,7 +7612,6 @@ export const posts = [
   //       authorName: 'Angular Nation',
   //       authorUrl:
   //         'https://www.youtube.com/channel/UCmlK6Jayb3qqJYNfUmL-DkA/videos',
-  //       likes: 0,
   //       tags: ['Micro Frontends', 'Architecture'],
   //     },
   //     {
@@ -7998,7 +7631,6 @@ export const posts = [
   //       sourceUrl: 'https://open.spotify.com',
   //       authorName: 'Angular Master Podcast',
   //       authorUrl: 'https://open.spotify.com/show/1wgZAEEIoRZ8eP78LTbyZf',
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -8018,7 +7650,6 @@ export const posts = [
   //       sourceUrl: 'https://medium.com/tag/angular/latest',
   //       authorName: 'Yurii K',
   //       authorUrl: 'https://yurii-k.medium.com',
-  //       likes: 0,
   //       tags: ['FlexLayoutModule'],
   //     },
   //     {
@@ -8037,7 +7668,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'okay java',
   //       authorUrl: 'https://www.youtube.com/c/okayjava/videos',
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -8057,7 +7687,6 @@ export const posts = [
   //       sourceUrl: 'https://medium.com/tag/angular/latest',
   //       authorName: 'Bananica Bananica',
   //       authorUrl: 'https://medium.com/@bananicabananica',
-  //       likes: 0,
   //       tags: [],
   //     },
   //   ],
@@ -8084,7 +7713,6 @@ export const posts = [
   //       authorName: 'Angular Nation',
   //       authorUrl:
   //         'https://www.youtube.com/channel/UCmlK6Jayb3qqJYNfUmL-DkA/videos',
-  //       likes: 0,
   //       tags: ['View Encapsulation', 'ng-deep', 'host-context'],
   //     },
   //     {
@@ -8104,7 +7732,6 @@ export const posts = [
   //       sourceUrl: 'https://www.sitepen.com',
   //       authorName: '',
   //       authorUrl: '',
-  //       likes: 0,
   //       tags: ['TypeScript'],
   //     },
   //     {
@@ -8124,7 +7751,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'gleb bahmutov',
   //       authorUrl: 'https://www.youtube.com/c/glebbahmutov/videos',
-  //       likes: 0,
   //       tags: ['Cypress', 'Infinite Scroll'],
   //     },
   //     {
@@ -8144,7 +7770,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'JoanMedia',
   //       authorUrl: 'https://www.youtube.com/c/joanmedia/videos',
-  //       likes: 0,
   //       tags: ['Cypress'],
   //     },
   //     {
@@ -8165,7 +7790,6 @@ export const posts = [
   //         'https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc',
   //       authorName: 'Jonathan Gamble',
   //       authorUrl: 'https://dev.to/jdgamble555',
-  //       likes: 0,
   //       tags: ['Angular Material', 'Chips'],
   //     },
   //     {
@@ -8187,7 +7811,6 @@ export const posts = [
   //         'https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc',
   //       authorName: 'Murat K Ozcan',
   //       authorUrl: 'https://dev.to/muratkeremozcan',
-  //       likes: 0,
   //       tags: ['Cypress'],
   //     },
   //     {
@@ -8209,7 +7832,6 @@ export const posts = [
   //         'https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc',
   //       authorName: 'Sandeep Balachandran',
   //       authorUrl: 'https://dev.to/sandeepbalachandran',
-  //       likes: 0,
   //       tags: ['Deploy', 'GitHub Actions'],
   //     },
   //     {
@@ -8231,7 +7853,6 @@ export const posts = [
   //       authorName: 'Henry Codes',
   //       authorUrl:
   //         'https://www.youtube.com/channel/UCdTTRpU_vpCXgHdJmOy12_A/videos',
-  //       likes: 0,
   //       tags: ['Auth'],
   //     },
   //   ],
@@ -8258,7 +7879,6 @@ export const posts = [
   //         'https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc',
   //       authorName: 'Damien Chazoule',
   //       authorUrl: 'https://dev.to/mrdoomy',
-  //       likes: 0,
   //       tags: ['NestJS'],
   //     },
   //     {
@@ -8278,7 +7898,6 @@ export const posts = [
   //       sourceUrl: 'https://spreaker.com',
   //       authorName: 'Angular Experience',
   //       authorUrl: 'https://angular-experience.web.app/episodes',
-  //       likes: 0,
   //       tags: ['Security'],
   //     },
   //     {
@@ -8298,7 +7917,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'ng-conf',
   //       authorUrl: 'https://www.youtube.com/c/ngconfonline/videos',
-  //       likes: 0,
   //       tags: ['RxJS', 'catchError', 'takeUntil'],
   //     },
   //     {
@@ -8319,7 +7937,6 @@ export const posts = [
   //       authorName: 'Nrwl - Narwhal Technologies Inc.',
   //       authorUrl: 'https://www.youtube.com/c/Nrwl_io/videos',
   //       speakers: ['Brandon Roberts']
-  //       likes: 0,
   //       tags: ['Nx'],
   //     },
   //     {
@@ -8339,7 +7956,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'Briebug',
   //       authorUrl: 'https://www.youtube.com/c/Briebugsoftwaresolutions/videos',
-  //       likes: 0,
   //       tags: ['Pipes'],
   //     },
   //     {
@@ -8360,7 +7976,6 @@ export const posts = [
   //         'https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc',
   //       authorName: 'bob.js',
   //       authorUrl: 'https://dev.to/rfornal',
-  //       likes: 0,
   //       tags: ['Interceptors'],
   //     },
   //     {
@@ -8382,7 +7997,6 @@ export const posts = [
   //       authorName: 'Leela Web Dev',
   //       authorUrl: 'https://www.youtube.com/c/LeelaWebDev/videos',
   //       speakers: ['Leela Narasimha'],
-  //       likes: 0,
   //       tags: ['RxJS', 'Subject'],
   //     },
   //     {
@@ -8403,7 +8017,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'NG-Poland',
   //       authorUrl: 'https://www.youtube.com/c/NGPoland/videos',
-  //       likes: 0,
   //       tags: ['DOM Manipulation'],
   //     },
   //     {
@@ -8423,7 +8036,6 @@ export const posts = [
   //       sourceUrl: 'https://medium.com/tag/angular/latest',
   //       authorName: 'Vitalii Shevchuk',
   //       authorUrl: 'https://medium.com/@easy-web',
-  //       likes: 0,
   //       tags: ['Architecture'],
   //     },
   //   ],
@@ -8450,7 +8062,6 @@ export const posts = [
   //       authorName: 'Decoded Frontend',
   //       authorUrl: 'https://www.youtube.com/c/DecodedFrontend/videos',
   //       speakers: ['Dmytro Mezhenskyi'],
-  //       likes: 0,
   //       tags: ['RxJS', 'exhaustMap', 'concatMap'],
   //     },
   //     {
@@ -8472,7 +8083,6 @@ export const posts = [
   //         'https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc',
   //       authorName: 'Dzhavat Ushev',
   //       authorUrl: 'https://dev.to/dzhavat',
-  //       likes: 0,
   //       tags: ['Angular Material', 'Button', 'Dynamic Components'],
   //     },
   //     {
@@ -8492,7 +8102,6 @@ export const posts = [
   //       sourceUrl: 'https://indepth.dev/',
   //       authorName: 'Dharmen Shah',
   //       authorUrl: 'https://twitter.com/shhdharmen',
-  //       likes: 0,
   //       tags: ['Lifecycle Hooks', 'ngDoCheck'],
   //     },
   //     {
@@ -8513,7 +8122,6 @@ export const posts = [
   //       authorName: 'Angular Nation',
   //       authorUrl:
   //         'https://www.youtube.com/channel/UCmlK6Jayb3qqJYNfUmL-DkA/videos',
-  //       likes: 0,
   //       tags: ['Animations'],
   //     },
   //     {
@@ -8534,7 +8142,6 @@ export const posts = [
   //       authorName: 'Angular Nation',
   //       authorUrl:
   //         'https://www.youtube.com/channel/UCmlK6Jayb3qqJYNfUmL-DkA/videos',
-  //       likes: 0,
   //       tags: ['Animations'],
   //     },
   //     {
@@ -8554,7 +8161,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'Gogetmyguru',
   //       authorUrl: 'https://www.youtube.com/c/Gogetmyguru/videos',
-  //       likes: 0,
   //       tags: ['Routing'],
   //     },
   //     {
@@ -8573,7 +8179,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'Briebug',
   //       authorUrl: 'https://www.youtube.com/c/Briebugsoftwaresolutions/videos',
-  //       likes: 0,
   //       tags: ['RxJS', 'catchError'],
   //     },
   //     {
@@ -8593,7 +8198,6 @@ export const posts = [
   //       sourceUrl: 'https://www.telerik.com/blogs',
   //       authorName: 'Nwose Lotanna Victor',
   //       authorUrl: 'https://www.telerik.com/blogs/author/nwose-lotanna',
-  //       likes: 0,
   //       tags: ['Two-Way Data Binding'],
   //     },
   //   ],
@@ -8620,7 +8224,6 @@ export const posts = [
   //       authorName: 'Brandon Roberts',
   //       authorUrl: 'https://www.youtube.com/c/BrandonRobertsDev/videos',
   //       speakers: ['Brandon Roberts']
-  //       likes: 0,
   //       tags: ['Standalone Components'],
   //     },
   //     {
@@ -8641,7 +8244,6 @@ export const posts = [
   //       authorName: 'Code with Ahsan',
   //       authorUrl: 'https://www.youtube.com/c/CodewithAhsan/videos',
   //       speakers: ['Muhammad Ahsan Ayaz'],
-  //       likes: 0,
   //       tags: ['Tailwind', 'Firebase'],
   //     },
   //     {
@@ -8661,7 +8263,6 @@ export const posts = [
   //       sourceUrl: 'https://www.spreaker.com',
   //       authorName: 'The Angular Show',
   //       authorUrl: 'https://www.spreaker.com/show/angular-show',
-  //       likes: 0,
   //       tags: ['Ionic'],
   //     },
   //     {
@@ -8682,7 +8283,6 @@ export const posts = [
   //         'https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc',
   //       authorName: 'John Vester',
   //       authorUrl: 'https://dev.to/johnjvester',
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -8702,7 +8302,6 @@ export const posts = [
   //       sourceUrl: 'https://www.c-sharpcorner.com',
   //       authorName: 'SHERVIN CYRIL',
   //       authorUrl: 'https://www.c-sharpcorner.com/members/shervin-cyril',
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -8723,7 +8322,6 @@ export const posts = [
   //         'https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc',
   //       authorName: 'Boris Jenicek',
   //       authorUrl: 'https://dev.to/costlydeveloper',
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -8742,7 +8340,6 @@ export const posts = [
   //       sourceUrl: 'https://github.com/angular/angular/releases',
   //       authorName: 'Jessica Janiuk',
   //       authorUrl: 'https://github.com/jessicajaniuk',
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -8761,7 +8358,6 @@ export const posts = [
   //       sourceUrl: 'https://github.com/angular/angular/releases',
   //       authorName: 'Jessica Janiuk',
   //       authorUrl: 'https://github.com/jessicajaniuk',
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -8781,7 +8377,6 @@ export const posts = [
   //       sourceUrl: 'https://blog.angular.io',
   //       authorName: 'Emma Twersky',
   //       authorUrl: 'https://medium.com/@emmatwersky_24094',
-  //       likes: 0,
   //       tags: ['Accessibility'],
   //     },
   //     {
@@ -8801,7 +8396,6 @@ export const posts = [
   //       sourceUrl: 'https://medium.com/tag/angular/latest',
   //       authorName: 'Danielle Richter',
   //       authorUrl: 'https://medium.com/@danielle.richter',
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -8821,7 +8415,6 @@ export const posts = [
   //       sourceUrl: 'https://medium.com/tag/angular/latest',
   //       authorName: 'Zsolt Deak',
   //       authorUrl: 'https://medium.com/@danielle.richter',
-  //       likes: 0,
   //       tags: [],
   //     },
   //   ],
@@ -8847,7 +8440,6 @@ export const posts = [
   //       sourceUrl: 'https://webrush.io',
   //       authorName: '',
   //       authorUrl: '',
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -8869,7 +8461,6 @@ export const posts = [
   //       authorName: 'Leela Web Dev',
   //       authorUrl: 'https://www.youtube.com/c/LeelaWebDev/videos',
   //       speakers: ['Leela Narasimha'],
-  //       likes: 0,
   //       tags: ['RxJS', 'Spinner'],
   //     },
   //     {
@@ -8889,7 +8480,6 @@ export const posts = [
   //       sourceUrl: 'https://medium.com/tag/angular/latest',
   //       authorName: 'Bananica Bananica',
   //       authorUrl: 'https://medium.com/@bananicabananica',
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -8910,7 +8500,6 @@ export const posts = [
   //         'https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc',
   //       authorName: 'Revanth Oleti',
   //       authorUrl: 'https://dev.to/revanth_oleti',
-  //       likes: 0,
   //       tags: ['RxJS', 'Subject', 'BehaviorSubject'],
   //     },
   //     {
@@ -8930,7 +8519,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'Code First',
   //       authorUrl: 'https://www.youtube.com/c/CodeFirst/videos',
-  //       likes: 0,
   //       tags: ['Progress'],
   //     },
   //     {
@@ -8952,7 +8540,6 @@ export const posts = [
   //         'https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc',
   //       authorName: 'Federico Giacomini',
   //       authorUrl: 'https://dev.to/crocsx',
-  //       likes: 0,
   //       tags: ['Nx'],
   //     },
   //     {
@@ -8972,7 +8559,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'Chau Tran',
   //       authorUrl: 'https://www.youtube.com/c/ChauTran/videos',
-  //       likes: 0,
   //       tags: ['Angular Material', 'Tailwind'],
   //     },
   //     {
@@ -8992,7 +8578,6 @@ export const posts = [
   //       sourceUrl: 'https://medium.com/tag/angular/latest',
   //       authorName: 'Kevin Kreuzer',
   //       authorUrl: 'https://kevinkreuzer.medium.com',
-  //       likes: 0,
   //       tags: ['Libraries'],
   //     },
   //   ],
@@ -9018,7 +8603,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'Coding Tutorials',
   //       authorUrl: 'https://www.youtube.com/c/CodingTutorialsAreGo/videos',
-  //       likes: 0,
   //       tags: ['Deploy', 'Azure'],
   //     },
   //     {
@@ -9039,7 +8623,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'Meet Kamal Today - Cloud Mastery',
   //       authorUrl: 'https://www.youtube.com/user/kamalpro01/videos',
-  //       likes: 0,
   //       tags: ['Deploy', 'Azure'],
   //     },
   //     {
@@ -9061,7 +8644,6 @@ export const posts = [
   //         'https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc',
   //       authorName: 'Rlogical Techsoft Pvt Ltd',
   //       authorUrl: 'https://dev.to/rlogical',
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -9082,7 +8664,6 @@ export const posts = [
   //       sourceUrl: 'https://indepth.dev/',
   //       authorName: 'Roman Sedov',
   //       authorUrl: 'https://indepth.dev/authors/1032/sedov',
-  //       likes: 0,
   //       tags: ['Dependency Injection', 'Components'],
   //     },
   //     {
@@ -9103,7 +8684,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'AngularAir',
   //       authorUrl: 'https://www.youtube.com/c/AngularAirPodcast/videos',
-  //       likes: 0,
   //       tags: ['Components', 'Directives'],
   //     },
   //     {
@@ -9124,7 +8704,6 @@ export const posts = [
   //         'https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc',
   //       authorName: 'Saulo Dias',
   //       authorUrl: 'https://dev.to/saulodias',
-  //       likes: 0,
   //       tags: ['RxJS', 'Async Pipe'],
   //     },
   //     {
@@ -9145,7 +8724,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'ng-conf',
   //       authorUrl: 'https://www.youtube.com/c/ngconfonline/videos',
-  //       likes: 0,
   //       tags: ['HTTP Interceptors'],
   //     },
   //     {
@@ -9165,7 +8743,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'Omerko',
   //       authorUrl: 'https://www.youtube.com/c/Omerko/videos',
-  //       likes: 0,
   //       tags: ['Angular Material', 'Autocomplete'],
   //     },
   //     {
@@ -9185,7 +8762,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'InterVenture',
   //       authorUrl: 'https://www.youtube.com/c/InterVentureChannel/videos',
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -9205,7 +8781,6 @@ export const posts = [
   //       sourceUrl: 'https://medium.com/tag/angular/latest',
   //       authorName: 'Nikhil Patil',
   //       authorUrl: 'https://indienik.medium.com',
-  //       likes: 0,
   //       tags: ['Lazy Loading'],
   //     },
   //     {
@@ -9226,7 +8801,6 @@ export const posts = [
   //         'https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc',
   //       authorName: 'diptee',
   //       authorUrl: 'https://dev.to/dipteekhd',
-  //       likes: 0,
   //       tags: ['RxJS', 'BehaviorSubject'],
   //     },
   //   ],
@@ -9252,7 +8826,6 @@ export const posts = [
   //       sourceUrl: 'https://medium.com/tag/angular/latest',
   //       authorName: 'Matt G',
   //       authorUrl: 'https://medium.com/@mattgerrard',
-  //       likes: 0,
   //       tags: ['RxJS', 'Animations'],
   //     },
   //     {
@@ -9272,7 +8845,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'AyyazTech',
   //       authorUrl: 'https://www.youtube.com/c/AyyazTech/videos',
-  //       likes: 0,
   //       tags: ['Angular Material', 'Checkbox'],
   //     },
   //     {
@@ -9293,7 +8865,6 @@ export const posts = [
   //       authorName: 'WriteCodeWith Prince',
   //       authorUrl:
   //         'https://www.youtube.com/channel/UCgcpEPz_96MJAXGDtn1xmVg/videos',
-  //       likes: 0,
   //       tags: ['Routing', 'Router'],
   //     },
   //     {
@@ -9314,7 +8885,6 @@ export const posts = [
   //       sourceUrl: 'https://dev.to/',
   //       authorName: 'Lars Gyrup Brink Nielsen',
   //       authorUrl: 'https://dev.to/layzee',
-  //       likes: 0,
   //       tags: ['Testing'],
   //     },
   //     {
@@ -9334,7 +8904,6 @@ export const posts = [
   //       sourceUrl: 'https://dev.to/',
   //       authorName: 'kauppfbi',
   //       authorUrl: 'https://dev.to/kauppfbi_96',
-  //       likes: 0,
   //       tags: ['Cypress'],
   //     },
   //     {
@@ -9354,7 +8923,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'Cisco DevNet',
   //       authorUrl: 'https://www.youtube.com/c/CiscoDevNetchannel/videos',
-  //       likes: 0,
   //       tags: ['Testing', 'Cypress'],
   //     },
   //     {
@@ -9373,7 +8941,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'DevTeam504',
   //       authorUrl: 'https://www.youtube.com/c/DevTeam504/videos',
-  //       likes: 0,
   //       tags: ['Testing', 'Cypress'],
   //     },
   //     {
@@ -9393,7 +8960,6 @@ export const posts = [
   //       sourceUrl: 'https://medium.com/tag/angular/latest',
   //       authorName: 'Jishnu Saha',
   //       authorUrl: 'https://medium.com/@jishnusaha89',
-  //       likes: 0,
   //       tags: ['Firebase', 'Notifications'],
   //     },
   //   ],
@@ -9419,7 +8985,6 @@ export const posts = [
   //       authorName: 'Code with Ahsan',
   //       authorUrl: 'https://www.youtube.com/c/CodewithAhsan/videos',
   //       speakers: ['Muhammad Ahsan Ayaz'],
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -9439,7 +9004,6 @@ export const posts = [
   //       sourceUrl: 'https://medium.com/tag/angular/latest',
   //       authorName: 'Roman Akhromieiev',
   //       authorUrl: 'https://medium.com/@akhromieiev',
-  //       likes: 0,
   //       tags: ['Angular CDK'],
   //     },
   //     {
@@ -9459,7 +9023,6 @@ export const posts = [
   //       sourceUrl: 'https://dev.to',
   //       authorName: 'Jameer Khan',
   //       authorUrl: 'https://dev.to/stackblogger',
-  //       likes: 0,
   //       tags: ['Pipes'],
   //     },
   //     {
@@ -9479,7 +9042,6 @@ export const posts = [
   //       sourceUrl: 'https://medium.com/tag/angular/latest',
   //       authorName: 'Dirtyprototyping',
   //       authorUrl: 'https://medium.com/@dirtyprototyping',
-  //       likes: 0,
   //       tags: ['PrismJS'],
   //     },
   //     {
@@ -9499,7 +9061,6 @@ export const posts = [
   //       sourceUrl: 'https://medium.com/tag/angular/latest',
   //       authorName: 'Dirtyprototyping',
   //       authorUrl: 'https://medium.com/@dirtyprototyping',
-  //       likes: 0,
   //       tags: ['PrismJS'],
   //     },
   //     {
@@ -9520,7 +9081,6 @@ export const posts = [
   //       sourceUrl: 'https://medium.com/tag/angular/latest',
   //       authorName: 'Lakin Mohapatra',
   //       authorUrl: 'https://lakin-mohapatra.medium.com',
-  //       likes: 0,
   //       tags: ['Performance'],
   //     },
   //     {
@@ -9540,7 +9100,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'JS Frameworks',
   //       authorUrl: 'https://www.youtube.com/c/JSFrameworks/videos',
-  //       likes: 0,
   //       tags: ['Testing', 'Jasmine'],
   //     },
   //     {
@@ -9562,7 +9121,6 @@ export const posts = [
   //       authorName: 'Ramya Balasubramanian',
   //       authorUrl: 'https://ramya-bala221190.medium.com',
   //       speakers: ['Ramya Balasubramanian'],
-  //       likes: 0,
   //       tags: ['Intersection Observer'],
   //     },
   //   ],
@@ -9588,7 +9146,6 @@ export const posts = [
   //       sourceUrl: 'https://spreaker.com',
   //       authorName: 'Angular Experience',
   //       authorUrl: 'https://angular-experience.web.app/episodes',
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -9609,7 +9166,6 @@ export const posts = [
   //       authorName: 'Laith Harb',
   //       authorUrl:
   //         'https://www.youtube.com/channel/UCyLNhHSiEVkVwPSFKxJAfSA/videos',
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -9630,7 +9186,6 @@ export const posts = [
   //         'https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc',
   //       authorName: 'bob.js',
   //       authorUrl: 'https://dev.to/rfornal',
-  //       likes: 0,
   //       tags: ['trackBy'],
   //     },
   //     {
@@ -9650,7 +9205,6 @@ export const posts = [
   //       sourceUrl: 'https://medium.com/tag/angular/latest',
   //       authorName: 'Huantao Liu',
   //       authorUrl: 'https://huantao.medium.com',
-  //       likes: 0,
   //       tags: ['Animations'],
   //     },
   //     {
@@ -9671,7 +9225,6 @@ export const posts = [
   //         'https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc',
   //       authorName: 'Dmitrij Kuba',
   //       authorUrl: 'https://dev.to/dimakuba',
-  //       likes: 0,
   //       tags: ['Routing', 'Router Outlet', 'RouteReuseStrategy'],
   //     },
   //     {
@@ -9693,7 +9246,6 @@ export const posts = [
   //       authorName: 'Learn Programming Yourself',
   //       authorUrl:
   //         'https://www.youtube.com/channel/UCXxCMIjO5r_yXqwXx72CkvQ/videos',
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -9714,7 +9266,6 @@ export const posts = [
   //       authorName: 'Learn Programming Yourself',
   //       authorUrl:
   //         'https://www.youtube.com/channel/UCXxCMIjO5r_yXqwXx72CkvQ/videos',
-  //       likes: 0,
   //       tags: ['CLI', 'Workspace'],
   //     },
   //     {
@@ -9734,7 +9285,6 @@ export const posts = [
   //       sourceUrl: 'https://medium.com/tag/angular/latest',
   //       authorName: 'Sam Redmond',
   //       authorUrl: 'https://sredmond.medium.com',
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -9755,7 +9305,6 @@ export const posts = [
   //       sourceUrl: 'https://medium.com/tag/angular/latest',
   //       authorName: 'Lakindu Hewawasam',
   //       authorUrl: 'https://lakinduh.medium.com',
-  //       likes: 0,
   //       tags: ['Modules', 'Lazy Loading'],
   //     },
   //     {
@@ -9775,7 +9324,6 @@ export const posts = [
   //       sourceUrl: 'https://medium.com/tag/angular/latest',
   //       authorName: 'Henrique Siebert Domareski',
   //       authorUrl: 'https://henriquesd.medium.com',
-  //       likes: 0,
   //       tags: ['Deploy', 'Azure'],
   //     },
   //     {
@@ -9796,7 +9344,6 @@ export const posts = [
   //       sourceUrl: 'https://radixweb.com/blog',
   //       authorName: 'Jaydeep Patadiya',
   //       authorUrl: 'https://radixweb.com/author/jaydeep-patadiya',
-  //       likes: 0,
   //       tags: [],
   //     },
   //   ],
@@ -9821,7 +9368,6 @@ export const posts = [
   //       sourceUrl: 'https://github.com/angular/angular/releases',
   //       authorName: 'Alex Rickabaugh',
   //       authorUrl: 'https://github.com/alxhub',
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -9841,7 +9387,6 @@ export const posts = [
   //       sourceUrl: 'https://www.thisdot.co/blog',
   //       authorName: 'Daian Scuarissi',
   //       authorUrl: 'https://www.thisdot.co/author/daian-scuarissi',
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -9861,7 +9406,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'Creative Developer',
   //       authorUrl: 'https://www.youtube.com/c/CreativeDeveloper/videos',
-  //       likes: 0,
   //       tags: ['State Management', 'NGXS'],
   //     },
   //     {
@@ -9882,7 +9426,6 @@ export const posts = [
   //         'https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc',
   //       authorName: 'Tarun Gurang',
   //       authorUrl: 'https://dev.to/tarungurang',
-  //       likes: 0,
   //       tags: ['Azure'],
   //     },
   //     {
@@ -9902,7 +9445,6 @@ export const posts = [
   //       sourceUrl: 'https://medium.com/tag/angular/latest',
   //       authorName: 'Scott Jung',
   //       authorUrl: 'https://medium.com/@kyjungok',
-  //       likes: 0,
   //       tags: ['Deploy'],
   //     },
   //     {
@@ -9922,7 +9464,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'Simon Grimm',
   //       authorUrl: 'https://www.youtube.com/user/saimon1924/videos',
-  //       likes: 0,
   //       tags: ['Ionic', 'AngularFire 7'],
   //     },
   //     {
@@ -9942,7 +9483,6 @@ export const posts = [
   //       sourceUrl: 'https://andrewhalil.com',
   //       authorName: 'Andrew Halil',
   //       authorUrl: 'https://andrewhalil.com/author/ahalil000hotmail-com/',
-  //       likes: 0,
   //       tags: ['Testing'],
   //     },
   //     {
@@ -9962,7 +9502,6 @@ export const posts = [
   //       authorName: 'Fireship',
   //       authorUrl: 'https://www.youtube.com/c/Fireship/videos',
   //       speakers: ['Jeff Delaney'],
-  //       likes: 0,
   //       tags: [],
   //     },
   //   ],
@@ -9988,7 +9527,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'Nrwl - Narwhal Technologies Inc.',
   //       authorUrl: 'https://www.youtube.com/c/Nrwl_io/videos',
-  //       likes: 0,
   //       tags: ['Nx'],
   //     },
   //     {
@@ -10008,7 +9546,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'Nrwl - Narwhal Technologies Inc.',
   //       authorUrl: 'https://www.youtube.com/c/Nrwl_io/videos',
-  //       likes: 0,
   //       tags: ['NgRx', 'Nx'],
   //     },
   //     {
@@ -10030,7 +9567,6 @@ export const posts = [
   //       authorName: 'Leela Web Dev',
   //       authorUrl: 'https://www.youtube.com/c/LeelaWebDev/videos',
   //       speakers: ['Leela Narasimha'],
-  //       likes: 0,
   //       tags: ['RxJS', 'shareReplay', 'Firebase'],
   //     },
   //     {
@@ -10051,7 +9587,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'Angular Singapore',
   //       authorUrl: 'https://www.youtube.com/c/AngularSingapore/videos',
-  //       likes: 0,
   //       tags: ['Scully'],
   //     },
   //     {
@@ -10072,7 +9607,6 @@ export const posts = [
   //         'https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc',
   //       authorName: 'Tarun Gurang',
   //       authorUrl: 'https://dev.to/tarungurang',
-  //       likes: 0,
   //       tags: ['Builders'],
   //     },
   //     {
@@ -10092,7 +9626,6 @@ export const posts = [
   //       sourceUrl: 'https://www.spreaker.com',
   //       authorName: 'The Angular Show',
   //       authorUrl: 'https://www.spreaker.com/show/angular-show',
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -10112,7 +9645,6 @@ export const posts = [
   //       sourceUrl: 'https://medium.com/tag/angular/latest',
   //       authorName: 'Lenka Weiss',
   //       authorUrl: 'https://lenkaweiss.medium.com',
-  //       likes: 0,
   //       tags: ['Performance'],
   //     },
   //     {
@@ -10133,7 +9665,6 @@ export const posts = [
   //       sourceUrl: 'https://medium.com/tag/angular/latest',
   //       authorName: 'Julien Faure',
   //       authorUrl: 'https://medium.com/@julien.faure.orange',
-  //       likes: 0,
   //       tags: ['Bootstrap'],
   //     },
   //     {
@@ -10152,7 +9683,6 @@ export const posts = [
   //       sourceUrl: 'https://github.com/angular/angular/releases',
   //       authorName: 'Alex Rickabaugh',
   //       authorUrl: 'https://github.com/alxhub',
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -10171,7 +9701,6 @@ export const posts = [
   //       sourceUrl: 'https://github.com/angular/angular/releases',
   //       authorName: 'Alex Rickabaugh',
   //       authorUrl: 'https://github.com/alxhub',
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -10190,7 +9719,6 @@ export const posts = [
   //       sourceUrl: 'https://github.com/angular/angular/releases',
   //       authorName: 'Alex Rickabaugh',
   //       authorUrl: 'https://github.com/alxhub',
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -10210,7 +9738,6 @@ export const posts = [
   //       sourceUrl: 'https://blog.angular.io',
   //       authorName: 'Mark Thompson',
   //       authorUrl: 'https://medium.com/@markathompson',
-  //       likes: 0,
   //       tags: [],
   //     },
   //   ],
@@ -10238,7 +9765,6 @@ export const posts = [
   //       authorName: 'Adventures In Angular',
   //       authorUrl: 'https://devchat.tv/show/adventures-in-angular/',
   //       speakers: ['Armen Vardanyan'],
-  //       likes: 0,
   //       tags: ['VSCode'],
   //     },
   //     {
@@ -10261,7 +9787,6 @@ export const posts = [
   //       authorName: 'BalajiBalamurugan',
   //       authorUrl: 'https://dev.to/balajibalamurugan',
   //       speakers: ['Balaji Balamurugan'],
-  //       likes: 0,
   //       tags: ['Angular Material', 'Chips'],
   //     },
   //     {
@@ -10283,7 +9808,6 @@ export const posts = [
   //       authorUrl:
   //         'https://www.youtube.com/channel/UCe63d5EDQsSkOov-bIE_8Aw/videos',
   //       speakers: ['Patricio Vargas'],
-  //       likes: 0,
   //       tags: ['Change Detection', 'onPush'],
   //     },
   //     {
@@ -10304,7 +9828,6 @@ export const posts = [
   //       authorName: 'Monsterlessons Academy',
   //       authorUrl: 'https://www.youtube.com/c/MonsterlessonsAcademy/videos',
   //       speakers: ['Oleksandr Kocherhin'],
-  //       likes: 0,
   //       tags: ['Change Detection', 'onPush'],
   //     },
   //     {
@@ -10327,7 +9850,6 @@ export const posts = [
   //       authorUrl:
   //         'https://www.youtube.com/channel/UCIqjlKF6omI6-9BKUQLTfVQ/videos',
   //       speakers: ['Ehasanul Hoque'],
-  //       likes: 0,
   //       tags: ['Data Visualization'],
   //     },
   //     {
@@ -10347,7 +9869,6 @@ export const posts = [
   //       sourceUrl: 'https://medium.com/tag/angular/latest',
   //       authorName: 'Señorita Developer',
   //       authorUrl: 'https://senoritadeveloper.medium.com',
-  //       likes: 0,
   //       tags: ['RxJS', 'Subscriptions', 'takeUntil'],
   //     },
   //     {
@@ -10368,7 +9889,6 @@ export const posts = [
   //       authorName: 'Piyali Das',
   //       authorUrl: 'https://medium.com/@piyalidas.it',
   //       speakers: ['Piyali Das'],
-  //       likes: 0,
   //       tags: ['ViewChildren', 'QueryList'],
   //     },
   //     {
@@ -10390,7 +9910,6 @@ export const posts = [
   //       authorUrl:
   //         'https://www.youtube.com/channel/UCrE1BV7T1I3JSc0xNaEJYFA/videos',
   //       speakers: [],
-  //       likes: 0,
   //       tags: ['Environments'],
   //     },
   //     {
@@ -10412,7 +9931,6 @@ export const posts = [
   //       authorUrl:
   //         'https://www.youtube.com/channel/UC-iTV27Vh6BIIrIu5PVgGgg/videos',
   //       speakers: [],
-  //       likes: 0,
   //       tags: ['Environments'],
   //     },
   //     {
@@ -10433,7 +9951,6 @@ export const posts = [
   //       authorName: 'Jack Herrington',
   //       authorUrl: 'https://www.youtube.com/c/JackHerrington/videos',
   //       speakers: ['Jack Herrington'],
-  //       likes: 0,
   //       tags: ['Environments'],
   //     },
   //     {
@@ -10455,7 +9972,6 @@ export const posts = [
   //       authorName: 'Prabhjeet Singh',
   //       authorUrl: 'https://dev.to/prabhjeet6',
   //       speakers: ['Prabhjeet Singh'],
-  //       likes: 0,
   //       tags: ['Angular Universal', 'SSR'],
   //     },
   //     {
@@ -10476,7 +9992,6 @@ export const posts = [
   //       authorName: 'Ramya Balasubramanian',
   //       authorUrl: 'https://ramya-bala221190.medium.com',
   //       speakers: ['Ramya Balasubramanian'],
-  //       likes: 0,
   //       tags: ['Content Projection'],
   //     },
   //     {
@@ -10497,7 +10012,6 @@ export const posts = [
   //       authorName: 'Dale Nguyen',
   //       authorUrl: 'https://dalenguyen.medium.com',
   //       speakers: ['Dale Nguyen'],
-  //       likes: 0,
   //       tags: ['Migration'],
   //     },
   //     {
@@ -10518,7 +10032,6 @@ export const posts = [
   //       authorName: 'Leosvel Pérez Espinosa',
   //       authorUrl: 'https://medium.com/@leosvel',
   //       speakers: ['Leosvel Pérez Espinosa'],
-  //       likes: 0,
   //       tags: [],
   //     },
   //   ],
@@ -10545,7 +10058,6 @@ export const posts = [
   //       authorName: 'Alyssa Nicoll',
   //       authorUrl: 'https://www.telerik.com/blogs/author/alyssa-nicoll',
   //       speakers: ['Alyssa Nicoll'],
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -10576,7 +10088,6 @@ export const posts = [
   //         'Emma Twersky',
   //         'David Shevitz',
   //       ],
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -10605,7 +10116,6 @@ export const posts = [
   //         'Igor Minar',
   //         'Mark Thompson',
   //       ],
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -10626,7 +10136,6 @@ export const posts = [
   //       authorName: 'Totsawin Jangprasert',
   //       authorUrl: 'https://totsawin-jangprasert.medium.com',
   //       speakers: ['Totsawin Jangprasert'],
-  //       likes: 0,
   //       tags: ['Testing', 'Jest'],
   //     },
   //     {
@@ -10648,7 +10157,6 @@ export const posts = [
   //       authorName: 'Leela Web Dev',
   //       authorUrl: 'https://www.youtube.com/c/LeelaWebDev/videos',
   //       speakers: ['Leela Narasimha'],
-  //       likes: 0,
   //       tags: ['Reactive Forms'],
   //     },
   //   ],
@@ -10677,7 +10185,6 @@ export const posts = [
   //       authorName: 'kauppfbi',
   //       authorUrl: 'https://dev.to/kauppfbi_96',
   //       speakers: ['Fabian Kaupp'],
-  //       likes: 0,
   //       tags: ['Nx', 'Libraries'],
   //     },
   //     {
@@ -10699,7 +10206,6 @@ export const posts = [
   //       authorUrl:
   //         'https://www.youtube.com/channel/UCpFZq7b6E-RDC7F7v1O_5uA/videos',
   //       speakers: [],
-  //       likes: 0,
   //       tags: ['PrimeNG'],
   //     },
   //     {
@@ -10720,7 +10226,6 @@ export const posts = [
   //       authorName: 'Mehul Kothari',
   //       authorUrl: 'https://mehulkothari05.medium.com',
   //       speakers: ['Mehul Kothari'],
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -10743,7 +10248,6 @@ export const posts = [
   //       authorUrl:
   //         'https://www.youtube.com/channel/UCJob1v-RQ22ux2Sh3RSvz3Q/videos',
   //       speakers: [],
-  //       likes: 0,
   //       tags: ['Testing', 'Cypresss'],
   //     },
   //     {
@@ -10765,7 +10269,6 @@ export const posts = [
   //       authorName: 'Jonathan Gamble',
   //       authorUrl: 'https://dev.to/jdgamble555',
   //       speakers: ['Jonathan Gamble'],
-  //       likes: 0,
   //       tags: ['Firebase'],
   //     },
   //     {
@@ -10787,7 +10290,6 @@ export const posts = [
   //       authorName: "Let's Program",
   //       authorUrl:
   //         'https://www.youtube.com/channel/UCW4PLi-ObJt3m6YTSEQY3gw/videos',
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -10807,7 +10309,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'JS Frameworks',
   //       authorUrl: 'https://www.youtube.com/c/JSFrameworks/videos',
-  //       likes: 0,
   //       tags: ['Testing', 'Jest'],
   //     },
   //     {
@@ -10830,7 +10331,6 @@ export const posts = [
   //       authorUrl:
   //         'https://www.youtube.com/channel/UCIqjlKF6omI6-9BKUQLTfVQ/videos',
   //       speakers: ['Ehasanul Hoque'],
-  //       likes: 0,
   //       tags: ['Data Visualization'],
   //     },
   //   ],
@@ -10858,7 +10358,6 @@ export const posts = [
   //       authorUrl:
   //         'https://www.youtube.com/channel/UC_0jKHC_1o1djPkumW5HYHw/videos',
   //       speakers: [],
-  //       likes: 0,
   //       tags: ['Reactive Forms'],
   //     },
   //     {
@@ -10879,7 +10378,6 @@ export const posts = [
   //       authorName: 'Coding Knowledge',
   //       authorUrl: 'https://www.youtube.com/c/CodingKnowledge/videos',
   //       speakers: ['Satyaprakash Samantaray'],
-  //       likes: 0,
   //       tags: ['CLI', 'Components'],
   //     },
   //     {
@@ -10900,7 +10398,6 @@ export const posts = [
   //       authorName: 'Sergey Gultyayev',
   //       authorUrl: 'https://sergeygultyayev.medium.com',
   //       speakers: ['Sergey Gultyayev'],
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -10921,7 +10418,6 @@ export const posts = [
   //       authorName: 'Jay',
   //       authorUrl: 'https://codehandbook.org/authors/jay/',
   //       speakers: [],
-  //       likes: 0,
   //       tags: ['Angular Material', 'Tabs'],
   //     },
   //   ],
@@ -10948,7 +10444,6 @@ export const posts = [
   //       authorName: 'Angular Experience',
   //       authorUrl: 'https://angular-experience.web.app/episodes',
   //       speakers: ['Ben Lesh'],
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -10970,7 +10465,6 @@ export const posts = [
   //       authorName: 'William Juan',
   //       authorUrl: 'https://www.youtube.com/c/WilliamJuan/videos',
   //       speakers: ['William Juan'],
-  //       likes: 0,
   //       tags: ['NativeScript'],
   //     },
   //     {
@@ -10992,7 +10486,6 @@ export const posts = [
   //       authorName: 'VMware Bulgaria',
   //       authorUrl: 'https://www.youtube.com/c/VMwareBulgaria/videos',
   //       speakers: ['Kristiyan Yankov'],
-  //       likes: 0,
   //       tags: ['State Management', 'Service with a Subject', 'NgRx'],
   //     },
   //     {
@@ -11014,7 +10507,6 @@ export const posts = [
   //         'https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc',
   //       authorName: 'bob.js',
   //       authorUrl: 'https://dev.to/rfornal',
-  //       likes: 0,
   //       tags: ['Validation'],
   //     },
   //     {
@@ -11036,7 +10528,6 @@ export const posts = [
   //       authorName: 'Anton Marko',
   //       authorUrl: 'https://medium.com/@toha.marko',
   //       speakers: ['Anton Marko'],
-  //       likes: 0,
   //       tags: ['Dependency Injection', 'Shared Components'],
   //     },
   //     {
@@ -11057,7 +10548,6 @@ export const posts = [
   //       authorName: 'Nrwl - Narwhal Technologies Inc.',
   //       authorUrl: 'https://www.youtube.com/c/Nrwl_io/videos',
   //       speakers: ['Brandon Roberts', 'Colum Ferry'],
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -11078,7 +10568,6 @@ export const posts = [
   //       authorName: 'Nwose Lotanna Victor',
   //       authorUrl: 'https://www.telerik.com/blogs/author/alyssa-nicoll',
   //       speakers: ['Nwose Lotanna Victor'],
-  //       likes: 0,
   //       tags: ['Kendo UI', 'Firebase'],
   //     },
   //     {
@@ -11099,7 +10588,6 @@ export const posts = [
   //       authorName: 'Gogetmyguru',
   //       authorUrl: 'https://www.youtube.com/c/Gogetmyguru/videos',
   //       speakers: [],
-  //       likes: 0,
   //       tags: ['Template Driven Forms'],
   //     },
   //   ],
@@ -11127,7 +10615,6 @@ export const posts = [
   //       authorName: 'Mr Nerd',
   //       authorUrl: 'https://ahmedbouchefradiary.medium.com',
   //       speakers: [],
-  //       likes: 0,
   //       tags: ['Bootstrap'],
   //     },
   //     {
@@ -11148,7 +10635,6 @@ export const posts = [
   //       authorName: 'Jagadeesh Marali',
   //       authorUrl: 'https://jagadeeshmarali.medium.com',
   //       speakers: ['Jagadeesh Marali'],
-  //       likes: 0,
   //       tags: ['Docker', 'NGINX'],
   //     },
   //     {
@@ -11169,7 +10655,6 @@ export const posts = [
   //       authorName: 'Abhishek Rana',
   //       authorUrl: 'https://medium.com/@abhishek_rana',
   //       speakers: ['Abhishek Rana'],
-  //       likes: 0,
   //       tags: ['Data Visualization'],
   //     },
   //     {
@@ -11191,7 +10676,6 @@ export const posts = [
   //       authorName: 'Jorge Guerra Pires, PhD',
   //       authorUrl: 'https://jorgeguerrapires.medium.com',
   //       speakers: ['Jorge Guerra Pires'],
-  //       likes: 0,
   //       tags: ['ChartJS'],
   //     },
   //     {
@@ -11212,7 +10696,6 @@ export const posts = [
   //       authorName: 'Sergey Gultyayev',
   //       authorUrl: 'https://sergeygultyayev.medium.com',
   //       speakers: ['Sergey Gultyayev'],
-  //       likes: 0,
   //       tags: ['Forms', 'Validation'],
   //     },
   //     {
@@ -11234,7 +10717,6 @@ export const posts = [
   //       authorName: 'Naveen Bommidi Tech Seeker',
   //       authorUrl: 'https://www.youtube.com/c/NaveenTechSeeker/videos',
   //       speakers: ['Naveen Bommidi'],
-  //       likes: 0,
   //       tags: ['RxJS', 'Subscriptions'],
   //     },
   //     {
@@ -11255,7 +10737,6 @@ export const posts = [
   //       authorName: 'Yan Sun',
   //       authorUrl: 'https://blog.logrocket.com/author/yansun/',
   //       speakers: ['Yan Sun'],
-  //       likes: 0,
   //       tags: ['Lazy Loading'],
   //     },
   //     {
@@ -11277,7 +10758,6 @@ export const posts = [
   //       authorUrl:
   //         'https://www.youtube.com/channel/UCFT4YVZl7AFia7rZBTEvavw/videos',
   //       speakers: ['Kevin Kreuzer'],
-  //       likes: 0,
   //       tags: ['HostListener', 'HostBinding'],
   //     },
   //     {
@@ -11298,7 +10778,6 @@ export const posts = [
   //       authorName: 'Erbynn (Erb) John',
   //       authorUrl: 'https://pkerbynn.medium.com',
   //       speakers: ['Erbynn John'],
-  //       likes: 0,
   //       tags: ['Testing', 'Jasmine'],
   //     },
   //     {
@@ -11319,7 +10798,6 @@ export const posts = [
   //       authorName: 'Simon Grimm',
   //       authorUrl: 'https://www.youtube.com/user/saimon1924/videos',
   //       speakers: ['Simon Grimm'],
-  //       likes: 0,
   //       tags: ['Ionic'],
   //     },
   //     {
@@ -11342,7 +10820,6 @@ export const posts = [
   //       authorName: 'Jennifer Wadella',
   //       authorUrl: 'https://dev.to/likeomgitsfeday',
   //       speakers: ['Jennifer Wadella'],
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -11363,7 +10840,6 @@ export const posts = [
   //       authorName: 'Walter Kuppens',
   //       authorUrl: 'https://www.thisdot.co/author/walter-kuppens',
   //       speakers: ['Walter Kuppens'],
-  //       likes: 0,
   //       tags: ['GraphQL', 'Apollo'],
   //     },
   //     {
@@ -11384,7 +10860,6 @@ export const posts = [
   //       authorName: 'All Things Open',
   //       authorUrl: 'https://www.youtube.com/c/AllThingsOpen/videos',
   //       speakers: ['Jennifer Wadella'],
-  //       likes: 0,
   //       tags: ['Scully'],
   //     },
   //   ],
@@ -11411,7 +10886,6 @@ export const posts = [
   //       authorName: 'Joshua Morony',
   //       authorUrl: 'https://www.youtube.com/c/JoshuaMorony/videos',
   //       speakers: ['Joshua Morony'],
-  //       likes: 0,
   //       tags: ['State Management', 'Service with a Subject'],
   //     },
   //     {
@@ -11432,7 +10906,6 @@ export const posts = [
   //       authorName: 'The Angular Show',
   //       authorUrl: 'https://www.spreaker.com/show/angular-show',
   //       speakers: 'Abdella Ali',
-  //       likes: 0,
   //       tags: ['Debugging'],
   //     },
   //     {
@@ -11454,7 +10927,6 @@ export const posts = [
   //       authorName: 'Marko Stanimirović',
   //       authorUrl: 'https://dev.to/markostanimirovic',
   //       speakers: ['Marko Stanimirović'],
-  //       likes: 0,
   //       tags: ['NgRx', 'NgRx Store', 'NgRx Effects'],
   //     },
   //     {
@@ -11475,7 +10947,6 @@ export const posts = [
   //       authorName: 'Dharmen Shah',
   //       authorUrl: 'https://shhdharmen.medium.com',
   //       speakers: ['Dharmen Shah'],
-  //       likes: 0,
   //       tags: ['ngDoCheck', 'KeyValueDiffer'],
   //     },
   //     {
@@ -11497,7 +10968,6 @@ export const posts = [
   //       authorName: 'Hariom Sinha',
   //       authorUrl: 'https://sinhahariom1.medium.com',
   //       speakers: ['Hariom Sinha'],
-  //       likes: 0,
   //       tags: ['Deploy', 'NGINX'],
   //     },
   //     {
@@ -11518,7 +10988,6 @@ export const posts = [
   //       authorName: 'Sithum Meegahapola',
   //       authorUrl: 'https://sithummeegahapola.medium.com',
   //       speakers: ['Sithum Meegahapola'],
-  //       likes: 0,
   //       tags: ['Typeform'],
   //     },
   //     {
@@ -11539,7 +11008,6 @@ export const posts = [
   //       authorName: 'Mustapha Aquas',
   //       authorUrl: 'https://medium.com/@theAngularGuy',
   //       speakers: ['Mustapha Aquas'],
-  //       likes: 0,
   //       tags: ['ngTemplateOutlet', 'ng-template', 'ng-content'],
   //     },
   //     {
@@ -11560,7 +11028,6 @@ export const posts = [
   //       authorName: 'Panos Zafeiropoulos',
   //       authorUrl: 'https://medium.com/@zzpzaf.se',
   //       speakers: ['Panos Zafeiropoulos'],
-  //       likes: 0,
   //       tags: ['Directives'],
   //     },
   //     {
@@ -11581,7 +11048,6 @@ export const posts = [
   //       authorName: 'Eugene Sincovschi',
   //       authorUrl: 'https://dzone.com/users/4645863/sincovschi.html',
   //       speakers: 'Eugene Sincovschi',
-  //       likes: 0,
   //       tags: ['Higher Order Components'],
   //     },
   //     {
@@ -11602,7 +11068,6 @@ export const posts = [
   //       authorName: 'Maksym Mostovyi',
   //       authorUrl: 'https://medium.com/@maksym.mostovyi.ua',
   //       speakers: ['Maksym Mostovyi'],
-  //       likes: 0,
   //       tags: ['Data Visualization'],
   //     },
   //     {
@@ -11623,7 +11088,6 @@ export const posts = [
   //       authorName: 'Sarmitha Krishnabobal',
   //       authorUrl: 'https://medium.com/@SarmithaKrishnagobal',
   //       speakers: ['Sarmitha Krishnabobal'],
-  //       likes: 0,
   //       tags: ['Components'],
   //     },
   //     {
@@ -11644,7 +11108,6 @@ export const posts = [
   //       authorName: 'Shehan Atukorala',
   //       authorUrl: 'https://medium.com/@shehanatuk',
   //       speakers: ['Shehan Atukorala'],
-  //       likes: 0,
   //       tags: ['Pipes'],
   //     },
   //     {
@@ -11663,7 +11126,6 @@ export const posts = [
   //       sourceUrl: 'https://github.com/angular/angular/releases',
   //       authorName: 'Andrew Scott',
   //       authorUrl: 'https://github.com/atscott',
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -11682,7 +11144,6 @@ export const posts = [
   //       sourceUrl: 'https://github.com/angular/angular/releases',
   //       authorName: 'Andrew Scott',
   //       authorUrl: 'https://github.com/atscott',
-  //       likes: 0,
   //       tags: [],
   //     },
   //   ],
@@ -11711,7 +11172,6 @@ export const posts = [
   //       authorUrl:
   //         'https://www.youtube.com/channel/UCIqjlKF6omI6-9BKUQLTfVQ/videos',
   //       speakers: ['Ehasanul Hoque'],
-  //       likes: 0,
   //       tags: ['Data Visualization'],
   //     },
   //     {
@@ -11733,7 +11193,6 @@ export const posts = [
   //       authorName: 'Lars Gyrup Brink Nielsen',
   //       authorUrl: 'https://www.youtube.com/c/LarsGyrupBrinkNielsen/videos',
   //       speakers: ['Lars Gyrup Brink Nielsen'],
-  //       likes: 0,
   //       tags: ['Nx', 'CI', 'GitHub Workflow'],
   //     },
   //     {
@@ -11756,7 +11215,6 @@ export const posts = [
   //       authorUrl:
   //         'https://www.youtube.com/channel/UCW4PLi-ObJt3m6YTSEQY3gw/videos',
   //       speakers: [],
-  //       likes: 0,
   //       tags: ['DotNet', 'JWT', 'Auth'],
   //     },
   //     {
@@ -11778,7 +11236,6 @@ export const posts = [
   //       authorName: 'Angular Sussex',
   //       authorUrl: 'https://www.youtube.com/user/007tomwhite/videos',
   //       speakers: ['Jessica Janiuk', 'Deborah Kurata', 'Tracy Lee'],
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -11800,7 +11257,6 @@ export const posts = [
   //       authorName: '',
   //       authorUrl: '',
   //       speakers: ['Max Lynch'],
-  //       likes: 0,
   //       tags: ['Ionic'],
   //     },
   //     {
@@ -11822,7 +11278,6 @@ export const posts = [
   //       authorName: 'Tarun Gurang',
   //       authorUrl: 'https://dev.to/tarungurang',
   //       speakers: ['Tarun Gurang'],
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -11843,7 +11298,6 @@ export const posts = [
   //       authorName: 'Levent Ege Mutlu',
   //       authorUrl: 'https://medium.com/@legemutlu',
   //       speakers: ['Levent Ege Mutlu'],
-  //       likes: 0,
   //       tags: ['Docker'],
   //     },
   //     {
@@ -11864,7 +11318,6 @@ export const posts = [
   //       authorName: 'Lucas Paganini',
   //       authorUrl: 'https://www.youtube.com/user/LucasPaganiniDM/videos',
   //       speakers: ['Lucas Paganini'],
-  //       likes: 0,
   //       tags: ['TypeScript'],
   //     },
   //     {
@@ -11885,7 +11338,6 @@ export const posts = [
   //       authorName: 'Code with Sloba',
   //       authorUrl: 'https://www.youtube.com/c/SlobodanGajic/videos',
   //       speakers: ['Slobodan Gajic'],
-  //       likes: 0,
   //       tags: [],
   //     },
   //   ],
@@ -11912,7 +11364,6 @@ export const posts = [
   //       authorName: 'Coding Tutorials',
   //       authorUrl: 'https://www.youtube.com/c/CodingTutorialsAreGo/videos',
   //       speakers: ['Jasper Kent'],
-  //       likes: 0,
   //       tags: ['RxJS', 'Observables'],
   //     },
   //     {
@@ -11935,7 +11386,6 @@ export const posts = [
   //       authorUrl:
   //         'https://www.youtube.com/channel/UCRMLmJjB3oib_sQF9mKWuRA/videos',
   //       speakers: ['Aristeidis Bampakos', 'Sander Elias'],
-  //       likes: 0,
   //       tags: ['Electron', 'Scully'],
   //     },
   //     {
@@ -11957,7 +11407,6 @@ export const posts = [
   //       authorName: 'Dev By RayRay',
   //       authorUrl: 'https://dev.to/devbyrayray',
   //       speakers: [],
-  //       likes: 0,
   //       tags: ['Services'],
   //     },
   //     {
@@ -11978,7 +11427,6 @@ export const posts = [
   //       authorName: 'Gheorghe Madalina Eleonora',
   //       authorUrl: 'https://madalinaeleonorag.medium.com',
   //       speakers: ['Gheorghe Madalina Eleonora'],
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -12000,7 +11448,6 @@ export const posts = [
   //       authorName: 'Leela Web Dev',
   //       authorUrl: 'https://www.youtube.com/c/LeelaWebDev/videos',
   //       speakers: ['Leela Narasimha'],
-  //       likes: 0,
   //       tags: ['RxJS', 'Route Params'],
   //     },
   //     {
@@ -12021,7 +11468,6 @@ export const posts = [
   //       authorName: 'Luke',
   //       authorUrl: 'https://medium.com/@luke_genericui',
   //       speakers: [],
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -12042,7 +11488,6 @@ export const posts = [
   //       authorName: 'Symflower',
   //       authorUrl: 'https://medium.com/@symflower_',
   //       speakers: [],
-  //       likes: 0,
   //       tags: ['Testing', 'Cypress'],
   //     },
   //     {
@@ -12063,7 +11508,6 @@ export const posts = [
   //       authorName: 'Honorary Marleyans',
   //       authorUrl: 'https://medium.com/@HonoraryMarleyans',
   //       speakers: [],
-  //       likes: 0,
   //       tags: ['Route Guards', 'canActivate'],
   //     },
   //     {
@@ -12085,7 +11529,6 @@ export const posts = [
   //       authorName: 'Rainer Hahnekamp',
   //       authorUrl: 'https://dev.to/rainerhahnekamp',
   //       speakers: ['Rainer Hahnekamp'],
-  //       likes: 0,
   //       tags: ['NgRx', 'Cache', 'LoadStatus'],
   //     },
   //     {
@@ -12107,7 +11550,6 @@ export const posts = [
   //       authorName: 'Mark Thompson',
   //       authorUrl: 'https://dev.to/mthompsoncode',
   //       speakers: ['Mark Thompson'],
-  //       likes: 0,
   //       tags: ['IE 11'],
   //     },
   //     {
@@ -12130,7 +11572,6 @@ export const posts = [
   //       authorName: 'Federico Giacomini',
   //       authorUrl: 'https://dev.to/crocsx',
   //       speakers: ['Federico Giacomini'],
-  //       likes: 0,
   //       tags: ['Nx', 'Web Components'],
   //     },
   //   ],
@@ -12158,7 +11599,6 @@ export const posts = [
   //       authorName: 'Rui Wang',
   //       authorUrl: 'https://www.youtube.com/user/turingcs2001/videos',
   //       speakers: ['Rui Wang'],
-  //       likes: 0,
   //       tags: ['CLI'],
   //     },
   //     {
@@ -12179,7 +11619,6 @@ export const posts = [
   //       authorName: 'CodeBriefly',
   //       authorUrl: 'https://medium.com/@CodeBriefly',
   //       speakers: [],
-  //       likes: 0,
   //       tags: ['Deploy', 'Firebasse'],
   //     },
   //     {
@@ -12201,7 +11640,6 @@ export const posts = [
   //       authorName: 'David Mimay',
   //       authorUrl: 'https://dev.to/davidmimay',
   //       speakers: ['David Mimay'],
-  //       likes: 0,
   //       tags: ['Deploy', 'GitHub Pages'],
   //     },
   //     {
@@ -12222,7 +11660,6 @@ export const posts = [
   //       authorUrl:
   //         'https://www.youtube.com/channel/UClalXOJc3IVxk-sYmycfABA/videos',
   //       speakers: [''],
-  //       likes: 0,
   //       tags: ['NgRx'],
   //     },
   //     {
@@ -12243,7 +11680,6 @@ export const posts = [
   //       authorName: 'Nayan Raval',
   //       authorUrl: 'https://www.thecodehubs.com/author/nayan/',
   //       speakers: ['Nayan Raval'],
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -12264,7 +11700,6 @@ export const posts = [
   //       authorName: 'Murat Ozcan',
   //       authorUrl: 'https://www.youtube.com/user/Mrrmuradi/videos',
   //       speakers: [''],
-  //       likes: 0,
   //       tags: ['Testing', 'Cypress'],
   //     },
   //     {
@@ -12285,7 +11720,6 @@ export const posts = [
   //       authorName: 'Gleb Bahmutov',
   //       authorUrl: 'https://www.youtube.com/c/glebbahmutov/videos',
   //       speakers: ['Gleb Bahmutov'],
-  //       likes: 0,
   //       tags: ['Testing', 'Cypress'],
   //     },
   //     {
@@ -12308,7 +11742,6 @@ export const posts = [
   //       authorUrl:
   //         'https://www.youtube.com/c/SoftwareTestingAndAutomation/videos',
   //       speakers: [],
-  //       likes: 0,
   //       tags: ['Testing', 'Cypress'],
   //     },
   //   ],
@@ -12335,7 +11768,6 @@ export const posts = [
   //       authorName: 'Creative Developer',
   //       authorUrl: 'https://www.youtube.com/c/CreativeDeveloper/videos',
   //       speakers: [],
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -12356,7 +11788,6 @@ export const posts = [
   //       authorName: 'Ramya Balasubramanian',
   //       authorUrl: 'https://ramya-bala221190.medium.com',
   //       speakers: ['Ramya Balasubramanian'],
-  //       likes: 0,
   //       tags: ['HostBinding'],
   //     },
   //     {
@@ -12377,7 +11808,6 @@ export const posts = [
   //       authorName: 'Mirko Rapisarda',
   //       authorUrl: 'https://medium.com/@mirko.rapisarda',
   //       speakers: ['Mirko Rapisarda'],
-  //       likes: 0,
   //       tags: ['ESLint', 'Prettier'],
   //     },
   //     {
@@ -12399,7 +11829,6 @@ export const posts = [
   //       authorName: 'Carlo Miguel Dy',
   //       authorUrl: 'https://dev.to/carlomigueldy',
   //       speakers: ['Carlo Miguel Dy'],
-  //       likes: 0,
   //       tags: ['Tessting', 'Jest', 'Firebase', 'Cloud Functions'],
   //     },
   //     {
@@ -12421,7 +11850,6 @@ export const posts = [
   //       authorName: 'Mighty',
   //       authorUrl: 'https://dev.to/mightytechno',
   //       speakers: [],
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -12444,7 +11872,6 @@ export const posts = [
   //       authorUrl:
   //         'https://www.youtube.com/channel/UCavqMWGJt7KiI_8kg8effXA/videos',
   //       speakers: ['Wilhelm Grosz'],
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -12466,7 +11893,6 @@ export const posts = [
   //       authorName: 'Tomasz Flis',
   //       authorUrl: 'https://dev.to/tomwebwalker',
   //       speakers: ['Tomasz Flis'],
-  //       likes: 0,
   //       tags: ['RxJS', 'Testing', 'Marble Tests'],
   //     },
   //     {
@@ -12487,7 +11913,6 @@ export const posts = [
   //       authorName: 'Wojciech Trawiński',
   //       authorUrl: 'https://medium.com/@wojtrawi',
   //       speakers: ['Wojciech Trawiński'],
-  //       likes: 0,
   //       tags: [],
   //     },
   //   ],
@@ -12515,7 +11940,6 @@ export const posts = [
   //       authorName: 'James Spalding',
   //       authorUrl: 'https://james-spalding.medium.com',
   //       speakers: ['James Spalding'],
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -12536,7 +11960,6 @@ export const posts = [
   //       authorName: 'Angular Experience',
   //       authorUrl: 'https://angular-experience.web.app/episodes',
   //       speakers: ['Michael Callaghan'],
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -12558,7 +11981,6 @@ export const posts = [
   //       authorName: 'Lars Bilde',
   //       authorUrl: 'https://www.youtube.com/user/aceymer/videos',
   //       speakers: ['Lars Bilde'],
-  //       likes: 0,
   //       tags: ['RxJS', 'Pipe'],
   //     },
   //     {
@@ -12579,7 +12001,6 @@ export const posts = [
   //       authorName: 'The Net Ninja',
   //       authorUrl: 'https://www.youtube.com/c/TheNetNinja/videos',
   //       speakers: [],
-  //       likes: 0,
   //       tags: ['Firebase'],
   //     },
   //     {
@@ -12601,7 +12022,6 @@ export const posts = [
   //       authorUrl:
   //         'https://www.youtube.com/channel/UCD8gC85u512FeCFzRV4Ll-A/videos',
   //       speakers: ['Sai Kumar Korthivada'],
-  //       likes: 0,
   //       tags: ['Forms'],
   //     },
   //     {
@@ -12622,7 +12042,6 @@ export const posts = [
   //       authorName: 'Srinivas Tamada',
   //       authorUrl: 'https://www.youtube.com/c/SrinivasTamada/videos',
   //       speakers: ['Srinivas Tamada'],
-  //       likes: 0,
   //       tags: ['Testing', 'Cypress'],
   //     },
   //     {
@@ -12644,7 +12063,6 @@ export const posts = [
   //       authorUrl:
   //         'https://www.youtube.com/channel/UCmlK6Jayb3qqJYNfUmL-DkA/videos',
   //       speakers: [],
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -12666,7 +12084,6 @@ export const posts = [
   //       authorName: 'Code Shots With Profanis',
   //       authorUrl:
   //         'https://www.youtube.com/channel/UCgJAoZCYx1Dk3iGPHSIgV1A/videos',
-  //       likes: 0,
   //       tags: ['Libraries'],
   //     },
   //   ],
@@ -12694,7 +12111,6 @@ export const posts = [
   //       authorName: 'Tarun Gurang',
   //       authorUrl: 'https://dev.to/tarungurang',
   //       speakers: ['Tarun Gurang'],
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -12715,7 +12131,6 @@ export const posts = [
   //       authorName: 'Decoded Frontend',
   //       authorUrl: 'https://www.youtube.com/channel/UCSj1Igu3ejxqcQISNEmx8VQ',
   //       speakers: ['Dmytro Mezhenskyi'],
-  //       likes: 0,
   //       tags: ['InjectionToken'],
   //     },
   //     {
@@ -12737,7 +12152,6 @@ export const posts = [
   //       authorName: 'This Dot Media',
   //       authorUrl: 'https://www.youtube.com/c/ThisDotMedia/videos',
   //       speakers: ['Mike Ryan'],
-  //       likes: 0,
   //       tags: ['NgRx'],
   //     },
   //     {
@@ -12758,7 +12172,6 @@ export const posts = [
   //       authorName: 'Briebug',
   //       authorUrl: 'https://www.youtube.com/c/Briebugsoftwaresolutions/videos',
   //       speakers: ['Austin Kulp'],
-  //       likes: 0,
   //       tags: ['RxJS', 'from'],
   //     },
   //     {
@@ -12779,7 +12192,6 @@ export const posts = [
   //         'https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc',
   //       authorName: 'Rodrigo Kamada',
   //       authorUrl: 'https://dev.to/rodrigokamada',
-  //       likes: 0,
   //       tags: ['Auth'],
   //     },
   //     {
@@ -12800,7 +12212,6 @@ export const posts = [
   //       authorName: 'Workshops.DE',
   //       authorUrl: 'https://www.youtube.com/c/WorkshopsDE/videos',
   //       speakers: ['David Müllerchen'],
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -12821,7 +12232,6 @@ export const posts = [
   //       authorName: 'Emma Twersky',
   //       authorUrl: 'https://medium.com/@emmatwersky_24094',
   //       speakers: ['Emma Twersky'],
-  //       likes: 0,
   //       tags: ['CSS'],
   //     },
   //     {
@@ -12843,7 +12253,6 @@ export const posts = [
   //       authorName: 'Ramya Balasubramanian',
   //       authorUrl: 'https://ramya-bala221190.medium.com',
   //       speakers: ['Ramya Balasubramanian'],
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -12864,7 +12273,6 @@ export const posts = [
   //       authorName: 'Nwose Lotanna Victor',
   //       authorUrl: 'https://www.telerik.com/blogs/author/alyssa-nicoll',
   //       speakers: ['Nwose Lotanna Victor'],
-  //       likes: 0,
   //       tags: ['Firebase', 'GitHub Actions'],
   //     },
   //   ],
@@ -12893,7 +12301,6 @@ export const posts = [
   //       authorName: 'Eleftheria Batsou',
   //       authorUrl: 'https://dev.to/eleftheriabatsou',
   //       speakers: ['Eleftheria Batsou'],
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -12916,7 +12323,6 @@ export const posts = [
   //       authorName: 'CloudNow Technologies',
   //       authorUrl: 'https://dev.to/cloudnowtech',
   //       speakers: ['Eleftheria Batsou'],
-  //       likes: 0,
   //       tags: ['Micro Services'],
   //     },
   //     {
@@ -12939,7 +12345,6 @@ export const posts = [
   //       authorName: 'CloudNow Technologies',
   //       authorUrl: 'https://dev.to/cloudnowtech',
   //       speakers: [],
-  //       likes: 0,
   //       tags: ['Micro Services'],
   //     },
   //     {
@@ -12961,7 +12366,6 @@ export const posts = [
   //       authorName: 'Jameer Khan',
   //       authorUrl: 'https://dev.to/stackblogger',
   //       speakers: ['Jameer Khan'],
-  //       likes: 0,
   //       tags: ['Dynamic Components'],
   //     },
   //     {
@@ -12980,7 +12384,6 @@ export const posts = [
   //       sourceUrl: 'https://github.com/angular/angular/releases',
   //       authorName: 'Andrew Kushnir',
   //       authorUrl: 'https://github.com/AndrewKushnir',
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -12999,7 +12402,6 @@ export const posts = [
   //       sourceUrl: 'https://github.com/angular/angular/releases',
   //       authorName: 'Andrew Kushnir',
   //       authorUrl: 'https://github.com/AndrewKushnir',
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -13020,7 +12422,6 @@ export const posts = [
   //       authorName: 'The Angular Show',
   //       authorUrl: 'https://www.spreaker.com/show/angular-show',
   //       speakers: 'Emma Twersky',
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -13041,7 +12442,6 @@ export const posts = [
   //       authorName: 'Joshua Morony',
   //       authorUrl: 'https://www.youtube.com/c/JoshuaMorony/videos',
   //       speakers: ['Joshua Morony'],
-  //       likes: 0,
   //       tags: ['TDD'],
   //     },
   //     {
@@ -13063,7 +12463,6 @@ export const posts = [
   //       authorName: 'The Code Angle',
   //       authorUrl: 'https://www.youtube.com/c/TheCodeAngle/videos',
   //       speakers: ['Deji Adesoga'],
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -13084,7 +12483,6 @@ export const posts = [
   //       authorName: 'Code with Ahsan',
   //       authorUrl: 'https://www.youtube.com/c/CodewithAhsan/videos',
   //       speakers: ['Muhammad Ahsan Ayaz'],
-  //       likes: 0,
   //       tags: ['Directives'],
   //     },
   //     {
@@ -13105,7 +12503,6 @@ export const posts = [
   //       authorName: 'Tetiana Stoyko',
   //       authorUrl: 'https://dzone.com/users/4633305/incora-agency.html',
   //       speakers: 'Tetiana Stoyko',
-  //       likes: 0,
   //       tags: ['Micro Frontends'],
   //     },
   //     {
@@ -13127,7 +12524,6 @@ export const posts = [
   //       authorName: 'Brandon Roberts',
   //       authorUrl: 'https://medium.com/@brandontroberts',
   //       speakers: ['Brandon Roberts'],
-  //       likes: 0,
   //       tags: ['NgRx'],
   //     },
   //     {
@@ -13149,7 +12545,6 @@ export const posts = [
   //       authorName: 'Bitovi',
   //       authorUrl: 'https://dev.to/bitovi',
   //       speakers: ['Wade Harkins'],
-  //       likes: 0,
   //       tags: ['Aceessibility'],
   //     },
   //     {
@@ -13172,7 +12567,6 @@ export const posts = [
   //       authorName: 'Ria Pacheco',
   //       authorUrl: 'https://dev.to/riapacheco',
   //       speakers: ['Ria Pacheco'],
-  //       likes: 0,
   //       tags: [],
   //     },
   //   ],
@@ -13199,7 +12593,6 @@ export const posts = [
   //       authorName: 'Nrwl - Narwhal Technologies Inc.',
   //       authorUrl: 'https://www.youtube.com/c/Nrwl_io/videos',
   //       speakers: ['Juri Strumpflohner'],
-  //       likes: 0,
   //       tags: ['Nx', 'Testing', 'Cypress'],
   //     },
   //     {
@@ -13219,7 +12612,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'Jack Herrington',
   //       authorUrl: 'https://www.youtube.com/c/JackHerrington/videos',
-  //       likes: 0,
   //       tags: ['TypeScript'],
   //     },
   //     {
@@ -13240,7 +12632,6 @@ export const posts = [
   //       authorName: '',
   //       authorUrl: '',
   //       speakers: ['Val Neekman'],
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -13262,7 +12653,6 @@ export const posts = [
   //       authorName: 'William Juan',
   //       authorUrl: 'https://dev.to/williamjuan27',
   //       speakers: ['William Juan'],
-  //       likes: 0,
   //       tags: ['Animations'],
   //     },
   //     {
@@ -13284,7 +12674,6 @@ export const posts = [
   //       authorName: 'Tim Deschryver',
   //       authorUrl: 'https://dev.to/williamjuan27',
   //       speakers: ['Tim Deschryver'],
-  //       likes: 0,
   //       tags: ['NgRx', 'Testing'],
   //     },
   //     {
@@ -13306,7 +12695,6 @@ export const posts = [
   //       authorUrl:
   //         'https://www.youtube.com/channel/UCTgmp69aBOlLnPEqlUyetWw/videos',
   //       speakers: ['Cagatay Civici'],
-  //       likes: 0,
   //       tags: ['PrimeNG'],
   //     },
   //     {
@@ -13326,7 +12714,6 @@ export const posts = [
   //       authorName: 'Angular Army',
   //       authorUrl: 'https://www.youtube.com/c/AngularArmy/videos',
   //       speakers: ['Tracy Lee', 'Zach Arend'],
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -13349,7 +12736,6 @@ export const posts = [
   //       authorUrl:
   //         'https://www.youtube.com/channel/UCD8gC85u512FeCFzRV4Ll-A/videos',
   //       speakers: ['Sai Kumar Korthivada'],
-  //       likes: 0,
   //       tags: ['Testing', 'Unit Tests', 'Validation', 'Reactive Forms'],
   //     },
   //     {
@@ -13371,7 +12757,6 @@ export const posts = [
   //       authorName: 'Leela Web Dev',
   //       authorUrl: 'https://www.youtube.com/c/LeelaWebDev/videos',
   //       speakers: ['Leela Narasimha'],
-  //       likes: 0,
   //       tags: ['RxJS', 'Errors'],
   //     },
   //   ],
@@ -13400,7 +12785,6 @@ export const posts = [
   //       authorName: 'Adithya Sreyaj',
   //       authorUrl: 'https://dev.to/adisreyaj',
   //       speakers: ['Adithya Sreyaj'],
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -13422,7 +12806,6 @@ export const posts = [
   //       authorUrl:
   //         'https://www.youtube.com/channel/UCAaN0HHfuFIWHIHDfiIEitg/videos',
   //       speakers: ['Ben Hendel-Doying'],
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -13443,7 +12826,6 @@ export const posts = [
   //       authorName: 'Rohit Singh',
   //       authorUrl: 'https://rohitsinghwd1993.medium.com',
   //       speakers: ['Rohit Singh'],
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -13465,7 +12847,6 @@ export const posts = [
   //       authorUrl:
   //         'https://www.youtube.com/channel/UCmlK6Jayb3qqJYNfUmL-DkA/videos',
   //       speakers: ['Alex Rickabaugh', 'Dylan Hunn'],
-  //       likes: 0,
   //       tags: ['Forms'],
   //     },
   //     {
@@ -13488,7 +12869,6 @@ export const posts = [
   //       authorUrl:
   //         'https://www.youtube.com/channel/UCIkpfwmX7PORuZdnJ0OznAA/videos',
   //       speakers: ['Sibonelo Vilakazi'],
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -13509,7 +12889,6 @@ export const posts = [
   //       authorName: 'Azilen Technologies',
   //       authorUrl: 'https://medium.com/@AzilenTech',
   //       speakers: [],
-  //       likes: 0,
   //       tags: ['CORS'],
   //     },
   //     {
@@ -13531,7 +12910,6 @@ export const posts = [
   //       authorName: 'Tien Nguyen',
   //       authorUrl: 'https://dev.to/tienbku',
   //       speakers: ['Tien Nguyen'],
-  //       likes: 0,
   //       tags: [],
   //     },
   //   ],
@@ -13559,7 +12937,6 @@ export const posts = [
   //       authorName: 'Ram Murthy Kota',
   //       authorUrl: 'https://dev.to/rammurthykota',
   //       speakers: ['Ram Murthy Kota'],
-  //       likes: 0,
   //       tags: ['Angular Material'],
   //     },
   //     {
@@ -13580,7 +12957,6 @@ export const posts = [
   //       authorName: 'Renan Franca',
   //       authorUrl: 'https://renan-af.medium.com',
   //       speakers: ['Renan Franca'],
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -13601,7 +12977,6 @@ export const posts = [
   //       authorName: 'Shehan Atukorala',
   //       authorUrl: 'https://medium.com/@shehanatuk',
   //       speakers: ['Shehan Atukorala'],
-  //       likes: 0,
   //       tags: ['ElementRefs'],
   //     },
   //     {
@@ -13621,7 +12996,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'Creative Developer',
   //       authorUrl: 'https://www.youtube.com/c/CreativeDeveloper/videos',
-  //       likes: 0,
   //       tags: ['State Management', 'NGXS'],
   //     },
   //     {
@@ -13641,7 +13015,6 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'AB Nation Programmers',
   //       authorUrl: 'https://www.youtube.com/c/ABNATIONProgrammerz553/videos',
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -13662,7 +13035,6 @@ export const posts = [
   //       authorName: 'Sivasankar Sivalingam',
   //       authorUrl: 'https://medium.com/@sivasankarsivalingam',
   //       speakers: ['Sivasankar Sivalingam'],
-  //       likes: 0,
   //       tags: ['Web Sockets'],
   //     },
   //   ],
@@ -13690,7 +13062,6 @@ export const posts = [
   //       authorName: 'Ewald van Veen',
   //       authorUrl: 'https://dev.to/ewaldvanveen',
   //       speakers: ['Ewald van Veen'],
-  //       likes: 0,
   //       tags: ['GitHub', 'Netlify'],
   //     },
   //     {
@@ -13712,7 +13083,6 @@ export const posts = [
   //       authorUrl:
   //         'https://www.youtube.com/channel/UCkk-OcfUOEE_jFKwU6VRxUw/videos',
   //       speakers: ['Devlin Duldulao'],
-  //       likes: 0,
   //       tags: ['TypeScript'],
   //     },
   //     {
@@ -13734,7 +13104,6 @@ export const posts = [
   //       authorUrl:
   //         'https://www.youtube.com/channel/UCkk-OcfUOEE_jFKwU6VRxUw/videos',
   //       speakers: ['Santosh Yadav', 'Greg Radzio'],
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -13756,7 +13125,6 @@ export const posts = [
   //       authorUrl:
   //         'https://www.youtube.com/channel/UCkk-OcfUOEE_jFKwU6VRxUw/videos',
   //       speakers: ['Andresito De Guzman', 'Flordeliza Fernandez'],
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -13778,7 +13146,6 @@ export const posts = [
   //       authorUrl:
   //         'https://www.youtube.com/channel/UCkk-OcfUOEE_jFKwU6VRxUw/videos',
   //       speakers: ['Santosh Yadav'],
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -13800,7 +13167,6 @@ export const posts = [
   //       authorUrl:
   //         'https://www.youtube.com/channel/UCuYERh1ealKOLUlRvtFfxgg/videos',
   //       speakers: ['Kate Sky'],
-  //       likes: 0,
   //       tags: ['Nx'],
   //     },
   //   ],
@@ -13828,7 +13194,6 @@ export const posts = [
   //       authorName: 'Angular Experience',
   //       authorUrl: 'https://angular-experience.web.app/episodes',
   //       speakers: ['Misko Hevery'],
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -13850,7 +13215,6 @@ export const posts = [
   //       authorName: 'Red',
   //       authorUrl: 'https://dev.to/redthemer',
   //       speakers: [],
-  //       likes: 0,
   //       tags: ['Routing'],
   //     },
   //     {
@@ -13871,7 +13235,6 @@ export const posts = [
   //       authorName: 'Code Shots With Profanis',
   //       authorUrl: 'https://www.youtube.com/c/CodeShotsWithProfanis/videos',
   //       speakers: [],
-  //       likes: 0,
   //       tags: ['Auth'],
   //     },
   //     {
@@ -13893,7 +13256,6 @@ export const posts = [
   //       authorUrl:
   //         'https://www.youtube.com/channel/UCc6U8t63AXf1twGg6qiK9fA/videos',
   //       speakers: ['Alex Khymenko'],
-  //       likes: 0,
   //       tags: ['Routing'],
   //     },
   //     {
@@ -13919,7 +13281,6 @@ export const posts = [
   //         'Nrwlian Katerina Skroumpelou',
   //         'Michael Shilman',
   //       ],
-  //       likes: 0,
   //       tags: ['Storybook'],
   //     },
   //     {
@@ -13940,7 +13301,6 @@ export const posts = [
   //       authorName: 'Thomas Laforge',
   //       authorUrl: 'https://medium.com/@thomas.laforge',
   //       speakers: ['Thomas Laforge'],
-  //       likes: 0,
   //       tags: ['NgRx'],
   //     },
   //     {
@@ -13962,7 +13322,6 @@ export const posts = [
   //       authorName: 'Brandon Roberts',
   //       authorUrl: 'https://medium.com/@brandontroberts',
   //       speakers: ['Brandon Roberts'],
-  //       likes: 0,
   //       tags: ['Nx'],
   //     },
   //     {
@@ -13983,7 +13342,6 @@ export const posts = [
   //       authorName: 'Sergey Gultyayev',
   //       authorUrl: 'https://sergeygultyayev.medium.com',
   //       speakers: ['Sergey Gultyayev'],
-  //       likes: 0,
   //       tags: ['Bundle Size'],
   //     },
   //     {
@@ -14005,7 +13363,6 @@ export const posts = [
   //       authorName: 'Rodrigo Kamada',
   //       authorUrl: 'https://dev.to/rodrigokamada',
   //       speakers: ['Rodrigo Kamada'],
-  //       likes: 0,
   //       tags: ['Forms', 'Validation'],
   //     },
   //     {
@@ -14027,7 +13384,6 @@ export const posts = [
   //       authorName: 'Vladyslav Yakovenko',
   //       authorUrl: 'https://dev.to/polyterative',
   //       speakers: ['Vladyslav Yakovenko'],
-  //       likes: 0,
   //       tags: [],
   //     },
   //   ],
@@ -14054,7 +13410,6 @@ export const posts = [
   //       authorName: 'Decoded Frontend',
   //       authorUrl: 'https://www.youtube.com/c/DecodedFrontend/videos',
   //       speakers: ['Dmytro Mezhenskyi'],
-  //       likes: 0,
   //       tags: ['RxJS', 'Schedulers'],
   //     },
   //     {
@@ -14076,7 +13431,6 @@ export const posts = [
   //       authorName: 'Revanth Oleti',
   //       authorUrl: 'https://dev.to/revanth_oleti',
   //       speakers: ['Revanth Oleti'],
-  //       likes: 0,
   //       tags: ['ng-container', 'ng-content', 'ng-template'],
   //     },
   //     {
@@ -14098,7 +13452,6 @@ export const posts = [
   //       authorName: 'Zoaib Khan',
   //       authorUrl: 'https://www.youtube.com/c/ZoaibKhan/videos',
   //       speakers: ['Zoaib Khan'],
-  //       likes: 0,
   //       tags: ['RxJS'],
   //     },
   //     {
@@ -14120,7 +13473,6 @@ export const posts = [
   //       authorName: 'Chris Trześniewski',
   //       authorUrl: 'https://dev.to/ktrz',
   //       speakers: ['Chris Trześniewski'],
-  //       likes: 0,
   //       tags: ['Directives'],
   //     },
   //     {
@@ -14142,7 +13494,6 @@ export const posts = [
   //       authorUrl:
   //         'https://www.youtube.com/channel/UCzTvX2rtVpsVZJgSfGXO7uA/videos',
   //       speakers: ['ijomah ifinwa'],
-  //       likes: 0,
   //       tags: ['AOT', 'Lazy Loading', 'Bundle Size', 'Pipes'],
   //     },
   //     {
@@ -14164,7 +13515,6 @@ export const posts = [
   //       authorName: 'Tarun Gurang',
   //       authorUrl: 'https://dev.to/tarungurang',
   //       speakers: ['Tarun Gurang'],
-  //       likes: 0,
   //       tags: ['Change Detection', 'Lazy Loading', 'PWA'],
   //     },
   //     {
@@ -14186,7 +13536,6 @@ export const posts = [
   //       authorName: 'Faisal Ahmed',
   //       authorUrl: 'https://medium.com/@faisalahmed_89898',
   //       speakers: ['Faisal Ahmed'],
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -14207,7 +13556,6 @@ export const posts = [
   //       authorName: 'Gábor Imre',
   //       authorUrl: 'https://medium.com/@i.gabesz',
   //       speakers: ['Gábor Imre'],
-  //       likes: 0,
   //       tags: ['RxJS'],
   //     },
   //     {
@@ -14229,7 +13577,6 @@ export const posts = [
   //       authorName: 'Adrian Matei',
   //       authorUrl: 'https://dev.to/ama',
   //       speakers: ['Adrian Matei'],
-  //       likes: 0,
   //       tags: ['Async Pipe'],
   //     },
   //     {
@@ -14251,7 +13598,6 @@ export const posts = [
   //       authorName: 'Colum Ferry',
   //       authorUrl: 'https://dev.to/coly010',
   //       speakers: ['Colum Ferry'],
-  //       likes: 0,
   //       tags: ['Nx', 'Tooling'],
   //     },
   //     {
@@ -14272,7 +13618,6 @@ export const posts = [
   //       authorName: 'Toni Babenko',
   //       authorUrl: 'https://medium.com/@tonnio',
   //       speakers: ['Toni Babenko'],
-  //       likes: 0,
   //       tags: ['RxJS'],
   //     },
   //     {
@@ -14292,7 +13637,6 @@ export const posts = [
   //       authorName: 'Ebenezer Hailemriam',
   //       authorUrl: 'https://medium.com/@ebenh',
   //       speakers: ['Ebenezer Hailemriam'],
-  //       likes: 0,
   //       tags: ['RxJS'],
   //     },
   //   ],
@@ -14320,7 +13664,6 @@ export const posts = [
   //       authorName: 'William Juan',
   //       authorUrl: 'https://auth0.com/blog/authors/william-juan/',
   //       speakers: ['William Juan'],
-  //       likes: 0,
   //       tags: ['NgRx'],
   //     },
   //     {
@@ -14341,7 +13684,6 @@ export const posts = [
   //       authorName: 'Joshua Morony',
   //       authorUrl: 'https://www.youtube.com/c/JoshuaMorony/videos',
   //       speakers: ['Joshua Morony'],
-  //       likes: 0,
   //       tags: ['NgRx', 'Service with a Subject'],
   //     },
   //     {
@@ -14362,7 +13704,6 @@ export const posts = [
   //       authorName: 'Lars Bilde',
   //       authorUrl: 'https://www.youtube.com/user/aceymer/videos',
   //       speakers: ['Lars Bilde'],
-  //       likes: 0,
   //       tags: ['Reactive Forms'],
   //     },
   //     {
@@ -14383,7 +13724,6 @@ export const posts = [
   //       authorName: 'Code with Sloba',
   //       authorUrl: 'https://www.youtube.com/c/SlobodanGajic/videos',
   //       speakers: ['Slobodan Gajic'],
-  //       likes: 0,
   //       tags: ['Animations'],
   //     },
   //   ],
@@ -14410,7 +13750,6 @@ export const posts = [
   //       authorName: '',
   //       authorUrl: '',
   //       speakers: ['Laurie Barth'],
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -14432,7 +13771,6 @@ export const posts = [
   //       authorName: 'Tarun Gurang',
   //       authorUrl: 'https://dev.to/tarungurang',
   //       speakers: ['Tarun Gurang'],
-  //       likes: 0,
   //       tags: ['NgRx'],
   //     },
   //     {
@@ -14453,7 +13791,6 @@ export const posts = [
   //       authorName: 'Rohith Sathyanarayana',
   //       authorUrl: 'https://medium.com/@getrohith.sathya',
   //       speakers: ['Rohith Sathyanarayana'],
-  //       likes: 0,
   //       tags: ['Async Pipe'],
   //     },
   //     {
@@ -14474,7 +13811,6 @@ export const posts = [
   //       authorName: 'Leela Web Dev',
   //       authorUrl: 'https://www.youtube.com/c/LeelaWebDev/videos',
   //       speakers: ['Leela Narasimha'],
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -14496,7 +13832,6 @@ export const posts = [
   //       authorUrl:
   //         'https://www.youtube.com/channel/UCmlK6Jayb3qqJYNfUmL-DkA/videos',
   //       speakers: ['Yann Braga'],
-  //       likes: 0,
   //       tags: ['Storybook'],
   //     },
   //   ],
@@ -14525,7 +13860,6 @@ export const posts = [
   //       authorName: 'Tarun Gurang',
   //       authorUrl: 'https://dev.to/tarungurang',
   //       speakers: ['Tarun Gurang'],
-  //       likes: 0,
   //       tags: ['onPush'],
   //     },
   //     {
@@ -14547,7 +13881,6 @@ export const posts = [
   //       authorUrl:
   //         'https://www.youtube.com/channel/UCc6U8t63AXf1twGg6qiK9fA/videos',
   //       speakers: ['Alex Khymenko'],
-  //       likes: 0,
   //       tags: ['Route Guards'],
   //     },
   //     {
@@ -14569,7 +13902,6 @@ export const posts = [
   //       authorName: 'Meet Kamal Today - Cloud Mastery',
   //       authorUrl: 'https://www.youtube.com/user/kamalpro01/videos',
   //       speakers: [],
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -14590,7 +13922,6 @@ export const posts = [
   //       authorName: 'CodeBriefly',
   //       authorUrl: 'https://medium.com/@CodeBriefly',
   //       speakers: [],
-  //       likes: 0,
   //       tags: ['trackBy'],
   //     },
   //     {
@@ -14612,7 +13943,6 @@ export const posts = [
   //       authorUrl:
   //         'https://www.youtube.com/channel/UCXGkmsJSnu4SuG1BLWcLAGQ/videos',
   //       speakers: ['Daniel Danielecki'],
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -14634,7 +13964,6 @@ export const posts = [
   //       authorUrl:
   //         'https://www.youtube.com/channel/UCmlK6Jayb3qqJYNfUmL-DkA/videos',
   //       speakers: ['Greg Radzio'],
-  //       likes: 0,
   //       tags: ['Architecture'],
   //     },
   //   ],
@@ -14661,7 +13990,6 @@ export const posts = [
   //       authorName: 'WebTechTalk',
   //       authorUrl: 'https://www.youtube.com/c/WebTechTalk/videos',
   //       speakers: [],
-  //       likes: 0,
   //       tags: ['Reactive Forms'],
   //     },
   //     {
@@ -14682,7 +14010,6 @@ export const posts = [
   //       authorName: 'Jijie Liu',
   //       authorUrl: 'https://liujijieseason.medium.com',
   //       speakers: ['Jijie Liu'],
-  //       likes: 0,
   //       tags: ['CI/CD'],
   //     },
   //   ],
@@ -14710,7 +14037,6 @@ export const posts = [
   //       authorName: 'Konstantinos Zagoris',
   //       authorUrl: 'https://dev.to/kzagoris',
   //       speakers: ['Konstantinos Zagoris'],
-  //       likes: 0,
   //       tags: ['Lazy Loading'],
   //     },
   //     {
@@ -14731,7 +14057,6 @@ export const posts = [
   //       authorName: 'Learning Partner',
   //       authorUrl: 'https://www.youtube.com/c/LearningPartnerDigital/videos',
   //       speakers: [],
-  //       likes: 0,
   //       tags: ['Resolvers'],
   //     },
   //     {
@@ -14753,7 +14078,6 @@ export const posts = [
   //       authorName: 'JS Frameworks',
   //       authorUrl: 'https://www.youtube.com/c/JSFrameworks/videos',
   //       speakers: [],
-  //       likes: 0,
   //       tags: [],
   //     },
   //     {
@@ -14775,7 +14099,6 @@ export const posts = [
   //       authorName: 'Kemil Beltre',
   //       authorUrl: 'https://kemilbeltre.medium.com',
   //       speakers: ['Kemil Beltre'],
-  //       likes: 0,
   //       tags: ['ElementRef'],
   //     },
   //     {
@@ -14797,7 +14120,6 @@ export const posts = [
   //       authorUrl:
   //         'https://www.youtube.com/channel/UCmEn3YXeBj_oeYLp4X5GcCg/videos',
   //       speakers: ['Prateek Chachra'],
-  //       likes: 0,
   //       tags: ['Testing', 'Jest'],
   //     },
   //     {
@@ -14819,7 +14141,6 @@ export const posts = [
   //       authorName: 'JoanMedia',
   //       authorUrl: 'https://www.youtube.com/c/joanmedia/videos',
   //       speakers: [],
-  //       likes: 0,
   //       tags: ['Testing', 'Cypress'],
   //     },
   //     {
@@ -14841,7 +14162,6 @@ export const posts = [
   //       authorName: 'gleb bahmutov',
   //       authorUrl: 'https://www.youtube.com/c/glebbahmutov/videos',
   //       speakers: ['Gleb Bahmutov'],
-  //       likes: 0,
   //       tags: ['Testing', 'Cypress'],
   //     },
   //   ],
@@ -14868,7 +14188,6 @@ export const posts = [
         authorName: 'Sankhadip Samanta',
         authorUrl: 'https://sankhadip.medium.com',
         speakers: ['Sankhadip Samanta'],
-        likes: 0,
         tags: ['Firebase', 'CRUD'],
       },
       {
@@ -14890,7 +14209,6 @@ export const posts = [
         authorName: 'Alisa',
         authorUrl: 'https://dev.to/alisaduncan',
         speakers: ['Alisa Duncan'],
-        likes: 0,
         tags: ['Testing'],
       },
       {
@@ -14912,7 +14230,6 @@ export const posts = [
         authorName: 'Jay',
         authorUrl: 'https://dev.to/jay3dec',
         speakers: [],
-        likes: 0,
         tags: ['Lazy Loading'],
       },
       {
@@ -14934,7 +14251,6 @@ export const posts = [
         authorName: 'Taulant',
         authorUrl: 'https://dev.to/taulantdisha',
         speakers: ['Taulant Disha'],
-        likes: 0,
         tags: ['Docker', 'Nginx'],
       },
       {
@@ -14956,7 +14272,6 @@ export const posts = [
         authorName: 'John Woodruff',
         authorUrl: 'https://dev.to/johnbwoodruff',
         speakers: ['John Woodruff'],
-        likes: 0,
         tags: ['CDK', 'Dialog'],
       },
       {
@@ -14978,7 +14293,6 @@ export const posts = [
         authorName: 'Ashnita Bali',
         authorUrl: 'https://www.telerik.com/blogs/author/ashnita-bali',
         speakers: ['Ashnita Bali'],
-        likes: 0,
         tags: ['Observables', 'Promises'],
       },
       {
@@ -15000,7 +14314,6 @@ export const posts = [
         authorUrl:
           'https://www.youtube.com/channel/UCFT4YVZl7AFia7rZBTEvavw/videos',
         speakers: ['Kevin Kreuzer'],
-        likes: 0,
         tags: ['Input', 'Host Binding'],
       },
     ],
@@ -15027,7 +14340,6 @@ export const posts = [
         authorName: 'WebTechTalk',
         authorUrl: 'https://www.youtube.com/c/WebTechTalk/videos',
         speakers: [],
-        likes: 0,
         tags: ['HTTP', 'HttpClient'],
       },
       {
@@ -15049,7 +14361,6 @@ export const posts = [
         authorName: 'Alisa',
         authorUrl: 'https://dev.to/alisaduncan',
         speakers: ['Alisa Duncan'],
-        likes: 0,
         tags: ['Testing'],
       },
       {
@@ -15070,7 +14381,6 @@ export const posts = [
         authorName: 'Alain Boudard',
         authorUrl: 'https://coco-boudard.medium.com',
         speakers: ['Alain Boudard'],
-        likes: 0,
         tags: ['NgRx'],
       },
       {
@@ -15092,7 +14402,6 @@ export const posts = [
         authorName: 'Florian Spier',
         authorUrl: 'https://dev.to/spierala',
         speakers: ['Florian Spier'],
-        likes: 0,
         tags: [],
       },
       {
@@ -15113,7 +14422,6 @@ export const posts = [
         authorName: 'Simon Grimm',
         authorUrl: 'https://www.youtube.com/user/saimon1924/videos',
         speakers: ['Simon Grimm'],
-        likes: 0,
         tags: ['HTTP', 'HttpClient'],
       },
       {
@@ -15135,7 +14443,6 @@ export const posts = [
         authorUrl:
           'https://www.youtube.com/channel/UCoR5eVx4Hirbi9HGbNn4Y4Q/videos',
         speakers: ['Christian Lüdemann'],
-        likes: 0,
         tags: [],
       },
       {
@@ -15157,7 +14464,6 @@ export const posts = [
         authorName: 'Learning Partner',
         authorUrl: 'https://www.youtube.com/c/LearningPartnerDigital/videos',
         speakers: [],
-        likes: 0,
         tags: [],
       },
       {
@@ -15179,7 +14485,6 @@ export const posts = [
         authorUrl:
           'https://www.youtube.com/channel/UCIkpfwmX7PORuZdnJ0OznAA/videos',
         speakers: ['Sibonelo Vilakazi'],
-        likes: 0,
         tags: [],
       },
       {
@@ -15200,7 +14505,6 @@ export const posts = [
         authorName: 'Igor Minar',
         authorUrl: 'https://medium.com/@IgorMinar',
         speakers: ['Igor Minar'],
-        likes: 0,
         tags: [],
       },
     ],
@@ -15227,7 +14531,6 @@ export const posts = [
         authorName: 'Jessica Wilkins',
         authorUrl: 'https://dev.to/codergirl1991',
         speakers: ['Jessica Wilkins'],
-        likes: 0,
         tags: ['CodeSandbox'],
       },
       {
@@ -15248,7 +14551,6 @@ export const posts = [
         authorName: 'Chau Tran',
         authorUrl: 'https://www.youtube.com/c/ChauTran/videos',
         speakers: ['Chau Tran'],
-        likes: 0,
         tags: [],
       },
       {
@@ -15270,7 +14572,6 @@ export const posts = [
         authorName: 'Lars Bilde',
         authorUrl: 'https://www.youtube.com/user/aceymer/videos',
         speakers: ['Lars Bilde'],
-        likes: 0,
         tags: ['RxJS', 'Observables', 'Subscriptions'],
       },
       {
@@ -15292,7 +14593,6 @@ export const posts = [
         authorName: 'Alisa',
         authorUrl: 'https://dev.to/alisaduncan',
         speakers: ['Alisa Duncan'],
-        likes: 0,
         tags: ['Testing'],
       },
       {
@@ -15313,7 +14613,6 @@ export const posts = [
         authorName: 'Briebug',
         authorUrl: 'https://www.youtube.com/c/Briebugsoftwaresolutions/videos',
         speakers: ['Austin Kulp'],
-        likes: 0,
         tags: ['RxJS', 'fromEvent'],
       },
       {
@@ -15334,7 +14633,6 @@ export const posts = [
         authorName: 'Joshua Morony',
         authorUrl: 'https://www.youtube.com/c/JoshuaMorony/videos',
         speakers: ['Joshua Morony'],
-        likes: 0,
         tags: ['NgRx'],
       },
       {
@@ -15353,7 +14651,6 @@ export const posts = [
         sourceUrl: 'https://github.com/angular/angular/releases',
         authorName: 'Joey Perrott',
         authorUrl: 'https://github.com/josephperrott',
-        likes: 0,
         tags: [],
       },
       {
@@ -15372,7 +14669,6 @@ export const posts = [
         sourceUrl: 'https://github.com/angular/angular/releases',
         authorName: 'Dylan Hunn',
         authorUrl: 'https://github.com/dylhunn',
-        likes: 0,
         tags: [],
       },
       {
@@ -15391,7 +14687,6 @@ export const posts = [
         sourceUrl: 'https://github.com/angular/angular/releases',
         authorName: 'Dylan Hunn',
         authorUrl: 'https://github.com/dylhunn',
-        likes: 0,
         tags: [],
       },
       {
@@ -15413,7 +14708,6 @@ export const posts = [
         authorName: 'nightwolfdev',
         authorUrl: 'https://dev.to/nightwolfdev',
         speakers: [],
-        likes: 0,
         tags: ['Route Guards', 'CanDeactivate'],
       },
       {
@@ -15434,7 +14728,6 @@ export const posts = [
         authorName: 'Yurii K',
         authorUrl: 'https://yurii-k.medium.com',
         speakers: ['Yurii K'],
-        likes: 0,
         tags: [],
       },
       {
@@ -15455,7 +14748,6 @@ export const posts = [
         authorName: 'Google Chrome Developers',
         authorUrl: 'https://www.youtube.com/c/GoogleChromeDevelopers/videos',
         speakers: ['Emma Twersky'],
-        likes: 0,
         tags: ['Accessibility'],
       },
       {
@@ -15476,7 +14768,6 @@ export const posts = [
         authorName: 'Google Chrome Developers',
         authorUrl: 'https://www.youtube.com/c/GoogleChromeDevelopers/videos',
         speakers: ['Mark Thonmpson'],
-        likes: 0,
         tags: [],
       },
     ],
@@ -15502,7 +14793,6 @@ export const posts = [
         authorName: '',
         authorUrl: '',
         speakers: ['Mark Thompson'],
-        likes: 0,
         tags: [],
       },
       {
@@ -15523,7 +14813,6 @@ export const posts = [
         authorName: 'Dilina Hirantha',
         authorUrl: 'https://dilinahirantha.medium.com',
         speakers: ['Dilina Hirantha'],
-        likes: 0,
         tags: ['RxJS', 'Observables', 'BehaviorSubject'],
       },
       {
@@ -15546,7 +14835,6 @@ export const posts = [
         authorUrl:
           'https://www.youtube.com/channel/UCCDDZ73SMXb3xp-hjMHngXg/videos',
         speakers: [],
-        likes: 0,
         tags: ['Firebase'],
       },
       {
@@ -15567,7 +14855,6 @@ export const posts = [
         authorUrl:
           'https://www.youtube.com/channel/UCmlK6Jayb3qqJYNfUmL-DkA/videos',
         speakers: ['Robert Ramirez'],
-        likes: 0,
         tags: ['Component Communication', 'ViewChild', 'ContentChild'],
       },
       {
@@ -15588,7 +14875,6 @@ export const posts = [
         authorUrl:
           'https://www.youtube.com/channel/UCmlK6Jayb3qqJYNfUmL-DkA/videos',
         speakers: ['Tom Eustace'],
-        likes: 0,
         tags: ['Performance'],
       },
       {
@@ -15609,7 +14895,6 @@ export const posts = [
         authorUrl:
           'https://www.youtube.com/channel/UCmlK6Jayb3qqJYNfUmL-DkA/videos',
         speakers: ['Wayne Gakuo'],
-        likes: 0,
         tags: ['Firebase', 'Auth'],
       },
       {
@@ -15631,7 +14916,6 @@ export const posts = [
         authorName: 'Leela Web Dev',
         authorUrl: 'https://www.youtube.com/c/LeelaWebDev/videos',
         speakers: ['Leela Narasimha'],
-        likes: 0,
         tags: ['Pipes', 'CLI'],
       },
       {
@@ -15652,7 +14936,6 @@ export const posts = [
         authorName: 'Wojciech Trawiński',
         authorUrl: 'https://medium.com/@wojtrawi',
         speakers: ['Wojciech Trawiński'],
-        likes: 0,
         tags: ['Route Guards'],
       },
       {
@@ -15674,7 +14957,6 @@ export const posts = [
         authorName: 'Indraneel Pole',
         authorUrl: 'https://medium.com/@pole.indraneel',
         speakers: ['Indraneel Pole'],
-        likes: 0,
         tags: [],
       },
       {
@@ -15697,8 +14979,529 @@ export const posts = [
         authorUrl:
           'https://www.youtube.com/channel/UCD8gC85u512FeCFzRV4Ll-A/videos',
         speakers: ['Sai Kumar Korthivada'],
-        likes: 0,
         tags: ['Testing', 'Unit Tests', 'Reactive Forms'],
+      },
+    ],
+  },
+  {
+    date: '2021-12-03',
+    dailyPosts: [
+      {
+        id: '03-a',
+        slug: '2021-12-03-a',
+        type: 'video',
+        duration: '14',
+        title:
+          'Different Ways Of Component Communication in angular | Angular Advance Concepts | Part 6',
+        url: 'https://www.youtube.com/watch?v=SsrCWiWhvgI',
+        description:
+          'What are different ways of component communication and implementation of same.\n1) Using Input and Output (if Parent Child Relationship).\n2) Using Viewchild\n3) Using Common service by storing value in to object as keys.\n4) Using Subject and Subject Behaviors of RXJS.',
+        imgUrl: '2021-12-03-a.jpg',
+        datePosted: '2021-12-03',
+        dateSource: '2021-12-03',
+        postedBy: 'Steve Witman',
+        sourceSite: 'YouTube',
+        sourceUrl: 'https://youtube.com',
+        authorName: 'Learning Partner',
+        authorUrl: 'https://www.youtube.com/c/LearningPartnerDigital/videos',
+        speakers: [],
+        tags: [],
+      },
+      {
+        id: '03-b',
+        slug: '2021-12-03-b',
+        type: 'video',
+        duration: '62',
+        title:
+          '#32: David Peterson of Angular Ventures on how the Future of Enterprise will be "Customer-Built"',
+        url: 'https://www.youtube.com/watch?v=9XxbkaR5yC4',
+        description:
+          'Angular Insights webinar featuring David Peterson, Angular Venture\'s new partner. David is interviewed by Gil on  the future of enterprise software, lessons from Airtable, "customer built" products and why he recently joined Angular. ',
+        imgUrl: '2021-12-03-b.jpg',
+        datePosted: '2021-12-03',
+        dateSource: '2021-12-03',
+        postedBy: 'Steve Witman',
+        sourceSite: 'YouTube',
+        sourceUrl: 'https://youtube.com',
+        authorName: 'Angular Ventures',
+        authorUrl: 'https://www.youtube.com/c/LearningPartnerDigital/videos',
+        speakers: ['David Peterson'],
+        tags: [],
+      },
+      {
+        id: '03-c',
+        slug: '2021-12-03-c',
+        type: 'podcast',
+        duration: '47',
+        title: 'Progressive Web Apps (PWAs) ft. Francesco Leardini - AiA 333',
+        url: 'https://adventuresinangular.com/progressive-web-apps-pwas-ft-francesco-leardini-aia-333',
+        description:
+          "Francesco Leardini joins the adventure to discuss how to build PWA's using Angular. In some ways it's pretty straightforward. In other ways, you need to invent ways to get what you need.\n\nFrancesco explains how to pull in the various features that make up PWA's and the advantages of using them with your Angular applications to enhance your users' experience.",
+        imgUrl: '2021-12-03-c.jpg',
+        datePosted: '2021-12-03',
+        dateSource: '2021-12-02',
+        postedBy: 'Steve Witman',
+        sourceSite: 'Devchat.tv',
+        sourceUrl: 'https://devchat.tv',
+        authorName: 'Adventures In Angular',
+        authorUrl: 'https://devchat.tv/show/adventures-in-angular/',
+        speakers: ['Francesco Leardini'],
+        tags: ['PWA'],
+      },
+      {
+        id: '03-d',
+        slug: '2021-12-03-d',
+        type: 'blog',
+        duration: '',
+        title: 'You should NOT use Store in your web applications',
+        url: 'https://medium.com/@tonnio/you-should-not-use-store-in-your-web-applications-ac903799d0da',
+        description:
+          'Remark 1:\nIn this article, when I say “store” I refer to the “Flux architecture” and its implementation represented by Redux.\n\nRemark 2:\nThe article is not dedicated to any specific Front-End framework/library. Arguments stated here may be applied to React as well as to Angular and other modern Front-End tools.',
+        imgUrl: '2021-12-03-d.jpg',
+        datePosted: '2021-12-03',
+        dateSource: '2021-12-02',
+        postedBy: 'Steve Witman',
+        sourceSite: 'Medium',
+        sourceUrl: 'https://medium.com/tag/angular/latest',
+        authorName: 'Toni Babenko',
+        authorUrl: 'https://medium.com/@tonnio',
+        speakers: ['Toni Babenko'],
+        tags: [],
+      },
+      {
+        id: '03-e',
+        slug: '2021-12-03-e',
+        type: 'blog',
+        duration: '',
+        title: 'Lazy-load module/scripts/styles in Angular — Part 1',
+        url: 'https://vishnuthankappan.medium.com/lazy-load-module-script-styles-in-angular-part-1-cf837f835cfe',
+        description:
+          'In this we’ll quickly go through how to lazy-load a component in Angular.',
+        imgUrl: '2021-12-03-e.jpg',
+        datePosted: '2021-12-03',
+        dateSource: '2021-12-03',
+        postedBy: 'Steve Witman',
+        sourceSite: 'Medium',
+        sourceUrl: 'https://medium.com/tag/angular/latest',
+        authorName: 'Vishnu Thankappan',
+        authorUrl: 'https://vishnuthankappan.medium.com',
+        speakers: ['Vishnu Thankappan'],
+        tags: ['Lazy Loading'],
+      },
+      {
+        id: '03-f',
+        slug: '2021-12-03-f',
+        type: 'blog',
+        duration: '',
+        title: 'Lazy-load module/scripts/styles in Angular — Part 2',
+        url: 'https://vishnuthankappan.medium.com/lazy-load-module-scripts-styles-in-angular-part-2-e240520d1545',
+        description:
+          'How third-party scripts compilation affects the performance of an application and how we can improve the performance of it can be read here:',
+        imgUrl: '2021-12-03-f.jpg',
+        datePosted: '2021-12-03',
+        dateSource: '2021-12-03',
+        postedBy: 'Steve Witman',
+        sourceSite: 'Medium',
+        sourceUrl: 'https://medium.com/tag/angular/latest',
+        authorName: 'Vishnu Thankappan',
+        authorUrl: 'https://vishnuthankappan.medium.com',
+        speakers: ['Vishnu Thankappan'],
+        tags: ['Lazy Loading'],
+      },
+      {
+        id: '03-g',
+        slug: '2021-12-03-g',
+        type: 'blog',
+        duration: '',
+        title: 'Angular custom form field control module',
+        url: 'https://medium.com/@mehranmb78/angular-custom-form-field-control-module-fc6aeec5f994',
+        description:
+          'Most Apps require to know some information from their users so they use forms to get these information. According to your UI design sometimes you need custom input field so it’s better you have custom module for this and use it every where you want and avoid repeating your logic.',
+        imgUrl: '2021-12-03-g.jpg',
+        datePosted: '2021-12-03',
+        dateSource: '2021-12-03',
+        postedBy: 'Steve Witman',
+        sourceSite: 'Medium',
+        sourceUrl: 'https://medium.com/tag/angular/latest',
+        authorName: 'Mehran Beiglou',
+        authorUrl: 'https://vishnuthankappan.medium.com',
+        speakers: ['Mehran Beiglou'],
+        tags: ['Forms'],
+      },
+      {
+        id: '03-h',
+        slug: '2021-12-03-h',
+        type: 'video',
+        duration: '6',
+        title: 'Angular - Zero to Hero - Pipes [ Including Custom Pipe ]',
+        url: 'https://www.youtube.com/watch?v=IOLbUZ5v2HU',
+        description:
+          'Angular Insights webinar featuring David Peterson, Angular Venture\'s new partner. David is interviewed by Gil on  the future of enterprise software, lessons from Airtable, "customer built" products and why he recently joined Angular.',
+        imgUrl: '2021-12-03-h.jpg',
+        datePosted: '2021-12-03',
+        dateSource: '2021-12-03',
+        postedBy: 'Steve Witman',
+        sourceSite: 'YouTube',
+        sourceUrl: 'https://youtube.com',
+        authorName: 'WebTechTalk',
+        authorUrl: 'https://www.youtube.com/c/WebTechTalk/videos',
+        speakers: [],
+        tags: ['Pipes'],
+      },
+      {
+        id: '03-i',
+        slug: '2021-12-03-i',
+        type: 'blog',
+        duration: '',
+        title: 'This is the simplest way to reload data using RxJS.',
+        url: 'https://obaranovskyi.medium.com/rxjs-data-reload-pattern-with-custom-operators-factory-functions-b929a2103dd8',
+        description:
+          'Most of the time, we have to load data from the server. To perform the action client usually sends requests along with predefined data. Such data usually takes from the route, browser storage, or from attributes in the case when it’s a component. To load the user details we need to have userId, to load card details we need to have cardId, and so on. But what if you already load the data and you just need to reload without passing the same predefined data again and again. Sounds like a trivial task, right?',
+        imgUrl: '2021-12-03-i.jpg',
+        datePosted: '2021-12-03',
+        dateSource: '2021-12-01',
+        postedBy: 'Steve Witman',
+        sourceSite: 'Medium',
+        sourceUrl: 'https://medium.com/tag/angular/latest',
+        authorName: 'Oleh Baranovskyi',
+        authorUrl: 'https://obaranovskyi.medium.com',
+        speakers: ['Oleh Baranovskyi'],
+        tags: ['RxJS'],
+      },
+      {
+        id: '03-j',
+        slug: '2021-12-03-j',
+        type: 'blog',
+        duration: '',
+        title: 'RxJS: an introduction to observables',
+        url: 'https://medium.com/@robbertvanballegooijen/rxjs-ec128bef266e',
+        description:
+          'In this tutorial I will give you a basic introduction to RxJS observables. First, you will get a brief explanation about what they are and how you can use them. We will then look at some example code and create some observables ourselves.',
+        imgUrl: '2021-12-03-j.jpg',
+        datePosted: '2021-12-03',
+        dateSource: '2021-12-01',
+        postedBy: 'Steve Witman',
+        sourceSite: 'Medium',
+        sourceUrl: 'https://medium.com/tag/angular/latest',
+        authorName: 'Robbert van Ballegooijen',
+        authorUrl: 'https://medium.com/@robbertvanballegooijen',
+        speakers: ['Robbert van Ballegooijen'],
+        tags: ['RxJS', 'Observables'],
+      },
+    ],
+  },
+  {
+    date: '2021-12-04',
+    dailyPosts: [
+      {
+        id: '04-a',
+        slug: '2021-12-04-a',
+        type: 'blog',
+        duration: '',
+        title: 'Angular 13 Form Validation Tutorial Step by Step',
+        url: 'https://dev.to/savanihd/angular-13-form-validation-tutorial-step-by-step-2lm5',
+        description:
+          'Today, i will let you know example of angular 13 reactive forms validation. you can understand a concept of angular 13 forms validation example. if you have question about angular 13 reactive forms example then i will give simple example with solution. you can understand a concept of reactive form validation in angular 13. Here, Creating a basic example of angular 13 form validation example.',
+        imgUrl: '2021-12-04-a.jpg',
+        datePosted: '2021-12-04',
+        dateSource: '2021-12-04',
+        postedBy: 'Steve Witman',
+        sourceSite: 'DEV Community',
+        sourceUrl:
+          'https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc',
+        authorName: 'Hardik Savani',
+        authorUrl: 'https://dev.to/savanihd',
+        speakers: ['Hardik Savani'],
+        tags: ['Forms', 'Reactive Forms'],
+      },
+      {
+        id: '04-b',
+        slug: '2021-12-04-b',
+        type: 'video',
+        duration: '28',
+        title: 'Dockerize your Angular app - Docker/Angular 13/Nginx',
+        url: 'https://www.youtube.com/watch?v=3NobJzI3_68',
+        description:
+          'Angular Docker tutorial - We look at the basic concepts of docker like images, containers, docker compose etc. We also see how to create a Dockerfile for building/testing/linting and hosting the Angular app using nginx. We also see how to create Dockerfile for Nestjs server.',
+        imgUrl: '2021-12-04-b.jpg',
+        datePosted: '2021-12-04',
+        dateSource: '2021-12-04',
+        postedBy: 'Steve Witman',
+        sourceSite: 'YouTube',
+        sourceUrl: 'https://youtube.com',
+        authorName: 'JS Frameworks',
+        authorUrl: 'https://www.youtube.com/c/JSFrameworks/videos',
+        speakers: [],
+        tags: ['Docker'],
+      },
+      {
+        id: '04-c',
+        slug: '2021-12-04-c',
+        type: 'video',
+        duration: '50',
+        title: 'Zoom integration in ANGULAR (jitsi) | without NODEJS',
+        url: 'https://www.youtube.com/watch?v=5j9-875VUW4',
+        description: '',
+        imgUrl: '2021-12-04-c.jpg',
+        datePosted: '2021-12-04',
+        dateSource: '2021-12-04',
+        postedBy: 'Steve Witman',
+        sourceSite: 'YouTube',
+        sourceUrl: 'https://youtube.com',
+        authorName: 'coding wall',
+        authorUrl:
+          'https://www.youtube.com/channel/UCxjJshhu0QBbztNZei4udOA/videos',
+        speakers: [],
+        tags: [],
+      },
+      {
+        id: '04-d',
+        slug: '2021-12-04-d',
+        type: 'video',
+        duration: '49',
+        title: 'Register Student Angular with Spring Boot',
+        url: 'https://www.youtube.com/watch?v=WO5czG4XBnI',
+        description:
+          'Employee Management System\nCRUD Operation: Angular with Spring Boot',
+        imgUrl: '2021-12-04-d.jpg',
+        datePosted: '2021-12-04',
+        dateSource: '2021-12-04',
+        postedBy: 'Steve Witman',
+        sourceSite: 'YouTube',
+        sourceUrl: 'https://youtube.com',
+        authorName: 'WriteCodeWith Prince',
+        authorUrl:
+          'https://www.youtube.com/channel/UCgcpEPz_96MJAXGDtn1xmVg/videos',
+        speakers: [],
+        tags: [],
+      },
+      {
+        id: '04-e',
+        slug: '2021-12-04-e',
+        type: 'video',
+        duration: '21',
+        title:
+          'Class, Interface And Enumeration In Angular CLI | Angular Complete Tutorial | Coding Knowledge',
+        url: 'https://www.youtube.com/watch?v=gouPVMsurUU',
+        description:
+          'In this session, We will discuss generating TypeScript features like classes, interfaces and enumerations using the Angular CLI.',
+        imgUrl: '2021-12-04-e.jpg',
+        datePosted: '2021-12-04',
+        dateSource: '2021-12-04',
+        postedBy: 'Steve Witman',
+        sourceSite: 'YouTube',
+        sourceUrl: 'https://youtube.com',
+        authorName: 'Coding Knowledge',
+        authorUrl: 'https://www.youtube.com/c/CodingKnowledge/videos',
+        speakers: ['Satyaprakash Samantaray'],
+        tags: ['Classes', 'Interfaces', 'Enumerations'],
+      },
+      {
+        id: '04-f',
+        slug: '2021-12-04-f',
+        type: 'blog',
+        duration: '',
+        title: 'Deploy Angular + NodeJS Application to AWS Elastic Beanstalk',
+        url: 'https://kanchana-rdg.medium.com/deploy-angular-nodejs-application-to-aws-elastic-beanstalk-9ab13076a736',
+        description:
+          'This article’s purpose is to provide the basic information to a beginner to use the most common RxJS operators and hopefully be the spark of embracing reactive programming in the future. The article’s target is to provide not only real-world use cases for switchMap, mergeMap, exhaustMap, concatMap, but also a small project as a starting point.',
+        imgUrl: '2021-12-04-f.jpg',
+        datePosted: '2021-12-04',
+        dateSource: '2021-12-04',
+        postedBy: 'Steve Witman',
+        sourceSite: 'Medium',
+        sourceUrl: 'https://medium.com/tag/angular/latest',
+        authorName: 'Kanchana Ranmuthu',
+        authorUrl: 'https://kanchana-rdg.medium.com',
+        speakers: ['Kanchana Ranmuthu'],
+        tags: [],
+      },
+      {
+        id: '04-g',
+        slug: '2021-12-04-g',
+        type: 'video',
+        duration: '5',
+        title: 'Test FASTER Test BETTER using this in Cypress Cucumber!',
+        url: 'https://www.youtube.com/watch?v=XCmVRg2S2TA',
+        description:
+          "I'll show you how to write your tests faster and better by using the background syntax in Cypress and Cucumber.",
+        imgUrl: '2021-12-04-g.jpg',
+        datePosted: '2021-12-05',
+        dateSource: '2021-12-01',
+        postedBy: 'Steve Witman',
+        sourceSite: 'YouTube',
+        sourceUrl: 'https://youtube.com',
+        authorName: 'Dane Harnett',
+        authorUrl: 'https://www.youtube.com/c/DaneHarnett/videos',
+        speakers: ['Dane Harnett'],
+        tags: ['Testing', 'Cypress'],
+      },
+      {
+        id: '04-h',
+        slug: '2021-12-04-h',
+        type: 'video',
+        duration: '5',
+        title: 'Cypress Advanced Capabilities Declassified by Eran Kinsbruner',
+        url: 'https://www.youtube.com/watch?v=0wKEOq6aNYM',
+        description:
+          'Cypress has become one of the leading test automation frrameworks for cross browser web applications. While it only support JavaScript, it is a powerful framework for developers and test automation engineers. Beyond the core benefits and features of Cypress, there are a few unique and advanced abilities that can enhance test engineers coverage and productivity. In this session, Eran Kinsbruner, Chief Evangelist, Author and Senior Director from Perfecto will highlight the top advanced capabilities of Cypress.',
+        imgUrl: '2021-12-04-h.jpg',
+        datePosted: '2021-12-05',
+        dateSource: '2021-11-29',
+        postedBy: 'Steve Witman',
+        sourceSite: 'YouTube',
+        sourceUrl: 'https://youtube.com',
+        authorName: 'The Test Tribe',
+        authorUrl: 'https://www.youtube.com/c/TheTestTribe/videos',
+        speakers: ['Eran Kinsbruner'],
+        tags: ['Testing', 'Cypress'],
+      },
+    ],
+  },
+  {
+    date: '2021-12-05',
+    dailyPosts: [
+      {
+        id: '05-a',
+        slug: '2021-12-05-a',
+        type: 'blog',
+        duration: '',
+        title: 'Implementing Light / Dark Mode in Angular',
+        url: 'https://dev.to/pahanperera/implement-light-dark-mode-in-angular-42ff',
+        description:
+          "Light / Dark mode toggle is a very common feature in today's web applications. This feature may looks very simple to the end users, but it takes some additional effort to correctly implement in a web application.\n\nThis post will focus on one of the most straightforward ways of implementing dark mode, using Angular and modern CSS features.",
+        imgUrl: '2021-12-05-a.jpg',
+        datePosted: '2021-12-05',
+        dateSource: '2021-12-05',
+        postedBy: 'Steve Witman',
+        sourceSite: 'DEV Community',
+        sourceUrl:
+          'https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc',
+        authorName: 'Pahan Perera',
+        authorUrl: 'https://dev.to/pahanperera',
+        speakers: ['Pahan Perera'],
+        tags: [],
+      },
+      {
+        id: '05-b',
+        slug: '2021-12-05-b',
+        type: 'video',
+        duration: '25',
+        title: 'Part 40 - Build an Angular UI for FleetMS v2',
+        url: 'https://www.youtube.com/watch?v=Ag3RmXNKGL0',
+        description:
+          'This is Part 40 of our complete application in Spring Boot (FleetMS version 2). In this part, we  are going to be create a nice Angular application to server as a UI for our Fleet MS. We would also create a REST API from the existing Controller.',
+        imgUrl: '2021-12-05-b.jpg',
+        datePosted: '2021-12-05',
+        dateSource: '2021-12-04',
+        postedBy: 'Steve Witman',
+        sourceSite: 'YouTube',
+        sourceUrl: 'https://youtube.com',
+        authorName: 'Kindson The Tech Pro',
+        authorUrl: 'https://www.youtube.com/c/KindsonTheTechPro/videos',
+        speakers: ['Kindson Munonye'],
+        tags: [],
+      },
+      {
+        id: '05-c',
+        slug: '2021-12-05-c',
+        type: 'blog',
+        duration: '',
+        title: 'RxJS Operators: Angular — KISS',
+        url: 'https://medium.com/@stavrosdro/rxjs-operators-angular-kiss-36d875d2ff7d',
+        description:
+          'This article’s purpose is to provide the basic information to a beginner to use the most common RxJS operators and hopefully be the spark of embracing reactive programming in the future. The article’s target is to provide not only real-world use cases for switchMap, mergeMap, exhaustMap, concatMap, but also a small project as a starting point.',
+        imgUrl: '2021-12-05-c.jpg',
+        datePosted: '2021-12-05',
+        dateSource: '2021-12-05',
+        postedBy: 'Steve Witman',
+        sourceSite: 'Medium',
+        sourceUrl: 'https://medium.com/tag/angular/latest',
+        authorName: 'Stavros Droutsas',
+        authorUrl: 'https://medium.com/@stavrosdro',
+        speakers: ['Stavros Droutsas'],
+        tags: ['RxJS'],
+      },
+      {
+        id: '05-d',
+        slug: '2021-12-05-d',
+        type: 'blog',
+        duration: '',
+        title: 'Angular, handle multiple views easily by using ToggleGroup',
+        url: 'https://sws-by-ar.medium.com/angular-handle-multiple-views-easily-by-using-togglegroup-ef97a437c79e',
+        description:
+          'We all come across situation where we have to handle multiple views or component’s display at the same time, keeping them in or out of view. This seems stupidly simple to handle using toggle variables, but not all the time it’s as easy as it sound.',
+        imgUrl: '2021-12-05-d.jpg',
+        datePosted: '2021-12-05',
+        dateSource: '2021-12-05',
+        postedBy: 'Steve Witman',
+        sourceSite: 'Medium',
+        sourceUrl: 'https://medium.com/tag/angular/latest',
+        authorName: 'Simple Web Solutions',
+        authorUrl: 'https://sws-by-ar.medium.com',
+        speakers: [],
+        tags: [],
+      },
+      {
+        id: '05-e',
+        slug: '2021-12-05-e',
+        type: 'video',
+        duration: '101',
+        title: 'Cypress.io from the trenches - Using Cypress in real life',
+        url: 'https://www.youtube.com/watch?v=AzRQarXGUxA',
+        description:
+          'The second Cypress.io Dutch Community Meetup is focussed on using Cypress in real life. Get insights on how to test your web sockets with Cypress and React. Learn about testing the frontend decoupled from the backend with Cypress and we will discuss the best practices and pitfalls of using Cypress.',
+        imgUrl: '2021-12-05-e.jpg',
+        datePosted: '2021-12-05',
+        dateSource: '2021-12-02',
+        postedBy: 'Steve Witman',
+        sourceSite: 'YouTube',
+        sourceUrl: 'https://youtube.com',
+        authorName: 'Qxperts BV',
+        authorUrl:
+          'https://www.youtube.com/channel/UCIOy7lHLz8Ytc_d1NPe9-NA/videos',
+        speakers: ['Sander Boer', 'Walmyr Filho', 'Erik Zeedijk'],
+        tags: ['Testing', 'Cypress'],
+      },
+      {
+        id: '05-f',
+        slug: '2021-12-05-f',
+        type: 'blog',
+        duration: '',
+        title: 'Angular: Watch build for changes',
+        url: 'https://keertikotaru.medium.com/angular-watch-build-for-changes-4e4f5a140eb3',
+        description:
+          'You may use the watch option on Angular build for updating the output as and when developers make changes to the code. It is very similar to serve, except that the application runs a different web server from the default dev server.',
+        imgUrl: '2021-12-05-f.jpg',
+        datePosted: '2021-12-05',
+        dateSource: '2021-12-05',
+        postedBy: 'Steve Witman',
+        sourceSite: 'Medium',
+        sourceUrl: 'https://medium.com/tag/angular/latest',
+        authorName: 'Keerti Kotaru',
+        authorUrl: 'https://keertikotaru.medium.com',
+        speakers: ['Keerti Kotaru'],
+        tags: [],
+      },
+      {
+        id: '05-g',
+        slug: '2021-12-05-g',
+        type: 'blog',
+        duration: '',
+        title: 'Angular - All about the ViewContainerRef',
+        url: 'https://kelly-kh-woo.medium.com/angular-viewcontainerref-a1e8d08eabc2',
+        description:
+          'ViewContainerRef(VCR) represents a container where one or more view can be attached. It is basically a place where all template grammars do a magic. Most time we write template with mark-ups to make a new view, also we can create view with this VCR on demand.',
+        imgUrl: '2021-12-05-g.jpg',
+        datePosted: '2021-12-05',
+        dateSource: '2021-12-05',
+        postedBy: 'Steve Witman',
+        sourceSite: 'Medium',
+        sourceUrl: 'https://medium.com/tag/angular/latest',
+        authorName: 'Kelly Woo',
+        authorUrl: 'https://kelly-kh-woo.medium.com',
+        speakers: ['Kelly Woo'],
+        tags: ['ViewContainerRef'],
       },
     ],
   },
