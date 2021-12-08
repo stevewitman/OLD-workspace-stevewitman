@@ -139,6 +139,7 @@ NgRX Entity
 NgRx
 NgRx Data
 Ngxs
+NgZone
 Notifications
 Nullish Coalescing
 Nullish Coalescing Operator
