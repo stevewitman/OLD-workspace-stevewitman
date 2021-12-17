@@ -76,6 +76,7 @@ Environments
 Error Handling
 Errors
 Event Binding
+EventEmitter
 Factory Pattern
 Fakes
 Feature Flags
@@ -99,6 +100,7 @@ HTTP Interceptors
 Hasura
 HostBinding
 HostListener
+Hot Module Replacement
 Hot vs Cold
 Infinite Scroll
 InjectionToken
@@ -123,8 +125,8 @@ Lifecycle Hooks
 Linters
 Local Storage
 Lodash-es
-Micro Frontend Routing
 Micro Frontends
+Microservices
 Migrate
 Migration
 Mixins
@@ -186,6 +188,7 @@ Scully
 Security
 Selectors
 Service with a Subject
+Service Workers
 Services
 Share
 ShareReplay
@@ -215,8 +218,7 @@ Two-Way Data Binding
 TypeScript
 Typescript
 Unit Testing
-Unit Tests
-Universal
+E2E Testing
 Update
 Utility Types
 VSCode
