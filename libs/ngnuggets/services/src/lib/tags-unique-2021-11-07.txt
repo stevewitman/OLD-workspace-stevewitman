@@ -58,7 +58,6 @@ Data Table
 Debugging
 Decorators
 Dependency Injection
-Deploy
 Deployment
 Destructuring
 Dialog
@@ -77,12 +76,14 @@ Error Handling
 Errors
 Event Binding
 EventEmitter
+ExpressJS
 Factory Pattern
 Fakes
 Feature Flags
 Firebase
 FlexLayoutModule
 Form Fields
+FormArray
 FormControl
 Forms
 Generics
