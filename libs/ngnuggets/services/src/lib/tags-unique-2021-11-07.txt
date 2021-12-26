@@ -1,8 +1,10 @@
 :host-context()
-@Inject
-@ViewChild
-@ViewChildren
-@ngneat/until-destroy
+@HostBinding (decorator)
+@HostListener (decorator)
+@Input (decorator)
+@Inject (decorator)
+@ViewChild (decorator)
+@ViewChildren (decorator)
 AOT
 AST
 Accessibility
@@ -40,17 +42,18 @@ Checkbox
 Chips
 Code Coverage
 Community
-Component Store (ComponentStore?)
+ComponentStore
 Components
 Container Presenter
 Content Projection
 Control Value Accessors
 ControlValueAccessor
 Cookies
-Coomponent Harnesses
+Component Harness
 Creation Operators
 CRUD
-Custom Directive
+CSRF
+Custom Directives
 Cypress
 Cypresss
 DOM Manipulation
@@ -71,7 +74,7 @@ Dynamic Factory
 ESLint
 Effects
 Enums
-Environments
+Environments ['environment variables']
 Error Handling
 Errors
 Event Binding
@@ -98,14 +101,10 @@ GraphQL
 HttpClient
 HTTP Interceptors
 Hasura
-HostBinding
-HostListener
 Hot Module Replacement
 Hot vs Cold
 Infinite Scroll
 InjectionToken
-Input
-Input Decorator
 Interceptors
 Interfaces
 Internationalization
@@ -176,6 +175,8 @@ ReplaySubject
 Route Guards
 Route Params
 RouteReuseStrategy
+routerLinkActive
+routerLinkActiveOptions
 Router
 Router Outlets
 Routing
