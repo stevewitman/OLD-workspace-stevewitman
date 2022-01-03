@@ -398,7 +398,7 @@ export const posts = [
         title: 'Why you should NOT use Functions in Angular HTML',
         url: 'https://medium.com/@heshamaothman/why-you-should-not-use-functions-in-angular-html-f445371a4b6b',
         description:
-          'If you worked with Angular on a little bit complex project, you will - most likely - start to write component functions that edit or transform some kind of data that you want to display in the component. If you are not familiar with the Angular way of doing this, you will just use the functions that you wrote in the HTML file and you will find that it works!. So everything is great, isn’t it?',
+          "If you worked with Angular on a little bit complex project, you will - most likely - start to write component functions that edit or transform some kind of data that you want to display in the component. If you are not familiar with the Angular way of doing this, you will just use the functions that you wrote in the HTML file and you will find that it works!. So everything is great, isn't it?",
         imgUrl: '2021-09-05-a.jpg',
         datePosted: '2021-09-05',
         dateSource: '2021-09-04',
@@ -545,7 +545,7 @@ export const posts = [
   //       title: 'S1E14 | Making the Most of Tech Events and Conferences',
   //       url: 'https://www.spreaker.com/user/14532324/s1e14-making-the-most-of-tech-events-and?utm_medium=widget&utm_source=user%3A14532324&utm_term=episode_title',
   //       description:
-  //         'In today’s episode of The Angular Experience, Brooke and Erik are joined by event organizing pro Alisa Duncan to talk about event networking tips and suggestions for introverts and extroverts alike. They address how to connect with fellow attendees and developers, speakers, sponsors, and potential employers as well.',
+  //         'In today\'s episode of The Angular Experience, Brooke and Erik are joined by event organizing pro Alisa Duncan to talk about event networking tips and suggestions for introverts and extroverts alike. They address how to connect with fellow attendees and developers, speakers, sponsors, and potential employers as well.',
   //       imgUrl: 'thumb-angular-experience.png',
   //       datePosted: '2021-09-06',
   //       dateSource: '2021-09-06',
@@ -879,7 +879,7 @@ export const posts = [
   //       title: 'Angular Basics: Data Binding Part 2—Event Binding',
   //       url: 'https://www.telerik.com/blogs/angular-basics-data-binding-part-2-event-binding',
   //       description:
-  //         'Data binding can be confusing when you’re getting started in Angular. Let’s break it down! This post covers event binding, which is one of the one-way data binding methods.',
+  //         'Data binding can be confusing when you\'re getting started in Angular. Let\'s break it down! This post covers event binding, which is one of the one-way data binding methods.',
   //       imgUrl: '2021-09-08-d.png',
   //       datePosted: '2021-09-08',
   //       dateSource: '2021-09-07',
@@ -1118,7 +1118,7 @@ export const posts = [
   //       title: 'Will the Real Senior Dev Please Stand Up? (2021 Edition)',
   //       url: 'https://dev.to/linearb/will-the-real-senior-dev-please-stand-up-2021-edition-1k4j',
   //       description:
-  //         '... In a follow-up to my article from last year, I’d like to share some of the takeaways from my discussion with Dan and discuss whether or not some of these hiring practices have changed in the past year. ...',
+  //         '... In a follow-up to my article from last year, I\'d like to share some of the takeaways from my discussion with Dan and discuss whether or not some of these hiring practices have changed in the past year. ...',
   //       imgUrl: '2021-09-09-h.png',
   //       datePosted: '2021-09-09',
   //       dateSource: '2021-09-08',
@@ -1138,7 +1138,7 @@ export const posts = [
   //       title: 'Tutorial – First Steps with Nx and Angular Architecture',
   //       url: 'https://www.angulararchitects.io/en/aktuelles/tutorial-first-steps-with-nx-and-angular-architecture/',
   //       description:
-  //         'Nx is a famous extension for the Angular CLI provided by former Angular core team members. It’s a great solution (not only) for structuring big enterprise-scale applications. This tutorial shows how to get started with Nx. It starts from scratch with an empty Nx workspace. You learn the following things:',
+  //         'Nx is a famous extension for the Angular CLI provided by former Angular core team members. It\'s a great solution (not only) for structuring big enterprise-scale applications. This tutorial shows how to get started with Nx. It starts from scratch with an empty Nx workspace. You learn the following things:',
   //       imgUrl: '2021-09-09-i.png',
   //       datePosted: '2021-09-09',
   //       dateSource: '2021-09-08',
@@ -1494,7 +1494,7 @@ export const posts = [
   //       title: 'Prefer Template-Driven Forms | Ward Bell | ng-conf 2021',
   //       url: 'https://www.youtube.com/watch?v=L7rGogdfe2Q',
   //       description:
-  //         'In this session,  he will demonstrate the superiority of Template-Driven Forms in a variety of so-called “advanced”, real-world scenarios. He will leave you with the companion stackblitz sample to enjoy on your own. If you’re fond of Reactive Forms, carry on. If you’re feeling guilty because you use Template-Driven Forms, hold your head high knowing that you’ve chosen wisely.',
+  //         'In this session,  he will demonstrate the superiority of Template-Driven Forms in a variety of so-called “advanced”, real-world scenarios. He will leave you with the companion stackblitz sample to enjoy on your own. If you\'re fond of Reactive Forms, carry on. If you\'re feeling guilty because you use Template-Driven Forms, hold your head high knowing that you\'ve chosen wisely.',
   //       imgUrl: '2021-09-13-d.jpg',
   //       datePosted: '2021-09-13',
   //       dateSource: '2021-09-13',
@@ -1514,7 +1514,7 @@ export const posts = [
   //         'S1E15 | Working Internationally: Taking Your Career Beyond Borders',
   //       url: 'https://www.spreaker.com/user/14532324/s1e15-working-internationally-taking-you?utm_medium=widget&utm_source=user%3A14532324&utm_term=episode_title',
   //       description:
-  //         'For today’s episode of the Angular Experience, we’re joined by Craig Spence, Senior Engineer at Spotify. Craig talks to us about his experience of moving from his home in New Zealand to living and working in Sweden. He offers his advice on things that should be considered before deciding to work abroad, including barriers, benefits, and financial and logistical aspects.',
+  //         'For today\'s episode of the Angular Experience, we\'re joined by Craig Spence, Senior Engineer at Spotify. Craig talks to us about his experience of moving from his home in New Zealand to living and working in Sweden. He offers his advice on things that should be considered before deciding to work abroad, including barriers, benefits, and financial and logistical aspects.',
   //       imgUrl: 'thumb-angular-experience.png',
   //       datePosted: '2021-09-13',
   //       dateSource: '2021-09-13',
@@ -2336,7 +2336,7 @@ export const posts = [
   //       title: 'Angular Video Series Part 20 || Reactive Forms',
   //       url: 'https://www.youtube.com/watch?v=j51iL2uAYA0',
   //       description:
-  //         'Today I’m presenting reactive forms. Reactive forms provide a model-driven approach to handling form inputs whose values change over time. Each change to the form state returns a new state, which maintains the integrity of the model between changes.',
+  //         'Today I\'m presenting reactive forms. Reactive forms provide a model-driven approach to handling form inputs whose values change over time. Each change to the form state returns a new state, which maintains the integrity of the model between changes.',
   //       imgUrl: '2021-09-17-f.jpg',
   //       datePosted: '2021-09-17',
   //       dateSource: '2021-09-17',
@@ -2375,7 +2375,7 @@ export const posts = [
   //         'Routeception! How to use the Angular Router in Micro-Frontends | Kyle Cannon | ng-conf 2021',
   //       url: 'https://www.youtube.com/watch?v=fQrUGill9M0',
   //       description:
-  //         "In this talk, we will walk through how using Angular’s Dependency Injection can provide each Micro Frontend with an isolated routing experience. ng-conf is a multi-day Angular conference focused on delivering the highest quality training in the Angular JavaScript framework. 1000's of developers from across the globe join together to attend talks and workshops by the Angular team and other community experts.",
+  //         "In this talk, we will walk through how using Angular\'s Dependency Injection can provide each Micro Frontend with an isolated routing experience. ng-conf is a multi-day Angular conference focused on delivering the highest quality training in the Angular JavaScript framework. 1000's of developers from across the globe join together to attend talks and workshops by the Angular team and other community experts.",
   //       imgUrl: '2021-09-17-h.jpg',
   //       datePosted: '2021-09-17',
   //       dateSource: '2021-09-17',
@@ -2723,7 +2723,7 @@ export const posts = [
   //       title: 'S1E16 | Change the World Highlight: Sondermind',
   //       url: 'https://www.spreaker.com/user/14532324/s1e16-change-the-world-highlight-sonderm?utm_medium=widget&utm_source=user%3A14532324&utm_term=episode_title',
   //       description:
-  //         'For today’s episode of the Angular Experience, we’re taking a real world look at how Angular is being used to do good in the community. We sat down with Engineering Manager Dallas Cook from Sondermind.com to discuss how they’re using Angular to make it possible for mental health patients to match with qualified therapists and receive virtual or in-person treatment in as little as a matter of hours. Dallas shares his journey into programming and how he became involved at this startup company ...',
+  //         'For today\'s episode of the Angular Experience, we\'re taking a real world look at how Angular is being used to do good in the community. We sat down with Engineering Manager Dallas Cook from Sondermind.com to discuss how they\'re using Angular to make it possible for mental health patients to match with qualified therapists and receive virtual or in-person treatment in as little as a matter of hours. Dallas shares his journey into programming and how he became involved at this startup company ...',
   //       imgUrl: 'thumb-angular-experience.png',
   //       datePosted: '2021-09-20',
   //       dateSource: '2021-09-20',
@@ -2801,7 +2801,7 @@ export const posts = [
   //       title: 'Angular Basics: Data Binding Part 3—Property Binding',
   //       url: 'https://www.telerik.com/blogs/angular-basics-data-binding-part-3-property-binding',
   //       description:
-  //         'Data binding can be confusing when you’re getting started in Angular. Let’s break it down! This post covers one-way property binding.',
+  //         'Data binding can be confusing when you\'re getting started in Angular. Let\'s break it down! This post covers one-way property binding.',
   //       imgUrl: '2021-09-20-i.png',
   //       datePosted: '2021-09-04',
   //       dateSource: '2021-09-04',
@@ -3108,7 +3108,7 @@ export const posts = [
   //       sourceUrl: 'https://youtube.org',
   //       authorName: 'Angular Nation',
   //       authorUrl: 'https://www.youtube.com/channel/UCmlK6Jayb3qqJYNfUmL-DkA',
-  //       tags: ['View Encapsulation', 'ng-deep', ':host-context()'],
+  //       tags: ['ViewEncapsulation', 'ng-deep', ':host-context()'],
   //     },
   //     {
   //       id: '22-j',
@@ -3361,7 +3361,7 @@ export const posts = [
   //         'Reactive Error-Handling in Angular | Maria Korneeva | ng-conf 2021',
   //       url: 'https://www.youtube.com/watch?v=qOH9XsN8aEs',
   //       description:
-  //         "“Whatever can go wrong, will go wrong.” (Murphy’s Law) - Errors do occur, so we need to handle them properly. This talk covers error-handling strategy that has been proven efficient in multiple enterprise applications. I'll show how you can handle validation, general and silent errors - with code snippets and relevant tests.",
+  //         "“Whatever can go wrong, will go wrong.” (Murphy\'s Law) - Errors do occur, so we need to handle them properly. This talk covers error-handling strategy that has been proven efficient in multiple enterprise applications. I'll show how you can handle validation, general and silent errors - with code snippets and relevant tests.",
   //       imgUrl: '2021-09-24-d.jpg',
   //       datePosted: '2021-09-24',
   //       dateSource: '2021-09-24',
@@ -3397,7 +3397,7 @@ export const posts = [
   //       slug: '2021-09-24-f',
   //       type: 'blog',
   //       duration: '',
-  //       title: 'What’s new in Angular 13',
+  //       title: 'What\'s new in Angular 13',
   //       url: 'https://www.infoworld.com/article/3629473/whats-new-in-angular-13.html',
   //       description:
   //         'The development of the next major version of the TypeScript-based web framework is underway.',
@@ -3633,7 +3633,7 @@ export const posts = [
   //       title: 'Angular Strict Mode is a Game Changer',
   //       url: 'https://delushaandelu.medium.com/angular-strict-mode-is-a-game-changer-72778ed94dcd',
   //       description:
-  //         'If you work with TypeScript in the past it’s a programming language that promotes strict data types which helps developers avoid a lot of production issues which can be preventable during the development. Since strict mode is being enabled by default in the latest angular (v.12) we will study why it is a great idea to enable this feature in your app and how we can write codes that are type safe.',
+  //         'If you work with TypeScript in the past it\'s a programming language that promotes strict data types which helps developers avoid a lot of production issues which can be preventable during the development. Since strict mode is being enabled by default in the latest angular (v.12) we will study why it is a great idea to enable this feature in your app and how we can write codes that are type safe.',
   //       imgUrl: '2021-09-27-b.png',
   //       datePosted: '2021-09-27',
   //       dateSource: '2021-09-26',
@@ -3669,7 +3669,7 @@ export const posts = [
   //       type: 'video',
   //       duration: '61',
   //       title:
-  //         'Writing Cypress Tests Without Cucumber - Global Tester’s Day, 2021',
+  //         'Writing Cypress Tests Without Cucumber - Global Tester\'s Day, 2021',
   //       url: 'https://www.youtube.com/watch?v=zcoAWehiZzg',
   //       description:
   //         'Are you a tester stuck using Cucumber and want to make use of the keywords Given/When/Then in cypress?',
@@ -3750,7 +3750,7 @@ export const posts = [
   //       title: 'S1E17 | Finding Your Professional Path',
   //       url: 'https://www.spreaker.com/user/14532324/s1e17-finding-your-professional-path?utm_medium=widget&utm_source=user%3A14532324&utm_term=episode_title',
   //       description:
-  //         'In today’s episode of The Angular Experience, Brooke and Erik are joined by event organizing pro Alisa Duncan to talk about event networking tips and suggestions for introverts and extroverts alike. They address how to connect with fellow attendees and developers, speakers, sponsors, and potential employers as well.',
+  //         'In today\'s episode of The Angular Experience, Brooke and Erik are joined by event organizing pro Alisa Duncan to talk about event networking tips and suggestions for introverts and extroverts alike. They address how to connect with fellow attendees and developers, speakers, sponsors, and potential employers as well.',
   //       imgUrl: 'thumb-angular-experience.png',
   //       datePosted: '2021-09-27',
   //       dateSource: '2021-09-27',
@@ -3771,7 +3771,7 @@ export const posts = [
   //       title: 'TypeScript Features Every Angular Developer Needs to Know',
   //       url: 'https://dev.to/bitovi/typescript-features-every-angular-developer-needs-to-know-4b82',
   //       description:
-  //         'If you’re an Angular developer, you’re missing out if you’re not using advanced TypeScript features to help you build better code. And it’s well worth the effort: TypeScript has some great features that can make you a stronger Angular developer.',
+  //         'If you\'re an Angular developer, you\'re missing out if you\'re not using advanced TypeScript features to help you build better code. And it\'s well worth the effort: TypeScript has some great features that can make you a stronger Angular developer.',
   //       imgUrl: '2021-09-27-i.png',
   //       datePosted: '2021-09-27',
   //       dateSource: '2021-09-27',
@@ -3791,7 +3791,7 @@ export const posts = [
   //       title: 'Angular Basics: Data Binding Part 4—Attribute Binding',
   //       url: 'https://www.telerik.com/blogs/angular-basics-data-binding-part-4-attribute-binding',
   //       description:
-  //         'Data binding can be confusing when you’re getting started in Angular. Let’s break it down! This post covers one-way attribute binding.',
+  //         'Data binding can be confusing when you\'re getting started in Angular. Let\'s break it down! This post covers one-way attribute binding.',
   //       imgUrl: '2021-09-27-j.png',
   //       datePosted: '2021-09-04',
   //       dateSource: '2021-09-04',
@@ -3875,7 +3875,7 @@ export const posts = [
   //       title: 'How to manage object in Angular FormControl',
   //       url: 'https://indepth.dev/tutorials/angular/object-in-formcontrol',
   //       description:
-  //         'Generally we use FormControl with either string or boolean types and hence it manages only simple values. But what if we want to manage just more than primitive data types? We can do that, let’s see how.',
+  //         'Generally we use FormControl with either string or boolean types and hence it manages only simple values. But what if we want to manage just more than primitive data types? We can do that, let\'s see how.',
   //       imgUrl: '2021-09-28-d.png',
   //       datePosted: '2021-09-28',
   //       dateSource: '2021-09-28',
@@ -3984,7 +3984,7 @@ export const posts = [
   //         'Choose Your Own { Form } Adventure | Jennifer Wadella | ng-conf 2021',
   //       url: 'https://www.youtube.com/watch?v=nfVe55EWe_A',
   //       description:
-  //         'Choose Your Own Adventure books can be fun AND anxiety-inducing, much like modern software development. What if I choose the wrong path? Will my software suffer? From state-management to Form Modules in Angular Development, we have lots of paths to choose from. In this session we’ll walk through a Choose Your Own Forms Adventure, exploring paths along the Template-Driven and the Reactive Forms approaches. Which approach will we take? Will one end in disaster and the other in triumph? Better come find out!',
+  //         'Choose Your Own Adventure books can be fun AND anxiety-inducing, much like modern software development. What if I choose the wrong path? Will my software suffer? From state-management to Form Modules in Angular Development, we have lots of paths to choose from. In this session we\'ll walk through a Choose Your Own Forms Adventure, exploring paths along the Template-Driven and the Reactive Forms approaches. Which approach will we take? Will one end in disaster and the other in triumph? Better come find out!',
   //       imgUrl: '2021-09-29-b.jpg',
   //       datePosted: '2021-09-29',
   //       dateSource: '2021-09-29',
@@ -4445,7 +4445,7 @@ export const posts = [
   //         'NGConf Workshop Using Angular Elements to Give Enterprise Components a New Lease on Life',
   //       url: 'https://www.youtube.com/watch?v=ZWdjTdVuZjQ',
   //       description:
-  //         'This workshop will show you how to reuse valuable components across your entire organization. We’ll take you through the process of converting an already existing component in an enterprise environment into a reusable Web Component through Angular Elements. At the end of this workshop, you’ll know...',
+  //         'This workshop will show you how to reuse valuable components across your entire organization. We\'ll take you through the process of converting an already existing component in an enterprise environment into a reusable Web Component through Angular Elements. At the end of this workshop, you\'ll know...',
   //       imgUrl: '2021-10-01-c.jpg',
   //       datePosted: '2021-10-01',
   //       dateSource: '2021-10-01',
@@ -4585,7 +4585,7 @@ export const posts = [
   //       title: 'Alyssa Nicoll and Angular Nation',
   //       url: 'https://www.youtube.com/watch?v=UAAD_fc6emY',
   //       description:
-  //         'Inclusive Styles — That’s a thing??  w/Alyssa Nicoll.\nAngular South Asia',
+  //         'Inclusive Styles — That\'s a thing??  w/Alyssa Nicoll.\nAngular South Asia',
   //       imgUrl: '2021-10-02-c.jpg',
   //       datePosted: '2021-10-02',
   //       dateSource: '2021-10-02',
@@ -4687,7 +4687,7 @@ export const posts = [
   //       title: 'S1E18 | Championing Open Source Software',
   //       url: 'https://www.spreaker.com/user/14532324/s1e18-championing-open-source-software?utm_medium=widget&utm_source=user%3A14532324&utm_term=episode_title',
   //       description:
-  //         'In today’s episode of NgXP, we talk with RxJS Core Team Lead Ben Lesh about Championing Open Source Software. Ben starts by discussing some of his Open Source contributions at Google for Angular as well as with RxJS and then he shares some tips and insights on contributing for first timers up to enterprise level projects alike. To round out the conversation, Ben talks about the benefits to making Open Source contributions and reasons why it’s worth your time.',
+  //         'In today\'s episode of NgXP, we talk with RxJS Core Team Lead Ben Lesh about Championing Open Source Software. Ben starts by discussing some of his Open Source contributions at Google for Angular as well as with RxJS and then he shares some tips and insights on contributing for first timers up to enterprise level projects alike. To round out the conversation, Ben talks about the benefits to making Open Source contributions and reasons why it\'s worth your time.',
   //       imgUrl: 'thumb-angular-experience.png',
   //       datePosted: '2021-10-04',
   //       dateSource: '2021-10-04',
@@ -4763,7 +4763,7 @@ export const posts = [
   //       title: 'Angular Basics: Data Binding Part 5—Style Binding',
   //       url: 'https://www.telerik.com/blogs/angular-basics-data-binding-part-5-style-binding',
   //       description:
-  //         'Data binding can be confusing when you’re getting started in Angular. Let’s break it down! This post covers one-way style binding.\nIn today’s post, we will look into style binding in Angular and how you can bind CSS styles to your templates easily. This is one of the articles in the data binding series we have been looking into lately.',
+  //         'Data binding can be confusing when you\'re getting started in Angular. Let\'s break it down! This post covers one-way style binding.\nIn today\'s post, we will look into style binding in Angular and how you can bind CSS styles to your templates easily. This is one of the articles in the data binding series we have been looking into lately.',
   //       imgUrl: '2021-10-04-e.png',
   //       datePosted: '2021-10-04',
   //       dateSource: '2021-10-04',
@@ -5595,7 +5595,7 @@ export const posts = [
   //       title: 'The Benefits of a Module-less Angular',
   //       url: 'https://www.telerik.com/blogs/the-benefits-of-a-module-less-angular',
   //       description:
-  //         'I’m over-the-top excited about the latest RFC the Angular team dropped for standalone components, directives and pipes. This (to me) is pointing Angular more and more in the direction of a module-free paradigm. I personally could not be more excited about such a change.',
+  //         'I\'m over-the-top excited about the latest RFC the Angular team dropped for standalone components, directives and pipes. This (to me) is pointing Angular more and more in the direction of a module-free paradigm. I personally could not be more excited about such a change.',
   //       imgUrl: '2021-10-09-f.png',
   //       datePosted: '2021-10-09',
   //       dateSource: '2021-10-08',
@@ -5611,10 +5611,10 @@ export const posts = [
   //       slug: '2021-10-09-g',
   //       type: 'blog',
   //       duration: '',
-  //       title: 'My top 6 ‘Similar, but different’ RxJS operators',
+  //       title: 'My top 6 \'Similar, but different\' RxJS operators',
   //       url: 'https://medium.com/geekculture/my-top-6-similar-but-different-rxjs-operators-52241096ef96',
   //       description:
-  //         'In this post, I’m going to share my top 6 common ‘similar but different’ RxJS operators to help you save time by avoiding them.',
+  //         'In this post, I\'m going to share my top 6 common \'similar but different\' RxJS operators to help you save time by avoiding them.',
   //       imgUrl: '2021-10-09-g.png',
   //       datePosted: '2021-10-09',
   //       dateSource: '2021-10-08',
@@ -5636,7 +5636,7 @@ export const posts = [
   //       slug: '2021-10-10-a',
   //       type: 'blog',
   //       duration: '',
-  //       title: 'Don’t let your RxJS observables die',
+  //       title: 'Don\'t let your RxJS observables die',
   //       url: 'https://dev.to/pruttned/don-t-let-your-rxjs-observables-die-4ckd',
   //       description:
   //         'RxJS is a powerful library for reactive programming. We use it in Angular all the time, from simple reactions to HTTP client responses to full-blown state management solutions. But sometimes, it is easy to miss some details and create a code that can break at the worst possible moment. Therefore, we will dive into a few scenarios that you should remember when dealing with errors in RxJS observable executions.',
@@ -5747,7 +5747,7 @@ export const posts = [
   //       title: 'S1E19 | Misko Hevery - Becoming the Father of Angular',
   //       url: 'https://www.spreaker.com/user/14532324/s1e19-misko-hevery-becoming-the-father-o?utm_medium=widget&utm_source=user%3A14532324&utm_term=episode_title',
   //       description:
-  //         'In today’s episode of the Angular Experience, we have a unique conversation with Misko Hevery about his journey into tech. Misko shares his first experiences with programming to his time at college, on to his first jobs in the tech industry and how that led to working at Google where he eventually became the Father of Angular and beyond.',
+  //         'In today\'s episode of the Angular Experience, we have a unique conversation with Misko Hevery about his journey into tech. Misko shares his first experiences with programming to his time at college, on to his first jobs in the tech industry and how that led to working at Google where he eventually became the Father of Angular and beyond.',
   //       imgUrl: 'thumb-angular-experience.png',
   //       datePosted: '2021-10-11',
   //       dateSource: '2021-10-11',
@@ -5825,7 +5825,7 @@ export const posts = [
   //       title: 'Create notifications in Angular from scratch',
   //       url: 'https://medium.com/@bananicabananica/create-notifications-in-angular-from-scratch-327577c5758f',
   //       description:
-  //         'In my previous (and very hectic) post , I’ve mentioned that I’ve implemented my own notification system for an Angular app. Though there are tons of UI libs out there, it was fun to make my own stuff… For non profit personal project, that is. Here, I’ll share a simplified version, and please be aware that the naming conventions I’ve used here are nonexistent.',
+  //         'In my previous (and very hectic) post , I\'ve mentioned that I\'ve implemented my own notification system for an Angular app. Though there are tons of UI libs out there, it was fun to make my own stuff… For non profit personal project, that is. Here, I\'ll share a simplified version, and please be aware that the naming conventions I\'ve used here are nonexistent.',
   //       imgUrl: '2021-10-11-g.png',
   //       datePosted: '2021-10-11',
   //       dateSource: '2021-10-11',
@@ -5970,7 +5970,7 @@ export const posts = [
   //       title: 'Angular Basics: Data Binding Part 6—Input Decorator',
   //       url: 'https://www.telerik.com/blogs/angular-basics-data-binding-part-6-input-decorator',
   //       description:
-  //         'Data binding can be confusing when you’re getting started in Angular. Let’s break it down! This post covers one-way data binding from a parent component to a child component with the input decorator.',
+  //         'Data binding can be confusing when you\'re getting started in Angular. Let\'s break it down! This post covers one-way data binding from a parent component to a child component with the input decorator.',
   //       imgUrl: '2021-10-12-g.png',
   //       datePosted: '2021-10-04',
   //       dateSource: '2021-10-04',
@@ -6170,7 +6170,7 @@ export const posts = [
   //       title: 'State of Angular | October 2021',
   //       url: 'https://www.youtube.com/watch?v=b8mcnjK_kq4',
   //       description:
-  //         'Tracy Lee, Minko Gechev, Igor Minor, Jessica Janiuk, Mark Thompson, Emma Twersky, Zach Arend, Alex Rickabaugh.\n\nKeep up with modern web technology advancements through these special “State of” events. This month, we’re bringing you “State of Angular”. Hear from the Angular core team about upcoming releases, recent milestones, and community initiatives! | All of our online events adhere to the Contributor Covenant Code of Conduct.',
+  //         'Tracy Lee, Minko Gechev, Igor Minor, Jessica Janiuk, Mark Thompson, Emma Twersky, Zach Arend, Alex Rickabaugh.\n\nKeep up with modern web technology advancements through these special “State of” events. This month, we\'re bringing you “State of Angular”. Hear from the Angular core team about upcoming releases, recent milestones, and community initiatives! | All of our online events adhere to the Contributor Covenant Code of Conduct.',
   //       imgUrl: '2021-10-14-a.jpg',
   //       datePosted: '2021-10-14',
   //       dateSource: '2021-10-14',
@@ -6247,7 +6247,7 @@ export const posts = [
   //       title: 'Serverless Angular Apps with Azure Functions',
   //       url: 'https://www.youtube.com/watch?v=hVkLxJ1Tp3o',
   //       description:
-  //         'Igor Derman\n\nIn this demo and session you’ll be able to learn how to create a completely functional Angular app with absolutely no provisioning of servers.',
+  //         'Igor Derman\n\nIn this demo and session you\'ll be able to learn how to create a completely functional Angular app with absolutely no provisioning of servers.',
   //       imgUrl: '2021-10-14-e.jpg',
   //       datePosted: '2021-10-14',
   //       dateSource: '2021-10-13',
@@ -6371,7 +6371,7 @@ export const posts = [
   //       title: 'AMP 17: Angular Performance Success with Michael Hladky',
   //       url: 'https://open.spotify.com/episode/2WM5AUD0jJq6J4YJWAnyHN',
   //       description:
-  //         'Michael Hladky\n\n1. Where to start with a performance in Angular?\n2. Is SSR a good choice for performance?\n3. Can we do additional improvements?\n4. Let’s talk about zone.js & NgZone\n5. What is ChangeDetection, and should we care about it?\n6. Change detection & IVY features\n7. detectChanges vs markForCheck\n8. How would you measure the difference in the change detection process?\n9. How can we refactor an application to go fully zone-less, is it even possible?\n10. Can you name some Best & Bad performance practices?\n11. Are there any example repositories to see real life implementations? (https://github.com/tastejs/angular-movies)\n12. What kind of person is Michael? How do you see yourself?\n13. Do you have some hints for us regarding self-organization?\n14. Do you have any favorite hobbies?\n15. What’s about your work/live balance? Do you have some hints for us?\n16. Favorite sports activity?\n17. How do you remember your last visit to Poland?\n18. You run 4-day workshops, very intensive workshops, how do you regenerate after such a lot of effort?\n19. What are you planning for NG / JS Poland?',
+  //         'Michael Hladky\n\n1. Where to start with a performance in Angular?\n2. Is SSR a good choice for performance?\n3. Can we do additional improvements?\n4. Let\'s talk about zone.js & NgZone\n5. What is ChangeDetection, and should we care about it?\n6. Change detection & IVY features\n7. detectChanges vs markForCheck\n8. How would you measure the difference in the change detection process?\n9. How can we refactor an application to go fully zone-less, is it even possible?\n10. Can you name some Best & Bad performance practices?\n11. Are there any example repositories to see real life implementations? (https://github.com/tastejs/angular-movies)\n12. What kind of person is Michael? How do you see yourself?\n13. Do you have some hints for us regarding self-organization?\n14. Do you have any favorite hobbies?\n15. What\'s about your work/live balance? Do you have some hints for us?\n16. Favorite sports activity?\n17. How do you remember your last visit to Poland?\n18. You run 4-day workshops, very intensive workshops, how do you regenerate after such a lot of effort?\n19. What are you planning for NG / JS Poland?',
   //       imgUrl: '2021-10-15-b.png',
   //       datePosted: '2021-10-15',
   //       dateSource: '2021-10-15',
@@ -6704,7 +6704,7 @@ export const posts = [
   //       title: 'S1E20 | Craig Spence on Jazzing Up Your Tech Talks',
   //       url: 'https://www.spreaker.com/user/14532324/s1e20-craig-spence-on-jazzing-up-your-te?utm_medium=widget&utm_source=user%3A14532324&utm_term=episode_title',
   //       description:
-  //         'On today’s show, we welcome back our friend Craig Spence to share his tips and secrets for giving talks that are creative and entertaining. He shares his process, from coming up with topic and title ideas to preparing the talk, submitting your proposal, and how to deliver a presentation that others will remember for years to come.',
+  //         'On today\'s show, we welcome back our friend Craig Spence to share his tips and secrets for giving talks that are creative and entertaining. He shares his process, from coming up with topic and title ideas to preparing the talk, submitting your proposal, and how to deliver a presentation that others will remember for years to come.',
   //       imgUrl: 'thumb-angular-experience.png',
   //       datePosted: '2021-10-18',
   //       dateSource: '2021-10-18',
@@ -6783,7 +6783,7 @@ export const posts = [
   //       title: 'Angular Basics: Data Binding Part 7—Output Decorator',
   //       url: 'https://www.telerik.com/blogs/angular-basics-data-binding-part-7-output-decorator',
   //       description:
-  //         'Data binding can be confusing when you’re getting started in Angular. Let’s break it down! This post covers one-way data binding from a child component to a parent component with the output decorator and event emitters.',
+  //         'Data binding can be confusing when you\'re getting started in Angular. Let\'s break it down! This post covers one-way data binding from a child component to a parent component with the output decorator and event emitters.',
   //       imgUrl: '2021-10-18-e.png',
   //       datePosted: '2021-10-04',
   //       dateSource: '2021-10-04',
@@ -6903,10 +6903,10 @@ export const posts = [
   //       slug: '2021-10-19-f',
   //       type: 'blog',
   //       duration: '',
-  //       title: 'What’s New in RxJS 7: Small Bundles and Big Changes to share()',
+  //       title: 'What\'s New in RxJS 7: Small Bundles and Big Changes to share()',
   //       url: 'https://dev.to/bitovi/whats-new-in-rxjs-7-small-bundles-and-big-changes-to-share-4eg9',
   //       description:
-  //         "I've summarized key takeaways from Ben Lesh’s talk from RxJS Live Asia (on April 29, 2021) and his slides below. Lesh is a member of the RxJS core team and formerly worked at Google on the Angular team.",
+  //         "I've summarized key takeaways from Ben Lesh\'s talk from RxJS Live Asia (on April 29, 2021) and his slides below. Lesh is a member of the RxJS core team and formerly worked at Google on the Angular team.",
   //       imgUrl: '2021-10-19-f.png',
   //       datePosted: '2021-10-19',
   //       dateSource: '2021-10-18',
@@ -6926,7 +6926,7 @@ export const posts = [
   //       title: "What's new in Angular 13",
   //       url: 'https://www.infoworld.com/article/3629473/whats-new-in-angular-13.html#tk.rss_all',
   //       description:
-  //         'Angular 13, a planned upgrade to Google’s popular TypeScript-based web framework that promises to be “100% Ivy,” is now available in a release candidate.\n\nA production release of Angular 13 is due November 3.',
+  //         'Angular 13, a planned upgrade to Google\'s popular TypeScript-based web framework that promises to be “100% Ivy,” is now available in a release candidate.\n\nA production release of Angular 13 is due November 3.',
   //       imgUrl: '2021-10-19-g.png',
   //       datePosted: '2021-10-19',
   //       dateSource: '2021-10-18',
@@ -7012,7 +7012,7 @@ export const posts = [
   //         'Wrapping Angular Material button in custom Angular component (part 1)',
   //       url: 'https://dev.to/this-is-angular/wrapping-angular-material-button-in-custom-angular-component-part-1-1ph1',
   //       description:
-  //         'When you want to build your own Design System on top of Angular Material (or pretty much any other 3rd party component library), you have a couple of options:\n\n1. Build a custom Angular Material theme and use the components as they are described in the documentation.\n\n2. Build a custom Angular Material theme and build your own component library on top of Angular Material by wrapping their components in your own components.\n\nThere are pros and cons with both approaches. That is a topic for another post so I’m not going into the details here. Long story short, we went with option 2.',
+  //         'When you want to build your own Design System on top of Angular Material (or pretty much any other 3rd party component library), you have a couple of options:\n\n1. Build a custom Angular Material theme and use the components as they are described in the documentation.\n\n2. Build a custom Angular Material theme and build your own component library on top of Angular Material by wrapping their components in your own components.\n\nThere are pros and cons with both approaches. That is a topic for another post so I\'m not going into the details here. Long story short, we went with option 2.',
   //       imgUrl: '2021-10-20-a.png',
   //       datePosted: '2021-10-20',
   //       dateSource: '2021-10-20',
@@ -7388,7 +7388,7 @@ export const posts = [
   //       title: 'How to Implement Micro Frontend Architecture Based on Angular',
   //       url: 'https://hackernoon.com/how-to-implement-micro-frontend-architecture-based-on-angular',
   //       description:
-  //         'In this digital time, the form of a web application is getting larger and more sophisticated, so frequently they need to be handled by multiple teams. Your web application might have features developed by different teams and sometimes it’s better to release only certain features into production before delivering the entire web application.',
+  //         'In this digital time, the form of a web application is getting larger and more sophisticated, so frequently they need to be handled by multiple teams. Your web application might have features developed by different teams and sometimes it\'s better to release only certain features into production before delivering the entire web application.',
   //       imgUrl: '2021-10-21-j.png',
   //       datePosted: '2021-10-21',
   //       dateSource: '2021-10-21',
@@ -7687,10 +7687,10 @@ export const posts = [
   //       slug: '2021-10-23-e',
   //       type: 'blog',
   //       duration: '',
-  //       title: 'It’s so easy with Angular — part 3: Page loader',
+  //       title: 'It\'s so easy with Angular — part 3: Page loader',
   //       url: 'https://medium.com/@bananicabananica/its-so-easy-with-angular-part-3-page-loader-8d4201e0f266',
   //       description:
-  //         'Ah, page loaders. An underrated piece of UI/UX. Truly. Almost everybody just uses some generic solution, but when I see a good page loader, I know I’m in for a treat...',
+  //         'Ah, page loaders. An underrated piece of UI/UX. Truly. Almost everybody just uses some generic solution, but when I see a good page loader, I know I\'m in for a treat...',
   //       imgUrl: '2021-10-23-e.png',
   //       datePosted: '2021-10-23',
   //       dateSource: '2021-10-23',
@@ -7725,7 +7725,7 @@ export const posts = [
   //       authorName: 'Angular Nation',
   //       authorUrl:
   //         'https://www.youtube.com/channel/UCmlK6Jayb3qqJYNfUmL-DkA/videos',
-  //       tags: ['View Encapsulation', 'ng-deep', 'host-context'],
+  //       tags: ['ViewEncapsulation', 'ng-deep', 'host-context'],
   //     },
   //     {
   //       id: '24-b',
@@ -8085,7 +8085,7 @@ export const posts = [
   //         'Wrapping Angular Material button in custom Angular component (part 2)',
   //       url: 'https://dev.to/this-is-angular/wrapping-angular-material-button-in-custom-angular-component-part-2-3oml',
   //       description:
-  //         'In the first part of this post we ended up with a simple but repetitive solution to wrapping Angular Material button in a custom component. In this post we’ll explore another way of solving the problem.',
+  //         'In the first part of this post we ended up with a simple but repetitive solution to wrapping Angular Material button in a custom component. In this post we\'ll explore another way of solving the problem.',
   //       imgUrl: '2021-10-26-b.png',
   //       datePosted: '2021-10-26',
   //       dateSource: '2021-10-26',
@@ -8105,7 +8105,7 @@ export const posts = [
   //       title: 'How to track changes in ngDoCheck with KeyValueDiffer',
   //       url: 'https://indepth.dev/tutorials/angular/track-changes-in-ngdocheck-with-keyvaluediffers',
   //       description:
-  //         'When we use ngDoCheck to detect changes, we need to make sure that our implementation is extremely lightweight and fast, so it doesn’t affect user-experience. In this tutorial, we will learn how to efficiently track and process those changes using KeyValueDiffer.',
+  //         'When we use ngDoCheck to detect changes, we need to make sure that our implementation is extremely lightweight and fast, so it doesn\'t affect user-experience. In this tutorial, we will learn how to efficiently track and process those changes using KeyValueDiffer.',
   //       imgUrl: '2021-10-26-c.png',
   //       datePosted: '2021-10-26',
   //       dateSource: '2021-10-25',
@@ -8201,7 +8201,7 @@ export const posts = [
   //       title: 'Angular Basics: Data Binding Part 8—Two-Way Data Binding',
   //       url: 'https://www.telerik.com/blogs/angular-basics-data-binding-part-8-two-way-data-binding',
   //       description:
-  //         'Data binding can be confusing when you’re getting started in Angular. Let’s break it down! This post covers two-way data binding.',
+  //         'Data binding can be confusing when you\'re getting started in Angular. Let\'s break it down! This post covers two-way data binding.',
   //       imgUrl: '2021-10-26-h.png',
   //       datePosted: '2021-10-04',
   //       dateSource: '2021-10-04',
@@ -8376,10 +8376,10 @@ export const posts = [
   //       slug: '2021-10-27-i',
   //       type: 'blog',
   //       duration: '',
-  //       title: 'Improving Angular Component’s accessibility',
+  //       title: 'Improving Angular Component\'s accessibility',
   //       url: 'https://blog.angular.io/improving-angular-components-accessibility-89b8ae904952',
   //       description:
-  //         'If you’ve looked at the Angular roadmap recently, you’d see that one of the major focuses of the Components team this year is accessibility. The outcome is better, more accessible components.\n\nThis work will all come with no change required for application developers, ng update will deliver more accessible Angular Material experiences out of the box.',
+  //         'If you\'ve looked at the Angular roadmap recently, you\'d see that one of the major focuses of the Components team this year is accessibility. The outcome is better, more accessible components.\n\nThis work will all come with no change required for application developers, ng update will deliver more accessible Angular Material experiences out of the box.',
   //       imgUrl: '2021-10-27-i.png',
   //       datePosted: '2021-10-27',
   //       dateSource: '2021-10-27',
@@ -8398,7 +8398,7 @@ export const posts = [
   //       title: 'Using State Machines in Front-End Development',
   //       url: 'https://medium.com/@bananicabananica/why-you-should-choose-angular-over-everything-else-5430c60f43b6',
   //       description:
-  //         'Danielle Richter - Angular developer @ Picnic\n\nHere at Picnic, we’re in the process of building our first automated warehouse. When you think of an automated warehouse, your first thought might be of a robot putting together your grocery order. On the contrary, we will still have humans running our warehouses! Part of the software we are developing now is a user interface to guide our hard-working employees through all of the processes required to manage a warehouse, from creating stock in the system after a delivery by the supplier, to putting together your grocery order.',
+  //         'Danielle Richter - Angular developer @ Picnic\n\nHere at Picnic, we\'re in the process of building our first automated warehouse. When you think of an automated warehouse, your first thought might be of a robot putting together your grocery order. On the contrary, we will still have humans running our warehouses! Part of the software we are developing now is a user interface to guide our hard-working employees through all of the processes required to manage a warehouse, from creating stock in the system after a delivery by the supplier, to putting together your grocery order.',
   //       imgUrl: '2021-10-27-j.png',
   //       datePosted: '2021-10-27',
   //       dateSource: '2021-10-27',
@@ -8417,7 +8417,7 @@ export const posts = [
   //       title: 'Provider Factory For Root Service In Angular, Possible? Easy!',
   //       url: 'https://medium.com/betsson-group/provider-factory-for-root-service-in-angular-possible-easy-1e86266a59cb',
   //       description:
-  //         'Lazy loading is all the rage nowadays, especially in Angular. For a good reason too. Load times are one of the most basic, most important, oldest KPIs of any webpage, especially for the first load time. It’s a bigger issue than ever to keep our initial bundle size low. SPAs such as Angular apps tend to load all the routes’ code, including all third party packages you might only use later. They also tend to have all services waiting in the memory while you may not even use them ever. With careful planning, lazy loading can solve all these issues and more.',
+  //         'Lazy loading is all the rage nowadays, especially in Angular. For a good reason too. Load times are one of the most basic, most important, oldest KPIs of any webpage, especially for the first load time. It\'s a bigger issue than ever to keep our initial bundle size low. SPAs such as Angular apps tend to load all the routes\' code, including all third party packages you might only use later. They also tend to have all services waiting in the memory while you may not even use them ever. With careful planning, lazy loading can solve all these issues and more.',
   //       imgUrl: '2021-10-27-k.png',
   //       datePosted: '2021-10-27',
   //       dateSource: '2021-10-27',
@@ -8784,7 +8784,7 @@ export const posts = [
   //       title: 'How to lazy load your images?',
   //       url: 'https://medium.com/indienik/how-to-lazy-load-your-images-87ce77b3f437',
   //       description:
-  //         'In the last article, we learnt about Image Optimisation techniques which could result in 50% faster webpage loads. Today, we’re going to take this a step further and see how we can improve on that by “lazy loading” our images.',
+  //         'In the last article, we learnt about Image Optimisation techniques which could result in 50% faster webpage loads. Today, we\'re going to take this a step further and see how we can improve on that by “lazy loading” our images.',
   //       imgUrl: '2021-10-29-i.png',
   //       datePosted: '2021-10-29',
   //       dateSource: '2021-10-28',
@@ -9026,7 +9026,7 @@ export const posts = [
   //       title: 'Benefits Of Using Pipe Over Function In Angular',
   //       url: 'https://dev.to/stackblogger/benefits-of-using-pipe-over-function-in-angular-2mgj',
   //       description:
-  //         'Do you use functions / methods to implement various conditions and DOM manipulations in Angular ? If yes, trust me it will worsen your website performance. In this tutorial I will explain how pipes increase your angular website performance and what are the various benefits of using Pipe over Functions based on a case study.\n\nBefore diving straight into tutorial, let’s start with some basic questions.',
+  //         'Do you use functions / methods to implement various conditions and DOM manipulations in Angular ? If yes, trust me it will worsen your website performance. In this tutorial I will explain how pipes increase your angular website performance and what are the various benefits of using Pipe over Functions based on a case study.\n\nBefore diving straight into tutorial, let\'s start with some basic questions.',
   //       imgUrl: '2021-10-31-c.png',
   //       datePosted: '2021-10-31',
   //       dateSource: '2021-10-31',
@@ -9149,7 +9149,7 @@ export const posts = [
   //       title: 'S1E22 | Mike Hartington on How to Burn Bright, Not Out',
   //       url: 'https://www.spreaker.com/user/14532324/s1e22-mike-hartington-on-how-to-burn-bri?utm_medium=widget&utm_source=user%3A14532324&utm_term=episode_title',
   //       description:
-  //         'In today’s episode, we’re joined by GDE and Developer Advocate Mike Hartington from Ionic. Mike talks about how to keep yourself motivated as a programmer as well as how to both avoid burnout and how to overcome it when it happens.',
+  //         'In today\'s episode, we\'re joined by GDE and Developer Advocate Mike Hartington from Ionic. Mike talks about how to keep yourself motivated as a programmer as well as how to both avoid burnout and how to overcome it when it happens.',
   //       imgUrl: 'thumb-angular-experience.png',
   //       datePosted: '2021-11-01',
   //       dateSource: '2021-11-01',
@@ -9288,7 +9288,7 @@ export const posts = [
   //       title: '6 Reasons to choose Angular over React',
   //       url: 'https://sredmond.medium.com/5-reasons-to-choose-angular-over-react-e541e22873d5',
   //       description:
-  //         'I’ve written plenty of articles about Angular and React. Today, I want to go into six reasons why you would want to choose Angular over React. Most people who would object to this idea give a lot of examples as to why...',
+  //         'I\'ve written plenty of articles about Angular and React. Today, I want to go into six reasons why you would want to choose Angular over React. Most people who would object to this idea give a lot of examples as to why...',
   //       imgUrl: '2021-11-01-h.png',
   //       datePosted: '2021-11-01',
   //       dateSource: '2021-11-01',
@@ -9347,7 +9347,7 @@ export const posts = [
   //         '7 Reasons Why the Development World is Marking Time for Angular 13?',
   //       url: 'https://radixweb.com/blog/angular-13-features-and-updates',
   //       description:
-  //         'A Deep Dive into the Features of Angular’s about-to-be-released V13.\n\nCurrently in commission with companies ranging from start-ups to ones that feature on Fortune 500 lists, Angular has significantly impacted the choice of framework for enterprise-scale application development. But how Angular has claimed the numero-uno spot of enterprise application development given the tough competition Angular vs. react vs. vue JS framework, makes an interesting read.',
+  //         'A Deep Dive into the Features of Angular\'s about-to-be-released V13.\n\nCurrently in commission with companies ranging from start-ups to ones that feature on Fortune 500 lists, Angular has significantly impacted the choice of framework for enterprise-scale application development. But how Angular has claimed the numero-uno spot of enterprise application development given the tough competition Angular vs. react vs. vue JS framework, makes an interesting read.',
   //       imgUrl: '2021-11-01-k.png',
   //       datePosted: '2021-11-01',
   //       dateSource: '2021-11-01',
@@ -9741,7 +9741,7 @@ export const posts = [
   //       title: 'Angular v13 is now Available',
   //       url: 'https://blog.angular.io/angular-v13-is-now-available-cce66f7bc296',
   //       description:
-  //         'We’re back with the brand new release of Angular v13 to share with all of you! This latest release brings all sorts of updates and features to help your teams build great apps.\n\nGet Angular v13 now by running ng updatein your project. We also have an update guide available at update.angular.io to help teams get instructions on how to update their projects.',
+  //         'We\'re back with the brand new release of Angular v13 to share with all of you! This latest release brings all sorts of updates and features to help your teams build great apps.\n\nGet Angular v13 now by running ng updatein your project. We also have an update guide available at update.angular.io to help teams get instructions on how to update their projects.',
   //       imgUrl: '2021-11-03-k.png',
   //       datePosted: '2021-11-03',
   //       dateSource: '2021-11-03',
@@ -9994,7 +9994,7 @@ export const posts = [
   //       title: 'This is how I finally understood Content Projection in Angular',
   //       url: 'https://ramya-bala221190.medium.com/very-simple-example-to-understand-content-projection-in-angular-a1936ad7719b',
   //       description:
-  //         'Content Projection in simple words is giving a developer the power to insert content from a parent ComponentB into its child ComponentA.\n\nContent may remind you of of sharing data between parent and child components. Content here doesn’t mean data. Content here refers to a template which is being projected from the parent to child component.',
+  //         'Content Projection in simple words is giving a developer the power to insert content from a parent ComponentB into its child ComponentA.\n\nContent may remind you of of sharing data between parent and child components. Content here doesn\'t mean data. Content here refers to a template which is being projected from the parent to child component.',
   //       imgUrl: '2021-11-04-l.png',
   //       datePosted: '2021-11-04',
   //       dateSource: '2021-11-04',
@@ -10014,7 +10014,7 @@ export const posts = [
   //       title: 'Migrate Angular v12 to Angular v13',
   //       url: 'https://dalenguyen.medium.com/migrate-angular-v12-to-angular-v13-71ea3b0180b3',
   //       description:
-  //         'Well, Angular 13 is out! And here I am, migrating my personal projects from Angular v12 to Angular v13.\n\nAngular does make your life easier by providing an update guide where you can run the update by yourself at update.angular.io. Hopefully that you’re not running Angularjs V1.x.',
+  //         'Well, Angular 13 is out! And here I am, migrating my personal projects from Angular v12 to Angular v13.\n\nAngular does make your life easier by providing an update guide where you can run the update by yourself at update.angular.io. Hopefully that you\'re not running Angularjs V1.x.',
   //       imgUrl: '2021-11-04-m.png',
   //       datePosted: '2021-11-04',
   //       dateSource: '2021-11-04',
@@ -10031,10 +10031,10 @@ export const posts = [
   //       slug: '2021-11-04-n',
   //       type: 'blog',
   //       duration: '',
-  //       title: 'What’s new in Angular v13!',
+  //       title: 'What\'s new in Angular v13!',
   //       url: 'https://blog.nrwl.io/whats-new-in-angular-v13-77246aca231f',
   //       description:
-  //         'It’s November and it has been six months since the last time we had a major version release of the Angular framework back in May 2021. The wait is over and Angular version 13 was just released. Let’s take a look at some of the features and changes released in this new version.',
+  //         'It\'s November and it has been six months since the last time we had a major version release of the Angular framework back in May 2021. The wait is over and Angular version 13 was just released. Let\'s take a look at some of the features and changes released in this new version.',
   //       imgUrl: '2021-11-04-n.png',
   //       datePosted: '2021-11-04',
   //       dateSource: '2021-11-04',
@@ -10057,7 +10057,7 @@ export const posts = [
   //       slug: '2021-11-05-a',
   //       type: 'blog',
   //       duration: '',
-  //       title: 'What’s New in Angular 13',
+  //       title: 'What\'s New in Angular 13',
   //       url: 'https://www.telerik.com/blogs/whats-new-angular-13',
   //       description:
   //         'We have another great version of Angular released to us. Here are the highlights of version 13!',
@@ -10281,7 +10281,7 @@ export const posts = [
   //       authorUrl:
   //         'https://www.youtube.com/channel/UCJob1v-RQ22ux2Sh3RSvz3Q/videos',
   //       speakers: [],
-  //       tags: ['Testing', 'Cypresss'],
+  //       tags: ['Testing', 'Cypress'],
   //     },
   //     {
   //       id: '06-e',
@@ -10441,7 +10441,7 @@ export const posts = [
   //       title: 'Angular Child Components in Material Tabs',
   //       url: 'https://codehandbook.org/angular-component-tabs/',
   //       description:
-  //         'Using Child Components in Angular Material Tabs. Let’s see how to work with different Angular child components inside mat-tab.',
+  //         'Using Child Components in Angular Material Tabs. Let\'s see how to work with different Angular child components inside mat-tab.',
   //       imgUrl: '2021-11-07-d.png',
   //       datePosted: '2021-11-07',
   //       dateSource: '2021-11-07',
@@ -10467,7 +10467,7 @@ export const posts = [
   //       title: 'Ben Lesh on Confronting Criticism',
   //       url: 'https://www.spreaker.com/user/14532324/s1e23-ben-lesh-on-confronting-criticism?utm_medium=widget&utm_source=user%3A14532324&utm_term=episode_title',
   //       description:
-  //         'In today’s episode, RxJS Core Team Lead Ben Lesh joins us again to talk about facing public criticism. Ben talks about how to respond when others share harsh words or thoughts about you or your work, how these kinds of situations can be turned into something positive, and how to extend support to others who find themselves in similar situations.',
+  //         'In today\'s episode, RxJS Core Team Lead Ben Lesh joins us again to talk about facing public criticism. Ben talks about how to respond when others share harsh words or thoughts about you or your work, how these kinds of situations can be turned into something positive, and how to extend support to others who find themselves in similar situations.',
   //       imgUrl: 'thumb-angular-experience.png',
   //       datePosted: '2021-11-08',
   //       dateSource: '2021-11-08',
@@ -10550,7 +10550,7 @@ export const posts = [
   //       title: 'Angular: DI shared component with abstract service',
   //       url: 'https://medium.com/@toha.marko/angular-di-shared-component-with-abstract-service-9bb8d57a3e84',
   //       description:
-  //         'Our goal is to create a shared component with an unify service. Let’s do it on a simple example.',
+  //         'Our goal is to create a shared component with an unify service. Let\'s do it on a simple example.',
   //       imgUrl: '2021-11-08-e.png',
   //       datePosted: '2021-11-08',
   //       dateSource: '2021-11-08',
@@ -10591,7 +10591,7 @@ export const posts = [
   //       title: 'Building and Deploying Kendo UI for Angular Apps to Firebase',
   //       url: 'https://www.telerik.com/blogs/building-deploying-kendo-ui-angular-apps-firebase',
   //       description:
-  //         'In this post, we’ll cover how to build out an Angular application using Kendo UI for Angular and then deploy it on Firebase hosting platform.',
+  //         'In this post, we\'ll cover how to build out an Angular application using Kendo UI for Angular and then deploy it on Firebase hosting platform.',
   //       imgUrl: '2021-11-08-g.png',
   //       datePosted: '2021-11-08',
   //       dateSource: '2021-11-08',
@@ -10638,7 +10638,7 @@ export const posts = [
   //         'Angular 13 tutorial: Build a web app by example with Bootstrap 4',
   //       url: 'https://www.webtutpro.com/angular-13-tutorial-build-a-web-app-by-example-with-bootstrap-4-4c0388f5463b',
   //       description:
-  //         'In this tutorial, we’ll quickly see how you can generate an Angular 13 project using the official CLI (Command-Line Interface) and then create an application for demonstrating basic concepts of Angular like importing and using built-in modules, creating components and services, and fetching data from a REST API server using HttpClient, the alternative/equivalent to Axios or the Fetch API for Angular developers.',
+  //         'In this tutorial, we\'ll quickly see how you can generate an Angular 13 project using the official CLI (Command-Line Interface) and then create an application for demonstrating basic concepts of Angular like importing and using built-in modules, creating components and services, and fetching data from a REST API server using HttpClient, the alternative/equivalent to Axios or the Fetch API for Angular developers.',
   //       imgUrl: '2021-11-09-a.png',
   //       datePosted: '2021-11-09',
   //       dateSource: '2021-11-08',
@@ -10678,7 +10678,7 @@ export const posts = [
   //       title: 'Angular Charts',
   //       url: 'https://medium.com/@abhishek_rana/angular-charts-d3f5a4fa1537',
   //       description:
-  //         'Chart.js is a popular JavaScript charting library and ng2-charts is a wrapper for Angular 2+ that makes it easy to integrate Chart.js in Angular. Let’s go over the basic usage.',
+  //         'Chart.js is a popular JavaScript charting library and ng2-charts is a wrapper for Angular 2+ that makes it easy to integrate Chart.js in Angular. Let\'s go over the basic usage.',
   //       imgUrl: '2021-11-09-c.png',
   //       datePosted: '2021-11-09',
   //       dateSource: '2021-11-08',
@@ -11051,7 +11051,7 @@ export const posts = [
   //       title: 'Short intro to Selector syntaxes for Angular Directives',
   //       url: 'https://medium.com/@zzpzaf.se/short-intro-to-selector-syntaxes-for-angular-directives-baf9cc2b93aa',
   //       description:
-  //         'It is not necessary to enclose the directive’s selector in square brackets. However, if we do so, the directive is considered as a pure Attribute Directive. Actually, a directive’s selector can have various syntax formats, following the syntax of an element of HTML. A general syntax ‘anatomy’ of an HTM element is given below:',
+  //         'It is not necessary to enclose the directive\'s selector in square brackets. However, if we do so, the directive is considered as a pure Attribute Directive. Actually, a directive\'s selector can have various syntax formats, following the syntax of an element of HTML. A general syntax \'anatomy\' of an HTM element is given below:',
   //       imgUrl: '2021-11-10-h.png',
   //       datePosted: '2021-11-10',
   //       dateSource: '2021-11-09',
@@ -11111,7 +11111,7 @@ export const posts = [
   //       title: 'Angular Component with Inline Style & Inline Template',
   //       url: 'https://medium.com/@ksharmitha95/angular-component-with-inline-style-inline-template-a22b769a53dc',
   //       description:
-  //         'Let’s learn how to effectively use Angular Components with Inline Style & Inline Templates.',
+  //         'Let\'s learn how to effectively use Angular Components with Inline Style & Inline Templates.',
   //       imgUrl: '2021-11-10-k.png',
   //       datePosted: '2021-11-10',
   //       dateSource: '2021-11-10',
@@ -11259,7 +11259,7 @@ export const posts = [
   //         'Angular Sussex 2021-07-28 Angular World Tour - Jessica Janiuk, Deborah Kurata and Tracy Lee',
   //       url: 'https://www.youtube.com/watch?v=AlKc28Jl1Ps',
   //       description:
-  //         'Hello Angularites, we’re  back with another great Angular Sussex meetup for you. The atmosphere from the audience was fantastic - thanks to all who came.',
+  //         'Hello Angularites, we\'re  back with another great Angular Sussex meetup for you. The atmosphere from the audience was fantastic - thanks to all who came.',
   //       imgUrl: '2021-11-11-d.jpg',
   //       datePosted: '2021-11-11',
   //       dateSource: '2021-11-11',
@@ -11321,7 +11321,7 @@ export const posts = [
   //       title: 'How To Containerize Angular Applications with Docker',
   //       url: 'https://medium.com/@legemutlu/how-to-containerize-angular-applications-with-docker-afc4859e468',
   //       description:
-  //         'What do you do when you need to build Angular in another environment? You are free to say ‘It’s working on my computer or use a container of docker instead. Docker is an open-source platform for building, deploying, and managing containerized applications. Docker containers can simplify the process of building and deploying Angular applications. In this post, we’ll learn how to containerize angular applications with docker.',
+  //         'What do you do when you need to build Angular in another environment? You are free to say \'It\'s working on my computer or use a container of docker instead. Docker is an open-source platform for building, deploying, and managing containerized applications. Docker containers can simplify the process of building and deploying Angular applications. In this post, we\'ll learn how to containerize angular applications with docker.',
   //       imgUrl: '2021-11-11-g.png',
   //       datePosted: '2021-11-11',
   //       dateSource: '2021-11-11',
@@ -11491,7 +11491,7 @@ export const posts = [
   //       title: 'How to make Angular OnChanges better',
   //       url: 'https://medium.com/generic-ui/how-to-make-angular-onchanges-better-f215b001ab02',
   //       description:
-  //         "Like most of you, I work in a team of a couple of programmers and our responsibility is to handle a few big Angular projects. In order to keep our project's codebase clean, readable and without any bugs we try to use verified Angular patterns. One of them is obviously the Smart and dumb components pattern which makes us create two types of components. The “dumb” one or also called the “presenter” should be simple without any dependencies, its only responsibility is to present data. As the pattern states it cannot inject any services, so all the data flow must come from the inputs. I find myself writing many of these simple components and despite frequent experiences with them, I found out they are the source of my headaches. In order to better understand my boomer problem let’s take a look at the components code:",
+  //         "Like most of you, I work in a team of a couple of programmers and our responsibility is to handle a few big Angular projects. In order to keep our project's codebase clean, readable and without any bugs we try to use verified Angular patterns. One of them is obviously the Smart and dumb components pattern which makes us create two types of components. The “dumb” one or also called the “presenter” should be simple without any dependencies, its only responsibility is to present data. As the pattern states it cannot inject any services, so all the data flow must come from the inputs. I find myself writing many of these simple components and despite frequent experiences with them, I found out they are the source of my headaches. In order to better understand my boomer problem let\'s take a look at the components code:",
   //       imgUrl: '2021-11-12-f.png',
   //       datePosted: '2021-11-12',
   //       dateSource: '2021-11-12',
@@ -11511,7 +11511,7 @@ export const posts = [
   //       title: 'Testing network requests with Cypress',
   //       url: 'https://medium.com/@symflower_/testing-network-requests-with-cypress-649fdf1d159e',
   //       description:
-  //         'We’ve covered the general reasons why we’ve chosen to use Cypress in our previous blogpost about testing. In this next article, we will go into details about how Cypress can be used to run tests for network requests.',
+  //         'We\'ve covered the general reasons why we\'ve chosen to use Cypress in our previous blogpost about testing. In this next article, we will go into details about how Cypress can be used to run tests for network requests.',
   //       imgUrl: '2021-11-12-g.png',
   //       datePosted: '2021-11-12',
   //       dateSource: '2021-11-12',
@@ -11531,7 +11531,7 @@ export const posts = [
   //       title: 'Angular route setting_login and route guard(canActivate)',
   //       url: 'https://medium.com/@HonoraryMarleyans/angular-route-setting-login-and-route-guard-canactivate-fab53eb1715a',
   //       description:
-  //         'To protect users’ data, we usually use login module to make identification to distinguish different users. There are many authentications to log into a specific region. In this article, we will use firebase authentication which provides many log in methods like email, Google, Twitter, Apple ID …etc.And we will use route guard in Angular to prevent users visiting the site which they are not authorized to visit.',
+  //         'To protect users\' data, we usually use login module to make identification to distinguish different users. There are many authentications to log into a specific region. In this article, we will use firebase authentication which provides many log in methods like email, Google, Twitter, Apple ID …etc.And we will use route guard in Angular to prevent users visiting the site which they are not authorized to visit.',
   //       imgUrl: '2021-11-12-h.png',
   //       datePosted: '2021-11-12',
   //       dateSource: '2021-11-12',
@@ -11551,7 +11551,7 @@ export const posts = [
   //       title: 'NgRx Best Practices Series: 1. Cache & LoadStatus',
   //       url: 'https://dev.to/this-is-angular/ngrx-best-practices-series-1-cache-loadstatus-3o8d',
   //       description:
-  //         'In this series of articles, I am sharing the lessons that I have learned from building reactive applications in Angular using NgRx state management. My introduction explained how I came to use NgRx. Going forward, I will share best practices in the form of an example application, Eternal. Here, we’ll look at the way state management lets you add caching functionality to your code.',
+  //         'In this series of articles, I am sharing the lessons that I have learned from building reactive applications in Angular using NgRx state management. My introduction explained how I came to use NgRx. Going forward, I will share best practices in the form of an example application, Eternal. Here, we\'ll look at the way state management lets you add caching functionality to your code.',
   //       imgUrl: '2021-11-12-i.png',
   //       datePosted: '2021-11-12',
   //       dateSource: '2021-11-11',
@@ -11652,7 +11652,7 @@ export const posts = [
   //       authorName: 'CodeBriefly',
   //       authorUrl: 'https://medium.com/@CodeBriefly',
   //       speakers: [],
-  //       tags: ['Deployment', 'Firebasse'],
+  //       tags: ['Deployment', 'Firebase'],
   //     },
   //     {
   //       id: '13-c',
@@ -11862,7 +11862,7 @@ export const posts = [
   //       authorName: 'Carlo Miguel Dy',
   //       authorUrl: 'https://dev.to/carlomigueldy',
   //       speakers: ['Carlo Miguel Dy'],
-  //       tags: ['Tessting', 'Jest', 'Firebase', 'Cloud Functions'],
+  //       tags: ['Testing', 'Jest', 'Firebase', 'Cloud Functions'],
   //     },
   //     {
   //       id: '14-e',
@@ -11936,7 +11936,7 @@ export const posts = [
   //       title: 'Tip #47[HttpStatusCode enum]',
   //       url: 'https://medium.com/javascript-everyday/tip-47-httpstatuscode-enum-830429488a0b',
   //       description:
-  //         'Let’s assume that you want to fetch a resource having a unique identifier. If a server returns a response with 404 status code, you may want to return a fallback value, otherwise let the error propagate:',
+  //         'Let\'s assume that you want to fetch a resource having a unique identifier. If a server returns a response with 404 status code, you may want to return a fallback value, otherwise let the error propagate:',
   //       imgUrl: '2021-11-14-h.png',
   //       datePosted: '2021-11-14',
   //       dateSource: '2021-11-14',
@@ -11983,7 +11983,7 @@ export const posts = [
   //       title: 'S1E24 | Michael Callaghan on Raising Kids Who Love to Code',
   //       url: 'https://www.spreaker.com/user/14532324/s1e24-michael-callaghan-on-raising-kids-?utm_medium=widget&utm_source=user%3A14532324&utm_term=episode_title',
   //       description:
-  //         "In today's episode, Michael Callaghan, a software engineer from the team at Walt Disney World, joins the Angular Experience in this episode for a discussion about how to teach children to code. Michael shares his experience teaching his son and other children how to program, from what works to ideas and strategies that aren’t as recommended. We also share resources and ideas for how to introduce children to programming and how to keep them active and motivated at home, school, ... ",
+  //         "In today's episode, Michael Callaghan, a software engineer from the team at Walt Disney World, joins the Angular Experience in this episode for a discussion about how to teach children to code. Michael shares his experience teaching his son and other children how to program, from what works to ideas and strategies that aren\'t as recommended. We also share resources and ideas for how to introduce children to programming and how to keep them active and motivated at home, school, ... ",
   //       imgUrl: 'thumb-angular-experience.png',
   //       datePosted: '2021-11-15',
   //       dateSource: '2021-11-15',
@@ -12175,7 +12175,7 @@ export const posts = [
   //         'JavaScript Marathon | Beginner to Advanced NgRx with Mike Ryan, Creator of NgRx',
   //       url: 'https://www.youtube.com/watch?v=iWX7qCGVt9U',
   //       description:
-  //         'In this training session, Mike Ryan will take your NgRx skills from beginner or intermediate to advanced in just 90 minutes! You’ll learn how to use NgRx most effectively when building an Angular application. Mike covers the best practices for achieving a clean and performant application architecture with NgRx. You’ll learn all about containers, actions, effects, reducers, selectors, selector composition, and how they all fit together to manage application state. You’ll be using NgRx like a pro after this session!',
+  //         'In this training session, Mike Ryan will take your NgRx skills from beginner or intermediate to advanced in just 90 minutes! You\'ll learn how to use NgRx most effectively when building an Angular application. Mike covers the best practices for achieving a clean and performant application architecture with NgRx. You\'ll learn all about containers, actions, effects, reducers, selectors, selector composition, and how they all fit together to manage application state. You\'ll be using NgRx like a pro after this session!',
   //       imgUrl: '2021-11-16-c.jpg',
   //       datePosted: '2021-11-16',
   //       dateSource: '2021-11-16',
@@ -12195,7 +12195,7 @@ export const posts = [
   //       title: 'How To Use from() - RxJS Tutorial',
   //       url: 'https://www.youtube.com/watch?v=bDXgb-uV0JA',
   //       description:
-  //         'Senior Enterprise Software Engineer, Austin Kulp shows developers how to easily convert an array, promise, or iterable into an observable stream using RxJS ‘from()’. See what ‘from()’ does, common pitfalls to look out for, and key examples of how it is used to reduce complexity using reactive code.',
+  //         'Senior Enterprise Software Engineer, Austin Kulp shows developers how to easily convert an array, promise, or iterable into an observable stream using RxJS \'from()\'. See what \'from()\' does, common pitfalls to look out for, and key examples of how it is used to reduce complexity using reactive code.',
   //       imgUrl: '2021-11-16-d.jpg',
   //       datePosted: '2021-11-16',
   //       dateSource: '2021-11-16',
@@ -12323,7 +12323,7 @@ export const posts = [
   //         'My Experience as a Speaker in Angular-Up, Tel Aviv & Excursion to Jerusalem',
   //       url: 'https://dev.to/eleftheriabatsou/my-experience-as-a-speaker-in-angular-up-tel-aviv-excursion-to-jerusalem-vlog-1iho',
   //       description:
-  //         "Hello beautiful people, in this article I’ll describe my last 4-5 days traveling in Israel and attending as a speaker Angular-Up, a tech conference focusing on Angular. While we progress I'll share what I did (tech and non-tech wise) as well as some new experiences",
+  //         "Hello beautiful people, in this article I\'ll describe my last 4-5 days traveling in Israel and attending as a speaker Angular-Up, a tech conference focusing on Angular. While we progress I'll share what I did (tech and non-tech wise) as well as some new experiences",
   //       imgUrl: '2021-11-17-a.png',
   //       datePosted: '2021-11-17',
   //       dateSource: '2021-11-17',
@@ -12445,7 +12445,7 @@ export const posts = [
   //       title: 'E072 - Angular v13',
   //       url: 'https://www.spreaker.com/user/ng-conf/tas-october-20-2021-angular-v13-edit-1',
   //       description:
-  //         'As promised, the Angular team dropped version 13 on November 3rd, and the Angular Show got the chance to talk to Angular Dev Rel team member Emma Twersky about the anticipated release.\n\nIn this episode Emma tells Aaron and Jennifer about some awesome new Angular team members and their contributions, including Sarah Dranser joining Google as Director of Engineering for Core Web. There’s a quick fangirl/fanboy session over what a fantastic manager and mindful engineer Sarah is and the ...',
+  //         'As promised, the Angular team dropped version 13 on November 3rd, and the Angular Show got the chance to talk to Angular Dev Rel team member Emma Twersky about the anticipated release.\n\nIn this episode Emma tells Aaron and Jennifer about some awesome new Angular team members and their contributions, including Sarah Dranser joining Google as Director of Engineering for Core Web. There\'s a quick fangirl/fanboy session over what a fantastic manager and mindful engineer Sarah is and the ...',
   //       imgUrl: 'thumb-the-angular-show.png',
   //       datePosted: '2021-11-17',
   //       dateSource: '2021-11-17',
@@ -12547,7 +12547,7 @@ export const posts = [
   //         'Announcing NgRx Version 13: Ivy Builds, Feature Creators, Improved Selectors, and more!',
   //       url: 'https://medium.com/ngrx/announcing-ngrx-version-13-ivy-builds-feature-creators-improved-selectors-and-more-6a1a4c52c824',
   //       description:
-  //         'Today we’re happy to announce the version 13 release of the NgRx platform. This release contains new features, bug fixes, and some breaking changes, all aimed at improving the developer experience when using NgRx libraries.',
+  //         'Today we\'re happy to announce the version 13 release of the NgRx platform. This release contains new features, bug fixes, and some breaking changes, all aimed at improving the developer experience when using NgRx libraries.',
   //       imgUrl: '2021-11-17-l.png',
   //       datePosted: '2021-11-17',
   //       dateSource: '2021-11-17',
@@ -12849,7 +12849,7 @@ export const posts = [
   //       title: 'Transpiling in Angular',
   //       url: 'https://rohitsinghwd1993.medium.com/transpiling-in-angular-61210a16f2af',
   //       description:
-  //         'As we all know that browsers only work with Javascript, they don’t understand Typescript So in that case there must be a way to convert the typescript code into plain javascript code. This conversion is called Transpiling. There is one small difference between Transpiling and Compiling, and that is...',
+  //         'As we all know that browsers only work with Javascript, they don\'t understand Typescript So in that case there must be a way to convert the typescript code into plain javascript code. This conversion is called Transpiling. There is one small difference between Transpiling and Compiling, and that is...',
   //       imgUrl: '2021-11-19-c.jpg',
   //       datePosted: '2021-11-19',
   //       dateSource: '2021-11-19',
@@ -13000,7 +13000,7 @@ export const posts = [
   //       title: 'Best ways to use ElementRefs in Angular',
   //       url: 'https://medium.com/@shehanatuk/ever-wondered-what-elementrefs-are-e075d1b32511',
   //       description:
-  //         'Ever wondered what ElementRefs are? Well here is it: they are wrappers around native elements inside templates in Angular. But what about how to use them? And what are their pros and cons?\n\nWell, in this blog post we’ll go over what Angular ElementRefs are, how to use them effectively, go over their pros and cons and much more. So without further ado let’s jump right in!',
+  //         'Ever wondered what ElementRefs are? Well here is it: they are wrappers around native elements inside templates in Angular. But what about how to use them? And what are their pros and cons?\n\nWell, in this blog post we\'ll go over what Angular ElementRefs are, how to use them effectively, go over their pros and cons and much more. So without further ado let\'s jump right in!',
   //       imgUrl: '2021-11-20-c.jpg',
   //       datePosted: '2021-11-20',
   //       dateSource: '2021-11-20',
@@ -13084,7 +13084,7 @@ export const posts = [
   //       title: 'Deploy your Angular app with GitHub and Netlify',
   //       url: 'https://dev.to/ewaldvanveen/deploy-your-angular-app-with-github-and-netlify-ci2',
   //       description:
-  //         'When building your own projects, it would be nice if some of them will actually see the light of the world wide web instead of sadly sinking into oblivion. However, going through the whole process of successfully deploying your website to a hosting platform somewhere may sound a bit too discouraging for some developers.\n\nAnd that’s where a developer platform like Netlify comes to the rescue. With the use of their free starter plan, you can have your own personal project running in just a few steps.',
+  //         'When building your own projects, it would be nice if some of them will actually see the light of the world wide web instead of sadly sinking into oblivion. However, going through the whole process of successfully deploying your website to a hosting platform somewhere may sound a bit too discouraging for some developers.\n\nAnd that\'s where a developer platform like Netlify comes to the rescue. With the use of their free starter plan, you can have your own personal project running in just a few steps.',
   //       imgUrl: '2021-11-21-a.jpg',
   //       datePosted: '2021-11-21',
   //       dateSource: '2021-11-21',
@@ -13324,7 +13324,7 @@ export const posts = [
   //       title: 'NgRx effect use to cache Get request',
   //       url: 'https://medium.com/@thomas.laforge/ngrx-effect-use-to-cache-get-request-d32e9063ba1e',
   //       description:
-  //         'I love NgRx and everything around NgRx, that’s why I decided to write a series of articles about real life issues resolved with the help of NgRx. This article will be the first one of the series.',
+  //         'I love NgRx and everything around NgRx, that\'s why I decided to write a series of articles about real life issues resolved with the help of NgRx. This article will be the first one of the series.',
   //       imgUrl: '2021-11-22-f.jpg',
   //       datePosted: '2021-11-22',
   //       dateSource: '2021-11-22',
@@ -13365,7 +13365,7 @@ export const posts = [
   //       title: 'Keeping large dependencies off bundle in Angular',
   //       url: 'https://sergeygultyayev.medium.com/keeping-large-dependencies-off-bundle-in-angular-e81573ca0f',
   //       description:
-  //         'You are developing an app like usual, then, one day you realize that it takes quite some time to load. You inspect the initial bundle and it takes a few megabytes! How do you fix it? Let’s figure this out.',
+  //         'You are developing an app like usual, then, one day you realize that it takes quite some time to load. You inspect the initial bundle and it takes a few megabytes! How do you fix it? Let\'s figure this out.',
   //       imgUrl: '2021-11-22-h.jpg',
   //       datePosted: '2021-11-22',
   //       dateSource: '2021-11-22',
@@ -13385,7 +13385,7 @@ export const posts = [
   //       title: 'Adding form validation to an Angular application',
   //       url: 'https://dev.to/rodrigokamada/adding-form-validation-to-an-angular-application-387a',
   //       description:
-  //         'Form validation enables the quality, accuracy, and integrity of the user input data. It’s possible to validate a form in Angular in two ways, one with reactive (using functions in the component class) and the other with template-driven forms (using attributes in the HTML) and we will use the template-driven forms way.',
+  //         'Form validation enables the quality, accuracy, and integrity of the user input data. It\'s possible to validate a form in Angular in two ways, one with reactive (using functions in the component class) and the other with template-driven forms (using attributes in the HTML) and we will use the template-driven forms way.',
   //       imgUrl: '2021-11-22-i.jpg',
   //       datePosted: '2021-11-22',
   //       dateSource: '2021-11-22',
@@ -13559,7 +13559,7 @@ export const posts = [
   //         'How to detect caps-lock button toggle on every key-press in angular',
   //       url: 'https://medium.com/@faisalahmed_89898/how-to-detect-caps-lock-button-toggle-on-every-key-press-in-angular-36a9f22b5bd9',
   //       description:
-  //         'If you want to detect whether caps-lock key is pressed or not, it can’t be possible in every caps-lock click. This state changes when we press any other key. My method will help show/remove cap-lock message as soon as the key hit in angular.',
+  //         'If you want to detect whether caps-lock key is pressed or not, it can\'t be possible in every caps-lock click. This state changes when we press any other key. My method will help show/remove cap-lock message as soon as the key hit in angular.',
   //       imgUrl: '2021-11-23-g.jpg',
   //       datePosted: '2021-11-23',
   //       dateSource: '2021-11-22',
@@ -13641,7 +13641,7 @@ export const posts = [
   //       title: 'RxJS Long Polling with a Retry Count',
   //       url: 'https://medium.com/@tonnio/rxjs-long-polling-with-a-retry-count-33c81bab4c0d',
   //       description:
-  //         'When you need to continuously get some data from the server one of the options is the Long Polling technique. But when it comes to the implementation it’s very easy to get frustrated. Likely RxJS has some operators which can simplify the job for us and the solution for the problem will take only a few lines.',
+  //         'When you need to continuously get some data from the server one of the options is the Long Polling technique. But when it comes to the implementation it\'s very easy to get frustrated. Likely RxJS has some operators which can simplify the job for us and the solution for the problem will take only a few lines.',
   //       imgUrl: '2021-11-23-k.jpg',
   //       datePosted: '2021-11-23',
   //       dateSource: '2021-11-23',
@@ -13814,7 +13814,7 @@ export const posts = [
   //       title: 'Async Pipe — Observables in HTML Template',
   //       url: 'https://medium.com/@getrohith.sathya/async-pipe-observables-in-html-template-f295462ef490',
   //       description:
-  //         'Rxjs Observables are a big deal in Angular and Angular makes good use of Observables to provide all the awesome features we all use and love.\n\nObservables can be sometimes tricky and difficult to understand. If we don’t implement observables properly it will lead to devastating problems such as memory leaks or even crashing your application.',
+  //         'Rxjs Observables are a big deal in Angular and Angular makes good use of Observables to provide all the awesome features we all use and love.\n\nObservables can be sometimes tricky and difficult to understand. If we don\'t implement observables properly it will lead to devastating problems such as memory leaks or even crashing your application.',
   //       imgUrl: '2021-11-25-c.jpg',
   //       datePosted: '2021-11-25',
   //       dateSource: '2021-11-24',
@@ -14033,7 +14033,7 @@ export const posts = [
   //       title: 'Simple CI/CD for Angular project on Bitbucket',
   //       url: 'https://liujijieseason.medium.com/simple-ci-cd-for-angular-project-on-bitbucket-be67275fe9d2',
   //       description:
-  //         'With the growth of the project and the development team, it becomes frustrating to maintain the work. There are more and more bugs to fix, and we need to deploy the application again and again after they are corrected.\n\nAs the lead developer, I’ve created a CI/CD pipeline for our 10 person team to solve this problem. It’s a very interesting and challenging task, and I would like to share my experience with you guys.',
+  //         'With the growth of the project and the development team, it becomes frustrating to maintain the work. There are more and more bugs to fix, and we need to deploy the application again and again after they are corrected.\n\nAs the lead developer, I\'ve created a CI/CD pipeline for our 10 person team to solve this problem. It\'s a very interesting and challenging task, and I would like to share my experience with you guys.',
   //       imgUrl: '2021-11-27-b.jpg',
   //       datePosted: '2021-11-27',
   //       dateSource: '2021-11-26',
@@ -14122,7 +14122,7 @@ export const posts = [
   //         'How to manupulate the DOM using Angular and not compromise your application',
   //       url: 'https://kemilbeltre.medium.com/how-to-manupulate-the-dom-using-angular-and-not-compromise-your-application-7aef60d06890',
   //       description:
-  //         'As you already know the DOM is the data representation of the objects that comprise the structure and content of a document on the web.\n\nAngular provide different ways to manipulate the DOM and in this tutorial I’ll show you how to do without compromise your application.',
+  //         'As you already know the DOM is the data representation of the objects that comprise the structure and content of a document on the web.\n\nAngular provide different ways to manipulate the DOM and in this tutorial I\'ll show you how to do without compromise your application.',
   //       imgUrl: '2021-11-28-d.jpg',
   //       datePosted: '2021-11-28',
   //       dateSource: '2021-11-28',
@@ -14211,7 +14211,7 @@ export const posts = [
         title: 'Firebase With Angular CRUD Operations',
         url: 'https://sankhadip.medium.com/firebase-with-angular-crud-operations-ba91ddf1dcc4',
         description:
-          'In this article, we will be integrating Firebase with Angular and performing basic CRUD operations. We will fetch data from Firebase in real-time.\n\nWe will create a basic UI where we can enter students’ names & ages, fetch a student list, delete a student and update their details.',
+          "In this article, we will be integrating Firebase with Angular and performing basic CRUD operations. We will fetch data from Firebase in real-time.\n\nWe will create a basic UI where we can enter students' names & ages, fetch a student list, delete a student and update their details.",
         imgUrl: '2021-11-29-a.jpg',
         datePosted: '2021-11-29',
         dateSource: '2021-11-29',
@@ -14252,7 +14252,7 @@ export const posts = [
         title: 'Implementing Angular Lazy Loading',
         url: 'https://dev.to/jscrambler/implementing-angular-lazy-loading-5ck7',
         description:
-          'When your Angular application loads, all the application modules are loaded whether they’re required or not. Now, it may not sound like much of an issue if the application is a small one but as its modules eventually grow it will slow down the entire application.\n\nThe answer to this problem is found through Lazy loading which is the technique to initially load only the required modules and to load the other modules only when they are actually required.',
+          "When your Angular application loads, all the application modules are loaded whether they're required or not. Now, it may not sound like much of an issue if the application is a small one but as its modules eventually grow it will slow down the entire application.\n\nThe answer to this problem is found through Lazy loading which is the technique to initially load only the required modules and to load the other modules only when they are actually required.",
         imgUrl: '2021-11-29-c.jpg',
         datePosted: '2021-11-29',
         dateSource: '2021-11-29',
@@ -14636,7 +14636,7 @@ export const posts = [
         title: 'RxJS Tutorial: fromEvent() - Create Reactive Event Streams',
         url: 'https://www.youtube.com/watch?v=iygvbwU9-wc',
         description:
-          'Senior Enterprise Software Engineer, Austin Kulp shows how to create observable streams from event sources using the RxJS ‘fromEvent()’ creation function. See how ‘fromEvent()’ can help developers reduce code volume and utilize the full functionality of an RxJS event stream.',
+          "Senior Enterprise Software Engineer, Austin Kulp shows how to create observable streams from event sources using the RxJS 'fromEvent()' creation function. See how 'fromEvent()' can help developers reduce code volume and utilize the full functionality of an RxJS event stream.",
         imgUrl: '2021-12-01-e.jpg',
         datePosted: '2021-12-01',
         dateSource: '2021-12-01',
@@ -14730,7 +14730,7 @@ export const posts = [
         title: 'Warn User Of Unsaved Changes to Angular Form',
         url: 'https://dev.to/nightwolfdev/warn-user-of-unsaved-changes-to-angular-form-4eo8',
         description:
-          'Filling out a form, especially one with many fields, can be tedious. Losing everything you’ve entered because you may have tapped or clicked a link by mistake is frustrating! What if you could warn the user of unsaved changes to the form? Let’s learn how!',
+          "Filling out a form, especially one with many fields, can be tedious. Losing everything you've entered because you may have tapped or clicked a link by mistake is frustrating! What if you could warn the user of unsaved changes to the form? Let's learn how!",
         imgUrl: '2021-12-01-j.jpg',
         datePosted: '2021-12-01',
         dateSource: '2021-12-01',
@@ -14751,7 +14751,7 @@ export const posts = [
         title: 'What is inside of Angular JSON file',
         url: 'https://medium.com/nerd-for-tech/what-is-inside-of-angular-json-file-636e81e67651',
         description:
-          'Every angular project has an “angular.json” file. We all understand that this file is very important. This file contains the settings of the Angular project. Do you really know what information this file contains? Let’s look at this file closely.',
+          "Every angular project has an “angular.json” file. We all understand that this file is very important. This file contains the settings of the Angular project. Do you really know what information this file contains? Let's look at this file closely.",
         imgUrl: '2021-12-01-k.jpg',
         datePosted: '2021-12-01',
         dateSource: '2021-12-01',
@@ -15128,7 +15128,7 @@ export const posts = [
         title: 'Lazy-load module/scripts/styles in Angular — Part 1',
         url: 'https://vishnuthankappan.medium.com/lazy-load-module-script-styles-in-angular-part-1-cf837f835cfe',
         description:
-          'In this we’ll quickly go through how to lazy-load a component in Angular.',
+          "In this we'll quickly go through how to lazy-load a component in Angular.",
         imgUrl: '2021-12-03-e.jpg',
         datePosted: '2021-12-03',
         dateSource: '2021-12-03',
@@ -15168,7 +15168,7 @@ export const posts = [
         title: 'Angular custom form field control module',
         url: 'https://medium.com/@mehranmb78/angular-custom-form-field-control-module-fc6aeec5f994',
         description:
-          'Most Apps require to know some information from their users so they use forms to get these information. According to your UI design sometimes you need custom input field so it’s better you have custom module for this and use it every where you want and avoid repeating your logic.',
+          "Most Apps require to know some information from their users so they use forms to get these information. According to your UI design sometimes you need custom input field so it's better you have custom module for this and use it every where you want and avoid repeating your logic.",
         imgUrl: '2021-12-03-g.jpg',
         datePosted: '2021-12-03',
         dateSource: '2021-12-03',
@@ -15208,7 +15208,7 @@ export const posts = [
         title: 'This is the simplest way to reload data using RxJS.',
         url: 'https://obaranovskyi.medium.com/rxjs-data-reload-pattern-with-custom-operators-factory-functions-b929a2103dd8',
         description:
-          'Most of the time, we have to load data from the server. To perform the action client usually sends requests along with predefined data. Such data usually takes from the route, browser storage, or from attributes in the case when it’s a component. To load the user details we need to have userId, to load card details we need to have cardId, and so on. But what if you already load the data and you just need to reload without passing the same predefined data again and again. Sounds like a trivial task, right?',
+          "Most of the time, we have to load data from the server. To perform the action client usually sends requests along with predefined data. Such data usually takes from the route, browser storage, or from attributes in the case when it's a component. To load the user details we need to have userId, to load card details we need to have cardId, and so on. But what if you already load the data and you just need to reload without passing the same predefined data again and again. Sounds like a trivial task, right?",
         imgUrl: '2021-12-03-i.jpg',
         datePosted: '2021-12-03',
         dateSource: '2021-12-01',
@@ -15376,7 +15376,7 @@ export const posts = [
         title: 'Deploy Angular + NodeJS Application to AWS Elastic Beanstalk',
         url: 'https://kanchana-rdg.medium.com/deploy-angular-nodejs-application-to-aws-elastic-beanstalk-9ab13076a736',
         description:
-          'This article’s purpose is to provide the basic information to a beginner to use the most common RxJS operators and hopefully be the spark of embracing reactive programming in the future. The article’s target is to provide not only real-world use cases for switchMap, mergeMap, exhaustMap, concatMap, but also a small project as a starting point.',
+          "This article's purpose is to provide the basic information to a beginner to use the most common RxJS operators and hopefully be the spark of embracing reactive programming in the future. The article's target is to provide not only real-world use cases for switchMap, mergeMap, exhaustMap, concatMap, but also a small project as a starting point.",
         imgUrl: '2021-12-04-f.jpg',
         datePosted: '2021-12-04',
         dateSource: '2021-12-04',
@@ -15393,7 +15393,7 @@ export const posts = [
         slug: '2021-12-04-g',
         type: 'video',
         duration: '5',
-        title: 'Test FASTER Test BETTER using this in Cypress Cucumber!',
+        title: 'Test Faster Test Better using this in Cypress Cucumber!',
         url: 'https://www.youtube.com/watch?v=XCmVRg2S2TA',
         description:
           "I'll show you how to write your tests faster and better by using the background syntax in Cypress and Cucumber.",
@@ -15482,7 +15482,7 @@ export const posts = [
         title: 'RxJS Operators: Angular — KISS',
         url: 'https://medium.com/@stavrosdro/rxjs-operators-angular-kiss-36d875d2ff7d',
         description:
-          'This article’s purpose is to provide the basic information to a beginner to use the most common RxJS operators and hopefully be the spark of embracing reactive programming in the future. The article’s target is to provide not only real-world use cases for switchMap, mergeMap, exhaustMap, concatMap, but also a small project as a starting point.',
+          "This article's purpose is to provide the basic information to a beginner to use the most common RxJS operators and hopefully be the spark of embracing reactive programming in the future. The article's target is to provide not only real-world use cases for switchMap, mergeMap, exhaustMap, concatMap, but also a small project as a starting point.",
         imgUrl: '2021-12-05-c.jpg',
         datePosted: '2021-12-05',
         dateSource: '2021-12-05',
@@ -15502,7 +15502,7 @@ export const posts = [
         title: 'Angular, handle multiple views easily by using ToggleGroup',
         url: 'https://sws-by-ar.medium.com/angular-handle-multiple-views-easily-by-using-togglegroup-ef97a437c79e',
         description:
-          'We all come across situation where we have to handle multiple views or component’s display at the same time, keeping them in or out of view. This seems stupidly simple to handle using toggle variables, but not all the time it’s as easy as it sound.',
+          "We all come across situation where we have to handle multiple views or component's display at the same time, keeping them in or out of view. This seems stupidly simple to handle using toggle variables, but not all the time it's as easy as it sound.",
         imgUrl: '2021-12-05-d.jpg',
         datePosted: '2021-12-05',
         dateSource: '2021-12-05',
@@ -15588,7 +15588,7 @@ export const posts = [
         title: 'A Detailed Guide on Angular Engine Ivy',
         url: 'https://dev.to/tarungurang/a-detailed-guide-on-angular-engine-ivy-2ach',
         description:
-          'Angular Ivy is the latest compiler for angular application and also it is the pipeline of rendering and compilation of next generation. It’s highly advanced approach helps with benefits that were not available before. Being simple to use platform, it helps with incredible loading speed even in slow networks. Moreover, the bundle size is also reduced with its support. It was first obtainable in the Angular version 8 with Angular Ivy opt-in.',
+          "Angular Ivy is the latest compiler for angular application and also it is the pipeline of rendering and compilation of next generation. It's highly advanced approach helps with benefits that were not available before. Being simple to use platform, it helps with incredible loading speed even in slow networks. Moreover, the bundle size is also reduced with its support. It was first obtainable in the Angular version 8 with Angular Ivy opt-in.",
         imgUrl: '2021-12-06-a.jpg',
         datePosted: '2021-12-06',
         dateSource: '2021-12-06',
@@ -15631,7 +15631,7 @@ export const posts = [
           'S1E26 | Laura Hackney on Refactoring the Future of Survivors with AnnieCannons',
         url: 'https://www.spreaker.com/user/14532324/s1e26-laura-hackney-on-refactoring-the-f?utm_campaign=episode-title&utm_medium=app&utm_source=widget',
         description:
-          'In today’s episode of the Angular Experience, we’re joined by Laura Hackney, co-founder and CEO at AnnieCannons, a company dedicated to helping teach survivors of human trafficking and other gender-based violence to code and eventually find full-time job opportunities. Laura talks about the company’s mission, how they develop their training program, barriers and triumphs, and shares how Angular developers like YOU can get involved. ',
+          "In today's episode of the Angular Experience, we're joined by Laura Hackney, co-founder and CEO at AnnieCannons, a company dedicated to helping teach survivors of human trafficking and other gender-based violence to code and eventually find full-time job opportunities. Laura talks about the company's mission, how they develop their training program, barriers and triumphs, and shares how Angular developers like YOU can get involved. ",
         imgUrl: '2021-12-06-c.jpg',
         datePosted: '2021-12-06',
         dateSource: '2021-12-06',
@@ -15744,7 +15744,7 @@ export const posts = [
         title: 'Create Your First Angular Library — Beginner Guide',
         url: 'https://medium.com/@diaslalinda/create-your-first-angular-library-beginner-guide-4e0d98b13475',
         description:
-          'When our projects become larger, we may have to split them into sub-projects and share some common behaviour. That’s where libraries can be useful. In this article, I will talk about the overview of libraries, creating a library, using it locally in an application and how to publish it to npm.\n\nWith the introduction of Angular 6, the library creation process has become tremendously easy. We are using Angular CLI throughout this article to generate, build and run Angular applications.',
+          "When our projects become larger, we may have to split them into sub-projects and share some common behaviour. That's where libraries can be useful. In this article, I will talk about the overview of libraries, creating a library, using it locally in an application and how to publish it to npm.\n\nWith the introduction of Angular 6, the library creation process has become tremendously easy. We are using Angular CLI throughout this article to generate, build and run Angular applications.",
         imgUrl: '2021-12-06-h.jpg',
         datePosted: '2021-12-06',
         dateSource: '2021-12-06',
@@ -16082,7 +16082,7 @@ export const posts = [
         title: 'Module Federation — What, Why, How?',
         url: 'https://medium.com/@fahad.nedian109/module-federation-what-why-how-53ac1bef5da4',
         description:
-          'You may heard about the current buzz words “Module Federation”, “Micro frontend” and if you’re new to Module Federation, you can review this story, since I’ll be elaborating this concept in most easiest yet effective and simple way, like the way I like, the “Straight talk no rubbish”. I’ll be discussing...',
+          "You may heard about the current buzz words “Module Federation”, “Micro frontend” and if you're new to Module Federation, you can review this story, since I'll be elaborating this concept in most easiest yet effective and simple way, like the way I like, the “Straight talk no rubbish”. I'll be discussing...",
         imgUrl: '2021-12-08-d.jpg',
         datePosted: '2021-12-08',
         dateSource: '2021-12-08',
@@ -16286,7 +16286,7 @@ export const posts = [
         title: 'How to Google Signin within a Ionic/Angular APP using Firebase',
         url: 'https://medium.com/@simonescigliuzzi/how-to-google-signin-within-a-ionic-angular-app-using-firebase-1b65b7bb0342',
         description:
-          'If you have landed on this page, you are probably looking for a simple solution to integrate Google Singin into your Android/iOS APP. Well, you know I’ve been there before! So, keep reading this article to find out how to implement Google Signin in your APP, in a few simple steps.',
+          "If you have landed on this page, you are probably looking for a simple solution to integrate Google Singin into your Android/iOS APP. Well, you know I've been there before! So, keep reading this article to find out how to implement Google Signin in your APP, in a few simple steps.",
         imgUrl: '2021-12-09-c.jpg',
         datePosted: '2021-12-09',
         dateSource: '2021-12-08',
@@ -16306,7 +16306,7 @@ export const posts = [
         title: 'Is NgRx required for Angular Application Development?',
         url: 'https://medium.com/@harmeetsingh090/is-ngrx-required-for-angular-application-development-4c334a3ff561',
         description:
-          'When one thinks about developing a web or mobile application, Angular and React are top choices for application framework. If one is a React developer, it would be easier to understand NgRx as it’s inspired by redux and follows similar pattern like store, reducer, and action. I was fortunate enough to get professional opportunities to work on both these frameworks. If one is an Angular developer, you must wonder if you required NgRx for Angular Application. The simple answer to this is — No it’s not required. Let me explain.',
+          "When one thinks about developing a web or mobile application, Angular and React are top choices for application framework. If one is a React developer, it would be easier to understand NgRx as it's inspired by redux and follows similar pattern like store, reducer, and action. I was fortunate enough to get professional opportunities to work on both these frameworks. If one is an Angular developer, you must wonder if you required NgRx for Angular Application. The simple answer to this is — No it's not required. Let me explain.",
         imgUrl: '2021-12-09-d.jpg',
         datePosted: '2021-12-09',
         dateSource: '2021-12-08',
@@ -16402,7 +16402,7 @@ export const posts = [
         title: 'State of Angular Ecosytem | December 2021',
         url: 'https://www.youtube.com/watch?v=kZXUFKqWrIY',
         description:
-          'Keep up with modern web technology advancements through these special “State of” events. This month, we’re bringing you a “State of Angular Ecosystem” panel, co-hosted with the Angular team. Hear from core contributors, library authors, & more about various frameworks within the Angular Ecosystem!',
+          "Keep up with modern web technology advancements through these special “State of” events. This month, we're bringing you a “State of Angular Ecosystem” panel, co-hosted with the Angular team. Hear from core contributors, library authors, & more about various frameworks within the Angular Ecosystem!",
         imgUrl: '2021-12-09-i.jpg',
         datePosted: '2021-12-09',
         dateSource: '2021-12-09',
@@ -16449,7 +16449,7 @@ export const posts = [
         title: 'Angular on Desktop',
         url: 'https://www.telerik.com/blogs/angular-on-desktop',
         description:
-          'Let’s talk Angular—one of the most popular modern web application development platforms. With a long history, matured tooling and rich developer ecosystem, it is not difficult to see why Angular is the SPA framework of choice for building modern web/mobile apps. However, how does Angular work for desktop apps? The classic software answer applies—it depends. There are strategies for code sharing with web, but a lot also depends on the type of app being built and the desktop integrations desired.',
+          "Let's talk Angular—one of the most popular modern web application development platforms. With a long history, matured tooling and rich developer ecosystem, it is not difficult to see why Angular is the SPA framework of choice for building modern web/mobile apps. However, how does Angular work for desktop apps? The classic software answer applies—it depends. There are strategies for code sharing with web, but a lot also depends on the type of app being built and the desktop integrations desired.",
         imgUrl: '2021-12-09-k.jpg',
         datePosted: '2021-12-09',
         dateSource: '2021-12-09',
@@ -16474,7 +16474,7 @@ export const posts = [
         title: 'How to Manage Password Strength — Angular',
         url: 'https://medium.com/@CodeBriefly/how-to-manage-password-strength-angular-9f489359109c',
         description:
-          'In this article, we will discuss “How to Manage Password Strength — Angular”. There are multiple ways to implement this feature in your Angular application such as applying pattern validation, creating a password strength meter, or using any existing package. In this example, I’m using the Angular Reactive form. You will learn pattern validation and how to create a password strength meter.',
+          "In this article, we will discuss “How to Manage Password Strength — Angular”. There are multiple ways to implement this feature in your Angular application such as applying pattern validation, creating a password strength meter, or using any existing package. In this example, I'm using the Angular Reactive form. You will learn pattern validation and how to create a password strength meter.",
         imgUrl: '2021-12-10-a.jpg',
         datePosted: '2021-12-10',
         dateSource: '2021-12-09',
@@ -16516,7 +16516,7 @@ export const posts = [
           'NG-BE 2021 - Lightning Talk - Mike Hartington - High performance design of Angular',
         url: 'https://www.youtube.com/watch?v=MEn1Kr6OUoc',
         description:
-          "Mike is a developer, Angular GDE, and Ionic Developer Advocate who's been working in the mobile landscape for most of his professional career. When he's not working Ionic itself, Mike works with community members and helps them succeed at mobile. In his spare time, he’s an aspiring woodworker, occasional musician, and craft beer lover.",
+          "Mike is a developer, Angular GDE, and Ionic Developer Advocate who's been working in the mobile landscape for most of his professional career. When he's not working Ionic itself, Mike works with community members and helps them succeed at mobile. In his spare time, he's an aspiring woodworker, occasional musician, and craft beer lover.",
         imgUrl: '2021-12-10-c.jpg',
         datePosted: '2021-12-10',
         dateSource: '2021-12-10',
@@ -16730,7 +16730,7 @@ export const posts = [
         title: 'NG-BE 2021 - Jeff Cross - Nx for Angular Developers',
         url: 'https://www.youtube.com/watch?v=vJ0-utpGXq4',
         description:
-          'Jeff Cross is a Principal Architect, Co-Founder, and CEO at Nrwl.io. When he’s not attending meetings or writing emails, he’s hanging out with his pet Kunekune pigs, Cheddar, Peppa, Charles Junior, Torko, and Brownie',
+          "Jeff Cross is a Principal Architect, Co-Founder, and CEO at Nrwl.io. When he's not attending meetings or writing emails, he's hanging out with his pet Kunekune pigs, Cheddar, Peppa, Charles Junior, Torko, and Brownie",
         imgUrl: '2021-12-11-a.jpg',
         datePosted: '2021-12-11',
         dateSource: '2021-12-11',
@@ -16793,7 +16793,7 @@ export const posts = [
           'NG-BE 2021 - Lightning talk - Craig Spence - Betterer Incremental improvement',
         url: 'https://www.youtube.com/watch?v=q-Sl32oasIs',
         description:
-          'Craig is a Software Engineer from New Zealand, working at Spotify in Stockholm. He loves building cool things that help teams build cool things! He also loves punk rock, Disney’s Frozen, and his cat Cosy.',
+          "Craig is a Software Engineer from New Zealand, working at Spotify in Stockholm. He loves building cool things that help teams build cool things! He also loves punk rock, Disney's Frozen, and his cat Cosy.",
         imgUrl: '2021-12-11-d.jpg',
         datePosted: '2021-12-11',
         dateSource: '2021-12-11',
@@ -17027,7 +17027,7 @@ export const posts = [
         title: 'Ways to boost performance of your angular application',
         url: 'https://medium.com/@KrGyan/ways-to-boost-performance-of-your-angular-application-10c3eb67e81d',
         description:
-          'Angular performance can be classified into two categories load time and run time. We will see solution for both categories. Let’s start with solving load time performance .',
+          "Angular performance can be classified into two categories load time and run time. We will see solution for both categories. Let's start with solving load time performance .",
         imgUrl: '2021-12-13-a.jpg',
         datePosted: '2021-12-13',
         dateSource: '2021-12-12',
@@ -17127,7 +17127,7 @@ export const posts = [
         title: 'Angular Universal: use TransferState for HttpClient in SSR',
         url: 'https://medium.com/@vahid.vdn/angular-universal-use-transferstate-for-httpclient-in-ssr-db5cb7d6fd32',
         description:
-          '... You should use TransferState. It will make use of HTTP response whenever code is running in the browser since it’s already received in the server. Let’s see how it works ...',
+          "... You should use TransferState. It will make use of HTTP response whenever code is running in the browser since it's already received in the server. Let's see how it works ...",
         imgUrl: '2021-12-13-f.jpg',
         datePosted: '2021-12-13',
         dateSource: '2021-12-13',
@@ -17205,10 +17205,10 @@ export const posts = [
         slug: '2021-12-13-j',
         type: 'blog',
         duration: '',
-        title: 'Angular Async Pipe — Here’s how to use it like a boss',
+        title: "Angular Async Pipe — Here's how to use it like a boss",
         url: 'https://dkreider.medium.com/angular-async-pipe-heres-how-to-use-it-like-a-boss-f304bf7409bd',
         description:
-          'Who else wants to use Angular’s honking powerful async pipe?',
+          "Who else wants to use Angular's honking powerful async pipe?",
         imgUrl: '2021-12-13-j.jpg',
         datePosted: '2021-12-13',
         dateSource: '2021-12-13',
@@ -17336,7 +17336,7 @@ export const posts = [
         title: 'Configuring CI and CD using Azure Pipelines and NX',
         url: 'https://chrishouse.medium.com/configuring-ci-and-cd-using-azure-pipelines-and-nx-630f643c202',
         description:
-          "My goal is to use Nx to help the overhead of managing 15+ angular applications that all make up one product. This `means one package.json to deal with. I have came across Nx.dev’s documentation on setting up CI. It uses the affected commands which only build, test, and lint what fields have changed! They provide you with a way to set up CI on Azure DevOps, and it works, but I didn't understand how to set up a release pipeline based on the example documentation provided for CI.",
+          "My goal is to use Nx to help the overhead of managing 15+ angular applications that all make up one product. This `means one package.json to deal with. I have came across Nx.dev's documentation on setting up CI. It uses the affected commands which only build, test, and lint what fields have changed! They provide you with a way to set up CI on Azure DevOps, and it works, but I didn't understand how to set up a release pipeline based on the example documentation provided for CI.",
         imgUrl: '2021-12-14-e.jpg',
         datePosted: '2021-12-14',
         dateSource: '2021-12-14',
@@ -17742,7 +17742,7 @@ export const posts = [
         title: 'How do you clean RxJS Subjects?',
         url: 'https://obaranovskyi.medium.com/how-do-you-clean-the-subjects-in-rxjs-298bf129d3bb',
         description:
-          'Among all bugs, cache issues take first place. If somehow, for some reason, you hadn’t fixed bugs related to cache, then you’re lucky. It often happens when you’re using RxJS subjects, especially BehaviorSubject or ReplaySubject.\n\nDuring this article, we’ll try to address this kind of issue. Furthermore, we’re going to develop a new subject for such needs. So if you’re interested, stay tuned!',
+          "Among all bugs, cache issues take first place. If somehow, for some reason, you hadn't fixed bugs related to cache, then you're lucky. It often happens when you're using RxJS subjects, especially BehaviorSubject or ReplaySubject.\n\nDuring this article, we'll try to address this kind of issue. Furthermore, we're going to develop a new subject for such needs. So if you're interested, stay tuned!",
         imgUrl: '2021-12-15-q.jpg',
         datePosted: '2021-12-15',
         dateSource: '2021-12-15',
@@ -18144,7 +18144,7 @@ export const posts = [
         type: 'video',
         duration: '66',
         title:
-          'AngularAir - Younes’s New Angular Show: Marmicode Tasting Session',
+          "AngularAir - Younes's New Angular Show: Marmicode Tasting Session",
         url: 'https://www.youtube.com/watch?v=CmspcYY6jjU',
         description:
           'For the past few years I have been teaching how to test Angular code. It seems as if engineers do not have a solid foundation of testing principles and how to keep the testing code as clean as the production code. In this session, you will learn how to organize your tests, what are the difference between different testing types, test doubles, schools of testing and most importantly how to write re-usable, maintainable, non-brittle and clean tests. The session will combine a lot of coding examples of bad testing practices and how to refactor your test with good practices in mind. By the end of it, you should be able to write clean test code.',
@@ -18386,7 +18386,7 @@ export const posts = [
         title: 'Typescript decorator to handle Unsupported operations',
         url: 'https://dev.to/gaetanrdn/typescript-decorator-to-handle-unsupported-operations-1i0d',
         description:
-          'When something to do is boring, not elegant or take to much time then you should probably find a better way to do it. Maybe this solution will not please everyone but I and my team think that’s effective.',
+          "When something to do is boring, not elegant or take to much time then you should probably find a better way to do it. Maybe this solution will not please everyone but I and my team think that's effective.",
         imgUrl: '2021-12-20-a.jpg',
         datePosted: '2021-12-20',
         dateSource: '2021-12-19',
@@ -18573,7 +18573,7 @@ export const posts = [
           'Once Upon Unsubscribe (Or, How I Improved The Way We Manage Our Subscriptions)',
         url: 'https://anecdotes.dev/once-upon-unsubscribe-f02c160da462',
         description:
-          'So a couple of days ago I decided to change all our components subscriptions.forEach(…unsubscribe..) to takeUntil(). This change took me on a nice journey and I’d like to share it with you.',
+          "So a couple of days ago I decided to change all our components subscriptions.forEach(…unsubscribe..) to takeUntil(). This change took me on a nice journey and I'd like to share it with you.",
         imgUrl: '2021-12-20-j.jpg',
         datePosted: '2021-12-20',
         dateSource: '2021-12-20',
@@ -18835,7 +18835,7 @@ export const posts = [
         title: 'Build Your Own Pathfinder in Angular',
         url: 'https://medium.com/ngconf/build-your-own-pathfinder-in-angular-d890197d4331',
         description:
-          'I began what I hope will become a tradition last year around the holidays. My goal is to simply give something away just for the sake of giving it away. Last year’s gift was a variable-width freehand stroke that rendered into a Canvas. This facilitated dynamic drawing in Angular applications through its implementation in a structural directive.',
+          "I began what I hope will become a tradition last year around the holidays. My goal is to simply give something away just for the sake of giving it away. Last year's gift was a variable-width freehand stroke that rendered into a Canvas. This facilitated dynamic drawing in Angular applications through its implementation in a structural directive.",
         imgUrl: '2021-12-21-f.jpg',
         datePosted: '2021-12-21',
         dateSource: '2021-12-21',
@@ -18866,6 +18866,26 @@ export const posts = [
         authorUrl: 'https://blogs.halodoc.io/author/nivedita-rashmi/',
         speakers: ['Nivedita Rashmi'],
         tags: ['Update'],
+      },
+      {
+        id: '21-h',
+        slug: '2021-12-21-h',
+        type: 'blog',
+        duration: '',
+        title: '10 Tips for Faster Angular Development',
+        url: 'https://medium.com/ngconf/10-tips-for-faster-angular-development-d6478f0795e7',
+        description:
+          "I've been writing Angular code since the early alphas of version 2. I've picked up a few things that make development faster for me. I hope they help you too!",
+        imgUrl: '2021-12-21-h.jpg',
+        datePosted: '2021-12-21',
+        dateSource: '2021-12-21',
+        postedBy: 'Steve Witman',
+        sourceSite: 'Medium',
+        sourceUrl: 'https://medium.com/tag/angular/latest',
+        authorName: 'Jared Youtsey',
+        authorUrl: 'https://medium.com/@fivedicephoto',
+        speakers: ['Jared Youtsey'],
+        tags: [],
       },
     ],
   },
@@ -19069,7 +19089,7 @@ export const posts = [
         title: 'High scalable folder structure in angular applications',
         url: 'https://medium.com/edataconsulting/high-scalable-folder-structure-in-angular-applications-a50b55f94350',
         description:
-          'When we want to start a new angular application, one of the main questions that comes to our mind is how to create a good folder structure, especially when we don’t know how much the application might grow in the future. In those cases, I always like to have a folder structure that allows me to create a highly scalable application.',
+          "When we want to start a new angular application, one of the main questions that comes to our mind is how to create a good folder structure, especially when we don't know how much the application might grow in the future. In those cases, I always like to have a folder structure that allows me to create a highly scalable application.",
         imgUrl: '2021-12-23-b.jpg',
         datePosted: '2021-12-23',
         dateSource: '2021-12-23',
@@ -19111,7 +19131,7 @@ export const posts = [
         title: 'Angular Dependency Injection Provider',
         url: 'https://medium.com/@mdabdulshahed/angular-dependency-injection-provider-63b746d4732',
         description:
-          'Before starting to read about DI providers, lets know what is Dependency Injection mechanism in Angular used for.\n\nAngular DI is a design pattern where a class requests for a service or dependencies from external resources rather than creating its own. If @Injectable()decorator is added above class with { providedIn: ‘root’ } object inside it, then it is added to the angular DI system which is visible throughout the application.When a class require a dependency it is injected inside its constructor as shown below.',
+          "Before starting to read about DI providers, lets know what is Dependency Injection mechanism in Angular used for.\n\nAngular DI is a design pattern where a class requests for a service or dependencies from external resources rather than creating its own. If @Injectable()decorator is added above class with { providedIn: 'root' } object inside it, then it is added to the angular DI system which is visible throughout the application.When a class require a dependency it is injected inside its constructor as shown below.",
         imgUrl: '2021-12-23-d.jpg',
         datePosted: '2021-12-23',
         dateSource: '2021-12-23',
@@ -19131,7 +19151,7 @@ export const posts = [
         title: 'Extending Angular CLI',
         url: 'https://blog.devgenius.io/extending-angular-cli-f8b1abeb612a',
         description:
-          "In enterprise Angular, there’s usually more to tooling than just Angular CLI. Many companies run code generators, mock servers and customized build pipelines.\n\nIt's usually package.json scripts that add this tooling on top of Angular CLI. But package.json scripts are missing out on a lot of what Angular CLI has to offer.",
+          "In enterprise Angular, there's usually more to tooling than just Angular CLI. Many companies run code generators, mock servers and customized build pipelines.\n\nIt's usually package.json scripts that add this tooling on top of Angular CLI. But package.json scripts are missing out on a lot of what Angular CLI has to offer.",
         imgUrl: '2021-12-23-e.jpg',
         datePosted: '2021-12-23',
         dateSource: '2021-12-23',
@@ -19304,7 +19324,7 @@ export const posts = [
         title: 'How to Create Library in Angular Tutorial',
         url: 'https://medium.com/@lavanya.kakimallaiah/how-to-create-library-in-angular-tutorial-ef66cdee0eb5',
         description:
-          'In this tutorial article, we’ll learn how we can create a library using Angular 9 and use it into the different Project.',
+          "In this tutorial article, we'll learn how we can create a library using Angular 9 and use it into the different Project.",
         imgUrl: '2021-12-25-a.jpg',
         datePosted: '2021-12-25',
         dateSource: '2021-12-25',
@@ -19538,7 +19558,7 @@ export const posts = [
         title: 'Angular — Getting Started !',
         url: 'https://medium.com/@ng_sujaydas/angular-getting-started-10a015abcf21',
         description:
-          'So lets address the elephant in the room. Angular!/n/nThe framework which everyone is scared of (well .. yeah ). You must have heard these phases out there, in the wild that Angular is tough, you can’t learn Angular, it’s not fun to learn Angular ( uffff ).',
+          "So lets address the elephant in the room. Angular!/n/nThe framework which everyone is scared of (well .. yeah ). You must have heard these phases out there, in the wild that Angular is tough, you can't learn Angular, it's not fun to learn Angular ( uffff ).",
         imgUrl: '2021-12-27-b.jpg',
         datePosted: '2021-12-27',
         dateSource: '2021-12-27',
@@ -19618,7 +19638,7 @@ export const posts = [
         title: 'How to set up TailwindCSS in Angular.',
         url: 'https://dev.to/uduakabaci/how-to-set-up-tailwindcss-in-angular-1ehi',
         description:
-          'TailwindCSS is one of the most loved CSS frameworks on the block and one of the reasons many people prefer TailwindCSS to the existing solutions is because, unlike other CSS frameworks, TailwindCSS is easy to pick up and allows for great customization. You can change just about anything in Tailwind by adding some configurations to the config file. This means that you don’t need to force changes to a class with important. If you don’t like something, you can replace it.\n\nIn this tutorial, I’ll show you how to add TailwindCSS to your Angular project, but before we get into that, let’s explore a bit about tailwind CSS.',
+          "TailwindCSS is one of the most loved CSS frameworks on the block and one of the reasons many people prefer TailwindCSS to the existing solutions is because, unlike other CSS frameworks, TailwindCSS is easy to pick up and allows for great customization. You can change just about anything in Tailwind by adding some configurations to the config file. This means that you don't need to force changes to a class with important. If you don't like something, you can replace it.\n\nIn this tutorial, I'll show you how to add TailwindCSS to your Angular project, but before we get into that, let's explore a bit about tailwind CSS.",
         imgUrl: '2021-12-27-f.jpg',
         datePosted: '2021-12-27',
         dateSource: '2021-12-27',
@@ -19809,7 +19829,7 @@ export const posts = [
           'Respond to Element Resizing in Angular Using the ResizeObserver',
         url: 'https://www.htmlgoodies.com/javascript/element-resizing-angular/',
         description:
-          'In Angular applications, when it comes to responding to changes in an element’s size, web developers have got a couple of choices: a) you can create a Resize Directive or b) you can use the ResizeObserver API. It provides a performant means to monitor an element for changes to its size, with notifications being delivered to the observer each time the size changes. This web development tutorial will cover how to import and work with the ResizeObserver within your Angular applications.',
+          "In Angular applications, when it comes to responding to changes in an element's size, web developers have got a couple of choices: a) you can create a Resize Directive or b) you can use the ResizeObserver API. It provides a performant means to monitor an element for changes to its size, with notifications being delivered to the observer each time the size changes. This web development tutorial will cover how to import and work with the ResizeObserver within your Angular applications.",
         imgUrl: '2021-12-28-d.jpg',
         datePosted: '2021-12-28',
         dateSource: '2021-12-28',
@@ -20021,7 +20041,7 @@ export const posts = [
           'Angular: How to Create Your Own Custom Reusable Dropdown with Text Wrapping Options',
         url: 'https://javascript.plainenglish.io/angular-creating-your-own-custom-reusable-dropdown-with-text-wrapping-options-18559f40c53e',
         description:
-          'Trying to wrap long text options into multiple lines in <select> tags has always been a futile experience. The regular <select> tag doesn’t provide text wrapping option by default.\n\nThere are libraries like Select2 which could provide this text-wrapping option by slightly tweaking the CSS, but installing a new module just for text-wrapping seems such a waste.',
+          "Trying to wrap long text options into multiple lines in <select> tags has always been a futile experience. The regular <select> tag doesn't provide text wrapping option by default.\n\nThere are libraries like Select2 which could provide this text-wrapping option by slightly tweaking the CSS, but installing a new module just for text-wrapping seems such a waste.",
         imgUrl: '2021-12-29-a.jpg',
         datePosted: '2021-12-29',
         dateSource: '2021-12-28',
@@ -20084,7 +20104,7 @@ export const posts = [
           'Reactive Programming Crash Course for Angular Baes - Jennifer Wadella - NDC Oslo 2021',
         url: 'https://www.youtube.com/watch?v=tspbnQB3hvA',
         description:
-          'JavaScript can be a scary place where we create and change variables at will and while code can be written very quickly, it can be side-effect prone and hard to debug & maintain down the line. In this talk we’ll explore the concepts of imperative vs. declarative code, and do a live demo of Reactive Programming using RxJS in Angular. No matter what the JavaScript framework flavor of choice is, a good understanding of reactive programming and state management helps us write better code that is more closely tied to business logic, is easier to read, easier to debug, and easier to scale.',
+          "JavaScript can be a scary place where we create and change variables at will and while code can be written very quickly, it can be side-effect prone and hard to debug & maintain down the line. In this talk we'll explore the concepts of imperative vs. declarative code, and do a live demo of Reactive Programming using RxJS in Angular. No matter what the JavaScript framework flavor of choice is, a good understanding of reactive programming and state management helps us write better code that is more closely tied to business logic, is easier to read, easier to debug, and easier to scale.",
         imgUrl: '2021-12-29-d.jpg',
         datePosted: '2021-12-29',
         dateSource: '2021-12-29',
@@ -20178,6 +20198,27 @@ export const posts = [
         speakers: ['Sukhminder Sandhu'],
         tags: ['Electron'],
       },
+      {
+        id: '29-i',
+        slug: '2021-12-29-i',
+        type: 'blog',
+        duration: '',
+        title: 'Angular UI/UX: Designing With A Framework',
+        url: 'https://www.forbes.com/sites/forbesagencycouncil/2021/12/28/angular-uiux-designing-with-a-framework/?sh=2c1d9d214dc0',
+        description:
+          'Web and app programming is never a still and static entity, but rather a fluid force that pushes for simpler yet effective modes for development. The development platform Angular is shifting the composition of user interface (UI) and user experience (UX) for innovative approaches in design and usability. We’ve fully embraced Angular in our own design agency, particularly with recent projects. The leeway that Angular allows, with rapid prototyping, opens up the possibility for our team to create a proof of concept with the same code without the need to rebuild what we’ve previously implemented for iterations. Angular allows for a robust approach that can further advance new ideas for added functionality.',
+        imgUrl: '2021-12-29-i.jpg',
+        datePosted: '2021-12-29',
+        dateSource: '2021-12-28',
+        postedBy: 'Steve Witman',
+        sourceSite: 'Forbes',
+        sourceUrl: 'https://www.forbes.com',
+        authorName: 'Goran Paun',
+        authorUrl:
+          'https://www.forbes.com/sites/forbesagencycouncil/people/goranpaunovic1/?sh=45544d137657',
+        speakers: ['Goran Paun'],
+        tags: [],
+      },
     ],
   },
   {
@@ -20252,7 +20293,7 @@ export const posts = [
         title: 'Angular Dependency Injection Provider',
         url: 'https://dev.to/mdabdulshahed/angular-dependency-injection-provider-44ga',
         description:
-          'Before starting to read about DI providers, lets know what is Dependency Injection mechanism in Angular used for.\n\nAngular DI is a design pattern where a class requests for a service or dependencies from external resources rather than creating its own. If @Injectable()decorator is added above class with { providedIn: ‘root’ } object inside it, then it is added to the angular DI system which is visible throughout the application.When a class require a dependency it is injected inside its constructor as shown below.',
+          "Before starting to read about DI providers, lets know what is Dependency Injection mechanism in Angular used for.\n\nAngular DI is a design pattern where a class requests for a service or dependencies from external resources rather than creating its own. If @Injectable()decorator is added above class with { providedIn: 'root' } object inside it, then it is added to the angular DI system which is visible throughout the application.When a class require a dependency it is injected inside its constructor as shown below.",
         imgUrl: '2021-12-30-d.jpg',
         datePosted: '2021-12-30',
         dateSource: '2021-12-30',
@@ -20286,10 +20327,32 @@ export const posts = [
         speakers: ['Abimael Barea'],
         tags: ['Components', 'Forms'],
       },
+      {
+        id: '30-f',
+        slug: '2021-12-30-f',
+        type: 'video',
+        duration: '8',
+        title:
+          'Reactive Forms Part 6 | Value changes of form control | Value changes Observable',
+        url: 'https://www.youtube.com/watch?v=rSVXNDsI6_w',
+        description:
+          'In this video, you will learn how to use value changes and purpose of value changes property over the form control in Reactive forms.',
+        imgUrl: '2021-12-30-f.jpg',
+        datePosted: '2021-12-30',
+        dateSource: '2021-12-30',
+        postedBy: 'Steve Witman',
+        sourceSite: 'YouTube',
+        sourceUrl: 'https://youtube.com',
+        authorName: 'TechshareSKK',
+        authorUrl:
+          'https://www.youtube.com/channel/UCD8gC85u512FeCFzRV4Ll-A/videos',
+        speakers: ['Sai Kumar Korthivada'],
+        tags: ['Forms', 'Reactive Forms', 'valueChanges'],
+      },
     ],
   },
   {
-    date: '2021-12-30',
+    date: '2021-12-31',
     dailyPosts: [
       {
         id: '31-a',
@@ -20456,6 +20519,266 @@ export const posts = [
         authorUrl: 'https://dev.to/railsstudent',
         speakers: ['Connie Leung'],
         tags: ['Modules'],
+      },
+    ],
+  },
+  {
+    date: '2022-01-01',
+    dailyPosts: [
+      {
+        id: '01-a',
+        slug: '2022-01-01-a',
+        type: 'video',
+        duration: '11',
+        title:
+          'Angular Unit testing- 24 | Unit testing Form Control valueChanges Property Reactive Forms | Part 6',
+        url: 'https://www.youtube.com/watch?v=RGNdT3vb4kM',
+        description:
+          'In this video, you will learn How to test angular valueChanges property of form control in reactive forms.',
+        imgUrl: '2022-01-01-a.jpg',
+        datePosted: '2022-01-01',
+        dateSource: '2022-01-01',
+        postedBy: 'Steve Witman',
+        sourceSite: 'YouTube',
+        sourceUrl: 'https://youtube.com',
+        authorName: 'TechshareSKK',
+        authorUrl:
+          'https://www.youtube.com/channel/UCD8gC85u512FeCFzRV4Ll-A/videos',
+        speakers: ['Sai Kumar Korthivada'],
+        tags: ['Testing', 'Forms', 'Reactive Forms', 'valueChanges'],
+      },
+      {
+        id: '01-b',
+        slug: '2022-01-01-b',
+        type: 'video',
+        duration: '36',
+        title: 'Angular Beginner to Advanced | Day 5 | WebAppUpgrade',
+        url: 'https://www.youtube.com/watch?v=yXfAU3dGvaU',
+        description:
+          'In five days take your Angular skills to the next level, from beginners to Advanced.',
+        imgUrl: '2022-01-01-b.jpg',
+        datePosted: '2022-01-01',
+        dateSource: '2021-12-31',
+        postedBy: 'Steve Witman',
+        sourceSite: 'YouTube',
+        sourceUrl: 'https://youtube.com',
+        authorName: 'The Web Dev',
+        authorUrl:
+          'https://www.youtube.com/channel/UCRf7mazcufqZxd2pR3oQJuQ/videos',
+        speakers: ['Nabendu Biswas'],
+        tags: [],
+      },
+      {
+        id: '01-c',
+        slug: '2022-01-01-c',
+        type: 'blog',
+        duration: '',
+        title: 'Creating custom pagination component with Angular',
+        url: 'https://medium.com/@kirill.kovzel/creating-custom-pagination-component-with-angular-9c6c93fdf0f0',
+        description:
+          "Pagination is undoubtedly one of the most popular approaches to dozed content representation. And it's absolutely fine to use some out-of-the-box solutions for it if your application uses some library like NgBootstrap or Material UI all round and the designs and functionality they provide is satisfactory to you.\n\nBut once you bump into the need of re-styling or customisation of it you usually may choose the way of creating a wrapping component which uses this out-of-the-box component inside and re-define its behaviour or styles by breaking original component encapsulation.",
+        imgUrl: '2022-01-01-c.jpg',
+        datePosted: '2022-01-01',
+        dateSource: '2022-01-01',
+        postedBy: 'Steve Witman',
+        sourceSite: 'DEV Community',
+        sourceUrl:
+          'https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc',
+        authorName: 'Kirill Kovzel',
+        authorUrl: 'https://medium.com/@kirill.kovzel',
+        speakers: ['Kirill Kovzel'],
+        tags: ['Pagination'],
+      },
+      {
+        id: '01-d',
+        slug: '2022-01-01-d',
+        type: 'video',
+        duration: '9',
+        title: 'HTTP Interceptor in angular',
+        url: 'https://www.youtube.com/watch?v=bMyP7WVmzbU',
+        description: '',
+        imgUrl: '2022-01-01-d.jpg',
+        datePosted: '2022-01-01',
+        dateSource: '2022-01-01',
+        postedBy: 'Steve Witman',
+        sourceSite: 'YouTube',
+        sourceUrl: 'https://youtube.com',
+        authorName: 'Vikas',
+        authorUrl: 'https://www.youtube.com/c/RealAppsniksviks/videos',
+        speakers: ['Vikas'],
+        tags: ['HTTP Inteceptors'],
+      },
+      {
+        id: '01-e',
+        slug: '2022-01-01-e',
+        type: 'video',
+        duration: '21',
+        title:
+          'LocalStorage, sessionStorage in ANGULAR | Local Storage with example.',
+        url: 'https://www.youtube.com/watch?v=HznHppdgBpA',
+        description:
+          'Creating a angular application. Create a component with a form if needed.  Create a click event to call and store data in localstorage and set the data.',
+        imgUrl: '2022-01-01-e.jpg',
+        datePosted: '2022-01-01',
+        dateSource: '2021-01-01',
+        postedBy: 'Steve Witman',
+        sourceSite: 'YouTube',
+        sourceUrl: 'https://youtube.com',
+        authorName: 'coding wall',
+        authorUrl:
+          'https://www.youtube.com/channel/UCxjJshhu0QBbztNZei4udOA/videos',
+        speakers: [],
+        tags: ['localStorage', 'sessionStorage'],
+      },
+      {
+        id: '01-f',
+        slug: '2022-01-01-f',
+        type: 'blog',
+        duration: '',
+        title: 'View Encapsulation in Angular',
+        url: 'https://makesh-kumar.medium.com/view-encapsulation-in-angular-fbebf7467072',
+        description:
+          'Encapsulation is one of the fundamental concepts in object-oriented programming (OOP). It defines the idea that all the data and methods that operate on that data are kept private or encapsulated in a single unit. It is like hiding the implementation detail from the outside world. The consumer of encapsulated object know that it works, but do not know how it works.',
+        imgUrl: '2022-01-01-f.jpg',
+        datePosted: '2022-01-01',
+        dateSource: '2022-01-01',
+        postedBy: 'Steve Witman',
+        sourceSite: 'Medium',
+        sourceUrl: 'https://medium.com/tag/angular/latest',
+        authorName: 'Makesh Kumar',
+        authorUrl: 'https://makesh-kumar.medium.com',
+        speakers: ['Makesh Kumar'],
+        tags: ['ViewEncapsulation'],
+      },
+      {
+        id: '01-g',
+        slug: '2022-01-01-g',
+        type: 'blog',
+        duration: '',
+        title: 'Custom Angular reactive form with SVG and clickable elements',
+        url: 'https://dev.to/hanneslim/how-to-build-a-custom-angular-reactive-svg-form-with-clickable-elements-1a5k',
+        description:
+          'During the Corona pandemic, many companies and employees discovered home office. As a result, it became apparent that not every employee required his own workstation. Instead, companies now offer a shared desk model. This means that employees flexibly share workstations. Often, you can reserve your desired workstation in advance. This workplace booking function has attracted me for some time. I find the possibility to create a Custom Reactive Form in Angular, which also includes an office plan, particularly interesting. In the Custom Angular Reactive SVG Form there is the possibility to select a workstation from the office plan and to mark it with a color. As soon as a workstation has been chosen, the form will be validated and the desk will be bookable. In the following the implementation is explained step by step.',
+        imgUrl: '2022-01-01-g.jpg',
+        datePosted: '2022-01-01',
+        dateSource: '2022-01-01',
+        postedBy: 'Steve Witman',
+        sourceSite: 'DEV Community',
+        sourceUrl:
+          'https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc',
+        authorName: 'hanneslim',
+        authorUrl: 'https://dev.to/hanneslim',
+        speakers: [],
+        tags: ['Forms', 'Reactive Forms'],
+      },
+    ],
+  },
+  {
+    date: '2022-01-02',
+    dailyPosts: [
+      {
+        id: '02-a',
+        slug: '2022-01-02-a',
+        type: 'blog',
+        duration: '',
+        title: 'Built-In Angular Pipes - Part 1',
+        url: 'https://dev.to/this-is-angular/built-in-angular-pipes-part-1-23ec',
+        description:
+          'Today we will be learning on a very important concept provided by Angular - Pipes. The main use of Pipe is to transform the appearance of the data before showing to the user. ',
+        imgUrl: '2022-01-02-a.jpg',
+        datePosted: '2022-01-02',
+        dateSource: '2022-01-02',
+        postedBy: 'Steve Witman',
+        sourceSite: 'DEV Community',
+        sourceUrl:
+          'https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc',
+        authorName: 'Anubhab Mukherjee',
+        authorUrl: 'https://dev.to/anubhab5',
+        speakers: ['Anubhab Mukherjee'],
+        tags: ['Pipes'],
+      },
+      {
+        id: '02-b',
+        slug: '2022-01-02-b',
+        type: 'video',
+        duration: '13',
+        title:
+          'Angular 13 new features | Micro Front End is coming | Angular 14 updates',
+        url: 'https://www.youtube.com/watch?v=FgItZM4yHvY',
+        description:
+          "Angular 13 has been released. Let’s have a look at the new in this Angular 13 tutorial. we'll learn what's the new feature of the angular 13 version. We will also talk about the Angular 14 updates and big news about the Micro Font End in the Angular framework.",
+        imgUrl: '2022-01-02-b.jpg',
+        datePosted: '2022-01-02',
+        dateSource: '2021-01-01',
+        postedBy: 'Steve Witman',
+        sourceSite: 'YouTube',
+        sourceUrl: 'https://youtube.com',
+        authorName: 'codeWithAmi',
+        authorUrl: 'https://www.youtube.com/c/codeWithAmi/videos',
+        speakers: [],
+        tags: [],
+      },
+      {
+        id: '02-c',
+        slug: '2022-01-02-c',
+        type: 'blog',
+        duration: '',
+        title:
+          'Firebase Authentication - Getting started with Firebase Authentication using Angular code example',
+        url: 'https://medium.com/@liatkomp/firebase-authentication-f0445ac732cb',
+        description:
+          "Website application development brings us many challenges. One of them is users' identity. Using Firebase Authentication makes this mission simpler, saves us a significant amount of time, and speeds up code implementation. This post will cover Firebase Authentication — how, when, and why to use Firebase Authentication.",
+        imgUrl: '2022-01-02-c.jpg',
+        datePosted: '2022-01-02',
+        dateSource: '2022-01-01',
+        postedBy: 'Steve Witman',
+        sourceSite: 'Medium',
+        sourceUrl: 'https://medium.com/tag/angular/latest',
+        authorName: 'Liat Kompas',
+        authorUrl: 'https://medium.com/@liatkomp',
+        speakers: ['Liat Kompas'],
+        tags: ['Firebase', 'Auth'],
+      },
+      {
+        id: '02-d',
+        slug: '2022-01-02-d',
+        type: 'video',
+        duration: '13',
+        title: 'Angular Material Cards Tutorial',
+        url: 'https://www.youtube.com/watch?v=R762IDrdxP0',
+        description:
+          'In this angular material tutorial you will learn How to use Angular Material Cards Tutorial',
+        imgUrl: '2022-01-02-d.jpg',
+        datePosted: '2022-01-02',
+        dateSource: '2022-01-02',
+        postedBy: 'Steve Witman',
+        sourceSite: 'YouTube',
+        sourceUrl: 'https://youtube.com',
+        authorName: 'AyyazTech',
+        authorUrl: 'https://www.youtube.com/c/AyyazTech/videos',
+        speakers: ['Ayyaz Zafar'],
+        tags: ['Angular Material'],
+      },
+      {
+        id: '02-e',
+        slug: '2022-01-02-e',
+        type: 'blog',
+        duration: '',
+        title:
+          'Animating a counter with Angular — Using requestAnimationFrame()',
+        url: 'https://medium.com/@MicBDev/animating-a-counter-with-angular-using-requestanimationframe-5e7b020aa3e',
+        description:
+          'Working on my last project, I had to come up with a series of four animated counters and I just couldn\'t resolve to import another *.js to my project for such a simple feature.',
+        imgUrl: '2022-01-02-e.jpg',
+        datePosted: '2022-01-02',
+        dateSource: '2022-01-02',
+        postedBy: 'Steve Witman',
+        sourceSite: 'Medium',
+        sourceUrl: 'https://medium.com/tag/angular/latest',
+        authorName: 'Mic B.',
+        authorUrl: 'https://medium.com/@MicBDev',
+        speakers: ['Mic B'],
+        tags: ['Animations', 'requestAnimationFrame'],
       },
     ],
   },

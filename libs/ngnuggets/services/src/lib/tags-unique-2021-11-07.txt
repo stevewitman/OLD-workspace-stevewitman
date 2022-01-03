@@ -228,7 +228,7 @@ Utility Types
 VSCode
 Validation
 VievChild
-View Encapsulation
+ViewEncapsulation
 Virtual Scroll
 Void Subject
 Web Sockets
