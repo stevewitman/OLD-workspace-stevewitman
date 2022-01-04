@@ -3,6 +3,7 @@
 @HostListener (decorator)
 @Input (decorator)
 @Inject (decorator)
+@Output (decorator)
 @ViewChild (decorator)
 @ViewChildren (decorator)
 AOT
@@ -151,7 +152,6 @@ Observables
 Observer
 Open Source
 Optional Modules
-Output Decorator
 PDF
 PWA
 Pagination
