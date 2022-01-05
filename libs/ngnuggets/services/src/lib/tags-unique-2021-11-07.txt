@@ -36,7 +36,8 @@ Button
 CDK
 CLI
 CORS
-CanActivate
+canActivate
+canDeactivate
 Capacitor
 Change Detection
 Checkbox
