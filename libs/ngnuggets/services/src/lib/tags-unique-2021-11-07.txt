@@ -76,6 +76,7 @@ Dynamic Factory
 ESLint
 Effects
 Electron
+ElementRef
 Enums
 Environments ['environment variables']
 Error Handling
@@ -91,6 +92,7 @@ FlexLayoutModule
 Form Fields
 FormArray
 FormControl
+FormGroup
 Forms
 Generics
 Generators 
@@ -139,6 +141,7 @@ Modules
 Navigation
 NestJS
 NextJS
+NgModules
 NgRX
 NgRX Entity
 NgRx
@@ -212,7 +215,6 @@ Subscriptions
 Tabs
 Tagged Union Types
 TailwindCSS
-Template Driven Forms
 Template-Driven Forms
 Testiing
 Testing

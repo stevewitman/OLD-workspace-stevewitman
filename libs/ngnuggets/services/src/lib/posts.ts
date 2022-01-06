@@ -1503,7 +1503,7 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'ng-conf',
   //       authorUrl: 'https://www.youtube.com/channel/UCm9iiIfgmVODUJxINecHQkA',
-  //       tags: ['Template Driven Forms'],
+  //       tags: ['Template-Driven Forms'],
   //     },
   //     {
   //       id: '13-e',
@@ -3993,7 +3993,7 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'ng-conf',
   //       authorUrl: 'https://www.youtube.com/channel/UCm9iiIfgmVODUJxINecHQkA',
-  //       tags: ['Forms', 'Template Driven Forms', 'Reactive Forms'],
+  //       tags: ['Forms', 'Template-Driven Forms', 'Reactive Forms'],
   //     },
   //     {
   //       id: '29-c',
@@ -6418,7 +6418,7 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'ng-conf',
   //       authorUrl: 'https://www.youtube.com/channel/UCm9iiIfgmVODUJxINecHQkA',
-  //       tags: ['TypeScript'],
+  //       tags: ['TypeScript', 'Template-Driven Forms],
   //     },
   //     {
   //       id: '15-e',
@@ -10621,7 +10621,7 @@ export const posts = [
   //       authorName: 'Gogetmyguru',
   //       authorUrl: 'https://www.youtube.com/c/Gogetmyguru/videos',
   //       speakers: [],
-  //       tags: ['Template Driven Forms'],
+  //       tags: ['Template-Driven Forms'],
   //     },
   //   ],
   // },
@@ -13396,7 +13396,7 @@ export const posts = [
   //       authorName: 'Rodrigo Kamada',
   //       authorUrl: 'https://dev.to/rodrigokamada',
   //       speakers: ['Rodrigo Kamada'],
-  //       tags: ['Forms', 'Validation'],
+  //       tags: ['Forms', 'Template-Driven Forms', 'Validation'],
   //     },
   //     {
   //       id: '22-j',
@@ -20476,7 +20476,7 @@ export const posts = [
         authorName: 'GaurangDhorda',
         authorUrl: 'https://dev.to/aakashgoplani',
         speakers: ['Gaurang Dhorda'],
-        tags: [],
+        tags: ['Forms', 'Template-Driven Forms'],
       },
       {
         id: '31-g',
@@ -21264,15 +21264,281 @@ export const posts = [
       },
     ],
   },
+  {
+    date: '2022-01-05',
+    dailyPosts: [
+      {
+        id: '05-A',
+        slug: '2022-01-05-A',
+        type: 'blog',
+        duration: '',
+        title: 'Content Projection in Angular',
+        url: 'https://www.thisdot.co/blog/content-projection-in-angular',
+        description:
+          "Imagine yourself at a movie theater. No matter what theater you go to, or what movie you see, you'll notice some very similar things - most notably, the large screen the movie plays on. This screen is an excellent example of a reusable object - it can show any movie projected onto it! The screen doesn't need to know the details of the movie it's playing - all it does is show whatever content is projected onto it.\n\nThis is a similar idea to how content projection works in web development! Today, we'll go over what content projection looks like and how you can use it to make components that are reusable and less tied to the data they display.\n\nWe'll be using Angular for these examples, but any framework you'd like to use likely has a way to do this as well!",
+        imgUrl: '2022-01-05-A.jpg',
+        datePosted: '2022-01-05',
+        dateSource: '2022-01-04',
+        postedBy: 'Steve Witman',
+        sourceSite: 'This Dot Labs',
+        sourceUrl: 'https://www.thisdot.co/blog',
+        authorName: 'Linda Thompson',
+        authorUrl: 'https://www.thisdot.co/author/linda-thompson',
+        speakers: ['Linda Thompson'],
+        tags: ['Content Projection', 'ng-content'],
+      },
+      {
+        id: '05-B',
+        slug: '2022-01-05-B',
+        type: 'video',
+        duration: '21',
+        title: 'Angular - ViewChild',
+        url: 'https://www.youtube.com/watch?v=E-1hyj_Cjr8',
+        description: '',
+        imgUrl: '2022-01-05-B.jpg',
+        datePosted: '2022-01-05',
+        dateSource: '2022-01-04',
+        postedBy: 'Steve Witman',
+        sourceSite: 'YouTube',
+        sourceUrl: 'https://youtube.com',
+        authorName: 'Krishna Chaitanya Tech Center',
+        authorUrl:
+          'https://www.youtube.com/channel/UC6hjO6A1FvKKfMlAA7EOJDA/videos',
+        speakers: [],
+        tags: ['ViewChild'],
+      },
+      {
+        id: '05-C',
+        slug: '2022-01-05-C',
+        type: 'video',
+        duration: '21',
+        title: 'Angular - Global Error Handler Service',
+        url: 'https://www.youtube.com/watch?v=JJ-0FtaySPY',
+        description: '',
+        imgUrl: '2022-01-05-C.jpg',
+        datePosted: '2022-01-05',
+        dateSource: '2022-01-04',
+        postedBy: 'Steve Witman',
+        sourceSite: 'YouTube',
+        sourceUrl: 'https://youtube.com',
+        authorName: 'Krishna Chaitanya Tech Center',
+        authorUrl:
+          'https://www.youtube.com/channel/UC6hjO6A1FvKKfMlAA7EOJDA/videos',
+        speakers: [],
+        tags: ['Services'],
+      },
+      {
+        id: '05-D',
+        slug: '2022-01-05-D',
+        type: 'video',
+        duration: '31',
+        title: 'How to Make Responsive Header In Angular',
+        url: 'https://www.youtube.com/watch?v=gg0-WMVQbdQ',
+        description:
+          'In this video I have shown how to make Responsive Header in Angular.',
+        imgUrl: '2022-01-05-D.jpg',
+        datePosted: '2022-01-05',
+        dateSource: '2022-01-04',
+        postedBy: 'Steve Witman',
+        sourceSite: 'YouTube',
+        sourceUrl: 'https://youtube.com',
+        authorName: 'Creative Developer',
+        authorUrl: 'https://www.youtube.com/c/CreativeDeveloper/videos',
+        speakers: [],
+        tags: [],
+      },
+      {
+        id: '05-E',
+        slug: '2022-01-05-E',
+        type: 'blog',
+        duration: '',
+        title:
+          '[Angular] Why using ElementRef to manipulate DOM is no more a good idea!',
+        url: 'https://sushantmakin.medium.com/angular-why-using-elementref-to-manipulate-dom-is-no-more-a-good-idea-f79ae29b6d74',
+        description:
+          'One of the benefits that frameworks like Angular & React provide us over the regular HTML-JS solutions is an easier, better & faster DOM Manipulation. DOM is basically an API that is used to interface the document with. If you want to change any HTML element on the page, you can interact with the DOM API.',
+        imgUrl: '2022-01-05-E.jpg',
+        datePosted: '2022-01-05',
+        dateSource: '2022-01-05',
+        postedBy: 'Steve Witman',
+        sourceSite: 'Medium',
+        sourceUrl: 'https://medium.com/tag/angular/latest',
+        authorName: 'Sushant Makin',
+        authorUrl: 'https://sushantmakin.medium.com/',
+        speakers: ['Sushant Makin'],
+        tags: ['ElementRef'],
+      },
+      {
+        id: '05-F',
+        slug: '2022-01-05-F',
+        type: 'blog',
+        duration: '',
+        title: 'Angular product viewer.',
+        url: 'https://medium.com/@akleshsiingh/angular-product-viewer-f2ad59cf69c',
+        description:
+          'I am going to keep as as simple as i can, few days back i dive into a product page and i needed to create product viewer for this website and just for fun i thought to create this feature natively, without using any external libraries.\n\nImage viewer features, Use can see and select different thumbs, On selecting any thumbnail, use can see enlarged selected images by hovering over selected image.',
+        imgUrl: '2022-01-05-F.jpg',
+        datePosted: '2022-01-05',
+        dateSource: '2022-01-05',
+        postedBy: 'Steve Witman',
+        sourceSite: 'Medium',
+        sourceUrl: 'https://medium.com/tag/angular/latest',
+        authorName: 'Aklesh Singh',
+        authorUrl: 'https://medium.com/@akleshsiingh',
+        speakers: ['Aklesh Singh'],
+        tags: [],
+      },
+      {
+        id: '05-G',
+        slug: '2022-01-05-G',
+        type: 'video',
+        duration: '4',
+        title: 'ces in Angular',
+        url: 'https://www.youtube.com/watch?v=G3crnOmiSg4',
+        description:
+          'In this video, we take a look at how to use setters to automatically run some logic when an input to an Angular component changes.',
+        imgUrl: '2022-01-05-G.jpg',
+        datePosted: '2022-01-05',
+        dateSource: '2022-01-05',
+        postedBy: 'Steve Witman',
+        sourceSite: 'YouTube',
+        sourceUrl: 'https://youtube.com',
+        authorName: 'Joshua Morony',
+        authorUrl: 'https://www.youtube.com/c/CreativeDeveloper/videos',
+        speakers: ['Joshua Morony'],
+        tags: ['RxJS', 'Observables', '@Input'],
+      },
+      {
+        id: '05-H',
+        slug: '2022-01-05-H',
+        type: 'blog',
+        duration: '',
+        title: 'Angular/Karma unit tests: An error was thrown in afterAll',
+        url: 'https://medium.com/@moritz.benzenhoefer/angular-karma-unit-tests-an-error-was-thrown-in-afterall-a2ae8dd279fd',
+        description:
+          'When testing your angular application you might already have experienced this error within your test runs: An error was thrown in afterAll',
+        imgUrl: '2022-01-05-H.jpg',
+        datePosted: '2022-01-05',
+        dateSource: '2022-01-05',
+        postedBy: 'Steve Witman',
+        sourceSite: 'Medium',
+        sourceUrl: 'https://medium.com/tag/angular/latest',
+        authorName: 'Moritz Benzenhöfer',
+        authorUrl: 'https://medium.com/@moritz.benzenhoefer',
+        speakers: ['Moritz Benzenhöfer'],
+        tags: ['Testing'],
+      },
+      {
+        id: '05-J',
+        slug: '2022-01-05-J',
+        type: 'blog',
+        duration: '',
+        title:
+          'How to Use Angular FormArray(s) within FormGroup(s) In Reactive Forms',
+        url: 'https://dontpaniclabs.com/blog/post/2022/01/05/how-to-use-angular-formarrays-within-formgroups-in-reactive-forms/',
+        description:
+          'Are you trying to use a FormArray on a dynamic/reactive Angular Form, but it is not working? This should help you solve your problem.',
+        imgUrl: '2022-01-05-J.jpg',
+        datePosted: '2022-01-05',
+        dateSource: '2022-01-05',
+        postedBy: 'Steve Witman',
+        sourceSite: 'Medium',
+        sourceUrl: 'https://dontpaniclabs.com/blog',
+        authorName: 'Chris Niemann',
+        authorUrl: 'https://dontpaniclabs.com/blog/post/author/cniemann/',
+        speakers: ['Chris Niemann'],
+        tags: ['Forms', 'Reactive Forms', 'FormArray', 'FormGroup'],
+      },
+      {
+        id: '05-K',
+        slug: '2022-01-05-K',
+        type: 'video',
+        duration: '81',
+        title: 'Use Dynamic Components in Angular - Part 3 - Writing forms',
+        url: 'https://www.youtube.com/watch?v=Qjq1vS4D6bs',
+        description: '',
+        imgUrl: '2022-01-05-K.jpg',
+        datePosted: '2022-01-05',
+        dateSource: '2022-01-05',
+        postedBy: 'Steve Witman',
+        sourceSite: 'YouTube',
+        sourceUrl: 'https://youtube.com',
+        authorName: 'Good Coding',
+        authorUrl:
+          'https://www.youtube.com/channel/UC3KizHS6zTsP-Es-kBz36Hw/videos',
+        speakers: [],
+        tags: ['Components', 'Forms'],
+      },
+      {
+        id: '05-L',
+        slug: '2022-01-05-L',
+        type: 'blog',
+        duration: '',
+        title:
+          "How to Build a Micro Frontend with Webpack's Module Federation Plugin",
+        url: 'https://dev.to/bitovi/how-to-build-a-micro-frontend-with-webpacks-module-federation-plugin-n41',
+        description:
+          'Here is a quick intro to the Module Federation Plugin, followed by detailed step-by-step instructions on how to implement it in an actual application.',
+        imgUrl: '2022-01-05-L.jpg',
+        datePosted: '2022-01-05',
+        dateSource: '2022-01-05',
+        postedBy: 'Steve Witman',
+        sourceSite: 'DEV Community',
+        sourceUrl:
+          'https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc',
+        authorName: 'Idris Shedu',
+        authorUrl: 'https://dev.to/ishedu',
+        speakers: ['Idris Shedu'],
+        tags: ['Micro Frontends', 'Module Federation'],
+      },
+      {
+        id: '05-M',
+        slug: '2022-01-05-M',
+        type: 'blog',
+        duration: '',
+        title: 'Getting rid of NgModule in Angular',
+        url: 'https://medium.com/@antmihlin/getting-rid-of-ngmodule-in-angular-javascript-43fd510779bc',
+        description:
+          'Working many years with angular I found it hard to create the structure of a project. The main reason for that struggle lay behind the way Angular interacts with components and modules. The following article explains what is the issue with NgModule and whether is going to change in the foreseeable future.',
+        imgUrl: '2022-01-05-M.jpg',
+        datePosted: '2022-01-05',
+        dateSource: '2022-01-05',
+        postedBy: 'Steve Witman',
+        sourceSite: 'Medium',
+        sourceUrl: 'https://dontpaniclabs.com/blog',
+        authorName: 'Anton Mihlin',
+        authorUrl: 'https://medium.com/@antmihlin',
+        speakers: ['Anton Mihlin'],
+        tags: ['NgModules'],
+      },
+    ],
+  },
 ];
-// sept 9 2021 https://dev.to/orahul1/angular-mouse-events-41l9
-//  2021 https://anchor.fm/angular-master/episodes/AMP-20-Successful-Company-with-Angular-in-Background-by-Greg-Radzio-e1cas10
 
 
 
 
-// L https://www.youtube.com/watch?v=41fe14lhfBs
-// M https://dev.to/rodrigokamada/adding-the-progressive-web-application-pwa-to-an-angular-application-4g1e
+
+// 01-05 A https://www.telerik.com/blogs/angular-basics-introduction-observables-rxjs-part-1
+
+
+
+
+
+// $$$$$$$$$$ sept 9 2021 https://dev.to/orahul1/angular-mouse-events-41l9
+// $$$$$$$$$$ 2021 https://anchor.fm/angular-master/episodes/AMP-20-Successful-Company-with-Angular-in-Background-by-Greg-Radzio-e1cas10
+// 12/16 https://www.thisdot.co/blog/creating-custom-sync-validators-in-angular-reactive-forms
+// 12/14 https://www.thisdot.co/blog/using-custom-async-validators-in-angular-reactive-forms
+// 12/14 https://www.thisdot.co/blog/state-of-angular-ecosystem-or-december-2021
+// 12/13 https://www.thisdot.co/blog/how-to-write-a-custom-structural-directive-in-angular-part-2
+// 11/29 https://www.thisdot.co/blog/improving-angular-ngfor-using-trackbyid-directive
+// 11/23 https://www.thisdot.co/blog/angular-cdk-sorting-items-using-drag-and-drop
+// 11/22 https://www.thisdot.co/blog/getting-started-with-custom-structural-directives-in-angular
+// 11/09 https://www.thisdot.co/blog/connecting-to-pokeapi-with-angular-and-apollo-client
+// 11/01 https://www.thisdot.co/blog/state-of-angular-or-october-2021
+// 10/14 https://www.thisdot.co/blog/how-to-integrate-web-components-using-lit-in-angular
+// 9/9 https://www.thisdot.co/blog/getting-authenticated-images-in-angular
+
 
 
 
