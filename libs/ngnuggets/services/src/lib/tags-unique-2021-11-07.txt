@@ -48,7 +48,7 @@ ComponentStore
 Components
 Container Presenter
 Content Projection
-Control Value Accessors
+ControlContainer
 ControlValueAccessor
 Cookies
 Component Harness
@@ -100,6 +100,7 @@ Getters/Setters
 GitHub Actions
 Github Pages
 Google
+Google Analytics
 Google Chart
 Google Maps
 Google Pay

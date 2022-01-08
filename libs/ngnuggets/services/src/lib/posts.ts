@@ -21513,16 +21513,247 @@ export const posts = [
       },
     ],
   },
+  {
+    date: '2022-01-06',
+    dailyPosts: [
+      {
+        id: '06-A',
+        slug: '2022-01-06-A',
+        type: 'blog',
+        duration: '',
+        title: 'Angular Basics: Introduction to Observables (RxJS)—Part 1',
+        url: 'https://www.telerik.com/blogs/angular-basics-introduction-observables-rxjs-part-1',
+        description:
+          'In the first article of two parts, we’ll cover the basics of observables, observers and RxJS.',
+        imgUrl: '2022-01-06-A.jpg',
+        datePosted: '2022-01-06',
+        dateSource: '2022-01-05',
+        postedBy: 'Steve Witman',
+        sourceSite: 'Progress Telerik',
+        sourceUrl: 'https://www.telerik.com/blogs',
+        authorName: 'Ashnita Bali',
+        authorUrl: 'https://www.telerik.com/blogs/author/ashnita-bali',
+        speakers: ['Ashnita Bali'],
+        tags: ['RxJS', 'Observables'],
+      },
+      {
+        id: '06-B',
+        slug: '2022-01-06-B',
+        type: 'blog',
+        duration: '',
+        title: "Angular Universal: Do and Don't",
+        url: 'https://medium.com/@leandromerli/angular-universal-do-and-dont-c34ba07ef480',
+        description:
+          "Angular Universal can be described as the process of rendering your application to HTML on the Server (ie: Node.js) aka server-side rendering (SSR), as opposed to typical Angular applications such as Single-Page Applications (SPA's) where the rendering occurs on the Browser, a process that can also be referred to as client-side rendering (CSR).",
+        imgUrl: '2022-01-06-B.jpg',
+        datePosted: '2022-01-06',
+        dateSource: '2022-01-05',
+        postedBy: 'Steve Witman',
+        sourceSite: 'Medium',
+        sourceUrl: 'https://dontpaniclabs.com/blog',
+        authorName: 'Leandro Merli',
+        authorUrl: 'https://medium.com/@leandromerli',
+        speakers: ['Leandro Merli'],
+        tags: ['Angular Universal'],
+      },
+      {
+        id: '06-C',
+        slug: '2022-01-06-C',
+        type: 'video',
+        duration: '6',
+        title: 'RxJS Tutorial For Beginners #18 - Distinct Operator Tutorial',
+        url: 'https://www.youtube.com/watch?v=QrIheZ1kbuo',
+        description: 'Angular RxJS Distinct operator tutorial.',
+        imgUrl: '2022-01-06-C.jpg',
+        datePosted: '2022-01-06',
+        dateSource: '2022-01-06',
+        postedBy: 'Steve Witman',
+        sourceSite: 'YouTube',
+        sourceUrl: 'https://youtube.com',
+        authorName: 'ARC Tutorials',
+        authorUrl: 'https://www.youtube.com/c/ARCTutorials/videos',
+        speakers: [],
+        tags: ['RxJS', 'distinct'],
+      },
+      {
+        id: '06-D',
+        slug: '2022-01-06-D',
+        type: 'podcast',
+        duration: '56',
+        title: 'Episode 165: Setting up Enterprise Frontend for Success',
+        url: 'https://webrush.io/episodes/episode-165-setting-up-enterprise-frontend-for-success',
+        description:
+          'Alex Okrushko talks with us about his recommended 9 ways to setting app development up for front end success, including monorepos, feature flagging, trunk based development, better PRs, automatic help, testing, feature plans, and daily releases.',
+        imgUrl: '2022-01-06-D.jpg',
+        datePosted: '2022-01-16',
+        dateSource: '2022-01-16',
+        postedBy: 'Steve Witman',
+        sourceSite: 'Web Rush',
+        sourceUrl: 'https://webrush.io',
+        authorName: 'Alex Okrushko',
+        authorUrl: 'https://twitter.com/alexokrushko',
+        speakers: ['Alex Okrushko'],
+        tags: [],
+      },
+      {
+        id: '06-E',
+        slug: '2022-01-06-E',
+        type: 'video',
+        duration: '19',
+        title: 'Projecting content in Angular, by Paulo Souza',
+        url: 'https://www.youtube.com/watch?v=uxQQpjNJJ8k',
+        description:
+          "A short introduction to one of Angular's most often confusing topics for beginners: content projection. This is a powerful feature of the framework that allows for great flexibility in customizing and composing components. We'll see how to use content tags to project one or more child components into their parent, how template references work, and how to use them effectively.",
+        imgUrl: '2022-01-06-E.jpg',
+        datePosted: '2022-01-06',
+        dateSource: '2022-01-06',
+        postedBy: 'Steve Witman',
+        sourceSite: 'YouTube',
+        sourceUrl: 'https://youtube.com',
+        authorName: 'Codeminer42',
+        authorUrl: 'https://www.youtube.com/c/Codeminer42TV/videos',
+        speakers: ['Paulo Souza'],
+        tags: [
+          'Content Projection',
+          '@ContentChild',
+          'ng-content',
+          'ng-container',
+          'ng-template',
+          'ngTemplateOutlet',
+        ],
+      },
+      {
+        id: '06-F',
+        slug: '2022-01-06-F',
+        type: 'blog',
+        duration: '',
+        title:
+          'Turn your Single Page Application into an Artifact with Azure DevOps',
+        url: 'https://dev.to/blairlierman/turn-your-single-page-application-into-an-artifact-with-azure-devops-4a05',
+        description:
+          'In order to use the output from a build in Azure DevOps later, you need to publish it as a Build Artifact. This article will show you how to configure that.  This examples uses an Angular based Single Page Application (SPA) build using the Nx monorepo tools, however the general process can be applied to any SPA framework once you know the build commands.',
+        imgUrl: '2022-01-06-F.jpg',
+        datePosted: '2022-01-06',
+        dateSource: '2022-01-06',
+        postedBy: 'Steve Witman',
+        sourceSite: 'DEV Community',
+        sourceUrl:
+          'https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc',
+        authorName: 'Blair Lierman',
+        authorUrl: 'https://dev.to/blairlierman',
+        speakers: ['Blair Lierman'],
+        tags: ['Azure'],
+      },
+      {
+        id: '06-G',
+        slug: '2022-01-06-G',
+        type: 'blog',
+        duration: '',
+        title: 'Application Structure and Best Practices Of Angular — Part 2',
+        url: 'https://medium.com/nonstopio/application-structure-and-best-practices-of-angular-part-2-e00a80f5483b',
+        description:
+          'This is part 2 of Angular best practices, in the first part we learn about Angular CLI, modular structure of Angular application, lazy loading, and lifecycle hooks of angular (detailed story here).\n\nIn this part, we will look into the folder structure and nomenclature, coding styles of Angular applications. For a better understanding of code, we need this thing in our life.',
+        imgUrl: '2022-01-06-G.jpg',
+        datePosted: '2022-01-06',
+        dateSource: '2022-01-06',
+        postedBy: 'Steve Witman',
+        sourceSite: 'Medium',
+        sourceUrl: 'https://dontpaniclabs.com/blog',
+        authorName: 'Ankita Joshi',
+        authorUrl: 'https://medium.com/@ankita.joshi_64658',
+        speakers: ['Ankita Joshi'],
+        tags: ['Architecture'],
+      },
+      {
+        id: '06-H',
+        slug: '2022-01-06-H',
+        type: 'blog',
+        duration: '',
+        title: 'Angular & Google Analytics — The Complete Guide',
+        url: 'https://dkreider.medium.com/angular-google-analytics-the-complete-guide-6518736096a0',
+        description: 'https://dkreider.medium.com',
+        imgUrl: '2022-01-06-H.jpg',
+        datePosted: '2022-01-06',
+        dateSource: '2022-01-06',
+        postedBy: 'Steve Witman',
+        sourceSite: 'Medium',
+        sourceUrl: 'https://dontpaniclabs.com/blog',
+        authorName: 'Daniel Kreider',
+        authorUrl: 'https://dkreider.medium.com',
+        speakers: ['Daniel Kreider'],
+        tags: ['Google Analytics'],
+      },
+      {
+        id: '06-J',
+        slug: '2022-01-06-J',
+        type: 'blog',
+        duration: '',
+        title: "You shouldn't use EventEmitters in Angular services",
+        url: 'https://dev.to/geromegrignon/you-shouldnt-use-eventemitters-in-angular-services-8fa',
+        description:
+          'By reviewing Angular code daily through mentoring or community support, I happen to find EventEmitters being used in Angular services.',
+        imgUrl: '2022-01-06-J.jpg',
+        datePosted: '2022-01-06',
+        dateSource: '2022-01-06',
+        postedBy: 'Steve Witman',
+        sourceSite: 'DEV Community',
+        sourceUrl:
+          'https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc',
+        authorName: 'Gérôme Grignon',
+        authorUrl: 'https://dev.to/geromegrignon',
+        speakers: ['Gérôme Grignon'],
+        tags: ['Services', 'EventEmitter'],
+      },
+      {
+        id: '06-K',
+        slug: '2022-01-06-K',
+        type: 'blog',
+        duration: '',
+        title: 'Split Complex Forms in Angular with ControlContainer',
+        url: 'https://medium.com/@talhakhalid101/splitting-complex-forms-in-angular-with-controlcontainer-6903b4f2e592',
+        description:
+          'Developing complex forms can become a challenging task, especially when we need to deal with a lot of validation and component reuse. In Angular, we have Reactive Forms that provide several tools to deal with these situations, and within this package, we have the ControlContainer, a class that helps to better manage our forms.',
+        imgUrl: '2022-01-06-K.jpg',
+        datePosted: '2022-01-06',
+        dateSource: '2022-01-06',
+        postedBy: 'Steve Witman',
+        sourceSite: 'Medium',
+        sourceUrl: 'https://dontpaniclabs.com/blog',
+        authorName: 'Talha Khaild',
+        authorUrl: 'https://medium.com/@talhakhalid101',
+        speakers: ['Talha Khaild'],
+        tags: ['Forms'],
+      },
+    ],
+  },
+  {
+    date: '2022-01-07',
+    dailyPosts: [],
+  },
 ];
 
 
+// 9am E https://www.youtube.com/watch?v=uxQQpjNJJ8k
+// 10am F https://dev.to/blairlierman/turn-your-single-page-application-into-an-artifact-with-azure-devops-4a05
+// G https://dkreider.medium.com/angular-google-analytics-the-complete-guide-6518736096a0
+// H https://medium.com/@olagokemills/authenticating-your-angular-app-with-azure-a907117e811b
+
+// J duplicate???  https://dev.to/geromegrignon/you-shouldnt-use-eventemitters-in-angular-services-8fa
+// K https://medium.com/nonstopio/application-structure-and-best-practices-of-angular-part-2-e00a80f5483b
+// L https://medium.com/@talhakhalid101/splitting-complex-forms-in-angular-with-controlcontainer-6903b4f2e592
 
 
 
-// 01-05 A https://www.telerik.com/blogs/angular-basics-introduction-observables-rxjs-part-1
+/////////////////////
 
 
-
+//  12am https://youtu.be/G4B8LrAK3dw?t=5
+// 1am https://dev.to/zwacky/interface-vs-type-alias-in-typescript-quick-comparison-2g37
+// 1am https://poub330.medium.com/discover-angular-by-practicing-a926b0e8d01
+// 6am https://medium.com/@MicBDev/angular-modules-part-1-understanding-ngmodule-6155c7038fd5
+// 7am https://dev-mauricioalexandre.medium.com/angular-electron-c29fa60341f9
+// noon https://www.youtube.com/watch?v=KRM4cQdw3j0
+  // 2pm https://www.youtube.com/watch?v=byhDwknIrCA
 
 
 // $$$$$$$$$$ sept 9 2021 https://dev.to/orahul1/angular-mouse-events-41l9
