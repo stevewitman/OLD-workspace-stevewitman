@@ -1,5 +1,6 @@
 // import { Post } from './post';
 
+import { MESSAGES_CONTAINER_ID } from "@angular/cdk/a11y";
 import { applySourceSpanToExpressionIfNeeded } from "@angular/compiler/src/output/output_ast";
 import { ɵinitServicesIfNeeded } from "@angular/core";
 import { AngularFireModule } from "@angular/fire";
@@ -21443,7 +21444,7 @@ export const posts = [
         dateSource: '2022-01-05',
         postedBy: 'Steve Witman',
         sourceSite: 'Medium',
-        sourceUrl: 'https://dontpaniclabs.com/blog',
+        sourceUrl: 'https://medium.com/tag/angular/latest',
         authorName: 'Chris Niemann',
         authorUrl: 'https://dontpaniclabs.com/blog/post/author/cniemann/',
         speakers: ['Chris Niemann'],
@@ -21505,7 +21506,7 @@ export const posts = [
         dateSource: '2022-01-05',
         postedBy: 'Steve Witman',
         sourceSite: 'Medium',
-        sourceUrl: 'https://dontpaniclabs.com/blog',
+        sourceUrl: 'https://medium.com/tag/angular/latest',
         authorName: 'Anton Mihlin',
         authorUrl: 'https://medium.com/@antmihlin',
         speakers: ['Anton Mihlin'],
@@ -21550,7 +21551,7 @@ export const posts = [
         dateSource: '2022-01-05',
         postedBy: 'Steve Witman',
         sourceSite: 'Medium',
-        sourceUrl: 'https://dontpaniclabs.com/blog',
+        sourceUrl: 'https://medium.com/tag/angular/latest',
         authorName: 'Leandro Merli',
         authorUrl: 'https://medium.com/@leandromerli',
         speakers: ['Leandro Merli'],
@@ -21658,7 +21659,7 @@ export const posts = [
         dateSource: '2022-01-06',
         postedBy: 'Steve Witman',
         sourceSite: 'Medium',
-        sourceUrl: 'https://dontpaniclabs.com/blog',
+        sourceUrl: 'https://medium.com/tag/angular/latest',
         authorName: 'Ankita Joshi',
         authorUrl: 'https://medium.com/@ankita.joshi_64658',
         speakers: ['Ankita Joshi'],
@@ -21677,7 +21678,7 @@ export const posts = [
         dateSource: '2022-01-06',
         postedBy: 'Steve Witman',
         sourceSite: 'Medium',
-        sourceUrl: 'https://dontpaniclabs.com/blog',
+        sourceUrl: 'https://medium.com/tag/angular/latest',
         authorName: 'Daniel Kreider',
         authorUrl: 'https://dkreider.medium.com',
         speakers: ['Daniel Kreider'],
@@ -21718,7 +21719,7 @@ export const posts = [
         dateSource: '2022-01-06',
         postedBy: 'Steve Witman',
         sourceSite: 'Medium',
-        sourceUrl: 'https://dontpaniclabs.com/blog',
+        sourceUrl: 'https://medium.com/tag/angular/latest',
         authorName: 'Talha Khaild',
         authorUrl: 'https://medium.com/@talhakhalid101',
         speakers: ['Talha Khaild'],
@@ -21728,32 +21729,640 @@ export const posts = [
   },
   {
     date: '2022-01-07',
+    dailyPosts: [
+      {
+        id: '07-A',
+        slug: '2022-01-07-A',
+        type: 'podcast',
+        duration: '50',
+        title: 'PWAs ft. Patricio Vargas',
+        url: 'https://adventuresinangular.com/pwas-ft-patricio-vargas',
+        description:
+          'Ever feel like a damsel in distress held captive by app limitations? Never fear! In this episode, Charles and Sani sit down with Patricio Vargas, a software developer who’s an expert on PWA’s and enriching the customer experience. They cover why PWA’s have “superpowers”, a user statistic that will scare the connection issues right out of you, and why Clubhouse fell from grace (and what others apps can learn from it).',
+        imgUrl: '2022-01-07-A.jpg',
+        datePosted: '2022-01-07',
+        dateSource: '2022-01-06',
+        postedBy: 'Steve Witman',
+        sourceSite: 'Devchat.tv',
+        sourceUrl: 'https://devchat.tv',
+        authorName: 'Adventures In Angular',
+        authorUrl: 'https://devchat.tv/show/adventures-in-angular/',
+        speakers: ['Patricio Vargas'],
+        tags: ['PWAs'],
+      },
+      {
+        id: '07-B',
+        slug: '2022-01-07-B',
+        type: 'video',
+        duration: '12',
+        title:
+          'How to implement time-based caching using HTTP Interceptor in Angular',
+        url: 'https://youtu.be/G4B8LrAK3dw?t=5',
+        description:
+          'Implementing time-based caching in Angular using HTTP Interceptor is simple and easy. This post shows step by step process of creating simple caching logic for all outgoing HTTP GET API calls.',
+        imgUrl: '2022-01-07-B.jpg',
+        datePosted: '2022-01-07',
+        dateSource: '2022-01-07',
+        postedBy: 'Steve Witman',
+        sourceSite: 'YouTube',
+        sourceUrl: 'https://youtube.com',
+        authorName: 'Learn Smart Coding',
+        authorUrl:
+          'https://www.youtube.com/channel/UCKUxSY2xp12QiP3c60sOc-g/videos',
+        speakers: [],
+        tags: ['HTTP Interceptor'],
+      },
+      {
+        id: '07-C',
+        slug: '2022-01-07-C',
+        type: 'blog',
+        duration: '',
+        title: 'Interface vs Type Alias in TypeScript—Quick Comparison',
+        url: 'https://dev.to/zwacky/interface-vs-type-alias-in-typescript-quick-comparison-2g37',
+        description:
+          "This can be confusing for anyone working with TypeScript—beginner or seasoned programmer. Both ways can cover similar needs.\n\nIn this post you'll quickly see what Typescript feature is possible to implement as Type Alias or Interface. I stayed brief and spicy to give the post an overview character.",
+        imgUrl: '2022-01-07-C.jpg',
+        datePosted: '2022-01-07',
+        dateSource: '2022-01-07',
+        postedBy: 'Steve Witman',
+        sourceSite: 'DEV Community',
+        sourceUrl:
+          'https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc',
+        authorName: 'Simon Wicki',
+        authorUrl: 'https://dev.to/zwacky',
+        speakers: ['Simon Wicki'],
+        tags: ['TypeScript'],
+      },
+      {
+        id: '07-D',
+        slug: '2022-01-07-D',
+        type: 'blog',
+        duration: '',
+        title: 'Angular by practicing',
+        url: 'https://poub330.medium.com/discover-angular-by-practicing-a926b0e8d01',
+        description:
+          'I use all the best practices:\n- business code in the services\n- typing with TypeScript\n- use of reactive programming with RxJS\n- the decomposition of the functionality in several web components (divide and conquer) to facilitate maintenance, testing, reusability….',
+        imgUrl: '2022-01-07-D.jpg',
+        datePosted: '2022-01-07',
+        dateSource: '2022-01-07',
+        postedBy: 'Steve Witman',
+        sourceSite: 'Medium',
+        sourceUrl: 'https://medium.com/tag/angular/latest',
+        authorName: 'nuke',
+        authorUrl: 'https://poub330.medium.com',
+        speakers: [],
+        tags: [],
+      },
+      {
+        id: '07-E',
+        slug: '2022-01-07-E',
+        type: 'blog',
+        duration: '',
+        title: 'Angular Modules part 1 — Understanding NgModule',
+        url: 'https://medium.com/@MicBDev/angular-modules-part-1-understanding-ngmodule-6155c7038fd5',
+        description:
+          'This article is the first of a series about in depth understanding of Angular Modules and details introduction concepts. The next two articles are discussing feature modules and optimizing your application with lazy loading.',
+        imgUrl: '2022-01-07-E.jpg',
+        datePosted: '2022-01-07',
+        dateSource: '2022-01-07',
+        postedBy: 'Steve Witman',
+        sourceSite: 'Medium',
+        sourceUrl: 'https://medium.com/tag/angular/latest',
+        authorName: 'Mic B',
+        authorUrl: 'https://medium.com/@MicBDev',
+        speakers: ['Mic B'],
+        tags: ['NgModules'],
+      },
+      {
+        id: '07-F',
+        slug: '2022-01-07-F',
+        type: 'video',
+        duration: '69',
+        title: '',
+        url: 'https://www.youtube.com/watch?v=KRM4cQdw3j0',
+        description: '',
+        imgUrl: '2022-01-07-F.jpg',
+        datePosted: '2022-01-07',
+        dateSource: '2022-01-07',
+        postedBy: 'Steve Witman',
+        sourceSite: 'YouTube',
+        sourceUrl: 'https://youtube.com',
+        authorName: 'AngularAir',
+        authorUrl: 'https://www.youtube.com/c/AngularAirPodcast/videos',
+        speakers: ['Zack DeRose', 'Justin Schwartzenberger', 'Mike Brocci'],
+        tags: [],
+      },
+      {
+        id: '07-G',
+        slug: '2022-01-07-G',
+        type: 'video',
+        duration: '56',
+        title:
+          'Angular team plays game and answers your questions LIVE | January 2022',
+        url: 'https://youtu.be/byhDwknIrCA?t=22',
+        description:
+          'Join members of the Angular team as we play some games and answer your questions. See you there!',
+        imgUrl: '2022-01-07-G.jpg',
+        datePosted: '2022-01-07',
+        dateSource: '2022-01-07',
+        postedBy: 'Steve Witman',
+        sourceSite: 'YouTube',
+        sourceUrl: 'https://youtube.com',
+        authorName: 'Angular',
+        authorUrl: 'https://www.youtube.com/c/Angular/videos',
+        speakers: ['Mark Thompson', 'Jeremy Elbourn'],
+        tags: [],
+      },
+    ],
+  },
+  {
+    date: '2022-01-08',
+    dailyPosts: [
+      {
+        id: '08-A',
+        slug: '2022-01-08-A',
+        type: 'video',
+        duration: '6',
+        title: 'View Encapsulation - How it works!',
+        url: 'https://www.youtube.com/watch?v=7OvZJE7s45U',
+        description: '',
+        imgUrl: '2022-01-08-A.jpg',
+        datePosted: '2022-01-08',
+        dateSource: '2022-01-07',
+        postedBy: 'Steve Witman',
+        sourceSite: 'YouTube',
+        sourceUrl: 'https://youtube.com',
+        authorName: 'WebTechTalk',
+        authorUrl: 'https://www.youtube.com/c/WebTechTalk/videos',
+        speakers: [],
+        tags: ['View Encapsulation'],
+      },
+      {
+        id: '08-B',
+        slug: '2022-01-08-B',
+        type: 'video',
+        duration: '9',
+        title: 'How to read text file from Firebase Storage in Angular 12',
+        url: 'https://www.youtube.com/watch?v=bkevSDy0oKI',
+        description:
+          'This video is to solve problem we are facing while trying to read text file from Firebase Storage in Angular.',
+        imgUrl: '2022-01-08-B.jpg',
+        datePosted: '2022-01-08',
+        dateSource: '2022-01-08',
+        postedBy: 'Steve Witman',
+        sourceSite: 'YouTube',
+        sourceUrl: 'https://youtube.com',
+        authorName: 'CodingError',
+        authorUrl:
+          'https://www.youtube.com/channel/UCVMIOmbu8I5ac6Pbm44_W-g/videos',
+        speakers: [],
+        tags: ['Firebase'],
+      },
+      {
+        id: '08-C',
+        slug: '2022-01-08-C',
+        type: 'blog',
+        duration: '',
+        title: 'How to Deploy Angular Universal on AWS Elastic Beanstalk',
+        url: 'https://mehulkothari05.medium.com/deploy-angular-universal-on-aws-elastic-beanstalk-14dcc44d960b',
+        description:
+          'While working on a project I spent a lot of time deploying Angular Universal to a server for server-side rendering. I read all the tutorials I found, and all Stackoverflow questions on this topic. It was probably the most frustrating experience I ever had in coding. From time to time AWS updates its documentation and there we are stuck following old tutorials and ending up something which doesn’t exist or is no longer supported.',
+        imgUrl: '2022-01-08-C.jpg',
+        datePosted: '2022-01-08',
+        dateSource: '2022-01-08',
+        postedBy: 'Steve Witman',
+        sourceSite: 'Medium',
+        sourceUrl: 'https://medium.com/tag/angular/latest',
+        authorName: 'Mehul Kothari',
+        authorUrl: 'https://mehulkothari05.medium.com',
+        speakers: ['Mehul Kothari'],
+        tags: ['Angular Universal'],
+      },
+      {
+        id: '08-D',
+        slug: '2022-01-08-D',
+        type: 'video',
+        duration: '73',
+        title:
+          'Realtime/Live Chat App | v0.1.0 | NestJS & Angular & Socket.io & Docker',
+        url: 'https://www.youtube.com/watch?v=A3KwfVMQMNI&t=1485s',
+        description: '',
+        imgUrl: '2022-01-08-D.jpg',
+        datePosted: '2022-01-08',
+        dateSource: '2022-01-08',
+        postedBy: 'Steve Witman',
+        sourceSite: 'YouTube',
+        sourceUrl: 'https://youtube.com',
+        authorName: 'Thomas Oliver',
+        authorUrl:
+          'https://www.youtube.com/channel/UCTZMwW4pq_B-o_KkpCtotGw/videos',
+        speakers: ['Thomas Oliver'],
+        tags: [],
+      },
+      {
+        id: '08-E',
+        slug: '2022-01-08-E',
+        type: 'blog',
+        duration: '',
+        title:
+          'Building a MicroFrontend setup using Angular 12 — Part 1: The Project Setup',
+        url: 'https://medium.com/@cardoz.jonathan/building-a-microfrontend-setup-using-angular-12-part-1-the-project-setup-e8f033ad6df6',
+        description:
+          "Disclaimer: This is my first set of articles on Medium and since I haven't blogged or written anything (other than social media posts or restaurant reviews) for a couple of years, please bear with me. Comments are welcome.\n\nI hope this set of articles helps you in understanding Micro Frontends (referred to as MFEs from now on), to setup your project and not make the same set of mistakes that my team and I did.",
+        imgUrl: '2022-01-08-E.jpg',
+        datePosted: '2022-01-08',
+        dateSource: '2022-01-08',
+        postedBy: 'Steve Witman',
+        sourceSite: 'Medium',
+        sourceUrl: 'https://medium.com/tag/angular/latest',
+        authorName: 'Jonathan Cardoz',
+        authorUrl: 'https://medium.com/@cardoz.jonathan',
+        speakers: ['Jonathan Cardoz'],
+        tags: ['Micro Frontends'],
+      },
+      {
+        id: '08-F',
+        slug: '2022-01-08-F',
+        type: 'blog',
+        duration: '',
+        title: 'Built-In Angular Pipes - Part 4',
+        url: 'https://dev.to/this-is-angular/built-in-angular-pipes-part-4-3cg3',
+        description:
+          'Today we will continue to learn the built in Angular pipes. Pipes covered in this post - JsonPipe, KeyValuePipe',
+        imgUrl: '2022-01-08-F.jpg',
+        datePosted: '2022-01-08',
+        dateSource: '2022-01-08',
+        postedBy: 'Steve Witman',
+        sourceSite: 'DEV Community',
+        sourceUrl:
+          'https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc',
+        authorName: 'Anubhab Mukherjee',
+        authorUrl: 'https://dev.to/anubhab5',
+        speakers: ['Anubhab Mukherjee'],
+        tags: ['Pipes'],
+      },
+      {
+        id: '08-G',
+        slug: '2022-01-08-G',
+        type: 'blog',
+        duration: '',
+        title: 'Difference between (change) and (ngModelChange) in Angular',
+        url: 'https://kkirtigoel01.medium.com/difference-between-change-and-ngmodelchange-in-angular-1ee9f8dcbcde',
+        description:
+          'In this post I am going to cover the difference between (change) and (ngModelChange) events with an <input> inside an Angular component.',
+        imgUrl: '2022-01-08-G.jpg',
+        datePosted: '2022-01-08',
+        dateSource: '2022-01-08',
+        postedBy: 'Steve Witman',
+        sourceSite: 'Medium',
+        sourceUrl: 'https://medium.com/tag/angular/latest',
+        authorName: 'Kirti Goel',
+        authorUrl: 'https://kkirtigoel01.medium.com',
+        speakers: ['Kirti Goel'],
+        tags: ['change', 'ngModelChange'],
+      },
+      {
+        id: '08-H',
+        slug: '2022-01-08-H',
+        type: 'video',
+        duration: '9',
+        title: '98. Angular Project Tutorial - Restricted Word Validations',
+        url: 'https://www.youtube.com/watch?v=6Ic7sLEAe4M',
+        description:
+          'Restricted Word Validations explained in detail with example.',
+        imgUrl: '2022-01-08-H.jpg',
+        datePosted: '2022-01-08',
+        dateSource: '2022-01-08',
+        postedBy: 'Steve Witman',
+        sourceSite: 'YouTube',
+        sourceUrl: 'https://youtube.com',
+        authorName: 'Prince Harsha',
+        authorUrl:
+          'https://www.youtube.com/channel/UC_0jKHC_1o1djPkumW5HYHw/videos',
+        speakers: ['Prince Harsha'],
+        tags: ['Validation'],
+      },
+    ],
+  },
+  {
+    date: '2022-01-09',
+    dailyPosts: [
+      {
+        id: '09-A',
+        slug: '2022-01-09-A',
+        type: 'blog',
+        duration: '',
+        title: 'BehaviorSubject practical use case',
+        url: 'https://medium.com/@sudhakarsp06/behaviorsubject-practical-use-case-3c0a34d8912f',
+        description:
+          'Today we are going to see a practical use case of BehaviourSubject. Before we step into the use case let me give you a quick introduction to the BehaviourSubject.',
+        imgUrl: '2022-01-09-A.jpg',
+        datePosted: '2022-01-09',
+        dateSource: '2022-01-09',
+        postedBy: 'Steve Witman',
+        sourceSite: 'Medium',
+        sourceUrl: 'https://medium.com/tag/angular/latest',
+        authorName: 'Sudhakar Pilavadi',
+        authorUrl: 'https://medium.com/@sudhakarsp06',
+        speakers: ['Sudhakar Pilavadi'],
+        tags: ['BehaviorSubject'],
+      },
+      {
+        id: '09-B',
+        slug: '2022-01-09-B',
+        type: 'blog',
+        duration: '',
+        title:
+          'Simple configuration hacks to improve unit test case performance using Jasmine and Karma in Angular',
+        url: 'https://dev.to/aakashgoplani/simple-configuration-hacks-to-improve-unit-test-case-performance-using-jasmine-and-karma-in-angular-25io',
+        description:
+          'Headless Chrome is a way to run the Chrome browser in a headless environment without the full browser UI. One of the benefits of using Headless Chrome (as opposed to testing directly in Node) is that your JavaScript tests will be executed in the same environment as users of your site. Headless Chrome gives you a real browser context without the memory overhead of running a full version of Chrome.',
+        imgUrl: '2022-01-09-B.jpg',
+        datePosted: '2022-01-09',
+        dateSource: '2022-01-09',
+        postedBy: 'Steve Witman',
+        sourceSite: 'DEV Community',
+        sourceUrl:
+          'https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc',
+        authorName: 'Aakash Goplani',
+        authorUrl: 'https://dev.to/aakashgoplani',
+        speakers: ['Aakash Goplani'],
+        tags: ['Testing', 'Jasmine', 'Karma'],
+      },
+
+      {
+        id: '09-C',
+        slug: '2022-01-09-C',
+        type: 'blog',
+        duration: '',
+        title: 'Creating Custom Pipe in Angular',
+        url: 'https://dev.to/this-is-angular/creating-custom-pipe-in-angular-2pam',
+        description:
+          'Today we will learn how to create our own Pipe or the Custom Pipe. If you are unaware about what a Pipe is in Angular then I would recommend you to go through the previous articles I wrote on Pipe.',
+        imgUrl: '2022-01-09-C.jpg',
+        datePosted: '2022-01-09',
+        dateSource: '2022-01-09',
+        postedBy: 'Steve Witman',
+        sourceSite: 'DEV Community',
+        sourceUrl:
+          'https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc',
+        authorName: 'Anubhab Mukherjee',
+        authorUrl: 'https://dev.to/anubhab5',
+        speakers: ['Anubhab Mukherjee'],
+        tags: ['Pipes'],
+      },
+      {
+        id: '09-D',
+        slug: '2022-01-09-D',
+        type: 'blog',
+        duration: '',
+        title: 'ng-zoom — My first Angular library (Image zoom on click)',
+        url: 'https://dev.to/carlosdubon/ng-zoom-my-first-angular-library-3o9e',
+        description:
+          'A couple of days ago I was trying to implement “zoom on (click)” for the profile picture in my Angular project OctoProfile (a fancier way to look at GitHub profiles).',
+        imgUrl: '2022-01-09-D.jpg',
+        datePosted: '2022-01-09',
+        dateSource: '2022-01-09',
+        postedBy: 'Steve Witman',
+        sourceSite: 'DEV Community',
+        sourceUrl:
+          'https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc',
+        authorName: 'Carlos Dubón',
+        authorUrl: 'https://dev.to/carlosdubon',
+        speakers: ['Carlos Dubón'],
+        tags: ['Library'],
+      },
+      {
+        id: '09-E',
+        slug: '2022-01-09-E',
+        type: 'video',
+        duration: '7',
+        title:
+          'Angular Unit testing- 25 | Unit testing Form Control markAsTouched method Reactive Forms | Part 7',
+        url: 'https://www.youtube.com/watch?v=49CIHR2CLQ4',
+        description:
+          'In this video, you will learn How to test angular markAsTouched method of form control in reactive forms.',
+        imgUrl: '2022-01-09-E.jpg',
+        datePosted: '2022-01-09',
+        dateSource: '2022-01-09',
+        postedBy: 'Steve Witman',
+        sourceSite: 'YouTube',
+        sourceUrl: 'https://youtube.com',
+        authorName: 'TechshareSKK',
+        authorUrl:
+          'https://www.youtube.com/channel/UCD8gC85u512FeCFzRV4Ll-A/videos',
+        speakers: ['Sai Kumar Korthivada'],
+        tags: ['Testing', 'Forms', 'Reactive Forms'],
+      },
+      {
+        id: '09-F',
+        slug: '2022-01-09-F',
+        type: 'video',
+        duration: '3',
+        title: 'Auto convert input field text to uppercase in Angular',
+        url: 'https://www.youtube.com/watch?v=j54uJQUWkNk',
+        description:
+          "In this video you will learn to auto convert users input to Uppercase letters in using Angular's features..",
+        imgUrl: '2022-01-09-F.jpg',
+        datePosted: '2022-01-09',
+        dateSource: '2022-01-09',
+        postedBy: 'Steve Witman',
+        sourceSite: 'YouTube',
+        sourceUrl: 'https://youtube.com',
+        authorName: 'E 4 E-Learning',
+        authorUrl: 'https://www.youtube.com/user/E4ELearning/videos',
+        speakers: [],
+        tags: [],
+      },
+      {
+        id: '09-G',
+        slug: '2022-01-09-G',
+        type: 'video',
+        duration: '8',
+        title:
+          'RxJS Tutorial For Beginners #21 - Max Operator Tutorial | Angular RxJS Tutorials',
+        url: 'https://www.youtube.com/watch?v=XZ46ePejrWw',
+        description: 'Angular RxJS max operator tutorial',
+        imgUrl: '2022-01-09-G.jpg',
+        datePosted: '2022-01-09',
+        dateSource: '2022-01-09',
+        postedBy: 'Steve Witman',
+        sourceSite: 'YouTube',
+        sourceUrl: 'https://youtube.com',
+        authorName: 'ARC Tutorials',
+        authorUrl: 'https://www.youtube.com/c/ARCTutorials/videos',
+        speakers: [],
+        tags: ['RxJS'],
+      },
+      {
+        id: '09-H',
+        slug: '2022-01-09-H',
+        type: 'blog',
+        duration: '',
+        title: 'How to sanitize your urls in Angular',
+        url: 'https://dev.to/codever/how-to-sanitize-your-urls-in-angular-2127',
+        description:
+          'On Codever you can backup your bookmarks and snippets. When backing up you are presented a dialog where you can choose to display the items in browser. For that we use a blob URL we know for sure it is safe.',
+        imgUrl: '2022-01-09-H.jpg',
+        datePosted: '2022-01-09',
+        dateSource: '2022-01-09',
+        postedBy: 'Steve Witman',
+        sourceSite: 'DEV Community',
+        sourceUrl:
+          'https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc',
+        authorName: 'Adrian Matei',
+        authorUrl: 'https://dev.to/ama',
+        speakers: ['Adrian Matei'],
+        tags: ['Sanitization'],
+      },
+    ],
+  },
+  {
+    date: '2022-01-10',
+    dailyPosts: [
+      {
+        id: '10-A',
+        slug: '2022-01-10-A',
+        type: 'video',
+        duration: '24',
+        title: 'Angular Standalone Components and their Impact on Modularity',
+        url: 'https://www.youtube.com/watch?v=rproG1_TCek',
+        description:
+          'How will Standalone Components/Optional NgModules affect our application and will they have an impact on modularity?',
+        imgUrl: '2022-01-10-A.jpg',
+        datePosted: '2022-01-10',
+        dateSource: '2022-01-10',
+        postedBy: 'Steve Witman',
+        sourceSite: 'YouTube',
+        sourceUrl: 'https://youtube.com',
+        authorName: 'Rainer Hahnekamp',
+        authorUrl: 'https://www.youtube.com/c/RainerHahnekamp/videos',
+        speakers: ['Rainer Hahnekamp'],
+        tags: ['Standalone Components', 'NgModules', 'Nx'],
+      },
+    ],
+  },
+  {
+    date: '2022-01-11',
+    dailyPosts: [],
+  },
+  {
+    date: '2022-01-12',
     dailyPosts: [],
   },
 ];
 
+// ########## 01-10
 
-// 9am E https://www.youtube.com/watch?v=uxQQpjNJJ8k
-// 10am F https://dev.to/blairlierman/turn-your-single-page-application-into-an-artifact-with-azure-devops-4a05
-// G https://dkreider.medium.com/angular-google-analytics-the-complete-guide-6518736096a0
-// H https://medium.com/@olagokemills/authenticating-your-angular-app-with-azure-a907117e811b
+//  6pm       https://medium.com/@ayush.b.1998/a-sweet-introduction-to-ngrx-angular-419f5e15d768
+//  5am       https://www.spreaker.com/user/14532324/s1e29-mark-thompson-on-balancing-family-?utm_campaign=episode-title&utm_medium=app&utm_source=widget
+//  7am       https://dev.to/klodianshaba/ngxa-library-3k4p
+// 7am        https://www.youtube.com/watch?v=AF9wxhwW0sg
+// 8am        https://www.youtube.com/watch?v=txfi4waUDbU
+// 8am         https://www.youtube.com/watch?v=GAjGIBi_xt4
+// 8am         https://www.youtube.com/watch?v=B31VR33e0Kk
+// 9am        https://dev.to/rfornal/angularcommon-functions-kog
+// 3pm        https://netbasal.com/time-for-a-quick-er-cypress-visit-in-angular-d7d0faebfabc
+// 
 
-// J duplicate???  https://dev.to/geromegrignon/you-shouldnt-use-eventemitters-in-angular-services-8fa
-// K https://medium.com/nonstopio/application-structure-and-best-practices-of-angular-part-2-e00a80f5483b
-// L https://medium.com/@talhakhalid101/splitting-complex-forms-in-angular-with-controlcontainer-6903b4f2e592
+// -------------------------- YOUTUBE ---------------------------
+      // {
+      //   id: '09-A',
+      //   slug: '2022-01-09-A',
+      //   type: 'video',
+      //   duration: '9999999',
+      //   title: '',
+      //   url: '',
+      //   description: '',
+      //   imgUrl: '2022-01-09-A.jpg',
+      //   datePosted: '2022-01-09',
+      //   dateSource: '2022-01-09',
+      //   postedBy: 'Steve Witman',
+      //   sourceSite: 'YouTube',
+      //   sourceUrl: 'https://youtube.com',
+      //   authorName: '',
+      //   authorUrl: '',
+      //   speakers: [],
+      //   tags: [],
+      // },
+
+      // -------------------------- DEV ---------------------------
+      // {
+      //   id: '09-A',
+      //   slug: '2022-01-09-A',
+      //   type: 'blog',
+      //   duration: '',
+      //   title: '',
+      //   url: '',
+      //   description: '',
+      //   imgUrl: '2022-01-09-A.jpg',
+      //   datePosted: '2022-01-09',
+      //   dateSource: '2022-01-09',
+      //   postedBy: 'Steve Witman',
+      //   sourceSite: 'DEV Community',
+      //   sourceUrl:
+      //     'https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc',
+      //   authorName: '',
+      //   authorUrl: '',
+      //   speakers: [],
+      //   tags: [],
+      // },
+
+      // -------------------------- MEDIUM ---------------------------
+      // {
+      //   id: '09-A',
+      //   slug: '2022-01-09-A',
+      //   type: 'blog',
+      //   duration: '',
+      //   title: '',
+      //   url: '',
+      //   description: '',
+      //   imgUrl: '2022-01-09-A.jpg',
+      //   datePosted: '2022-01-09',
+      //   dateSource: '2022-01-09',
+      //   postedBy: 'Steve Witman',
+      //   sourceSite: 'Medium',
+      //   sourceUrl: 'https://medium.com/tag/angular/latest',
+      //   authorName: '',
+      //   authorUrl: '',
+      //   speakers: [],
+      //   tags: [],
+      // },
 
 
 
-/////////////////////
+  ////////////////////////////
 
 
-//  12am https://youtu.be/G4B8LrAK3dw?t=5
-// 1am https://dev.to/zwacky/interface-vs-type-alias-in-typescript-quick-comparison-2g37
-// 1am https://poub330.medium.com/discover-angular-by-practicing-a926b0e8d01
-// 6am https://medium.com/@MicBDev/angular-modules-part-1-understanding-ngmodule-6155c7038fd5
-// 7am https://dev-mauricioalexandre.medium.com/angular-electron-c29fa60341f9
-// noon https://www.youtube.com/watch?v=KRM4cQdw3j0
-  // 2pm https://www.youtube.com/watch?v=byhDwknIrCA
+//  ////////////////////////////
+// ########## 01-11
+// 10p https://www.youtube.com/watch?v=V2D7U37wh3o
+// 10p https://www.youtube.com/watch?v=8ze1qjU-oXE
+// 2a https://www.youtube.com/watch?v=Qg9Y2Mv2I2M
+// 4a https://medium.com/@MicBDev/angular-modules-part-2-discovering-feature-modules-e1a63e4ab1f7
+// 6a https://medium.com/@alexonozor/disabling-form-controls-when-working-with-reactive-forms-in-angular-fd651524e
+// 8a https://dev.to/shhdharmen/angular-material-menu-nested-menu-using-dynamic-data-1nfm
+// https://blog.angular.io/discontinued-long-term-support-for-angularjs-cc066b82e65a
+//
+
+//  ////////////////////////////
+// ########## 01-12
+// 9pm https://mtda.medium.com/deploy-an-angular-application-to-firebase-hosting-with-github-actions-6a9735e14660
+// 10p https://www.youtube.com/watch?v=w8xbZREwHco
+
+// 2am https://thesiddharthraghuvanshi.medium.com/configuring-environment-variables-in-angular-angular-environment-38bd35309b51
+// 3am https://medium.com/@shoaibgeniuswork/how-to-add-unique-username-validator-in-angular-forms-8581d418b589
+// https://www.youtube.com/watch?v=XBaGOKtaEvM 
+// https://www.telerik.com/blogs/angular-basics-introduction-observables-rxjs-part-2
+
+// https://github.com/angular/angular/releases/tag/13.1.2
+// https://github.com/angular/angular/releases/tag/13.2.0-next.2
+
+
+
+
+
+//  ////////////////////////////
 
 
 // $$$$$$$$$$ sept 9 2021 https://dev.to/orahul1/angular-mouse-events-41l9
@@ -21774,3 +22383,21 @@ export const posts = [
 
 
 
+// ADGJMPSVYBEHKNQTWZCFILORUX
+
+
+// MENTOR
+// Showing up on time?
+// Committing to the full time?
+// Are they prepared with content if that is what is agreed on?
+
+
+
+
+// MENTEE
+// Need to be prepared with an agenda
+// Take notes during session
+// Review notes after the session and add clarifing notes or more questions
+// Practice between sessions
+// Follow up with emails/messages
+// Come in with specific questions
