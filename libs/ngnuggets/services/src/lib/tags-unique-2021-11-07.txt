@@ -106,13 +106,12 @@ Google Maps
 Google Pay
 GraphQL
 HttpClient
-HTTP Interceptors
+HttpInterceptor  
 Hasura
 Hot Module Replacement
 Hot vs Cold
 Infinite Scroll
 InjectionToken
-Interceptors
 Interfaces
 Internationalization
 Intersection Observer
@@ -160,7 +159,6 @@ Optional Modules
 PDF
 PWA
 Pagination
-Paginator
 Path Mapping
 Path Parameters
 Performance

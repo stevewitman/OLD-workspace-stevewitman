@@ -7989,7 +7989,7 @@ export const posts = [
   //         'https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc',
   //       authorName: 'bob.js',
   //       authorUrl: 'https://dev.to/rfornal',
-  //       tags: ['Interceptors'],
+  //       tags: ['HttpInterceptor'],
   //     },
   //     {
   //       id: '25-g',
@@ -8736,7 +8736,7 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'ng-conf',
   //       authorUrl: 'https://www.youtube.com/c/ngconfonline/videos',
-  //       tags: ['HTTP Interceptors'],
+  //       tags: ['HttpInterceptor'],
   //     },
   //     {
   //       id: '29-h',
@@ -14498,7 +14498,7 @@ export const posts = [
         authorName: 'Learning Partner',
         authorUrl: 'https://www.youtube.com/c/LearningPartnerDigital/videos',
         speakers: [],
-        tags: [],
+        tags: ['HttpInterceptor'],
       },
       {
         id: '30-h',
@@ -20607,7 +20607,7 @@ export const posts = [
         authorName: 'Vikas',
         authorUrl: 'https://www.youtube.com/c/RealAppsniksviks/videos',
         speakers: ['Vikas'],
-        tags: ['HTTP Inteceptors'],
+        tags: ['HttpInterceptor'],
       },
       {
         id: '01-e',
@@ -20776,7 +20776,7 @@ export const posts = [
         postedBy: 'Steve Witman',
         sourceSite: 'Medium',
         sourceUrl: 'https://medium.com/tag/angular/latest',
-        authorName: 'Mic B.',
+        authorName: 'Mic B',
         authorUrl: 'https://medium.com/@MicBDev',
         speakers: ['Mic B'],
         tags: ['Animations', 'requestAnimationFrame'],
@@ -21770,7 +21770,7 @@ export const posts = [
         authorUrl:
           'https://www.youtube.com/channel/UCKUxSY2xp12QiP3c60sOc-g/videos',
         speakers: [],
-        tags: ['HTTP Interceptor'],
+        tags: ['HttpInterceptor'],
       },
       {
         id: '07-C',
@@ -22223,13 +22223,33 @@ export const posts = [
       {
         id: '10-A',
         slug: '2022-01-10-A',
+        type: 'blog',
+        duration: '',
+        title: 'A sweet Introduction to NgRx Angular',
+        url: 'https://medium.com/@ayush.b.1998/a-sweet-introduction-to-ngrx-angular-419f5e15d768',
+        description:
+          "Well, I thought of writing this article after facing a plethora of hurdles in understanding what is the use of NgRx and how does it actually work behind the scenes ? I couldn't find the direct answer anywhere so had to spend a lot time and this article is a simple and easy introduction of NgRX. In the next article we'll be playing around with the code. Let's start :)",
+        imgUrl: '2022-01-10-A.jpg',
+        datePosted: '2022-01-10',
+        dateSource: '2022-01-09',
+        postedBy: 'Steve Witman',
+        sourceSite: 'Medium',
+        sourceUrl: 'https://medium.com/tag/angular/latest',
+        authorName: 'Ayush Bhardwaj',
+        authorUrl: 'https://medium.com/@ayush.b.1998',
+        speakers: ['Ayush Bhardwaj'],
+        tags: ['NgRx'],
+      },
+      {
+        id: '10-B',
+        slug: '2022-01-10-B',
         type: 'video',
         duration: '24',
         title: 'Angular Standalone Components and their Impact on Modularity',
         url: 'https://www.youtube.com/watch?v=rproG1_TCek',
         description:
           'How will Standalone Components/Optional NgModules affect our application and will they have an impact on modularity?',
-        imgUrl: '2022-01-10-A.jpg',
+        imgUrl: '2022-01-10-B.jpg',
         datePosted: '2022-01-10',
         dateSource: '2022-01-10',
         postedBy: 'Steve Witman',
@@ -22240,43 +22260,314 @@ export const posts = [
         speakers: ['Rainer Hahnekamp'],
         tags: ['Standalone Components', 'NgModules', 'Nx'],
       },
+      {
+        id: '10-C',
+        slug: '2022-01-10-C',
+        type: 'podcast',
+        duration: '59',
+        title: 'S1E29 | Mark Thompson on Balancing Family With Work',
+        url: 'https://www.spreaker.com/user/14532324/s1e29-mark-thompson-on-balancing-family-?utm_campaign=episode-title&utm_medium=app&utm_source=widget',
+        description:
+          "In today's episode of NgXP, we have a transparent conversation with Google Developer Relations Engineer Mark Thompson about finding balance between your work and family life. After discussing common beliefs and obstacles that've created disparities between work and family life, Mark then shares what he's done to overcome them. He rounds off the discussion by talking about how you can recognize shortcomings in your life and how to pivot to work through them.",
+        imgUrl: '2022-01-10-C.jpg',
+        datePosted: '2022-01-10',
+        dateSource: '2022-01-10',
+        postedBy: 'Steve Witman',
+        sourceSite: 'Spreaker',
+        sourceUrl: 'https://spreaker.com',
+        authorName: 'Angular Experience',
+        authorUrl: 'https://angular-experience.web.app/episodes',
+        speakers: ['Mark Thompson'],
+        tags: [],
+      },
+      {
+        id: '10-D',
+        slug: '2022-01-10-D',
+        type: 'blog',
+        duration: '',
+        title: 'NGXA Library',
+        url: 'https://dev.to/klodianshaba/ngxa-library-3k4p',
+        description:
+          'So excited to announce another one open source contribution of me. With purpose of helping me and anyone else on using Angular Animations.\n\nAnimations are one of the essential UI trends of any modern website/application, they create the effect of real “live” communication between users and the system.\n\nSo to build animations easy and reusing single style code I created Ngxa.',
+        imgUrl: '2022-01-10-D.jpg',
+        datePosted: '2022-01-10',
+        dateSource: '2022-01-10',
+        postedBy: 'Steve Witman',
+        sourceSite: 'DEV Community',
+        sourceUrl:
+          'https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc',
+        authorName: 'klodian shaba',
+        authorUrl: 'https://dev.to/klodianshaba',
+        speakers: ['Klodian Shaba'],
+        tags: ['Animations'],
+      },
+      {
+        id: '10-E',
+        slug: '2022-01-10-E',
+        type: 'video',
+        duration: '16',
+        title: 'Angular - Build a Reusable Reactive Form (like a PRO)',
+        url: 'https://www.youtube.com/watch?v=AF9wxhwW0sg',
+        description:
+          "In this Angular Tutorial you will learn how to build a #reusable #reactive form that you can use anywhere in your Angular application. Why would you wanna build a reusable form ? Actually the question is why shouldn't you ? Reusable simply means it can be used again and that way you don't have to build it from scratch or litter your #angular app with one same form!  ",
+        imgUrl: '2022-01-10-E.jpg',
+        datePosted: '2022-01-10',
+        dateSource: '2022-01-10',
+        postedBy: 'Steve Witman',
+        sourceSite: 'YouTube',
+        sourceUrl: 'https://youtube.com',
+        authorName: 'Babatunde Lamidi',
+        authorUrl:
+          'https://www.youtube.com/channel/UCRgx895qyTU3tQDMk0iAadw/videos',
+        speakers: ['Babatunde Lamidi'],
+        tags: ['Forms', 'Reactive Forms'],
+      },
+      {
+        id: '10-F',
+        slug: '2022-01-10-F',
+        type: 'video',
+        duration: '57',
+        title: 'Angular - Components and Widgets',
+        url: 'https://www.youtube.com/watch?v=txfi4waUDbU',
+        description: '',
+        imgUrl: '2022-01-10-F.jpg',
+        datePosted: '2022-01-10',
+        dateSource: '2022-01-10',
+        postedBy: 'Steve Witman',
+        sourceSite: 'YouTube',
+        sourceUrl: 'https://youtube.com',
+        authorName: 'Iuliana Marin',
+        authorUrl: '',
+        speakers: ['Iuliana Marin'],
+        tags: ['Components'],
+      },
+      {
+        id: '10-G',
+        slug: '2022-01-10-G',
+        type: 'blog',
+        duration: '',
+        title: '',
+        url: '@angular/common Functions',
+        description:
+          'This article all started as I had to format a date and started to bring in Moment.js (a tool that I\'ve used many times over the years) and saw this ...\n\n"Considering using Moment in your project? There may be better modern alternatives. For more details and recommendations, please see Project Status in the docs."\n\nAfter reading through the project status and doing some basic searches I came across the fact that Angular has a series of date functions (and more).',
+        imgUrl: '2022-01-10-G.jpg',
+        datePosted: '2022-01-10',
+        dateSource: '2022-01-10',
+        postedBy: 'Steve Witman',
+        sourceSite: 'DEV Community',
+        sourceUrl:
+          'https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc',
+        authorName: 'bob.ts',
+        authorUrl: 'https://dev.to/rfornal',
+        speakers: [],
+        tags: [],
+      },
+      {
+        id: '10-H',
+        slug: '2022-01-10-H',
+        type: 'blog',
+        duration: '',
+        title: 'Time for a Quick(er) Cypress Visit in Angular',
+        url: 'https://netbasal.com/time-for-a-quick-er-cypress-visit-in-angular-d7d0faebfabc',
+        description:
+          'There is no doubt that Cypress makes testing easier and more enjoyable. However, Cypress can be quite slow when we have many specs, and we use the visit() command every time.',
+        imgUrl: '2022-01-10-H.jpg',
+        datePosted: '2022-01-10',
+        dateSource: '2022-01-10',
+        postedBy: 'Steve Witman',
+        sourceSite: 'Medium',
+        sourceUrl: 'https://medium.com/tag/angular/latest',
+        authorName: 'Netanel Basal',
+        authorUrl: 'https://netbasal.com',
+        speakers: ['Netanel Basal'],
+        tags: ['Testing', 'Cypress'],
+      },
     ],
   },
   {
     date: '2022-01-11',
-    dailyPosts: [],
+    dailyPosts: [
+      {
+        id: '11-A',
+        slug: '2022-01-11-A',
+        type: 'video',
+        duration: '44',
+        title:
+          'Angular Searching-Sorting - Pagination - Fetch and display Data from Rest-API plus Ngx-Bootstrap',
+        url: 'https://www.youtube.com/watch?v=V2D7U37wh3o',
+        description:
+          'In this tutorial you will learn how to implement data-search-sort and pagination with Angular plus Install ngx-bootstrap ',
+        imgUrl: '2022-01-11-A.jpg',
+        datePosted: '2022-01-11',
+        dateSource: '2022-01-10',
+        postedBy: 'Steve Witman',
+        sourceSite: 'YouTube',
+        sourceUrl: 'https://youtube.com',
+        authorName: 'Icreatesites4u',
+        authorUrl: 'https://www.youtube.com/user/Electronicsmf/videos',
+        speakers: ['Martin'],
+        tags: ['Pagination'],
+      },
+      {
+        id: '11-B',
+        slug: '2022-01-11-B',
+        type: 'video',
+        duration: '86',
+        title:
+          'Angular 13 software Installation, Local environment setup, Creating Angular application',
+        url: 'https://www.youtube.com/watch?v=8ze1qjU-oXE',
+        description:
+          'This video explains about the\n1.How to install required softwares for angular application.\n2.How to create and run the angular application\n3.How the angular application compilation starts',
+        imgUrl: '2022-01-11-B.jpg',
+        datePosted: '2022-01-11',
+        dateSource: '2022-01-10',
+        postedBy: 'Steve Witman',
+        sourceSite: 'YouTube',
+        sourceUrl: 'https://youtube.com',
+        authorName: 'Mounika IT Solutions',
+        authorUrl:
+          'https://www.youtube.com/channel/UCluKc1ThKlyAsiof6ieA4SA/videos',
+        speakers: [],
+        tags: [],
+      },
+      {
+        id: '11-C',
+        slug: '2022-01-11-C',
+        type: 'video',
+        duration: '5',
+        title: 'HTTP Interceptor | Angular - Hero to Superhero',
+        url: 'https://youtu.be/Qg9Y2Mv2I2M?t=15',
+        description: '',
+        imgUrl: '2022-01-11-C.jpg',
+        datePosted: '2022-01-11',
+        dateSource: '2022-01-11',
+        postedBy: 'Steve Witman',
+        sourceSite: 'YouTube',
+        sourceUrl: 'https://youtube.com',
+        authorName: 'WebTechTalk',
+        authorUrl: 'https://www.youtube.com/c/WebTechTalk/videos',
+        speakers: [],
+        tags: ['HttpInterceptor'],
+      },
+      {
+        id: '11-D',
+        slug: '2022-01-11-D',
+        type: 'blog',
+        duration: '',
+        title: 'Angular Modules part 2 — Discovering Feature Modules',
+        url: 'https://medium.com/@MicBDev/angular-modules-part-2-discovering-feature-modules-e1a63e4ab1f7',
+        description:
+          'This article is the second of a series about in depth understanding of Angular Modules and it details feature modules. The first one is about introduction concepts and the optimizing your application with lazy loading.',
+        imgUrl: '2022-01-11-D.jpg',
+        datePosted: '2022-01-11',
+        dateSource: '2022-01-11',
+        postedBy: 'Steve Witman',
+        sourceSite: 'Medium',
+        sourceUrl: 'https://medium.com/tag/angular/latest',
+        authorName: 'Mic B',
+        authorUrl: 'https://medium.com/@MicBDev',
+        speakers: ['Mic B'],
+        tags: ['NgModules'],
+      },
+      {
+        id: '11-E',
+        slug: '2022-01-11-E',
+        type: 'blog',
+        duration: '',
+        title:
+          'Disabling Form Controls When Working With Reactive Forms in Angular',
+        url: 'https://medium.com/@alexonozor/disabling-form-controls-when-working-with-reactive-forms-in-angular-fd651524e',
+        description:
+          'When working with Angular Reactive Forms there are times when you need to disable/enable a form control, for example...',
+        imgUrl: '2022-01-11-E.jpg',
+        datePosted: '2022-01-11',
+        dateSource: '2022-01-11',
+        postedBy: 'Steve Witman',
+        sourceSite: 'Medium',
+        sourceUrl: 'https://medium.com/tag/angular/latest',
+        authorName: 'Alex Onozor',
+        authorUrl: 'https://medium.com/@alexonozor',
+        speakers: ['Alex Onozor'],
+        tags: ['Forms', 'Reactive Forms'],
+      },
+      {
+        id: '11-F',
+        slug: '2022-01-11-F',
+        type: 'blog',
+        duration: '',
+        title: 'Angular Material Menu: Nested Menu using Dynamic Data',
+        url: 'https://dev.to/shhdharmen/angular-material-menu-nested-menu-using-dynamic-data-1nfm',
+        description:
+          'We will first learn the basics of Angular Material Menu and how to render a nested menu with a static HTML template.\n\nThen we will understand why and what changes are needed to dynamically render nested menus from data.',
+        imgUrl: '2022-01-11-F.jpg',
+        datePosted: '2022-01-11',
+        dateSource: '2022-01-11',
+        postedBy: 'Steve Witman',
+        sourceSite: 'DEV Community',
+        sourceUrl:
+          'https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc',
+        authorName: 'Dharmen Shah',
+        authorUrl: 'https://dev.to/shhdharmen',
+        speakers: ['Dharmen Shah'],
+        tags: ['Angular Material'],
+      },
+      {
+        id: '11-G',
+        slug: '2022-01-11-G',
+        type: 'blog',
+        duration: '',
+        title: 'Discontinued Long Term Support for AngularJS',
+        url: 'https://blog.angular.io/discontinued-long-term-support-for-angularjs-cc066b82e65a',
+        description:
+          'In January of 2018 we laid out our plans for the final releases of AngularJS before entering long-term support and last year, we extended the LTS due to the global pandemic until December 31, 2021. Well, friends, the time has come and we’re no longer supporting AngularJS.',
+        imgUrl: '2022-01-11-G.jpg',
+        datePosted: '2022-01-11',
+        dateSource: '2022-01-11',
+        postedBy: 'Steve Witman',
+        sourceSite: 'Angular Blog',
+        sourceUrl: 'https://blog.angular.io',
+        authorName: 'Mark Thompson ',
+        authorUrl: 'https://medium.com/@markathompson',
+        speakers: ['Mark Thompson '],
+        tags: [],
+      },
+    ],
   },
   {
     date: '2022-01-12',
-    dailyPosts: [],
+    dailyPosts: [
+
+    ],
   },
 ];
+//  ////////////////////////////
+// ########## 01-12
+// 9pm https://mtda.medium.com/deploy-an-angular-application-to-firebase-hosting-with-github-actions-6a9735e14660
+// 10p https://www.youtube.com/watch?v=w8xbZREwHco
 
-// ########## 01-10
+// 2am https://thesiddharthraghuvanshi.medium.com/configuring-environment-variables-in-angular-angular-environment-38bd35309b51
+// 3am https://medium.com/@shoaibgeniuswork/how-to-add-unique-username-validator-in-angular-forms-8581d418b589
+// https://www.youtube.com/watch?v=XBaGOKtaEvM 
+// https://www.telerik.com/blogs/angular-basics-introduction-observables-rxjs-part-2
+// https://www.youtube.com/watch?v=URl66TpBg0c
+// https://github.com/angular/angular/releases/tag/13.1.2
+// https://github.com/angular/angular/releases/tag/13.2.0-next.2
+// 3pm https://www.youtube.com/watch?v=7J95wndLqlk
+// 6pm https://www.youtube.com/watch?v=G9Pq4Nm-698
 
-//  6pm       https://medium.com/@ayush.b.1998/a-sweet-introduction-to-ngrx-angular-419f5e15d768
-//  5am       https://www.spreaker.com/user/14532324/s1e29-mark-thompson-on-balancing-family-?utm_campaign=episode-title&utm_medium=app&utm_source=widget
-//  7am       https://dev.to/klodianshaba/ngxa-library-3k4p
-// 7am        https://www.youtube.com/watch?v=AF9wxhwW0sg
-// 8am        https://www.youtube.com/watch?v=txfi4waUDbU
-// 8am         https://www.youtube.com/watch?v=GAjGIBi_xt4
-// 8am         https://www.youtube.com/watch?v=B31VR33e0Kk
-// 9am        https://dev.to/rfornal/angularcommon-functions-kog
-// 3pm        https://netbasal.com/time-for-a-quick-er-cypress-visit-in-angular-d7d0faebfabc
-// 
 
 // -------------------------- YOUTUBE ---------------------------
       // {
-      //   id: '09-A',
-      //   slug: '2022-01-09-A',
+      //   id: '12-A',
+      //   slug: '2022-01-12-A',
       //   type: 'video',
       //   duration: '9999999',
       //   title: '',
       //   url: '',
       //   description: '',
-      //   imgUrl: '2022-01-09-A.jpg',
-      //   datePosted: '2022-01-09',
-      //   dateSource: '2022-01-09',
+      //   imgUrl: '2022-01-12-A.jpg',
+      //   datePosted: '2022-01-12',
+      //   dateSource: '2022-01-12',
       //   postedBy: 'Steve Witman',
       //   sourceSite: 'YouTube',
       //   sourceUrl: 'https://youtube.com',
@@ -22288,16 +22579,16 @@ export const posts = [
 
       // -------------------------- DEV ---------------------------
       // {
-      //   id: '09-A',
-      //   slug: '2022-01-09-A',
+      //   id: '12-A',
+      //   slug: '2022-01-12-A',
       //   type: 'blog',
       //   duration: '',
       //   title: '',
       //   url: '',
       //   description: '',
-      //   imgUrl: '2022-01-09-A.jpg',
-      //   datePosted: '2022-01-09',
-      //   dateSource: '2022-01-09',
+      //   imgUrl: '2022-01-12-A.jpg',
+      //   datePosted: '2022-01-12',
+      //   dateSource: '2022-01-12',
       //   postedBy: 'Steve Witman',
       //   sourceSite: 'DEV Community',
       //   sourceUrl:
@@ -22310,16 +22601,16 @@ export const posts = [
 
       // -------------------------- MEDIUM ---------------------------
       // {
-      //   id: '09-A',
-      //   slug: '2022-01-09-A',
+      //   id: '12-A',
+      //   slug: '2022-01-12-A',
       //   type: 'blog',
       //   duration: '',
       //   title: '',
       //   url: '',
       //   description: '',
-      //   imgUrl: '2022-01-09-A.jpg',
-      //   datePosted: '2022-01-09',
-      //   dateSource: '2022-01-09',
+      //   imgUrl: '2022-01-12-A.jpg',
+      //   datePosted: '2022-01-12',
+      //   dateSource: '2022-01-12',
       //   postedBy: 'Steve Witman',
       //   sourceSite: 'Medium',
       //   sourceUrl: 'https://medium.com/tag/angular/latest',
@@ -22329,34 +22620,6 @@ export const posts = [
       //   tags: [],
       // },
 
-
-
-  ////////////////////////////
-
-
-//  ////////////////////////////
-// ########## 01-11
-// 10p https://www.youtube.com/watch?v=V2D7U37wh3o
-// 10p https://www.youtube.com/watch?v=8ze1qjU-oXE
-// 2a https://www.youtube.com/watch?v=Qg9Y2Mv2I2M
-// 4a https://medium.com/@MicBDev/angular-modules-part-2-discovering-feature-modules-e1a63e4ab1f7
-// 6a https://medium.com/@alexonozor/disabling-form-controls-when-working-with-reactive-forms-in-angular-fd651524e
-// 8a https://dev.to/shhdharmen/angular-material-menu-nested-menu-using-dynamic-data-1nfm
-// https://blog.angular.io/discontinued-long-term-support-for-angularjs-cc066b82e65a
-//
-
-//  ////////////////////////////
-// ########## 01-12
-// 9pm https://mtda.medium.com/deploy-an-angular-application-to-firebase-hosting-with-github-actions-6a9735e14660
-// 10p https://www.youtube.com/watch?v=w8xbZREwHco
-
-// 2am https://thesiddharthraghuvanshi.medium.com/configuring-environment-variables-in-angular-angular-environment-38bd35309b51
-// 3am https://medium.com/@shoaibgeniuswork/how-to-add-unique-username-validator-in-angular-forms-8581d418b589
-// https://www.youtube.com/watch?v=XBaGOKtaEvM 
-// https://www.telerik.com/blogs/angular-basics-introduction-observables-rxjs-part-2
-
-// https://github.com/angular/angular/releases/tag/13.1.2
-// https://github.com/angular/angular/releases/tag/13.2.0-next.2
 
 
 
