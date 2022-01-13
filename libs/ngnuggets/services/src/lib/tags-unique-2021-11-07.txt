@@ -137,11 +137,10 @@ Migration
 Mixins
 Mocks
 Module Federation
-Modules            consolidate Modules, NgModules and module
 Navigation
 NestJS
 NextJS
-NgModules          consolidate Modules, NgModules and module
+NgModules
 NgRX
 NgRX Entity
 NgRx
@@ -253,7 +252,6 @@ library
 map
 mergeAll
 mergeMap
-module           consolidate Modules, NgModules and module
 multicast
 ng-container
 ng-content

@@ -71,7 +71,7 @@ export const posts = [
   //       authorName: 'Nevyan Neykov',
   //       authorUrl: 'https://www.youtube.com/c/NevyanNeykov/videos',
   //       speakers: ['Nevyan Neykov'],
-  //       tags: ['Modules'],
+  //       tags: ['NgModules'],
   //     },
   //     {
   //       id: '01-d',
@@ -207,7 +207,7 @@ export const posts = [
   //       authorName: 'Netanel Basal',
   //       authorUrl: 'https://netbasal.com',
   //       speakers: ['Netanel Basal'],
-  //       tags: ['Modules', 'useFactory'],
+  //       tags: ['NgModules', 'useFactory'],
   //     },
   //     {
   //       id: '02-e',
@@ -719,7 +719,7 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'WebGentle',
   //       authorUrl: 'https://www.youtube.com/channel/UC2Us1KkV7BMm5Rp6tV6tTxg',
-  //       tags: ['Modules', 'Architecture'],
+  //       tags: ['NgModules', 'Architecture'],
   //     },
   //     {
   //       id: '07-f',
@@ -744,7 +744,7 @@ export const posts = [
   //         'NgRx Data',
   //         'cloneDeep',
   //         'Path Mapping',
-  //         'Modules',
+  //         'NgModules',
   //         'Enums',
   //         'Utility Types',
   //         'Nullish Coalescing',
@@ -9318,7 +9318,7 @@ export const posts = [
   //       sourceUrl: 'https://medium.com/tag/angular/latest',
   //       authorName: 'Lakindu Hewawasam',
   //       authorUrl: 'https://lakinduh.medium.com',
-  //       tags: ['Modules', 'Lazy Loading'],
+  //       tags: ['NgModules', 'Lazy Loading'],
   //     },
   //     {
   //       id: '01-j',
@@ -16153,7 +16153,7 @@ export const posts = [
         authorName: 'Rolling Scopes School',
         authorUrl: 'https://www.youtube.com/c/RollingScopesSchool/videos',
         speakers: [],
-        tags: ['Modules', 'Services', 'HTTP'],
+        tags: ['NgModules', 'Services', 'HTTP'],
       },
       {
         id: '08-h',
@@ -20519,7 +20519,7 @@ export const posts = [
         authorName: 'Connie Leung',
         authorUrl: 'https://dev.to/railsstudent',
         speakers: ['Connie Leung'],
-        tags: ['Modules'],
+        tags: ['NgModules'],
       },
     ],
   },
@@ -20846,7 +20846,7 @@ export const posts = [
         authorUrl:
           'https://www.youtube.com/channel/UC6hjO6A1FvKKfMlAA7EOJDA/videos',
         speakers: [],
-        tags: ['Modules'],
+        tags: ['NgModules'],
       },
       {
         id: '03-c',
@@ -22535,9 +22535,7 @@ export const posts = [
   },
   {
     date: '2022-01-12',
-    dailyPosts: [
-
-    ],
+    dailyPosts: [],
   },
 ];
 //  ////////////////////////////
