@@ -125,7 +125,6 @@ Jest
 Karma
 Lazy Loading
 Libraries
-Library
 Lifecycle Hooks
 Linters
 Local Storage
