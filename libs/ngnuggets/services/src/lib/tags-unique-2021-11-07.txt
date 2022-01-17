@@ -266,6 +266,8 @@ ngIf
 ngOnChanges
 ngOnDestroy
 ngOnInit
+ngPlural
+ngPluralCase
 ngSwitch
 ngTemplateOutlet
 ngx-bootstrap
@@ -282,6 +284,7 @@ takeUntil()
 testing
 tooltip
 trackBy
+unicast
 useFactory
 viewContainerRef
 withLatestFrom
