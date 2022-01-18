@@ -89,6 +89,7 @@ Fakes
 Feature Flags
 Firebase
 FlexLayoutModule
+Font Awesome
 Form Fields
 FormArray
 FormControl
@@ -153,6 +154,7 @@ Nullish Coalescing Operator
 Nx
 Observables
 Observer
+One-Way Data Binding
 Open Source
 Optional Modules
 PDF
