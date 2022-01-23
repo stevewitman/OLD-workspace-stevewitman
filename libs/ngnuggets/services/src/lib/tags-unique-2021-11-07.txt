@@ -46,6 +46,7 @@ Code Coverage
 Community
 ComponentStore
 Components
+Constructor
 Container Presenter
 Content Projection
 ControlContainer

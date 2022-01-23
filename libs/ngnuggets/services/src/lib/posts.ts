@@ -18202,6 +18202,26 @@ export const posts = [
         speakers: ['David Mimay'],
         tags: ['Firebase'],
       },
+      {
+        id: '17-j',
+        slug: '2021-12-17-j',
+        type: 'blog',
+        duration: '',
+        title: 'Introduction to Angular Services',
+        url: 'https://www.vitainbeta.org/2021/12/16/angular-services/',
+        description:
+          'As described in angular.io, "A service is typically a class with a narrow, well-defined purpose". In other words, we can see services as a piece of code that does something very specific.',
+        imgUrl: '2021-12-17-j.jpg',
+        datePosted: '2021-12-17',
+        dateSource: '2021-12-16',
+        postedBy: 'Steve Witman',
+        sourceSite: 'VITAINBETA',
+        sourceUrl: 'https://www.vitainbeta.org/',
+        authorName: 'Lorenzo',
+        authorUrl: 'https://www.vitainbeta.org/about/',
+        speakers: ['Lorenzo'],
+        tags: ['Services'],
+      },
     ],
   },
   {
@@ -22531,6 +22551,27 @@ export const posts = [
         speakers: ['Mark Thompson '],
         tags: [],
       },
+      {
+        id: '11-H',
+        slug: '2022-01-11-H',
+        type: 'video',
+        duration: '6',
+        title: 'Angular in 2022 - Still worth learning?',
+        url: 'https://www.youtube.com/watch?v=LsmmNinmtps',
+        description:
+          'In 2022 the internet will tell you Angular is finished - The "Angular vs React" crowd decided learning Angular is completely useless. In this video, I give you my perspective on if Angular is still worth learning in 2022 and beyond. Spoiler: Lots of hot takes ahead!',
+        imgUrl: '2022-01-11-H.jpg',
+        datePosted: '2022-01-11',
+        dateSource: '2022-01-10',
+        postedBy: 'Steve Witman',
+        sourceSite: 'YouTube',
+        sourceUrl: 'https://youtube.com',
+        authorName: 'Hadi Ayoub',
+        authorUrl:
+          'https://www.youtube.com/channel/UCbWjJBhSA19OGR6l-eqQzxQ/videos',
+        speakers: ['Hadi Ayoub'],
+        tags: [],
+      },
     ],
   },
   {
@@ -23643,6 +23684,25 @@ export const posts = [
         speakers: [],
         tags: ['NgRx'],
       },
+      {
+        id: '16-G',
+        slug: '2022-01-16-G',
+        type: 'blog',
+        duration: '',
+        title: 'What to expect next from Angular?',
+        url: 'https://blog.kauppfbi.dev/what-to-expect-next-from-angular',
+        description: 'An outlook for the year 2022',
+        imgUrl: '2022-01-16-G.jpg',
+        datePosted: '2022-01-16',
+        dateSource: '2022-01-16',
+        postedBy: 'Steve Witman',
+        sourceSite: 'Medium',
+        sourceUrl: 'https://medium.com/tag/angular/latest',
+        authorName: 'Fabian Kaupp',
+        authorUrl: 'https://hashnode.com/@kauppfbi',
+        speakers: ['Fabian Kaupp'],
+        tags: [],
+      },
     ],
   },
   {
@@ -23814,25 +23874,298 @@ export const posts = [
       },
     ],
   },
+  {
+    date: '2022-01-18',
+    dailyPosts: [
+      {
+        id: '18-A',
+        slug: '2022-01-18-A',
+        type: 'blog',
+        duration: '',
+        title: '4 Angular Performance Pitfalls',
+        url: 'https://medium.com/@colinbroberg/4-angular-performance-pitfalls-a221fedc709a',
+        description:
+          "Angular is a powerful framework with many useful tools to make web development a breeze. But many of these tools can work against you if you aren't careful. Here are 4 ways that Angular applications can take a hit in performance, and how to fix them.",
+        imgUrl: '2022-01-18-A.jpg',
+        datePosted: '2022-01-18',
+        dateSource: '2022-01-17',
+        postedBy: 'Steve Witman',
+        sourceSite: 'Medium',
+        sourceUrl: 'https://medium.com/tag/angular/latest',
+        authorName: 'Colin Broberg',
+        authorUrl: 'https://medium.com/@colinbroberg',
+        speakers: ['Colin Broberg'],
+        tags: [],
+      },
+      {
+        id: '18-B',
+        slug: '2022-01-18-B',
+        type: 'blog',
+        duration: '',
+        title:
+          'Angular Quick Answer: Difference between constructor and ngOnInit',
+        url: 'https://dkreider.medium.com/angular-quick-answer-difference-between-constructor-and-ngoninit-aca520bd130c',
+        description:
+          "Who would-a guessed ... that ... one of the most popular Angular questions on Stack Overflow ... is a question about the difference between Angular's constructor and the OnInit function?",
+        imgUrl: '2022-01-18-B.jpg',
+        datePosted: '2022-01-18',
+        dateSource: '2022-01-17',
+        postedBy: 'Steve Witman',
+        sourceSite: 'Medium',
+        sourceUrl: 'https://medium.com/tag/angular/latest',
+        authorName: 'Daniel Kreider',
+        authorUrl: 'https://dkreider.medium.com',
+        speakers: ['Daniel Kreider'],
+        tags: ['Constructor', 'ngOnInit'],
+      },
+      {
+        id: '18-C',
+        slug: '2022-01-18-C',
+        type: 'blog',
+        duration: '',
+        title: 'Angular Bootstrapping: How does Angular work under the hood?',
+        url: 'https://dev.to/yeshasmp/angular-bootstrapping-how-does-angular-work-under-the-hood-353j',
+        description:
+          'In this article we are going to explore together how Angular apps work behind the scenes. At first, we will understand various workspace and application configuration files and finally we will piece together all the files how they are involved in bootstraping.',
+        imgUrl: '2022-01-18-C.jpg',
+        datePosted: '2022-01-18',
+        dateSource: '2022-01-17',
+        postedBy: 'Steve Witman',
+        sourceSite: 'DEV Community',
+        sourceUrl:
+          'https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc',
+        authorName: 'Yeshas M P',
+        authorUrl: 'https://dev.to/yeshasmp',
+        speakers: ['Yeshas M P'],
+        tags: [],
+      },
+      {
+        id: '18-D',
+        slug: '2022-01-18-D',
+        type: 'video',
+        duration: '7',
+        title:
+          'Usage Of Bootstrap(v5) Modal(Popup) In Angular(v13) Application',
+        url: 'https://www.youtube.com/watch?v=_rMWS4Neckg',
+        description:
+          'This video about the Usage Of Bootstrap(v5) Modal(Popup) In Angular(v13) Application',
+        imgUrl: '2022-01-18-D.jpg',
+        datePosted: '2022-01-18',
+        dateSource: '2022-01-16',
+        postedBy: 'Steve Witman',
+        sourceSite: 'YouTube',
+        sourceUrl: 'https://youtube.com',
+        authorName: 'Naveen Bommidi Tech Seeker',
+        authorUrl: 'https://www.youtube.com/c/NaveenTechSeeker/videos',
+        speakers: ['Naveen Bommidi'],
+        tags: ['Bootstrap'],
+      },
+      {
+        id: '18-E',
+        slug: '2022-01-18-E',
+        type: 'blog',
+        duration: '',
+        title:
+          'Configuring Modals and Alerts using Dynamic Components in Angular',
+        url: 'https://dev.to/aakashgoplani/configuring-modals-and-alerts-using-dynamic-components-in-angular-46an',
+        description:
+          "Dynamic components are essentially components which you create programmatically at runtime. Example, let's say you want to show an alert or a modal which should only be loaded upon a certain action, for example you have an error and you want to show an overlay on the entire screen or something like that, could be done using dynamic components.",
+        imgUrl: '2022-01-18-E.jpg',
+        datePosted: '2022-01-18',
+        dateSource: '2022-01-18',
+        postedBy: 'Steve Witman',
+        sourceSite: 'DEV Community',
+        sourceUrl:
+          'https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc',
+        authorName: 'Aakash Goplani',
+        authorUrl: 'https://dev.to/aakashgoplani',
+        speakers: ['Aakash Goplani'],
+        tags: ['Components', 'Dynamic Components'],
+      },
+      {
+        id: '18-F',
+        slug: '2022-01-18-F',
+        type: 'blog',
+        duration: '',
+        title:
+          'Authentication using the Amazon Cognito to an Angular application',
+        url: 'https://dev.to/rodrigokamada/authentication-using-the-amazon-cognito-to-an-angular-application-ilh',
+        description:
+          'Amazon Cognito is a simple and secure authentication service that supports user sign in, sign up and control in a WEB or mobile application.',
+        imgUrl: '2022-01-18-F.jpg',
+        datePosted: '2022-01-18',
+        dateSource: '2022-01-18',
+        postedBy: 'Steve Witman',
+        sourceSite: 'DEV Community',
+        sourceUrl:
+          'https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc',
+        authorName: 'Rodrigo Kamada',
+        authorUrl: 'https://dev.to/rodrigokamada',
+        speakers: ['Rodrigo Kamada'],
+        tags: ['Auth', 'Amazon Cognito'],
+      },
+      {
+        id: '18-G',
+        slug: '2022-01-18-G',
+        type: 'video',
+        duration: '5',
+        title:
+          'Angular & ASP .NET Core 5 : Publish and unpublish Article | Part 9',
+        url: 'https://www.youtube.com/watch?v=MVKp38AC1To',
+        description: 'How to add Spinner and loader in Angular',
+        imgUrl: '2022-01-18-G.jpg',
+        datePosted: '2022-01-18',
+        dateSource: '2022-01-18',
+        postedBy: 'Steve Witman',
+        sourceSite: 'YouTube',
+        sourceUrl: 'https://youtube.com',
+        authorName: 'DevBugFix',
+        authorUrl: 'https://www.youtube.com/c/DevBugFix/videos',
+        speakers: [],
+        tags: [],
+      },
+      {
+        id: '18-H',
+        slug: '2022-01-18-H',
+        type: 'video',
+        duration: '17',
+        title:
+          'Structural Directives in Angular - Template Context (Advanced, 2022)',
+        url: 'https://www.youtube.com/watch?v=zpVVHI21TAo',
+        description:
+          "Let's continue to explore the power of structural directives in Angular. In this tutorial, we are going to touch more advanced features and learn how to deal with template context and we continue to cover a special micro syntax for structural directives. I am pretty sure you will find a lot of interesting tricks in this video that can allow you to improve your structural directives and bring them to a completely new level. If you like the video, please share one on your social networks to help my channel to grow.",
+        imgUrl: '2022-01-18-H.jpg',
+        datePosted: '2022-01-18',
+        dateSource: '2022-01-18',
+        postedBy: 'Steve Witman',
+        sourceSite: 'YouTube',
+        sourceUrl: 'https://youtube.com',
+        authorName: 'Decoded Frontend',
+        authorUrl: 'https://www.youtube.com/c/DecodedFrontend/videos',
+        speakers: ['Dmytro Mezhenskyi'],
+        tags: ['Directives'],
+      },
+      {
+        id: '18-J',
+        slug: '2022-01-18-J',
+        type: 'video',
+        duration: '8',
+        title: 'Angular 13 | Create Custom Structural Directives | *ngIf',
+        url: 'https://www.youtube.com/watch?v=KVV5CXpBKY4',
+        description:
+          'This video is part of the Angular 13 Tutorial and Angular 14 Tutorial Series. In this video, we will see how to create a custom structural directive in angular.\n\nWe will create a custom *ngIf Directive and will talk about in detail how can you build any custom directive with just a few lines of code.\n\nAlso, we will learn what does it mean by a star (*) in the structural directive and interview question for advanced Angular.',
+        imgUrl: '2022-01-18-J.jpg',
+        datePosted: '2022-01-18',
+        dateSource: '2022-01-18',
+        postedBy: 'Steve Witman',
+        sourceSite: 'YouTube',
+        sourceUrl: 'https://youtube.com',
+        authorName: 'codeWithAmi',
+        authorUrl: '',
+        speakers: [],
+        tags: ['Directives', 'ngIf'],
+      },
+      {
+        id: '18-K',
+        slug: '2022-01-18-K',
+        type: 'blog',
+        duration: '',
+        title: 'How to Create a Progressive Web App with Angular',
+        url: 'https://dev.to/sanity-io/how-to-create-a-progressive-web-app-with-angular-2dgi',
+        description: 'In this guide, we\'ll learn how to create an angular application with PWA features, making it act and feel like a progressive web application.',
+        imgUrl: '2022-01-18-K.jpg',
+        datePosted: '2022-01-18',
+        dateSource: '2022-01-18',
+        postedBy: 'Steve Witman',
+        sourceSite: 'DEV Community',
+        sourceUrl:
+          'https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc',
+        authorName: 'Kingsley Ubah',
+        authorUrl: 'https://dev.to/ubahthebuilder',
+        speakers: ['Kingsley Ubah'],
+        tags: ['PWA'],
+      },
+    ],
+  },
 ];
 
-// https://dev.to/yeshasmp/angular-bootstrapping-how-does-angular-work-under-the-hood-353j
-// 12am https://www.youtube.com/watch?v=_rMWS4Neckg
-// 5am https://www.youtube.com/watch?v=MVKp38AC1To
+
+// todo TUESDAY
+
+// 8am https://dev.to/sanity-io/how-to-create-a-progressive-web-app-with-angular-2dgi
+// 9am https://www.youtube.com/watch?v=f8sA-i6gkGQ
+// 9am https://www.youtube.com/watch?v=1ZbhOJ5coY4
+// 10am https://www.youtube.com/watch?v=YiR7XFgsD8w
+// 3pm https://dev.to/rodrigokamada/authentication-using-the-amazon-cognito-to-an-angular-application-ilh
+
+/////////////////////////////////////////////////////////////////////////
+// todo WEDNESDAY
+// 2pm https://medium.com/@epavliy/angular-fresh-overview-of-internationalisation-56f24ccf3046
+// 11pm https://www.youtube.com/watch?v=Kfzcs-d9R7k
+// https://github.com/angular/angular/releases/tag/13.1.3
+
+// 4am https://dev.to/hieunh1801/angular-animation-how-to-run-animation-after-component-visible-in-the-viewport-2fbg
+// 5am https://medium.com/team-rockstars-it/lazy-loading-with-angular-ca30b2737ff7
+// 6am https://github.com/angular/angular/releases/tag/13.1.3
+// 10am https://betterprogramming.pub/writing-custom-structural-directives-in-angular-f9bb5bb93f30
+// https://www.section.io/engineering-education/angular-observables/
+// https://appdividend.com/2022/01/19/angular-ngmodel/
+// 7pm https://github.com/angular/angular/releases/tag/13.2.0-rc.0
+
+//////////////////////////////////////////////////////////////////////
+// todo THURSDAY
+// 9pm https://www.youtube.com/watch?v=G-ziBDEft3k
+// 1am https://www.youtube.com/watch?v=5fBM2EBx-Mo
+// 7am https://dev.to/danielsc/angular-i18n-update-workflow-25p6
+// 8am https://dev.to/this-is-angular/search-and-highlight-text-feature-using-angular-l98
+// 8am https://mathiou.medium.com/manipulate-text-when-pasting-in-html-textarea-angular-2452a05e178d
+// 9am https://netbasal.com/new-in-angular-13-pass-an-injector-to-embedded-views-cb71155025b4
+// 9am https://www.youtube.com/watch?v=g4drdX6DpH8
+// 2pm https://blog.angular.io/angular-2021-recap-and-2022-preview-cb3067f76217
+// 9pm https://www.youtube.com/watch?v=HaoqoIi_kMU    
+// 9pm https://www.youtube.com/watch?v=3u9gmq6o4SM
+
+
+//////////////////////////////////////////////////////////////////////
+// todo FRIDAY
+// https://www.youtube.com/watch?v=zdS8u67i-Fg
+// 5am https://www.youtube.com/watch?v=aCGXb3fxEPA
+// 6am https://dev.to/nrwl/build-and-deploy-the-remote-applications-to-netlify-3pl7
+// 6am https://dev.to/this-is-angular/understanding-viewchild-and-viewchildren-in-angular-1aep
+// 8am https://www.youtube.com/watch?v=hxU9pfpJ_O8
+// 11am https://medium.com/@baabtra/is-it-worth-learning-angular-in-2022-25294aea33
+// 9pm ??? https://www.youtube.com/watch?v=Kik1SvebqTg
+// 1pm https://www.youtube.com/watch?v=loUA00nZkoU
+// 2pm https://dev.to/theoklitosbam7/setup-unit-testing-tools-in-angular-cli-project-2k4f
+// 3pm https://vugar-005.medium.com/module-federation-series-part-1-a-little-in-depth-258f331bc11e
+
+//////////////////////////////////////////////////////////////////////
+// todo SATURDAY
+// https://www.youtube.com/watch?v=xHtyU1kL3Lc
+// 12am https://just-another-developer.medium.com/creating-custom-validators-with-ngrx-forms-64b9c07caa17
+// 5am https://www.youtube.com/watch?v=7XXplNzKrs4
+// 8am https://medium.com/@shubham.saxena_62401/unit-testing-in-angular-part-1-6e2a4ef0b1db
+// 10am https://sergeygultyayev.medium.com/how-to-make-a-button-in-angular-a54d9e035a9f
+// 11am https://www.youtube.com/watch?v=dcjUK8wqlUc
+// noon https://dev.to/this-is-angular/content-projection-in-angular-1n9b
+// 6pm https://www.youtube.com/watch?v=L7d1i_4RdaU
+// 7pm https://dev.to/rodrigokamada/hosting-an-angular-application-on-amazon-s3-using-github-actions-3h6g
+// 7pm https://www.youtube.com/watch?v=2ry0OsfJtSM
+
 
 
 // -------------------------- YOUTUBE ---------------------------
       // {
-      //   id: '17-A',
-      //   slug: '2022-01-17-A',
+      //   id: '18-A',
+      //   slug: '2022-01-18-A',
       //   type: 'video',
       //   duration: '9999999',
       //   title: '',
       //   url: '',
       //   description: '',
-      //   imgUrl: '2022-01-17-A.jpg',
-      //   datePosted: '2022-01-17',
-      //   dateSource: '2022-01-17',
+      //   imgUrl: '2022-01-18-A.jpg',
+      //   datePosted: '2022-01-18',
+      //   dateSource: '2022-01-18',
       //   postedBy: 'Steve Witman',
       //   sourceSite: 'YouTube',
       //   sourceUrl: 'https://youtube.com',
@@ -23844,16 +24177,16 @@ export const posts = [
 
       // -------------------------- DEV ---------------------------
       // {
-      //   id: '17-A',
-      //   slug: '2022-01-17-A',
+      //   id: '18-A',
+      //   slug: '2022-01-18-A',
       //   type: 'blog',
       //   duration: '',
       //   title: '',
       //   url: '',
       //   description: '',
-      //   imgUrl: '2022-01-17-A.jpg',
-      //   datePosted: '2022-01-17',
-      //   dateSource: '2022-01-17',
+      //   imgUrl: '2022-01-18-A.jpg',
+      //   datePosted: '2022-01-18',
+      //   dateSource: '2022-01-18',
       //   postedBy: 'Steve Witman',
       //   sourceSite: 'DEV Community',
       //   sourceUrl:
@@ -23866,16 +24199,16 @@ export const posts = [
 
       // -------------------------- MEDIUM ---------------------------
       // {
-      //   id: '17-A',
-      //   slug: '2022-01-17-A',
+      //   id: '18-A',
+      //   slug: '2022-01-18-A',
       //   type: 'blog',
       //   duration: '',
       //   title: '',
       //   url: '',
       //   description: '',
-      //   imgUrl: '2022-01-17-A.jpg',
-      //   datePosted: '2022-01-17',
-      //   dateSource: '2022-01-17',
+      //   imgUrl: '2022-01-18-A.jpg',
+      //   datePosted: '2022-01-18',
+      //   dateSource: '2022-01-18',
       //   postedBy: 'Steve Witman',
       //   sourceSite: 'Medium',
       //   sourceUrl: 'https://medium.com/tag/angular/latest',
