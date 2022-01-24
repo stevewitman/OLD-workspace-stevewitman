@@ -336,28 +336,6 @@ export const posts = [
   //       speakers: ['Dan Fletcher'],
   //       tags: [],
   //     },
-  //     {
-  //       id: '03-g',
-  //       slug: '2021-09-03-g',
-  //       type: 'blog',
-  //       duration: '',
-  //       title:
-  //         'Adding the social media share buttons component to an Angular application',
-  //       url: 'https://dev.to/rodrigokamada/adding-the-social-media-share-buttons-component-to-an-angular-application-320h',
-  //       description:
-  //         'ngx-sharebuttons is a share buttons component library with many social media supported.',
-  //       imgUrl: '2021-09-03-g.jpg',
-  //       datePosted: '2021-09-03',
-  //       dateSource: '2021-09-03',
-  //       postedBy: 'Steve Witman',
-  //       sourceSite: 'DEV Community',
-  //       sourceUrl:
-  //         'https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc',
-  //       authorName: 'Rodrigo Kamada',
-  //       authorUrl: 'https://dev.to/rodrigokamada',
-  //       speakers: ['Rodrigo Kamada'],
-  //       tags: [],
-  //     },
   //   ],
   // },
 
@@ -628,7 +606,7 @@ export const posts = [
   //     {
   //       id: '07-a',
   //       slug: '2021-09-07-a',
-  //       type: 'short',
+  //       type: 'video',
   //       duration: '1',
   //       title: 'Angular ViewChild Decorator Trick',
   //       url: 'https://www.youtube.com/watch?v=0YKF8051Mp4',
@@ -1109,7 +1087,7 @@ export const posts = [
   //         'https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc',
   //       authorName: 'Adrian Matei',
   //       authorUrl: 'https://dev.to/codever',
-  //       tags: ['Routing', 'Path Parameters'],
+  //       tags: ['Routing', 'Route Params'],
   //     },
   //     {
   //       id: '09-h',
@@ -1627,7 +1605,7 @@ export const posts = [
   //         'https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc',
   //       authorName: 'Sean Perkins',
   //       authorUrl: 'https://dev.to/seanperkins',
-  //       tags: ['Internationalization', 'i18n', 'Transloco', 'Nx'],
+  //       tags: ['Internationalization', 'Transloco', 'Nx'],
   //     },
   //     {
   //       id: '13-k',
@@ -1647,7 +1625,7 @@ export const posts = [
   //         'https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc',
   //       authorName: 'SANJANA K',
   //       authorUrl: 'https://www.c-sharpcorner.com/members/sanjana-k3',
-  //       tags: ['Internationalization', 'i18n', 'Transloco', 'Nx'],
+  //       tags: ['Internationalization', 'Transloco', 'Nx'],
   //     },
   //     {
   //       id: '13-m',
@@ -2287,7 +2265,7 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'Angular University',
   //       authorUrl: 'https://www.youtube.com/channel/UC3cEGKhg3OERn-ihVsJcb7A',
-  //       tags: ['Navigation'],
+  //       tags: ['Angular Material'],
   //     },
   //     {
   //       id: '17-d',
@@ -2365,7 +2343,7 @@ export const posts = [
   //       sourceUrl: 'https://modlogix.com',
   //       authorName: '',
   //       authorUrl: '',
-  //       tags: ['Migration'],
+  //       tags: ['Update'],
   //     },
   //     {
   //       id: '17-h',
@@ -2630,7 +2608,7 @@ export const posts = [
   //       sourceUrl: 'https://www.youtube.com',
   //       authorName: 'Adnan Halilovic',
   //       authorUrl: 'https://www.youtube.com/channel/UC8prCZick--FmgLme0lAdvw',
-  //       tags: [],
+  //       tags: ['Slider],
   //     },
   //   ],
   // },
@@ -2822,7 +2800,7 @@ export const posts = [
   //     {
   //       id: '21-a',
   //       slug: '2021-09-21-a',
-  //       type: 'short',
+  //       type: 'video',
   //       duration: '1',
   //       title: 'Angular Directive Selectors',
   //       url: 'https://www.youtube.com/watch?v=24CZWTAnJMU',
@@ -4844,7 +4822,7 @@ export const posts = [
   //     {
   //       id: '05-c',
   //       slug: '2021-10-05-c',
-  //       type: 'short',
+  //       type: 'video',
   //       duration: '1',
   //       title: 'Tip 4 - Attribute Decorator',
   //       url: 'https://www.youtube.com/shorts/cgRLQL0kmZo',
@@ -5776,7 +5754,7 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'Learning Partner',
   //       authorUrl: 'https://www.youtube.com/c/LearningPartnerDigital/videos',
-  //       tags: ['Dynamic Factory', 'viewContainerRef'],
+  //       tags: ['viewContainerRef'],
   //     },
   //     {
   //       id: '11-e',
@@ -6823,7 +6801,7 @@ export const posts = [
   //     {
   //       id: '19-b',
   //       slug: '2021-10-19-b',
-  //       type: 'short',
+  //       type: 'video',
   //       duration: '1',
   //       title: 'RxJS DistinctUntilChanged - Tip',
   //       url: 'https://www.youtube.com/shorts/UneFnAe4VS8',
@@ -7197,7 +7175,7 @@ export const posts = [
   //         'https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc',
   //       authorName: 'EzzyLearning.net',
   //       authorUrl: 'https://dev.to/ezzylearning',
-  //       tags: ['Single Page App'],
+  //       tags: ['SPA'],
   //     },
   //   ],
   // },
@@ -8531,7 +8509,7 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'Code First',
   //       authorUrl: 'https://www.youtube.com/c/CodeFirst/videos',
-  //       tags: ['Progress'],
+  //       tags: ['Spinner'],
   //     },
   //     {
   //       id: '28-f',
@@ -8973,7 +8951,7 @@ export const posts = [
   //       sourceUrl: 'https://medium.com/tag/angular/latest',
   //       authorName: 'Jishnu Saha',
   //       authorUrl: 'https://medium.com/@jishnusaha89',
-  //       tags: ['Firebase', 'Notifications'],
+  //       tags: ['Firebase'],
   //     },
   //   ],
   // },
@@ -9238,7 +9216,7 @@ export const posts = [
   //         'https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc',
   //       authorName: 'Dmitrij Kuba',
   //       authorUrl: 'https://dev.to/dimakuba',
-  //       tags: ['Routing', 'Router Outlet', 'RouteReuseStrategy'],
+  //       tags: ['Routing', 'router-outlet', 'RouteReuseStrategy'],
   //     },
   //     {
   //       id: '01-f',
@@ -9279,7 +9257,7 @@ export const posts = [
   //       authorName: 'Learn Programming Yourself',
   //       authorUrl:
   //         'https://www.youtube.com/channel/UCXxCMIjO5r_yXqwXx72CkvQ/videos',
-  //       tags: ['CLI', 'Workspace'],
+  //       tags: ['CLI', ''],
   //     },
   //     {
   //       id: '01-h',
@@ -9477,7 +9455,7 @@ export const posts = [
   //       sourceUrl: 'https://youtube.com',
   //       authorName: 'Simon Grimm',
   //       authorUrl: 'https://www.youtube.com/user/saimon1924/videos',
-  //       tags: ['Ionic', 'AngularFire 7'],
+  //       tags: ['Ionic', 'AngularFire'],
   //     },
   //     {
   //       id: '02-g',
@@ -9501,7 +9479,7 @@ export const posts = [
   //     {
   //       id: '02-h',
   //       slug: '2021-11-02-h',
-  //       type: 'short',
+  //       type: 'video',
   //       duration: '1',
   //       title: 'I Quit Using console.log In Prod',
   //       url: 'https://www.youtube.com/watch?v=o0v41bhlpi0',
@@ -10025,7 +10003,7 @@ export const posts = [
   //       authorName: 'Dale Nguyen',
   //       authorUrl: 'https://dalenguyen.medium.com',
   //       speakers: ['Dale Nguyen'],
-  //       tags: ['Migration'],
+  //       tags: ['Update'],
   //     },
   //     {
   //       id: '04-n',
@@ -12150,7 +12128,7 @@ export const posts = [
   //     {
   //       id: '16-b',
   //       slug: '2021-11-16-b',
-  //       type: 'short',
+  //       type: 'video',
   //       duration: '1',
   //       title:
   //         'Angular Tip 7 - How to make InjectionToken tree-shakeable in Angular (Advanced)',
@@ -15841,7 +15819,7 @@ export const posts = [
         authorName: 'Alice Gray',
         authorUrl: 'https://dev.to/alicemgray',
         speakers: ['Alice Gray'],
-        tags: ['Migration'],
+        tags: ['Update'],
       },
       {
         id: '07-c',
@@ -19415,7 +19393,7 @@ export const posts = [
         authorName: 'Creative Developer',
         authorUrl: 'https://www.youtube.com/c/CreativeDeveloper/videos',
         speakers: ['Anirudha'],
-        tags: [],
+        tags: ['Slider'],
       },
       {
         id: '25-e',
@@ -22793,7 +22771,7 @@ export const posts = [
         authorName: 'Code with Ahsan',
         authorUrl: 'https://www.youtube.com/c/CodewithAhsan/videos',
         speakers: ['Muhammad Ahsan Ayaz'],
-        tags: ['MongoDB', 'typeScript', 'Firebase'],
+        tags: ['MongoDB', 'TypeScript', 'Firebase'],
       },
     ],
   },
@@ -22942,7 +22920,7 @@ export const posts = [
         authorName: 'Yousaf Nawaz',
         authorUrl: 'https://medium.com/@yousafnawaz',
         speakers: ['Yousaf Nawaz'],
-        tags: ['Firebase'],
+        tags: ['Firebase', 'AngularFire'],
       },
       {
         id: '13-H',
@@ -24072,7 +24050,8 @@ export const posts = [
         duration: '',
         title: 'How to Create a Progressive Web App with Angular',
         url: 'https://dev.to/sanity-io/how-to-create-a-progressive-web-app-with-angular-2dgi',
-        description: 'In this guide, we\'ll learn how to create an angular application with PWA features, making it act and feel like a progressive web application.',
+        description:
+          "In this guide, we'll learn how to create an angular application with PWA features, making it act and feel like a progressive web application.",
         imgUrl: '2022-01-18-K.jpg',
         datePosted: '2022-01-18',
         dateSource: '2022-01-18',
@@ -24085,25 +24064,99 @@ export const posts = [
         speakers: ['Kingsley Ubah'],
         tags: ['PWA'],
       },
+      {
+        id: '18-L',
+        slug: '2022-01-18-L',
+        type: 'video',
+        duration: '19',
+        title: '4 Runtime Performance Optimizations',
+        url: 'https://www.youtube.com/watch?v=f8sA-i6gkGQ',
+        description:
+          "In this video our very own Minko Gechev will take us through 4 common runtime performance challenges, their identification with Angular DevTools, and their resolutions.\n\nWe'll cover:\n- Zone pollution\n- Out of bounds change detection\n- Recalculation of referentially transparent expressions\n- Large component trees",
+        imgUrl: '2022-01-18-L.jpg',
+        datePosted: '2022-01-18',
+        dateSource: '2022-01-18',
+        postedBy: 'Steve Witman',
+        sourceSite: 'YouTube',
+        sourceUrl: 'https://youtube.com',
+        authorName: 'Angular',
+        authorUrl: 'https://www.youtube.com/c/Angular/videos',
+        speakers: ['Minko Gechev'],
+        tags: ['Performance', 'Change Detection'],
+      },
+      {
+        id: '18-M',
+        slug: '2022-01-18-M',
+        type: 'video',
+        duration: '27',
+        title: 'How to Pass Data Between Pages in Ionic Apps using Angular',
+        url: 'https://www.youtube.com/watch?v=1ZbhOJ5coY4',
+        description:
+          'Learn the basic concepts of passing data from one page to another inside your Ionic apps using the Angular router.',
+        imgUrl: '2022-01-18-M.jpg',
+        datePosted: '2022-01-18',
+        dateSource: '2022-01-18',
+        postedBy: 'Steve Witman',
+        sourceSite: 'YouTube',
+        sourceUrl: 'https://youtube.com',
+        authorName: 'Simon Grimm',
+        authorUrl: 'https://www.youtube.com/user/saimon1924/videos',
+        speakers: ['Simon Grimm'],
+        tags: ['Ionic', 'Route Params'],
+      },
+      {
+        id: '18-N',
+        slug: '2022-01-18-N',
+        type: 'video',
+        duration: '9',
+        title: 'Add OpenID Connect to Angular Apps Quickly',
+        url: 'https://www.youtube.com/watch?v=YiR7XFgsD8w',
+        description:
+          'This screencast shows you how to add OpenID Connect authentication to an Angular app with Auth0 in just a few minutes.',
+        imgUrl: '2022-01-18-N.jpg',
+        datePosted: '2022-01-18',
+        dateSource: '2022-01-18',
+        postedBy: 'Steve Witman',
+        sourceSite: 'YouTube',
+        sourceUrl: 'https://youtube.com',
+        authorName: 'OktaDev',
+        authorUrl: 'https://www.youtube.com/c/OktaDev/videos',
+        speakers: ['Matt Raible'],
+        tags: ['Auth', 'Auth0'],
+      },
+      {
+        id: '18-P',
+        slug: '2022-01-18-P',
+        type: 'blog',
+        duration: '',
+        title: 'Angular — fresh overview of internationalisation',
+        url: 'https://medium.com/@epavliy/angular-fresh-overview-of-internationalisation-56f24ccf3046',
+        description:
+          'I recently needed to add internationalisation to one of my projects. Overall, nothing complex at a first glance.',
+        imgUrl: '2022-01-18-P.jpg',
+        datePosted: '2022-01-18',
+        dateSource: '2022-01-18',
+        postedBy: 'Steve Witman',
+        sourceSite: 'Medium',
+        sourceUrl: 'https://medium.com/tag/angular/latest',
+        authorName: 'Eugene Pavliy',
+        authorUrl: 'https://medium.com/@epavliy',
+        speakers: ['Eugene Pavliy'],
+        tags: ['Internationalization', 'i18n', 'Transloco'],
+      },
+    ],
+  },
+  {
+    date: '2022-01-19',
+    dailyPosts: [
     ],
   },
 ];
 
-
-// todo TUESDAY
-
-// 8am https://dev.to/sanity-io/how-to-create-a-progressive-web-app-with-angular-2dgi
-// 9am https://www.youtube.com/watch?v=f8sA-i6gkGQ
-// 9am https://www.youtube.com/watch?v=1ZbhOJ5coY4
-// 10am https://www.youtube.com/watch?v=YiR7XFgsD8w
-// 3pm https://dev.to/rodrigokamada/authentication-using-the-amazon-cognito-to-an-angular-application-ilh
-
-/////////////////////////////////////////////////////////////////////////
 // todo WEDNESDAY
-// 2pm https://medium.com/@epavliy/angular-fresh-overview-of-internationalisation-56f24ccf3046
+// 3pm https://dev.to/rodrigokamada/authentication-using-the-amazon-cognito-to-an-angular-application-ilh
 // 11pm https://www.youtube.com/watch?v=Kfzcs-d9R7k
 // https://github.com/angular/angular/releases/tag/13.1.3
-
 // 4am https://dev.to/hieunh1801/angular-animation-how-to-run-animation-after-component-visible-in-the-viewport-2fbg
 // 5am https://medium.com/team-rockstars-it/lazy-loading-with-angular-ca30b2737ff7
 // 6am https://github.com/angular/angular/releases/tag/13.1.3
@@ -24124,7 +24177,6 @@ export const posts = [
 // 2pm https://blog.angular.io/angular-2021-recap-and-2022-preview-cb3067f76217
 // 9pm https://www.youtube.com/watch?v=HaoqoIi_kMU    
 // 9pm https://www.youtube.com/watch?v=3u9gmq6o4SM
-
 
 //////////////////////////////////////////////////////////////////////
 // todo FRIDAY
@@ -24152,20 +24204,46 @@ export const posts = [
 // 7pm https://dev.to/rodrigokamada/hosting-an-angular-application-on-amazon-s3-using-github-actions-3h6g
 // 7pm https://www.youtube.com/watch?v=2ry0OsfJtSM
 
+//////////////////////////////////////////////////////////////////////
+// todo SUNDAY
+// 7pm https://medium.com/@vivekkasture/convert-your-angular-libraries-into-web-components-8f2c4c658675
+// 8pm https://blog.hammelburg.me/developing-angular-apps-inside-a-docker-container-fbca44438e05  
+// 9pm https://dev.to/this-is-angular/search-text-and-navigate-chrome-alike-feature-with-marker-locations-using-angular-1a67
+// 10pm https://www.youtube.com/watch?v=LzSr9wLU-DI
+// 2am https://dev.to/psamim/micro-frontends-after-one-year-with-single-spa-1eoo
+// 4am https://dev.to/endykaufman/rewrite-dynamic-form-group-builder-for-angular13-1a0h
+// 6am https://www.youtube.com/watch?v=d39mapIdLes
+// 10am https://www.youtube.com/watch?v=DnVRlQBprBs
+// 10am https://www.youtube.com/watch?v=4Nogpdk2i7c
+// 11am https://dev.to/ahmedgmurtaza/show-loading-indicator-for-lazy-modules-in-angular-4knf
+// noon https://dev.to/aakashgoplani/angular-dynamic-form-validation-template-and-reactive-forms-5c7k
+// 6pm https://www.youtube.com/watch?v=GLYSgti0CPU
+
+//////////////////////////////////////////////////////////////////////
+// todo MONDAY
+// 7pm https://medium.com/@hujjainwala/multilingual-angular-app-using-ngx-translate-a1087cd07a50
+// 10pm https://www.youtube.com/watch?v=jGbP620NahE
+// 11pm https://www.youtube.com/watch?v=VoKcWBZ1nDM
+// 2am https://blog.michaelkaren.dev/how-to-combine-add-and-edit-forms-in-angular
+// 3am https://www.youtube.com/watch?v=bt6d9RJJsi8
+// 7am https://angular-experience.web.app/episodes
+// 10am https://www.youtube.com/watch?v=cR_zpod6wFs
+// 11am https://www.youtube.com/watch?v=jUIxkryvWA0
+// 11am https://github.com/angular/angular/releases/tag/13.2.0-rc.1
 
 
 // -------------------------- YOUTUBE ---------------------------
       // {
-      //   id: '18-A',
-      //   slug: '2022-01-18-A',
+      //   id: '19-A',
+      //   slug: '2022-01-19-A',
       //   type: 'video',
       //   duration: '9999999',
       //   title: '',
       //   url: '',
       //   description: '',
-      //   imgUrl: '2022-01-18-A.jpg',
-      //   datePosted: '2022-01-18',
-      //   dateSource: '2022-01-18',
+      //   imgUrl: '2022-01-19-A.jpg',
+      //   datePosted: '2022-01-19',
+      //   dateSource: '2022-01-19',
       //   postedBy: 'Steve Witman',
       //   sourceSite: 'YouTube',
       //   sourceUrl: 'https://youtube.com',
@@ -24177,16 +24255,16 @@ export const posts = [
 
       // -------------------------- DEV ---------------------------
       // {
-      //   id: '18-A',
-      //   slug: '2022-01-18-A',
+      //   id: '19-A',
+      //   slug: '2022-01-19-A',
       //   type: 'blog',
       //   duration: '',
       //   title: '',
       //   url: '',
       //   description: '',
-      //   imgUrl: '2022-01-18-A.jpg',
-      //   datePosted: '2022-01-18',
-      //   dateSource: '2022-01-18',
+      //   imgUrl: '2022-01-19-A.jpg',
+      //   datePosted: '2022-01-19',
+      //   dateSource: '2022-01-19',
       //   postedBy: 'Steve Witman',
       //   sourceSite: 'DEV Community',
       //   sourceUrl:
@@ -24199,16 +24277,16 @@ export const posts = [
 
       // -------------------------- MEDIUM ---------------------------
       // {
-      //   id: '18-A',
-      //   slug: '2022-01-18-A',
+      //   id: '19-A',
+      //   slug: '2022-01-19-A',
       //   type: 'blog',
       //   duration: '',
       //   title: '',
       //   url: '',
       //   description: '',
-      //   imgUrl: '2022-01-18-A.jpg',
-      //   datePosted: '2022-01-18',
-      //   dateSource: '2022-01-18',
+      //   imgUrl: '2022-01-19-A.jpg',
+      //   datePosted: '2022-01-19',
+      //   dateSource: '2022-01-19',
       //   postedBy: 'Steve Witman',
       //   sourceSite: 'Medium',
       //   sourceUrl: 'https://medium.com/tag/angular/latest',
@@ -24230,39 +24308,23 @@ export const posts = [
 //  ////////////////////////////
 
 
-// $$$$$$$$$$ sept 9 2021 https://dev.to/orahul1/angular-mouse-events-41l9
 // $$$$$$$$$$ 2021 https://anchor.fm/angular-master/episodes/AMP-20-Successful-Company-with-Angular-in-Background-by-Greg-Radzio-e1cas10
+// 1/18 https://bencehornyak.me/angular-injection-tokens
+// 1/13 https://tjhilton.hashnode.dev/avoiding-duplicate-http-requests-in-angular-when-there-are-multiple-subscribers
+// 1/13 https://rodrigokamada.hashnode.dev/adding-the-social-media-share-buttons-component-to-an-angular-application
+// 12/8 https://aliasger.dev/get-an-instance-of-the-rendered-component-in-developer-tools
+// 12/3 https://hasnode.byrayray.dev/introduction-to-angular-testing
 // 12/16 https://www.thisdot.co/blog/creating-custom-sync-validators-in-angular-reactive-forms
 // 12/14 https://www.thisdot.co/blog/using-custom-async-validators-in-angular-reactive-forms
 // 12/14 https://www.thisdot.co/blog/state-of-angular-ecosystem-or-december-2021
 // 12/13 https://www.thisdot.co/blog/how-to-write-a-custom-structural-directive-in-angular-part-2
 // 11/29 https://www.thisdot.co/blog/improving-angular-ngfor-using-trackbyid-directive
+// 11/23 https://blog.kenovienadu.me/preview-images-videos-in-angular
 // 11/23 https://www.thisdot.co/blog/angular-cdk-sorting-items-using-drag-and-drop
 // 11/22 https://www.thisdot.co/blog/getting-started-with-custom-structural-directives-in-angular
 // 11/09 https://www.thisdot.co/blog/connecting-to-pokeapi-with-angular-and-apollo-client
 // 11/01 https://www.thisdot.co/blog/state-of-angular-or-october-2021
 // 10/14 https://www.thisdot.co/blog/how-to-integrate-web-components-using-lit-in-angular
 // 9/9 https://www.thisdot.co/blog/getting-authenticated-images-in-angular
+// $$$$$$$$$$ sept 9 2021 https://dev.to/orahul1/angular-mouse-events-41l9
 
-
-
-
-
-// ADGJMPSVYBEHKNQTWZCFILORUX
-
-
-// MENTOR
-// Showing up on time?
-// Committing to the full time?
-// Are they prepared with content if that is what is agreed on?
-
-
-
-
-// MENTEE
-// Need to be prepared with an agenda
-// Take notes during session
-// Review notes after the session and add clarifing notes or more questions
-// Practice between sessions
-// Follow up with emails/messages
-// Come in with specific questions
