@@ -62,7 +62,7 @@ export const tags = [
   { category: 'Angular', tag: 'ViewEncapsulation' },
   { category: 'Angular', tag: 'ng-container' },
   { category: 'Angular', tag: 'ng-content' },
-  { category: 'Angular', tag: 'ng-deep' },
+  { category: 'Angular', tag: 'ng-deep' },  
   { category: 'Angular', tag: 'ng-template' },
   { category: 'Angular', tag: 'ngAfterContentChecked' },
   { category: 'Angular', tag: 'ngAfterContentInit' },
