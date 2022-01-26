@@ -24149,36 +24149,329 @@ export const posts = [
   {
     date: '2022-01-19',
     dailyPosts: [
+      {
+        id: '19-A',
+        slug: '2022-01-19-A',
+        type: 'video',
+        duration: '25',
+        title:
+          'Angular 13 Authentication (Role based Authentication + Auth Guard + Http Interceptor + Core API)',
+        url: 'https://www.youtube.com/watch?v=Kfzcs-d9R7k',
+        description: '',
+        imgUrl: '2022-01-19-A.jpg',
+        datePosted: '2022-01-19',
+        dateSource: '2022-01-19',
+        postedBy: 'Steve Witman',
+        sourceSite: 'YouTube',
+        sourceUrl: 'https://youtube.com',
+        authorName: 'Nihira Techiees',
+        authorUrl:
+          'https://www.youtube.com/channel/UCsbmVmB_or8sVLLEq4XhE_A/videos',
+        speakers: [],
+        tags: ['Auth', 'Route Guards', 'HttpInterceptor'],
+      },
+      {
+        id: '19-B',
+        slug: '2022-01-19-B',
+        type: 'release',
+        duration: '',
+        title: 'Angular Release: v13.1.3',
+        url: 'https://github.com/angular/angular/releases/tag/13.1.3',
+        description: '',
+        imgUrl: 'thumb-release-13.png',
+        datePosted: '2022-01-19',
+        dateSource: '2022-01-19',
+        postedBy: 'Steve Witman',
+        sourceSite: 'GitHub Angular',
+        sourceUrl: 'https://github.com/angular/angular/releases',
+        authorName: 'Dylan Hunn',
+        authorUrl: 'https://github.com/dylhunn',
+        tags: ['Release'],
+      },
+      {
+        id: '19-C',
+        slug: '2022-01-19-C',
+        type: 'blog',
+        duration: '',
+        title:
+          'Angular animation: how to run animation after component visible in the viewport',
+        url: 'https://dev.to/hieunh1801/angular-animation-how-to-run-animation-after-component-visible-in-the-viewport-2fbg',
+        description:
+          'When I create landing page with angular 2+, animation is run immediately even component is not show. After contact with google, well, I found that is normal case we meet went using css animation. This is why I create this post. Enjoy!',
+        imgUrl: '2022-01-19-C.jpg',
+        datePosted: '2022-01-19',
+        dateSource: '2022-01-19',
+        postedBy: 'Steve Witman',
+        sourceSite: 'DEV Community',
+        sourceUrl:
+          'https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc',
+        authorName: 'Nguyen Huu Hieu',
+        authorUrl: 'https://dev.to/hieunh1801',
+        speakers: ['Nguyen Huu Hieu'],
+        tags: ['Animation'],
+      },
+      {
+        id: '19-D',
+        slug: '2022-01-19-D',
+        type: 'blog',
+        duration: '',
+        title: 'Lazy loading with Angular',
+        url: 'https://medium.com/team-rockstars-it/lazy-loading-with-angular-ca30b2737ff7',
+        description:
+          'Angular and Webpack already offer some nifty out-of-the-box features that help you minimize the size of your bundles, such as Code minification, Tree shaking and the AOT Compiler (which is automatically activated in dev mode when running Angular 9 or above, to improve the developer experience).\n\nBut there are still a few more steps you can take to manually improve the performance of your application. One of these features is offered by the Angular Router, called "Lazy loading".',
+        imgUrl: '2022-01-19-D.jpg',
+        datePosted: '2022-01-19',
+        dateSource: '2022-01-19',
+        postedBy: 'Steve Witman',
+        sourceSite: 'Medium',
+        sourceUrl: 'https://medium.com/tag/angular/latest',
+        authorName: 'Robin van Tienhoven',
+        authorUrl: 'https://medium.com/team-rockstars-it',
+        speakers: ['Robin van Tienhoven'],
+        tags: ['Lazy Loading'],
+      },
+      {
+        id: '19-E',
+        slug: '2022-01-19-E',
+        type: 'blog',
+        duration: '',
+        title: 'Writing Custom Structural Directives in Angular',
+        url: 'https://betterprogramming.pub/writing-custom-structural-directives-in-angular-f9bb5bb93f30',
+        description: 'Let the DOM structure depend on user privileges',
+        imgUrl: '2022-01-19-E.jpg',
+        datePosted: '2022-01-19',
+        dateSource: '2022-01-19',
+        postedBy: 'Steve Witman',
+        sourceSite: 'Medium',
+        sourceUrl: 'https://medium.com/tag/angular/latest',
+        authorName: 'Michael Seemann',
+        authorUrl: 'https://medium.com/@mseemann.io',
+        speakers: ['Michael Seemann'],
+        tags: ['Directives'],
+      },
+      {
+        id: '19-F',
+        slug: '2022-01-19-F',
+        type: 'blog',
+        duration: '',
+        title: 'How to Work with Observables in Angular 12',
+        url: 'https://www.section.io/engineering-education/angular-observables/',
+        description:
+          'In this tutorial, we discuss the concepts of Angular observables, learn what they are, how they are used in Angular applications, and finally build a sample project.',
+        imgUrl: '2022-01-19-F.jpg',
+        datePosted: '2022-01-19',
+        dateSource: '2022-01-19',
+        postedBy: 'Steve Witman',
+        sourceSite: 'Section',
+        sourceUrl: 'https://www.section.io',
+        authorName: 'Owino Wendy',
+        authorUrl:
+          'https://www.section.io/engineering-education/authors/owino-wendy/',
+        speakers: ['Owino Wendy'],
+        tags: ['RxJS', 'Observables'],
+      },
+      {
+        id: '19-G',
+        slug: '2022-01-19-G',
+        type: 'release',
+        duration: '',
+        title: 'Angular Release: v13.2.0-rc.0',
+        url: 'https://github.com/angular/angular/releases/tag/13.2.0-rc.0',
+        description: '',
+        imgUrl: 'thumb-release-13.png',
+        datePosted: '2022-01-19',
+        dateSource: '2022-01-19',
+        postedBy: 'Steve Witman',
+        sourceSite: 'GitHub Angular',
+        sourceUrl: 'https://github.com/angular/angular/releases',
+        authorName: 'Dylan Hunn',
+        authorUrl: 'https://github.com/dylhunn',
+        tags: ['Release'],
+      },
+    ],
+  },
+  {
+    date: '2022-01-20',
+    dailyPosts: [
+      {
+        id: '20-A',
+        slug: '2022-01-20-A',
+        type: 'video',
+        duration: '2',
+        title:
+          'Change SCSS or CSS from TypeScript Angular OR dynamic change the CSS or SCSSS in Angular',
+        url: 'https://www.youtube.com/watch?v=5fBM2EBx-Mo',
+        description:
+          "i've shown how to dynamically change the CSS or scss from typescript in angular",
+        imgUrl: '2022-01-20-A.jpg',
+        datePosted: '2022-01-20',
+        dateSource: '2022-01-20',
+        postedBy: 'Steve Witman',
+        sourceSite: 'YouTube',
+        sourceUrl: 'https://youtube.com',
+        authorName: 'keps code fun',
+        authorUrl:
+          'https://www.youtube.com/channel/UC-EyOMR_LMpkibZE12yRgOg/videos',
+        speakers: [],
+        tags: [],
+      },
+      {
+        id: '20-B',
+        slug: '2022-01-20-B',
+        type: 'blog',
+        duration: '',
+        title: 'Angular i18n update workflow',
+        url: 'https://dev.to/danielsc/angular-i18n-update-workflow-25p6',
+        description:
+          'I wrote two small tools, that solve the i18n merge problem: xliff-simple-merge and xml_normalize.',
+        imgUrl: '2022-01-20-B.jpg',
+        datePosted: '2022-01-20',
+        dateSource: '2022-01-20',
+        postedBy: 'Steve Witman',
+        sourceSite: 'DEV Community',
+        sourceUrl:
+          'https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc',
+        authorName: 'Daniel Schreiber',
+        authorUrl: 'https://dev.to/danielsc',
+        speakers: ['Daniel Schreiber'],
+        tags: ['Internationalization', 'i18n'],
+      },
+      {
+        id: '20-C',
+        slug: '2022-01-20-C',
+        type: 'blog',
+        duration: '',
+        title: 'Search and Highlight Text feature using Angular',
+        url: 'https://dev.to/this-is-angular/search-and-highlight-text-feature-using-angular-l98',
+        description:
+          "Hi all, in today's post we will discuss how we can make an app search and highlight features in our angular app. So the scenario can be we have a long text and we have to give the user functionality to search in a text box and related text to highlight on the paragraph below.",
+        imgUrl: '2022-01-20-C.jpg',
+        datePosted: '2022-01-20',
+        dateSource: '2022-01-20',
+        postedBy: 'Steve Witman',
+        sourceSite: 'DEV Community',
+        sourceUrl:
+          'https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc',
+        authorName: 'Nikhil Dhawan',
+        authorUrl: 'https://dev.to/nikhildhawan',
+        speakers: ['Nikhil Dhawan'],
+        tags: [],
+      },
+      {
+        id: '20-D',
+        slug: '2022-01-20-D',
+        type: 'blog',
+        duration: '',
+        title: 'Manipulate text when pasting in html textarea. Angular',
+        url: 'https://mathiou.medium.com/manipulate-text-when-pasting-in-html-textarea-angular-2452a05e178d',
+        description:
+          'Recently I had to handle the pasting and manipulating data, in one of our Angular projects. We are using Angular 11 and Typescript of course. The nice part is that almost 100% of the solution is irrelevant to Angular and is solely based on DOM events and JS. So, I thought that it would be nice to share.',
+        imgUrl: '2022-01-20-D.jpg',
+        datePosted: '2022-01-20',
+        dateSource: '2022-01-20',
+        postedBy: 'Steve Witman',
+        sourceSite: 'Medium',
+        sourceUrl: 'https://medium.com/tag/angular/latest',
+        authorName: 'Theodoros Mathioudakis',
+        authorUrl: 'https://mathiou.medium.com',
+        speakers: ['Theodoros Mathioudakis'],
+        tags: [],
+      },
+      {
+        id: '20-E',
+        slug: '2022-01-20-E',
+        type: 'blog',
+        duration: '',
+        title: 'New in Angular 13 — Pass an Injector to Embedded Views',
+        url: 'https://netbasal.com/new-in-angular-13-pass-an-injector-to-embedded-views-cb71155025b4',
+        description:
+          'Angular v13.2.0 (rc.0) comes with a new feature, which allows an injector to be passed when using embedded views. In the past, it was only possible with the ngComponentOutlet directive or the createComponent API.',
+        imgUrl: '2022-01-20-E.jpg',
+        datePosted: '2022-01-20',
+        dateSource: '2022-01-20',
+        postedBy: 'Steve Witman',
+        sourceSite: 'Medium',
+        sourceUrl: 'https://medium.com/tag/angular/latest',
+        authorName: 'Netanel Basal',
+        authorUrl: 'https://netbasal.com',
+        speakers: ['Netanel Basal'],
+        tags: ['ngTemplateOutletInjector'],
+      },
+      {
+        id: '20-F',
+        slug: '2022-01-20-F',
+        type: 'video',
+        duration: '6',
+        title:
+          'Comparision of MicroFrontend Nx application with normal Angular application',
+        url: 'https://www.youtube.com/watch?v=HaoqoIi_kMU',
+        description:
+          'In this video, we will walk through an Nx generated angular application and structure and also compare that with a normal angular application to figure out how an Nx application is different from a normal angular application.',
+        imgUrl: '2022-01-20-F.jpg',
+        datePosted: '2022-01-20',
+        dateSource: '2022-01-20',
+        postedBy: 'Steve Witman',
+        sourceSite: 'YouTube',
+        sourceUrl: 'https://youtube.com',
+        authorName: 'The UI Guy',
+        authorUrl:
+          'https://www.youtube.com/channel/UCl2ZPKQWOuxNQpf8rNuR9VA/videos',
+        speakers: [],
+        tags: ['Nx', 'Micro Frontends'],
+      },
+      {
+        id: '20-G',
+        slug: '2022-01-20-G',
+        type: 'blog',
+        duration: '',
+        title: 'Angular 2021 Recap and 2022 Preview',
+        url: 'https://blog.angular.io/angular-2021-recap-and-2022-preview-cb3067f76217',
+        description:
+          "Happy New Year! 2021 was a difficult year for everyone around the globe but as a community we've managed to stick together and continue to move Angular forward.\n\nLet's take a quick review of some things that happened in 2021 and take a peek at some things that are on the horizon for Angular in 2022.",
+        imgUrl: '2022-01-20-G.jpg',
+        datePosted: '2022-01-20',
+        dateSource: '2022-01-20',
+        postedBy: 'Steve Witman',
+        sourceSite: 'Medium',
+        sourceUrl: 'https://medium.com/tag/angular/latest',
+        authorName: 'Mark Thompson ',
+        authorUrl: 'https://medium.com/@markathompson',
+        speakers: ['Mark Thompson '],
+        tags: [],
+      },
+      {
+        id: '20-H',
+        slug: '2022-01-20-H',
+        type: 'video',
+        duration: '8',
+        title:
+          'Angular Getting Started | Lifecycle hooks | Part 7 | Learn Smart Coding',
+        url: 'https://youtu.be/3u9gmq6o4SM?t=5',
+        description:
+          'In this video, I will cover lifecycle hooks with some examples. We will see how each of the lifecycle hooks is triggered and when to use those.',
+        imgUrl: '2022-01-20-H.jpg',
+        datePosted: '2022-01-20',
+        dateSource: '2022-01-20',
+        postedBy: 'Steve Witman',
+        sourceSite: 'YouTube',
+        sourceUrl: 'https://youtube.com',
+        authorName: 'Learn Smart Coding',
+        authorUrl:
+          'https://www.youtube.com/channel/UCKUxSY2xp12QiP3c60sOc-g/videos',
+        speakers: [],
+        tags: ['Lifecycle Hooks'],
+      },
+    ],
+  },
+  {
+    date: '2022-01-21',
+    dailyPosts: [
+      
     ],
   },
 ];
 
-// todo WEDNESDAY
-// 3pm https://dev.to/rodrigokamada/authentication-using-the-amazon-cognito-to-an-angular-application-ilh
-// 11pm https://www.youtube.com/watch?v=Kfzcs-d9R7k
-// https://github.com/angular/angular/releases/tag/13.1.3
-// 4am https://dev.to/hieunh1801/angular-animation-how-to-run-animation-after-component-visible-in-the-viewport-2fbg
-// 5am https://medium.com/team-rockstars-it/lazy-loading-with-angular-ca30b2737ff7
-// 6am https://github.com/angular/angular/releases/tag/13.1.3
-// 10am https://betterprogramming.pub/writing-custom-structural-directives-in-angular-f9bb5bb93f30
-// https://www.section.io/engineering-education/angular-observables/
-// https://appdividend.com/2022/01/19/angular-ngmodel/
-// 7pm https://github.com/angular/angular/releases/tag/13.2.0-rc.0
 
-//////////////////////////////////////////////////////////////////////
-// todo THURSDAY
-// 9pm https://www.youtube.com/watch?v=G-ziBDEft3k
-// 1am https://www.youtube.com/watch?v=5fBM2EBx-Mo
-// 7am https://dev.to/danielsc/angular-i18n-update-workflow-25p6
-// 8am https://dev.to/this-is-angular/search-and-highlight-text-feature-using-angular-l98
-// 8am https://mathiou.medium.com/manipulate-text-when-pasting-in-html-textarea-angular-2452a05e178d
-// 9am https://netbasal.com/new-in-angular-13-pass-an-injector-to-embedded-views-cb71155025b4
-// 9am https://www.youtube.com/watch?v=g4drdX6DpH8
-// 2pm https://blog.angular.io/angular-2021-recap-and-2022-preview-cb3067f76217
-// 9pm https://www.youtube.com/watch?v=HaoqoIi_kMU    
-// 9pm https://www.youtube.com/watch?v=3u9gmq6o4SM
-
-//////////////////////////////////////////////////////////////////////
 // todo FRIDAY
 // https://www.youtube.com/watch?v=zdS8u67i-Fg
 // 5am https://www.youtube.com/watch?v=aCGXb3fxEPA
@@ -24226,24 +24519,53 @@ export const posts = [
 // 11pm https://www.youtube.com/watch?v=VoKcWBZ1nDM
 // 2am https://blog.michaelkaren.dev/how-to-combine-add-and-edit-forms-in-angular
 // 3am https://www.youtube.com/watch?v=bt6d9RJJsi8
-// 7am https://angular-experience.web.app/episodes
+// 7am https://www.spreaker.com/user/14532324/s2e01-architecting-vibrant-communities-w?utm_campaign=episode-title&utm_medium=app&utm_source=widget
+// 8am https://arlojasper.hashnode.dev/how-to-build-natively-working-apps-for-the-web-and-mobile
 // 10am https://www.youtube.com/watch?v=cR_zpod6wFs
+// 10am https://www.youtube.com/watch?v=PzSSsz5AWHs
+// 10am https://www.youtube.com/watch?v=-vTNKc4WZGo
 // 11am https://www.youtube.com/watch?v=jUIxkryvWA0
 // 11am https://github.com/angular/angular/releases/tag/13.2.0-rc.1
+// noon https://www.youtube.com/watch?v=Fyn2BAJ1wi8
+// noon https://mabdullahse.medium.com/how-to-select-the-element-on-angular-template-ref-e5c72a0fea1
+// https://indepth.dev/posts/1494/complete-guide-angular-lifecycle-hooks
+// 5pm https://www.youtube.com/watch?v=JBAmDYVbCVU ???
+// 5pm https://dev.to/campelo/publishing-spa-application-aspnet-core-angular-on-iis-server-524e
+
+//////////////////////////////////////////////////////////////////////
+// todo TUESSDAY
+// 1pm https://medium.com/capital-one-tech/ngrx-vs-observable-services-stately-matters-8e6b7a35723b
+// 3pm https://medium.com/@tobias.streng/hasura-graphql-and-auto-code-generation-with-angular-2e6321e4d532
+// 3pm https://medium.com/@mr.shajar.is/deploy-spring-boot-and-angular-in-one-file-12156947ca83
+// 6pm https://www.youtube.com/watch?v=kZY0sMJTpEo
+// 1am https://www.youtube.com/watch?v=jG-2ldLQRIE
+// 6am https://www.youtube.com/watch?v=ypgN8TLUyu4
+// 7am https://www.youtube.com/watch?v=_z2NL0lUt7E
+// 7am https://www.youtube.com/watch?v=O50sbGhm2yE
+// 8am https://www.telerik.com/blogs/angular-basics-beginner-guide-angular-router
+// 8am https://www.youtube.com/watch?v=gPWibhLl1Fc
+// 10am https://dev.to/nx/new-terminal-output-performance-improvements-in-nx-135-1g18
+// 11am https://dev.to/abimaelbarea/multi-slots-in-angular-36mm
+// noon https://dev.to/this-is-angular/contentchild-and-contentchildren-in-angular-3bne
+// 1pm https://www.youtube.com/watch?v=m7pMhuykf8Y
+// 4pm https://dev.to/rainerhahnekamp/ng-news-issue-2203-1ej5
+// https://www.telerik.com/blogs/angular-basics-beginner-guide-angular-router
+// https://www.thisdot.co/blog/announcing-angular-github-clone-for-starter-dev-showcases 
+
 
 
 // -------------------------- YOUTUBE ---------------------------
       // {
-      //   id: '19-A',
-      //   slug: '2022-01-19-A',
+      //   id: '20-A',
+      //   slug: '2022-01-20-A',
       //   type: 'video',
       //   duration: '9999999',
       //   title: '',
       //   url: '',
       //   description: '',
-      //   imgUrl: '2022-01-19-A.jpg',
-      //   datePosted: '2022-01-19',
-      //   dateSource: '2022-01-19',
+      //   imgUrl: '2022-01-20-A.jpg',
+      //   datePosted: '2022-01-20',
+      //   dateSource: '2022-01-20',
       //   postedBy: 'Steve Witman',
       //   sourceSite: 'YouTube',
       //   sourceUrl: 'https://youtube.com',
@@ -24255,16 +24577,16 @@ export const posts = [
 
       // -------------------------- DEV ---------------------------
       // {
-      //   id: '19-A',
-      //   slug: '2022-01-19-A',
+      //   id: '20-A',
+      //   slug: '2022-01-20-A',
       //   type: 'blog',
       //   duration: '',
       //   title: '',
       //   url: '',
       //   description: '',
-      //   imgUrl: '2022-01-19-A.jpg',
-      //   datePosted: '2022-01-19',
-      //   dateSource: '2022-01-19',
+      //   imgUrl: '2022-01-20-A.jpg',
+      //   datePosted: '2022-01-20',
+      //   dateSource: '2022-01-20',
       //   postedBy: 'Steve Witman',
       //   sourceSite: 'DEV Community',
       //   sourceUrl:
@@ -24277,16 +24599,16 @@ export const posts = [
 
       // -------------------------- MEDIUM ---------------------------
       // {
-      //   id: '19-A',
-      //   slug: '2022-01-19-A',
+      //   id: '20-A',
+      //   slug: '2022-01-20-A',
       //   type: 'blog',
       //   duration: '',
       //   title: '',
       //   url: '',
       //   description: '',
-      //   imgUrl: '2022-01-19-A.jpg',
-      //   datePosted: '2022-01-19',
-      //   dateSource: '2022-01-19',
+      //   imgUrl: '2022-01-20-A.jpg',
+      //   datePosted: '2022-01-20',
+      //   dateSource: '2022-01-20',
       //   postedBy: 'Steve Witman',
       //   sourceSite: 'Medium',
       //   sourceUrl: 'https://medium.com/tag/angular/latest',
