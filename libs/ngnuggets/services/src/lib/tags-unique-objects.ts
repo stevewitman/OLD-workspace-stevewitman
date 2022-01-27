@@ -62,7 +62,7 @@ export const tags = [
   { category: 'Angular', tag: 'ViewEncapsulation' },
   { category: 'Angular', tag: 'ng-container' },
   { category: 'Angular', tag: 'ng-content' },
-  { category: 'Angular', tag: 'ng-deep' },  
+  { category: 'Angular', tag: 'ng-deep' },
   { category: 'Angular', tag: 'ng-template' },
   { category: 'Angular', tag: 'ngAfterContentChecked' },
   { category: 'Angular', tag: 'ngAfterContentInit' },
@@ -151,7 +151,9 @@ export const tags = [
   { category: 'Misc', tag: 'Service Workers' },
   { category: 'Misc', tag: 'State Management' },
   { category: 'Misc', tag: 'Styles' },
+  { category: 'Misc', tag: 'Web Components' },
   { category: 'Misc', tag: 'Web Sockets' },
+  { category: 'Misc', tag: 'Web Workers' },
   { category: 'Misc', tag: 'git' },
 
   { category: 'Testing', tag: 'Assertions' },

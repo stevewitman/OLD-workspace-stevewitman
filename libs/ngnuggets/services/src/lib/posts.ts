@@ -470,14 +470,14 @@ export const posts = [
         title: 'Warn User Of Unsaved Changes to Angular Form',
         url: 'https://dev.to/nightwolfdev/warn-user-of-unsaved-changes-to-angular-form-4eo8',
         description:
-        "Filling out a form, especially one with many fields, can be tedious. Losing everything you've entered because you may have tapped or clicked a link by mistake is frustrating! What if you could warn the user of unsaved changes to the form? Let's learn how!",
+          "Filling out a form, especially one with many fields, can be tedious. Losing everything you've entered because you may have tapped or clicked a link by mistake is frustrating! What if you could warn the user of unsaved changes to the form? Let's learn how!",
         imgUrl: '2021-12-01-J.jpg',
         datePosted: '2021-12-01',
         dateSource: '2021-12-01',
         postedBy: 'Steve Witman',
         sourceSite: 'DEV Community',
         sourceUrl:
-        'https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc',
+          'https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc',
         authorName: 'nightwolfdev',
         authorUrl: 'https://dev.to/nightwolfdev',
         speakers: [],
@@ -489,7 +489,7 @@ export const posts = [
         title: 'What is inside of Angular JSON file',
         url: 'https://medium.com/nerd-for-tech/what-is-inside-of-angular-json-file-636e81e67651',
         description:
-        "Every angular project has an “angular.json” file. We all understand that this file is very important. This file contains the settings of the Angular project. Do you really know what information this file contains? Let's look at this file closely.",
+          "Every angular project has an “angular.json” file. We all understand that this file is very important. This file contains the settings of the Angular project. Do you really know what information this file contains? Let's look at this file closely.",
         imgUrl: '2021-12-01-K.jpg',
         datePosted: '2021-12-01',
         dateSource: '2021-12-01',
@@ -508,7 +508,7 @@ export const posts = [
         title: 'Enhance accessibility in your Angular builds | Workshop',
         url: 'https://www.youtube.com/watch?v=juf_HneUbMk',
         description:
-        'Get started developing with accessibility in mind in this Angular workshop. Join us as we take a basic application and look at eight ways to enhance the usability to ensure we are developing for all users.',
+          'Get started developing with accessibility in mind in this Angular workshop. Join us as we take a basic application and look at eight ways to enhance the usability to ensure we are developing for all users.',
         imgUrl: '2021-12-01-M.jpg',
         datePosted: '2021-12-01',
         dateSource: '2021-12-01',
@@ -527,7 +527,7 @@ export const posts = [
         title: 'Building a web application in Angular | Workshop',
         url: 'https://www.youtube.com/watch?v=8Sia39ab4sc',
         description:
-        "Let's have some fun and build an application in Angular inspired by vacation rental apps. Join us for this beginner-friendly workshop, and learn how to build an application that uses some of the core features of Angular, like components and routing, to build a beautiful, functional web application.",
+          "Let's have some fun and build an application in Angular inspired by vacation rental apps. Join us for this beginner-friendly workshop, and learn how to build an application that uses some of the core features of Angular, like components and routing, to build a beautiful, functional web application.",
         imgUrl: '2021-12-01-N.jpg',
         datePosted: '2021-12-01',
         dateSource: '2021-12-01',
@@ -772,7 +772,7 @@ export const posts = [
         speakers: ['Indraneel Pole'],
         tags: [],
       },
-    ],  
+    ],
   },
   {
     date: '2021-12-03',
@@ -981,7 +981,7 @@ export const posts = [
         authorUrl: 'https://obaranovskyi.medium.com',
         speakers: ['Oleh Baranovskyi'],
         tags: ['RxJS'],
-      },  
+      },
     ],
   },
   {
@@ -1452,7 +1452,7 @@ export const posts = [
         title: 'Angular : Unit Testing BehaviorSubject | Karma | Jasmine',
         url: 'https://www.youtube.com/watch?v=Ae0wTmD_WkQ',
         description:
-        "In this Angular unit testing video, you'll learn how to unit test Angular Behavior Subject.",
+          "In this Angular unit testing video, you'll learn how to unit test Angular Behavior Subject.",
         imgUrl: '2021-12-06-J.jpg',
         datePosted: '2021-12-06',
         dateSource: '2021-12-06',
@@ -1645,10 +1645,10 @@ export const posts = [
         type: 'video',
         duration: '8',
         title:
-        '18. Lets explore file size of compiled bundle js files both on running serve and build - Angular CLI',
+          '18. Lets explore file size of compiled bundle js files both on running serve and build - Angular CLI',
         url: 'https://www.youtube.com/watch?v=DNiYvivziYA',
         description:
-        'In this video we will see what is the file size for the js files in different angular builds - Angular CLI',
+          'In this video we will see what is the file size for the js files in different angular builds - Angular CLI',
         imgUrl: '2021-12-07-J.jpg',
         datePosted: '2021-12-07',
         dateSource: '2021-12-07',
@@ -1843,7 +1843,7 @@ export const posts = [
         title: 'Angular 13 - Movies App - Beginner Practical Guide',
         url: 'https://www.youtube.com/watch?v=3ckJ4GvyilU',
         description:
-        'Angular is a great frontend JavaScript & TypeScript framework that helps you to build powerful web applications for any goal.',
+          'Angular is a great frontend JavaScript & TypeScript framework that helps you to build powerful web applications for any goal.',
         imgUrl: '2021-12-08-J.jpg',
         datePosted: '2021-12-08',
         dateSource: '2021-12-08',
@@ -2045,14 +2045,14 @@ export const posts = [
         title: 'Loading Components Dynamically in an Angular App',
         url: 'https://dev.to/oktadev/loading-components-dynamically-in-an-angular-app-43aa',
         description:
-        "Businesses have unique and complex needs. In addition to the user or organization-specific data to show, there might be a need to display different views and content conditionally. The conditions might include the user's role or which department they belong to. The information about a user might be part of the authenticated user's ID token as a profile claim.",
+          "Businesses have unique and complex needs. In addition to the user or organization-specific data to show, there might be a need to display different views and content conditionally. The conditions might include the user's role or which department they belong to. The information about a user might be part of the authenticated user's ID token as a profile claim.",
         imgUrl: '2021-12-09-J.jpg',
         datePosted: '2021-12-09',
         dateSource: '2021-12-09',
         postedBy: 'Steve Witman',
         sourceSite: 'DEV Community',
         sourceUrl:
-        'https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc',
+          'https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc',
         authorName: 'Alisa Duncan',
         authorUrl: 'https://dev.to/alisaduncan',
         speakers: ['Alisa Duncan'],
@@ -2064,7 +2064,7 @@ export const posts = [
         title: 'Angular on Desktop',
         url: 'https://www.telerik.com/blogs/angular-on-desktop',
         description:
-        "Let's talk Angular—one of the most popular modern web application development platforms. With a long history, matured tooling and rich developer ecosystem, it is not difficult to see why Angular is the SPA framework of choice for building modern web/mobile apps. However, how does Angular work for desktop apps? The classic software answer applies—it depends. There are strategies for code sharing with web, but a lot also depends on the type of app being built and the desktop integrations desired.",
+          "Let's talk Angular—one of the most popular modern web application development platforms. With a long history, matured tooling and rich developer ecosystem, it is not difficult to see why Angular is the SPA framework of choice for building modern web/mobile apps. However, how does Angular work for desktop apps? The classic software answer applies—it depends. There are strategies for code sharing with web, but a lot also depends on the type of app being built and the desktop integrations desired.",
         imgUrl: '2021-12-09-K.jpg',
         datePosted: '2021-12-09',
         dateSource: '2021-12-09',
@@ -2268,7 +2268,7 @@ export const posts = [
         title: 'Adding Static Attributes to the Host Element in Angular',
         url: 'https://netbasal.com/adding-static-attributes-to-the-host-element-in-angular-b16cd33b424e',
         description:
-        'There are times when we need to add a static class to our host element. Angular comes with two ways to implement this — the HostBinding decorator and the Component decorator host property.',
+          'There are times when we need to add a static class to our host element. Angular comes with two ways to implement this — the HostBinding decorator and the Component decorator host property.',
         imgUrl: '2021-12-10-J.jpg',
         datePosted: '2021-12-10',
         dateSource: '2021-12-09',
@@ -2287,7 +2287,7 @@ export const posts = [
         title: 'AngularAir - Scully Updates with Sander Elias',
         url: 'https://www.youtube.com/watch?v=8HOZ58pW0aE',
         description:
-        'Tune in and celebrate the latest release version (13) of Angular!',
+          'Tune in and celebrate the latest release version (13) of Angular!',
         imgUrl: '2021-12-10-K.jpg',
         datePosted: '2021-12-10',
         dateSource: '2021-12-10',
@@ -2311,7 +2311,7 @@ export const posts = [
         title: 'Angular team plays game and answers your questions LIVE',
         url: 'https://youtu.be/-tQcdAvsEHw?t=20',
         description:
-        'Join members of the Angular team as we play some games and answer your questions.',
+          'Join members of the Angular team as we play some games and answer your questions.',
         imgUrl: '2021-12-10-M.jpg',
         datePosted: '2021-12-10',
         dateSource: '2021-12-10',
@@ -2508,10 +2508,10 @@ export const posts = [
         type: 'video',
         duration: '9',
         title:
-        'Angular Unit testing- 23 | Unit testing Form Control clearValidators method Reactive Forms | Part 5',
+          'Angular Unit testing- 23 | Unit testing Form Control clearValidators method Reactive Forms | Part 5',
         url: 'https://www.youtube.com/watch?v=02kT6vxks3k',
         description:
-        'In this video, you will learn How to test angular clearValidators method of form control in reactive forms.',
+          'In this video, you will learn How to test angular clearValidators method of form control in reactive forms.',
         imgUrl: '2021-12-11-J.jpg',
         datePosted: '2021-12-11',
         dateSource: '2021-12-11',
@@ -2520,7 +2520,7 @@ export const posts = [
         sourceUrl: 'https://youtube.com',
         authorName: 'TechshareSKK',
         authorUrl:
-        'https://www.youtube.com/channel/UCD8gC85u512FeCFzRV4Ll-A/videos',
+          'https://www.youtube.com/channel/UCD8gC85u512FeCFzRV4Ll-A/videos',
         speakers: ['Sai Kumar Korthivada'],
         tags: ['Testing'],
       },
@@ -2783,7 +2783,7 @@ export const posts = [
         title: "Angular Async Pipe — Here's how to use it like a boss",
         url: 'https://dkreider.medium.com/angular-async-pipe-heres-how-to-use-it-like-a-boss-f304bf7409bd',
         description:
-        "Who else wants to use Angular's honking powerful async pipe?",
+          "Who else wants to use Angular's honking powerful async pipe?",
         imgUrl: '2021-12-13-J.jpg',
         datePosted: '2021-12-13',
         dateSource: '2021-12-13',
@@ -2800,10 +2800,10 @@ export const posts = [
         type: 'video',
         duration: '51',
         title:
-        'Best Practices and New Cypress Testing Features w/Jordan Powell',
+          'Best Practices and New Cypress Testing Features w/Jordan Powell',
         url: 'https://www.youtube.com/watch?v=D2eMTh4ndyM',
         description:
-        'Brandon Roberts is joined by Developer Experience Engineer Jordan Powell from Cypress to discuss best practices for testing with Cypress!',
+          'Brandon Roberts is joined by Developer Experience Engineer Jordan Powell from Cypress to discuss best practices for testing with Cypress!',
         imgUrl: '2021-12-13-K.jpg',
         datePosted: '2021-12-13',
         dateSource: '2021-12-13',
@@ -2998,7 +2998,7 @@ export const posts = [
         title: 'Built with Ionic - New Ionic Book!',
         url: 'https://www.youtube.com/watch?v=dkAc9sZ84eY',
         description:
-        'The long expected Built with Ionic eBook is finally available, and I show you what you can expect from the book!',
+          'The long expected Built with Ionic eBook is finally available, and I show you what you can expect from the book!',
         imgUrl: '2021-12-14-J.jpg',
         datePosted: '2021-12-14',
         dateSource: '2021-12-14',
@@ -3007,7 +3007,7 @@ export const posts = [
         sourceUrl: 'https://youtube.com',
         authorName: 'Simon Grimm',
         authorUrl:
-        'https://www.youtube.com/channel/UCYh2i0f2fbnQP-MU4wdurkQ/videos',
+          'https://www.youtube.com/channel/UCYh2i0f2fbnQP-MU4wdurkQ/videos',
         speakers: ['Simon Grimm'],
         tags: ['Ionic'],
       },
@@ -3186,7 +3186,7 @@ export const posts = [
         title: 'Angular Tutorial | Lazy Loading in Angular 12',
         url: 'https://www.youtube.com/watch?v=Ss9y4uZVjuI',
         description:
-        'GogetmyguruIn this Angular Tutorial video you will learn about how Lazy Loading works in Angular 12.',
+          'GogetmyguruIn this Angular Tutorial video you will learn about how Lazy Loading works in Angular 12.',
         imgUrl: '2021-12-15-J.jpg',
         datePosted: '2021-12-15',
         dateSource: '2021-12-15',
@@ -3205,7 +3205,7 @@ export const posts = [
         title: '1.50 - Making State Management Domain Agnostic with @derxjs',
         url: 'https://www.youtube.com/watch?v=qhbloaY-q-k',
         description:
-        'We sit down with Zack DeRose to talk all about @derxjs. We also break down RxJS and its ability to elegantly compose domain-agnostic state management code.',
+          'We sit down with Zack DeRose to talk all about @derxjs. We also break down RxJS and its ability to elegantly compose domain-agnostic state management code.',
         imgUrl: '2021-12-15-K.jpg',
         datePosted: '2021-12-15',
         dateSource: '2021-12-15',
@@ -3241,7 +3241,7 @@ export const posts = [
         title: 'How to Format Date as dd/MM/yyyy using Pipes in Angular',
         url: 'https://www.angularjswiki.com/angular/how-to-format-date-as-dd-mm-yyyy-using-pipes-in-angular/',
         description:
-        'dd/MM/YYYY is the most used date format in the websites. Angular Date Pipe used to format the dates according to our needs.he development process as efficient as possible to get the optimum advantage of this robust front-end technology',
+          'dd/MM/YYYY is the most used date format in the websites. Angular Date Pipe used to format the dates according to our needs.he development process as efficient as possible to get the optimum advantage of this robust front-end technology',
         imgUrl: '2021-12-15-N.jpg',
         datePosted: '2021-12-15',
         dateSource: '2021-12-15',
@@ -3259,7 +3259,7 @@ export const posts = [
         title: 'Angular Material Theming System: Complete Guide',
         url: 'https://indepth.dev/tutorials/angular/angular-material-theming-system-complete-guide',
         description:
-        'In this article, you will learn what Angular Material Theming is and what are some recent changes to adhere to the new module system of SASS.',
+          'In this article, you will learn what Angular Material Theming is and what are some recent changes to adhere to the new module system of SASS.',
         imgUrl: '2021-12-15-P.jpg',
         datePosted: '2021-12-15',
         dateSource: '2021-12-15',
@@ -3277,7 +3277,7 @@ export const posts = [
         title: 'How do you clean RxJS Subjects?',
         url: 'https://obaranovskyi.medium.com/how-do-you-clean-the-subjects-in-rxjs-298bf129d3bb',
         description:
-        "Among all bugs, cache issues take first place. If somehow, for some reason, you hadn't fixed bugs related to cache, then you're lucky. It often happens when you're using RxJS subjects, especially BehaviorSubject or ReplaySubject.\n\nDuring this article, we'll try to address this kind of issue. Furthermore, we're going to develop a new subject for such needs. So if you're interested, stay tuned!",
+          "Among all bugs, cache issues take first place. If somehow, for some reason, you hadn't fixed bugs related to cache, then you're lucky. It often happens when you're using RxJS subjects, especially BehaviorSubject or ReplaySubject.\n\nDuring this article, we'll try to address this kind of issue. Furthermore, we're going to develop a new subject for such needs. So if you're interested, stay tuned!",
         imgUrl: '2021-12-15-Q.jpg',
         datePosted: '2021-12-15',
         dateSource: '2021-12-15',
@@ -3294,7 +3294,7 @@ export const posts = [
         type: 'video',
         duration: '8',
         title:
-        '26. Lets test our code with Code coverage Options in Angular Application - Angular CLI',
+          '26. Lets test our code with Code coverage Options in Angular Application - Angular CLI',
         url: 'https://www.youtube.com/watch?v=cYIurHf8F0E',
         description: '',
         imgUrl: '2021-12-15-R.jpg',
@@ -3495,10 +3495,10 @@ export const posts = [
         type: 'video',
         duration: '12',
         title:
-        'Angular Hot Module Replacement | Reflect Your Changes Without Reloading the Browser',
+          'Angular Hot Module Replacement | Reflect Your Changes Without Reloading the Browser',
         url: 'https://www.youtube.com/watch?v=8rrNlodliWg',
         description:
-        'Angular Hot Module Replacement for Angular Version Greater Than 11 and Less Than 11. Reflect your changes in browser without reloading the browser.',
+          'Angular Hot Module Replacement for Angular Version Greater Than 11 and Less Than 11. Reflect your changes in browser without reloading the browser.',
         imgUrl: '2021-12-16-J.jpg',
         datePosted: '2021-12-16',
         dateSource: '2021-12-16',
@@ -3507,7 +3507,7 @@ export const posts = [
         sourceUrl: 'https://youtube.com',
         authorName: 'SK Tapashthali',
         authorUrl:
-        'https://www.youtube.com/channel/UC8kQG_NI9sdHLnPdwuT3nCg/videos',
+          'https://www.youtube.com/channel/UC8kQG_NI9sdHLnPdwuT3nCg/videos',
         speakers: [],
         tags: ['Hot Module Replacement'],
       },
@@ -3518,7 +3518,7 @@ export const posts = [
         title: "Ionic 6 RELEASED - What's new?",
         url: 'https://www.youtube.com/watch?v=jDWtIklLR8Y',
         description:
-        'Ionic version 6 was finally released - let me show you what you can expect from this major new framework version and why you should migrate your apps as soon as possible!',
+          'Ionic version 6 was finally released - let me show you what you can expect from this major new framework version and why you should migrate your apps as soon as possible!',
         imgUrl: '2021-12-16-K.jpg',
         datePosted: '2021-12-16',
         dateSource: '2021-12-16',
@@ -3537,7 +3537,7 @@ export const posts = [
         title: 'Intro to Web Assembly w/ Dominic Elm',
         url: 'https://www.youtube.com/watch?v=01AVbE3osGo',
         description:
-        "If you've heard of Web Assembly but don't actually know anything about it, this talk is for you. We asked Dom to give us a beginner crash course, and he delivered!",
+          "If you've heard of Web Assembly but don't actually know anything about it, this talk is for you. We asked Dom to give us a beginner crash course, and he delivered!",
         imgUrl: '2021-12-16-M.jpg',
         datePosted: '2021-12-16',
         dateSource: '2021-12-16',
@@ -3546,7 +3546,7 @@ export const posts = [
         sourceUrl: 'https://youtube.com',
         authorName: 'Angular Nation',
         authorUrl:
-        'https://www.youtube.com/channel/UCmlK6Jayb3qqJYNfUmL-DkA/videos',
+          'https://www.youtube.com/channel/UCmlK6Jayb3qqJYNfUmL-DkA/videos',
         speakers: ['Dominic Elm'],
         tags: [],
       },
@@ -4068,10 +4068,10 @@ export const posts = [
         slug: '2021-12-20-J',
         type: 'blog',
         title:
-        'Once Upon Unsubscribe (Or, How I Improved The Way We Manage Our Subscriptions)',
+          'Once Upon Unsubscribe (Or, How I Improved The Way We Manage Our Subscriptions)',
         url: 'https://anecdotes.dev/once-upon-unsubscribe-f02c160da462',
         description:
-        "So a couple of days ago I decided to change all our components subscriptions.forEach(…unsubscribe..) to takeUntil(). This change took me on a nice journey and I'd like to share it with you.",
+          "So a couple of days ago I decided to change all our components subscriptions.forEach(…unsubscribe..) to takeUntil(). This change took me on a nice journey and I'd like to share it with you.",
         imgUrl: '2021-12-20-J.jpg',
         datePosted: '2021-12-20',
         dateSource: '2021-12-20',
@@ -4088,10 +4088,10 @@ export const posts = [
         type: 'video',
         duration: '31',
         title:
-        'Project 1 (Microservices, Database and Angular Deployment) - Part 8',
+          'Project 1 (Microservices, Database and Angular Deployment) - Part 8',
         url: 'https://www.youtube.com/watch?v=MrVkgvrQC9k',
         description:
-        'The most theoretical and practical course on AWS which includes real-time scenarios and a project.',
+          'The most theoretical and practical course on AWS which includes real-time scenarios and a project.',
         imgUrl: '2021-12-20-K.jpg',
         datePosted: '2021-12-20',
         dateSource: '2021-12-20',
@@ -4118,7 +4118,7 @@ export const posts = [
         sourceUrl: 'https://youtube.com',
         authorName: 'hashcodehub',
         authorUrl:
-        'https://www.youtube.com/channel/UCShuMvVswgsxlIHwEIgCDeA/videos',
+          'https://www.youtube.com/channel/UCShuMvVswgsxlIHwEIgCDeA/videos',
         speakers: [],
         tags: [],
       },
@@ -4129,7 +4129,7 @@ export const posts = [
         title: '93. Angular Project Tutorial - Session Form for Event',
         url: 'https://www.youtube.com/watch?v=AN3-1XpTEIw',
         description:
-        '93. Angular Project Tutorial - Session Form for Event explained in detail with an example.',
+          '93. Angular Project Tutorial - Session Form for Event explained in detail with an example.',
         imgUrl: '2021-12-20-N.jpg',
         datePosted: '2021-12-20',
         dateSource: '2021-12-19',
@@ -4138,7 +4138,7 @@ export const posts = [
         sourceUrl: 'https://youtube.com',
         authorName: 'Prince Harsha',
         authorUrl:
-        'https://www.youtube.com/channel/UC_0jKHC_1o1djPkumW5HYHw/videos',
+          'https://www.youtube.com/channel/UC_0jKHC_1o1djPkumW5HYHw/videos',
         speakers: ['Prince Harsha'],
         tags: [],
       },
@@ -4147,10 +4147,10 @@ export const posts = [
         type: 'video',
         duration: '20',
         title:
-        'Angular & ASP .NET Core 5 : How to add Article | Blog Feature in Angular App | Part 5',
+          'Angular & ASP .NET Core 5 : How to add Article | Blog Feature in Angular App | Part 5',
         url: 'https://www.youtube.com/watch?v=9GYIfX3YEgU',
         description:
-        'In this video i will integrate CKEditor 5 in modal and i will create Add update Article modal using  ngx - bootstrap modal.',
+          'In this video i will integrate CKEditor 5 in modal and i will create Add update Article modal using  ngx - bootstrap modal.',
         imgUrl: '2021-12-20-P.jpg',
         datePosted: '2021-12-20',
         dateSource: '2021-12-19',
@@ -4167,10 +4167,10 @@ export const posts = [
         type: 'video',
         duration: '8',
         title:
-        '29. Create Sub Projects in the Angular Workspace and build or serve the projects - Angular CLI',
+          '29. Create Sub Projects in the Angular Workspace and build or serve the projects - Angular CLI',
         url: 'https://www.youtube.com/watch?v=B2IvfIc3K_U',
         description:
-        'In this video we will see how to create the subprojects along with the main project in the Angular Workspace and also see how to build or serve the projects - Angular CLI',
+          'In this video we will see how to create the subprojects along with the main project in the Angular Workspace and also see how to build or serve the projects - Angular CLI',
         imgUrl: '2021-12-20-Q.jpg',
         datePosted: '2021-12-20',
         dateSource: '2021-12-19',
@@ -4188,14 +4188,14 @@ export const posts = [
         title: 'Introduction to Deploying Angular MFEs with Netlify',
         url: 'https://dev.to/nrwl/introduction-to-deploying-angular-mfes-with-netlify-ajj',
         description:
-        'This series of articles will aim to showcase the process of scaffolding and deploying a Micro Frontend Architecture using Nx and Netlify.',
+          'This series of articles will aim to showcase the process of scaffolding and deploying a Micro Frontend Architecture using Nx and Netlify.',
         imgUrl: '2021-12-20-R.jpg',
         datePosted: '2021-12-20',
         dateSource: '2021-12-20',
         postedBy: 'Steve Witman',
         sourceSite: 'DEV Community',
         sourceUrl:
-        'https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc',
+          'https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc',
         authorName: 'Colum Ferry',
         authorUrl: 'https://dev.to/coly010',
         speakers: ['Colum Ferry'],
@@ -5131,10 +5131,10 @@ export const posts = [
         type: 'video',
         duration: '43',
         title:
-        'Angular miocrofrontends with Module Federation, with Mihai Ureche',
+          'Angular miocrofrontends with Module Federation, with Mihai Ureche',
         url: 'https://www.youtube.com/watch?v=N5V4pmREPmY',
         description:
-        'Angular micro frontends with Module Federation, with Mihai Ureche at Codecamp_The One with Architecture & Design, September 2021',
+          'Angular micro frontends with Module Federation, with Mihai Ureche at Codecamp_The One with Architecture & Design, September 2021',
         imgUrl: '2021-12-27-J.jpg',
         datePosted: '2021-12-27',
         dateSource: '2021-12-27',
@@ -5152,14 +5152,14 @@ export const posts = [
         title: 'How to Make a Component Compatible with Angular Forms?',
         url: 'https://dev.to/abimaelbarea/how-to-make-a-component-compatible-with-angular-forms-5ac7',
         description:
-        'The Angular framework provides 2 ways of creating forms:\n\nReactive Forms\nTemplate Driven\n\nThe content of this article is valid to both of them.',
+          'The Angular framework provides 2 ways of creating forms:\n\nReactive Forms\nTemplate Driven\n\nThe content of this article is valid to both of them.',
         imgUrl: '2021-12-27-K.jpg',
         datePosted: '2021-12-27',
         dateSource: '2021-12-27',
         postedBy: 'Steve Witman',
         sourceSite: 'DEV Community',
         sourceUrl:
-        'https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc',
+          'https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc',
         authorName: 'Abimael Barea',
         authorUrl: 'https://dev.to/abimaelbarea',
         speakers: ['Abimael Barea'],
@@ -5347,10 +5347,10 @@ export const posts = [
         slug: '2021-12-28-J',
         type: 'blog',
         title:
-        'Browser Storages: localStorage, sessionStorage, cookies in Angular using SOLID principles.',
+          'Browser Storages: localStorage, sessionStorage, cookies in Angular using SOLID principles.',
         url: 'https://medium.com/@igorjar/browser-storages-localstorage-sessionstorage-cookies-in-angular-using-solid-principles-10ae38506876',
         description:
-        'In this article, I will demonstrate how we can use SOLID principles while building entities with similar purposes but different internal implementations on Local, Session, and Cookie storage examples.',
+          'In this article, I will demonstrate how we can use SOLID principles while building entities with similar purposes but different internal implementations on Local, Session, and Cookie storage examples.',
         imgUrl: '2021-12-28-J.jpg',
         datePosted: '2021-12-28',
         dateSource: '2021-12-28',
@@ -5369,7 +5369,7 @@ export const posts = [
         title: 'Live Data with RxJS operators',
         url: 'https://www.youtube.com/watch?v=b1OnijRqbhk',
         description:
-        'Ever drank water from a running tap? Adewale Rahman would be showing us how to use RxJS operators that allow us retrieve live data from APIs.',
+          'Ever drank water from a running tap? Adewale Rahman would be showing us how to use RxJS operators that allow us retrieve live data from APIs.',
         imgUrl: '2021-12-28-K.jpg',
         datePosted: '2021-12-28',
         dateSource: '2021-12-28',
@@ -5378,7 +5378,7 @@ export const posts = [
         sourceUrl: 'https://youtube.com',
         authorName: 'Angular Nation',
         authorUrl:
-        'https://www.youtube.com/channel/UCmlK6Jayb3qqJYNfUmL-DkA/videos',
+          'https://www.youtube.com/channel/UCmlK6Jayb3qqJYNfUmL-DkA/videos',
         speakers: ['Adewale Rahman'],
         tags: ['RxJS'],
       },
@@ -5388,7 +5388,7 @@ export const posts = [
         title: 'How To Create Flexible Components Using ng-content in Angular',
         url: 'https://medium.com/@oranaki9910/how-to-create-flexible-components-using-ng-content-in-angular-6a2f0bc706eb',
         description:
-        'Many times as developers we create components that are consumed in many places in our app. One of the main problems in such a scenario is that a developer / component wants to use a component we have created differently. If we design our component with something called content projection we can make it more flexible for the developer / component that uses it.',
+          'Many times as developers we create components that are consumed in many places in our app. One of the main problems in such a scenario is that a developer / component wants to use a component we have created differently. If we design our component with something called content projection we can make it more flexible for the developer / component that uses it.',
         imgUrl: '2021-12-28-M.jpg',
         datePosted: '2021-12-28',
         dateSource: '2021-12-28',
@@ -5406,14 +5406,14 @@ export const posts = [
         title: 'Mutate a code with Angular schematics like a boss',
         url: 'https://dev.to/ikatsuba/mutate-a-code-with-angular-schematics-like-a-boss-5f4c',
         description:
-        'For fulfilling using Angular CLI, developers have to know about Angular schematics. ng add, ng update and ng generate use schematics to add, update and configure libraries and generate code for applications. In runtime, you get access to a virtual file system and can mutate source code as you need. "But for code mutation, I have to work with AST. It is so hard." — say you. And you are right!\n\nThis article tells you how we are trying to do work with schematics easily and how to work with AST outside schematics in any project.',
+          'For fulfilling using Angular CLI, developers have to know about Angular schematics. ng add, ng update and ng generate use schematics to add, update and configure libraries and generate code for applications. In runtime, you get access to a virtual file system and can mutate source code as you need. "But for code mutation, I have to work with AST. It is so hard." — say you. And you are right!\n\nThis article tells you how we are trying to do work with schematics easily and how to work with AST outside schematics in any project.',
         imgUrl: '2021-12-28-N.jpg',
         datePosted: '2021-12-28',
         dateSource: '2021-12-28',
         postedBy: 'Steve Witman',
         sourceSite: 'DEV Community',
         sourceUrl:
-        'https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc',
+          'https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc',
         authorName: 'Igor Katsuba',
         authorUrl: 'https://dev.to/ikatsuba',
         speakers: ['Igor Katsuba'],
@@ -9713,7 +9713,7 @@ export const posts = [
           'Building micro frontends with module federation is a big topic, so I decided to split my post mainly into 3 separate blogs...',
         imgUrl: '2022-01-22-A.jpg',
         datePosted: '2022-01-22',
-        dateSource: '2022-01-22',
+        dateSource: '2022-01-21',
         postedBy: 'Steve Witman',
         sourceSite: 'Medium',
         sourceUrl: 'https://medium.com/tag/angular/latest',
@@ -9722,26 +9722,219 @@ export const posts = [
         speakers: ['Vugar Abdullayev'],
         tags: ['Module Federation', 'Micro Frontends'],
       },
+      {
+        slug: '2022-01-22-B',
+        type: 'video',
+        duration: '57',
+        title: 'Hallway Track w/ Alex Rickabaugh',
+        url: 'https://www.youtube.com/watch?v=xHtyU1kL3Lc',
+        description:
+          "Do you have advanced questions about Angular? Want to know what cool things the Angular team is working on right now? Just ask Alex Rickabaugh! He knows basically everything, he's an amazing teacher, he's the nicest guy ever, and he's coming back to visit us next week! If you already know Alex, I know you're as excited as I am about this. If you haven't met Alex yet, I can assure you that you're going to LOVE him",
+        imgUrl: '2022-01-22-B.jpg',
+        datePosted: '2022-01-22',
+        dateSource: '2022-01-21',
+        postedBy: 'Steve Witman',
+        sourceSite: 'YouTube',
+        sourceUrl: 'https://youtube.com',
+        authorName: 'Angular Nation',
+        authorUrl:
+          'https://www.youtube.com/channel/UCmlK6Jayb3qqJYNfUmL-DkA/videos',
+        speakers: ['Alex Rickabaugh'],
+        tags: [],
+      },
+      {
+        slug: '2022-01-22-C',
+        type: 'blog',
+        title: 'Creating custom validators with NgRx Forms',
+        url: 'https://just-another-developer.medium.com/creating-custom-validators-with-ngrx-forms-64b9c07caa17',
+        description:
+          'This article will help you to create and use custom validators when working with NgRx Forms. There is little documentation and very few examples regarding NgRx forms so I hope this helps to make things clearer',
+        imgUrl: '2022-01-22-C.jpg',
+        datePosted: '2022-01-22',
+        dateSource: '2022-01-22',
+        postedBy: 'Steve Witman',
+        sourceSite: 'Medium',
+        sourceUrl: 'https://medium.com/tag/angular/latest',
+        authorName: 'Ayush Thakur',
+        authorUrl: 'https://just-another-developer.medium.com',
+        speakers: ['Ayush Thakur'],
+        tags: ['NgRx', 'Forms', 'Validators'],
+      },
+      {
+        slug: '2022-01-22-D',
+        type: 'video',
+        duration: '22',
+        title:
+          'Spring Boot Angular Full Stack Project - Youtube Clone - Part 8',
+        url: 'https://www.youtube.com/watch?v=7XXplNzKrs4',
+        description: '',
+        imgUrl: '2022-01-22-D.jpg',
+        datePosted: '2022-01-22',
+        dateSource: '2022-01-22',
+        postedBy: 'Steve Witman',
+        sourceSite: 'YouTube',
+        sourceUrl: 'https://youtube.com',
+        authorName: 'Programming Techie',
+        authorUrl: 'https://www.youtube.com/c/ProgrammingTechie/videos',
+        speakers: [],
+        tags: [],
+      },
+      {
+        slug: '2022-01-22-E',
+        type: 'blog',
+        title: 'Unit Testing in Angular(Part 1)',
+        url: 'https://medium.com/@shubham.saxena_62401/unit-testing-in-angular-part-1-6e2a4ef0b1db',
+        description:
+          'In this blog, we attempt to learn the basics for writing unit tests in Angular. We Use Jasmine and Karma for performing tests on our angular application.',
+        imgUrl: '2022-01-22-E.jpg',
+        datePosted: '2022-01-22',
+        dateSource: '2022-01-22',
+        postedBy: 'Steve Witman',
+        sourceSite: 'Medium',
+        sourceUrl: 'https://medium.com/tag/angular/latest',
+        authorName: 'Shubham Saxena',
+        authorUrl: 'https://medium.com/@shubham.saxena_62401',
+        speakers: ['Shubham Saxena'],
+        tags: ['Testing', 'Jasmine', 'Karma'],
+      },
+      {
+        slug: '2022-01-22-F',
+        type: 'blog',
+        title: 'How to make a button in Angular',
+        url: 'https://sergeygultyayev.medium.com/how-to-make-a-button-in-angular-a54d9e035a9f',
+        description:
+          'Seems like a simple question. Just write a few global classes and use them. Then you find that the design requires a button to be outlined as well, also it could be displayed as a link, also it could be bigger and smaller.',
+        imgUrl: '2022-01-22-F.jpg',
+        datePosted: '2022-01-22',
+        dateSource: '2022-01-22',
+        postedBy: 'Steve Witman',
+        sourceSite: 'Medium',
+        sourceUrl: 'https://medium.com/tag/angular/latest',
+        authorName: 'Sergey Gultyayev',
+        authorUrl: 'https://sergeygultyayev.medium.com',
+        speakers: ['Sergey Gultyayev'],
+        tags: ['Components', ':host'],
+      },
+      {
+        slug: '2022-01-22-G',
+        type: 'video',
+        duration: '13',
+        title:
+          'Angular 13 PDF & Html2Canvas Project to Export HTML Canvas With Background Image With Text & CSS',
+        url: 'https://www.youtube.com/watch?v=dcjUK8wqlUc',
+        description: '',
+        imgUrl: '2022-01-22-G.jpg',
+        datePosted: '2022-01-22',
+        dateSource: '2022-01-22',
+        postedBy: 'Steve Witman',
+        sourceSite: 'YouTube',
+        sourceUrl: 'https://youtube.com',
+        authorName: 'Coding Shiksha',
+        authorUrl: 'https://www.youtube.com/c/CodingShiksha/videos',
+        speakers: [],
+        tags: ['PDF'],
+      },
+      {
+        slug: '2022-01-22-H',
+        type: 'blog',
+        title: 'Content Projection in Angular',
+        url: 'https://dev.to/this-is-angular/content-projection-in-angular-1n9b',
+        description:
+          "Today we will learn about a very important concept called Content Projection. It's very useful concept and helps to make an application dynamic.",
+        imgUrl: '2022-01-22-H.jpg',
+        datePosted: '2022-01-22',
+        dateSource: '2022-01-22',
+        postedBy: 'Steve Witman',
+        sourceSite: 'DEV Community',
+        sourceUrl:
+          'https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc',
+        authorName: 'Anubhab Mukherjee',
+        authorUrl: 'https://dev.to/anubhab5',
+        speakers: ['Anubhab Mukherjee'],
+        tags: ['Content Projection', 'ng-content'],
+      },
+      {
+        slug: '2022-01-22-J',
+        type: 'video',
+        duration: '15',
+        title:
+          'Angular Getting Started | HTTP Service using real time WEB API | Part 8 | Learn Smart Coding',
+        url: 'https://www.youtube.com/watch?v=L7d1i_4RdaU',
+        description:
+          'In this video, I will cover how to invoke external WEB APIs using HTTP Service offered by Angular. We will call real-time WEB API and use those data to show in our Angular sample application.',
+        imgUrl: '2022-01-22-J.jpg',
+        datePosted: '2022-01-22',
+        dateSource: '2022-01-22',
+        postedBy: 'Steve Witman',
+        sourceSite: 'YouTube',
+        sourceUrl: 'https://youtube.com',
+        authorName: 'Learn Smart Coding',
+        authorUrl:
+          'https://www.youtube.com/channel/UCKUxSY2xp12QiP3c60sOc-g/videos',
+        speakers: [],
+        tags: [],
+      },
+      {
+        slug: '2022-01-22-K',
+        type: 'blog',
+        title:
+          'Hosting an Angular application on Amazon S3 using GitHub Actions',
+        url: 'https://dev.to/rodrigokamada/hosting-an-angular-application-on-amazon-s3-using-github-actions-3h6g',
+        description: '',
+        imgUrl: '2022-01-22-K.jpg',
+        datePosted: '2022-01-22',
+        dateSource: '2022-01-22',
+        postedBy: 'Steve Witman',
+        sourceSite: 'DEV Community',
+        sourceUrl:
+          'https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc',
+        authorName: 'Rodrigo Kamada',
+        authorUrl: 'https://dev.to/rodrigokamada',
+        speakers: ['Rodrigo Kamada'],
+        tags: [],
+      },
+      {
+        slug: '2022-01-22-L',
+        type: 'video',
+        duration: '23',
+        title: 'Web worker and Shared worker in Angular 13',
+        url: 'https://www.youtube.com/watch?v=2ry0OsfJtSM',
+        description:
+          'Web worker and Shared worker in Angular 13. Difference between dedicated and shared web workers. Role of importscripts in web worker. Modes of data transfer between workers.',
+        imgUrl: '2022-01-22-L.jpg',
+        datePosted: '2022-01-22',
+        dateSource: '2022-01-22',
+        postedBy: 'Steve Witman',
+        sourceSite: 'YouTube',
+        sourceUrl: 'https://youtube.com',
+        authorName: 'JS Frameworks',
+        authorUrl: 'https://www.youtube.com/c/JSFrameworks/videos',
+        speakers: [],
+        tags: ['Web Workers'],
+      },
+      {
+        slug: '2022-01-22-M',
+        type: 'blog',
+        title: 'Convert your Angular libraries into web-components',
+        url: 'https://medium.com/@vivekkasture/convert-your-angular-libraries-into-web-components-8f2c4c658675',
+        description:
+          'In this article, we are going to convert existing angular libraries into web components, so that they can be used by other frameworks or libraries out there such as React, Vue, or even vanilla Javascript.',
+        imgUrl: '2022-01-22-M.jpg',
+        datePosted: '2022-01-22',
+        dateSource: '2022-01-22',
+        postedBy: 'Steve Witman',
+        sourceSite: 'Medium',
+        sourceUrl: 'https://medium.com/tag/angular/latest',
+        authorName: 'Vivek Kasture',
+        authorUrl: 'https://medium.com/@vivekkasture',
+        speakers: ['Vivek Kasture'],
+        tags: ['Libraries', 'Web Components'],
+      },
     ],
   },
 ];
 
-//////////////////////////////////////////////////////////////////////
-// todo SATURDAY
-// https://www.youtube.com/watch?v=xHtyU1kL3Lc
-// 12am https://just-another-developer.medium.com/creating-custom-validators-with-ngrx-forms-64b9c07caa17
-// 5am https://www.youtube.com/watch?v=7XXplNzKrs4
-// 8am https://medium.com/@shubham.saxena_62401/unit-testing-in-angular-part-1-6e2a4ef0b1db
-// 10am https://sergeygultyayev.medium.com/how-to-make-a-button-in-angular-a54d9e035a9f
-// 11am https://www.youtube.com/watch?v=dcjUK8wqlUc
-// noon https://dev.to/this-is-angular/content-projection-in-angular-1n9b
-// 6pm https://www.youtube.com/watch?v=L7d1i_4RdaU
-// 7pm https://dev.to/rodrigokamada/hosting-an-angular-application-on-amazon-s3-using-github-actions-3h6g
-// 7pm https://www.youtube.com/watch?v=2ry0OsfJtSM
-
-//////////////////////////////////////////////////////////////////////
 // todo SUNDAY
-// 7pm https://medium.com/@vivekkasture/convert-your-angular-libraries-into-web-components-8f2c4c658675
 // 8pm https://blog.hammelburg.me/developing-angular-apps-inside-a-docker-container-fbca44438e05  
 // 9pm https://dev.to/this-is-angular/search-text-and-navigate-chrome-alike-feature-with-marker-locations-using-angular-1a67
 // 10pm https://www.youtube.com/watch?v=LzSr9wLU-DI
@@ -9808,15 +10001,15 @@ export const posts = [
 
 // -------------------------- YOUTUBE ---------------------------
       // {
-      //   slug: '2022-01-21-A',
+      //   slug: '2022-01-22-A',
       //   type: 'video',
       //   duration: '9999999',
       //   title: '',
       //   url: '',
       //   description: '',
-      //   imgUrl: '2022-01-21-A.jpg',
-      //   datePosted: '2022-01-21',
-      //   dateSource: '2022-01-21',
+      //   imgUrl: '2022-01-22-A.jpg',
+      //   datePosted: '2022-01-22',
+      //   dateSource: '2022-01-22',
       //   postedBy: 'Steve Witman',
       //   sourceSite: 'YouTube',
       //   sourceUrl: 'https://youtube.com',
@@ -9828,14 +10021,14 @@ export const posts = [
 
       // -------------------------- DEV ---------------------------
       // {
-      //   slug: '2022-01-21-A',
+      //   slug: '2022-01-22-A',
       //   type: 'blog',
       //   title: '',
       //   url: '',
       //   description: '',
-      //   imgUrl: '2022-01-21-A.jpg',
-      //   datePosted: '2022-01-21',
-      //   dateSource: '2022-01-21',
+      //   imgUrl: '2022-01-22-A.jpg',
+      //   datePosted: '2022-01-22',
+      //   dateSource: '2022-01-22',
       //   postedBy: 'Steve Witman',
       //   sourceSite: 'DEV Community',
       //   sourceUrl:
@@ -9848,14 +10041,14 @@ export const posts = [
 
       // -------------------------- MEDIUM ---------------------------
       // {
-      //   slug: '2022-01-21-A',
+      //   slug: '2022-01-22-A',
       //   type: 'blog',
       //   title: '',
       //   url: '',
       //   description: '',
-      //   imgUrl: '2022-01-21-A.jpg',
-      //   datePosted: '2022-01-21',
-      //   dateSource: '2022-01-21',
+      //   imgUrl: '2022-01-22-A.jpg',
+      //   datePosted: '2022-01-22',
+      //   dateSource: '2022-01-22',
       //   postedBy: 'Steve Witman',
       //   sourceSite: 'Medium',
       //   sourceUrl: 'https://medium.com/tag/angular/latest',
@@ -9887,6 +10080,8 @@ export const posts = [
 // 12/14 https://www.thisdot.co/blog/using-custom-async-validators-in-angular-reactive-forms
 // 12/14 https://www.thisdot.co/blog/state-of-angular-ecosystem-or-december-2021
 // 12/13 https://www.thisdot.co/blog/how-to-write-a-custom-structural-directive-in-angular-part-2
+
+
 // 11/29 https://www.thisdot.co/blog/improving-angular-ngfor-using-trackbyid-directive
 // 11/23 https://blog.kenovienadu.me/preview-images-videos-in-angular
 // 11/23 https://www.thisdot.co/blog/angular-cdk-sorting-items-using-drag-and-drop
