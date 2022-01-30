@@ -167,11 +167,10 @@ a {
   white-space: pre-line !important;
 }
 
-::ng-deep .description-tooltip::before {
-  position: relative;
-  content: "DESCRIPTION:\A ";
-  top: -12px;
-  white-space: pre-wrap;
-  letter-spacing: 1px;
-  color: gray;
-}
+// ::ng-deep .description-tooltip::before {
+//   position: relative;
+//   top: -12px;
+//   white-space: pre-wrap;
+//   letter-spacing: 1px;
+//   color: gray;
+// }

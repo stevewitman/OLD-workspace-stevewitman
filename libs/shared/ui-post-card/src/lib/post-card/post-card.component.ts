@@ -14,7 +14,7 @@ export class PostCardComponent implements OnInit {
   tooltip: string;
 
   ngOnInit() {
-    this.tooltip = `TITLE: ${this.post.title}\n\nDESCRIPTION: ${this.post.description}\n\nSPEAKERS: ${this.post.speakers}\n\nTAGS: ${this.post.tags}\n\nDATE POSTED: ${this.post.datePosted}\n\nDATE CREATED: ${this.post.dateSource}\n\n`;
+    this.tooltip = `${this.post.slug}\n\nTITLE:\n${this.post.title}\n\nDESCRIPTION:\n${this.post.description}\n\nSPEAKERS:\n${this.post.speakers.toString().replace(/,/g, ', ')}\n\nDATE POSTED:\n${this.post.datePosted}\n\nDATE CREATED:\n${this.post.dateSource}\n\nTAGS:\n${this.post.tags.toString().replace(/,/g, ', ')}\n\n`;
   }
 
   onPostClicked(value: string) {
