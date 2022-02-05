@@ -1,0 +1,223 @@
+{
+  "sources": [
+    {
+      "sSi": "YouTube",
+      "sU": "https://youtube.com"
+    },
+    {
+      "sSi": "DEV Community",
+      "sU": "https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc"
+    },
+    {
+      "sSi": "Medium",
+      "sU": "https://medium.com/tag/angular/latest"
+    },
+    {
+      "sSi": "Hashnode",
+      "sU": "https://hashnode.com/n/angular"
+    },
+    {
+      "sSi": "GitHub Angular",
+      "sU": "https://github.com/angular/angular/releases"
+    }
+  ],
+
+  "2022-03": [
+    {
+      "date": "2022-02-03",
+      "posts": [
+        {
+          "slu": "2022-02-03-",
+          "typ": "video",
+          "dur": "9999999",
+          "tit": "",
+          "url": "",
+          "des": "",
+          "dPo": "2022-02-03",
+          "dSo": "2022-02-03",
+          "pBy": "Steve Witman",
+          "sSi": "YouTube",
+          "aNa": "",
+          "aUr": "",
+          "spe": [],
+          "tag": []
+        },
+        {
+          "slu": "2022-02-03-",
+          "typ": "blog",
+          "tit": "",
+          "url": "",
+          "des": "",
+          "dPo": "2022-02-03",
+          "dSo": "2022-02-03",
+          "pBy": "Steve Witman",
+          "sSi": "DEV Community",
+          "aNa": "",
+          "aUr": "",
+          "spe": [],
+          "tag": []
+        },
+        {
+          "slu": "2022-02-03-",
+          "typ": "blog",
+          "tit": "",
+          "url": "",
+          "des": "",
+          "dPo": "2022-02-03",
+          "dSo": "2022-02-03",
+          "pBy": "Steve Witman",
+          "sSi": "Medium",
+          "aNa": "",
+          "aUr": "",
+          "spe": [],
+          "tag": []
+        },
+        {
+          "slu": "2022-02-03-",
+          "typ": "blog",
+          "tit": "",
+          "url": "",
+          "des": "",
+          "dPo": "2022-02-03",
+          "dSo": "2022-02-03",
+          "pBy": "Steve Witman",
+          "sSi": "Hashnode",
+          "aNa": "",
+          "aUr": "",
+          "spe": [],
+          "tag": []
+        },
+        {
+          "slu": "2022-02-03-",
+          "typ": "release",
+          "tit": "Angular Release: ",
+          "url": "",
+          "dPo": "2022-02-03",
+          "dSo": "2022-02-03",
+          "pBy": "Steve Witman",
+          "sSi": "GitHub Angular",
+          "aNa": "",
+          "aUr": ""
+        }
+      ]
+    }
+  ],
+
+
+
+
+  "sources2": [
+    {
+      "sourceSite": "YouTube",
+      "sourceUrl": "https://youtube.com"
+    },
+    {
+      "sourceSite": "DEV Community",
+      "sourceUrl": "https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc",
+    },
+    {
+      "sourceSite": "Medium",
+      "sourceUrl": "https://medium.com/tag/angular/latest",
+    },
+    {
+      "sourceSite": "Hashnode",
+      "sourceUrl": "https://hashnode.com/n/angular",
+    },
+    {
+      "sourceSite": "GitHub Angular",
+      "sourceUrl": "https://github.com/angular/angular/releases",
+    }
+  ],
+
+  "2022-032": [
+    {
+      "date": "2022-02-03",
+      "dailyPosts": [
+        {
+          "slug": "2022-02-03-",
+          "type": "video",
+          "duration": "9999999",
+          "title": "",
+          "url": "",
+          "description": "",
+          "imgUrl": "2022-02-03-.jpg",
+          "datePosted": "2022-02-03",
+          "dateSource": "2022-02-03",
+          "postedBy": "Steve Witman",
+          "sourceSite": "YouTube",
+          "sourceUrl": "https://youtube.com",
+          "authorName": "",
+          "authorUrl": "",
+          "speakers": [],
+          "tags": []
+        },
+        {
+          "slug": "2022-02-03-",
+          "type": "blog",
+          "title": "",
+          "url": "",
+          "description": "",
+          "imgUrl": "2022-02-03-.jpg",
+          "datePosted": "2022-02-03",
+          "dateSource": "2022-02-03",
+          "postedBy": "Steve Witman",
+          "sourceSite": "DEV Community",
+          "sourceUrl": "https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc",
+          "authorName": "",
+          "authorUrl": "",
+          "speakers": [],
+          "tags": []
+        },
+        {
+          "slug": "2022-02-03-",
+          "type": "blog",
+          "title": "",
+          "url": "",
+          "description": "",
+          "imgUrl": "2022-02-03-.jpg",
+          "datePosted": "2022-02-03",
+          "dateSource": "2022-02-03",
+          "postedBy": "Steve Witman",
+          "sourceSite": "Medium",
+          "sourceUrl": "https://medium.com/tag/angular/latest",
+          "authorName": "",
+          "authorUrl": "",
+          "speakers": [],
+          "tags": []
+        },
+        {
+          "slug": "2022-02-03-",
+          "type": "blog",
+          "title": "",
+          "url": "",
+          "description": "",
+          "imgUrl": "2022-02-03-.jpg",
+          "datePosted": "2022-02-03",
+          "dateSource": "2022-02-03",
+          "postedBy": "Steve Witman",
+          "sourceSite": "Hashnode",
+          "sourceUrl": "https://hashnode.com/n/angular",
+          "authorName": "",
+          "authorUrl": "",
+          "speakers": [],
+          "tags": []
+        },
+        {
+          "slug": "2022-02-03-",
+          "type": "release",
+          "title": "Angular Release: ",
+          "url": "",
+          "description": "",
+          "imgUrl": "2022-02-03-.jpg",
+          "datePosted": "2022-02-03",
+          "dateSource": "2022-02-03",
+          "postedBy": "Steve Witman",
+          "sourceSite": "GitHub Angular",
+          "sourceUrl": "https://github.com/angular/angular/releases",
+          "authorName": "",
+          "authorUrl": ""
+        },
+      ]
+    }
+  ]
+}

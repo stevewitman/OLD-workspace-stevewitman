@@ -7675,6 +7675,26 @@ export const posts = [
         speakers: ['Mark Thompson '],
         tags: [],
       },
+      {
+        slug: '2022-01-11-H',
+        type: 'video',
+        duration: '6',
+        title: 'Angular in 2022 - Still worth learning?',
+        url: 'https://www.youtube.com/watch?v=LsmmNinmtps',
+        description:
+          'In 2022 the internet will tell you Angular is finished - The /"Angular vs React/" crowd decided learning Angular is completely useless. In this video, I give you my perspective on if Angular is still worth learning in 2022 and beyond. Spoiler: Lots of hot takes ahead!',
+        imgUrl: '2022-01-11-H.jpg',
+        datePosted: '2022-01-11',
+        dateSource: '2022-01-10',
+        postedBy: 'Steve Witman',
+        sourceSite: 'YouTube',
+        sourceUrl: 'https://youtube.com',
+        authorName: 'Hadi Ayoub',
+        authorUrl:
+          'https://www.youtube.com/channel/UCbWjJBhSA19OGR6l-eqQzxQ/videos',
+        speakers: ['Hadi Ayoub'],
+        tags: [],
+      },
     ],
   },
   {
@@ -12243,6 +12263,7 @@ export const posts = [
   },
 ];
 
+// 12am https://www.youtube.com/watch?v=5KxCqhkxqL8
 // 4am https://medium.com/@benjperney/create-an-angular-external-module-in-a-a-library-as-npm-package-with-router-and-parameters-159f6f31852f
 // 6am https://www.youtube.com/watch?v=tq8a0oNLjrs
 // 6am https://adventuresinangular.com/is-dependency-injection-broken-aia-339
@@ -12251,17 +12272,8 @@ export const posts = [
 // 11am https://www.youtube.com/watch?v=3IDkzcflvaU
 // 1pm https://thesiddharthraghuvanshi.medium.com/export-data-as-excel-file-in-angular-angular-excel-export-668473253a46
 
-// 11pm https://www.youtube.com/watch?v=hOXKQdBVDYM
-// 1am https://zakimohammed.medium.com/creating-multi-select-dropdown-with-angular-and-bootstrap-5-44685df45048
-// 1am https://www.youtube.com/watch?v=JFo0bALf5Zk
-// 2am https://medium.com/@dijin123/azure-ad-authentication-implementation-in-angular-d6e936b7b099
-// 7am https://medium.com/@colinbroberg/creating-an-angular-directive-to-detect-clicking-outside-an-object-afd6c07212ef
-// 8am https://www.youtube.com/watch?v=1Gkiq1u2aQc
-// 9am https://www.section.io/engineering-education/angular-12-autocomplete/
-// 9am https://www.youtube.com/watch?v=Jj0rqeOqhh8
-// 10am Angular Air
-// 10am https://www.youtube.com/watch?v=CemKQarA2xM
-// 10am https://www.youtube.com/watch?v=jkPuoUkhqN0
+
+
 
 // -------------------------- YOUTUBE ---------------------------
       // {

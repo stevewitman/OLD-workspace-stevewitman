@@ -6,13 +6,13 @@
 <span>'{{ tag }}', </span>
   </div> -->
   <ng-container *ngIf="recentPosts; else loading">
-    <div *ngFor="let dayGroup of recentPosts" class="daily-section">
+    <div *ngFor="let dayGroup of recentPosts.reverse()" class="daily-section">
       <div class="divider-line">
         <span class="divider-text">{{ dayGroup.date }}</span>
       </div>
       <ng-container *ngIf="dayGroup; else loading">
       <div class="flex-container">
-        <div *ngFor="let post of dayGroup.dailyPosts">
+        <div *ngFor="let post of dayGroup.dailyPosts.reverse()">
           <sh-post-card
             [post]="post"
             (postClicked)="openPostInTab($event)"
@@ -22,6 +22,7 @@
       </ng-container>
     </div>
   </ng-container>
+  <button (click)="getMorePosts()">MORE</button>
   <ng-template #loading>
     <div>L o a d i n g . . .</div>
   </ng-template>

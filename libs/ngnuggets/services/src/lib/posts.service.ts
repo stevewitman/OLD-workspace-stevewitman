@@ -1,44 +1,18 @@
 import { Injectable } from '@angular/core';
-import { from, of } from 'rxjs';
-import { map, tap } from 'rxjs/operators';
-
-import { Post } from './post';
-import { posts } from './posts'
 
 import { AngularFirestore } from '@angular/fire/firestore';
+import { HttpClient } from '@angular/common/http';
 
 @Injectable({
   providedIn: 'root',
 })
 export class PostService {
+  posts:any;
 
-  constructor(private db: AngularFirestore) {}
+  constructor(private db: AngularFirestore, private http: HttpClient ) {}
 
-  getPosts() {
-    const results = [];
-    return posts.reverse();
-
-    const posts$ = this.db
-      .collection('dailyPosts')
-      .get()
-      .pipe(
-        map((result) => this.convertSnaps(result)),
-
-      );
-    posts$.subscribe(data => console.log('DAT', data))
-
-    // posts$.subscribe((snaps) => {
-    //   snaps.forEach((snap) => {
-    //     const date = snap.id;
-    //     const postsData = snap.data();
-    //     const posts = Object.values(postsData);
-    //     results.push({
-    //       date: date,
-    //       dailyPosts: posts,
-    //     });
-    //   });
-    // });
-    return results;
+  getPosts(month) {
+    return this.http.get(`assets/posts-2022-${month}-LONG.json`);
   }
 
   convertSnaps<T>(results) {
@@ -60,3 +34,7 @@ export class PostService {
 
 
 }
+function reverse(): import("rxjs").OperatorFunction<Object, unknown> {
+  throw new Error('Function not implemented.');
+}
+

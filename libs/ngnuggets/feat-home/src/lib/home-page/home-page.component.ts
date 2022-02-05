@@ -1,7 +1,9 @@
+import { templateJitUrl } from '@angular/compiler';
 import { Component, OnInit } from '@angular/core';
 
 import { PostService } from '@nx-stevewitman/ngnuggets/services';
 import { Post } from '@nx-stevewitman/ngnuggets/services';
+import { toArray } from 'rxjs/operators';
 // import 'firebase/firestore';
 // import { AngularFirestore } from '@angular/fire/firestore';
 
@@ -15,7 +17,9 @@ export class HomePageComponent implements OnInit {
   posts$;
   dailyPosts;
   post$;
-  recentPosts = [];
+  recentPosts: any;
+  recentPosts1: any;
+  recentPosts2: any;
   tags = [];
   uniqueTags;
   uniqueTagsString = 'init';
@@ -23,19 +27,25 @@ export class HomePageComponent implements OnInit {
   constructor(private postService: PostService) {}
 
   ngOnInit() {
-    this.recentPosts = this.getPosts();
-    // this.uniqueTags = this.extractTags(this.recentPosts);
-    // this.uniqueTags.forEach((x) => {
-      
-    //   this.uniqueTagsString += `'${x}', `
-    // }) 
-    // console.log(this.uniqueTagsString);
-    
-
+    this.getPosts('02').subscribe((data) => {
+      this.recentPosts = data;
+    });
   }
-  
-  getPosts() {
-    return this.postService.getPosts();
+
+
+
+  getPosts(m) {
+    return this.postService.getPosts(m);
+  }
+
+  getMorePosts() {
+    console.log('recentPosts BEFORE:', this.recentPosts);
+    this.getPosts('01').subscribe((data) => {
+      this.recentPosts2 = data;
+      console.log('MORE:', this.recentPosts2);
+      this.recentPosts = [...this.recentPosts2, ...this.recentPosts];
+      console.log('recentPosts AFTER:', this.recentPosts);
+    });
   }
 
   openPostInTab(url: string) {
@@ -48,22 +58,18 @@ export class HomePageComponent implements OnInit {
       e.dailyPosts.forEach((f) => {
         if (f.tags.length > 0) {
           f.tags.forEach((g) => {
-            allTags.push(g)
-          })
+            allTags.push(g);
+          });
         }
-        
-      })
+      });
     });
     // console.log(allTags)
-    const sorted = allTags.sort()
+    const sorted = allTags.sort();
     // console.log(sorted)
-// return sorted
+    // return sorted
     const uniqueArray = sorted.filter(function (item, pos) {
       return sorted.indexOf(item) == pos;
     });
-    return uniqueArray
+    return uniqueArray;
   }
-
 }
-
-
