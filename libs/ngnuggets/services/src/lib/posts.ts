@@ -12243,13 +12243,6 @@ export const posts = [
   },
 ];
 
-// 4am https://medium.com/@benjperney/create-an-angular-external-module-in-a-a-library-as-npm-package-with-router-and-parameters-159f6f31852f
-// 6am https://www.youtube.com/watch?v=tq8a0oNLjrs
-// 6am https://adventuresinangular.com/is-dependency-injection-broken-aia-339
-
-// 11am https://www.youtube.com/watch?v=X-1TBjBx6pc
-// 11am https://www.youtube.com/watch?v=3IDkzcflvaU
-// 1pm https://thesiddharthraghuvanshi.medium.com/export-data-as-excel-file-in-angular-angular-excel-export-668473253a46
 
 // 11pm https://www.youtube.com/watch?v=hOXKQdBVDYM
 // 1am https://zakimohammed.medium.com/creating-multi-select-dropdown-with-angular-and-bootstrap-5-44685df45048
@@ -12262,6 +12255,8 @@ export const posts = [
 // 10am Angular Air
 // 10am https://www.youtube.com/watch?v=CemKQarA2xM
 // 10am https://www.youtube.com/watch?v=jkPuoUkhqN0
+// 3pm https://www.youtube.com/watch?v=XsliS_ouE_M
+
 
 // -------------------------- YOUTUBE ---------------------------
       // {
