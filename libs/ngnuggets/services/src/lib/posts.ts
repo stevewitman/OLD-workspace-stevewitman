@@ -12244,18 +12244,26 @@ export const posts = [
 ];
 
 
-// 11pm https://www.youtube.com/watch?v=hOXKQdBVDYM
-// 1am https://zakimohammed.medium.com/creating-multi-select-dropdown-with-angular-and-bootstrap-5-44685df45048
-// 1am https://www.youtube.com/watch?v=JFo0bALf5Zk
-// 2am https://medium.com/@dijin123/azure-ad-authentication-implementation-in-angular-d6e936b7b099
-// 7am https://medium.com/@colinbroberg/creating-an-angular-directive-to-detect-clicking-outside-an-object-afd6c07212ef
-// 8am https://www.youtube.com/watch?v=1Gkiq1u2aQc
-// 9am https://www.section.io/engineering-education/angular-12-autocomplete/
-// 9am https://www.youtube.com/watch?v=Jj0rqeOqhh8
-// 10am Angular Air
-// 10am https://www.youtube.com/watch?v=CemKQarA2xM
-// 10am https://www.youtube.com/watch?v=jkPuoUkhqN0
-// 3pm https://www.youtube.com/watch?v=XsliS_ouE_M
+// 10pm https://dev.to/railsstudent/customize-template-with-ngtemplateoutlet-and-ngtemplate-in-angular-k5l
+// 1am sat https://www.youtube.com/watch?v=LEMRm6yVu3M
+// 8am https://www.youtube.com/watch?v=jFk9-zV27BE
+// 9am https://dev.to/ahmeddoosama/forms-in-angular-3m11
+// 9am https://www.youtube.com/watch?v=2BQsJ5I3naE
+// 7pm https://www.youtube.com/watch?v=93kMaqHgWYA
+// https://medium.com/@kiyani1995/using-auxiliary-routes-in-angular-to-reduce-application-size-1058f4566854
+//
+// SUNDAY
+// 
+// 12am https://medium.com/@kanishkanaik/integration-of-bootstrap-ui-framework-in-the-angular-application-f65640ee15a4
+// 12am https://medium.com/@avinash.dev21987/how-to-deploy-angular-app-on-netlify-215aad88505
+// 3am https://dev.to/aakashgoplani/a-simple-approach-towards-handling-errors-in-angular-2pd7
+// 5am https://medium.com/@nacojohn/deploy-an-angular-universal-project-to-aws-elastic-beanstalk-c165b557c5c0
+// 6am https://www.youtube.com/watch?v=0Ywak7Ppszw
+// 8am https://blog.agence-kse.fr/how-to-install-jest-in-angular-13
+// 8am https://www.youtube.com/watch?v=P2FY8Pdbjyk
+// 9am https://dev.to/devsmranjan/web-push-notification-with-web-push-angular-node-js-36de
+// 11am https://www.youtube.com/watch?v=gia-NDSMYUk
+
 
 
 // -------------------------- YOUTUBE ---------------------------
