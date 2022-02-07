@@ -12244,15 +12244,7 @@ export const posts = [
 ];
 
 
-// 10pm https://dev.to/railsstudent/customize-template-with-ngtemplateoutlet-and-ngtemplate-in-angular-k5l
-// 1am sat https://www.youtube.com/watch?v=LEMRm6yVu3M
-// 8am https://www.youtube.com/watch?v=jFk9-zV27BE
-// 9am https://dev.to/ahmeddoosama/forms-in-angular-3m11
-// 9am https://www.youtube.com/watch?v=2BQsJ5I3naE
-// 7pm https://www.youtube.com/watch?v=93kMaqHgWYA
-// https://medium.com/@kiyani1995/using-auxiliary-routes-in-angular-to-reduce-application-size-1058f4566854
-//
-// SUNDAY
+
 // 
 // 12am https://medium.com/@kanishkanaik/integration-of-bootstrap-ui-framework-in-the-angular-application-f65640ee15a4
 // 12am https://medium.com/@avinash.dev21987/how-to-deploy-angular-app-on-netlify-215aad88505
