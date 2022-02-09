@@ -4691,7 +4691,25 @@
         "authorName": "Joey Perrott",
         "authorUrl": "https://github.com/josephperrott",
         "tags": ["Release"]
-      }
+      },
+      {
+          "slug": "2022-01-26-R",
+          "type": "video",
+          "duration": "3",
+          "title": "RxJS: Why takeUntil(subject) often leads to memory leaks and how to fix it",
+          "url": "https://www.youtube.com/watch?v=PSfwfIN4qNs",
+          "description": "In this Video you will learn, why takeUntil(subject) often leads to a new memory leak and how to fix it. The example is written in Angular with RxJS 7.",
+          "imgUrl": "2022-01-26-R.jpg",
+          "datePosted": "2022-01-26",
+          "dateSource": "2022-01-26",
+          "postedBy": "Steve Witman",
+          "sourceSite": "YouTube",
+          "sourceUrl": "https://youtube.com",
+          "authorName": "digibrains",
+          "authorUrl": "https://www.youtube.com/channel/UC2d43lRPRGRYGZ_l8A7qWEA/videos",
+          "speakers": [],
+          "tags": ["RxJS", "Subscriptions", "takeUntil", "Performance"]
+        }
     ]
   },
   {
