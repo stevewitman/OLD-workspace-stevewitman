@@ -103,6 +103,7 @@ export const tags = [
   { category: 'Angular', tag: 'viewContainerRef' },
 
   { category: 'Angular-decorators', tag: '@Attribute' },
+  { category: 'Angular-decorators', tag: '@ContentChild' },
   { category: 'Angular-decorators', tag: '@HostBinding' },
   { category: 'Angular-decorators', tag: '@HostListener' },
   { category: 'Angular-decorators', tag: '@Input' },

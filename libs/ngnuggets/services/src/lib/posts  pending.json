@@ -103,7 +103,9 @@
           "sourceSite": "GitHub Angular",
           "sourceUrl": "https://github.com/angular/angular/releases",
           "authorName": "",
-          "authorUrl": ""
+          "authorUrl": "",
+          "speakers": [],
+          "tags": ["Release"]
         },
       ]
     }

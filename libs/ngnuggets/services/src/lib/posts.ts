@@ -12247,25 +12247,14 @@ export const posts = [
 
 
 // MONDAY
-// 9pm https://www.youtube.com/watch?v=dE87NOFnEMQ  
-// 12am https://www.youtube.com/watch?v=GXBm04c1PNk
-// 3am https://medium.com/pixelmatic-tech/unit-testing-in-angular-becd89689e23
-// 4am https://medium.com/@denys5dev/synchronize-data-grid-state-with-the-url-angular-ngqp-devextreme-78c81125445
-// 5am https://dev.to/syncfusion/top-10-features-in-angular-13-every-developer-should-know-2ff0
-// 6am https://www.youtube.com/watch?v=EiQnQ6JHq9M
-// 6am https://www.youtube.com/watch?v=OG8vbzVuFoc
-// 6am https://www.spreaker.com/user/14532324/s2e03-joe-eames-on-being-a-stand-out-emp?utm_campaign=episode-title&utm_medium=app&utm_source=widget
-// 7am https://www.youtube.com/watch?v=O8UxAgcF-ks
-// 8am https://www.youtube.com/watch?v=aGtxT_NgjfM
-// 9am https://dev.to/rainerhahnekamp/ng-news-issue-2205-14o2
-// 10am https://eraoftech.medium.com/basic-implementation-of-virtual-scrolling-5bc879434966
-// 11am https://medium.com/geekculture/angular-dependency-injection-7337ecb69aae
-// noon https://medium.com/dottech/angular-form-control-valid-vs-invalid-ca82a639168b
-// 2pm https://medium.com/@pro.gramistka/create-interactive-maps-in-angular-12-project-with-openlayers-ba6683d6fe5b
+
+
+
+
+
 
 // TUESDAY
 
-// 7pm https://github.com/angular/angular/releases
 // 5am https://dev.to/marc_dev01/optimistic-ui-and-auto-save-with-ngrx-111m
 // 5am https://kelly-kh-woo.medium.com/rxjs-rxjs-store-for-angular-rx-ng-store-3e1d2e309086
 // 5am https://medium.com/@chenpeleg/upgrading-from-angular-2-to-12-8589dd007b34
