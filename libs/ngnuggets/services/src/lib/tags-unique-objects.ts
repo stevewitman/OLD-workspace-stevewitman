@@ -261,6 +261,7 @@ export const tags = [
   { category: 'RxJS', tag: 'multicast' },
   { category: 'RxJS', tag: 'pluck' },
   { category: 'RxJS', tag: 'range' },
+  { category: 'RxJS', tag: 'scan' },
   { category: 'RxJS', tag: 'share' },
   { category: 'RxJS', tag: 'shareReplay' },
   { category: 'RxJS', tag: 'startWith' },

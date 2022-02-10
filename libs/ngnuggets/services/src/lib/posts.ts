@@ -12243,31 +12243,8 @@ export const posts = [
   },
 ];
 
-
-
-
-// MONDAY
-
-
-
-
-
-
-// TUESDAY
-
-// 5am https://dev.to/marc_dev01/optimistic-ui-and-auto-save-with-ngrx-111m
-// 5am https://kelly-kh-woo.medium.com/rxjs-rxjs-store-for-angular-rx-ng-store-3e1d2e309086
-// 5am https://medium.com/@chenpeleg/upgrading-from-angular-2-to-12-8589dd007b34
-// 7am https://www.youtube.com/watch?v=DxfAEhdOl_0
-// 8am https://www.youtube.com/watch?v=0S115Z9MjhQ
-// 8am https://www.youtube.com/watch?v=6LRBT4goYvE
-// https://www.telerik.com/blogs/angular-basics-setting-app-navigation-inside-angular-component-file
-// 9am https://www.youtube.com/watch?v=vNGWpZlUOPM
-// 10am https://www.youtube.com/watch?v=CWjcjnYNAw4
-// 11am https://www.youtube.com/watch?v=IU0SU4lbAwY
-
 // WEDNESDAY
-// 12am (8th) https://mkay11.medium.com/intersection-observer-the-best-way-to-animate-your-website-on-scroll-in-angular-45d7d9d72fac
+// 12am (8th) 
 // 1am https://www.youtube.com/watch?v=liMVRVYvor8
 // 2am https://medium.com/@gokulbudha/interceptors-in-angular-aee9b247d4c5
 // 2am https://medium.com/@incecinar/angular-material-password-field-with-visibility-toggle-correct-way-b4265aa0de3c
@@ -12280,7 +12257,22 @@ export const posts = [
 // 7am https://www.youtube.com/watch?v=hw0OWwv2orI
 // 9am https://eraoftech.medium.com/browser-fingerprinting-in-angular-project-fdb95038d730
 // 9am https://www.youtube.com/watch?v=7LOu-xF9ML0
+// 11am https://www.youtube.com/watch?v=rCCKoQBltoY
+// 12pm https://www.youtube.com/watch?v=viaEjdbEWNE
+// 2pm https://www.youtube.com/watch?v=Lacoo9sc3bQ
+// 4pm https://blog.angular.io/how-the-angular-compiler-works-42111f9d2549
 
+
+
+// THURSDAY
+// 9th https://www.youtube.com/watch?v=kb9CBd2c4uA
+// 10pm https://pawan-kumawat.medium.com/avoid-callback-hell-in-angular-code-3537890034b
+// 11pm https://www.youtube.com/watch?v=0LbV6mUHDW0
+// https://www.telerik.com/blogs/kendo-ui-angularjs-1.x-support-end-life-plans
+// https://www.youtube.com/watch?v=blErqI-o1TM
+// 10am https://www.youtube.com/watch?v=6_UBrfO7i80
+// 11am https://www.youtube.com/watch?v=j5htIyxmmzA
+// 11am https://www.youtube.com/watch?v=GURAVBVavkI
 
 // -------------------------- YOUTUBE ---------------------------
       // {
