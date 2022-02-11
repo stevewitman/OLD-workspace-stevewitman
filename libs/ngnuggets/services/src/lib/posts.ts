@@ -12243,24 +12243,6 @@ export const posts = [
   },
 ];
 
-// WEDNESDAY
-// 12am (8th) 
-// 1am https://www.youtube.com/watch?v=liMVRVYvor8
-// 2am https://medium.com/@gokulbudha/interceptors-in-angular-aee9b247d4c5
-// 2am https://medium.com/@incecinar/angular-material-password-field-with-visibility-toggle-correct-way-b4265aa0de3c
-// 6am https://www.youtube.com/watch?v=J-7j8CDUGwE
-// 6am https://www.youtube.com/watch?v=1X4EmWfEn0Y
-// 6am https://www.youtube.com/watch?v=CkTcziDMwR8
-// 6am https://www.youtube.com/watch?v=K-V50_xxNk4
-// 6am https://www.youtube.com/watch?v=uDdfwPXj2CY
-
-// 7am https://www.youtube.com/watch?v=hw0OWwv2orI
-// 9am https://eraoftech.medium.com/browser-fingerprinting-in-angular-project-fdb95038d730
-// 9am https://www.youtube.com/watch?v=7LOu-xF9ML0
-// 11am https://www.youtube.com/watch?v=rCCKoQBltoY
-// 12pm https://www.youtube.com/watch?v=viaEjdbEWNE
-// 2pm https://www.youtube.com/watch?v=Lacoo9sc3bQ
-// 4pm https://blog.angular.io/how-the-angular-compiler-works-42111f9d2549
 
 
 
@@ -12273,6 +12255,7 @@ export const posts = [
 // 10am https://www.youtube.com/watch?v=6_UBrfO7i80
 // 11am https://www.youtube.com/watch?v=j5htIyxmmzA
 // 11am https://www.youtube.com/watch?v=GURAVBVavkI
+// 1pm https://www.youtube.com/watch?v=nk1hKkQg9LE
 
 // -------------------------- YOUTUBE ---------------------------
       // {

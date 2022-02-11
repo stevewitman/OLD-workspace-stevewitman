@@ -159,6 +159,7 @@ export const tags = [
   { category: 'Misc', tag: 'Microservices' },
   { category: 'Misc', tag: 'Mixins' },
   { category: 'Misc', tag: 'Module Federation' },
+  { category: 'Misc', tag: 'Monorepo' },
   { category: 'Misc', tag: 'Open Source' },
   { category: 'Misc', tag: 'PDF' },
   { category: 'Misc', tag: 'Pagination' },
