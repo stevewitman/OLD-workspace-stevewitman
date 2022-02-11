@@ -553,7 +553,7 @@
           "authorName": "Mehran Beiglou",
           "authorUrl": "https://vishnuthankappan.medium.com",
           "speakers": ["Mehran Beiglou"],
-          "tags": ["Forms"]
+          "tags": ["Forms", "Custom"]
         },
         {
           "slug": "2021-12-03-H",
@@ -571,7 +571,7 @@
           "authorName": "WebTechTalk",
           "authorUrl": "https://www.youtube.com/c/WebTechTalk/videos",
           "speakers": [],
-          "tags": ["Pipes"]
+          "tags": ["Pipes", "Custom"]
         },
         {
           "slug": "2021-12-03-J",
@@ -1108,7 +1108,7 @@
           "type": "blog",
           "title": "AngularJS to Angular Future-Proof Your Business Application",
           "url": "https://dev.to/alicemgray/how-migrating-from-angularjs-to-angular-future-proof-your-business-application-1fem",
-          "description": "Angular is the progression of AngularJs, a JavaScript-built open-source framework for front-end development. It helps to develop scalable Single Page Applications (SPAs). Indeed, many businesses are planning the migration to experience the modernistic web development ideals of Angular and its extensive community support. However, they find it challenging to select the right upgrade approach, with misperceptions around why and how to migrate.",
+          "description": "Angular is the progression of AngularJS, a JavaScript-built open-source framework for front-end development. It helps to develop scalable Single Page Applications (SPAs). Indeed, many businesses are planning the migration to experience the modernistic web development ideals of Angular and its extensive community support. However, they find it challenging to select the right upgrade approach, with misperceptions around why and how to migrate.",
           "imgUrl": "2021-12-07-B.jpg",
           "datePosted": "2021-12-07",
           "dateSource": "2021-12-07",
@@ -1118,7 +1118,7 @@
           "authorName": "Alice Gray",
           "authorUrl": "https://dev.to/alicemgray",
           "speakers": ["Alice Gray"],
-          "tags": ["Update"]
+          "tags": ["Update", "AngularJS"]
         },
         {
           "slug": "2021-12-07-C",
@@ -1387,7 +1387,7 @@
           "authorName": "Rolling Scopes School",
           "authorUrl": "https://www.youtube.com/c/RollingScopesSchool/videos",
           "speakers": [],
-          "tags": ["NgModules", "Services", "HTTP"]
+          "tags": ["Modules", "Services", "HTTP"]
         },
         {
           "slug": "2021-12-08-H",
@@ -1458,7 +1458,7 @@
           "authorName": "ng-conf",
           "authorUrl": "https://www.youtube.com/c/ngconfonline/videos",
           "speakers": ["Mark Thompson", "Igor Minar"],
-          "tags": []
+          "tags": ["AngularJS"]
         }
       ]
     },
@@ -1617,7 +1617,7 @@
           "authorName": "Alisa Duncan",
           "authorUrl": "https://dev.to/alisaduncan",
           "speakers": ["Alisa Duncan"],
-          "tags": ["Components"]
+          "tags": ["Components", "Dynamic"]
         },
         {
           "slug": "2021-12-09-K",
@@ -1912,7 +1912,7 @@
           "authorName": "NG - BE",
           "authorUrl": "https://www.youtube.com/c/NGBECONF/videos",
           "speakers": ["Igor Minar"],
-          "tags": []
+          "tags": ["AngularJS"]
         },
         {
           "slug": "2021-12-11-C",
@@ -1974,7 +1974,7 @@
           "duration": "35",
           "title": "NG-BE 2021 - Pete Bacon Darwin - Javascript Generators",
           "url": "https://www.youtube.com/watch?v=w6mGp1H3dY0",
-          "description": "Pete is one of the longest standing members of the Angular team. He has led development of AngularJS, and more recently been involved in i18n and compiler tooling for Angular. He wrote the most successful book on AngularJS, gives talks and workshops on Angular and is a co-organiser of AngularConnect.",
+          "description": "Pete is one of the longest standing members of the Angular team. He gives talks and workshops on Angular and is a co-organiser of AngularConnect.",
           "imgUrl": "2021-12-11-F.jpg",
           "datePosted": "2021-12-11",
           "dateSource": "2021-12-11",
@@ -2171,7 +2171,7 @@
           "authorName": "WebTechTalk",
           "authorUrl": "https://www.youtube.com/c/WebTechTalk/videos",
           "speakers": [],
-          "tags": ["Directives"]
+          "tags": ["Directives", "Custom"]
         },
         {
           "slug": "2021-12-13-C",
@@ -2455,7 +2455,7 @@
           "authorName": "Chris Trześniewski",
           "authorUrl": "https://dev.to/ktrz",
           "speakers": ["Chris Trześniewski"],
-          "tags": ["Directives", "Custom Directive"]
+          "tags": ["Directives", "Custom"]
         },
         {
           "slug": "2021-12-14-H",
@@ -2848,7 +2848,7 @@
           "authorName": "Adithya Sreyaj",
           "authorUrl": "https://dev.to/adisreyaj",
           "speakers": ["Adithya Sreyaj"],
-          "tags": ["Forms", "Validators"]
+          "tags": ["Forms", "Validators", "Custom"]
         },
         {
           "slug": "2021-12-16-D",
@@ -3343,7 +3343,7 @@
           "authorName": "Learning Partner",
           "authorUrl": "https://www.youtube.com/c/LearningPartnerDigital/videos",
           "speakers": [],
-          "tags": ["Forms", "Reactive Forms", "FormArray"]
+          "tags": ["Forms", "Reactive Forms", "FormArray", "Dynamic"]
         },
         {
           "slug": "2021-12-20-C",
@@ -4153,7 +4153,7 @@
           "authorName": "Lukasz Kuklis",
           "authorUrl": "https://dev.to/lkuklis",
           "speakers": ["Lukasz Kuklis"],
-          "tags": ["Directives", "Custom Directives"]
+          "tags": ["Directives", "Custom"]
         },
         {
           "slug": "2021-12-25-D",
@@ -4206,7 +4206,7 @@
           "authorName": "Omerko",
           "authorUrl": "https://www.youtube.com/c/Omerko/videos",
           "speakers": ["Stefan Omerovic"],
-          "tags": ["Angular Material"]
+          "tags": ["Angular Material", "Menu"]
         }
       ]
     },
@@ -4246,7 +4246,7 @@
           "authorName": "Vikas",
           "authorUrl": "https://www.youtube.com/c/RealAppsniksviks/videos",
           "speakers": ["Vikas"],
-          "tags": ["Angular Material"]
+          "tags": ["Pipe", "Custom"]
         },
         {
           "slug": "2021-12-26-C",
@@ -4372,7 +4372,7 @@
           "authorName": "Dharmen Shah",
           "authorUrl": "https://twitter.com/shhdharmen",
           "speakers": "Dharmen Shah",
-          "tags": ["Angular Material"]
+          "tags": ["Angular Material", "Dynamic", "Menu"]
         },
         {
           "slug": "2021-12-27-F",
@@ -4406,7 +4406,7 @@
           "authorName": "Vladimir Topolev",
           "authorUrl": "https://i-topolev-vladimir.medium.com",
           "speakers": ["Vladimir Topolev"],
-          "tags": ["Forms", "Reactive Forms"]
+          "tags": ["Forms", "Reactive Forms", "Dynamic"]
         },
         {
           "slug": "2021-12-27-H",
@@ -5085,7 +5085,7 @@
           "authorName": "Anubhab Mukherjee",
           "authorUrl": "https://dev.to/anubhab5",
           "speakers": ["Anubhab Mukherjee"],
-          "tags": ["Custom Directives"]
+          "tags": ["Directives", "Custom"]
         },
         {
           "slug": "2021-12-31-H",
@@ -5102,7 +5102,7 @@
           "authorName": "Connie Leung",
           "authorUrl": "https://dev.to/railsstudent",
           "speakers": ["Connie Leung"],
-          "tags": ["NgModules"]
+          "tags": ["Modules", "Dynamic"]
         }
       ]
     }

@@ -81,7 +81,7 @@
           "authorName": "Decoded Frontend",
           "authorUrl": "https://www.youtube.com/c/DecodedFrontend/videos",
           "speakers": ["Dmytro Mezhenskyi"],
-          "tags": ["Directives"]
+          "tags": ["Directives", "Custom"]
         },
         {
           "slug": "2022-02-01-F",
@@ -115,7 +115,7 @@
           "authorName": "Nwose Lotanna Victor",
           "authorUrl": "https://www.telerik.com/blogs/author/nwose-lotanna",
           "speakers": ["Nwose Lotanna Victor"],
-          "tags": ["Routing", "Router"]
+          "tags": ["Routing"]
         },
         {
           "slug": "2022-02-01-H",
@@ -181,7 +181,7 @@
           "authorName": "Brandon Roberts",
           "authorUrl": "https://dev.to/brandontroberts",
           "speakers": ["Brandon Roberts"],
-          "tags": ["Router"]
+          "tags": ["Routing"]
         },
         {
           "slug": "2022-02-01-M",
@@ -285,7 +285,7 @@
           "authorName": "Ayush Thakur",
           "authorUrl": "https://just-another-developer.medium.com",
           "speakers": ["Ayush Thakur"],
-          "tags": ["Router"]
+          "tags": ["Routing", "Dynamic"]
         },
         {
           "slug": "2022-02-02-F",
@@ -592,7 +592,7 @@
           "authorName": "procademy",
           "authorUrl": "https://www.youtube.com/c/procademyn/videos",
           "speakers": ["Manoj Jha"],
-          "tags": ["ng-content"]
+          "tags": ["Directives", "ng-content", "Dynamic"]
         },
         {
           "slug": "2022-02-04-F",
@@ -764,7 +764,7 @@
           "authorName": "Nihira Techiees",
           "authorUrl": "https://www.youtube.com/channel/UCsbmVmB_or8sVLLEq4XhE_A/videos",
           "speakers": [],
-          "tags": ["Auth", "Route Guards"]
+          "tags": ["Auth", "Routing", "Route Guards", "Dynamic", "Menu"]
         },
         {
           "slug": "2022-02-05-F",
@@ -797,7 +797,7 @@
           "authorName": "Muhammad Hassan",
           "authorUrl": "https://medium.com/@kiyani1995",
           "speakers": ["Muhammad Hassan"],
-          "tags": ["Router", "Routing"]
+          "tags": ["Routing"]
         }
       ]
     },
@@ -1272,7 +1272,7 @@
           "authorName": "procademy",
           "authorUrl": "https://www.youtube.com/c/procademyn/videos",
           "speakers": ["Manoj Jha"],
-          "tags": ["Directives"]
+          "tags": ["Directives", "Custom"]
         },
         {
           "slug": "2022-02-08-E",
@@ -1323,7 +1323,7 @@
           "authorName": "Nwose Lotanna Victor",
           "authorUrl": "https://www.telerik.com/blogs/author/nwose-lotanna",
           "speakers": ["Nwose Lotanna Victor"],
-          "tags": ["Routing", "Router"]
+          "tags": ["Routing"]
         },
         {
           "slug": "2022-02-08-H",
@@ -1496,7 +1496,7 @@
           "authorName": "Angular Nation",
           "authorUrl": "https://www.youtube.com/channel/UCmlK6Jayb3qqJYNfUmL-DkA/videos",
           "speakers": ["Bonnie Brennan"],
-          "tags": []
+          "tags": ["Dynamic"]
         },
         {
           "slug": "2022-02-09-H",
@@ -1614,7 +1614,152 @@
           "authorUrl": "https://medium.com/@synalx",
           "speakers": ["Alex Rickabaugh"],
           "tags": ["Ivy"]
+        },
+        {
+          "slug": "2022-02-09-Q",
+          "type": "video",
+          "duration": "8",
+          "title": "How to handle errors REACTIVELY with the async pipe",
+          "url": "https://www.youtube.com/watch?v=kb9CBd2c4uA",
+          "description": "In this video, we take a look at how to handle errors from RxJS observable streams reactively when using the async pipe in Angular.",
+          "datePosted": "2022-02-09",
+          "dateSource": "2022-02-09",
+          "postedBy": "Steve Witman",
+          "sourceSite": "YouTube",
+          "sourceUrl": "https://youtube.com",
+          "authorName": "Joshua Morony",
+          "authorUrl": "https://www.youtube.com/c/JoshuaMorony/videos",
+          "speakers": ["Joshua Morony"],
+          "tags": ["Errors", "Async Pipe"]
         }
+      ]
+    },
+    {
+      "date": "2022-02-10",
+      "dailyPosts": [
+        {
+          "slug": "2022-02-10-A",
+          "type": "blog",
+          "title": "Avoid Callback Hell in Angular Code",
+          "url": "https://pawan-kumawat.medium.com/avoid-callback-hell-in-angular-code-3537890034b",
+          "description": "We call an API and get data from backend. Such code is linear as there is no nesting(call within call) Easy ! but real world is not as easy. Now requirement says once you get user's data then you must call another API fetching its posts...",
+          "datePosted": "2022-02-10",
+          "dateSource": "2022-02-10",
+          "postedBy": "Steve Witman",
+          "sourceSite": "Medium",
+          "sourceUrl": "https://medium.com/tag/angular/latest",
+          "authorName": "Pawan Kumawat",
+          "authorUrl": "https://pawan-kumawat.medium.com/avoid-callback-hell-in-angular-code-3537890034b",
+          "speakers": ["Pawan Kumawat"],
+          "tags": ["RxJS", "concatMap"]
+        },
+        {
+          "slug": "2022-02-10-B",
+          "type": "video",
+          "duration": "6",
+          "title": "How to create Custom Pipes in Angular",
+          "url": "https://www.youtube.com/watch?v=0LbV6mUHDW0",
+          "description": "Today we are learn Custom pipes that how to create (ng g pipe pipename) and how to use custom",
+          "datePosted": "2022-02-10",
+          "dateSource": "2022-02-10",
+          "postedBy": "Steve Witman",
+          "sourceSite": "YouTube",
+          "sourceUrl": "https://youtube.com",
+          "authorName": "Learn Code",
+          "authorUrl": "https://www.youtube.com/channel/UCSUcR0LCSrnWmuLS1oBVugg/videos",
+          "speakers": [],
+          "tags": ["Pipes", "Custom"]
+        },
+        {
+          "slug": "2022-02-10-C",
+          "type": "blog",
+          "duration": "",
+          "title": "Kendo UI and AngularJS 1.x Support End of Life Plans",
+          "url": "https://www.telerik.com/blogs/kendo-ui-angularjs-1.x-support-end-life-plans",
+          "description": "With Google ending the long term support for AngularJS 1.x, it is time to discuss the future of AngularJS 1.x support in Kendo UI.",
+          "datePosted": "2022-02-10",
+          "dateSource": "2022-02-10",
+          "postedBy": "Steve Witman",
+          "sourceSite": "Progress Telerik Blog",
+          "sourceUrl": "https://www.telerik.com/blogs/web-angular",
+          "authorName": "Carl Bergenhem",
+          "authorUrl": "https://www.telerik.com/blogs/author/carl-bergenhem",
+          "speakers": ["Carl Bergenhem"],
+          "tags": ["AngularJS"]
+        },
+        {
+          "slug": "2022-02-10-D",
+          "type": "video",
+          "duration": "12",
+          "title": "@HostListner in Angular | Directives | Angular 12+",
+          "url": "https://www.youtube.com/watch?v=blErqI-o1TM",
+          "description": "HostListener Decorator listens to the DOM event on the host element. It also provides a handler method to run when that event occurs. The host element is the element on which we attach our directive or component.",
+          "datePosted": "2022-02-10",
+          "dateSource": "2022-02-10",
+          "postedBy": "Steve Witman",
+          "sourceSite": "YouTube",
+          "sourceUrl": "https://youtube.com",
+          "authorName": "procademy",
+          "authorUrl": "https://www.youtube.com/c/procademyn/videos",
+          "speakers": ["Manoj Jha"],
+          "tags": ["@HostListener"]
+        },
+        {
+          "slug": "2022-02-10-E",
+          "type": "video",
+          "duration": "97",
+          "title": "[English] Angular Meetup Feb 2022",
+          "url": "https://www.youtube.com/watch?v=6_UBrfO7i80",
+          "description": "- Sam-4S: Semi-Automatic Migrator for Standalone Components\n- Your 5 Steps to Frankenstein Micro Frontends w/ Module Federation",
+          "datePosted": "2022-02-10",
+          "dateSource": "2022-02-10",
+          "postedBy": "Steve Witman",
+          "sourceSite": "YouTube",
+          "sourceUrl": "https://youtube.com",
+          "authorName": "Manfred Steyer",
+          "authorUrl": "https://www.youtube.com/c/ManfredSteyer/videos",
+          "speakers": ["Manfred Steyer", "Michael Egger-Zikes", "Rainer Hahnekamp"],
+          "tags": ["Standalone Components", "Micro Frontends", "Module Federation"]
+        },
+        {
+          "slug": "2022-02-10-F",
+          "type": "video",
+          "duration": "39",
+          "title": "Angular 13 Image Upload with PHP MySql in the back-end | Angular 12 Image upload with progress bar",
+          "url": "https://www.youtube.com/watch?v=GURAVBVavkI",
+          "description": "In this video you will  learn how to upload image with Progress Bar. We have used Angular 12 / 13 in the Front-end and PHP MySql in the back-end. Follow step by step this tutorial  and you can do this yourself.",
+          "datePosted": "2022-02-10",
+          "dateSource": "2022-02-10",
+          "postedBy": "Steve Witman",
+          "sourceSite": "YouTube",
+          "sourceUrl": "https://youtube.com",
+          "authorName": "Tutorial Rays",
+          "authorUrl": "https://www.youtube.com/c/TutorialRays/videos",
+          "speakers": ["Umar Rahman"],
+          "tags": ["Progress"]
+        },
+        {
+          "slug": "2022-02-10-G",
+          "type": "video",
+          "duration": "3",
+          "title": "Lazy loading images in Ionic 6 and Angular Applications",
+          "url": "https://www.youtube.com/watch?v=nk1hKkQg9LE",
+          "description": "Learn to lazy load images within your Ionic 6 and Angular apps with a cool and powerful package that we can easily use.",
+          "datePosted": "2022-02-10",
+          "dateSource": "2022-02-10",
+          "postedBy": "Steve Witman",
+          "sourceSite": "YouTube",
+          "sourceUrl": "https://youtube.com",
+          "authorName": "Success Sole",
+          "authorUrl": "https://www.youtube.com/channel/UCRF3sJZ_RsP2LWGWwaIHCSg/videos",
+          "speakers": [],
+          "tags": ["Ionic"]
+        }
+      ]
+    },
+    {
+      "date": "2022-02-11",
+      "dailyPosts": [
       ]
     }
   ]

@@ -41,7 +41,7 @@
         "type": "blog",
         "title": "Creating custom pagination component with Angular",
         "url": "https://medium.com/@kirill.kovzel/creating-custom-pagination-component-with-angular-9c6c93fdf0f0",
-        "description": "Pagination is undoubtedly one of the most popular approaches to dozed content representation. And it's absolutely fine to use some out-of-the-box solutions for it if your application uses some library like NgBootstrap or Material UI all round and the designs and functionality they provide is satisfactory to you.\n\nBut once you bump into the need of re-styling or customisation of it you usually may choose the way of creating a wrapping component which uses this out-of-the-box component inside and re-define its behaviour or styles by breaking original component encapsulation.",
+        "description": "Pagination is undoubtedly one of the most popular approaches to dozed content representation. And it's absolutely fine to use some out-of-the-box solutions for it if your application uses some library like NgBootstrap or Material UI all round and the designs and functionality they provide is satisfactory to you.\n\nBut once you bump into the need of re-styling or customization of it you usually may choose the way of creating a wrapping component which uses this out-of-the-box component inside and re-define its behaviour or styles by breaking original component encapsulation.",
         "datePosted": "2022-01-01",
         "dateSource": "2022-01-01",
         "postedBy": "Steve Witman",
@@ -50,7 +50,7 @@
         "authorName": "Kirill Kovzel",
         "authorUrl": "https://medium.com/@kirill.kovzel",
         "speakers": ["Kirill Kovzel"],
-        "tags": ["Pagination"]
+        "tags": ["Pagination", "Custom"]
       },
       {
         "slug": "2022-01-01-D",
@@ -116,7 +116,7 @@
         "authorName": "hanneslim",
         "authorUrl": "https://dev.to/hanneslim",
         "speakers": [],
-        "tags": ["Forms", "Reactive Forms"]
+        "tags": ["Forms", "Reactive Forms", "Custom"]
       }
     ]
   },
@@ -258,7 +258,7 @@
         "authorName": "Krishna Chaitanya Tech Center",
         "authorUrl": "https://www.youtube.com/channel/UC6hjO6A1FvKKfMlAA7EOJDA/videos",
         "speakers": [],
-        "tags": ["NgModules"]
+        "tags": ["Modules"]
       },
       {
         "slug": "2022-01-03-C",
@@ -493,7 +493,7 @@
         "authorName": "Prayatna Bhattarai",
         "authorUrl": "https://dev.to/prayatna",
         "speakers": ["Prayatna Bhattarai"],
-        "tags": ["ngTemplateOutlet"]
+        "tags": ["ngTemplateOutlet", "Dynamic", "Menu"]
       },
       {
         "slug": "2022-01-04-H",
@@ -510,7 +510,7 @@
         "authorName": "Decoded Frontend",
         "authorUrl": "https://www.youtube.com/c/DecodedFrontend/videos",
         "speakers": ["Decoded Frontend"],
-        "tags": ["Directives"]
+        "tags": ["Directives", "Custom"]
       },
       {
         "slug": "2022-01-04-J",
@@ -728,7 +728,7 @@
         "authorName": "Chris Niemann",
         "authorUrl": "https://dontpaniclabs.com/blog/post/author/cniemann/",
         "speakers": ["Chris Niemann"],
-        "tags": ["Forms", "Reactive Forms", "FormArray", "FormGroup"]
+        "tags": ["Forms", "Reactive Forms", "FormArray", "FormGroup", "Dynamic"]
       },
       {
         "slug": "2022-01-05-K",
@@ -745,7 +745,7 @@
         "authorName": "Good Coding",
         "authorUrl": "https://www.youtube.com/channel/UC3KizHS6zTsP-Es-kBz36Hw/videos",
         "speakers": [],
-        "tags": ["Components", "Forms"]
+        "tags": ["Components", "Forms", "Dynamic"]
       },
       {
         "slug": "2022-01-05-L",
@@ -777,7 +777,7 @@
         "authorName": "Anton Mihlin",
         "authorUrl": "https://medium.com/@antmihlin",
         "speakers": ["Anton Mihlin"],
-        "tags": ["NgModules"]
+        "tags": ["Modules"]
       }
     ]
   },
@@ -1032,7 +1032,7 @@
         "authorName": "Mic B",
         "authorUrl": "https://medium.com/@MicBDev",
         "speakers": ["Mic B"],
-        "tags": ["NgModules"]
+        "tags": ["Modules"]
       },
       {
         "slug": "2022-01-07-F",
@@ -1257,7 +1257,7 @@
         "authorName": "Anubhab Mukherjee",
         "authorUrl": "https://dev.to/anubhab5",
         "speakers": ["Anubhab Mukherjee"],
-        "tags": ["Pipes"]
+        "tags": ["Pipes", "Custom"]
       },
       {
         "slug": "2022-01-09-D",
@@ -1378,7 +1378,7 @@
         "authorName": "Rainer Hahnekamp",
         "authorUrl": "https://www.youtube.com/c/RainerHahnekamp/videos",
         "speakers": ["Rainer Hahnekamp"],
-        "tags": ["Standalone Components", "NgModules", "Nx"]
+        "tags": ["Standalone Components", "Modules", "Nx"]
       },
       {
         "slug": "2022-01-10-C",
@@ -1549,7 +1549,7 @@
         "authorName": "Mic B",
         "authorUrl": "https://medium.com/@MicBDev",
         "speakers": ["Mic B"],
-        "tags": ["NgModules"]
+        "tags": ["Modules"]
       },
       {
         "slug": "2022-01-11-E",
@@ -1581,7 +1581,7 @@
         "authorName": "Mark Thompson ",
         "authorUrl": "https://medium.com/@markathompson",
         "speakers": ["Mark Thompson "],
-        "tags": []
+        "tags": ["AngularJS"]
       }
     ]
   },
@@ -2699,7 +2699,7 @@
         "authorName": "Aakash Goplani",
         "authorUrl": "https://dev.to/aakashgoplani",
         "speakers": ["Aakash Goplani"],
-        "tags": ["Components", "Dynamic Components"]
+        "tags": ["Components", "Dynamic"]
       },
       {
         "slug": "2022-01-18-F",
@@ -2766,7 +2766,7 @@
         "authorName": "codeWithAmi",
         "authorUrl": "",
         "speakers": [],
-        "tags": ["Directives", "ngIf"]
+        "tags": ["Directives", "ngIf", "Custom"]
       },
       {
         "slug": "2022-01-18-K",
@@ -2934,7 +2934,7 @@
         "authorName": "Michael Seemann",
         "authorUrl": "https://medium.com/@mseemann.io",
         "speakers": ["Michael Seemann"],
-        "tags": ["Directives"]
+        "tags": ["Directives", "Custom"]
       },
       {
         "slug": "2022-01-19-F",
@@ -2976,9 +2976,9 @@
         "slug": "2022-01-20-A",
         "type": "video",
         "duration": "2",
-        "title": "Change SCSS or CSS from TypeScript Angular OR dynamic change the CSS or SCSSS in Angular",
+        "title": "Change CSS or SCSS from TypeScript Angular OR dynamic change the CSS or SCSS in Angular",
         "url": "https://www.youtube.com/watch?v=5fBM2EBx-Mo",
-        "description": "I've shown how to dynamically change the CSS or scss from typescript in angular",
+        "description": "I've shown how to dynamically change the CSS or scss from TypeScript in Angular",
         "datePosted": "2022-01-20",
         "dateSource": "2022-01-20",
         "postedBy": "Steve Witman",
@@ -3325,7 +3325,7 @@
         "authorName": "Ayush Thakur",
         "authorUrl": "https://just-another-developer.medium.com",
         "speakers": ["Ayush Thakur"],
-        "tags": ["NgRx", "Forms", "Validators"]
+        "tags": ["NgRx", "Forms", "Validators", "Custom"]
       },
       {
         "slug": "2022-01-22-D",
@@ -3534,7 +3534,7 @@
         "type": "blog",
         "title": "Micro Frontends: After one year with Single-SPA",
         "url": "https://dev.to/psamim/micro-frontends-after-one-year-with-single-spa-1eoo",
-        "description": "...We also assessed some other micro frontend frameworks and solutions, even using iframes and server-side routing, but finally, we decided to go with SignleSPA as it is less opinionated, simple and the best fit for our current codebase. The website is fully static (Angular/AngularJS) and is served from a CDN, so using server-side routing was out of options",
+        "description": "...We also assessed some other micro frontend frameworks and solutions, even using iframes and server-side routing, but finally, we decided to go with SignleSPA as it is less opinionated, simple and the best fit for our current codebase. The website is fully static and is served from a CDN, so using server-side routing was out of options",
         "datePosted": "2022-01-23",
         "dateSource": "2022-01-23",
         "postedBy": "Steve Witman",
@@ -3559,7 +3559,7 @@
         "authorName": "ILshat Khamitov",
         "authorUrl": "https://dev.to/endykaufman",
         "speakers": ["ILshat Khamitov"],
-        "tags": ["Forms"]
+        "tags": ["Forms", "Dynamic"]
       },
       {
         "slug": "2022-01-23-F",
@@ -3576,7 +3576,7 @@
         "authorName": "CodeWithSrini",
         "authorUrl": "https://www.youtube.com/c/CodeWithSrini/videos",
         "speakers": [],
-        "tags": ["Forms", "Reactive Forms", "Validation"]
+        "tags": ["Forms", "Reactive Forms", "Validation", "Custom"]
       },
       {
         "slug": "2022-01-23-G",
@@ -3610,7 +3610,7 @@
         "authorName": "Coding Knowledge",
         "authorUrl": "https://www.youtube.com/c/CodingKnowledge/videos",
         "speakers": ["Satyaprakash Samantaray"],
-        "tags": ["Routing"]
+        "tags": ["Routing", "Menu"]
       },
       {
         "slug": "2022-01-23-J",
@@ -3642,7 +3642,7 @@
         "authorName": "Aakash Goplani",
         "authorUrl": "https://dev.to/aakashgoplani",
         "speakers": ["Aakash Goplani"],
-        "tags": ["Forms", "Reactive", "Template Driven Forms", "Validation"]
+        "tags": ["Forms", "Reactive", "Template Driven Forms", "Validation", "Dynamic"]
       },
       {
         "slug": "2022-01-23-L",
@@ -3771,7 +3771,7 @@
         "type": "blog",
         "title": "How to Build Natively Working Apps for the Web and Mobile",
         "url": "https://arlojasper.hashnode.dev/how-to-build-natively-working-apps-for-the-web-and-mobile",
-        "description": "The app development segments are booming particularly more than ever to this day. As a result, rising techniques to develop web and mobile apps are foreseeable. Similarly, we're here to offer an innovative way to develop web and mobile apps using Native Script and angularjs development company. Before we get started with the coding and implementation portions, it is mandatory to know about these (Angular and Native Script) two state-of-the-art technologies.",
+        "description": "The app development segments are booming particularly more than ever to this day. As a result, rising techniques to develop web and mobile apps are foreseeable.",
         "datePosted": "2022-01-24",
         "dateSource": "2022-01-24",
         "postedBy": "Steve Witman",
@@ -4600,7 +4600,7 @@
         "authorName": "lorenzo di giacomo",
         "authorUrl": "https://medium.com/@morrys",
         "speakers": ["Lorenzo Di Giacomo"],
-        "tags": []
+        "tags": ["TypeScript"]
       },
       {
         "slug": "2022-01-27-K",
@@ -4924,7 +4924,7 @@
         "authorName": "James Schneider",
         "authorUrl": "https://www.youtube.com/channel/UCALUtggD38W4gdMVLfw3wXQ/videos",
         "speakers": ["James Schneider"],
-        "tags": ["Routing", "Router"]
+        "tags": ["Routing"]
       }
     ]
   },
@@ -5116,7 +5116,7 @@
         "authorName": "Vikas",
         "authorUrl": "https://www.youtube.com/c/RealAppsniksviks/videos",
         "speakers": [],
-        "tags": ["Components"]
+        "tags": ["Components", "Dynamic"]
       },
       {
         "slug": "2022-01-31-E",

@@ -12246,16 +12246,9 @@ export const posts = [
 
 
 
-// THURSDAY
-// 9th https://www.youtube.com/watch?v=kb9CBd2c4uA
-// 10pm https://pawan-kumawat.medium.com/avoid-callback-hell-in-angular-code-3537890034b
-// 11pm https://www.youtube.com/watch?v=0LbV6mUHDW0
-// https://www.telerik.com/blogs/kendo-ui-angularjs-1.x-support-end-life-plans
-// https://www.youtube.com/watch?v=blErqI-o1TM
-// 10am https://www.youtube.com/watch?v=6_UBrfO7i80
-// 11am https://www.youtube.com/watch?v=j5htIyxmmzA
-// 11am https://www.youtube.com/watch?v=GURAVBVavkI
-// 1pm https://www.youtube.com/watch?v=nk1hKkQg9LE
+
+
+// 1pm 
 
 // -------------------------- YOUTUBE ---------------------------
       // {
