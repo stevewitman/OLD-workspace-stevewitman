@@ -35,7 +35,7 @@ export const tags = [
   { category: 'Angular', tag: 'Forms' },
   { category: 'Angular', tag: 'HttpClient' },
   { category: 'Angular', tag: 'HttpContext', rel: ['HttpInterceptor'] },
-  { category: 'Angular', tag: 'HttpInterceptor' },
+  { category: 'Angular', tag: 'HttpInterceptors' },
   { category: 'Angular', tag: ':host' },
   { category: 'Angular', tag: ':host-context' },
   { category: 'Angular', tag: 'Hot Module Replacement' },
@@ -279,6 +279,7 @@ export const tags = [
 
   { category: '3rd Party', tag: 'AngularFire' },
   { category: '3rd Party', tag: 'Auth0' },
+  { category: '3rd Party', tag: 'AWS' },
   { category: '3rd Party', tag: 'Azure' },
   { category: '3rd Party', tag: 'Bootstrap' },
   { category: '3rd Party', tag: 'Capacitor' },

@@ -3986,7 +3986,7 @@
           "sourceUrl": "https://youtube.com",
           "authorName": "Vikas",
           "authorUrl": "https://www.youtube.com/c/RealAppsniksviks/videos",
-          "speakers": ["Vikas"],
+          "speakers": [],
           "tags": ["RxJS", "Subject", "Behavior Subject"]
         },
         {
@@ -4095,7 +4095,7 @@
           "sourceUrl": "https://youtube.com",
           "authorName": "Vikas",
           "authorUrl": "https://www.youtube.com/c/RealAppsniksviks/videos",
-          "speakers": ["Vikas"],
+          "speakers": [],
           "tags": ["Auth Guards"]
         }
       ]
@@ -4245,7 +4245,7 @@
           "sourceUrl": "https://youtube.com",
           "authorName": "Vikas",
           "authorUrl": "https://www.youtube.com/c/RealAppsniksviks/videos",
-          "speakers": ["Vikas"],
+          "speakers": [],
           "tags": ["Pipe", "Custom"]
         },
         {
@@ -4992,7 +4992,7 @@
           "description": "In the firebase database, sometimes we need to only read value. But for the admin panel, we need to read, write and delete values in the database",
           "imgUrl": "2021-12-31-B.jpg",
           "datePosted": "2021-12-31",
-          "dateSource": "2021-12-31",
+          "dateSource": "2021-12-31", 
           "postedBy": "Steve Witman",
           "sourceSite": "Medium",
           "sourceUrl": "https://medium.com/tag/angular/latest",

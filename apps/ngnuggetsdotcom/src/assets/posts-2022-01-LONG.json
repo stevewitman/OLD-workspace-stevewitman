@@ -66,8 +66,8 @@
         "sourceUrl": "https://youtube.com",
         "authorName": "Vikas",
         "authorUrl": "https://www.youtube.com/c/RealAppsniksviks/videos",
-        "speakers": ["Vikas"],
-        "tags": ["HttpInterceptor"]
+        "speakers": [],
+        "tags": ["HttpInterceptors"]
       },
       {
         "slug": "2022-01-01-E",
@@ -202,7 +202,7 @@
         "sourceUrl": "https://medium.com/tag/angular/latest",
         "authorName": "Mic B",
         "authorUrl": "https://medium.com/@MicBDev",
-        "speakers": ["Mic B"],
+        "speakers": [],
         "tags": ["Animations", "requestAnimationFrame"]
       },
       {
@@ -984,7 +984,7 @@
         "authorName": "Learn Smart Coding",
         "authorUrl": "https://www.youtube.com/channel/UCKUxSY2xp12QiP3c60sOc-g/videos",
         "speakers": [],
-        "tags": ["HttpInterceptor"]
+        "tags": ["HttpInterceptors"]
       },
       {
         "slug": "2022-01-07-C",
@@ -1031,7 +1031,7 @@
         "sourceUrl": "https://medium.com/tag/angular/latest",
         "authorName": "Mic B",
         "authorUrl": "https://medium.com/@MicBDev",
-        "speakers": ["Mic B"],
+        "speakers": [],
         "tags": ["Modules"]
       },
       {
@@ -1533,7 +1533,7 @@
         "authorName": "WebTechTalk",
         "authorUrl": "https://www.youtube.com/c/WebTechTalk/videos",
         "speakers": [],
-        "tags": ["HttpInterceptor"]
+        "tags": ["HttpInterceptors"]
       },
       {
         "slug": "2022-01-11-D",
@@ -1548,7 +1548,7 @@
         "sourceUrl": "https://medium.com/tag/angular/latest",
         "authorName": "Mic B",
         "authorUrl": "https://medium.com/@MicBDev",
-        "speakers": ["Mic B"],
+        "speakers": [],
         "tags": ["Modules"]
       },
       {
@@ -2871,7 +2871,7 @@
         "authorName": "Nihira Techiees",
         "authorUrl": "https://www.youtube.com/channel/UCsbmVmB_or8sVLLEq4XhE_A/videos",
         "speakers": [],
-        "tags": ["Auth", "Route Guards", "HttpInterceptor"]
+        "tags": ["Auth", "Route Guards", "HttpInterceptors"]
       },
       {
         "slug": "2022-01-19-B",
@@ -4247,9 +4247,9 @@
         "postedBy": "Steve Witman",
         "sourceSite": "Medium",
         "sourceUrl": "https://medium.com/tag/angular/latest",
-        "authorName": "Mic B. || Angular Lead Programmer",
+        "authorName": "Mic B.",
         "authorUrl": "https://micbdev.medium.com",
-        "speakers": ["Mic B"],
+        "speakers": [],
         "tags": ["ngx-translate", "Internationalization", "i18n"]
       },
       {
