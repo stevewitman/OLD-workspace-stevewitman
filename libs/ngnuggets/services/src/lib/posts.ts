@@ -12245,21 +12245,13 @@ export const posts = [
 
 
 
-// 
 
-// 4pm 
 
-// 12am https://javascript.plainenglish.io/what-is-ng-container-cce9f880abd2
-// 4am https://www.youtube.com/watch?v=NdBnVZeLl9s
-// 5am https://medium.com/syncfusion/customize-the-enter-and-shift-enter-keys-in-angular-rich-text-editor-for-better-productivity-8a59e665232f
-// 7am https://dev.to/kevinmerckx_47/an-angular-technique-that-might-surprise-you-4nc4
-// 7am https://www.youtube.com/watch?v=Cz0spkSzWSU
-// 8am https://www.youtube.com/watch?v=cFmc998IJDE
-// 8am https://www.youtube.com/watch?v=OIrKMeT84gg
-// 9am https://www.youtube.com/watch?v=DZykMWk4qMc
-// 9am https://www.youtube.com/watch?v=RQXA7R-2POU
-// https://www.youtube.com/watch?v=Q-ryRyuwI0c
-// noon https://medium.com/@davidmimay/gitpod-firebase-angular-online-development-fe2a76f2e22e
+
+
+
+// 1pm 
+
 // -------------------------- YOUTUBE ---------------------------
       // {
       //   slug: '2022-02-02-A',
