@@ -273,6 +273,7 @@ export const tags = [
   { category: 'RxJS', tag: 'switchMap' },
   { category: 'RxJS', tag: 'take' },
   { category: 'RxJS', tag: 'takeUntil' },
+  { category: 'RxJS', tag: 'tap' },
   { category: 'RxJS', tag: 'unicast' },
   { category: 'RxJS', tag: 'withLatestFrom' },
   { category: 'RxJS', tag: 'zip' },

@@ -1,17 +1,5 @@
-Winter00###
-https://www.telerik.com/blogs/angular-basics-dynamic-routes-activated-route-snapshots
-4am https://dev.to/syncfusion/angular-dependency-injection-a-complete-guide-281m
-4am https://logiwa.tech/basics-of-unit-testing-in-angular-2d9fbbcca39e
-C 7am https://www.youtube.com/watch?v=Pp8aVn3dkko 
-9am https://elmota.com/rxjs-based-state-management-in-angular-part-i
-10 a, https://medium.com/@vyakymenko/lazy-load-non-routable-modules-with-components-in-angular-13-d99c9ef03a5
-10am https://dev.to/mikesimmonds/organising-scss-in-angular-188e
-10am https://dev.to/ayyash/rxjs-based-state-management-in-angular-part-i-22f9
-B 11am https://www.youtube.com/watch?v=MgWDSSLjhkQ
-A noon https://www.youtube.com/watch?v=WpMSID6r0d4
-3pm https://medium.com/@yshashi30/how-to-use-toast-messages-ng-angular-popup-in-angular-project-70d4160400de
 
 
-WEDNESDAY
-Y 1am https://www.youtube.com/watch?v=J1h47akB6rw
-Z 4am https://www.youtube.com/watch?v=fR6jPnJZ6-I
+Z 4am 
+9am https://www.youtube.com/watch?v=4ldr69qHY8M
+9am https://www.youtube.com/watch?v=nYvgLlOrX8s
