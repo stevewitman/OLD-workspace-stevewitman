@@ -278,6 +278,7 @@ export const tags = [
   { category: 'RxJS', tag: 'withLatestFrom' },
   { category: 'RxJS', tag: 'zip' },
 
+  { category: '3rd Party', tag: 'Akita' },
   { category: '3rd Party', tag: 'AngularFire' },
   { category: '3rd Party', tag: 'Auth0' },
   { category: '3rd Party', tag: 'AWS' },

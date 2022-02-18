@@ -1,5 +1,8 @@
 
 
-Z 4am 
-9am https://www.youtube.com/watch?v=4ldr69qHY8M
-9am https://www.youtube.com/watch?v=nYvgLlOrX8s
+
+5pm 
+
+
+
+2pm https://medium.com/@kellymarjorie/using-the-angular-async-pipe-b5288135b52a
