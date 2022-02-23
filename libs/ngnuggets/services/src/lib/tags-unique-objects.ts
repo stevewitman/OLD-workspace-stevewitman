@@ -312,6 +312,7 @@ export const tags = [
   { category: '3rd Party', tag: 'NextJS' },
   { category: '3rd Party', tag: 'Ngxs' },
   { category: '3rd Party', tag: 'Nx' },
+  { category: '3rd Party', tag: 'Prettier' },
   { category: '3rd Party', tag: 'PrimeNG' },
   { category: '3rd Party', tag: 'PrismJS' },
   { category: '3rd Party', tag: 'Scully' },
