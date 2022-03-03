@@ -290,6 +290,7 @@ export const tags = [
   { category: '3rd Party', tag: 'Azure' },
   { category: '3rd Party', tag: 'Bootstrap' },
   { category: '3rd Party', tag: 'Capacitor' },
+  { category: '3rd Party', tag: 'D3' },
   { category: '3rd Party', tag: 'Data Table' },
   { category: '3rd Party', tag: 'Docker' },
   { category: '3rd Party', tag: 'Electron' },

@@ -1,23 +1,4 @@
 
-
-12pm 
-6am ? https://www.youtube.com/watch?v=BwlFJH6E8d8
-9am  
-10am 
-10am 
-11am https://www.youtube.com/watch?v=6d23NQ4ThxY
-
-SAT 1am https://piriyalini1997.medium.com/introduction-to-angular-forms-ffab4eb51511
-SAT 4am https://yurii-k.medium.com/simple-test-data-generator-in-angular-3e0704b6ce02
-SAT 4am https://dev.to/arunachalamm/run-on-demand-apps-in-angular-projects-in-local-development-18ej
-SAT (1am) https://www.youtube.com/watch?v=qnJanqfaM2c
-SAT 8am https://www.youtube.com/watch?v=JC3R3mMo7Xc
-SAT 8am https://blog.shekinahtshiokufila.com/how-to-manage-login-and-signup-with-firebase-authentification
-
-https://www.youtube.com/watch?v=CC0GuG2uVwQ
-
-sun (sat) 8pm https://www.youtube.com/watch?v=nVsAT7nAwYU
-SUN (SAT) 10pm https://www.youtube.com/watch?v=P1XicSyriyE
 sun 1am https://medium.com/@stavrosdro/angular-with-eslint-prettier-husky-6581ecd66fbb
 SUN 5am https://pawan-kumawat.medium.com/oops-abstraction-5db1dcc3e084
 SUN https://www.youtube.com/watch?v=V4iMyVnQPqM
