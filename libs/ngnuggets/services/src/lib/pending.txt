@@ -1,16 +1,10 @@
 
 
-3pm Y https://www.youtube.com/watch?v=mIn08XD1_78
-
-- - - - - - - 
-
-11pm Z https://www.youtube.com/watch?v=WEroW-F3ywY
-12pm https://medium.com/@tarunmeher123/openlayers-angular-how-to-create-openlayers-map-using-angular-1dc3c89a663c
+12pm 
 6am ? https://www.youtube.com/watch?v=BwlFJH6E8d8
-9am https://www.youtube.com/watch?v=57-16U42lDA 
-10am https://dev.to/oktadev/three-ways-to-configure-modules-in-your-angular-app-26ag
-10am https://medium.com/@colinbroberg/how-to-create-an-extensible-api-service-in-angular-e451073a2f90
-10am https://www.youtube.com/watch?v=K3I9CtrmdKE
+9am  
+10am 
+10am 
 11am https://www.youtube.com/watch?v=6d23NQ4ThxY
 
 SAT 1am https://piriyalini1997.medium.com/introduction-to-angular-forms-ffab4eb51511
