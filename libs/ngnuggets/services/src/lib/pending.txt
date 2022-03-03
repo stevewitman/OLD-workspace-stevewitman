@@ -1,8 +1,73 @@
 
-12pm 
-1pm Y https://www.youtube.com/watch?v=VZsjN51fqlI
-2pm https://github.com/angular/angular/releases/tag/13.2.4
-2pm https://github.com/angular/angular/releases/tag/14.0.0-next.4
-3pm M https://www.youtube.com/watch?v=ZTZJpbCPWrg
-4pm N https://www.youtube.com/watch?v=IIpZvqJeq94
-5pm P https://www.youtube.com/watch?v=CZoFlvcCC3k
+
+3pm Y https://www.youtube.com/watch?v=mIn08XD1_78
+
+- - - - - - - 
+
+11pm Z https://www.youtube.com/watch?v=WEroW-F3ywY
+12pm https://medium.com/@tarunmeher123/openlayers-angular-how-to-create-openlayers-map-using-angular-1dc3c89a663c
+6am ? https://www.youtube.com/watch?v=BwlFJH6E8d8
+9am https://www.youtube.com/watch?v=57-16U42lDA 
+10am https://dev.to/oktadev/three-ways-to-configure-modules-in-your-angular-app-26ag
+10am https://medium.com/@colinbroberg/how-to-create-an-extensible-api-service-in-angular-e451073a2f90
+10am https://www.youtube.com/watch?v=K3I9CtrmdKE
+11am https://www.youtube.com/watch?v=6d23NQ4ThxY
+
+SAT 1am https://piriyalini1997.medium.com/introduction-to-angular-forms-ffab4eb51511
+SAT 4am https://yurii-k.medium.com/simple-test-data-generator-in-angular-3e0704b6ce02
+SAT 4am https://dev.to/arunachalamm/run-on-demand-apps-in-angular-projects-in-local-development-18ej
+SAT (1am) https://www.youtube.com/watch?v=qnJanqfaM2c
+SAT 8am https://www.youtube.com/watch?v=JC3R3mMo7Xc
+SAT 8am https://blog.shekinahtshiokufila.com/how-to-manage-login-and-signup-with-firebase-authentification
+
+https://www.youtube.com/watch?v=CC0GuG2uVwQ
+
+sun (sat) 8pm https://www.youtube.com/watch?v=nVsAT7nAwYU
+SUN (SAT) 10pm https://www.youtube.com/watch?v=P1XicSyriyE
+sun 1am https://medium.com/@stavrosdro/angular-with-eslint-prettier-husky-6581ecd66fbb
+SUN 5am https://pawan-kumawat.medium.com/oops-abstraction-5db1dcc3e084
+SUN https://www.youtube.com/watch?v=V4iMyVnQPqM
+SUN 9am https://www.youtube.com/watch?v=1FVNInWNYw0 
+SUN 9am https://www.youtube.com/watch?v=ixNmByENp4I
+SUN 9am https://suneetbansal.medium.com/typescript-4-5-many-useful-features-added-f72864f533f4
+SUN 10am https://www.youtube.com/watch?v=q3Re3WoH6wo
+sun 1pm https://www.youtube.com/watch?v=UmOM4sIMDtw
+sun 5pm https://www.youtube.com/watch?v=9ZSRUmHCG4s
+
+mon 12am https://www.youtube.com/watch?v=ez5nhjLB82k
+mon 5am https://www.youtube.com/watch?v=QxrXs8Y9Bxk
+mon 6am https://jnpiyush.medium.com/how-to-use-different-environment-variables-in-angular-13-dd37b85a1ce4
+mon 7am https://www.youtube.com/watch?v=3ZhIib22_XU
+mon 8am https://www.youtube.com/watch?v=rk2xbo5U3oA
+mon 10am https://www.youtube.com/watch?v=dTZMmfdMcNA
+mon 10am https://www.youtube.com/watch?v=JilWEdJJx5A
+mon 11am https://www.youtube.com/watch?v=13svk2IIbZs
+mon 4pm https://www.youtube.com/watch?v=6998sqU-zIY
+mon 4pm https://www.youtube.com/watch?v=U1uIO-869QI
+mon 2pm https://www.youtube.com/watch?v=yJbzbIuWCFI
+mon 3pm https://www.youtube.com/watch?v=KiezuugiUvQ
+
+tues (wed) 9pm https://medium.com/@bonface.oywa/internationalize-your-angular-applications-using-ngx-translate-50148d19defc
+tues (wed) 10pm https://jnpiyush.medium.com/how-to-change-component-prefix-in-angular-2e8088e5ce6d
+tues 2am https://souvikpl.medium.com/call-by-value-and-call-by-reference-in-angular-59980f005e3e
+tues 3am https://www.youtube.com/watch?v=8z576TNeE6g
+tues 4am https://elmota.com/rxjs-based-state-management-in-angular-part-iii
+tues 8am https://www.youtube.com/watch?v=LmeEs0h5gOQ
+tues 8am https://www.youtube.com/watch?v=QuH2pUBeNJ4
+tues 11am https://www.youtube.com/watch?v=96pR_pFnsGg
+tues 11am https://www.youtube.com/watch?v=_0a4fbzZWQE
+tues 2pm https://dev.to/aniket762/getting-into-software-testing-with-jest-2ca0
+tues 2pm https://dev.to/androizer/easily-consume-back-end-apis-in-angular-4x-faster-hpn
+tues https://medium.com/@cbgdn/creating-a-dynamic-component-is-now-easier-changes-in-angular-13-990b28078968
+tues https://www.youtube.com/watch?v=8ackjL3FsRM
+
+wed 2am https://www.youtube.com/watch?v=mW6SMbWWP2c
+wed 2am https://www.youtube.com/watch?v=OTysG586YSw
+wed 2am https://syedkabir.hashnode.dev/angular-directives-uses-of-hostbinding-and-hostlistener
+wed 4am https://www.youtube.com/watch?v=eXd1dcbAZSw
+wed 6am https://www.youtube.com/watch?v=n-z52xqDI6A
+wed 9am https://www.youtube.com/watch?v=xCkybV9mtk8
+wed 11am https://github.com/angular/angular/releases/tag/13.2.5
+wed noon https://github.com/angular/angular/releases/tag/14.0.0-next.5
+wed noon https://www.youtube.com/watch?v=k5pUvceDQIg
+wed 4pm https://pawan-kumawat.medium.com/difference-between-subject-and-behaviorsubject-6283dde86b2
