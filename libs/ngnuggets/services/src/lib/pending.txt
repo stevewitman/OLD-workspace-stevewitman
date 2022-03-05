@@ -1,48 +1,61 @@
 
-sun 1am https://medium.com/@stavrosdro/angular-with-eslint-prettier-husky-6581ecd66fbb
-SUN 5am https://pawan-kumawat.medium.com/oops-abstraction-5db1dcc3e084
-SUN https://www.youtube.com/watch?v=V4iMyVnQPqM
-SUN 9am https://www.youtube.com/watch?v=1FVNInWNYw0 
-SUN 9am https://www.youtube.com/watch?v=ixNmByENp4I
-SUN 9am https://suneetbansal.medium.com/typescript-4-5-many-useful-features-added-f72864f533f4
-SUN 10am https://www.youtube.com/watch?v=q3Re3WoH6wo
-sun 1pm https://www.youtube.com/watch?v=UmOM4sIMDtw
-sun 5pm https://www.youtube.com/watch?v=9ZSRUmHCG4s
 
-mon 12am https://www.youtube.com/watch?v=ez5nhjLB82k
-mon 5am https://www.youtube.com/watch?v=QxrXs8Y9Bxk
-mon 6am https://jnpiyush.medium.com/how-to-use-different-environment-variables-in-angular-13-dd37b85a1ce4
-mon 7am https://www.youtube.com/watch?v=3ZhIib22_XU
-mon 8am https://www.youtube.com/watch?v=rk2xbo5U3oA
-mon 10am https://www.youtube.com/watch?v=dTZMmfdMcNA
-mon 10am https://www.youtube.com/watch?v=JilWEdJJx5A
-mon 11am https://www.youtube.com/watch?v=13svk2IIbZs
-mon 4pm https://www.youtube.com/watch?v=6998sqU-zIY
-mon 4pm https://www.youtube.com/watch?v=U1uIO-869QI
-mon 2pm https://www.youtube.com/watch?v=yJbzbIuWCFI
-mon 3pm https://www.youtube.com/watch?v=KiezuugiUvQ
+M0 https://www.youtube.com/watch?v=ez5nhjLB82k
+M5 https://www.youtube.com/watch?v=QxrXs8Y9Bxk
+M6 https://jnpiyush.medium.com/how-to-use-different-environment-variables-in-angular-13-dd37b85a1ce4
+M7 https://www.youtube.com/watch?v=3ZhIib22_XU
+M8 https://www.youtube.com/watch?v=rk2xbo5U3oA
+M9 https://www.youtube.com/watch?v=dTZMmfdMcNA
+M10 https://www.youtube.com/watch?v=JilWEdJJx5A
+M11 https://www.youtube.com/watch?v=13svk2IIbZs
+M16 https://www.youtube.com/watch?v=6998sqU-zIY
+M16 https://www.youtube.com/watch?v=U1uIO-869QI
+M14 https://www.youtube.com/watch?v=yJbzbIuWCFI
+M15 https://www.youtube.com/watch?v=KiezuugiUvQ
 
-tues (wed) 9pm https://medium.com/@bonface.oywa/internationalize-your-angular-applications-using-ngx-translate-50148d19defc
-tues (wed) 10pm https://jnpiyush.medium.com/how-to-change-component-prefix-in-angular-2e8088e5ce6d
-tues 2am https://souvikpl.medium.com/call-by-value-and-call-by-reference-in-angular-59980f005e3e
-tues 3am https://www.youtube.com/watch?v=8z576TNeE6g
-tues 4am https://elmota.com/rxjs-based-state-management-in-angular-part-iii
-tues 8am https://www.youtube.com/watch?v=LmeEs0h5gOQ
-tues 8am https://www.youtube.com/watch?v=QuH2pUBeNJ4
-tues 11am https://www.youtube.com/watch?v=96pR_pFnsGg
-tues 11am https://www.youtube.com/watch?v=_0a4fbzZWQE
-tues 2pm https://dev.to/aniket762/getting-into-software-testing-with-jest-2ca0
-tues 2pm https://dev.to/androizer/easily-consume-back-end-apis-in-angular-4x-faster-hpn
-tues https://medium.com/@cbgdn/creating-a-dynamic-component-is-now-easier-changes-in-angular-13-990b28078968
-tues https://www.youtube.com/watch?v=8ackjL3FsRM
+TUES ===>
+M21 https://medium.com/@bonface.oywa/internationalize-your-angular-applications-using-ngx-translate-50148d19defc
+M22 https://jnpiyush.medium.com/how-to-change-component-prefix-in-angular-2e8088e5ce6d
+T2 https://souvikpl.medium.com/call-by-value-and-call-by-reference-in-angular-59980f005e3e
+T3 https://www.youtube.com/watch?v=8z576TNeE6g
+T4 https://elmota.com/rxjs-based-state-management-in-angular-part-iii
+T8 https://www.youtube.com/watch?v=LmeEs0h5gOQ
+T8 https://www.youtube.com/watch?v=QuH2pUBeNJ4
+T11 https://www.youtube.com/watch?v=96pR_pFnsGg
+T11 https://www.youtube.com/watch?v=_0a4fbzZWQE
+T14 https://dev.to/aniket762/getting-into-software-testing-with-jest-2ca0
+T14 https://dev.to/androizer/easily-consume-back-end-apis-in-angular-4x-faster-hpn
+T https://medium.com/@cbgdn/creating-a-dynamic-component-is-now-easier-changes-in-angular-13-990b28078968
+T https://www.youtube.com/watch?v=8ackjL3FsRM
 
-wed 2am https://www.youtube.com/watch?v=mW6SMbWWP2c
-wed 2am https://www.youtube.com/watch?v=OTysG586YSw
-wed 2am https://syedkabir.hashnode.dev/angular-directives-uses-of-hostbinding-and-hostlistener
-wed 4am https://www.youtube.com/watch?v=eXd1dcbAZSw
-wed 6am https://www.youtube.com/watch?v=n-z52xqDI6A
-wed 9am https://www.youtube.com/watch?v=xCkybV9mtk8
-wed 11am https://github.com/angular/angular/releases/tag/13.2.5
-wed noon https://github.com/angular/angular/releases/tag/14.0.0-next.5
-wed noon https://www.youtube.com/watch?v=k5pUvceDQIg
-wed 4pm https://pawan-kumawat.medium.com/difference-between-subject-and-behaviorsubject-6283dde86b2
+W2 https://www.youtube.com/watch?v=mW6SMbWWP2c
+W2 https://www.youtube.com/watch?v=OTysG586YSw
+W2 https://syedkabir.hashnode.dev/angular-directives-uses-of-hostbinding-and-hostlistener
+W4 https://www.youtube.com/watch?v=eXd1dcbAZSw
+W6 https://www.youtube.com/watch?v=n-z52xqDI6A
+W9 https://www.youtube.com/watch?v=xCkybV9mtk8
+W11 https://github.com/angular/angular/releases/tag/13.2.5
+W12 https://github.com/angular/angular/releases/tag/14.0.0-next.5
+W12 https://www.youtube.com/watch?v=k5pUvceDQIg
+W16 https://pawan-kumawat.medium.com/difference-between-subject-and-behaviorsubject-6283dde86b2
+
+W19 https://www.youtube.com/watch?v=apz5qAxWXkQ
+R0 https://www.youtube.com/watch?v=mIZQQK27WGY
+R2 https://dev.to/this-is-learning/rxjs-observables-in-brief-11e1
+R6 https://www.youtube.com/watch?v=3WrUTzVjxko
+R6 https://webrush.io/episodes/episode-173-getting-the-best-out-of-typescript-with-maina-wyclyffe
+R7 https://www.youtube.com/watch?v=_DACuv_xYCs *****
+R9 https://medium.com/@azlouknour/cypress-library-e2e-with-angular-project-2233f133c475 
+R11 https://eraoftech.medium.com/what-is-viewencapsulation-in-angular-and-how-it-is-related-to-css-styles-4a69af95bd66
+R17 https://www.youtube.com/watch?v=Z8sx1Cgd9Iw
+R18 https://www.youtube.com/watch?v=nlRJHAy7ndg
+R20 https://dev.to/hieunh1801/angular-sync-sessionstorage-between-multiple-tabs-using-localstorage-event-1p6k
+
+
+f0 https://www.youtube.com/watch?v=IIB1oQICz7w  
+f1 https://www.youtube.com/watch?v=SS7qIPE2LsE
+f7 https://dev.to/garima_writes/protractor-testing-tutorial-test-automation-with-protractor-and-selenium-33mf
+f9 https://www.youtube.com/watch?v=RGg5iqMgCYs
+f12 https://www.youtube.com/watch?v=iug72muKr78
+f13 https://www.youtube.com/watch?v=cmNq6iTNLBU
+f21 https://dev.to/railsstudent/dynamically-load-components-in-angular-13-5474

@@ -47,6 +47,7 @@ export const tags = [
   { category: 'Angular', tag: 'Libraries' },
   { category: 'Angular', tag: 'Lifecycle Hooks' },
   { category: 'Angular', tag: 'Modules' },
+  { category: 'Angular', tag: 'NgModel' },
   { category: 'Angular', tag: 'NgZone' },
   { category: 'Angular', tag: 'One-Way Data Binding' },
   { category: 'Angular', tag: 'Optional Modules' },

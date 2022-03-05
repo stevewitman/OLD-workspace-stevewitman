@@ -713,7 +713,7 @@
         "sourceUrl": "https://youtube.com",
         "authorName": "TheAngularCoder - Gourav",
         "authorUrl": "https://www.youtube.com/c/GouravGunjan/videos",
-        "speakers": [],
+        "speakers": ["Gourav Gunjan"],
         "tags": ["Errors", "ChangeDetectorRef"]
       },
       {
@@ -2178,7 +2178,7 @@
         "sourceUrl": "https://youtube.com",
         "authorName": "TheAngularCoder - Gourav",
         "authorUrl": "https://www.youtube.com/c/GouravGunjan/videos",
-        "speakers": [],
+        "speakers": ["Gourav Gunjan"],
         "tags": ["Web Workers"]
       },
       {
@@ -3597,7 +3597,7 @@
         "sourceUrl": "https://youtube.com",
         "authorName": "TheAngularCoder - Gourav",
         "authorUrl": "https://www.youtube.com/c/GouravGunjan/videos",
-        "speakers": [],
+        "speakers": ["Gourav Gunjan"],
         "tags": ["Decorators"]
       },
       {
@@ -3614,7 +3614,7 @@
         "sourceUrl": "https://youtube.com",
         "authorName": "TheAngularCoder - Gourav",
         "authorUrl": "https://www.youtube.com/c/GouravGunjan/videos",
-        "speakers": [],
+        "speakers": ["Gourav Gunjan"],
         "tags": ["Decorators"]
       },
       {
@@ -4991,6 +4991,161 @@
         "authorUrl": "https://www.youtube.com/channel/UCmlK6Jayb3qqJYNfUmL-DkA/videos",
         "speakers": ["Tom Eustace"],
         "tags": ["D3"]
+      }
+    ]
+  },
+  {
+    "date": "2022-02-27",
+    "dailyPosts": [
+      {
+        "slug": "2022-02-27-A",
+        "type": "blog",
+        "title": "Angular with ESLint, Prettier, Husky",
+        "url": "https://medium.com/@stavrosdro/angular-with-eslint-prettier-husky-6581ecd66fbb",
+        "description": "In this article, we will create a new Angular project and we will configure ESLint, Prettier and Husky. Linters and Git Hooks are necessary for both personal and company projects. I will use a fresh VSCode installation without a ton of extensions (only Prettier is actually needed).",
+        "datePosted": "2022-02-27",
+        "dateSource": "2022-02-27",
+        "postedBy": "Steve Witman",
+        "sourceSite": "Medium",
+        "sourceUrl": "https://medium.com/tag/angular/latest",
+        "authorName": "Stavros Droutsas",
+        "authorUrl": "https://medium.com/@stavrosdro",
+        "speakers": ["Stavros Droutsas"],
+        "tags": ["ESLint", "Prettier"]
+      },
+      {
+        "slug": "2022-02-27-B",
+        "type": "blog",
+        "title": "What is Abstraction in Object Oriented Programming?",
+        "url": "https://blog.bitsrc.io/oops-abstraction-5db1dcc3e084",
+        "description": "“What is Abstraction” is a favourite OOP question asked by interviewers, yet many fail to provide a succinct answer.",
+        "datePosted": "2022-02-27",
+        "dateSource": "2022-02-27",
+        "postedBy": "Steve Witman",
+        "sourceSite": "Medium",
+        "sourceUrl": "https://medium.com/tag/angular/latest",
+        "authorName": "Pawan Kumawat",
+        "authorUrl": "https://pawan-kumawat.medium.com",
+        "speakers": ["Pawan Kumawat"],
+        "tags": []
+      },
+      {
+        "slug": "2022-02-27-C",
+        "type": "video",
+        "duration": "14",
+        "title": "What is Observable | Observables | Angular 12+",
+        "url": "https://www.youtube.com/watch?v=V4iMyVnQPqM",
+        "description": "In this lecture you will learn what an Observable is and where and when to use it. An observable is not native to angular or JavaScript. It is provided by yet another JavaScript library - RxJS.",
+        "datePosted": "2022-02-27",
+        "dateSource": "2022-02-27",
+        "postedBy": "Steve Witman",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "procademy",
+        "authorUrl": "https://www.youtube.com/c/procademyn/videos",
+        "speakers": ["Manoj Jha"],
+        "tags": ["Observables"]
+      },
+      {
+        "slug": "2022-02-27-D",
+        "type": "video",
+        "duration": "18",
+        "title": "Learn Typescript Generics and Type Operators with Examples",
+        "url": "https://www.youtube.com/watch?v=1FVNInWNYw0",
+        "description": "Learn how to use generics for code reusability. Also, learn different type operators that enhances ease of reusability in code. With live examples, it would is easy to understand and use generics to improve your code quality. :)",
+        "datePosted": "2022-02-27",
+        "dateSource": "2022-02-27",
+        "postedBy": "Steve Witman",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "TheAngularCoder - Gourav",
+        "authorUrl": "https://www.youtube.com/c/GouravGunjan/videos",
+        "speakers": ["Gourav Gunjan"],
+        "tags": ["TypeScript", "Generics"]
+      },
+      {
+        "slug": "2022-02-27-E",
+        "type": "video",
+        "duration": "9",
+        "title": "Pipes in Angular",
+        "url": "https://www.youtube.com/watch?v=ixNmByENp4I",
+        "description": "Pipes in Angular Components: What Is Pipe? Pre-Defined Pipe In Angular. Create a Custom Pipe with Demo.",
+        "datePosted": "2022-02-27",
+        "dateSource": "2022-02-27",
+        "postedBy": "Steve Witman",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "Stable & Scale",
+        "authorUrl": "https://www.youtube.com/channel/UCbAh22SGEu6mA2O6mQbEkEQ/videos",
+        "speakers": [],
+        "tags": ["Pipes"]
+      },
+      {
+        "slug": "2022-02-27-F",
+        "type": "blog",
+        "title": "TypeScript 4.5 | Many useful features added",
+        "url": "https://suneetbansal.medium.com/typescript-4-5-many-useful-features-added-f72864f533f4",
+        "description": "There are many useful features which Typescript 4.5 has come up with. We should spend sometime on understand those features so that those can get utilized in day-2-day coding and could improve the code quality. And those features could help to optimize the code, increase the code readabilities and maintainability.",
+        "datePosted": "2022-02-27",
+        "dateSource": "2022-02-27",
+        "postedBy": "Steve Witman",
+        "sourceSite": "Medium",
+        "sourceUrl": "https://medium.com/tag/angular/latest",
+        "authorName": "Suneet Bansal",
+        "authorUrl": "https://suneetbansal.medium.com",
+        "speakers": [],
+        "tags": ["TypeScript"]
+      },
+      {
+        "slug": "2022-02-27-G",
+        "type": "video",
+        "duration": "12",
+        "title": "Angular Tutorial 4 | Components and Modules",
+        "url": "https://www.youtube.com/watch?v=q3Re3WoH6wo",
+        "description": "Step by step tutorial on Angular Components and Module. Component is basic building block of angular application. Modules is grouping of components directives pipes.",
+        "datePosted": "2022-02-27",
+        "dateSource": "2022-02-27",
+        "postedBy": "Steve Witman",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "RightClick Education",
+        "authorUrl": "https://www.youtube.com/channel/UCI_5b08hocM7hXh5JK8fJ7w/videos",
+        "speakers": ["Ravi Shankar Kumar"],
+        "tags": ["Components", "Modules"]
+      },
+      {
+        "slug": "2022-02-27-H",
+        "type": "video",
+        "duration": "14",
+        "title": "Angular Basic - Variables | NgModel | binding",
+        "url": "https://www.youtube.com/watch?v=UmOM4sIMDtw",
+        "description": "This video explains how to define variables in Angular, datatypes, and how to use one-way and two-way binding",
+        "datePosted": "2022-02-27",
+        "dateSource": "2022-02-27",
+        "postedBy": "Steve Witman",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "Techie House",
+        "authorUrl": "https://www.youtube.com/channel/UCbgBz2Tepn7je7IP61J0YKg/videos",
+        "speakers": [],
+        "tags": ["NgModel", "Data Binding"]
+      },
+      {
+        "slug": "2022-02-27-J",
+        "type": "video",
+        "duration": "20",
+        "title": "Reactive Forms in Angular | Angular 13 Tutorial",
+        "url": "https://www.youtube.com/watch?v=9ZSRUmHCG4s",
+        "description": "In this Angular 13 tutorial, you will learn how to use Reactive forms in Angular? How Reactive forms in Angular 12 works. I have shown in this video step by-step how to create reactive forms.",
+        "datePosted": "2022-02-27",
+        "dateSource": "2022-02-27",
+        "postedBy": "Steve Witman",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "Tutorial Rays",
+        "authorUrl": "https://www.youtube.com/c/TutorialRays/videos",
+        "speakers": ["Umar Rahman"],
+        "tags": ["Forms", "Reactive Forms"]
       }
     ]
   }    
