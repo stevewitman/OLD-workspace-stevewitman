@@ -24,17 +24,17 @@
 
 "2022-04": [
   {
-    "date": "2022-02-27",
+    "date": "2022-02-28",
     "dailyPosts": [
       {
-        "slug": "2022-02-27-",
+        "slug": "2022-02-28-",
         "type": "video",
         "duration": "9999999",
         "title": "",
         "url": "",
         "description": "",
-        "datePosted": "2022-02-27",
-        "dateSource": "2022-02-27",
+        "datePosted": "2022-02-28",
+        "dateSource": "2022-02-28",
         "postedBy": "Steve Witman",
         "sourceSite": "YouTube",
         "sourceUrl": "https://youtube.com",
@@ -44,13 +44,13 @@
         "tags": []
       },
       {
-        "slug": "2022-02-27-",
+        "slug": "2022-02-28-",
         "type": "blog",
         "title": "",
         "url": "",
         "description": "",
-        "datePosted": "2022-02-27",
-        "dateSource": "2022-02-27",
+        "datePosted": "2022-02-28",
+        "dateSource": "2022-02-28",
         "postedBy": "Steve Witman",
         "sourceSite": "DEV Community",
         "sourceUrl": "https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc",
@@ -60,13 +60,13 @@
         "tags": []
       },
       {
-        "slug": "2022-02-27-",
+        "slug": "2022-02-28-",
         "type": "blog",
         "title": "",
         "url": "",
         "description": "",
-        "datePosted": "2022-02-27",
-        "dateSource": "2022-02-27",
+        "datePosted": "2022-02-28",
+        "dateSource": "2022-02-28",
         "postedBy": "Steve Witman",
         "sourceSite": "Medium",
         "sourceUrl": "https://medium.com/tag/angular/latest",
@@ -76,13 +76,13 @@
         "tags": []
       },
       {
-        "slug": "2022-02-27-",
+        "slug": "2022-02-28-",
         "type": "blog",
         "title": "",
         "url": "",
         "description": "",
-        "datePosted": "2022-02-27",
-        "dateSource": "2022-02-27",
+        "datePosted": "2022-02-28",
+        "dateSource": "2022-02-28",
         "postedBy": "Steve Witman",
         "sourceSite": "Hashnode",
         "sourceUrl": "https://hashnode.com/n/angular",
@@ -92,13 +92,13 @@
         "tags": []
       },
       {
-        "slug": "2022-02-27-",
+        "slug": "2022-02-28-",
         "type": "release",
         "title": "Angular Release: ",
         "url": "",
         "description": "",
-        "datePosted": "2022-02-27",
-        "dateSource": "2022-02-27",
+        "datePosted": "2022-02-28",
+        "dateSource": "2022-02-28",
         "postedBy": "Steve Witman",
         "sourceSite": "GitHub Angular",
         "sourceUrl": "https://github.com/angular/angular/releases",

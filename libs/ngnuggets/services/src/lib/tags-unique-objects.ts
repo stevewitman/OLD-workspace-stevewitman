@@ -317,7 +317,7 @@ export const tags = [
   { category: '3rd Party', tag: 'MongoDB' },
   { category: '3rd Party', tag: 'NestJS' },
   { category: '3rd Party', tag: 'NextJS' },
-  { category: '3rd Party', tag: 'Ngxs' },
+  { category: '3rd Party', tag: 'NGXS' },
   { category: '3rd Party', tag: 'Nx' },
   { category: '3rd Party', tag: 'Prettier' },
   { category: '3rd Party', tag: 'PrimeNG' },
