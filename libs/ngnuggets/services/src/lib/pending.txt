@@ -1,18 +1,4 @@
 
-T 
-
-t https://blog.shiftleft.io/angular-react-vulnerability-cheatsheet-a3b36f22a0fd
-
-W2 https://www.youtube.com/watch?v=mW6SMbWWP2c
-W2 https://www.youtube.com/watch?v=OTysG586YSw
-W2 https://syedkabir.hashnode.dev/angular-directives-uses-of-hostbinding-and-hostlistener
-W4 https://www.youtube.com/watch?v=eXd1dcbAZSw
-W6 https://www.youtube.com/watch?v=n-z52xqDI6A
-W9 https://www.youtube.com/watch?v=xCkybV9mtk8
-W11 https://github.com/angular/angular/releases/tag/13.2.5
-W12 https://github.com/angular/angular/releases/tag/14.0.0-next.5
-W12 https://www.youtube.com/watch?v=k5pUvceDQIg
-W16 https://pawan-kumawat.medium.com/difference-between-subject-and-behaviorsubject-6283dde86b2
 
 W19 https://www.youtube.com/watch?v=apz5qAxWXkQ
 R0 https://www.youtube.com/watch?v=mIZQQK27WGY
