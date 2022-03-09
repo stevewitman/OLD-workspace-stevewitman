@@ -2188,7 +2188,7 @@
           "sourceUrl": "https://youtube.com",
           "authorName": "ARC Tutorials",
           "authorUrl": "https://www.youtube.com/c/ARCTutorials/videos",
-          "speakers": [],
+          "speakers": ["Sridhar Rao"],
           "tags": ["RxJS", "fromEvent"]
         },
         {
@@ -4890,7 +4890,7 @@
           "sourceUrl": "https://youtube.com",
           "authorName": "ARC Tutorials",
           "authorUrl": "https://www.youtube.com/c/ARCTutorials/videos",
-          "speakers": [],
+          "speakers": ["Sridhar Rao"],
           "tags": ["RxJS", "debounceTime"]
         },
         {

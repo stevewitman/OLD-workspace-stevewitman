@@ -265,6 +265,7 @@ export const tags = [
   { category: 'RxJS', tag: 'distinctUntilChanged' },
   { category: 'RxJS', tag: 'exhaustAll' },
   { category: 'RxJS', tag: 'exhaustMap' },
+  { category: 'RxJS', tag: 'finalize' },
   { category: 'RxJS', tag: 'map' },
   { category: 'RxJS', tag: 'mergeAll' },
   { category: 'RxJS', tag: 'mergeMap' },

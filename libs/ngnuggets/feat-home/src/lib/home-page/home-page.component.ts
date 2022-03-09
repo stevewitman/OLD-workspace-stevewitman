@@ -27,7 +27,7 @@ export class HomePageComponent implements OnInit {
   constructor(private postService: PostService) {}
 
   ngOnInit() {
-    this.getPosts('02').subscribe((data) => {
+    this.getPosts('03').subscribe((data) => {
       this.recentPosts = data;
     });
   }
@@ -40,7 +40,7 @@ export class HomePageComponent implements OnInit {
 
   getMorePosts() {
     console.log('recentPosts BEFORE:', this.recentPosts);
-    this.getPosts('01').subscribe((data) => {
+    this.getPosts('02').subscribe((data) => {
       this.recentPosts2 = data;
       console.log('MORE:', this.recentPosts2);
       this.recentPosts = [...this.recentPosts2, ...this.recentPosts];

@@ -830,7 +830,7 @@
         "sourceUrl": "https://youtube.com",
         "authorName": "ARC Tutorials",
         "authorUrl": "https://www.youtube.com/c/ARCTutorials/videos",
-        "speakers": [],
+        "speakers": ["Sridhar Rao"],
         "tags": ["RxJS", "distinct"]
       },
       {
@@ -1323,7 +1323,7 @@
         "sourceUrl": "https://youtube.com",
         "authorName": "ARC Tutorials",
         "authorUrl": "https://www.youtube.com/c/ARCTutorials/videos",
-        "speakers": [],
+        "speakers": ["Sridhar Rao"],
         "tags": ["RxJS"]
       },
       {
@@ -3796,7 +3796,7 @@
         "sourceUrl": "https://youtube.com",
         "authorName": "ARC Tutorials",
         "authorUrl": "https://www.youtube.com/c/ARCTutorials/videos",
-        "speakers": [],
+        "speakers": ["Sridhar Rao"],
         "tags": ["RxJS"]
       },
       {

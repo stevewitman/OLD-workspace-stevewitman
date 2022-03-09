@@ -1,23 +1,7 @@
-TUES??? ===>
-M16 https://www.youtube.com/watch?v=6998sqU-zIY
-M16 https://www.youtube.com/watch?v=U1uIO-869QI
-M14 https://www.youtube.com/watch?v=yJbzbIuWCFI
-M15 https://www.youtube.com/watch?v=KiezuugiUvQ
 
-TUES ===>
-M21 https://medium.com/@bonface.oywa/internationalize-your-angular-applications-using-ngx-translate-50148d19defc
-M22 https://jnpiyush.medium.com/how-to-change-component-prefix-in-angular-2e8088e5ce6d
-T2 https://souvikpl.medium.com/call-by-value-and-call-by-reference-in-angular-59980f005e3e
-T3 https://www.youtube.com/watch?v=8z576TNeE6g
-T4 https://elmota.com/rxjs-based-state-management-in-angular-part-iii
-T8 https://www.youtube.com/watch?v=LmeEs0h5gOQ
-T8 https://www.youtube.com/watch?v=QuH2pUBeNJ4
-T11 https://www.youtube.com/watch?v=96pR_pFnsGg
-T11 https://www.youtube.com/watch?v=_0a4fbzZWQE
-T14 https://dev.to/aniket762/getting-into-software-testing-with-jest-2ca0
-T14 https://dev.to/androizer/easily-consume-back-end-apis-in-angular-4x-faster-hpn
-T https://medium.com/@cbgdn/creating-a-dynamic-component-is-now-easier-changes-in-angular-13-990b28078968
-T https://www.youtube.com/watch?v=8ackjL3FsRM
+T 
+
+t https://blog.shiftleft.io/angular-react-vulnerability-cheatsheet-a3b36f22a0fd
 
 W2 https://www.youtube.com/watch?v=mW6SMbWWP2c
 W2 https://www.youtube.com/watch?v=OTysG586YSw
@@ -43,10 +27,70 @@ R18 https://www.youtube.com/watch?v=nlRJHAy7ndg
 R20 https://dev.to/hieunh1801/angular-sync-sessionstorage-between-multiple-tabs-using-localstorage-event-1p6k
 
 
+f https://adventuresinangular.com/angular-on-the-desktop-aia-341
 f0 https://www.youtube.com/watch?v=IIB1oQICz7w  
 f1 https://www.youtube.com/watch?v=SS7qIPE2LsE
 f7 https://dev.to/garima_writes/protractor-testing-tutorial-test-automation-with-protractor-and-selenium-33mf
 f9 https://www.youtube.com/watch?v=RGg5iqMgCYs
 f12 https://www.youtube.com/watch?v=iug72muKr78
 f13 https://www.youtube.com/watch?v=cmNq6iTNLBU
+f15 https://www.youtube.com/watch?v=P9vcLPsW9lQ
 f21 https://dev.to/railsstudent/dynamically-load-components-in-angular-13-5474
+
+f https://eraoftech.medium.com/three-easy-ways-to-add-file-upload-functionality-in-angular-project-a6f95490672d
+f https://medium.com/@abhishek950650/create-custom-directive-for-reactive-angular-form-validation-a064b75119a6
+s0 https://dev.to/nigrosimone/angular-global-ngfor-trackby-property-directive-with-strict-type-checking-1kik
+s4 https://dev.to/ayyash/the-mystic-three-tokens-of-angular-appbootstraplistener-appinitializer-platforminitializer-76j
+s6 https://www.youtube.com/watch?v=LfZ7xdMPytI
+s18 https://www.youtube.com/watch?v=QfVwb9qUOg0
+s19 https://www.youtube.com/watch?v=F9JjUO5TJ-I
+s19 https://www.youtube.com/watch?v=QfVwb9qUOg0
+s https://medium.com/@pro.gramistka/customize-map-controls-with-angular-and-openlayers-a38a3146de33
+s https://pawan-kumawat.medium.com/rxjs-switchmap-operator-4b045e2fbbda
+s https://medium.com/@pro.gramistka/add-geochart-to-your-angular-13-project-to-visualize-location-data-18177c204de2
+
+u0 https://medium.com/@prathameshk73/angular-security-guide-190d4ef5fb5c
+u4 https://blog.pankajkasotiya.com/custom-directive-in-angular
+u7 https://www.youtube.com/watch?v=cIUKWxpgNr8
+u7 https://gergoasztalos.hashnode.dev/angular-pipes-in-depth-pure-or-impure
+u10 https://www.youtube.com/watch?v=8dmP-zGJj0c
+u14 https://www.youtube.com/watch?v=WcqPJV6PiAA
+u20 https://medium.com/@rafaelneves652/angular-pipes-ddffdbcb9e56
+u21 https://www.youtube.com/watch?v=31or_m_xAA0
+u22 https://medium.com/@davidvalentine314/the-cleanest-way-to-write-observable-chains-91400c4f75f5
+u23 https://dev.to/ayyash/rxjs-based-state-management-in-angular-part-iv-2gdl
+m0 https://jnpiyush.medium.com/how-to-set-up-jest-in-angular-app-961ddcbab8af
+m0 https://medium.com/@sachinbahal88/overview-angular-unit-testing-code-coverage-72c873c85337
+m4 https://www.youtube.com/watch?v=rMVcc2fF1fc
+m4 https://www.youtube.com/watch?v=Wq5VJBlGqxg
+https://javascript.plainenglish.io/why-you-should-not-put-any-logic-in-the-rxjs-subscribe-callback-in-angular-df1ba4a12f13
+https://netbasal.com/implementing-a-loading-skeleton-in-angular-7490ffdecc1b
+m6 https://www.spreaker.com/user/14532324/s2e06-developers-odyssey-with-katerina-s?utm_campaign=episode-title&utm_medium=app&utm_source=widget
+https://zakimohammed.medium.com/baking-pagination-with-angular-and-bootstrap-5-784d15ab0bd5
+m7 https://dev.to/ayyash/rxjs-based-state-management-in-angular-part-iv-2gdl
+m7 https://www.youtube.com/watch?v=21roj5eGdW4
+m12 https://www.youtube.com/watch?v=bRhzpdzNrLM
+m19 https://zakimohammed.medium.com/baking-pagination-with-angular-and-bootstrap-5-784d15ab0bd5
+m19 https://medium.com/flowaccount-tech/angular-with-nodejs-and-single-signon-authorization-code-flow-angular-with-nodejs-and-single-e8829aa7d0fc
+
+t6 https://www.telerik.com/blogs/angular-basics-canactivate-introduction-routing-guards
+t6 https://www.youtube.com/watch?v=nwKtrUSqfqw
+t12 https://dev.to/this-is-angular/use-angular-directives-to-extend-components-that-you-dont-own-1jio
+t17 https://dev.to/lloydmi/custom-angular-form-password-component-970
+t19 https://www.youtube.com/watch?v=FJvk9YyXTLo
+
+https://medium.com/god-dev-blog/angular-are-you-still-assembling-translations-in-enormous-files-in-times-of-modular-architecture-d8c13a67117b
+https://medium.com/@d.gerbede/angular-best-practices-2022-8aba5910466
+
+t23 https://medium.com/@abhishek950650/avoid-memory-leak-in-angular-using-subsink-unsubscribe-observable-456ea9f971d0
+w2 https://www.youtube.com/watch?v=pUouyyYOpqw
+w4 https://www.youtube.com/watch?v=7SDpTOLeqHE
+w4 https://www.youtube.com/watch?v=FBEMwP2G0JM
+w7 https://www.youtube.com/watch?v=FFXOrWDuZks (pipes, custom) ***
+w8 https://www.youtube.com/watch?v=EPfhTksHiug
+w8 https://medium.com/@louisboucquet/dynamically-translating-json-responses-from-an-api-273137a80996
+w8 https://dev.to/this-is-learning/create-an-rxjs-observable-3j45
+w9 https://medium.com/@the.mohamed.riaz/creating-custom-pie-charts-with-d3-using-angular-13-561ea1585e33
+w9 https://www.youtube.com/watch?v=KnoEkEZ3rUM
+w10 https://github.com/angular/angular/releases/tag/13.2.6
+w10 https://github.com/angular/angular/releases/tag/14.0.0-next.6
