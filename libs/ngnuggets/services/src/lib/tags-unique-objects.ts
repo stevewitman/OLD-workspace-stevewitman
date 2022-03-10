@@ -159,6 +159,7 @@ export const tags = [
   { category: 'Misc', tag: 'JWT' },
   { category: 'Misc', tag: 'Linters' },
   { category: 'Misc', tag: 'Local Storage' },
+  { category: 'Misc', tag: 'Maps' },
   { category: 'Misc', tag: 'Menu' },
   { category: 'Misc', tag: 'Micro Frontends' },
   { category: 'Misc', tag: 'Microservices' },

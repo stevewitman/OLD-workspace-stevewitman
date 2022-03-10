@@ -1,28 +1,3 @@
-
-f21 https://dev.to/railsstudent/dynamically-load-components-in-angular-13-5474
-
-f https://eraoftech.medium.com/three-easy-ways-to-add-file-upload-functionality-in-angular-project-a6f95490672d
-f https://medium.com/@abhishek950650/create-custom-directive-for-reactive-angular-form-validation-a064b75119a6
-s0 https://dev.to/nigrosimone/angular-global-ngfor-trackby-property-directive-with-strict-type-checking-1kik
-s4 https://dev.to/ayyash/the-mystic-three-tokens-of-angular-appbootstraplistener-appinitializer-platforminitializer-76j
-s6 https://www.youtube.com/watch?v=LfZ7xdMPytI
-s18 https://www.youtube.com/watch?v=QfVwb9qUOg0
-s19 https://www.youtube.com/watch?v=F9JjUO5TJ-I
-s19 https://www.youtube.com/watch?v=QfVwb9qUOg0
-s https://medium.com/@pro.gramistka/customize-map-controls-with-angular-and-openlayers-a38a3146de33
-s https://pawan-kumawat.medium.com/rxjs-switchmap-operator-4b045e2fbbda
-s https://medium.com/@pro.gramistka/add-geochart-to-your-angular-13-project-to-visualize-location-data-18177c204de2
-
-u0 https://medium.com/@prathameshk73/angular-security-guide-190d4ef5fb5c
-u4 https://blog.pankajkasotiya.com/custom-directive-in-angular
-u7 https://www.youtube.com/watch?v=cIUKWxpgNr8
-u7 https://gergoasztalos.hashnode.dev/angular-pipes-in-depth-pure-or-impure
-u10 https://www.youtube.com/watch?v=8dmP-zGJj0c
-u14 https://www.youtube.com/watch?v=WcqPJV6PiAA
-u20 https://medium.com/@rafaelneves652/angular-pipes-ddffdbcb9e56
-u21 https://www.youtube.com/watch?v=31or_m_xAA0
-u22 https://medium.com/@davidvalentine314/the-cleanest-way-to-write-observable-chains-91400c4f75f5
-u23 https://dev.to/ayyash/rxjs-based-state-management-in-angular-part-iv-2gdl
 m0 https://jnpiyush.medium.com/how-to-set-up-jest-in-angular-app-961ddcbab8af
 m0 https://medium.com/@sachinbahal88/overview-angular-unit-testing-code-coverage-72c873c85337
 m4 https://www.youtube.com/watch?v=rMVcc2fF1fc

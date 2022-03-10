@@ -1856,7 +1856,7 @@
         "authorName": "Coding Shiksha",
         "authorUrl": "https://www.youtube.com/c/CodingShiksha/videos",
         "speakers": ["Gautam Sharma"],
-        "tags": ["Google Maps"]
+        "tags": ["Maps", "Google Maps"]
       },
       {
         "slug": "2022-02-11-C",
@@ -4161,7 +4161,7 @@
         "slug": "2022-02-22-J",
         "type": "video",
         "duration": "6",
-        "title": "How to apply animation in Angular | Animating Route Transitions | Animations | Learn Smart Coding",
+        "title": "How to apply animation in Angular | Animating Route Transitions | Animations",
         "url": "https://www.youtube.com/watch?v=G9zAdwy3Skk",
         "description": "Animating Route Transitions in Angular 13. Smoothly transitioning from one route to the next can add polish to an application. We define route transitions with animations, we are animating the content of our root router outlet.",
         "datePosted": "2022-02-22",
@@ -4465,7 +4465,7 @@
         "slug": "2022-02-23-T",
         "type": "video",
         "duration": "12",
-        "title": "How to implement Route Resolver in Angular | Angular | Interview Topic | Learn Smart Coding",
+        "title": "How to implement Route Resolver in Angular | Angular | Interview Topic",
         "url": "https://www.youtube.com/watch?v=ZTZJpbCPWrg",
         "description": "This video is all about how to implement Route Resolver. We will go through in detail how to implement Resolver step by step.",
         "datePosted": "2022-02-23",
@@ -4725,7 +4725,7 @@
         "slug": "2022-02-25-A",
         "type": "video",
         "duration": "12",
-        "title": "How to build Custom Pipes and use In-built pipes in Angular | Angular | Learn Smart Coding ",
+        "title": "How to build Custom Pipes and use In-built pipes in Angular | Angular",
         "url": "https://www.youtube.com/watch?v=mIn08XD1_78",
         "description": "This video will make you understand how to use in-built pipes in Angular and also shows you various examples of how to build custom pipes in Angular.",
         "datePosted": "2022-02-25",
