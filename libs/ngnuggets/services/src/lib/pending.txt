@@ -1,14 +1,4 @@
 
-
-
-f https://adventuresinangular.com/angular-on-the-desktop-aia-341
-f0 https://www.youtube.com/watch?v=IIB1oQICz7w  
-f1 https://www.youtube.com/watch?v=SS7qIPE2LsE
-f7 https://dev.to/garima_writes/protractor-testing-tutorial-test-automation-with-protractor-and-selenium-33mf
-f9 https://www.youtube.com/watch?v=RGg5iqMgCYs
-f12 https://www.youtube.com/watch?v=iug72muKr78
-f13 https://www.youtube.com/watch?v=cmNq6iTNLBU
-f15 https://www.youtube.com/watch?v=P9vcLPsW9lQ
 f21 https://dev.to/railsstudent/dynamically-load-components-in-angular-13-5474
 
 f https://eraoftech.medium.com/three-easy-ways-to-add-file-upload-functionality-in-angular-project-a6f95490672d

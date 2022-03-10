@@ -271,7 +271,7 @@
     ]
   },
   {
-    "date": "2022-02-02",
+    "date": "2022-03-02",
     "dailyPosts": [
       {
         "slug": "2022-03-02-A",
@@ -407,7 +407,7 @@
     ]
   },
   {
-    "date": "2022-02-03",
+    "date": "2022-03-03",
     "dailyPosts": [
       {
         "slug": "2022-03-03-A",
@@ -590,6 +590,145 @@
         "authorName": "Nguyen Huu Hieu",
         "authorUrl": "https://dev.to/hieunh1801",
         "speakers": ["Nguyen Huu Hieu"],
+        "tags": []
+      }
+    ]
+  },
+  {
+    "date": "2022-03-04",
+    "dailyPosts": [
+      {
+        "slug": "2022-03-04-A",
+        "type": "podcast",
+        "duration": "68",
+        "title": "https://adventuresinangular.com/angular-on-the-desktop-aia-341",
+        "description": "If your Angular needs a home, look no further than your own desktop! In this episode, the group talks to Sam Basu to learn ALL the deets about integrating Angular into your desktop properly. They lay out how PWAs CAN work (if done correctly), the big differences between cross-platform vs. one basket, and why 2022 is gonna be a GOOD year for Angular.",
+        "datePosted": "2022-03-04",
+        "dateSource": "2022-03-04",
+        "postedBy": "Steve Witman",
+        "sourceSite": "DevChat.tv",
+        "sourceUrl": "https://adventuresinangular.com",
+        "authorName": "Adventures In Angular",
+        "authorUrl": "https://devchat.tv/show/adventures-in-angular/",
+        "speakers": ["Sam Basu"],
+        "tags": ["Dependency Injection"]
+      },
+      {
+        "slug": "2022-03-04-B",
+        "type": "video",
+        "duration": "6",
+        "title": "Validation in Angular Form | Angular Tutorial For Beginner | Angular Live Training | Learn Code",
+        "url": "https://www.youtube.com/watch?v=IIB1oQICz7w",
+        "description": "",
+        "datePosted": "2022-03-04",
+        "dateSource": "2022-03-04",
+        "postedBy": "Steve Witman",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "Learn Code",
+        "authorUrl": "https://www.youtube.com/channel/UCSUcR0LCSrnWmuLS1oBVugg/videos",
+        "speakers": [],
+        "tags": ["Validation"]
+      },
+      {
+        "slug": "2022-03-04-C",
+        "type": "video",
+        "duration": "51",
+        "title": "Reactive forms in Angular 13 (CRUD + bootstrap modal + Data transfer @ViewChild + Auto refresh)",
+        "url": "https://www.youtube.com/watch?v=SS7qIPE2LsE",
+        "description": "This video explains reactive forms in angular 13 also includes below topics: Reactive Form Implementation, Reactive Form Validations, CRUD using Bootstrap modal popup, Auto refresh Listing using Observable, Data transfer between the components using View Child",
+        "datePosted": "2022-03-04",
+        "dateSource": "2022-03-04",
+        "postedBy": "Steve Witman",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "Nihira Techiees",
+        "authorUrl": "https://www.youtube.com/channel/UCsbmVmB_or8sVLLEq4XhE_A/videos",
+        "speakers": [],
+        "tags": ["Forms", "Reactive Forms", "CRUD", "@ViewChild"]
+      },
+      {
+        "slug": "2022-03-04-D",
+        "type": "blog",
+        "title": "Protractor Testing Tutorial: Test Automation with Protractor and Selenium",
+        "url": "https://dev.to/garima_writes/protractor-testing-tutorial-test-automation-with-protractor-and-selenium-33mf",
+        "description": "The growing demand for high-end software on both web and mobile platforms has made businesses seek advanced development and testing methodologies to deliver excellence. Since software applications are made on different platforms using different tech stacks like AngularJS, NodeJS, etc., the test automation suite has to be compatible with them to offer wide coverage. ",
+        "datePosted": "2022-03-04",
+        "dateSource": "2022-03-04",
+        "postedBy": "Steve Witman",
+        "sourceSite": "DEV Community",
+        "sourceUrl": "https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc",
+        "authorName": "Garima Tiwari",
+        "authorUrl": "https://dev.to/garima_writes",
+        "speakers": ["Garima Tiwari"],
+        "tags": ["Testing", "Protractor"]
+      },
+      {
+        "slug": "2022-03-04-E",
+        "type": "video",
+        "duration": "14",
+        "title": "Angular Directives - Types and how to write them",
+        "url": "https://www.youtube.com/watch?v=RGg5iqMgCYs",
+        "description": "Learn with useful live examples of custom directives, what are they, home many types are there, and how should we use them. Directives are very important topic for Angular Interviews too. I hope this video helps you learn it efficiently.",
+        "datePosted": "2022-03-04",
+        "dateSource": "2022-03-04",
+        "postedBy": "Steve Witman",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "TheAngularCoder - Gourav",
+        "authorUrl": "https://www.youtube.com/c/GouravGunjan/videos",
+        "speakers": ["Gourav Gunjan"],
+        "tags": ["Directives", "Custom"]
+      },
+      {
+        "slug": "2022-03-04-F",
+        "type": "video",
+        "duration": "65",
+        "title": "AngularAir - FullerStack: Mono Repo Ready for your first feature with Val Neekman",
+        "url": "https://www.youtube.com/watch?v=iug72muKr78",
+        "description": "Val Neekman is a Solutions Architect with a passion for full-stack software development. He is a Principal Consultant at Neekware Inc. On this episode, Val shows off FullerStack, an open source dashboard powered by Angular for the frontend and NestJS for the backend. Come see how how you can get up and running with this simple and elegant open source dashboard, cross-platform!",
+        "datePosted": "2022-03-04",
+        "dateSource": "2022-03-04",
+        "postedBy": "Steve Witman",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "AngularAir",
+        "authorUrl": "https://www.youtube.com/c/AngularAirPodcast/videos",
+        "speakers": ["Val Neekman"],
+        "tags": []
+      },
+      {
+        "slug": "2022-03-04-G",
+        "type": "video",
+        "duration": "68",
+        "title": "Angular team plays game and answers your questions LIVE | March 2022",
+        "url": "https://youtu.be/cmNq6iTNLBU?t=20",
+        "description": "Join members of the Angular team as we play some games and answer your questions. See you there!",
+        "datePosted": "2022-03-04",
+        "dateSource": "2022-03-04",
+        "postedBy": "Steve Witman",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "Angular",
+        "authorUrl": "https://www.youtube.com/c/Angular/videos",
+        "speakers": ["Jessica Janiuk", "Jeremy Elbourn"],
+        "tags": []
+      },
+      {
+        "slug": "2022-03-04-H",
+        "type": "video",
+        "duration": "101",
+        "title": "Building Angular Applications with Vite",
+        "url": "https://www.youtube.com/watch?v=P9vcLPsW9lQ",
+        "description": "The web ecosystem is in a shift from Webpack to Vite. There's been some development around making Angular and Vite work together. Are we there yet?",
+        "datePosted": "2022-03-04",
+        "dateSource": "2022-03-04",
+        "postedBy": "Steve Witman",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "Brandon Roberts",
+        "authorUrl": "https://www.youtube.com/c/BrandonRobertsDev/videos",
+        "speakers": ["Brandon Roberts"],
         "tags": []
       }
     ] 
