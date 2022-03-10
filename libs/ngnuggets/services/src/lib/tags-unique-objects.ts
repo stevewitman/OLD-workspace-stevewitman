@@ -172,6 +172,7 @@ export const tags = [
   { category: 'Misc', tag: 'Phone' },
   { category: 'Misc', tag: 'Productivity' },
   { category: 'Misc', tag: 'ResizeObserver' },
+  { category: 'Misc', tag: 'Responsive' },
   { category: 'Misc', tag: 'SSR' },
   { category: 'Misc', tag: 'Sanitization' },
   { category: 'Misc', tag: 'Search' },

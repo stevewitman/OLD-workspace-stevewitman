@@ -1,17 +1,5 @@
 
 
-W19 https://www.youtube.com/watch?v=apz5qAxWXkQ
-R0 https://www.youtube.com/watch?v=mIZQQK27WGY
-R2 https://dev.to/this-is-learning/rxjs-observables-in-brief-11e1
-R6 https://www.youtube.com/watch?v=3WrUTzVjxko
-R6 https://webrush.io/episodes/episode-173-getting-the-best-out-of-typescript-with-maina-wyclyffe
-R7 https://www.youtube.com/watch?v=_DACuv_xYCs *****
-R9 https://medium.com/@azlouknour/cypress-library-e2e-with-angular-project-2233f133c475 
-R11 https://eraoftech.medium.com/what-is-viewencapsulation-in-angular-and-how-it-is-related-to-css-styles-4a69af95bd66
-R17 https://www.youtube.com/watch?v=Z8sx1Cgd9Iw
-R18 https://www.youtube.com/watch?v=nlRJHAy7ndg
-R20 https://dev.to/hieunh1801/angular-sync-sessionstorage-between-multiple-tabs-using-localstorage-event-1p6k
-
 
 f https://adventuresinangular.com/angular-on-the-desktop-aia-341
 f0 https://www.youtube.com/watch?v=IIB1oQICz7w  
@@ -53,6 +41,7 @@ https://javascript.plainenglish.io/why-you-should-not-put-any-logic-in-the-rxjs-
 https://netbasal.com/implementing-a-loading-skeleton-in-angular-7490ffdecc1b
 m6 https://www.spreaker.com/user/14532324/s2e06-developers-odyssey-with-katerina-s?utm_campaign=episode-title&utm_medium=app&utm_source=widget
 https://zakimohammed.medium.com/baking-pagination-with-angular-and-bootstrap-5-784d15ab0bd5
+m6 https://www.youtube.com/watch?v=B-8pJKGf638
 m7 https://dev.to/ayyash/rxjs-based-state-management-in-angular-part-iv-2gdl
 m7 https://www.youtube.com/watch?v=21roj5eGdW4
 m12 https://www.youtube.com/watch?v=bRhzpdzNrLM
@@ -80,3 +69,17 @@ w9 https://medium.com/@the.mohamed.riaz/creating-custom-pie-charts-with-d3-using
 w9 https://www.youtube.com/watch?v=KnoEkEZ3rUM
 w10 https://github.com/angular/angular/releases/tag/13.2.6
 w10 https://github.com/angular/angular/releases/tag/14.0.0-next.6
+w10 https://www.youtube.com/watch?v=KnoEkEZ3rUM
+w11 https://medium.com/@the.mohamed.riaz/creating-custom-pie-charts-with-d3-using-angular-13-561ea1585e333
+w11 https://medium.com/@JeanJepleting/how-to-create-an-angular-sign-up-form-using-json-server-7b9b2d9b7993
+w12 https://www.youtube.com/watch?v=xlHfWqCyNcg
+w12 https://blog.angular.io/angular-extended-diagnostics-53e2fa19ece9 (Angular Blog)
+w19 https://www.youtube.com/watch?v=e-NNM02Y9To
+w22 https://www.youtube.com/watch?v=cIotO5XdfSg
+w22 https://www.youtube.com/watch?v=ovd-FX5kxnA
+
+r1 https://www.youtube.com/watch?v=ziwVqVB36NI
+r6 https://www.youtube.com/watch?v=wqQBErGDSmQ
+
+
+old look for more SKK ... https://www.youtube.com/channel/UCD8gC85u512FeCFzRV4Ll-A
