@@ -1,17 +1,5 @@
-m0 https://jnpiyush.medium.com/how-to-set-up-jest-in-angular-app-961ddcbab8af
-m0 https://medium.com/@sachinbahal88/overview-angular-unit-testing-code-coverage-72c873c85337
-m4 https://www.youtube.com/watch?v=rMVcc2fF1fc
-m4 https://www.youtube.com/watch?v=Wq5VJBlGqxg
-https://javascript.plainenglish.io/why-you-should-not-put-any-logic-in-the-rxjs-subscribe-callback-in-angular-df1ba4a12f13
-https://netbasal.com/implementing-a-loading-skeleton-in-angular-7490ffdecc1b
-m6 https://www.spreaker.com/user/14532324/s2e06-developers-odyssey-with-katerina-s?utm_campaign=episode-title&utm_medium=app&utm_source=widget
-https://zakimohammed.medium.com/baking-pagination-with-angular-and-bootstrap-5-784d15ab0bd5
-m6 https://www.youtube.com/watch?v=B-8pJKGf638
-m7 https://dev.to/ayyash/rxjs-based-state-management-in-angular-part-iv-2gdl
-m7 https://www.youtube.com/watch?v=21roj5eGdW4
-m12 https://www.youtube.com/watch?v=bRhzpdzNrLM
-m19 https://zakimohammed.medium.com/baking-pagination-with-angular-and-bootstrap-5-784d15ab0bd5
-m19 https://medium.com/flowaccount-tech/angular-with-nodejs-and-single-signon-authorization-code-flow-angular-with-nodejs-and-single-e8829aa7d0fc
+
+m19   
 
 t6 https://www.telerik.com/blogs/angular-basics-canactivate-introduction-routing-guards
 t6 https://www.youtube.com/watch?v=nwKtrUSqfqw
