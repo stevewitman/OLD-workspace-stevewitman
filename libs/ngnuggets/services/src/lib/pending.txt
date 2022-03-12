@@ -1,16 +1,8 @@
 
-m19   
 
-t6 https://www.telerik.com/blogs/angular-basics-canactivate-introduction-routing-guards
-t6 https://www.youtube.com/watch?v=nwKtrUSqfqw
-t12 https://dev.to/this-is-angular/use-angular-directives-to-extend-components-that-you-dont-own-1jio
-t17 https://dev.to/lloydmi/custom-angular-form-password-component-970
-t19 https://www.youtube.com/watch?v=FJvk9YyXTLo
 
-https://medium.com/god-dev-blog/angular-are-you-still-assembling-translations-in-enormous-files-in-times-of-modular-architecture-d8c13a67117b
-https://medium.com/@d.gerbede/angular-best-practices-2022-8aba5910466
 
-t23 https://medium.com/@abhishek950650/avoid-memory-leak-in-angular-using-subsink-unsubscribe-observable-456ea9f971d0
+t23 
 w2 https://www.youtube.com/watch?v=pUouyyYOpqw
 w4 https://www.youtube.com/watch?v=7SDpTOLeqHE
 w4 https://www.youtube.com/watch?v=FBEMwP2G0JM
@@ -32,7 +24,28 @@ w22 https://www.youtube.com/watch?v=cIotO5XdfSg
 w22 https://www.youtube.com/watch?v=ovd-FX5kxnA
 
 r1 https://www.youtube.com/watch?v=ziwVqVB36NI
+r1 https://www.youtube.com/watch?v=FqbyGslcpjw
 r6 https://www.youtube.com/watch?v=wqQBErGDSmQ
+r8 https://dev.to/cubejs/building-an-apache-echarts-dashboard-with-angular-and-cube-2115
+r9 https://dotnetthoughts.net/consuming-graphql-api-with-angular/
+r10 https://betterprogramming.pub/why-to-and-how-to-use-strict-mode-in-angular-applications-1e6f6ffc0595
+r10 https://webrush.io/episodes/episode-174-where-should-you-go-for-authentic-tech-advice
+r12 https://github.com/angular/angular/releases/tag/13.3.0-rc.0
+r12 https://dev.to/ayyash/sanitizing-background-image-url-in-angular-5c58
+r14 https://www.youtube.com/watch?v=hxVf-Tlb0Zo
 
+
+r20 https://www.youtube.com/watch?v=6wreaUXswX4
+R22 https://markbdsouza.hashnode.dev/data-binding-in-angular-vs-vanilla-js
+f1 https://www.youtube.com/watch?v=3xM9TVqoTac
+f8 https://medium.com/javascript-everyday/custom-trackby-function-in-angular-applications-fa46484788c6
+f10 https://dev.to/readymadecode/add-google-map-in-angular-application-5d24
+f10 https://www.danywalls.com/how-to-handle-and-catch-errors-in-rxjs
+f12 https://medium.com/@mogold/angular-material-dialog-c7fb8c88912a
+f12 https://www.youtube.com/watch?v=3ZBOo3tmoQo
+f13 https://medium.com/@CodeBriefly/how-to-setup-tailwindcss-in-angular-115ba2799ad8
+f18 https://www.youtube.com/watch?v=NIvAGv-oQ-w
+f19 https://www.youtube.com/watch?v=7HIH8L3L9kA
+f19 https://zakimohammed.medium.com/pokedex-using-angular-and-bootstrap-with-pokeapi-adbd1ea3d322
 
 old look for more SKK ... https://www.youtube.com/channel/UCD8gC85u512FeCFzRV4Ll-A
