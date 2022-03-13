@@ -2091,7 +2091,7 @@
         "authorName": "Jozsef",
         "authorUrl": "https://dev.to/pjozeph",
         "speakers": [],
-        "tags": ["String Interpolation", "Event Binding", "Attribute Binding", "Two-Way Data Binding"]
+        "tags": ["String Interpolation", "Attribute Binding", "Two-Way Data Binding"]
       },
       {
         "slug": "2022-02-12-G",
@@ -4653,8 +4653,8 @@
       {
         "slug": "2022-02-24-J",
         "type": "blog",
-        "title": "",
-        "url": "CI/CD for Angular Developers",
+        "title": "CI/CD for Angular Developers",
+        "url": "https://betterprogramming.pub/ci-cd-for-angular-developers-be9a1485d22b",
         "description": "Releasing software manually is about as fun stepping in gum everyday for the rest of your life. Manual releases are time consuming, prone to mistakes, and a total buzzkill. Modern tools make releasing new versions of your software easy as pie.",
         "datePosted": "2022-02-24",
         "dateSource": "2022-02-24",

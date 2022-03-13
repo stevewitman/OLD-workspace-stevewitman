@@ -1,26 +1,4 @@
-
-
-
-
-t23 
-w2 https://www.youtube.com/watch?v=pUouyyYOpqw
-w4 https://www.youtube.com/watch?v=7SDpTOLeqHE
-w4 https://www.youtube.com/watch?v=FBEMwP2G0JM
-w7 https://www.youtube.com/watch?v=FFXOrWDuZks (pipes, custom) ***
-w8 https://www.youtube.com/watch?v=EPfhTksHiug
-w8 https://medium.com/@louisboucquet/dynamically-translating-json-responses-from-an-api-273137a80996
-w8 https://dev.to/this-is-learning/create-an-rxjs-observable-3j45
-w9 https://medium.com/@the.mohamed.riaz/creating-custom-pie-charts-with-d3-using-angular-13-561ea1585e33
-w9 https://www.youtube.com/watch?v=KnoEkEZ3rUM
-w10 https://github.com/angular/angular/releases/tag/13.2.6
-w10 https://github.com/angular/angular/releases/tag/14.0.0-next.6
-w10 https://www.youtube.com/watch?v=KnoEkEZ3rUM
-w11 https://medium.com/@the.mohamed.riaz/creating-custom-pie-charts-with-d3-using-angular-13-561ea1585e333
-w11 https://medium.com/@JeanJepleting/how-to-create-an-angular-sign-up-form-using-json-server-7b9b2d9b7993
-w12 https://www.youtube.com/watch?v=xlHfWqCyNcg
-w12 https://blog.angular.io/angular-extended-diagnostics-53e2fa19ece9 (Angular Blog)
-w19 https://www.youtube.com/watch?v=e-NNM02Y9To
-w22 https://www.youtube.com/watch?v=cIotO5XdfSg
+ 
 w22 https://www.youtube.com/watch?v=ovd-FX5kxnA
 
 r1 https://www.youtube.com/watch?v=ziwVqVB36NI
@@ -47,5 +25,21 @@ f13 https://medium.com/@CodeBriefly/how-to-setup-tailwindcss-in-angular-115ba279
 f18 https://www.youtube.com/watch?v=NIvAGv-oQ-w
 f19 https://www.youtube.com/watch?v=7HIH8L3L9kA
 f19 https://zakimohammed.medium.com/pokedex-using-angular-and-bootstrap-with-pokeapi-adbd1ea3d322
+
+f22 https://www.youtube.com/watch?v=U4xVqoOcbrM 
+f23 https://medium.com/@the.mohamed.riaz/animated-pie-charts-angular-d3-a4fa564a4cb9
+s2 https://www.youtube.com/watch?v=S2xwcY3QKBc
+s2 https://www.thecodehubs.com/open-modal-in-another-component-in-angular-13/?utm_source=rss&utm_medium=rss&utm_campaign=open-modal-in-another-component-in-angular-13
+s4 https://ramya-bala221190.medium.com/angular-how-i-finally-understood-when-and-how-to-use-currenttarget-property-of-events-9bd3725d691a
+s5 https://www.youtube.com/watch?v=O-MAtagUJjM
+s5 https://www.youtube.com/watch?v=WTn2nVphSl8
+s5 https://www.youtube.com/watch?v=03FqsZ_XJEc
+s6 https://www.youtube.com/watch?v=Tam0ruVGcnk
+s8 https://ramya-bala221190.medium.com/angular-how-i-finally-understood-when-and-how-to-use-currenttarget-property-of-events-9bd3725d691a
+s11 https://ramya-bala221190.medium.com/angular-how-i-finally-understood-when-and-how-to-use-currenttarget-property-of-events-9bd3725d691a
+s12 https://eraoftech.medium.com/how-mapping-operators-can-help-you-to-avoid-multiple-subscriptions-in-angular-ca9a9d040897
+s12 https://www.youtube.com/watch?v=i8g_Y4ErA-A
+s15 https://www.youtube.com/watch?v=Tb76ClEL6hU
+
 
 old look for more SKK ... https://www.youtube.com/channel/UCD8gC85u512FeCFzRV4Ll-A
