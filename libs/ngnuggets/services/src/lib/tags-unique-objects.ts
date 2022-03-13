@@ -152,6 +152,7 @@ export const tags = [
   { category: 'Misc', tag: 'Dynamic' },
   { category: 'Misc', tag: 'ESLint' },
   { category: 'Misc', tag: 'Errors' },
+  { category: 'Misc', tag: 'Facade Design Pattern' },
   { category: 'Misc', tag: 'Feature Flags' },
   { category: 'Misc', tag: 'File Upload' },
   { category: 'Misc', tag: 'Intersection Observer' },

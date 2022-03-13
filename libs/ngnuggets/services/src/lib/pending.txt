@@ -1,20 +1,4 @@
- 
-w22 https://www.youtube.com/watch?v=ovd-FX5kxnA
 
-r1 https://www.youtube.com/watch?v=ziwVqVB36NI
-r1 https://www.youtube.com/watch?v=FqbyGslcpjw
-r6 https://www.youtube.com/watch?v=wqQBErGDSmQ
-r8 https://dev.to/cubejs/building-an-apache-echarts-dashboard-with-angular-and-cube-2115
-r9 https://dotnetthoughts.net/consuming-graphql-api-with-angular/
-r10 https://betterprogramming.pub/why-to-and-how-to-use-strict-mode-in-angular-applications-1e6f6ffc0595
-r10 https://webrush.io/episodes/episode-174-where-should-you-go-for-authentic-tech-advice
-r12 https://github.com/angular/angular/releases/tag/13.3.0-rc.0
-r12 https://dev.to/ayyash/sanitizing-background-image-url-in-angular-5c58
-r14 https://www.youtube.com/watch?v=hxVf-Tlb0Zo
-
-
-r20 https://www.youtube.com/watch?v=6wreaUXswX4
-R22 https://markbdsouza.hashnode.dev/data-binding-in-angular-vs-vanilla-js
 f1 https://www.youtube.com/watch?v=3xM9TVqoTac
 f8 https://medium.com/javascript-everyday/custom-trackby-function-in-angular-applications-fa46484788c6
 f10 https://dev.to/readymadecode/add-google-map-in-angular-application-5d24
