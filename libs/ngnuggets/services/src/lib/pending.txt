@@ -1,17 +1,5 @@
-s2 https://www.youtube.com/watch?v=S2xwcY3QKBc
-s2 https://www.thecodehubs.com/open-modal-in-another-component-in-angular-13/?utm_source=rss&utm_medium=rss&utm_campaign=open-modal-in-another-component-in-angular-13
-s4 https://ramya-bala221190.medium.com/angular-how-i-finally-understood-when-and-how-to-use-currenttarget-property-of-events-9bd3725d691a
-s5 https://www.youtube.com/watch?v=O-MAtagUJjM
-s5 https://www.youtube.com/watch?v=WTn2nVphSl8
-s5 https://www.youtube.com/watch?v=03FqsZ_XJEc
-s6 https://www.youtube.com/watch?v=Tam0ruVGcnk
-s8 https://ramya-bala221190.medium.com/angular-how-i-finally-understood-when-and-how-to-use-currenttarget-property-of-events-9bd3725d691a
-s11 https://ramya-bala221190.medium.com/angular-how-i-finally-understood-when-and-how-to-use-currenttarget-property-of-events-9bd3725d691a
-s12 https://eraoftech.medium.com/how-mapping-operators-can-help-you-to-avoid-multiple-subscriptions-in-angular-ca9a9d040897
-s12 https://www.youtube.com/watch?v=i8g_Y4ErA-A
-s15 https://www.youtube.com/watch?v=Tb76ClEL6hU
 
-s23 https://www.youtube.com/watch?v=HPojdhweWTE
+s23 
 u1 https://www.youtube.com/watch?v=EaTDkENiRYM
 u4 https://www.youtube.com/watch?v=OMX6Wcx2yZA
 u6 https://medium.com/@avinashsoni9829/github-search-project-using-angular-1bd3aff64aac
