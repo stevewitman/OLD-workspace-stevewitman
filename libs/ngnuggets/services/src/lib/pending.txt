@@ -1,17 +1,3 @@
-
-f1 https://www.youtube.com/watch?v=3xM9TVqoTac
-f8 https://medium.com/javascript-everyday/custom-trackby-function-in-angular-applications-fa46484788c6
-f10 https://dev.to/readymadecode/add-google-map-in-angular-application-5d24
-f10 https://www.danywalls.com/how-to-handle-and-catch-errors-in-rxjs
-f12 https://medium.com/@mogold/angular-material-dialog-c7fb8c88912a
-f12 https://www.youtube.com/watch?v=3ZBOo3tmoQo
-f13 https://medium.com/@CodeBriefly/how-to-setup-tailwindcss-in-angular-115ba2799ad8
-f18 https://www.youtube.com/watch?v=NIvAGv-oQ-w
-f19 https://www.youtube.com/watch?v=7HIH8L3L9kA
-f19 https://zakimohammed.medium.com/pokedex-using-angular-and-bootstrap-with-pokeapi-adbd1ea3d322
-
-f22 https://www.youtube.com/watch?v=U4xVqoOcbrM 
-f23 https://medium.com/@the.mohamed.riaz/animated-pie-charts-angular-d3-a4fa564a4cb9
 s2 https://www.youtube.com/watch?v=S2xwcY3QKBc
 s2 https://www.thecodehubs.com/open-modal-in-another-component-in-angular-13/?utm_source=rss&utm_medium=rss&utm_campaign=open-modal-in-another-component-in-angular-13
 s4 https://ramya-bala221190.medium.com/angular-how-i-finally-understood-when-and-how-to-use-currenttarget-property-of-events-9bd3725d691a
@@ -24,6 +10,24 @@ s11 https://ramya-bala221190.medium.com/angular-how-i-finally-understood-when-an
 s12 https://eraoftech.medium.com/how-mapping-operators-can-help-you-to-avoid-multiple-subscriptions-in-angular-ca9a9d040897
 s12 https://www.youtube.com/watch?v=i8g_Y4ErA-A
 s15 https://www.youtube.com/watch?v=Tb76ClEL6hU
+
+s23 https://www.youtube.com/watch?v=HPojdhweWTE
+u1 https://www.youtube.com/watch?v=EaTDkENiRYM
+u4 https://www.youtube.com/watch?v=OMX6Wcx2yZA
+u6 https://medium.com/@avinashsoni9829/github-search-project-using-angular-1bd3aff64aac
+u6 https://www.youtube.com/watch?v=eCbaZixsP-s
+u6 https://www.youtube.com/watch?v=N7uP2OXsfvc
+u8 https://medium.com/@toha.marko/angular-tweaking-a-http-request-with-httpcontexttoken-41920f3d1e24
+u11 https://www.youtube.com/watch?v=4J9nDZ0gvdo
+u12 https://www.youtube.com/watch?v=NCFQBRh3hZk
+u12 https://henriquesd.medium.com/deploying-an-angular-application-with-azure-pipelines-7c820116085f 
+u13 https://www.youtube.com/watch?v=ibatZSCgXLY
+u14 https://www.youtube.com/watch?v=9rnr07A0KXA
+u15 https://www.c-sharpcorner.com/article/c-sharp-corner-author-posts-analytics-with-angular-13-and-net-6-0/
+u16 https://www.youtube.com/watch?v=6CDSB0qEbz4 
+u17 https://dev.to/gauravsoni119/removing-boilerplate-code-in-ngrx-component-store-1f83
+u18 https://www.youtube.com/watch?v=NiRNE7928X4   
+
 
 
 old look for more SKK ... https://www.youtube.com/channel/UCD8gC85u512FeCFzRV4Ll-A
