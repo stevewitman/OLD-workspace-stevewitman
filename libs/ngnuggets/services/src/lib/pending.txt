@@ -1,22 +1,3 @@
- t12 https://www.youtube.com/watch?v=Q_ANjifIKw8
-
-t23 https://www.youtube.com/watch?v=qTWNB8C5AxQ
-w1 https://www.youtube.com/watch?v=RhCb4MfRCR4
-w2 https://www.youtube.com/watch?v=9PQkuyytKDI
-w2 https://www.youtube.com/watch?v=qnTm0mk1R0Y
-w2 https://www.youtube.com/watch?v=1McUumaJ2fA
-w2 https://www.youtube.com/watch?v=B5nmiSVNV0M
-w5 https://muhammadawaisshaikh.hashnode.dev/basic-state-management-in-angular
-w5 https://www.youtube.com/watch?v=9QU_GzcU184
-w8 https://www.youtube.com/watch?v=JXHA48fkiUU
-w9 https://www.youtube.com/watch?v=S96GNygQj7o
-w10 https://dev.to/devashishsarmah/building-a-dialogmaterial-service-in-angular-2m07
-w10 https://www.youtube.com/watch?v=H-1Pb9zXmkY
-w11 https://eraoftech.medium.com/add-css-styles-dynamically-in-angular-using-additional-attributes-2cd9eb3ab649
-
-w13 https://github.com/angular/angular/releases/tag/14.0.0-next.7
-w13 https://github.com/angular/angular/releases/tag/13.3.0
-w13 https://github.com/angular/angular/releases/tag/13.2.7
 w18 https://medium.com/@rafaelneves652/angular-service-287e4086ee2d
 
 w23 https://www.youtube.com/watch?v=y2PTOd4Hxco
@@ -32,7 +13,6 @@ r11 https://www.youtube.com/watch?v=b4zpvh_saic
 r12 https://www.youtube.com/watch?v=_OqHcOHp8LE
 r https://www.youtube.com/watch?v=gpNQIy5GXtw
 r https://eraoftech.medium.com/rules-for-typescript-configuration-file-in-angular-d5e3ed62fe2
-r 21
 
 f https://dev.to/this-is-angular/css-animation-events-in-angular-3p03
 f3 https://dev.to/justinthadathil/upload-images-to-cloudinary-using-angular-6oa

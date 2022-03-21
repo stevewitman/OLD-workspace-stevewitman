@@ -97,6 +97,7 @@
   { "cat": "Angular", "tag": "ngSwitch" },
   { "cat": "Angular", "tag": "ngTemplateOutlet" },
   { "cat": "Angular", "tag": "ngTemplateOutletInjector" },
+  { "cat": "Angular", "tag": "ngStyle" },
   { "cat": "Angular", "tag": "onPush" },
   { "cat": "Angular", "tag": "String Interpolation" },
   { "cat": "Angular", "tag": "trackBy" },
