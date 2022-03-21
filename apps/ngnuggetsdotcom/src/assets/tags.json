@@ -333,6 +333,7 @@
   { "cat": "3rd Party", "tag": "Travis CI" },
   { "cat": "3rd Party", "tag": "VSCode" },
   { "cat": "3rd Party", "tag": "cloneDeep Lodash" },
+  { "cat": "3rd Party", "tag": "Cloudflare" },
   { "cat": "3rd Party", "tag": "ngx-bootstrap" },
   { "cat": "3rd Party", "tag": "ngx-logger" },
   { "cat": "3rd Party", "tag": "ngx-toastr" },

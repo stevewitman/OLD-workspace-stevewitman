@@ -1,3 +1,69 @@
-10 
-11 
-20 
+ t12 https://www.youtube.com/watch?v=Q_ANjifIKw8
+
+t23 https://www.youtube.com/watch?v=qTWNB8C5AxQ
+w1 https://www.youtube.com/watch?v=RhCb4MfRCR4
+w2 https://www.youtube.com/watch?v=9PQkuyytKDI
+w2 https://www.youtube.com/watch?v=qnTm0mk1R0Y
+w2 https://www.youtube.com/watch?v=1McUumaJ2fA
+w2 https://www.youtube.com/watch?v=B5nmiSVNV0M
+w5 https://muhammadawaisshaikh.hashnode.dev/basic-state-management-in-angular
+w5 https://www.youtube.com/watch?v=9QU_GzcU184
+w8 https://www.youtube.com/watch?v=JXHA48fkiUU
+w9 https://www.youtube.com/watch?v=S96GNygQj7o
+w10 https://dev.to/devashishsarmah/building-a-dialogmaterial-service-in-angular-2m07
+w10 https://www.youtube.com/watch?v=H-1Pb9zXmkY
+w11 https://eraoftech.medium.com/add-css-styles-dynamically-in-angular-using-additional-attributes-2cd9eb3ab649
+
+w13 https://github.com/angular/angular/releases/tag/14.0.0-next.7
+w13 https://github.com/angular/angular/releases/tag/13.3.0
+w13 https://github.com/angular/angular/releases/tag/13.2.7
+w18 https://medium.com/@rafaelneves652/angular-service-287e4086ee2d
+
+w23 https://www.youtube.com/watch?v=y2PTOd4Hxco
+r0 https://youtu.be/c08VaVTIUVg?t=6
+r4 https://samlinux.medium.com/angular-meets-internet-computer-d00abec0a95b
+r6 https://www.youtube.com/watch?v=0C86hwQOzRQ
+r7 https://eraoftech.medium.com/20-angular-code-improvement-tips-you-need-to-learn-now-af57cab58c69
+r8 https://www.youtube.com/watch?v=5k2ZUhMh6tA
+r9 https://www.youtube.com/watch?v=WOATfMYHs60
+r9 https://medium.com/tag/angular/latest
+r10 https://javascript.plainenglish.io/create-an-rxjs-observable-with-interval-669f1ef48b26
+r11 https://www.youtube.com/watch?v=b4zpvh_saic
+r12 https://www.youtube.com/watch?v=_OqHcOHp8LE
+r https://www.youtube.com/watch?v=gpNQIy5GXtw
+r https://eraoftech.medium.com/rules-for-typescript-configuration-file-in-angular-d5e3ed62fe2
+r 21
+
+f https://dev.to/this-is-angular/css-animation-events-in-angular-3p03
+f3 https://dev.to/justinthadathil/upload-images-to-cloudinary-using-angular-6oa
+f4 https://medium.com/@denis.loh/why-i-use-decorators-for-coersion-in-angular-f4d364f82255
+f5 https://medium.com/@colinbroberg/seo-basics-for-angular-b3e5df075981
+f5 https://www.youtube.com/watch?v=E7fxmyLMRUs
+f8 https://santoshyadavdev.hashnode.dev/why-and-how-we-migrated-to-nx-from-angular-cli
+f8 https://www.youtube.com/watch?v=bnDc-t-sK-A
+f10 https://www.youtube.com/watch?v=fLe5lz7qV4A
+f (17th) https://adventuresinangular.com/kendo-ui-and-building-components-with-carl-bergenhem-aia-343
+f13 https://youtu.be/bOGtVrqL6fY?t=260
+f18 https://medium.com/@kbartsch/npx-how-to-use-multiple-angular-projects-with-different-versions-80b46085fa89
+
+f22 https://www.youtube.com/watch?v=RljJGHRcJto
+s0 https://www.youtube.com/watch?v=VnaDJOucT-4
+s5 https://medium.com/@sandhu32/rxjs-asyncscheduler-async-dropdown-options-data-5d41df7d7766
+s7 https://www.youtube.com/watch?v=ilQdCDQkXS8
+s8 https://www.youtube.com/watch?v=Yg7YsoW3QVk
+s13 https://www.youtube.com/watch?v=l9iDeJPJM_o
+s https://medium.com/javascript-everyday/changing-parent-element-of-dynamic-angular-component-7f636f669276
+s21 https://www.youtube.com/watch?v=iX1vHFghCtQ
+s23 https://www.youtube.com/watch?v=STB9Qee16d8
+s23 https://www.youtube.com/watch?v=8jDKknEXh3g
+
+u3 https://www.youtube.com/watch?v=437BamALDTs
+u4 https://www.youtube.com/watch?v=L2QL7QdCYjU
+u5 https://elmota.com/loading-external-configurations-via-http-using-appinitializer
+u6 https://www.danywalls.com/how-to-simplify-multiple-async-pipes
+4beepIt&48
+u6 compodoc https://medium.com/@manthenav01/the-only-documentation-you-need-for-the-angular-application-4ceb8f0e6068
+u7 https://medium.com/@vireshkhandelwal93/angular-forms-a-quick-simple-exaplanation-389a8fc44d60
+u8 https://medium.com/@manaliukatkar/openid-connect-oidc-with-angular-93bd9b2680c4
+u8 https://www.youtube.com/watch?v=4fP8YR_BG4Q
+u8 https://www.youtube.com/watch?v=8e6oFXiN4js
