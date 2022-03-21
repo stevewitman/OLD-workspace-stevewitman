@@ -270,6 +270,7 @@
   { "cat": "RxJS", "tag": "exhaustAll" },
   { "cat": "RxJS", "tag": "exhaustMap" },
   { "cat": "RxJS", "tag": "finalize" },
+  { "cat": "RxJS", "tag": "interval" },
   { "cat": "RxJS", "tag": "map" },
   { "cat": "RxJS", "tag": "mergeAll" },
   { "cat": "RxJS", "tag": "mergeMap" },

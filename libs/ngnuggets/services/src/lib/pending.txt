@@ -1,19 +1,3 @@
-w18 https://medium.com/@rafaelneves652/angular-service-287e4086ee2d
-
-w23 https://www.youtube.com/watch?v=y2PTOd4Hxco
-r0 https://youtu.be/c08VaVTIUVg?t=6
-r4 https://samlinux.medium.com/angular-meets-internet-computer-d00abec0a95b
-r6 https://www.youtube.com/watch?v=0C86hwQOzRQ
-r7 https://eraoftech.medium.com/20-angular-code-improvement-tips-you-need-to-learn-now-af57cab58c69
-r8 https://www.youtube.com/watch?v=5k2ZUhMh6tA
-r9 https://www.youtube.com/watch?v=WOATfMYHs60
-r9 https://medium.com/tag/angular/latest
-r10 https://javascript.plainenglish.io/create-an-rxjs-observable-with-interval-669f1ef48b26
-r11 https://www.youtube.com/watch?v=b4zpvh_saic
-r12 https://www.youtube.com/watch?v=_OqHcOHp8LE
-r https://www.youtube.com/watch?v=gpNQIy5GXtw
-r https://eraoftech.medium.com/rules-for-typescript-configuration-file-in-angular-d5e3ed62fe2
-
 f https://dev.to/this-is-angular/css-animation-events-in-angular-3p03
 f3 https://dev.to/justinthadathil/upload-images-to-cloudinary-using-angular-6oa
 f4 https://medium.com/@denis.loh/why-i-use-decorators-for-coersion-in-angular-f4d364f82255
