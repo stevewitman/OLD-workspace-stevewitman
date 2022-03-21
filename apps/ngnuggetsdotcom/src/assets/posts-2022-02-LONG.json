@@ -1374,6 +1374,22 @@
         "authorUrl": "https://mkay11.medium.com",
         "speakers": ["Monica K"],
         "tags": ["Intersection Observer"]
+      },
+      {
+        "slug": "2022-02-08-L",
+        "type": "blog",
+        "title": "Ng-News: Issue 22/05",
+        "url": "https://dev.to/rainerhahnekamp/ng-news-issue-2205-14o2",
+        "description": "This is a weekly posting, covering the latest updates from the Angular community.",
+        "datePosted": "2022-02-08",
+        "dateSource": "2022-02-07",
+        "postedBy": "Steve Witman",
+        "sourceSite": "DEV Community",
+        "sourceUrl": "https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc",
+        "authorName": "Rainer Hahnekamp",
+        "authorUrl": "https://dev.to/rainerhahnekamp",
+        "speakers": ["Rainer Hahnekamp"],
+        "tags": []
       }
     ]
   },
@@ -4172,6 +4188,22 @@
         "authorName": "Learn Smart Coding",
         "authorUrl": "https://www.youtube.com/channel/UCKUxSY2xp12QiP3c60sOc-g/videos",
         "speakers": [],
+        "tags": []
+      },
+      {
+        "slug": "2022-02-22-K",
+        "type": "blog",
+        "title": "Ng-News: Issue 22/07",
+        "url": "https://dev.to/rainerhahnekamp/ng-news-issue-2107-33hh",
+        "description": "This is a weekly posting, covering the latest updates from the Angular community.",
+        "datePosted": "2022-02-22",
+        "dateSource": "2022-02-21",
+        "postedBy": "Steve Witman",
+        "sourceSite": "DEV Community",
+        "sourceUrl": "https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc",
+        "authorName": "Rainer Hahnekamp",
+        "authorUrl": "https://dev.to/rainerhahnekamp",
+        "speakers": ["Rainer Hahnekamp"],
         "tags": []
       }
     ]

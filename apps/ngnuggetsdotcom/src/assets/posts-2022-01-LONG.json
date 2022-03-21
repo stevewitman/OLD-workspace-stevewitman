@@ -4181,6 +4181,22 @@
         "authorUrl": "https://www.youtube.com/channel/UCzl2cwu3oOE1YxAv55m1pvQ/videos",
         "speakers": [],
         "tags": []
+      },
+      {
+        "slug": "2022-01-25-N",
+        "type": "blog",
+        "title": "Ng-News: Issue 22/03",
+        "url": "https://dev.to/rainerhahnekamp/ng-news-issue-2203-1ej5",
+        "description": "This is a weekly posting, covering the latest updates from the Angular community.",
+        "datePosted": "2022-01-25",
+        "dateSource": "2022-01-25",
+        "postedBy": "Steve Witman",
+        "sourceSite": "DEV Community",
+        "sourceUrl": "https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc",
+        "authorName": "Rainer Hahnekamp",
+        "authorUrl": "https://dev.to/rainerhahnekamp",
+        "speakers": ["Rainer Hahnekamp"],
+        "tags": []
       }
     ]
   },
@@ -5182,6 +5198,22 @@
         "authorUrl": "https://www.thisdot.co/author/daian-scuarissi",
         "speakers": ["Daian Scuarissi"],
         "tags": ["Change Detection", "onPush"]
+      },
+      {
+        "slug": "2022-01-31-J",
+        "type": "blog",
+        "title": "Ng-News: Issue 22/04",
+        "url": "https://dev.to/rainerhahnekamp/ng-news-issue-2204-2l0a",
+        "description": "This is a weekly posting, covering the latest updates from the Angular community.",
+        "datePosted": "2022-01-31",
+        "dateSource": "2022-01-31",
+        "postedBy": "Steve Witman",
+        "sourceSite": "DEV Community",
+        "sourceUrl": "https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc",
+        "authorName": "Rainer Hahnekamp",
+        "authorUrl": "https://dev.to/rainerhahnekamp",
+        "speakers": ["Rainer Hahnekamp"],
+        "tags": []
       }
     ]
   }

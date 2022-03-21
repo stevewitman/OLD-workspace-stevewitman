@@ -267,6 +267,22 @@
         "authorUrl": "https://www.youtube.com/channel/UCFT4YVZl7AFia7rZBTEvavw/videos",
         "speakers": ["Kevin Kreuzer"],
         "tags": ["RxJS", "finalize"]
+      },
+      {
+        "slug": "2022-03-01-S",
+        "type": "blog",
+        "title": "Ng-News: Issue 22/08",
+        "url": "https://dev.to/rainerhahnekamp/ng-news-issue-2108-2hog",
+        "description": "This is a weekly posting, covering the latest updates from the Angular community.",
+        "datePosted": "2022-03-01",
+        "dateSource": "2022-02-28",
+        "postedBy": "Steve Witman",
+        "sourceSite": "DEV Community",
+        "sourceUrl": "https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc",
+        "authorName": "Rainer Hahnekamp",
+        "authorUrl": "https://dev.to/rainerhahnekamp",
+        "speakers": ["Rainer Hahnekamp"],
+        "tags": []
       }
     ]
   },
@@ -1405,7 +1421,23 @@
         "authorName": "Abhishek Kumar",
         "authorUrl": "https://medium.com/@abhishek950650",
         "speakers": ["Abhishek Kumar"],
-        "tags": ["RxJS", "Obervables", "Subscriptions"]
+        "tags": ["RxJS", "Observables", "Subscriptions"]
+      },
+      {
+        "slug": "2022-03-08-J",
+        "type": "blog",
+        "title": "Ng-News: Issue 22/09",
+        "url": "https://dev.to/rainerhahnekamp/ng-news-issue-2209-b48",
+        "description": "This is a weekly posting, covering the latest updates from the Angular community.",
+        "datePosted": "2022-03-08",
+        "dateSource": "2022-03-07",
+        "postedBy": "Steve Witman",
+        "sourceSite": "DEV Community",
+        "sourceUrl": "https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc",
+        "authorName": "Rainer Hahnekamp",
+        "authorUrl": "https://dev.to/rainerhahnekamp",
+        "speakers": ["Rainer Hahnekamp"],
+        "tags": []
       }
     ]
   },
@@ -2717,6 +2749,22 @@
       {
         "slug": "2022-03-14-L",
         "type": "blog",
+        "title": "Ng-News: Issue 22/10",
+        "url": "https://dev.to/rainerhahnekamp/ng-news-issue-2210-1f3k",
+        "description": "This is a weekly posting, covering the latest updates from the Angular community.",
+        "datePosted": "2022-03-14",
+        "dateSource": "2022-03-14",
+        "postedBy": "Steve Witman",
+        "sourceSite": "DEV Community",
+        "sourceUrl": "https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc",
+        "authorName": "Rainer Hahnekamp",
+        "authorUrl": "https://dev.to/rainerhahnekamp",
+        "speakers": ["Rainer Hahnekamp"],
+        "tags": []
+      },
+      {
+        "slug": "2022-03-14-M",
+        "type": "blog",
         "title": "Anchors Away! How to Create Smooth Scrolling in Angular",
         "url": "https://netbasal.com/anchors-away-how-to-create-smooth-scrolling-in-angular-a657e0ea9699",
         "description": "A typical UX pattern is to use anchors for quick navigation between sections with just one click without needing to scroll up and down. For example, in our application, we have a sidebar with anchors to the various data sections of the invocation...",
@@ -2731,7 +2779,7 @@
         "tags": []
       },
       {
-        "slug": "2022-03-14-M",
+        "slug": "2022-03-14-N",
         "type": "video",
         "duration": "7",
         "title": "Branches | Jest Unit Testing tutorial for Angular part 6",
@@ -2750,7 +2798,7 @@
     ]
   },
   {
-    "date": "2022-01-15",
+    "date": "2022-03-15",
     "dailyPosts": [
       {
         "slug": "2022-03-15-A",
@@ -2956,7 +3004,7 @@
     ]
   },
   {
-    "date": "2022-01-16",
+    "date": "2022-03-16",
     "dailyPosts": [
       {
         "slug": "2022-03-16-A",
@@ -3227,7 +3275,7 @@
     ]
   },
   {
-    "date": "2022-01-17",
+    "date": "2022-03-17",
     "dailyPosts": [
       {
         "slug": "2022-03-17-A",
@@ -3359,7 +3407,7 @@
         "authorName": "Lorenzo Zarantonello",
         "authorUrl": "https://medium.com/@lorenzozar",
         "speakers": ["Lorenzo Zarantonello"],
-        "tags": ["RxJS", "Obervables", "interval"]
+        "tags": ["RxJS", "Observables", "interval"]
       },
       {
         "slug": "2022-03-17-J",
@@ -3427,6 +3475,210 @@
         "authorUrl": "https://eraoftech.medium.com",
         "speakers": [],
         "tags": ["TypeScript"]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-18",
+    "dailyPosts": [
+      {
+        "slug": "2022-03-18-A",
+        "type": "blog",
+        "title": "CSS Animation Events in Angular",
+        "url": "https://dev.to/this-is-angular/css-animation-events-in-angular-3p03",
+        "description": "CSS animations emit events that we can listen to using Javascript. There are slight differences in how we attach event listeners between a vanilla project and an Angular project. Let's start with the list of available events.",
+        "datePosted": "2022-03-18",
+        "dateSource": "2022-03-17",
+        "postedBy": "Steve Witman",
+        "sourceSite": "DEV Community",
+        "sourceUrl": "https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc",
+        "authorName": "William Juan",
+        "authorUrl": "https://dev.to/williamjuan27",
+        "speakers": ["William Juan"],
+        "tags": ["Animations"]
+      },
+      {
+        "slug": "2022-03-18-B",
+        "type": "blog",
+        "title": "Upload images to Cloudinary using Angular",
+        "url": "https://dev.to/justinthadathil/upload-images-to-cloudinary-using-angular-6oa",
+        "description": "I am using Angular version 12. here for this basic upload feature there is no need to import any Cloudinary package. let's further roll out into the steps:...",
+        "datePosted": "2022-03-18",
+        "dateSource": "2022-03-18",
+        "postedBy": "Steve Witman",
+        "sourceSite": "DEV Community",
+        "sourceUrl": "https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc",
+        "authorName": "Justin Thadathil",
+        "authorUrl": "https://dev.to/justinthadathil",
+        "speakers": ["Justin Thadathil"],
+        "tags": []
+      }
+      ,
+      {
+        "slug": "2022-03-18-C",
+        "type": "blog",
+        "title": "Why I use decorators for coersion in Angular",
+        "url": "https://medium.com/@denis.loh/why-i-use-decorators-for-coersion-in-angular-f4d364f82255",
+        "description": "When you write components you will typically come across the requirement of providing input fields, which shall be used as an attribute flag in your template code.",
+        "datePosted": "2022-03-18",
+        "dateSource": "2022-03-18",
+        "postedBy": "Steve Witman",
+        "sourceSite": "Medium",
+        "sourceUrl": "https://medium.com/tag/angular/latest",        
+        "authorName": "Denis Loh",
+        "authorUrl": "https://medium.com/@denis.loh",
+        "speakers": ["Denis Loh"],
+        "tags": ["Decorators"]
+      },
+      {
+        "slug": "2022-03-18-D",
+        "type": "blog",
+        "title": "SEO Basics for Angular",
+        "url": "https://medium.com/@colinbroberg/seo-basics-for-angular-b3e5df075981",
+        "description": "Appearing in the top number of results for a specific query is very important to a website, especially for e-commerce sites. Since search engines are among the primary ways users discover websites, having a high “rank” on the search results page is critical to a websites performance and revenue. If a site cannot be found, it will never earn money or impressions, no matter how well it is designed. Thus is the struggle behind SEO.",
+        "datePosted": "2022-03-18",
+        "dateSource": "2022-03-18",
+        "postedBy": "Steve Witman",
+        "sourceSite": "Medium",
+        "sourceUrl": "https://medium.com/tag/angular/latest",        
+        "authorName": "Colin Broberg",
+        "authorUrl": "https://medium.com/@colinbroberg",
+        "speakers": ["Colin Broberg"],
+        "tags": []
+      },
+      {
+        "slug": "2022-03-18-E",
+        "type": "video",
+        "duration": "33",
+        "title": "Angular CRUD with Node.js | MEAN App Development | Part 3",
+        "url": "https://www.youtube.com/watch?v=E7fxmyLMRUs",
+        "description": "In this video, I have shown how to write APIs for MEAN stack application using node.js.",
+        "datePosted": "2022-03-18",
+        "dateSource": "2022-03-18",
+        "postedBy": "Steve Witman",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "Code Logic",
+        "authorUrl": "https://www.youtube.com/channel/UCf7preZhtay-p5vsUPOtbrw/videos",
+        "speakers": [],
+        "tags": ["CRUD"]
+      },
+      {
+        "slug": "2022-03-18-F",
+        "type": "blog",
+        "title": "Why and How we migrated to Nx from Angular CLI",
+        "url": "https://santoshyadavdev.hashnode.dev/why-and-how-we-migrated-to-nx-from-angular-cli",
+        "description": "We finished migrating to Nx from Angular CLI last year, and it was one of the biggest restructure we did. This post will cover why we decided to do it and what we did.",
+        "datePosted": "2022-03-18",
+        "dateSource": "2022-03-18",
+        "postedBy": "Steve Witman",
+        "sourceSite": "Hashnode",
+        "sourceUrl": "https://hashnode.com/n/angular",
+        "authorName": "Santosh Yadav",
+        "authorUrl": "https://hashnode.com/@SantoshYadavDev",
+        "speakers": ["Santosh Yadav"],
+        "tags": ["Nx"]
+      },
+      {
+        "slug": "2022-03-18-G",
+        "type": "video",
+        "duration": "21",
+        "title": "Passing Query Parameters to Route | Angular Route | Angular 13+",
+        "url": "https://www.youtube.com/watch?v=bnDc-t-sK-A",
+        "description": "",
+        "datePosted": "2022-03-18",
+        "dateSource": "2022-03-18",
+        "postedBy": "Steve Witman",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "procademy",
+        "authorUrl": "https://www.youtube.com/c/procademyn/videos",
+        "speakers": ["Manoj Jha"],
+        "tags": ["Routing", "Route Params"]
+      },
+      {
+        "slug": "2022-03-18-H",
+        "type": "podcast",
+        "duration": "70",
+        "title": "AngularAir - Creating a Scheduling App - Part 2",
+        "url": "https://www.youtube.com/watch?v=fLe5lz7qV4A",
+        "description": "",
+        "datePosted": "2022-03-18",
+        "dateSource": "2022-03-18",
+        "postedBy": "Steve Witman",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "AngularAir",
+        "authorUrl": "https://www.youtube.com/c/AngularAirPodcast/videos",
+        "speakers": ["Justin Schwartzenberger", "Alyssa Nicoll", "Mike Brocchi"],
+        "tags": []
+      },
+      {
+        "slug": "2022-03-18-J",
+        "type": "video",
+        "duration": "68",
+        "title": "Building File-based Routing in Angular",
+        "url": "https://youtu.be/bOGtVrqL6fY?t=260",
+        "description": "Using Vite with Angular really opens up some possibilities with plugins. Let's take a look at using a Vite plugin to enable file-based routing with the Angular Router.",
+        "datePosted": "2022-03-18",
+        "dateSource": "2022-03-18",
+        "postedBy": "Steve Witman",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "Brandon Roberts",
+        "authorUrl": "https://www.youtube.com/c/BrandonRobertsDev",
+        "speakers": ["Brandon Roberts"],
+        "tags": ["Routing", "Vite"]
+      },
+      {
+        "slug": "2022-03-18-K",
+        "type": "blog",
+        "title": "NPX — How to use multiple Angular projects with different versions",
+        "url": "https://medium.com/@kbartsch/npx-how-to-use-multiple-angular-projects-with-different-versions-80b46085fa89",
+        "description": "The goal of this story is to answer the generall question 'how to use different angular versions on the same computer'. Level: Beginner",
+        "datePosted": "2022-03-18",
+        "dateSource": "2022-03-18",
+        "postedBy": "Steve Witman",
+        "sourceSite": "Medium",
+        "sourceUrl": "https://medium.com/tag/angular/latest",        
+        "authorName": "Kevin Bartsch",
+        "authorUrl": "https://medium.com/@kbartsch",
+        "speakers": ["Kevin Bartsch"],
+        "tags": []
+      },
+      {
+        "slug": "2022-03-18-L",
+        "type": "video",
+        "duration": "14",
+        "title": "Promises VS Observable | Angular Tutorial For Beginner",
+        "url": "https://www.youtube.com/watch?v=RljJGHRcJto",
+        "description": "",
+        "datePosted": "2022-03-18",
+        "dateSource": "2022-03-18",
+        "postedBy": "Steve Witman",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "Learn Code",
+        "authorUrl": "https://www.youtube.com/channel/UCSUcR0LCSrnWmuLS1oBVugg/videos",
+        "speakers": [],
+        "tags": ["RxJS", "Observables"]
+      },
+      {
+        "slug": "2022-03-18-M",
+        "type": "video",
+        "duration": "9",
+        "title": "1. Introduction to Angular Unit Testing. Why we need to use Unit Testing in Angular App - Angular",
+        "url": "https://www.youtube.com/watch?v=VnaDJOucT-4",
+        "description": "In this video we will see about the introduction of Angular Unit testing and the types of unit tests present in Angular - Angular",
+        "datePosted": "2022-03-18",
+        "dateSource": "2022-03-18",
+        "postedBy": "Steve Witman",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "Leela Web Dev",
+        "authorUrl": "https://www.youtube.com/c/LeelaWebDev/videos",
+        "speakers": ["Leela Narasimha"],
+        "tags": ["Testing", "Unit Testing", "Jasmine", "Karma"]
       }
     ] 
   }

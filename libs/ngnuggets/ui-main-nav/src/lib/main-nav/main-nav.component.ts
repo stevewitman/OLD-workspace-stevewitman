@@ -125,7 +125,6 @@ export class MainNavComponent implements OnInit, AfterViewInit {
   }
 
   ngAfterViewInit() {
-    //
     this.changeDetectorRef.detectChanges();
   }
 
