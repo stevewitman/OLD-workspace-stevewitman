@@ -1,25 +1,4 @@
-
-u7 
-u8 
-u8 
-u8 
-u8 
-
-u23 
-u23 
-m3 https://www.youtube.com/watch?v=fUzeSk0kFCI
-m6 https://www.youtube.com/watch?v=92MQ2o0c8S0
-m7 https://www.youtube.com/watch?v=B969wf4QtJ4
-m7 https://dev.to/rodrigokamada/creating-and-validating-a-reactive-form-to-an-angular-application-1j0c
-m8 https://www.youtube.com/watch?v=Ll_cgWMO8Hg
-m8 https://www.spreaker.com/user/14532324/s2e08-origin-and-journey-of-igor-minar?utm_campaign=episode-title&utm_medium=app&utm_source=widget
-m9 https://www.youtube.com/watch?v=qnCBOHEkdMc
-m11 (canActivate) https://www.youtube.com/watch?v=JwKtz5j1hHg
-m12 https://www.youtube.com/watch?v=p5GmOTdxKYQ
-m12 https://dev.to/rainerhahnekamp/ng-news-issue-2211-8hb
-m13 https://dev.to/deepachaurasia1/lazy-loading-in-angular-3mf4
-m13 (canLoad canActivate) https://www.youtube.com/watch?v=0QAzwKvffEY
-m20 https://www.youtube.com/watch?v=L_3Bj3Nu7I8 
+https://www.youtube.com/watch?v=L_3Bj3Nu7I8 
 
 m23 https://www.youtube.com/watch?v=t32SDVdw3SM
 m23 https://www.youtube.com/watch?v=f1aCmE-bMLE
