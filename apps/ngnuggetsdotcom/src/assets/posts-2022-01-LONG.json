@@ -613,7 +613,7 @@
         "authorName": "Krishna Chaitanya Tech Center",
         "authorUrl": "https://www.youtube.com/channel/UC6hjO6A1FvKKfMlAA7EOJDA/videos",
         "speakers": [],
-        "tags": ["ViewChild"]
+        "tags": ["@ViewChild"]
       },
       {
         "slug": "2022-01-05-C",
@@ -3172,7 +3172,7 @@
         "authorName": "Anubhab Mukherjee",
         "authorUrl": "https://dev.to/anubhab5",
         "speakers": ["Anubhab Mukherjee"],
-        "tags": ["ViewChild", "ViewChildren"]
+        "tags": ["@ViewChild", "@ViewChildren"]
       },
       {
         "slug": "2022-01-21-E",

@@ -1,11 +1,4 @@
-s5 https://medium.com/@sandhu32/rxjs-asyncscheduler-async-dropdown-options-data-5d41df7d7766
-s7 https://www.youtube.com/watch?v=ilQdCDQkXS8
-s8 https://www.youtube.com/watch?v=Yg7YsoW3QVk
-s13 https://www.youtube.com/watch?v=l9iDeJPJM_o
-s https://medium.com/javascript-everyday/changing-parent-element-of-dynamic-angular-component-7f636f669276
-s21 https://www.youtube.com/watch?v=iX1vHFghCtQ
-s23 https://www.youtube.com/watch?v=STB9Qee16d8
-s23 https://www.youtube.com/watch?v=8jDKknEXh3g
+
 
 u3 https://www.youtube.com/watch?v=437BamALDTs
 u4 https://www.youtube.com/watch?v=L2QL7QdCYjU
@@ -33,3 +26,15 @@ m12 https://www.youtube.com/watch?v=p5GmOTdxKYQ
 m12 https://dev.to/rainerhahnekamp/ng-news-issue-2211-8hb
 m13 https://dev.to/deepachaurasia1/lazy-loading-in-angular-3mf4
 m13 (canLoad canActivate) https://www.youtube.com/watch?v=0QAzwKvffEY
+m20 https://www.youtube.com/watch?v=L_3Bj3Nu7I8 
+
+m23 https://www.youtube.com/watch?v=t32SDVdw3SM
+m23 https://www.youtube.com/watch?v=f1aCmE-bMLE
+t0 https://www.youtube.com/watch?v=H1BrBzzaeI8
+t1 (hash) https://elmota.com/seo-in-angular-with-ssr-part-i
+t7 https://www.youtube.com/watch?v=Q8ywHOM5GjU
+t8 https://www.youtube.com/watch?v=fKfiyPmGMXs
+t8 https://www.youtube.com/watch?v=iQv6VNvIANM
+t8 https://www.youtube.com/watch?v=k5S-hGkFL70
+t8 https://www.youtube.com/watch?v=0z3XrYj0r5U
+t9 https://www.youtube.com/watch?v=-8ZbF8XfgyY

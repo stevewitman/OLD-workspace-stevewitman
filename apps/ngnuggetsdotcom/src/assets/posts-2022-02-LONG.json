@@ -2428,7 +2428,7 @@
         "authorName": "Dany Paredes",
         "authorUrl": "https://hashnode.com/@danywalls4",
         "speakers": ["Dany Paredes"],
-        "tags": ["@Input", "@Output", "ViewChild", "BehaviorSubject"]
+        "tags": ["@Input", "@Output", "@ViewChild", "BehaviorSubject"]
       },
       {
         "slug": "2022-02-14-K",
