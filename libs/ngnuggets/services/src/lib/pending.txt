@@ -1,19 +1,12 @@
 
+u7 
+u8 
+u8 
+u8 
+u8 
 
-u3 https://www.youtube.com/watch?v=437BamALDTs
-u4 https://www.youtube.com/watch?v=L2QL7QdCYjU
-u5 https://elmota.com/loading-external-configurations-via-http-using-appinitializer
-u6 https://www.danywalls.com/how-to-simplify-multiple-async-pipes
-4beepIt&48
-u6 compodoc https://medium.com/@manthenav01/the-only-documentation-you-need-for-the-angular-application-4ceb8f0e6068
-u7 https://medium.com/@vireshkhandelwal93/angular-forms-a-quick-simple-exaplanation-389a8fc44d60
-u8 https://medium.com/@manaliukatkar/openid-connect-oidc-with-angular-93bd9b2680c4
-u8 https://www.youtube.com/watch?v=4fP8YR_BG4Q
-u8 https://www.youtube.com/watch?v=8e6oFXiN4js
-u8 https://www.youtube.com/watch?v=hKjzPCxdbjM
-
-u23 https://www.youtube.com/watch?v=H-o7S8_NGdI
-u23 https://www.youtube.com/watch?v=JcIeDLcbPTY
+u23 
+u23 
 m3 https://www.youtube.com/watch?v=fUzeSk0kFCI
 m6 https://www.youtube.com/watch?v=92MQ2o0c8S0
 m7 https://www.youtube.com/watch?v=B969wf4QtJ4
