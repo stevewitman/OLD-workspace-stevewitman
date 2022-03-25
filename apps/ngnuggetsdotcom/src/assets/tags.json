@@ -123,6 +123,7 @@
 
   { "cat": "Angular-routing", "tag": "ActivatedRoute" },
   { "cat": "Angular-routing", "tag": "canActivate" },
+  { "cat": "Angular-routing", "tag": "canActivateChild" },
   { "cat": "Angular-routing", "tag": "canDeactivate" },
   { "cat": "Angular-routing", "tag": "canLoad" },
   { "cat": "Angular-routing", "tag": "Route Guards" },
@@ -176,6 +177,7 @@
   { "cat": "Misc", "tag": "Productivity" },
   { "cat": "Misc", "tag": "ResizeObserver" },
   { "cat": "Misc", "tag": "Responsive" },
+  { "cat": "Misc", "tag": "SEO" },
   { "cat": "Misc", "tag": "SSR", "alt": "Server Side Rendering"},
   { "cat": "Misc", "tag": "Sanitization" },
   { "cat": "Misc", "tag": "Search" },
