@@ -1,17 +1,6 @@
-r0 https://www.youtube.com/watch?v=HkOj_rCcPzE
-r4 https://jnpiyush.medium.com/angular-deep-dive-into-candeactivate-route-guard-51b9e1b046da
-r5 https://www.youtube.com/watch?v=56iG8FMRgbg
-r5 https://www.youtube.com/watch?v=_3Aa54aQhb4
-r5 https://pawan-kumawat.medium.com/control-value-accessor-component-as-formcontrol-in-angular-251c949915a2
-r6 https://dev.to/syncfusion/how-to-build-a-crud-app-in-angular-18h
-r6 (skip?) https://www.youtube.com/watch?v=Rjr5WP2MK-A
-r6 https://medium.com/@subhash.s.hundi/angular-singleton-service-120c3ad5a046
-r8 https://www.youtube.com/watch?v=rC6gOByZkrc
-r8 https://www.youtube.com/watch?v=8a6R2P9YqGY
-r11 https://medium.com/@the.mohamed.riaz/binding-datas-between-components-views-angular-a01bfed39e
-r11 https://www.youtube.com/watch?v=F3g9dHTuiVM
-r11 https://www.youtube.com/watch?v=Lzdztbe1PnI
-r11 https://www.youtube.com/watch?v=nm3214rYZno
+
+r11 
+r11 
 r12 https://www.youtube.com/watch?v=0qDjxt5dfcA
 
 f0 https://www.youtube.com/watch?v=CuC0HqClonc

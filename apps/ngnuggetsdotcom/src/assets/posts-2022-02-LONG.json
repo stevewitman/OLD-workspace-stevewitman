@@ -4729,7 +4729,7 @@
         "sourceUrl": "https://www.youtube.com/results?search_query=angular",
         "authorName": "Programming Practicals",
         "authorUrl": "https://www.youtube.com/channel/UC30-Z9Lz8DWe_Vq93dOs-Gw/videos",
-        "speakers": [],
+        "speakers": ["Pawan Kumawat"],
         "tags": ["Lazy Loading", "Performance"]
       },
       {
@@ -5178,6 +5178,23 @@
         "authorUrl": "https://www.youtube.com/c/TutorialRays/videos",
         "speakers": ["Umar Rahman"],
         "tags": ["Forms", "Reactive Forms"]
+      },
+      {
+        "slug": "2022-02-27-K",
+        "type": "video",
+        "duration": "5",
+        "title": "Best Practices in Angular",
+        "url": "https://www.youtube.com/watch?v=2dNip-hS9bc",
+        "description": "Best practice to follow when usiong Subject or BehaviorSubject a the service",
+        "datePosted": "2022-02-27",
+        "dateSource": "2022-02-27",
+        "postedBy": "Steve Witman",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "Programming Practicals",
+        "authorUrl": "https://www.youtube.com/channel/UC30-Z9Lz8DWe_Vq93dOs-Gw/videos",
+        "speakers": ["Pawan Kumawat"],
+        "tags": ["Subject", "BehaviorSubject", "Observables", "Async Pipe"]
       }
     ]
   },
