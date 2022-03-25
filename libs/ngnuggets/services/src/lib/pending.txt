@@ -1,22 +1,3 @@
-https://www.youtube.com/watch?v=c2bOJqBfM2o
-
-t23 https://www.youtube.com/watch?v=qqp-HZHHhXA
-w0 https://www.youtube.com/watch?v=Bhl0_uHg6Pc
-w0 https://netbasal.com/spring-cleaning-time-dont-let-global-functionality-clutter-up-your-angular-app-d013faa71a
-w5 https://www.youtube.com/watch?v=rE9JAQNjU0s
-w5*** https://www.youtube.com/watch?v=n2akCKAMNTE
-w5*** https://www.youtube.com/watch?v=p8b3BGc6hn0
-w7 https://www.youtube.com/watch?v=0_Gdxe-EM8o
-w7 https://www.youtube.com/watch?v=UzykPKPAy30
-w8 https://www.youtube.com/watch?v=5szUEstowGY
-w9 https://www.youtube.com/watch?v=XHEnQM_NieU
-w9 (the angular plus show) https://open.spotify.com/episode/1o6ll90RTKyDP1NcQ5JrHY
-w10 https://www.youtube.com/watch?v=31-PcUn_0Xc
-w10 https://www.youtube.com/watch?v=6mP-43CzfHw
-
-
-
-
 r0 https://www.youtube.com/watch?v=HkOj_rCcPzE
 r4 https://jnpiyush.medium.com/angular-deep-dive-into-candeactivate-route-guard-51b9e1b046da
 r5 https://www.youtube.com/watch?v=56iG8FMRgbg
@@ -38,3 +19,5 @@ f0 https://www.youtube.com/watch?v=35nvT-Im1Xc
 f3 https://www.youtube.com/watch?v=0vYHeEHl5WY
 f7 https://elmota.com/loading-external-configurations-inline-and-in-ssr-in-angular
 f10 https://www.youtube.com/watch?v=3Xi-NHeK71s
+f13 https://github.com/angular/angular/releases/tag/14.0.0-next.8
+f14 https://github.com/angular/angular/releases/tag/14.0.0-next.9
