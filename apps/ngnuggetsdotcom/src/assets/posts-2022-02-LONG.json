@@ -2981,8 +2981,8 @@
         "postedBy": "Steve Witman",
         "sourceSite": "Medium",
         "sourceUrl": "https://medium.com/tag/angular/latest",
-        "authorName": "",
-        "authorUrl": "",
+        "authorName": "Sam",
+        "authorUrl": "https://eraoftech.medium.com",
         "speakers": [],
         "tags": []
       },
@@ -3272,9 +3272,9 @@
         "postedBy": "Steve Witman",
         "sourceSite": "YouTube",
         "sourceUrl": "https://www.youtube.com/results?search_query=angular",
-        "authorName": "",
-        "authorUrl": "",
-        "speakers": [],
+        "authorName": "Brandon Roberts",
+        "authorUrl": "https://www.youtube.com/c/BrandonRobertsDev/videos",
+        "speakers": ["Brandon Roberts"],
         "tags": []
       },
       {
