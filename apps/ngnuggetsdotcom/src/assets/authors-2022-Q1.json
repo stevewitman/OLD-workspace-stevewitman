@@ -1,0 +1,18 @@
+[
+  {
+    "authorName": "Daniel Kreider",
+    "authorUrls": ["https://dkreider.medium.com"],
+    "posts": [ "2022-03-25-K", "2022-02-19-P", "2022-02-15-A", "2022-02-02-K", "2022-01-18-B", "2022-01-06-H" ],
+    "speakers": ["Daniel Kreider"]
+  },
+  {
+    "authorName": "Dylan Hunn", 
+    "authorUrls": ["https://github.com/dylhunn"],
+    "posts": [ "2022-03-25-H", "2022-03-25-G", "2022-02-07-M", "2022-01-19-G", "2022-01-19-B" ]
+  },
+  {
+    "authorName": "WorldGyan",
+    "authorUrls": ["https://www.youtube.com/channel/UCL-ACPCQnKbT2nWadQuqt2w/videos"],
+    "posts": [ "2022-03-25-J", "2022-03-21-M", "2022-03-14-A", "2022-02-19-M" ]
+  }
+]
