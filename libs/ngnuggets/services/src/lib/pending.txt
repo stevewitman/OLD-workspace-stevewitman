@@ -1,3 +1,4 @@
 
-s10 https://yurii-k.medium.com/simple-toast-notification-in-angular-f018b9aa3dc8
-s12 https://www.youtube.com/watch?v=AJl_ufe60tg
+u1 
+u4  https://www.youtube.com/watch?v=_qiHYkyJ4VY
+u9 https://www.youtube.com/watch?v=cJK42g95d6w  

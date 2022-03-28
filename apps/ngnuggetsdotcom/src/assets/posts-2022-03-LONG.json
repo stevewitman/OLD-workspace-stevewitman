@@ -5190,6 +5190,77 @@
         "speakers": [],
         "tags": []
       }
+    ]
+  },
+  {
+    "date": "2022-03-27",
+    "dailyPosts": [
+      {
+        "slug": "2022-03-27-A",
+        "type": "blog",
+        "title": "Angular Features | Less known but interesting to use",
+        "url": "https://suneetbansal.medium.com/angular-features-less-known-but-interesting-to-use-42319a06bd91",
+        "description": "There are many features which are not well know by the world but they are very important and can add many values to the product we are building using Angular.",
+        "datePosted": "2022-03-27",
+        "dateSource": "2022-03-27",
+        "postedBy": "Steve Witman",
+        "sourceSite": "Medium",
+        "sourceUrl": "https://medium.com/tag/angular/latest",
+        "authorName": "Suneet Bansal",
+        "authorUrl": "https://suneetbansal.medium.com",
+        "speakers": ["Suneet Bansal"],
+        "tags": []
+      },
+      {
+        "slug": "2022-03-27-B",
+        "type": "blog",
+        "title": "Angular Error-Handling",
+        "url": "https://waterkamp.hashnode.dev/angular-error-handling",
+        "description": "In this article I will show you how you can add a global error-handling to an Angular application.",
+        "datePosted": "2022-03-27",
+        "dateSource": "2022-03-27",
+        "postedBy": "Steve Witman",
+        "sourceSite": "Hashnode",
+        "sourceUrl": "https://hashnode.com/n/angular",
+        "authorName": "Oliver Waterkamp",
+        "authorUrl": "https://hashnode.com/@Waterkamp",
+        "speakers": ["Oliver Waterkamp"],
+        "tags": ["Errors"]
+      },
+      {
+        "slug": "2022-03-27-C",
+        "type": "video",
+        "duration": "2",
+        "title": "How to hide XHR in Cypress; Muting Noisy XHR Logs in Cypress",
+        "url": "https://www.youtube.com/watch?v=_qiHYkyJ4VY",
+        "description": "",
+        "datePosted": "2022-03-27",
+        "dateSource": "2022-03-27",
+        "postedBy": "Steve Witman",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "CoderDmitri",
+        "authorUrl": "https://www.youtube.com/channel/UCIhbSiOqg2D6F_bK2rMVn5g/videos",
+        "speakers": [],
+        "tags": ["Testing", "Cypress"]
+      },
+      {
+        "slug": "2022-03-27-D",
+        "type": "video",
+        "duration": "9",
+        "title": "Creating Custom Pipes in Angular | Angular Pipes | Angular 13+",
+        "url": "https://www.youtube.com/watch?v=cJK42g95d6w",
+        "description": "In this lecture you are going to learn how to create a custom pipe in Angular. The Pipes are a great way to transform the appearance of elements in the template. The Angular comes with some great built-in pipes like Date pipe, Currency pipe, and Number pipe, etc. But if these pipes do not cover your needs, then we can create our own custom pipe in Angular.",
+        "datePosted": "2022-03-27",
+        "dateSource": "2022-03-27",
+        "postedBy": "Steve Witman",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "procademy",
+        "authorUrl": "https://www.youtube.com/c/procademyn/videos",
+        "speakers": [],
+        "tags": ["Pipes", "Custom"]
+      }
     ] 
   }
 ]
