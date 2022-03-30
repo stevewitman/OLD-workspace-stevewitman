@@ -1,33 +1,3 @@
 
 
-m 
-m 
-m ,
-      {
-        "slug": "2022-03-28-Q",
-        "type": "video",
-        "duration": "8",
-        "title": "15. Create Single Post Details Component using Input and Output Property - Angular testing",
-        "url": "https://www.youtube.com/watch?v=BtHeZD17mDY",
-        "description": "In this video we will see how to create single post details component using the Input and Output property - Angular testing",
-        "datePosted": "2022-03-28",
-        "dateSource": "2022-03-28",
-        "postedBy": "Steve Witman",
-        "sourceSite": "YouTube",
-        "sourceUrl": "https://youtube.com",
-        "authorName": "Leela Web Dev",
-        "authorUrl": "https://www.youtube.com/c/LeelaWebDev/videos",
-        "speakers": ["Leela Narasimha"],
-        "tags": ["Testing"]
-      }
-m 
 
-m22 
-t0 https://www.youtube.com/watch?v=q3KZpKswNhM
-t8 https://www.youtube.com/watch?v=r6C-sEcEn3g
-t9 https://www.youtube.com/watch?v=ik7iPoPZzWA
-t10 https://www.youtube.com/watch?v=8hVP6jZ-gOM
-t10 https://www.youtube.com/watch?v=y_vwf15eADs
-t12 508m https://www.youtube.com/watch?v=Ytj-Z3HdCOM
-t12 https://www.youtube.com/watch?v=dYFpKc5Tn0U
-t13 https://www.youtube.com/watch?v=8ExnbPphkr4
