@@ -1,3 +1,12 @@
 
+w15 https://github.com/angular/angular/releases/tag/14.0.0-next.10
+w15 https://github.com/angular/angular/releases/tag/13.3.1
 
+r3 https://www.youtube.com/watch?v=ERN0-W46KVE
+r4 https://www.youtube.com/watch?v=Oz5fuEUAxSA
+r5 https://www.youtube.com/watch?v=W_X_VYEkgjA
+r6 https://elmota.com/pagination-with-rxjs-state-and-route-params
+r9 https://www.youtube.com/watch?v=lTOQ7Fjhcvk
+r11 https://www.youtube.com/watch?v=p9NaM4_CdmQ
+r13 https://dev.to/nigrosimone/angular-structural-directive-for-sharing-data-as-local-variable-into-html-component-template-31po
 
