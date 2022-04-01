@@ -341,6 +341,7 @@
   { "cat": "3rd Party", "tag": "PrismJS" },
   { "cat": "3rd Party", "tag": "Profiler" },
   { "cat": "3rd Party", "tag": "Scully" },
+  { "cat": "3rd Party", "tag": "Stencil" },
   { "cat": "3rd Party", "tag": "Storybook" },
   { "cat": "3rd Party", "tag": "TailwindCSS" },
   { "cat": "3rd Party", "tag": "Transloco" },
