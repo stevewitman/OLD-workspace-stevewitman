@@ -4248,7 +4248,7 @@
         "sourceUrl": "https://youtube.com",
         "authorName": "Kindson The Tech Pro",
         "authorUrl": "https://www.youtube.com/c/KindsonTheTechPro/videos",
-        "speakers": [],
+        "speakers": ["Kindson Munony"],
         "tags": ["HttpClient"]
       },
       {
@@ -5509,7 +5509,7 @@
         "sourceUrl": "https://youtube.com",
         "authorName": "Kindson The Tech Pro",
         "authorUrl": "https://www.youtube.com/c/KindsonTheTechPro/videos",
-        "speakers": [],
+        "speakers": ["Kindson Munony"],
         "tags": []
       }
     ]
@@ -6026,6 +6026,112 @@
         "authorUrl": "https://medium.com/@eraoftech",
         "speakers": [],
         "tags": ["Two-Way Data Binding"]
+      }
+    ]
+  },
+  {
+    "date": "2022-04-01",
+    "dailyPosts": [
+      {
+        "slug": "2022-04-01-A",
+        "type": "blog",
+        "title": "When single request is insufficient — conditional response-based polling",
+        "url": "https://medium.com/javascript-everyday/when-single-request-is-insufficient-conditional-response-based-polling-fc75ee7725b5",
+        "description": "Most of the time it's enough to make a single request to an endpoint in order to obtain required data for your application. However, there are situations when you deal with frequently changing data, hence a polling mechanism is necessary. In addition, a server may be temporarily unavailable, therefore it's a good idea to consider a retrying solution. In this blog post, I will focus on the other scenario, namely conditionally polling based on a current response.",
+        "datePosted": "2022-04-01",
+        "dateSource": "2022-03-31",
+        "postedBy": "Steve Witman",
+        "sourceSite": "Medium",
+        "sourceUrl": "https://medium.com/tag/angular/latest",
+        "authorName": "Wojciech Trawiński",
+        "authorUrl": "https://medium.com/@wojtrawi",
+        "speakers": ["Wojciech Trawinski"],
+        "tags": []
+      },
+      {
+        "slug": "2022-04-01-B",
+        "type": "video",
+        "duration": "4",
+        "title": "ng-content vs ng-template vs ng-container | Angular - Hero to Superhero",
+        "url": "https://www.youtube.com/watch?v=G0GohC9H184",
+        "description": "",
+        "datePosted": "2022-04-01",
+        "dateSource": "2022-04-01",
+        "postedBy": "Steve Witman",
+        "sourceSite": "YouTube",  
+        "sourceUrl": "https://youtube.com",
+        "authorName": "WebTechTalk",
+        "authorUrl": "https://www.youtube.com/c/WebTechTalk/videos",
+        "speakers": [],
+        "tags": ["ng-content", "ng-template", "ng-container"]
+      },
+      {
+        "slug": "2022-04-01-C",
+        "type": "video",
+        "duration": "71",
+        "title": "AngularAir - Creating a Scheduling App - Part 3",
+        "url": "https://www.youtube.com/watch?v=PKlkUtbwB6w",
+        "description": "",
+        "datePosted": "2022-04-01",
+        "dateSource": "2022-04-01",
+        "postedBy": "Steve Witman",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "AngularAir",
+        "authorUrl": "https://www.youtube.com/c/AngularAirPodcast/videos",
+        "speakers": ["Justin Schwartzenberger", "Alyssa Nicoll", "Mike Brocchi"],
+        "tags": []
+      },
+      {
+        "slug": "2022-04-01-D",
+        "type": "video",
+        "duration": "29",
+        "title": "Super clean code in Angular (feat. @ngrx/component-store) - Part 1",
+        "url": "https://www.youtube.com/watch?v=Xk9Omlwk_mU",
+        "description": "This is part 1 of a series about how to write 100% reactive code in Angular, using the amazing @ngrx/component-store. If you code in Angular, stop altering the harmony of the universe with messy imperative code, and please use this patterns. Clean code saves lives. Especially the ones of your teammates. Now that this tutorial is out you have no more excuses. Follow along and 'just do it!'.",
+        "datePosted": "2022-04-01",
+        "dateSource": "2022-04-01",
+        "postedBy": "Steve Witman",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "JoniWan",
+        "authorUrl": "https://www.youtube.com/channel/UCt-FOa6cVsqiB4Mg9XXXuGg/videos",
+        "speakers": [],
+        "tags": ["NgRx", "ComponentStore"]
+      },
+      {
+        "slug": "2022-04-01-E",
+        "type": "video",
+        "duration": "89",
+        "title": "Angular team plays game and answers your questions LIVE | April 2022",
+        "url": "https://youtu.be/74KdHqu3dA4?t=19",
+        "description": "Join members of the Angular team as we play some games and answer your questions. See you there!",  
+        "datePosted": "2022-04-01",
+        "dateSource": "2022-04-01",
+        "postedBy": "Steve Witman",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "Angular",
+        "authorUrl": "https://www.youtube.com/c/Angular/videos",
+        "speakers": ["Mark Thompson", "Jeremy Elbourn"],
+        "tags": []
+      },
+      {
+        "slug": "2022-04-01-F",
+        "type": "video",
+        "duration": "21",
+        "title": "Part 25 - Pagination in Angular Application with External API",
+        "url": "https://www.youtube.com/watch?v=Le--l4NremQ",
+        "description": "This is Part 25 of a step by step tutorial on how to build a complete application using Angular, Node.js and PostgreSQL/MongoDB. In this part, we would make an API call from Angular UI to an external API (Rest Countries). Then we'll be implementing pagination.",
+        "datePosted": "2022-04-01",
+        "dateSource": "2022-04-01",
+        "postedBy": "Steve Witman",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "Kindson The Tech Pro",
+        "authorUrl": "https://www.youtube.com/c/KindsonTheTechPro/videos",
+        "speakers": ["Kindson Munony"],
+        "tags": []
       }
     ] 
   }
