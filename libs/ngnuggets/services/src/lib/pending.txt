@@ -1,9 +1,70 @@
-r21 
+1st https://betterprogramming.pub/rxjs-declarative-pattern-in-angular-cafba3983d21
 
-f4 
-f12 
-f14 
-f14 
 f22 https://www.youtube.com/watch?v=Le--l4NremQ
+s1 https://dev.to/ilyoskhuja/angular-ngrx-with-star-wars-api-465a
+s2 https://eraoftech.medium.com/how-to-filter-and-transform-data-in-angular-using-pipes-9209dc36c2eb
+s6 https://medium.com/@ugursalin/3-rxjs-operators-you-should-know-7114b5cd1295
+s6 https://www.youtube.com/watch?v=zWZrjZru1DA
+s7 https://bytecodepandit.medium.com/why-do-we-need-dependency-injection-di-in-angular-bbc4d23d06ca
+s15 https://elmota.com/loading-external-configurations-in-angular-universal
+https://medium.com/@matsal.dev/rxjs-how-to-group-observables-with-groupby-aa2d7a70c7ea
+s23 https://hien.page/how-pure-and-impure-pipes-work-in-angular-ivy
 
+u1 https://www.youtube.com/watch?v=ChMEpGhvuJA
+u7 https://eraoftech.medium.com/what-are-components-in-angular-why-is-it-important-4cb4cea521d0
+u8 https://fahsl.medium.com/runtime-injection-of-settings-in-angular-e5873d192240
+u8 https://www.youtube.com/watch?v=ge-57775qCo
+u9 https://www.youtube.com/watch?v=8PItOt2wiz0  
 
+u22 https://www.youtube.com/watch?v=Vk0T2zmsq4M
+u23 https://www.youtube.com/watch?v=hBXjISGF5vo
+u23 https://dev.to/jdgamble555/angular-universal-rest-api-endpoints-23fj
+m0 https://www.youtube.com/watch?v=VwsXwzzTb_g
+
+m2 https://www.youtube.com/watch?v=xVkDNQ6H7A8
+m2 https://www.youtube.com/watch?v=xNvaUf8a4ME
+m3 https://eraoftech.medium.com/input-output-and-eventemitter-in-angular-for-state-management-1eeb60bca8d3
+m4 https://williamjuan.hashnode.dev/css-animation-events-in-angular
+m5 https://dev.to/this-is-angular/rxjs-declarative-pattern-in-angular-4ih6
+m5 https://www.youtube.com/watch?v=fJXszcq4MgU
+m5 https://medium.com/limehome-engineering/create-a-pwa-app-manifest-dynamically-spa-angular-1627260e0390
+m7 https://www.youtube.com/watch?v=YHmzrWsFUOE
+m7 https://www.spreaker.com/user/14532324/s2e10-victor-savkin-on-becoming-the-true?utm_campaign=episode-title&utm_medium=app&utm_source=widget
+m8 https://www.youtube.com/watch?v=lWuJ79uBAQA
+m9 https://chadwindeysel.hashnode.dev/how-to-use-chartjs-your-angular-13-project
+m9 https://medium.com/@matsal.dev/rxjs-aggregate-operators-count-max-min-and-reduce-1ee604bafd24
+m9 https://www.youtube.com/watch?v=Ncw_tMn64Iw
+m10 https://www.youtube.com/watch?v=bMVP5aT8NyM
+m10 https://yurii-k.medium.com/error-handling-for-http-requests-in-javascript-d38b959b2603
+m12 https://www.youtube.com/watch?v=cIEF6FwSSjk
+m13 https://medium.com/@jain.a.piyush/how-to-make-angular-seo-friendly-website-with-angular-universal-d8949a89bda6
+m14 https://dev.to/krisplatis/how-i-became-the-angular-contributor-2066 
+m14 https://dev.to/rainerhahnekamp/ng-news-issue-2213-252c
+m16 https://www.youtube.com/watch?v=o1yBUrrrDpo
+m18 https://hien.page/leveraging-dependency-injection-to-reduce-duplicated-code-in-angular
+
+t4 https://www.youtube.com/watch?v=MvKz8xaxsCM
+t6 https://www.youtube.com/watch?v=dVp9Ezuv2KU
+t7 https://www.youtube.com/watch?v=IjopBh2vVfw
+t7 https://eraoftech.medium.com/introduction-to-lifecycle-hooks-in-angular-2049ace97f2d
+t7 https://eraoftech.medium.com/introduction-to-forms-in-angular-template-driven-and-reactive-forms-2b03da8bc451
+t9 https://www.youtube.com/watch?v=drSBWTWUPBw
+t12 https://www.youtube.com/watch?v=lBcP_z6GhvA
+t13 https://www.youtube.com/watch?v=UFT4vPKZ9TY
+t14 https://www.youtube.com/watch?v=1cNUx6OJYAI
+t14 https://www.youtube.com/watch?v=AFVgwCtYgVo
+t19 https://hien.page/how-to-create-drag-and-drop-accordion-list-in-angular
+t21 https://dev.to/jdgamble555/preloading-data-in-angular-universal-20lj
+
+w0 https://dev.to/debug_mode/the-simplest-way-to-disable-consolelog-for-production-build-in-angular-1h1f
+w2 https://www.youtube.com/watch?v=vSpuxoGAbs0
+w3 https://www.youtube.com/watch?v=ZzGVYfR-gRM
+w3 https://elmota.com/seo-in-angular-with-ssr-part-iii
+w6 https://dev.to/phlashdev/angular-migrate-from-tslint-to-eslint-3dgc
+w7 https://www.youtube.com/watch?v=eWanq3Mbxjg
+w7 https://www.youtube.com/watch?v=Wr2PYMs1P1g
+w7 https://www.youtube.com/watch?v=MVqVBbM_gvw
+w9 https://www.spreaker.com/user/ng-conf/ap-show-s3e3-joe-eames-keeping-your-care
+w10 https://github.com/angular/angular/releases/tag/13.3.2
+w10 https://github.com/angular/angular/releases/tag/14.0.0-next.11
+w12 https://www.youtube.com/watch?v=6ZCh4LFJZj4

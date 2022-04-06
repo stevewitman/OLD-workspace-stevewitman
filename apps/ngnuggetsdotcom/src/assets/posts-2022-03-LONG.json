@@ -4958,7 +4958,7 @@
       {
         "slug": "2022-03-25-D",
         "type": "video",  
-        "duration": "4r",
+        "duration": "4",
         "title": "ngOnInit vs Constructor | Angular Interview Concepts",
         "url": "https://www.youtube.com/watch?v=0vYHeEHl5WY",
         "description": "",
@@ -5511,7 +5511,24 @@
         "authorUrl": "https://www.youtube.com/c/KindsonTheTechPro/videos",
         "speakers": ["Kindson Munony"],
         "tags": []
-      }
+      },             
+      {
+        "slug": "2022-03-28-R",
+        "type": "blog",
+        "duration": "",
+        "title": "Angular Basics: Conditional Statements With NgSwitch",
+        "url": "https://www.telerik.com/blogs/angular-basics-conditional-statements-ngswitch",
+        "description": "Today we will look at the ngSwitch directive in Angular and how it can be used in your workflow.",
+        "datePosted": "2022-03-28",
+        "dateSource": "2022-03-28",
+        "postedBy": "Steve Witman",
+        "sourceSite": "Progress Telerik Blog",
+        "sourceUrl": "https://www.telerik.com/blogs/web-angular",
+        "authorName": "Nwose Lotanna Victor",
+        "authorUrl": "https://www.telerik.com/blogs/author/nwose-lotanna",
+        "speakers": ["Nwose Lotanna Victor"],
+        "tags": ["ngSwitch", "Directives"]
+      } 
     ]
   },
   {
@@ -5686,6 +5703,38 @@
         "authorUrl": "https://www.youtube.com/channel/UCL-ACPCQnKbT2nWadQuqt2w/videos",
         "speakers": [],
         "tags": ["Pipes", "Async Pipe"]
+      },
+      {
+        "slug": "2022-03-29-L",
+        "type": "blog",
+        "title": "Angular Mixins - a reusability technique.",
+        "url": "https://medium.com/@laidav/angular-mixins-a-reusability-technique-138776bc2b78",
+        "description": "In this article, we will focus on how mixins can integrate with Angular features and help us share functionality across our components. We will start with a basic dashboard example and followup with a case study.",
+        "datePosted": "2022-03-29",
+        "dateSource": "2022-03-29",
+        "postedBy": "Steve Witman",
+        "sourceSite": "Medium",
+        "sourceUrl": "https://medium.com/tag/angular/latest",
+        "authorName": "David Lai",
+        "authorUrl": "https://medium.com/@laidav",
+        "speakers": ["David Lai"],
+        "tags": []
+      },
+      {
+        "slug": "2022-03-29-M",
+        "type": "blog",
+        "title": "SEO in Angular with SSR - Part II",
+        "url": "https://elmota.com/seo-in-angular-with-ssr-part-ii",
+        "description": "In this part, let's go through the canonical links, alternate links, and url property of the document.\n\nHeads-up: It is a rather long article, the purpose of which is not the end result, but rather the thought process.",
+        "datePosted": "2022-03-29",
+        "dateSource": "2022-03-28",
+        "postedBy": "Steve Witman",
+        "sourceSite": "Hashnode",
+        "sourceUrl": "https://hashnode.com/n/angular",
+        "authorName": "Ayyash",
+        "authorUrl": "https://hashnode.com/@ayyash",
+        "speakers": [],
+        "tags": ["SEO", "SSR"]
       }
     ]
   },
@@ -5888,6 +5937,38 @@
         "authorUrl": "https://github.com/dylhunn",
         "speakers": [],
         "tags": ["Release"]
+      }, 
+      {
+        "slug": "2022-03-30-N",
+        "type": "blog",
+        "title": "All we need to know about Angular Modules",
+        "url": "https://medium.com/sliitwif/all-we-need-to-know-about-angular-modules-fbd01a8581c2",
+        "description": "What is an Angular Module?\nAngular Modules can be seen as the broad features of our application. Like in any application authentication is a major feature, so in Angular, we can make a separate module for that and others like the Payment module, etc.",
+        "datePosted": "2022-03-30",
+        "dateSource": "2022-03-30",
+        "postedBy": "Steve Witman",
+        "sourceSite": "Medium",
+        "sourceUrl": "https://medium.com/tag/angular/latest",
+        "authorName": "Bhagya Kithmini Indimagedara",
+        "authorUrl": "https://medium.com/@kithminiii",
+        "speakers": ["Bhagya Kithmini Indimagedara"],
+        "tags": ["Modules"]
+      },
+      {
+        "slug": "2022-03-30-P",
+        "type": "blog",
+        "title": "Actual Use Of Angular Lifecycle Hooks",
+        "url": "https://medium.com/@mudit.manucha/actual-use-of-angular-lifecycle-hooks-d922680283c0",
+        "description": "We Will be Learning:\n- Different lifecycle hooks for Angular components\n- What triggers lifecycle hooks and the order in which they are called\n- How to hook into component lifecycles and when to use it",
+        "datePosted": "2022-03-30",
+        "dateSource": "2022-03-30",
+        "postedBy": "Steve Witman",
+        "sourceSite": "Medium",
+        "sourceUrl": "https://medium.com/tag/angular/latest",
+        "authorName": "Mudit Manucha",
+        "authorUrl": "https://medium.com/@mudit.manucha",
+        "speakers": ["Mudit Manucha "],
+        "tags": ["Lifecycle Hooks", "ngOnChanges", "ngOnInit", "ngDoCheck", "ngAfterContentInit", "ngAfterContentChecked", "ngAfterViewInit", "ngAfterViewChecked", "ngOnDestroy"]
       }
     ]
   },
@@ -6132,7 +6213,45 @@
         "authorUrl": "https://www.youtube.com/c/KindsonTheTechPro/videos",
         "speakers": ["Kindson Munony"],
         "tags": []
+      },
+      {
+        "slug": "2022-04-01-G",
+        "type": "blog",
+        "title": "Debugging Tips for Angular Developers",
+        "url": "https://medium.com/ngconf/debugging-tips-for-angular-developers-eb8dbcd3e379",
+        "description": "Something isn't working right… Now what? How can you figure out what's going on quickly so you can fix it? Here are a few tips and tools that may help you when debugging Angular applications.\n\nThe first tip has nothing to do with Angular. It has to do with you and how you approach your work.",
+        "datePosted": "2022-04-01",
+        "dateSource": "2022-04-01",
+        "postedBy": "Steve Witman",
+        "sourceSite": "Medium",
+        "sourceUrl": "https://medium.com/tag/angular/latest",
+        "authorName": "Jared Youtsey",
+        "authorUrl": "https://medium.com/@fivedicephoto",
+        "speakers": ["Jared Youtsey"],
+        "tags": ["Debugging"]
+      },
+      {
+        "slug": "2022-04-01-H",
+        "type": "blog",
+        "title": "Creating an accessible, custom dropdown input in Angular",
+        "url": "https://bootcamp.uxdesign.cc/creating-an-accessible-custom-dropdown-input-in-angular-3baa192c9884",
+        "description": "If you've spent any amount of time working with HTML select inputs, you know how ugly they are by default. This is an unfortunate side effect of an HTML element that needs to be consistent and accessible on all platforms. Additionally, there is not much you can do to improve the look of them with CSS. They have a rigid structure that can't be changed, so if you want extra features, like a search bar, you're out of luck.",
+        "datePosted": "2022-04-01",
+        "dateSource": "2022-04-01",
+        "postedBy": "Steve Witman",
+        "sourceSite": "Medium",
+        "sourceUrl": "https://medium.com/tag/angular/latest",
+        "authorName": "Colin Broberg",
+        "authorUrl": "https://medium.com/@colinbroberg",
+        "speakers": ["Colin Broberg"],
+        "tags": ["Accessibility"]
       }
+    ]
+  },
+  {
+    "date": "2022-04-02",
+    "dailyPosts": [
+
     ] 
   }
 ]
