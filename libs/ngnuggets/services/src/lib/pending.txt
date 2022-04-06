@@ -1,15 +1,3 @@
-1st https://betterprogramming.pub/rxjs-declarative-pattern-in-angular-cafba3983d21
-
-f22 https://www.youtube.com/watch?v=Le--l4NremQ
-s1 https://dev.to/ilyoskhuja/angular-ngrx-with-star-wars-api-465a
-s2 https://eraoftech.medium.com/how-to-filter-and-transform-data-in-angular-using-pipes-9209dc36c2eb
-s6 https://medium.com/@ugursalin/3-rxjs-operators-you-should-know-7114b5cd1295
-s6 https://www.youtube.com/watch?v=zWZrjZru1DA
-s7 https://bytecodepandit.medium.com/why-do-we-need-dependency-injection-di-in-angular-bbc4d23d06ca
-s15 https://elmota.com/loading-external-configurations-in-angular-universal
-https://medium.com/@matsal.dev/rxjs-how-to-group-observables-with-groupby-aa2d7a70c7ea
-s23 https://hien.page/how-pure-and-impure-pipes-work-in-angular-ivy
-
 u1 https://www.youtube.com/watch?v=ChMEpGhvuJA
 u7 https://eraoftech.medium.com/what-are-components-in-angular-why-is-it-important-4cb4cea521d0
 u8 https://fahsl.medium.com/runtime-injection-of-settings-in-angular-e5873d192240
@@ -51,6 +39,7 @@ t7 https://eraoftech.medium.com/introduction-to-forms-in-angular-template-driven
 t9 https://www.youtube.com/watch?v=drSBWTWUPBw
 t12 https://www.youtube.com/watch?v=lBcP_z6GhvA
 t13 https://www.youtube.com/watch?v=UFT4vPKZ9TY
+https://medium.com/@matsal.dev/angular-how-to-pass-template-with-component-as-input-using-ngtemplateoutlet-1d7ba9eeadd6
 t14 https://www.youtube.com/watch?v=1cNUx6OJYAI
 t14 https://www.youtube.com/watch?v=AFVgwCtYgVo
 t19 https://hien.page/how-to-create-drag-and-drop-accordion-list-in-angular
@@ -68,3 +57,4 @@ w9 https://www.spreaker.com/user/ng-conf/ap-show-s3e3-joe-eames-keeping-your-car
 w10 https://github.com/angular/angular/releases/tag/13.3.2
 w10 https://github.com/angular/angular/releases/tag/14.0.0-next.11
 w12 https://www.youtube.com/watch?v=6ZCh4LFJZj4
+w16 https://medium.com/@matsal.dev/angular-how-to-make-one-component-with-multiple-views-using-ng-content-1f5c7539fc5b
