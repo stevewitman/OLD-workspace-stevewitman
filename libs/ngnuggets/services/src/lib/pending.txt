@@ -1,14 +1,3 @@
-u1 https://www.youtube.com/watch?v=ChMEpGhvuJA
-u7 https://eraoftech.medium.com/what-are-components-in-angular-why-is-it-important-4cb4cea521d0
-u8 https://fahsl.medium.com/runtime-injection-of-settings-in-angular-e5873d192240
-u8 https://www.youtube.com/watch?v=ge-57775qCo
-u9 https://www.youtube.com/watch?v=8PItOt2wiz0  
-
-u22 https://www.youtube.com/watch?v=Vk0T2zmsq4M
-u23 https://www.youtube.com/watch?v=hBXjISGF5vo
-u23 https://dev.to/jdgamble555/angular-universal-rest-api-endpoints-23fj
-m0 https://www.youtube.com/watch?v=VwsXwzzTb_g
-
 m2 https://www.youtube.com/watch?v=xVkDNQ6H7A8
 m2 https://www.youtube.com/watch?v=xNvaUf8a4ME
 m3 https://eraoftech.medium.com/input-output-and-eventemitter-in-angular-for-state-management-1eeb60bca8d3
@@ -57,4 +46,21 @@ w9 https://www.spreaker.com/user/ng-conf/ap-show-s3e3-joe-eames-keeping-your-car
 w10 https://github.com/angular/angular/releases/tag/13.3.2
 w10 https://github.com/angular/angular/releases/tag/14.0.0-next.11
 w12 https://www.youtube.com/watch?v=6ZCh4LFJZj4
+w14 https://www.youtube.com/watch?v=M5ZFw1_1zOM
 w16 https://medium.com/@matsal.dev/angular-how-to-make-one-component-with-multiple-views-using-ng-content-1f5c7539fc5b
+w17 https://www.youtube.com/watch?v=s4uWMNMNBts
+w22 https://www.youtube.com/watch?v=qOZOeu6YcJc
+w23 https://medium.com/@matsal.dev/angular-how-to-make-one-component-with-multiple-views-using-ng-content-1f5c7539fc5b
+r23 https://dev.to/felipebelluco/httpparams-builder-for-angular-44g5
+
+
+r5 https://dev.to/this-is-angular/understanding-rxjs-use-cases-part-i-2mfb
+r6 https://www.youtube.com/watch?v=wSmM7-fnn6A
+r6 https://elmota.com/angular-pagination-customizing-scrolling-behavior-through-scroll-event
+r7 https://www.youtube.com/watch?v=TOpBvAOvU2A
+r7 https://www.youtube.com/watch?v=wDX0S2C4q-c
+r9 https://www.youtube.com/watch?v=jdsSIKgJ6ZM
+r9 https://www.youtube.com/watch?v=r0Rzt4lQ0T0
+r12 https://www.youtube.com/watch?v=lVEsbQAfvl4
+r12 https://www.youtube.com/watch?v=nR63Lj_FJ8I
+r16 https://medium.com/@matsal.dev/rxjs-how-to-create-post-get-patch-and-delete-api-requests-with-ajax-operator-e31b3aabecf
