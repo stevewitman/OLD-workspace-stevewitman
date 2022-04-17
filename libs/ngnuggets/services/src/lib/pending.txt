@@ -1,18 +1,3 @@
-
-t4 https://www.youtube.com/watch?v=MvKz8xaxsCM
-t6 https://www.youtube.com/watch?v=dVp9Ezuv2KU
-t7 https://www.youtube.com/watch?v=IjopBh2vVfw
-t7 https://eraoftech.medium.com/introduction-to-lifecycle-hooks-in-angular-2049ace97f2d
-t7 https://eraoftech.medium.com/introduction-to-forms-in-angular-template-driven-and-reactive-forms-2b03da8bc451
-t9 https://www.youtube.com/watch?v=drSBWTWUPBw
-t12 https://www.youtube.com/watch?v=lBcP_z6GhvA
-t13 https://www.youtube.com/watch?v=UFT4vPKZ9TY
-https://medium.com/@matsal.dev/angular-how-to-pass-template-with-component-as-input-using-ngtemplateoutlet-1d7ba9eeadd6
-t14 https://www.youtube.com/watch?v=1cNUx6OJYAI
-t14 https://www.youtube.com/watch?v=AFVgwCtYgVo
-t19 https://hien.page/how-to-create-drag-and-drop-accordion-list-in-angular
-t21 https://dev.to/jdgamble555/preloading-data-in-angular-universal-20lj
-
 w0 https://dev.to/debug_mode/the-simplest-way-to-disable-consolelog-for-production-build-in-angular-1h1f
 w2 https://www.youtube.com/watch?v=vSpuxoGAbs0
 w3 https://www.youtube.com/watch?v=ZzGVYfR-gRM
@@ -71,9 +56,100 @@ u https://jnpiyush.medium.com/how-to-use-angular-component-recursively-405910261
 u https://medium.com/@aayyash/rxjs-based-state-management-in-angular-part-v-35aef249b7d3
 u23 https://www.youtube.com/watch?v=_By0TTKuxWI
 
+m https://open.spotify.com/episode/7CBWO7fhjTnOmyZWR4hdli
 m5 https://www.youtube.com/watch?v=Kj-lpZf-Skk
 m6 https://www.youtube.com/watch?v=YMsRgC1L96s
 m https://www.spreaker.com/user/14532324/s2e11-nathan-walker-on-innovating?utm_campaign=episode-title&utm_medium=app&utm_source=widget
 m8 https://www.youtube.com/watch?v=j9zMvwUi5Tc
 m8 https://tjhilton.hashnode.dev/implementing-a-custom-angular-location-strategy
 m10 https://www.youtube.com/watch?v=VmdSmeDpW0k
+https://medium.com/@jan.benscheid/mutual-exclusion-using-rxjs-f5f3a11237b7
+m14 https://dev.to/rainerhahnekamp/ng-news-episode-2214-350g
+m22 https://www.youtube.com/watch?v=gG2wjqQsPgo
+m23 https://ramya-bala221190.medium.com/angular-how-can-you-clear-the-references-of-multiple-ag-grid-tables-together-353610b0c126
+
+t0? https://dev.to/deepachaurasia1/pipes-in-angular-11-35n0
+t0? https://www.youtube.com/watch?v=Yh53Nz2vB7w
+t0? https://www.youtube.com/watch?v=gEHPdgj8cZw
+t1 https://www.youtube.com/watch?v=U_qjJIWTYEU
+t7 https://www.youtube.com/watch?v=XcFpJDcvmvY
+t7 https://medium.com/@toha.marko/angular-get-control-in-controlvalueaccessor-b7f09a485fba
+t8 https://www.youtube.com/watch?v=1OySjvIyuJs
+t9 https://www.youtube.com/watch?v=4I9zmySbuMA
+https://elmota.com/pagination-with-rxjs-state-and-route-params
+t10 https://www.youtube.com/watch?v=xbk2-z8gY4M
+t10 https://medium.com/javascript-in-plain-english/angular-change-detection-is-no-longer-a-black-box-6c45b1f8e65f
+t11 https://www.youtube.com/watch?v=dD74bhKnlkE
+t11 https://shubham-jain05.medium.com/three-ways-to-set-environment-variables-in-angular-df8608dbfe2f
+t11 https://www.youtube.com/watch?v=X8ORi4dYxK4
+t13 https://dev.to/danywalls/how-caching-data-in-angular-with-rxjs-27mj 
+t14 https://github.com/angular/angular/releases/tag/14.0.0-next.12
+t https://medium.com/@aashu_dubey/list-animation-in-ionic-6-angular-c01930fbf527
+t https://medium.com/google-developer-experts/gde-community-highlight-nishu-goel-c5e00ad63f03
+
+w1 https://medium.com/@matsal.dev/angular-karma-jasmine-testing-image-http-service-975f95b92612
+w3 https://aosolorzano.medium.com/adding-amplify-auth-to-your-ionic-angular-projects-4c8b6337e4e6
+w6 https://www.youtube.com/watch?v=w_ZvzB8LMSQ
+w7 https://www.youtube.com/watch?v=Nczo94Baj3U
+w8 https://www.youtube.com/watch?v=Mf8uBu0t2Jg
+w9 https://dev.to/seanperkins/ionic-61-dynamically-changing-the-breakpoint-of-a-sheet-modal-55og
+w10 https://www.spreaker.com/user/ng-conf/ap-show-s3e4-what-are-mfes-edit-1
+w11 https://www.youtube.com/watch?v=pAmdyvJ5VNY
+w12 https://arjit.hashnode.dev/making-amazons-card-component-with-angular
+w13 https://github.com/angular/angular/releases/tag/13.3.3
+w13 https://github.com/angular/angular/releases/tag/14.0.0-next.13
+w15 https://dev.to/nx/share-cypress-commands-in-an-nx-workspace-4h71
+w https://medium.com/syncfusion/angular-state-management-with-ngrx-2b47ca57b067
+w15 https://medium.com/@matsal.dev/angular-styling-the-child-component-from-the-parent-component-with-ng-deep-95a2916dab3b
+w https://blog.angular.io/developer-survey-2021-results-38e653cbb36b
+w22 https://sametcelikbicak.com/angular-custom-decorator
+w23 https://pawan-kumawat.medium.com/forkjoin-10e2ddf3e6ca
+w23 https://www.youtube.com/watch?v=dO58BOhPmXM
+w24 https://medium.com/@mailforprasath/how-to-add-cross-field-validation-in-angular-5cca9fc3f431
+w24 https://medium.com/enappd/customizing-ionic-ui-components-css-using-chrome-devtools-80f9fa1e3e29
+
+r0 https://www.youtube.com/watch?v=XT-PrJZFh28
+r1 https://www.youtube.com/watch?v=e4ttlA9XE2w
+r1 https://www.youtube.com/watch?v=YrA5TOkthTA
+r7 https://www.youtube.com/watch?v=7Bha85HYwZE
+r7 https://www.youtube.com/watch?v=YNH4wBUZvkA
+r8 https://webrush.io/episodes/episode-179-visual-testing-with-ramona-schwering
+r8 https://dev.to/yuvan11/adding-proxy-config-to-the-single-spa-angular-26hk
+r11 https://www.youtube.com/watch?v=JJedYMmhe-A
+r12 https://www.youtube.com/watch?v=4JUex0GVrYQ
+r12 https://www.youtube.com/watch?v=eufALxdSBdw
+r https://www.thisdot.co/blog/how-to-manage-breakpoints-using-breakpointobserver-in-angular
+r6 freecodecamp ... https://www.freecodecamp.org/news/how-to-use-azure-static-web-apps-to-deploy-angular-app/
+r https://medium.com/@matsal.dev/angular-how-to-use-viewchild-decorator-b30d4c988746
+
+https://medium.com/@mailforprasath/how-to-add-cross-field-validation-in-angular-5cca9fc3f431
+
+f3 https://www.youtube.com/watch?v=d_G0cs1G1Hs
+f8 https://dev.to/ankitkumarsharma/component-interaction-in-angular-5cn2
+f8 https://cristopher-coronado.hashnode.dev/deploy-an-angular-app-to-firebase-via-github-actions
+f9 https://www.youtube.com/watch?v=SICYw5sHv8A
+f9 https://www.youtube.com/watch?v=qRAhe06UhM4
+f9 https://www.youtube.com/watch?v=6Yl9E1RdqJk
+f10 https://www.youtube.com/watch?v=sPvEppxeSSg
+f11 https://www.youtube.com/watch?v=-2ZJOBy07m0
+https://medium.com/@akankshasingh872/rx-js-observables-4b6879c57d27
+f12 https://www.youtube.com/watch?v=W_7SzVLQCDw
+f13 https://www.youtube.com/watch?v=dH8BSEGpaOY
+f15 https://www.youtube.com/watch?v=5kIvgey-_Ow
+f https://www.youtube.com/watch?v=jI8GSJgPrpI
+f18 https://medium.com/@felipebelluco/httpparams-builder-for-angular-f885aa0a68d2
+f23 https://dev.to/signoz/implementing-opentelemetry-in-angular-application-f45
+
+s4 https://www.youtube.com/watch?v=FHk_RwcxJZg
+s5 https://yurii-k.medium.com/send-data-from-one-application-to-another-in-angular-479ca163f90a
+s6 https://dev.to/deepakjaiswal/use-http-interceptor-in-angular-for-every-http-request-7lo
+s6 https://www.youtube.com/watch?v=NDCJriGKgpI
+s12 https://www.youtube.com/watch?v=8lAshoofGfg
+https://medium.com/@solisarg/reactive-programming-in-angular-acdd369a7155
+s15 https://medium.com/@anassguendef/angular-build-once-deploy-everywhere-9dfb698e781e
+
+u1 https://madhuwanthiaah.medium.com/graphql-api-service-unit-testing-17bce2ab57a1
+u7 https://www.youtube.com/watch?v=zzILpCTH-3I
+u7 https://www.youtube.com/watch?v=hlOsH8jfzb4
+u9 https://www.youtube.com/watch?v=vhifD4o1nUE
+u11 https://www.youtube.com/watch?v=_CX9_-BDzR8
