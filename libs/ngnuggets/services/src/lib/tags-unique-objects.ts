@@ -35,6 +35,7 @@ export const tags = [
   { category: 'Angular', tag: 'HttpClient' },
   { category: 'Angular', tag: 'HttpContext', rel: ['HttpInterceptor'] },
   { category: 'Angular', tag: 'HttpInterceptors' },
+  { category: 'Angular', tag: 'HttpParams' },
   { category: 'Angular', tag: ':host' },
   { category: 'Angular', tag: ':host-context' },
   { category: 'Angular', tag: 'Hot Module Replacement' },

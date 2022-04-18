@@ -1,21 +1,10 @@
-w0 https://dev.to/debug_mode/the-simplest-way-to-disable-consolelog-for-production-build-in-angular-1h1f
-w2 https://www.youtube.com/watch?v=vSpuxoGAbs0
-w3 https://www.youtube.com/watch?v=ZzGVYfR-gRM
-w3 https://elmota.com/seo-in-angular-with-ssr-part-iii
-w6 https://dev.to/phlashdev/angular-migrate-from-tslint-to-eslint-3dgc
-w7 https://www.youtube.com/watch?v=eWanq3Mbxjg
-w7 https://www.youtube.com/watch?v=Wr2PYMs1P1g
-w7 https://www.youtube.com/watch?v=MVqVBbM_gvw
-w9 https://www.spreaker.com/user/ng-conf/ap-show-s3e3-joe-eames-keeping-your-care
-w10 https://github.com/angular/angular/releases/tag/13.3.2
-w10 https://github.com/angular/angular/releases/tag/14.0.0-next.11
-w12 https://www.youtube.com/watch?v=6ZCh4LFJZj4
-w14 https://www.youtube.com/watch?v=M5ZFw1_1zOM
-w16 https://medium.com/@matsal.dev/angular-how-to-make-one-component-with-multiple-views-using-ng-content-1f5c7539fc5b
-w17 https://www.youtube.com/watch?v=s4uWMNMNBts
-w22 https://www.youtube.com/watch?v=qOZOeu6YcJc
-w23 https://medium.com/@matsal.dev/angular-how-to-make-one-component-with-multiple-views-using-ng-content-1f5c7539fc5b
-r23 https://dev.to/felipebelluco/httpparams-builder-for-angular-44g5
+
+w14 
+w16 
+w17 
+w22 
+w23 
+r23 
 https://blog.angular.io/an-update-on-standalone-components-ea53b4d55214 
 
 r5 https://dev.to/this-is-angular/understanding-rxjs-use-cases-part-i-2mfb
