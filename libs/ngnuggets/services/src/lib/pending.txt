@@ -1,25 +1,4 @@
-
-w14 
-w16 
-w17 
-w22 
-w23 
-r23 
-https://blog.angular.io/an-update-on-standalone-components-ea53b4d55214 
-
-r5 https://dev.to/this-is-angular/understanding-rxjs-use-cases-part-i-2mfb
-r6 https://www.youtube.com/watch?v=wSmM7-fnn6A
-r6 https://elmota.com/angular-pagination-customizing-scrolling-behavior-through-scroll-event
-r7 https://www.youtube.com/watch?v=TOpBvAOvU2A
-r7 https://www.youtube.com/watch?v=wDX0S2C4q-c
-r9 https://www.youtube.com/watch?v=jdsSIKgJ6ZM
-https://medium.com/@ausekarsid/angular-modular-federation-656436483cf0
-r9 https://www.youtube.com/watch?v=r0Rzt4lQ0T0
-r12 https://www.youtube.com/watch?v=lVEsbQAfvl4
-r12 https://www.youtube.com/watch?v=nR63Lj_FJ8I
-r16 https://medium.com/@matsal.dev/rxjs-how-to-create-post-get-patch-and-delete-api-requests-with-ajax-operator-e31b3aabecf
-
-f0 https://dev.to/samarpaninfotech/n-level-form-array-with-validation-dynamically-in-angular-335a
+https://dev.to/samarpaninfotech/n-level-form-array-with-validation-dynamically-in-angular-335a
 f1 https://www.youtube.com/watch?v=kBmxVt1Kuaw
 f2 https://eszterkasza.hashnode.dev/why-you-should-upgrade-to-the-latest-version-of-angular
 f8 https://dev.to/nx/whats-new-in-nx-1310-5126
@@ -142,3 +121,5 @@ u7 https://www.youtube.com/watch?v=zzILpCTH-3I
 u7 https://www.youtube.com/watch?v=hlOsH8jfzb4
 u9 https://www.youtube.com/watch?v=vhifD4o1nUE
 u11 https://www.youtube.com/watch?v=_CX9_-BDzR8
+
+m4 https://www.youtube.com/watch?v=n2Srrl6ZMjQ
