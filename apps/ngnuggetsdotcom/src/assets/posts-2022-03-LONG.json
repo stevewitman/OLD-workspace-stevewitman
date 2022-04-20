@@ -7802,6 +7802,76 @@
         "speakers": ["Srikar Gandhi"],
         "tags": ["Auth", "AWS"]
       }
+    ]
+  },
+  {
+    "date": "2022-04-10",
+    "dailyPosts": [
+      {
+        "slug": "2022-04-10-A",
+        "type": "blog",
+        "title": "Setting up a mock backend with Angular 13 Applications",
+        "url": "https://medium.com/geekculture/setting-up-a-mock-backend-with-angular-13-applications-26a21788f7da",
+        "description": "In a world of simultaneous front-end and back-end development, it is essential that the Angular developers working on an app should be able to interact with a fake back end in order to create the UI by mocking the back end data.\n\nThanks to npm packages like json-server and nodemon, the process is made real simple.",
+        "datePosted": "2022-04-10",
+        "dateSource": "2022-04-09",
+        "postedBy": "Steve Witman",
+        "sourceSite": "Medium",
+        "sourceUrl": "https://medium.com/tag/angular/latest",
+        "authorName": "Akash Kriplani",
+        "authorUrl": "https://medium.com/@akashkriplani",
+        "speakers": ["Akash Kriplani"],
+        "tags": []
+      },
+      {
+        "slug": "2022-04-10-B",
+        "type": "blog",
+        "title": "How to use Angular Component Recursively",
+        "url": "https://jnpiyush.medium.com/how-to-use-angular-component-recursively-40591026117f",
+        "description": "In this tutorial we will learn how to Recursively call Angular Component.",
+        "datePosted": "2022-04-10",
+        "dateSource": "2022-04-10",
+        "postedBy": "Steve Witman",
+        "sourceSite": "Medium",
+        "sourceUrl": "https://medium.com/tag/angular/latest",
+        "authorName": "Piyush Jain",
+        "authorUrl": "https://jnpiyush.medium.com",
+        "speakers": ["Piyush Jain"],
+        "tags": []
+      },
+      {
+        "slug": "2022-04-10-C",
+        "type": "blog",
+        "title": "RxJS based state management in Angular — Part V",
+        "url": "https://medium.com/@aayyash/rxjs-based-state-management-in-angular-part-v-35aef249b7d3",
+        "description": "I should call it a quit now. One more thing to experiment with. Couple of weeks ago I came down to making a state service of IList and found out that we recreated all functionalities just to accommodate the sub property of matches and total. Today, I am going to make that part of the state class. It will prove a failure if using it for a simple array with no pagination proved to be unnecessarily complicated.",
+        "datePosted": "2022-04-10",
+        "dateSource": "2022-04-10",
+        "postedBy": "Steve Witman",
+        "sourceSite": "Medium",
+        "sourceUrl": "https://medium.com/tag/angular/latest",
+        "authorName": "Ayyash Ayyash",
+        "authorUrl": "https://medium.com/@aayyash",
+        "speakers": [],
+        "tags": ["RxJS", "Stage Management"]
+      },
+      {
+        "slug": "2022-04-10-D",
+        "type": "video",
+        "duration": "15",
+        "title": "What is Form Array | Reactive Forms | Angular 13+",
+        "url": "https://www.youtube.com/watch?v=_By0TTKuxWI",
+        "description": "In this lecture, you are going to learn about form arrays in Angular forms. A form array is a collection of Form controls grouped together. The Form control can be of type FormControl, FormGroup or another FormArray.",
+        "datePosted": "2022-04-10",
+        "dateSource": "2022-04-10",
+        "postedBy": "Steve Witman",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "procademy",
+        "authorUrl": "https://www.youtube.com/c/procademyn/videos",
+        "speakers": [],
+        "tags": ["Forms", "Reactive Forms", "FormArray"]
+      }
     ] 
   }
 ]

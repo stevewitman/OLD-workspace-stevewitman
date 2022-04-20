@@ -1,7 +1,6 @@
 
-u https://medium.com/geekculture/setting-up-a-mock-backend-with-angular-13-applications-26a21788f7da
-u https://jnpiyush.medium.com/how-to-use-angular-component-recursively-40591026117f
-u https://medium.com/@aayyash/rxjs-based-state-management-in-angular-part-v-35aef249b7d3
+u 
+u 
 u23 https://www.youtube.com/watch?v=_By0TTKuxWI
 
 m https://open.spotify.com/episode/7CBWO7fhjTnOmyZWR4hdli
