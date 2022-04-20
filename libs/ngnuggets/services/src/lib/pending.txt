@@ -1,27 +1,3 @@
-
-m22 
-m23 
-
-t0? https://dev.to/deepachaurasia1/pipes-in-angular-11-35n0
-t0? https://www.youtube.com/watch?v=Yh53Nz2vB7w
-t0? https://www.youtube.com/watch?v=gEHPdgj8cZw
-t1 https://www.youtube.com/watch?v=U_qjJIWTYEU
-t7 https://www.youtube.com/watch?v=XcFpJDcvmvY
-t7 https://medium.com/@toha.marko/angular-get-control-in-controlvalueaccessor-b7f09a485fba
-t8 https://www.youtube.com/watch?v=1OySjvIyuJs
-t9 https://www.youtube.com/watch?v=4I9zmySbuMA
-https://elmota.com/pagination-with-rxjs-state-and-route-params
-t10 https://www.youtube.com/watch?v=xbk2-z8gY4M
-t10 https://medium.com/javascript-in-plain-english/angular-change-detection-is-no-longer-a-black-box-6c45b1f8e65f
-t11 https://www.youtube.com/watch?v=dD74bhKnlkE
-t11 https://shubham-jain05.medium.com/three-ways-to-set-environment-variables-in-angular-df8608dbfe2f
-t11 https://www.youtube.com/watch?v=X8ORi4dYxK4
-t13 https://dev.to/danywalls/how-caching-data-in-angular-with-rxjs-27mj 
-t14 https://github.com/angular/angular/releases/tag/14.0.0-next.12
-t https://medium.com/@aashu_dubey/list-animation-in-ionic-6-angular-c01930fbf527
-t https://medium.com/google-developer-experts/gde-community-highlight-nishu-goel-c5e00ad63f03
-
-w1 https://medium.com/@matsal.dev/angular-karma-jasmine-testing-image-http-service-975f95b92612
 w3 https://aosolorzano.medium.com/adding-amplify-auth-to-your-ionic-angular-projects-4c8b6337e4e6
 w6 https://www.youtube.com/watch?v=w_ZvzB8LMSQ
 w7 https://www.youtube.com/watch?v=Nczo94Baj3U
@@ -41,6 +17,7 @@ w23 https://pawan-kumawat.medium.com/forkjoin-10e2ddf3e6ca
 w23 https://www.youtube.com/watch?v=dO58BOhPmXM
 w24 https://medium.com/@mailforprasath/how-to-add-cross-field-validation-in-angular-5cca9fc3f431
 w24 https://medium.com/enappd/customizing-ionic-ui-components-css-using-chrome-devtools-80f9fa1e3e29
+https://www.youtube.com/watch?v=pU7-183CasI
 
 r0 https://www.youtube.com/watch?v=XT-PrJZFh28
 r1 https://www.youtube.com/watch?v=e4ttlA9XE2w
@@ -112,3 +89,7 @@ t9 https://www.youtube.com/watch?v=M3vN0hrKgGQ
 t11 https://www.youtube.com/watch?v=lT86nVocIKE
 t18 https://www.youtube.com/watch?v=oTgC_WS3gmA
 t19 https://www.youtube.com/watch?v=QLmyp08-WvA
+
+w2 https://www.youtube.com/watch?v=Bcg58BxI0GM
+w6 https://www.youtube.com/watch?v=WvMxnGfqEis
+w11 https://www.youtube.com/watch?v=NFTNBgpxzw4
