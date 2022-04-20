@@ -1,19 +1,6 @@
 
-u 
-u 
-u23 https://www.youtube.com/watch?v=_By0TTKuxWI
-
-m https://open.spotify.com/episode/7CBWO7fhjTnOmyZWR4hdli
-m5 https://www.youtube.com/watch?v=Kj-lpZf-Skk
-m6 https://www.youtube.com/watch?v=YMsRgC1L96s
-m https://www.spreaker.com/user/14532324/s2e11-nathan-walker-on-innovating?utm_campaign=episode-title&utm_medium=app&utm_source=widget
-m8 https://www.youtube.com/watch?v=j9zMvwUi5Tc
-m8 https://tjhilton.hashnode.dev/implementing-a-custom-angular-location-strategy
-m10 https://www.youtube.com/watch?v=VmdSmeDpW0k
-https://medium.com/@jan.benscheid/mutual-exclusion-using-rxjs-f5f3a11237b7
-m14 https://dev.to/rainerhahnekamp/ng-news-episode-2214-350g
-m22 https://www.youtube.com/watch?v=gG2wjqQsPgo
-m23 https://ramya-bala221190.medium.com/angular-how-can-you-clear-the-references-of-multiple-ag-grid-tables-together-353610b0c126
+m22 
+m23 
 
 t0? https://dev.to/deepachaurasia1/pipes-in-angular-11-35n0
 t0? https://www.youtube.com/watch?v=Yh53Nz2vB7w
