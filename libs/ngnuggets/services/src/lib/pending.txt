@@ -1,13 +1,4 @@
-https://www.youtube.com/watch?v=1dslyLcubGs
-s6 https://www.youtube.com/watch?v=AURP9dsz1wk  
-s7 https://www.youtube.com/watch?v=nc8FBBShlYo
-s12 https://www.youtube.com/watch?v=iIG5vL4AFko 
-s https://medium.com/@danishjibbran_44045/angular-dynamically-resolving-service-based-on-text-enum-value-13cf4bad81a8
-s12 https://dev.to/eneajaho/incremental-static-regeneration-for-angular-34co
-s13 https://www.youtube.com/watch?v=T091il3D5S4 
-s14 https://www.youtube.com/watch?v=FVgaacYNoy0
 
-u https://srikargandhi.medium.com/implementing-authentication-using-aws-cognito-amplify-in-angular-app-76b036f9b495
 u https://medium.com/geekculture/setting-up-a-mock-backend-with-angular-13-applications-26a21788f7da
 u https://jnpiyush.medium.com/how-to-use-angular-component-recursively-40591026117f
 u https://medium.com/@aayyash/rxjs-based-state-management-in-angular-part-v-35aef249b7d3
@@ -128,3 +119,10 @@ m9 https://www.youtube.com/watch?v=OB-XAj6Ef_A
 m10 ang exp https://www.spreaker.com/user/14532324/s2e12-ward-bell-on-how-to-fire-your-boss?utm_campaign=episode-title&utm_medium=app&utm_source=widget
 m13 https://www.youtube.com/watch?v=hbQOiXLYxcc
 m17 https://www.youtube.com/watch?v=14vuFmPAEJw
+m https://www.youtube.com/watch?v=y921lgvICnQ
+
+t7 https://www.youtube.com/watch?v=dADWO1Wh6-4
+t9 https://www.youtube.com/watch?v=M3vN0hrKgGQ
+t11 https://www.youtube.com/watch?v=lT86nVocIKE
+t18 https://www.youtube.com/watch?v=oTgC_WS3gmA
+t19 https://www.youtube.com/watch?v=QLmyp08-WvA
