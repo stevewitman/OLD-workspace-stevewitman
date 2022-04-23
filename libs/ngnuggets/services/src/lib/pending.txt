@@ -1,20 +1,4 @@
-https://www.youtube.com/watch?v=XT-PrJZFh28
-r1 https://www.youtube.com/watch?v=e4ttlA9XE2w
-r1 https://www.youtube.com/watch?v=YrA5TOkthTA
-r7 https://www.youtube.com/watch?v=7Bha85HYwZE
-r7 https://www.youtube.com/watch?v=YNH4wBUZvkA
-r8 https://webrush.io/episodes/episode-179-visual-testing-with-ramona-schwering
-r8 https://dev.to/yuvan11/adding-proxy-config-to-the-single-spa-angular-26hk
-r11 https://www.youtube.com/watch?v=JJedYMmhe-A
-r12 https://www.youtube.com/watch?v=4JUex0GVrYQ
-r12 https://www.youtube.com/watch?v=eufALxdSBdw
-r https://www.thisdot.co/blog/how-to-manage-breakpoints-using-breakpointobserver-in-angular
-r6 freecodecamp ... https://www.freecodecamp.org/news/how-to-use-azure-static-web-apps-to-deploy-angular-app/
-r https://medium.com/@matsal.dev/angular-how-to-use-viewchild-decorator-b30d4c988746
-
-https://medium.com/@mailforprasath/how-to-add-cross-field-validation-in-angular-5cca9fc3f431
-
-f3 https://www.youtube.com/watch?v=d_G0cs1G1Hs
+https://www.youtube.com/watch?v=d_G0cs1G1Hs
 f8 https://dev.to/ankitkumarsharma/component-interaction-in-angular-5cn2
 f8 https://cristopher-coronado.hashnode.dev/deploy-an-angular-app-to-firebase-via-github-actions
 f9 https://www.youtube.com/watch?v=SICYw5sHv8A
