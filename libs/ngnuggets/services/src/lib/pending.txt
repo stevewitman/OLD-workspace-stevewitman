@@ -1,25 +1,4 @@
-w3 https://aosolorzano.medium.com/adding-amplify-auth-to-your-ionic-angular-projects-4c8b6337e4e6
-w6 https://www.youtube.com/watch?v=w_ZvzB8LMSQ
-w7 https://www.youtube.com/watch?v=Nczo94Baj3U
-w8 https://www.youtube.com/watch?v=Mf8uBu0t2Jg
-w9 https://dev.to/seanperkins/ionic-61-dynamically-changing-the-breakpoint-of-a-sheet-modal-55og
-w10 https://www.spreaker.com/user/ng-conf/ap-show-s3e4-what-are-mfes-edit-1
-w11 https://www.youtube.com/watch?v=pAmdyvJ5VNY
-w12 https://arjit.hashnode.dev/making-amazons-card-component-with-angular
-w13 https://github.com/angular/angular/releases/tag/13.3.3
-w13 https://github.com/angular/angular/releases/tag/14.0.0-next.13
-w15 https://dev.to/nx/share-cypress-commands-in-an-nx-workspace-4h71
-w https://medium.com/syncfusion/angular-state-management-with-ngrx-2b47ca57b067
-w15 https://medium.com/@matsal.dev/angular-styling-the-child-component-from-the-parent-component-with-ng-deep-95a2916dab3b
-w https://blog.angular.io/developer-survey-2021-results-38e653cbb36b
-w22 https://sametcelikbicak.com/angular-custom-decorator
-w23 https://pawan-kumawat.medium.com/forkjoin-10e2ddf3e6ca
-w23 https://www.youtube.com/watch?v=dO58BOhPmXM
-w24 https://medium.com/@mailforprasath/how-to-add-cross-field-validation-in-angular-5cca9fc3f431
-w24 https://medium.com/enappd/customizing-ionic-ui-components-css-using-chrome-devtools-80f9fa1e3e29
-https://www.youtube.com/watch?v=pU7-183CasI
-
-r0 https://www.youtube.com/watch?v=XT-PrJZFh28
+https://www.youtube.com/watch?v=XT-PrJZFh28
 r1 https://www.youtube.com/watch?v=e4ttlA9XE2w
 r1 https://www.youtube.com/watch?v=YrA5TOkthTA
 r7 https://www.youtube.com/watch?v=7Bha85HYwZE
@@ -76,20 +55,66 @@ m2 https://www.youtube.com/watch?v=jI-D_FuJTqo
 m3 https://dev.to/rainerhahnekamp/ng-news-episode-2215-bii
 m4 https://www.youtube.com/watch?v=n2Srrl6ZMjQ
 m7 https://www.youtube.com/watch?v=okBqyDZ33L8
-m8 https://www.youtube.com/watch?v=L6dgOQUeiW0
 m9 https://www.youtube.com/watch?v=Hw8OV4kcKgM
 m9 https://www.youtube.com/watch?v=OB-XAj6Ef_A
 m10 ang exp https://www.spreaker.com/user/14532324/s2e12-ward-bell-on-how-to-fire-your-boss?utm_campaign=episode-title&utm_medium=app&utm_source=widget
 m13 https://www.youtube.com/watch?v=hbQOiXLYxcc
 m17 https://www.youtube.com/watch?v=14vuFmPAEJw
 m https://www.youtube.com/watch?v=y921lgvICnQ
+m https://medium.com/@matsal.dev/angular-how-to-create-animation-using-angular-animations-92620d411d8e
+m https://mervyn-manilall.medium.com/creating-a-ci-pipeline-for-angular-91cb24848850
 
 t7 https://www.youtube.com/watch?v=dADWO1Wh6-4
 t9 https://www.youtube.com/watch?v=M3vN0hrKgGQ
+https://medium.com/geekculture/3d-model-three-js-scene-in-angular-7bcbc0d00c31
+https://awstip.com/generic-angular-directive-to-handle-single-and-double-clicks-on-the-same-element-b6300b890964
 t11 https://www.youtube.com/watch?v=lT86nVocIKE
+
+https://medium.com/@mikekucherov92/angular-utilities-init-directive-8dc4e0a4723c
+
 t18 https://www.youtube.com/watch?v=oTgC_WS3gmA
 t19 https://www.youtube.com/watch?v=QLmyp08-WvA
+t https://medium.com/@timgular/ngrx-how-to-deal-with-large-stores-in-angular-227b1e0fe48e
+t https://medium.com/@matsal.dev/angular-how-to-use-hostlistener-9ea8500128a6
 
+w1 https://makesh-kumar.medium.com/directives-in-angular-6160ce805416 
 w2 https://www.youtube.com/watch?v=Bcg58BxI0GM
+w3 https://hasnode.byrayray.dev/typescript-only-allow-a-property-from-interface-as-parameter
 w6 https://www.youtube.com/watch?v=WvMxnGfqEis
+w6 https://www.youtube.com/watch?v=qGomA1TcoCw
+w6 https://medium.com/@media_9518/how-to-fix-ng-command-not-found-in-angular-31eeced14fa4
+w8 https://dev.to/paulmojicatech/domain-driven-design-with-ngrx-104c
+w9 https://www.youtube.com/watch?v=JtV8pkX20EM
+w10 angular show https://www.spreaker.com/user/ng-conf/ap-show-s3e5-joel-denning-single-spa-edi
 w11 https://www.youtube.com/watch?v=NFTNBgpxzw4
+w12 https://www.youtube.com/watch?v=l2GfQ0bKWZc
+w13 https://www.youtube.com/watch?v=NqaIocPooPU
+w13 https://www.youtube.com/watch?v=TezvAHVHQ5c
+w16 https://github.com/angular/angular/releases/tag/13.3.4
+w16 https://github.com/angular/angular/releases/tag/14.0.0-next.14
+w17 https://dev.to/jdgamble555/angular-universal-env-variables-with-webpack-and-dotenv-3i6o
+w18 https://www.youtube.com/watch?v=VG0veoFKX_w
+w18 https://www.youtube.com/watch?v=2zRS6rZXpi4
+w? https://medium.com/@akshathaa/how-to-build-copy-to-clipboard-functionality-in-angular-786b7014231
+w? https://medium.com/@matsal.dev/anguar-how-to-pass-data-object-from-child-to-parent-component-using-output-23086d0d31c0
+
+r1 https://javascript.plainenglish.io/creating-reusable-configurable-angular-components-b7fcba2f5f38
+r7 https://webrush.io/episodes/episode-180-functional-web-apps-with-simon-macdonald
+r8 https://dev.to/androizer/easy-state-management-in-angular-4ln4
+r10 https://www.youtube.com/watch?v=oTObLWih_EA
+r13 https://www.youtube.com/watch?v=YduzAte4Qsc
+r13 https://www.youtube.com/watch?v=xBSbDMV6Qpk
+r13 https://dev.to/scr2em/rxjs-manage-subscriptions-declaratively-3n2m
+r16 https://aosolorzano.medium.com/integrate-aws-graphql-in-your-ionic-angular-applications-using-amplify-fe4678c2060a
+r17 https://www.youtube.com/watch?v=wiBaT83UPVk
+r17 https://medium.com/@jerry.wycoco/passing-data-from-parent-to-child-component-on-button-click-in-angular-bc8583277cdb
+r https://sergeygultyayev.medium.com/rxjs-exhaust-map-what-it-is-and-how-to-use-52e49a67814c
+r22 https://www.youtube.com/watch?v=PAodQqiO59w
+r24 ? https://www.youtube.com/watch?v=psZXU8PTAS8
+
+f2 https://dev.to/madhust/conditionally-lazy-load-modules-in-angular-4l5l
+f4 https://medium.com/@OneSignalDevs/how-to-add-push-notifications-in-angular-b7c150595a15
+f8 https://www.youtube.com/watch?v=Nuh6hTDh31s
+f12 https://www.youtube.com/watch?v=JNgKwqWt5Xk
+f12 https://www.youtube.com/watch?v=vFxmVpU1y6U
+f13 https://www.youtube.com/watch?v=dA1IwRaXbJY

@@ -307,6 +307,7 @@ export const tags = [
   { category: '3rd Party', tag: 'D3' },
   { category: '3rd Party', tag: 'Data Table' },
   { category: '3rd Party', tag: 'Docker' },
+  { category: '3rd Party', tag: 'DevTools' },
   { category: '3rd Party', tag: 'Electron' },
   { category: '3rd Party', tag: 'ExpressJS' },
   { category: '3rd Party', tag: 'Firebase' },
