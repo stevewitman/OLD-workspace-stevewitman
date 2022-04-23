@@ -1,20 +1,4 @@
-https://www.youtube.com/watch?v=d_G0cs1G1Hs
-f8 https://dev.to/ankitkumarsharma/component-interaction-in-angular-5cn2
-f8 https://cristopher-coronado.hashnode.dev/deploy-an-angular-app-to-firebase-via-github-actions
-f9 https://www.youtube.com/watch?v=SICYw5sHv8A
-f9 https://www.youtube.com/watch?v=qRAhe06UhM4
-f9 https://www.youtube.com/watch?v=6Yl9E1RdqJk
-f10 https://www.youtube.com/watch?v=sPvEppxeSSg
-f11 https://www.youtube.com/watch?v=-2ZJOBy07m0
-https://medium.com/@akankshasingh872/rx-js-observables-4b6879c57d27
-f12 https://www.youtube.com/watch?v=W_7SzVLQCDw
-f13 https://www.youtube.com/watch?v=dH8BSEGpaOY
-f15 https://www.youtube.com/watch?v=5kIvgey-_Ow
-f https://www.youtube.com/watch?v=jI8GSJgPrpI
-f18 https://medium.com/@felipebelluco/httpparams-builder-for-angular-f885aa0a68d2
-f23 https://dev.to/signoz/implementing-opentelemetry-in-angular-application-f45
-
-s4 https://www.youtube.com/watch?v=FHk_RwcxJZg
+https://www.youtube.com/watch?v=FHk_RwcxJZg
 s5 https://yurii-k.medium.com/send-data-from-one-application-to-another-in-angular-479ca163f90a
 s6 https://dev.to/deepakjaiswal/use-http-interceptor-in-angular-for-every-http-request-7lo
 s6 https://www.youtube.com/watch?v=NDCJriGKgpI
@@ -102,3 +86,9 @@ f8 https://www.youtube.com/watch?v=Nuh6hTDh31s
 f12 https://www.youtube.com/watch?v=JNgKwqWt5Xk
 f12 https://www.youtube.com/watch?v=vFxmVpU1y6U
 f13 https://www.youtube.com/watch?v=dA1IwRaXbJY
+
+s4 https://www.youtube.com/watch?v=QV5YtczsorY
+s6 https://www.youtube.com/watch?v=clQBF5Vc3MI
+s9 https://www.youtube.com/watch?v=HcoXpdRecro
+s9 https://www.youtube.com/watch?v=0RHitUhjtKQ
+s10 https://www.youtube.com/watch?v=pP_ldsQe7oQ
