@@ -234,6 +234,7 @@ export const tags = [
   { category: 'Angular-Material', tag: 'Infinite Scroll' },
   { category: 'Angular-Material', tag: 'Portals' },
   { category: 'Angular-Material', tag: 'Progress' },
+  { category: 'Angular-Material', tag: 'Sidenav' },
   { category: 'Angular-Material', tag: 'Slider' },
   { category: 'Angular-Material', tag: 'Spinner' },
   { category: 'Angular-Material', tag: 'Tabs' },

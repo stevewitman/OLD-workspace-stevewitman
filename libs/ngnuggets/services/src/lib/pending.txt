@@ -1,12 +1,4 @@
-https://www.youtube.com/watch?v=FHk_RwcxJZg
-s5 https://yurii-k.medium.com/send-data-from-one-application-to-another-in-angular-479ca163f90a
-s6 https://dev.to/deepakjaiswal/use-http-interceptor-in-angular-for-every-http-request-7lo
-s6 https://www.youtube.com/watch?v=NDCJriGKgpI
-s12 https://www.youtube.com/watch?v=8lAshoofGfg
-https://medium.com/@solisarg/reactive-programming-in-angular-acdd369a7155
-s15 https://medium.com/@anassguendef/angular-build-once-deploy-everywhere-9dfb698e781e
-
-u1 https://madhuwanthiaah.medium.com/graphql-api-service-unit-testing-17bce2ab57a1
+https://madhuwanthiaah.medium.com/graphql-api-service-unit-testing-17bce2ab57a1
 u7 https://www.youtube.com/watch?v=zzILpCTH-3I
 u7 https://www.youtube.com/watch?v=hlOsH8jfzb4
 u9 https://www.youtube.com/watch?v=vhifD4o1nUE
@@ -86,9 +78,15 @@ f8 https://www.youtube.com/watch?v=Nuh6hTDh31s
 f12 https://www.youtube.com/watch?v=JNgKwqWt5Xk
 f12 https://www.youtube.com/watch?v=vFxmVpU1y6U
 f13 https://www.youtube.com/watch?v=dA1IwRaXbJY
+f https://medium.com/@teslenkooleg2017/dark-light-mode-in-angular-cc78c9a7bca5
+f? https://medium.com/@ConorJonOReilly/angular-styling-e6f145b13a2a
 
+s1 https://www.youtube.com/watch?v=IuULsUZBgas
 s4 https://www.youtube.com/watch?v=QV5YtczsorY
 s6 https://www.youtube.com/watch?v=clQBF5Vc3MI
 s9 https://www.youtube.com/watch?v=HcoXpdRecro
 s9 https://www.youtube.com/watch?v=0RHitUhjtKQ
 s10 https://www.youtube.com/watch?v=pP_ldsQe7oQ
+s14 https://www.youtube.com/watch?v=4n5PdpBjBEM
+s16 https://www.youtube.com/watch?v=d3qFkQcYJQE
+s21 https://www.youtube.com/watch?v=jaP1SX33uYQ
