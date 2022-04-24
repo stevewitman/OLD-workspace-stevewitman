@@ -1,12 +1,7 @@
-https://madhuwanthiaah.medium.com/graphql-api-service-unit-testing-17bce2ab57a1
-u7 https://www.youtube.com/watch?v=zzILpCTH-3I
-u7 https://www.youtube.com/watch?v=hlOsH8jfzb4
-u9 https://www.youtube.com/watch?v=vhifD4o1nUE
-u9 https://www.youtube.com/watch?v=Q8Bjmkiqe9Q
-u11 https://www.youtube.com/watch?v=_CX9_-BDzR8
-u https://elmota.com/gtm-tracking-service-in-angular
-u22 https://www.youtube.com/watch?v=iyiuPavI6UQ
-https://medium.com/geekculture/angular-easy-trick-to-pass-dynamic-data-to-a-nested-child-ng-template-without-using-e1a88d6bceb7
+
+u 
+u22 
+
 
 https://dev.to/eluminoustech/how-to-make-angular-websites-seo-friendly-with-angular-ssr-1n84
 https://medium.com/enappd/socket-io-with-ionic-5-angular-application-5a61e3968731
