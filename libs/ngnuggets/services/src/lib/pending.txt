@@ -1,24 +1,4 @@
 
-u 
-u22 
-
-
-https://dev.to/eluminoustech/how-to-make-angular-websites-seo-friendly-with-angular-ssr-1n84
-https://medium.com/enappd/socket-io-with-ionic-5-angular-application-5a61e3968731
-m1 https://blog.adnanebrahimi.com/how-to-switch-between-angular-ssr-or-csr-based-on-detecting-user-agent
-m2 https://www.youtube.com/watch?v=jI-D_FuJTqo
-m3 https://dev.to/rainerhahnekamp/ng-news-episode-2215-bii
-m4 https://www.youtube.com/watch?v=n2Srrl6ZMjQ
-m7 https://www.youtube.com/watch?v=okBqyDZ33L8
-m9 https://www.youtube.com/watch?v=Hw8OV4kcKgM
-m9 https://www.youtube.com/watch?v=OB-XAj6Ef_A
-m10 ang exp https://www.spreaker.com/user/14532324/s2e12-ward-bell-on-how-to-fire-your-boss?utm_campaign=episode-title&utm_medium=app&utm_source=widget
-m13 https://www.youtube.com/watch?v=hbQOiXLYxcc
-m17 https://www.youtube.com/watch?v=14vuFmPAEJw
-m https://www.youtube.com/watch?v=y921lgvICnQ
-m https://medium.com/@matsal.dev/angular-how-to-create-animation-using-angular-animations-92620d411d8e
-m https://mervyn-manilall.medium.com/creating-a-ci-pipeline-for-angular-91cb24848850
-
 t7 https://www.youtube.com/watch?v=dADWO1Wh6-4
 t9 https://www.youtube.com/watch?v=M3vN0hrKgGQ
 https://medium.com/geekculture/3d-model-three-js-scene-in-angular-7bcbc0d00c31
@@ -80,8 +60,19 @@ s1 https://www.youtube.com/watch?v=IuULsUZBgas
 s4 https://www.youtube.com/watch?v=QV5YtczsorY
 s6 https://www.youtube.com/watch?v=clQBF5Vc3MI
 s9 https://www.youtube.com/watch?v=HcoXpdRecro
+V V V
 s9 https://www.youtube.com/watch?v=0RHitUhjtKQ
 s10 https://www.youtube.com/watch?v=pP_ldsQe7oQ
 s14 https://www.youtube.com/watch?v=4n5PdpBjBEM
+V V V
 s16 https://www.youtube.com/watch?v=d3qFkQcYJQE
 s21 https://www.youtube.com/watch?v=jaP1SX33uYQ
+s https://medium.com/@radhika.inguva/get-rid-of-cors-origin-or-resource-sharing-error-spring-boot-angular-e8ea7b5989e2
+s https://suneetbansal.medium.com/angular-expressionchangedafterithasbeencheckederror-lets-see-why-it-comes-and-how-can-fix-it-22fc905ee01e
+s https://pawan-kumawat.medium.com/angular-dependency-injection-in-lazy-modules-cfb8b777adff
+
+
+u9 https://www.youtube.com/watch?v=w8mw7xlhi9Y
+u10 https://dev.to/shivamd20/angulars-di-can-make-your-components-smarter-5h16
+u13 https://www.youtube.com/watch?v=r7Ji5MC06is
+u21 https://www.youtube.com/watch?v=4uye597g5Bc

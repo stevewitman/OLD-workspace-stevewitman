@@ -101,6 +101,8 @@ export const tags = [
   { category: 'Angular', tag: 'ngTemplateOutlet' },
   { category: 'Angular', tag: 'ngTemplateOutletInjector' },
   { category: 'Angular', tag: 'onPush' },
+  { category: 'Angular', tag: 'patchValue' },
+  { category: 'Angular', tag: 'setValue' },
   { category: 'Angular', tag: 'String Interpolation' },
   { category: 'Angular', tag: 'trackBy' },
   { category: 'Angular', tag: 'useFactory' },
