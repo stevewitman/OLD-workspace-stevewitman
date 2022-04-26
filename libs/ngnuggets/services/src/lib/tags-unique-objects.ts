@@ -189,6 +189,7 @@ export const tags = [
   { category: 'Misc', tag: 'Skeletons' },
   { category: 'Misc', tag: 'State Management' },
   { category: 'Misc', tag: 'Styles' },
+  { category: 'Misc', tag: 'Webpack' },
   { category: 'Misc', tag: 'Web Components' },
   { category: 'Misc', tag: 'Web Sockets' },
   { category: 'Misc', tag: 'Web Workers' },

@@ -1,25 +1,4 @@
-  https://makesh-kumar.medium.com/directives-in-angular-6160ce805416 
-w2 https://www.youtube.com/watch?v=Bcg58BxI0GM
-w3 https://hasnode.byrayray.dev/typescript-only-allow-a-property-from-interface-as-parameter
-w6 https://www.youtube.com/watch?v=WvMxnGfqEis
-w6 https://www.youtube.com/watch?v=qGomA1TcoCw
-w6 https://medium.com/@media_9518/how-to-fix-ng-command-not-found-in-angular-31eeced14fa4
-w8 https://dev.to/paulmojicatech/domain-driven-design-with-ngrx-104c
-w9 https://www.youtube.com/watch?v=JtV8pkX20EM
-w10 angular show https://www.spreaker.com/user/ng-conf/ap-show-s3e5-joel-denning-single-spa-edi
-w11 https://www.youtube.com/watch?v=NFTNBgpxzw4
-w12 https://www.youtube.com/watch?v=l2GfQ0bKWZc
-w13 https://www.youtube.com/watch?v=NqaIocPooPU
-w13 https://www.youtube.com/watch?v=TezvAHVHQ5c
-w16 https://github.com/angular/angular/releases/tag/13.3.4
-w16 https://github.com/angular/angular/releases/tag/14.0.0-next.14
-w17 https://dev.to/jdgamble555/angular-universal-env-variables-with-webpack-and-dotenv-3i6o
-w18 https://www.youtube.com/watch?v=VG0veoFKX_w
-w18 https://www.youtube.com/watch?v=2zRS6rZXpi4
-w? https://medium.com/@akshathaa/how-to-build-copy-to-clipboard-functionality-in-angular-786b7014231
-w? https://medium.com/@matsal.dev/anguar-how-to-pass-data-object-from-child-to-parent-component-using-output-23086d0d31c0
-
-r1 https://javascript.plainenglish.io/creating-reusable-configurable-angular-components-b7fcba2f5f38
+https://javascript.plainenglish.io/creating-reusable-configurable-angular-components-b7fcba2f5f38
 r7 https://webrush.io/episodes/episode-180-functional-web-apps-with-simon-macdonald
 r8 https://dev.to/androizer/easy-state-management-in-angular-4ln4
 r10 https://www.youtube.com/watch?v=oTObLWih_EA
