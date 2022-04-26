@@ -1,18 +1,4 @@
-
-t7 https://www.youtube.com/watch?v=dADWO1Wh6-4
-t9 https://www.youtube.com/watch?v=M3vN0hrKgGQ
-https://medium.com/geekculture/3d-model-three-js-scene-in-angular-7bcbc0d00c31
-https://awstip.com/generic-angular-directive-to-handle-single-and-double-clicks-on-the-same-element-b6300b890964
-t11 https://www.youtube.com/watch?v=lT86nVocIKE
-
-https://medium.com/@mikekucherov92/angular-utilities-init-directive-8dc4e0a4723c
-
-t18 https://www.youtube.com/watch?v=oTgC_WS3gmA
-t19 https://www.youtube.com/watch?v=QLmyp08-WvA
-t https://medium.com/@timgular/ngrx-how-to-deal-with-large-stores-in-angular-227b1e0fe48e
-t https://medium.com/@matsal.dev/angular-how-to-use-hostlistener-9ea8500128a6
-
-w1 https://makesh-kumar.medium.com/directives-in-angular-6160ce805416 
+  https://makesh-kumar.medium.com/directives-in-angular-6160ce805416 
 w2 https://www.youtube.com/watch?v=Bcg58BxI0GM
 w3 https://hasnode.byrayray.dev/typescript-only-allow-a-property-from-interface-as-parameter
 w6 https://www.youtube.com/watch?v=WvMxnGfqEis
@@ -76,3 +62,19 @@ u9 https://www.youtube.com/watch?v=w8mw7xlhi9Y
 u10 https://dev.to/shivamd20/angulars-di-can-make-your-components-smarter-5h16
 u13 https://www.youtube.com/watch?v=r7Ji5MC06is
 u21 https://www.youtube.com/watch?v=4uye597g5Bc
+
+m1 https://senoritadeveloper.medium.com/cancellable-multiple-file-upload-progress-in-angular-a61d76dcd59d
+m2 https://dev.to/bwca/override-method-return-with-a-decorator-1bii
+m4 https://dev.to/suicodave/create-a-list-of-employees-with-angular-51em
+m5 https://www.youtube.com/watch?v=0UL2pXCrO_A
+m6 https://dev.to/mmuscat/render-as-you-fetch-with-angular-lifecycle-hooks-396i
+m7 https://dev.to/oyemade/improve-performance-in-an-angular-app-using-brotli-and-gzip-text-compression-2p1e
+m7 https://sergeygultyayev.medium.com/debugging-angular-applications-9128d5a5c13c
+m8 https://www.youtube.com/watch?v=tNpbJekbwaQ
+m8 angular exp https://www.spreaker.com/user/14532324/s2e13-chau-tran-tale-of-a-vietnamese-imm?utm_campaign=episode-title&utm_medium=app&utm_source=widget
+m8 https://www.youtube.com/watch?v=9ZFXXMFSs8A
+m8 https://elmota.com/gtm-tracking-service-in-angular-part-ii
+m9 https://senoritadeveloper.medium.com/useful-tools-for-angular-upgrade-ef894cc5ef50
+m10 https://dev.to/angular/understanding-async-tests-in-angular-f8n
+m13 https://www.youtube.com/watch?v=aDHjhB60j5Q  
+m15 https://dev.to/rainerhahnekamp/ng-news-episode-2216-2m00 
