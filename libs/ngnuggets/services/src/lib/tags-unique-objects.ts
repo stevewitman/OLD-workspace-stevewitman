@@ -31,6 +31,7 @@ export const tags = [
   { category: 'Angular', tag: 'ElementRef' },
   { category: 'Angular', tag: 'Environments' },
   { category: 'Angular', tag: 'EventEmitter' },
+  { category: 'Angular', tag: 'ExpressionChangedAfterItHasBeenCheckedError' },
   { category: 'Angular', tag: 'Form Builder' },
   { category: 'Angular', tag: 'Forms' },
   { category: 'Angular', tag: 'HttpClient' },
