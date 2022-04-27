@@ -1,4 +1,4 @@
-https://javascript.plainenglish.io/creating-reusable-configurable-angular-components-b7fcba2f5f38
+
 r7 https://webrush.io/episodes/episode-180-functional-web-apps-with-simon-macdonald
 r8 https://dev.to/androizer/easy-state-management-in-angular-4ln4
 r10 https://www.youtube.com/watch?v=oTObLWih_EA
