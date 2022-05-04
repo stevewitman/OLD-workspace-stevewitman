@@ -105,6 +105,7 @@ export const tags = [
   { category: 'Angular', tag: 'onPush' },
   { category: 'Angular', tag: 'patchValue' },
   { category: 'Angular', tag: 'removeAt' },
+  { category: 'Angular', tag: 'resolve' },
   { category: 'Angular', tag: 'setTitle' },
   { category: 'Angular', tag: 'setValue' },
   { category: 'Angular', tag: 'String Interpolation' },

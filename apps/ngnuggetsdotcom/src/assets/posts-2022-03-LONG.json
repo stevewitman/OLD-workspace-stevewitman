@@ -11691,5 +11691,94 @@
         "tags": ["Lazy Loading"]
       }
     ]
+  },
+  {
+    "date": "2022-05-01",
+    "dailyPosts": [
+      {
+        "slug": "2022-05-01-A",
+        "type": "blog",
+        "title": "ViewportScroller service in angular",
+        "url": "https://singh-prateek.medium.com/viewportscroller-service-in-angular-5d6f0bc32295",
+        "description": "In angular ViewportScoller service could be used for adjusting scroll position on the page or disable scroll on the page.",
+        "datePosted": "2022-05-01",
+        "dateSource": "2022-05-01",
+        "postedBy": "Steve Witman",
+        "sourceSite": "Medium",
+        "sourceUrl": "https://medium.com/tag/angular/latest",
+        "authorName": "Prateek Singh",
+        "authorUrl": "https://singh-prateek.medium.com",
+        "speakers": ["Prateek Singh"],
+        "tags": []
+      },
+      {
+        "slug": "2022-05-01-B",
+        "type": "video",
+        "duration": "11",
+        "title": "Angular Material #45 - CDK Drag and Drop",
+        "url": "https://www.youtube.com/watch?v=N2O_k5PMeTk",
+        "description": "Angular Material is a UI Component-Based Library for Angular, and through this series, we will take a look into each feature that Angular Material has to offer.",
+        "datePosted": "2022-05-01",
+        "dateSource": "2022-05-01",
+        "postedBy": "Steve Witman",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "Omerko",
+        "authorUrl": "https://www.youtube.com/c/Omerko/videos",
+        "speakers": ["Stefan Omerovic"],
+        "tags": ["Angular CDK", "Drag and Drop"]
+      },
+      {
+        "slug": "2022-05-01-C",
+        "type": "video",
+        "duration": "116",
+        "title": "Angular Community Meetup | April 2022 | Madleina Scheidegger, Brenden Niedermeyer, & Dave Shevitz",
+        "url": "https://www.youtube.com/watch?v=gYBe479nDeA",
+        "description": "This month's Angular Community Meetup featured:\nMadleina Scheidegger - A Peek into the Angular Team\nBrenden Niedermeyer - Trusting the Robot: Using the power of Git to automate your releases\nDave Shevitz - Getting the Right Docs Written: The Life of a Technical Writer",
+        "datePosted": "2022-05-01",
+        "dateSource": "2022-05-01",
+        "postedBy": "Steve Witman",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "ng-conf",
+        "authorUrl": "https://www.youtube.com/c/ngconfonline/videos",
+        "speakers": ["Madleina Scheidegger", "Brenden Niedermeyer", "Dave Shevitz"],
+        "tags": []
+      },
+      {
+        "slug": "2022-05-01-D",
+        "type": "video",
+        "duration": "126",
+        "title": "Angular Course | Consuming API's with Angular",
+        "url": "https://www.youtube.com/watch?v=05mhsj4XPso",
+        "description": "Use Angular to consume API's and build applications using available API's. Integrate with RxJs, Resolvers, Map API Integration, etc.",
+        "datePosted": "2022-05-01",
+        "dateSource": "2022-05-01",
+        "postedBy": "Steve Witman",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "Get Arrays",
+        "authorUrl": "https://www.youtube.com/c/GetArrays/videos",
+        "speakers": [],
+        "tags": ["RxJS", "resolve"]
+      },
+      {
+        "slug": "2022-05-01-E",
+        "type": "video",
+        "duration": "17",
+        "title": "Complete Angular and Firebase Tutorial | Using Firebase as Database and Backend | Part 2",
+        "url": "https://www.youtube.com/watch?v=nw8b9Mxs8FA",
+        "description": "Let's use Firebase's Realtime Database as our backend for the Angular App. This not only provides us with an API but also provides us with a database to do CRUD operations.",
+        "datePosted": "2022-05-01",
+        "dateSource": "2022-05-01",
+        "postedBy": "Steve Witman",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "Kritika & Pranav Programmer Couple",
+        "authorUrl": "https://www.youtube.com/channel/UCCDDZ73SMXb3xp-hjMHngXg/videos",
+        "speakers": [],
+        "tags": ["Firebase"]
+      }
+    ]
   }
 ]
