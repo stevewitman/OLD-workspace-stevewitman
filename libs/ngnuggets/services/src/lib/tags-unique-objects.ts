@@ -279,6 +279,7 @@ export const tags = [
   { category: 'RxJS', tag: 'combineLatest' },
   { category: 'RxJS', tag: 'combineLatestAll' },
   { category: 'RxJS', tag: 'complete' },
+  { category: 'RxJS', tag: 'concat' },
   { category: 'RxJS', tag: 'concatMap' },
   { category: 'RxJS', tag: 'concatAll' },
   { category: 'RxJS', tag: 'debounceTime' },
