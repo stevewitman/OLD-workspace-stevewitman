@@ -10557,7 +10557,7 @@
         "speakers": ["Fabio Biondi"],
         "tags": ["HttpClient", "Async Pipe"]
       }
-          ]
+    ]
   },
   {
     "date": "2022-04-25",
@@ -10806,6 +10806,129 @@
         "authorUrl": "https://dev.to/rainerhahnekamp",
         "speakers": ["Rainer Hahnekamp"],
         "tags": []
+      }
+    ]
+  },
+  {
+    "date": "2022-04-26",
+    "dailyPosts": [
+      {
+        "slug": "2022-04-26-A",
+        "type": "video",
+        "duration": "7",
+        "title": "8: Multiple Page Layouts | .NET 6 | Angular 13 | VS Code",
+        "url": "https://www.youtube.com/watch?v=mpwPVNNO2d8",
+        "description": "In this video we walk through having different shared page layouts that can be changed depending on the path.",
+        "datePosted": "2022-04-26",
+        "dateSource": "2022-04-26",
+        "postedBy": "Steve Witman",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "sb-dan",
+        "authorUrl": "https://www.youtube.com/channel/UCNWQDb7OqeYpXMonEMhqACw/videos",
+        "speakers": [],
+        "tags": []
+      },
+      {
+        "slug": "2022-04-26-B",
+        "type": "video",
+        "duration": "21",
+        "title": "Update data with HTTP Put Request | Angular HTTP | Angular 13+",
+        "url": "https://www.youtube.com/watch?v=ASFZsGJ5ZuE",
+        "description": "In this lecture you are going to learn how to update data in the database by making an HTTP put request from the Angular application. To update data in the server, we need to send an HTTP put request to the server.",
+        "datePosted": "2022-04-26",
+        "dateSource": "2022-04-26",
+        "postedBy": "Steve Witman",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "procademy",
+        "authorUrl": "https://www.youtube.com/c/procademyn/videos",
+        "speakers": [],
+        "tags": ["HttpClient"]
+      },
+      {
+        "slug": "2022-04-26-C",
+        "type": "video",
+        "duration": "116",
+        "title": "Angular World Tour: Tel Aviv",
+        "url": "https://youtu.be/3PLBuZdfyKs?t=53",
+        "description": "",
+        "datePosted": "2022-04-26",
+        "dateSource": "2022-04-26",
+        "postedBy": "Steve Witman",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "This Dot Media",
+        "authorUrl": "https://www.youtube.com/c/ThisDotMedia/videos",
+        "speakers": ["Emma Twersky", "Tracy Lee", "Meital Valenci"],
+        "tags": ["Testing"]
+      },             
+      {
+        "slug": "2022-04-26-D",
+        "type": "blog",
+        "duration": "",
+        "title": "Angular Basics: Keep Track of Incoming Data With the Angular TrackBy Method",
+        "url": "https://www.telerik.com/blogs/angular-basics-keep-track-incoming-data-angular-trackby-method",
+        "description": "Today we will look at the trackBy directive and how to use it to improve the performance and speed of our apps.",
+        "datePosted": "2022-04-26",
+        "dateSource": "2022-04-26",
+        "postedBy": "Steve Witman",
+        "sourceSite": "Progress Telerik Blog",
+        "sourceUrl": "https://www.telerik.com/blogs/web-angular",
+        "authorName": "Dany Paredes",
+        "authorUrl": "https://www.telerik.com/blogs/author/dany-paredes",
+        "speakers": ["Dany Paredes"],
+        "tags": ["trackBy", "Performance"]
+      },
+      {
+        "slug": "2022-04-26-E",
+        "type": "video",
+        "duration": "27",
+        "title": "Reactive Forms with Validation In Angular | Reactive Forms | Validation Angular | Custom Validators",
+        "url": "https://www.youtube.com/watch?v=FqjHBgActDU",
+        "description": "Reactive Forms with Validation In Angular, How to use Reactive forms with validation in Angular, How to Create Custom validators for Password comparison.",
+        "datePosted": "2022-04-26",
+        "dateSource": "2022-04-26",
+        "postedBy": "Steve Witman",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "Dvcoding",
+        "authorUrl": "https://www.youtube.com/channel/UC8sCsPx24gcZ66GsuRAqMsw/videos",
+        "speakers": [],
+        "tags": ["Forms", "Reactive Forms", "FormGroup", "Validation", "Custom"]
+      },
+      {
+        "slug": "2022-04-26-F",
+        "type": "blog",
+        "title": "How to test Angular schematics?",
+        "url": "https://dev.to/znikola/how-to-test-angular-schematics-2h05",
+        "description": "Schematics are a set of instructions for transforming a software project by generating or modifying code. Source: Angular docs\n\nThe information about Angular schematics on the Internet is a bit scarce, making the testing a necessary tool for every developer writing them.",
+        "datePosted": "2022-04-26",
+        "dateSource": "2022-04-26",
+        "postedBy": "Steve Witman",
+        "sourceSite": "DEV Community",
+        "sourceUrl": "https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc",
+        "authorName": "Nikola Zarić",
+        "authorUrl": "",
+        "speakers": ["Nikola Zaric"],
+        "tags": ["Testing", "Schematics"]
+      },
+      {
+        "slug": "2022-04-26-G",
+        "type": "video",
+        "duration": "63",
+        "title": "Full setup of Angular Auth - Angular Tutorial - Angular Tutorial for beginners",
+        "url": "https://www.youtube.com/watch?v=iTup68s-k6I",
+        "description": "This video will cover the full setup of your authentication code in your Angular app.",
+        "datePosted": "2022-04-26",
+        "dateSource": "2022-04-26",
+        "postedBy": "Steve Witman",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "FlippinBitz",
+        "authorUrl": "https://www.youtube.com/channel/UCXTbrgh_BVEyXxrX2ITSnbw/videos",
+        "speakers": [],
+        "tags": ["Auth"]
       }
     ]
   }
