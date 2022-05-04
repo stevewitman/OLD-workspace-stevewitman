@@ -239,6 +239,7 @@ export const tags = [
   { category: 'Angular-Material', tag: 'Dialog' },
   { category: 'Angular-Material', tag: 'Drag and Drop' },
   { category: 'Angular-Material', tag: 'Infinite Scroll' },
+  { category: 'Angular-Material', tag: 'Overlay' },
   { category: 'Angular-Material', tag: 'Portals' },
   { category: 'Angular-Material', tag: 'Progress' },
   { category: 'Angular-Material', tag: 'Sidenav' },
