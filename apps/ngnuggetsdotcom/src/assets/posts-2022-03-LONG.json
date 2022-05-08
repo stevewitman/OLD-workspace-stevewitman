@@ -12573,5 +12573,111 @@
         "tags": ["RxJS", "Subscriptions", "Async Pipe"]
       }
     ]
+  },
+  {
+    "date": "2022-05-06",
+    "dailyPosts": [
+      {
+        "slug": "2022-05-06-A",
+        "type": "video",
+        "duration": "80",
+        "title": "Day 4 Angular Module & Meta Data",
+        "url": "https://www.youtube.com/watch?v=DG8I9oo_tfk",
+        "description": "Angular Complete Course: In this playlist, I will explain to you everything you need to get started with the Angular framework.",
+        "datePosted": "2022-05-06",
+        "dateSource": "2022-05-05",
+        "postedBy": "Steve Witman",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "Livepure Techonlogy",
+        "authorUrl": "https://www.youtube.com/channel/UCtu5ZE6cdEBx-7eZGCE4P3Q/videos",
+        "speakers": [],
+        "tags": []
+      },
+      {
+        "slug": "2022-05-06-B",
+        "type": "video",
+        "duration": "5",
+        "title": "Generating CompoDoc for the Angular Todo Application",
+        "url": "https://www.youtube.com/watch?v=E1DLAeW0sIo",
+        "description": "In this guide we will generate CompoDoc for our Angular Todo Application.",
+        "datePosted": "2022-05-06",
+        "dateSource": "2022-05-05",
+        "postedBy": "Steve Witman",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "Firefly Semantics Media",
+        "authorUrl": "https://www.youtube.com/channel/UCwU64qy-66Ivm81OzRvjgXw/videos",
+        "speakers": [],
+        "tags": []
+      },
+      {
+        "slug": "2022-05-06-C",
+        "type": "video",
+        "duration": "5",
+        "title": "Async Pipe | Angular - Hero to Superhero",
+        "url": "https://www.youtube.com/watch?v=e2c6wNaG6uM",
+        "description": "",
+        "datePosted": "2022-05-06",
+        "dateSource": "2022-05-06",
+        "postedBy": "Steve Witman",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "WebTechTalk",
+        "authorUrl": "https://www.youtube.com/c/WebTechTalk/videos",
+        "speakers": [],
+        "tags": ["Async Pipe"]
+      },
+      {
+        "slug": "2022-05-06-D",
+        "type": "podcast",
+        "duration": "40",
+        "title": "Template Driven Approach vs. Reactive Form Approach with Hossein Mousavi - AiA 346",
+        "url": "https://adventuresinangular.com/template-driven-approach-vs-reactive-form-approach-with-hossein-mousavi-aia-346",
+        "description": "Hossein Mousavi shares his methodology to Angular form by presenting his template driven approach vs. reactive form approach. They also discuss the differences between form control, form group, and form array, and how you can build upon the elements within Angular through modular patterns and object-oriented project paradigms.",
+        "datePosted": "2022-05-06",
+        "dateSource": "2022-05-05",
+        "postedBy": "Steve Witman",
+        "sourceSite": "DevChat.tv",
+        "sourceUrl": "https://adventuresinangular.com",
+        "authorName": "Adventures In Angular",
+        "authorUrl": "https://devchat.tv/show/adventures-in-angular/",
+        "speakers": ["Hossein Mousavi"],
+        "tags": ["Forms", "Template Driven Forms", "Reactive Forms"]
+      },
+      {
+        "slug": "2022-05-06-E",
+        "type": "video",
+        "duration": "65",
+        "title": "Gaming and Q/A with the Angular Team | May 2022",
+        "url": "https://youtu.be/au1wml8-xVc?t=25",
+        "description": "Hang with the Angular team with a VERY special guest from the Firebase Team.",
+        "datePosted": "2022-05-06",
+        "dateSource": "2022-05-06",
+        "postedBy": "Steve Witman",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "Angular",
+        "authorUrl": "https://www.youtube.com/c/Angular/videos",
+        "speakers": ["Mark Thompson", "Jeremy Elbourn", "David East"],
+        "tags": ["Firebase"]
+      },
+      {
+        "slug": "2022-05-06-F",
+        "type": "blog",
+        "title": "Angular: Workspace and application configuration files",
+        "url": "https://medium.com/@matsal.dev/angular-workspace-and-application-configuration-files-3b02b07f7126",
+        "description": "After creating a new application using the Angular framework, not only the source files appear in our application folder. In addition to them, configuration files have also been created that play a very important role, although usually little is mentioned about them. If you are curious about what they are for, this article is for you.",
+        "datePosted": "2022-05-06",
+        "dateSource": "2022-05-06",
+        "postedBy": "Steve Witman",
+        "sourceSite": "Medium",
+        "sourceUrl": "https://medium.com/tag/angular/latest",
+        "authorName": "Matsal Dev",
+        "authorUrl": "https://medium.com/@matsal.dev",
+        "speakers": [],
+        "tags": ["Configuration"]
+      }
+    ]
   }
 ]
