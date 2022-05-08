@@ -629,7 +629,7 @@
       },
       {
         "slug": "2022-02-04-H",
-        "type": "podcast",
+        "type": "video",
         "duration": "59",
         "title": "AngularAir - Building a Hackathon Game with Angular with Ahsan Ayaz",
         "url": "https://www.youtube.com/watch?v=jkPuoUkhqN0",
@@ -4854,7 +4854,7 @@
       },
       {
         "slug": "2022-02-25-G",
-        "type": "podcast",
+        "type": "video",
         "duration": "58",
         "title": "AngularAir - Tools that help to speed up frontend development with Maria Korneeva",
         "url": "https://www.youtube.com/watch?v=K3I9CtrmdKE",
