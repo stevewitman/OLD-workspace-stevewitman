@@ -12782,5 +12782,110 @@
         "tags": ["Angular Material"]
       }
     ]
+  },
+  {
+    "date": "2022-05-08",
+    "dailyPosts": [
+      {
+        "slug": "2022-05-08-A",
+        "type": "blog",
+        "title": "How to add resolver in Angular",
+        "url": "https://xebec19.medium.com/how-to-add-resolver-in-angular-7ca343f51452",
+        "description": "Navigation is an important aspect that affects the user experience for a web app. Resolver is one such tool that helps us to improve navigation by prefetching some of the data when the user is navigating from one route to another.\n\n(Photo by Benjamin Dada on Unsplash)",
+        "datePosted": "2022-05-08",
+        "dateSource": "2022-05-08",
+        "postedBy": "Steve Witman",
+        "sourceSite": "Medium",
+        "sourceUrl": "https://medium.com/tag/angular/latest",
+        "authorName": "Rohan Kumar Thakur",
+        "authorUrl": "https://xebec19.medium.com",
+        "speakers": ["Rohan Kumar Thakur"],
+        "tags": ["Routing", "resolve"]
+      },
+      {
+        "slug": "2022-05-08-B",
+        "type": "video",
+        "duration": "34",
+        "title": "How to create a tree node using Angular",
+        "url": "https://www.youtube.com/watch?v=haoHd2Ei1tA",
+        "description": "",
+        "datePosted": "2022-05-08",
+        "dateSource": "2022-05-08",
+        "postedBy": "Steve Witman",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "Chaby's Tech",
+        "authorUrl": "https://www.youtube.com/channel/UChPak4wt47Rb-xpUhrxzjNw/videos ",
+        "speakers": [],
+        "tags": []
+      },
+      {
+        "slug": "2022-05-08-C",
+        "type": "video",
+        "duration": "19",
+        "title": "Angular 13 ngx-file-drop Example to Drag and Drop Multiple Files to Upload to Server in TypeScript",
+        "url": "https://www.youtube.com/watch?v=hoUZYanvJeo",
+        "description": "",
+        "datePosted": "2022-05-08",
+        "dateSource": "2022-05-08",
+        "postedBy": "Steve Witman",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+       "authorName": "Coding Shiksha",
+        "authorUrl": "https://www.youtube.com/c/CodingShiksha/videos",
+        "speakers": ["Gautam Sharma"],
+        "tags": ["Drag and Drop"]
+      },
+      {
+        "slug": "2022-05-08-D",
+        "type": "video",
+        "duration": "37",
+        "title": "Angular Routing Guards",
+        "url": "https://www.youtube.com/watch?v=5eAFo5csYtw",
+        "description": "In this knolx session, we will; earn about the Angular routing guards, different types of routing guards and how to build the guards in Angular",
+        "datePosted": "2022-05-08",
+        "dateSource": "2022-05-08",
+        "postedBy": "Steve Witman",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "Knoldus Inc.",
+        "authorUrl": "https://www.youtube.com/c/Knoldus/videos",
+        "speakers": [],
+        "tags": ["Routing", "Route Guards"]
+      },
+      {
+        "slug": "2022-05-08-E",
+        "type": "blog",
+        "title": "How to Create a Dynamic Layout using a Named Router Outlet in Angular",
+        "url": "https://medium.com/@oranaki9910/how-to-create-a-dynamic-layout-using-a-named-router-outlet-in-angular-8f211afe4ea2",
+        "description": "Today I will write about a wonderful capability that comes from Angular Router called Named Router Outlet.",
+        "datePosted": "2022-05-08",
+        "dateSource": "2022-05-08",
+        "postedBy": "Steve Witman",
+        "sourceSite": "Medium",
+        "sourceUrl": "https://medium.com/tag/angular/latest",
+        "authorName": "Or Anaki",
+        "authorUrl": "https://medium.com/@oranaki9910",
+        "speakers": ["Or Anaki"],
+        "tags": ["router-outlet"]
+      },
+      {
+        "slug": "2022-05-08-F",
+        "type": "video",
+        "duration": "28",
+        "title": "Angular Data transfer between two components in 6 different methods",
+        "url": "https://www.youtube.com/watch?v=dB3XqLjq5E0",
+        "description": "",
+        "datePosted": "2022-05-08",
+        "dateSource": "2022-05-08",
+        "postedBy": "Steve Witman",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "Kothakota jatesh reddy",
+        "authorUrl": "https://www.youtube.com/channel/UCjUP1DGgOyzL6zjOxeo8V2w/videos",
+        "speakers": ["Kothakota Jatesh Reddy"],
+        "tags": ["Data Transfer", "@Input", "@Output", "@ViewChild", "Services", "Query Params"]
+      }
+    ]
   }
 ]

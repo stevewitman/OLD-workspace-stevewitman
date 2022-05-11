@@ -92,7 +92,6 @@ export const tags = [
   { category: 'Angular', tag: 'ngAfterContentInit' },
   { category: 'Angular', tag: 'ngAfterViewChecked' },
   { category: 'Angular', tag: 'ngAfterViewInit' },
-  { category: 'Angular', tag: 'NgComponentOutlet' },
   { category: 'Angular', tag: 'ngDoCheck' },
   { category: 'Angular', tag: 'ngOnChanges' },
   { category: 'Angular', tag: 'ngOnDestroy' },
