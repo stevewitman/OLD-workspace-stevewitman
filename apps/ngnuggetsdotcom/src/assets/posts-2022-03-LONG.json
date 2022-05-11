@@ -12679,5 +12679,108 @@
         "tags": ["Configuration"]
       }
     ]
+  },
+  {
+    "date": "2022-05-07",
+    "dailyPosts": [
+      {
+        "slug": "2022-05-07-A",
+        "type": "blog",
+        "title": "Angular with clean URL's using Apache's mod_rewrite",
+        "url": "https://dev.to/timetc/angular-with-clean-urls-using-apaches-modrewrite-2bjb",
+        "description": "In Angular you have a really nice router which takes care of all the things you need. Prefetching data, guarding specific routes and it will even lazy load modules. That all works out of the box, which I think is really awesome.",
+        "datePosted": "2022-05-07",
+        "dateSource": "2022-05-07",
+        "postedBy": "Steve Witman",
+        "sourceSite": "DEV Community",
+        "sourceUrl": "https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc",
+        "authorName": "Tim etc.",
+        "authorUrl": "https://dev.to/timetc",
+        "speakers": [],
+        "tags": []
+      },
+      {
+        "slug": "2022-05-07-B",
+        "type": "blog",
+        "title": "How to use multiple Environment Variables in Angular",
+        "url": "https://dev.to/ankit_k_sharma/how-to-use-multiple-environment-variables-in-angular-2bm7",
+        "description": "In this article, we will learn about different Environment Variables in different files.",
+        "datePosted": "2022-05-07",
+        "dateSource": "2022-05-07",
+        "postedBy": "Steve Witman",
+        "sourceSite": "DEV Community",
+        "sourceUrl": "https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc",
+        "authorName": "Ankit Kumar Sharma",
+        "authorUrl": "https://dev.to/ankit_k_sharma",
+        "speakers": ["Ankit Kumar Sharma"],
+        "tags": ["Environments"]
+      },
+      {
+        "slug": "2022-05-07-C",
+        "type": "video",
+        "duration": "11",
+        "title": "107. Angular Project Tutorial - Custom Pipes",
+        "url": "https://www.youtube.com/watch?v=TFOWaQEzw5U",
+        "description": "",
+        "datePosted": "2022-05-07",
+        "dateSource": "2022-05-07",
+        "postedBy": "Steve Witman",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "Prince Harsha",
+        "authorUrl": "https://www.youtube.com/channel/UC_0jKHC_1o1djPkumW5HYHw/videos",
+        "speakers": [],
+        "tags": ["Pipes", "Custom"]
+      },
+      {
+        "slug": "2022-05-07-D",
+        "type": "blog",
+        "title": "Handle CAPS-LOCK on/off event in Angular",
+        "url": "https://dev.to/anirbmuk/handle-caps-lock-onoff-event-in-angular-52go",
+        "description": "This is an interesting, yet quite commonly expected, use-case - warn the user that the CAPS-LOCK is ON, specially while entering a password, so that the user is aware of it and can change it, if needed.",
+        "datePosted": "2022-05-07",
+        "dateSource": "2022-05-07",
+        "postedBy": "Steve Witman",
+        "sourceSite": "DEV Community",
+        "sourceUrl": "https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc",
+        "authorName": "Anirban Mukherjee",
+        "authorUrl": "https://dev.to/anirbmuk",
+        "speakers": ["Anirban Mukherjee"],
+        "tags": []
+      },
+      {
+        "slug": "2022-05-07-E",
+        "type": "video",
+        "duration": "9",
+        "title": "Angular performance - Using TrackBy with NgFor directive | Angular 13 ",
+        "url": "https://www.youtube.com/watch?v=F3nv4Lclv4Q",
+        "description": "Angular 13 performance - Using TrackBy with NgFor directive. Overview of the ngFor structural directive and its different options.",
+        "datePosted": "2022-05-07",
+        "dateSource": "2022-05-07",
+        "postedBy": "Steve Witman",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "JS Frameworks",
+        "authorUrl": "https://www.youtube.com/c/JSFrameworks/videos",
+        "speakers": [],
+        "tags": []
+      },
+      {
+        "slug": "2022-05-07-F",
+        "type": "blog",
+        "title": "Theming Angular Material",
+        "url": "https://fireflysemantics.medium.com/theming-angular-material-dd4ef04aa8aa",
+        "description": "We have the following markup that we will use to demo Angular Material theme creation and switching.",
+        "datePosted": "2022-05-07",
+        "dateSource": "2022-05-07",
+        "postedBy": "Steve Witman",
+        "sourceSite": "Medium",
+        "sourceUrl": "https://medium.com/tag/angular/latest",
+        "authorName": "Ole Ersoy",
+        "authorUrl": "https://fireflysemantics.medium.com",
+        "speakers": ["Ole Ersoy"],
+        "tags": ["Angular Material"]
+      }
+    ]
   }
 ]
