@@ -118,6 +118,7 @@ export const tags = [
   { category: 'Angular-decorators', tag: '@HostListener' },
   { category: 'Angular-decorators', tag: '@Input' },
   { category: 'Angular-decorators', tag: '@Inject' },
+  { category: 'Angular-decorators', tag: '@Injectable' },
   { category: 'Angular-decorators', tag: '@Optional' },
   { category: 'Angular-decorators', tag: '@Output' },
   { category: 'Angular-decorators', tag: '@Skip' },
