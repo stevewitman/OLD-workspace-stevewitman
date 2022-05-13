@@ -170,6 +170,7 @@ export const tags = [
   { category: 'Misc', tag: 'Facade Design Pattern' },
   { category: 'Misc', tag: 'Feature Flags' },
   { category: 'Misc', tag: 'File Upload' },
+  { category: 'Misc', tag: 'Geolocation' },
   { category: 'Misc', tag: 'Intersection Observer' },
   { category: 'Misc', tag: 'JWT' },
   { category: 'Misc', tag: 'Linters' },
@@ -252,6 +253,7 @@ export const tags = [
   { category: 'Angular-Material', tag: 'Tabs' },
   { category: 'Angular-Material', tag: 'Theming' },
   { category: 'Angular-Material', tag: 'Virtual Scroll' },
+  { category: 'Angular-Material', tag: 'Toolbar' },
   { category: 'Angular-Material', tag: 'Tooltip' },
 
   { category: 'NgRx', tag: 'NgRx' },
