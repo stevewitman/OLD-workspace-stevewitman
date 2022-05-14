@@ -182,6 +182,7 @@ export const tags = [
   { cat: 'Misc', tag: 'Micro Frontends' },
   { cat: 'Misc', tag: 'Microservices' },
   { cat: 'Misc', tag: 'Mixins' },
+  { cat: 'Misc', tag: 'Mobile' },
   { cat: 'Misc', tag: 'Module Federation' },
   { cat: 'Misc', tag: 'Monorepo' },
   { cat: 'Misc', tag: 'Open Source' },
