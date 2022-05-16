@@ -23,29 +23,39 @@ export class HomePageComponent implements OnInit {
   tags = [];
   uniqueTags;
   uniqueTagsString = 'init';
+  uniqueSpeakers;
 
   constructor(private postService: PostService) {}
 
   ngOnInit() {
-    this.getPosts('03').subscribe((data) => {
+    // this.getPosts('03').subscribe((data) => {
+    //   this.recentPosts = data;
+    // });
+    this.getPosts().subscribe((data) => {
       this.recentPosts = data;
+      this.uniqueSpeakers = this.extractSpeakers(this.recentPosts);
+      console.log(this.uniqueSpeakers);
     });
+    
   }
 
-
-
-  getPosts(m) {
-    return this.postService.getPosts(m);
+  // getPosts(m) {
+  //   return this.postService.getPosts(m);
+  // }
+  getPosts() {
+    const posts = this.postService.getPosts();
+    this.extractSpeakers(posts);
+    return posts;
   }
 
   getMorePosts() {
     console.log('recentPosts BEFORE:', this.recentPosts);
-    this.getPosts('02').subscribe((data) => {
-      this.recentPosts2 = data;
-      console.log('MORE:', this.recentPosts2);
-      this.recentPosts = [...this.recentPosts2, ...this.recentPosts];
-      console.log('recentPosts AFTER:', this.recentPosts);
-    });
+    // this.getPosts('02').subscribe((data) => {
+    //   this.recentPosts2 = data;
+    //   console.log('MORE:', this.recentPosts2);
+    //   this.recentPosts = [...this.recentPosts2, ...this.recentPosts];
+    //   console.log('recentPosts AFTER:', this.recentPosts);
+    // });
   }
 
   openPostInTab(url: string) {
@@ -67,6 +77,30 @@ export class HomePageComponent implements OnInit {
     const sorted = allTags.sort();
     // console.log(sorted)
     // return sorted
+    const uniqueArray = sorted.filter(function (item, pos) {
+      return sorted.indexOf(item) == pos;
+    });
+    return uniqueArray;
+  }
+
+  extractSpeakers(postGroups) {
+    console.log('SPEAKERS');
+    
+    const allSpeakers = [];
+    console.log(postGroups);
+    postGroups.forEach((e) => {
+      
+      e.dailyPosts.forEach((f) => {
+        if (f.speakers && f.speakers.length > 0) {
+          f.speakers.forEach((g) => {
+            console.log(f.slug, g);
+            
+            allSpeakers.push(g);
+          });
+        }
+      });
+    });
+    const sorted = allSpeakers.sort();
     const uniqueArray = sorted.filter(function (item, pos) {
       return sorted.indexOf(item) == pos;
     });

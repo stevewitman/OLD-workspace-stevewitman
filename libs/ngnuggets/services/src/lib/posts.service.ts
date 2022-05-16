@@ -11,8 +11,12 @@ export class PostService {
 
   constructor(private db: AngularFirestore, private http: HttpClient ) {}
 
-  getPosts(month) {
-    return this.http.get(`assets/posts-2022-${month}-LONG.json`);
+  // getPosts(month) {
+  //   return this.http.get(`assets/posts-2022-${month}-LONG.json`);
+  // }
+
+  getPosts() {
+    return this.http.get(`assets/posts-2022.json`);
   }
 
   convertSnaps<T>(results) {
