@@ -112,7 +112,10 @@ export const tags = [
   { cat: 'Angular', tag: 'setValue' },
   { cat: 'Angular', tag: 'String Interpolation' },
   { cat: 'Angular', tag: 'trackBy' },
+  { cat: 'Angular', tag: 'useClass' },
+  { cat: 'Angular', tag: 'useExisting' },
   { cat: 'Angular', tag: 'useFactory' },
+  { cat: 'Angular', tag: 'useValue' },
   { cat: 'Angular', tag: 'viewContainerRef' },
 
   { cat: 'Angular-decorators', tag: '@Attribute' },

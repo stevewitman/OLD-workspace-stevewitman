@@ -3325,7 +3325,7 @@
         "authorName": "Ayush Thakur",
         "authorUrl": "https://just-another-developer.medium.com",
         "speakers": ["Ayush Thakur"],
-        "tags": ["NgRx", "Forms", "Validators", "Custom"]
+        "tags": ["NgRx", "Forms", "Validation", "Custom"]
       },
       {
         "slug": "2022-01-22-D",
@@ -24783,6 +24783,94 @@
         "authorUrl": "https://dev.to/riapacheco",
         "speakers": ["Ria Pacheco"],
         "tags": ["RxJS", "Behavior Subject", "Async Pipe", "Animations"]
+      }
+    ]
+  },
+  {
+    "date": "2022-05-15",
+    "dailyPosts": [
+      {
+        "slug": "2022-05-15-A",
+        "type": "video",
+        "duration": "3",
+        "title": "Angular 14: Standalone Components (new feature)",
+        "url": "https://www.youtube.com/watch?v=3Gw-qfxEOSw",
+        "description": "In this video I show you how 'Standalone components' work, a new interesting feature of Angular 14.",
+        "datePosted": "2022-05-15",
+        "dateSource": "2022-05-15",
+        "postedBy": "Steve Witman",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "Fabio Biondi",
+        "authorUrl": "https://www.youtube.com/c/FabioBiondi/videos",
+        "speakers": ["Fabio Biondi"],
+        "tags": ["Standalone Components"]
+      },
+      {
+        "slug": "2022-05-15-B",
+        "type": "blog",
+        "title": "Lazy loading in Angular with example",
+        "url": "https://dev.to/dhanush9952/lazy-loading-in-angular-with-example-3l12",
+        "description": "In this article we will see about lazy loading concept in Angular with an example for your understanding.",
+        "datePosted": "2022-05-15",
+        "dateSource": "2022-05-15",
+        "postedBy": "Steve Witman",
+        "sourceSite": "DEV Community",
+        "sourceUrl": "https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc",
+        "authorName": "Dhanush",
+        "authorUrl": "https://dev.to/dhanush9952",
+        "speakers": [],
+        "tags": ["Lazy Loading"]
+      },
+      {
+        "slug": "2022-05-15-C",
+        "type": "video",
+        "duration": "7",
+        "title": "Angular / NestJs Tutorial - Share Validations for Angular Forms and NestJs Controller",
+        "url": "https://www.youtube.com/watch?v=6i-cZ8TyqHI",
+        "description": "Learn how the Nx Monorepo Starter can help alleviate developer pain points of standing up full stack applications and easing the creating of forms that share validations with NestJS.",
+        "datePosted": "2022-05-15",
+        "dateSource": "2022-05-15",
+        "postedBy": "Steve Witman",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "NgServe-io",
+        "authorUrl": "https://www.youtube.com/channel/UCmXJpdBLX3oV5pucl6kCfqw/videos",
+        "speakers": [],
+        "tags": ["Nx", "NestJS", "Forms", "Validation"]
+      },
+      {
+        "slug": "2022-05-15-D",
+        "type": "blog",
+        "title": "Angular: useValue, useClass, useExisting and useFactory in a nutshell",
+        "url": "https://medium.com/@matsal.dev/angular-usevalue-useclass-useexisting-and-usefactory-in-a-nutshell-97db8d206084",
+        "description": "The dependency injection mechanism in Angular allows us to configure dependency providers in several different ways. Thanks to them, we can determine how the dependencies will be provided to our classes. In this article I will try to explain 4 different ways of creating dependencies: useValue, useFactory, useClass and useExisting.",
+        "datePosted": "2022-05-15",
+        "dateSource": "2022-05-15",
+        "postedBy": "Steve Witman",
+        "sourceSite": "Medium",
+        "sourceUrl": "https://medium.com/tag/angular/latest",
+        "authorName": "",
+        "authorUrl": "",
+        "speakers": [],
+        "tags": ["Dependency Injection", "useValue", "useClass", "useExisting", "useFactory"]
+      },
+      {
+        "slug": "2022-05-15-E",
+        "type": "video",
+        "duration": "8",
+        "title": "Angular 13 Google Places Autocomplete API Example to Search & Place Markers on Maps in TypeScript",
+        "url": "https://www.youtube.com/watch?v=Th7zopXxFfA",
+        "description": "",
+        "datePosted": "2022-05-15",
+        "dateSource": "2022-05-15",
+        "postedBy": "Steve Witman",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "Coding Shiksha",
+        "authorUrl": "https://www.youtube.com/c/CodingShiksha/videos",
+        "speakers": ["Gautam Sharma"],
+        "tags": ["Maps", "Autocomplete"]
       }
     ]
   }
