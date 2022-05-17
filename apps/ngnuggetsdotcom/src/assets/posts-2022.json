@@ -23463,7 +23463,7 @@
     ]
   },
   {
-    "date": "2022-03-09",
+    "date": "2022-05-09",
     "dailyPosts": [
       {
         "slug": "2022-05-09-A",
@@ -23796,7 +23796,7 @@
     ]
   },
   {
-    "date": "2022-03-10",
+    "date": "2022-05-10",
     "dailyPosts": [
       {
         "slug": "2022-05-10-A",
@@ -23947,7 +23947,7 @@
     ]
   },
   {
-    "date": "2022-03-11",
+    "date": "2022-05-11",
     "dailyPosts": [
       {
         "slug": "2022-05-11-A",
@@ -24165,7 +24165,7 @@
     ]
   },
   {
-    "date": "2022-03-12",
+    "date": "2022-05-12",
     "dailyPosts": [
       {
         "slug": "2022-05-12-A",
@@ -24417,7 +24417,7 @@
     ]
   },
   {
-    "date": "2022-03-13",
+    "date": "2022-05-13",
     "dailyPosts": [
       {
         "slug": "2022-05-13-A",
@@ -24583,6 +24583,206 @@
         "authorUrl": "https://www.youtube.com/channel/UCsbmVmB_or8sVLLEq4XhE_A/videos",
         "speakers": [],
         "tags": ["Dialog"]
+      }
+    ]
+  },
+  {
+    "date": "2022-05-14",
+    "dailyPosts": [
+      {
+        "slug": "2022-05-14-A",
+        "type": "video",
+        "duration": "5",
+        "title": "Reactive Form - 23 | Address Management System | Part - 7 | Using form builders",
+        "url": "https://www.youtube.com/watch?v=o08OXGCIcuU",
+        "description": "In this video we will learn how to pre-fill the form and array of addresses inside a form.",
+        "datePosted": "2022-05-14",
+        "dateSource": "2022-05-14",
+        "postedBy": "Steve Witman",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "TechshareSKK",
+        "authorUrl": "https://www.youtube.com/channel/UCD8gC85u512FeCFzRV4Ll-A/videos",
+        "speakers": ["Sai Kumar Korthivada"],
+        "tags": ["Forms", "Reactive Forms"]
+      },
+      {
+        "slug": "2022-05-14-B",
+        "type": "blog",
+        "title": "Simple and fast setup JWT Authentication in the Angular app",
+        "url": "https://dekh.medium.com/simple-and-fast-setup-jwt-authentication-in-the-angular-app-2ea9004fbbde",
+        "description": "In this post, I will show you a simple and quick way to set up JWT authentication for an Angular application in six steps.",
+        "datePosted": "2022-05-14",
+        "dateSource": "2022-05-14",
+        "postedBy": "Steve Witman",
+        "sourceSite": "Medium",
+        "sourceUrl": "https://medium.com/tag/angular/latest",
+        "authorName": "Denis Khrunov",
+        "authorUrl": "https://dekh.medium.com",
+        "speakers": ["Denis Khrunov"],
+        "tags": ["Auth", "JWT"]
+      },
+      {
+        "slug": "2022-05-14-C",
+        "type": "blog",
+        "title": "Analyzing Angular micro-frontends with Sonarcloud",
+        "url": "https://medium.com/@klajdiavdiaj6/analyzing-angular-micro-frontends-with-sonarcloud-9583a9326dab",
+        "description": "You have an Angular application using micro-frontend approach and now you want to add code analysis to it? No problem! Implementing code analysis not only improves the overall product quality standards, but also pushes your developers to adopt best coding practices. In this example we are going to use Sonarcloud scanning and coverage to achieve it.",
+        "datePosted": "2022-05-14",
+        "dateSource": "2022-05-14",
+        "postedBy": "Steve Witman",
+        "sourceSite": "Medium",
+        "sourceUrl": "https://medium.com/tag/angular/latest",
+        "authorName": "Klajdi Avdiaj",
+        "authorUrl": "https://medium.com/@klajdiavdiaj6",
+        "speakers": ["Klajdi Avdiaj"],
+        "tags": ["Micro Frontends"]
+      },
+      {
+        "slug": "2022-05-14-D",
+        "type": "blog",
+        "title": "State of Angular - Highlights from Google I/O",
+        "url": "https://dev.to/this-is-angular/state-of-angular-highlights-from-google-io-571i",
+        "description": "This is just to say that there is a whole lot more than what I am summarizing in this post. Here we will focus on Angular and the future of this framework.",
+        "datePosted": "2022-05-14",
+        "dateSource": "2022-05-14",
+        "postedBy": "Steve Witman",
+        "sourceSite": "DEV Community",
+        "sourceUrl": "https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc",
+        "authorName": "Lorenzo Zarantonello",
+        "authorUrl": "https://dev.to/lorenzojkrl",
+        "speakers": ["Lorenzo Zarantonello"],
+        "tags": []
+      },
+      {
+        "slug": "2022-05-14-E",
+        "type": "blog",
+        "title": "Standalone Angular Components - A world without ngModule",
+        "url": "https://aalam.hashnode.dev/standalone-angular-components-a-world-without-ngmodule",
+        "description": "Know about Angular standalone components and how it simplifies your Angular code",
+        "datePosted": "2022-05-14",
+        "dateSource": "2022-05-14",
+        "postedBy": "Steve Witman",
+        "sourceSite": "Hashnode",
+        "sourceUrl": "https://hashnode.com/n/angular",
+        "authorName": "Aftab Alam",
+        "authorUrl": "https://hashnode.com/@aalam",
+        "speakers": ["Aftab Alam"],
+        "tags": ["Standalone Components"]
+      },
+      {
+        "slug": "2022-05-14-F",
+        "type": "blog",
+        "title": "Best way to change themes in the Angular app",
+        "url": "https://medium.com/@rado.sabo/best-way-to-change-themes-in-the-angular-app-a1fd2bc28559",
+        "description": "",
+        "datePosted": "2022-05-14",
+        "dateSource": "2022-05-14",
+        "postedBy": "Steve Witman",
+        "sourceSite": "Medium",
+        "sourceUrl": "https://medium.com/tag/angular/latest",
+        "authorName": "Rado",
+        "authorUrl": "https://medium.com/@rado.sabo",
+        "speakers": [],
+        "tags": []
+      },
+      {
+        "slug": "2022-05-14-G",
+        "type": "blog",
+        "title": "ngModel in Angular with Example",
+        "url": "https://medium.com/@dhanush9952/ngmodel-in-angular-with-example-d0e7160f1e62",
+        "description": "In this article, we will see ngModel concept in Angular and its example with simple code in two steps.",
+        "datePosted": "2022-05-14",
+        "dateSource": "2022-05-14",
+        "postedBy": "Steve Witman",
+        "sourceSite": "Medium",
+        "sourceUrl": "https://medium.com/tag/angular/latest",
+        "authorName": "Dhanush K",
+        "authorUrl": "https://medium.com/@dhanush9952",
+        "speakers": [],
+        "tags": ["ngModel"]
+      },
+      {
+        "slug": "2022-05-14-H",
+        "type": "video",
+        "duration": "17",
+        "title": "Angular 13 File.io WebRTC P2P Upload & Download Files With Progressbar Using Socket.io in Typescript",
+        "url": "https://www.youtube.com/watch?v=g37TAMjKJx4",
+        "description": "",
+        "datePosted": "2022-05-14",
+        "dateSource": "2022-05-14",
+        "postedBy": "Steve Witman",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "Coding Shiksha",
+        "authorUrl": "https://www.youtube.com/c/CodingShiksha/videos",
+        "speakers": ["Gautam Sharma"],
+        "tags": ["File Upload", "Progress"]
+      },
+      {
+        "slug": "2022-05-14-J",
+        "type": "blog",
+        "title": "Angular: Difference between pure and impure pipe in a nutshell",
+        "url": "https://medium.com/@matsal.dev/angular-difference-between-pure-and-impure-pipe-in-a-nutshell-c9f389cab83a",
+        "description": "In this article, I will present you briefly what is the difference between a pure pipe and impure one.",
+        "datePosted": "2022-05-a4",
+        "dateSource": "2022-05-a4",
+        "postedBy": "Steve Witman",
+        "sourceSite": "Medium",
+        "sourceUrl": "https://medium.com/tag/angular/latest",
+        "authorName": "Matsal Dev",
+        "authorUrl": "https://medium.com/@matsal.dev",
+        "speakers": [],
+        "tags": ["Pipes", "Performance"]
+      },
+      {
+        "slug": "2022-05-14-K",
+        "type": "video",
+        "duration": "43",
+        "title": "How to create a form & array in Angular",
+        "url": "https://www.youtube.com/watch?v=Cu07i6_z1Go",
+        "description": "How to sort an array in Angular. How to create a form and append to the array of objects the input",
+        "datePosted": "2022-05-14",
+        "dateSource": "2022-05-14",
+        "postedBy": "Steve Witman",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "Chaby's Tech",
+        "authorUrl": "https://www.youtube.com/channel/UChPak4wt47Rb-xpUhrxzjNw/videos",
+        "speakers": [],
+        "tags": ["Forms"]
+      },
+      {
+        "slug": "2022-05-14-L",
+        "type": "blog",
+        "title": "Your First Angular Microfrontend",
+        "url": "https://levelup.gitconnected.com/your-first-angular-microfrontend-58950768a465",
+        "description": "This is a step by step guide on how you can create a simple Angular application that consumes modules of another application at runtime. But first let's discuss what microfrontends and module federation is all about.",
+        "datePosted": "2022-05-14",
+        "dateSource": "2022-05-14",
+        "postedBy": "Steve Witman",
+        "sourceSite": "Medium",
+        "sourceUrl": "https://medium.com/tag/angular/latest",
+        "authorName": "Stefan Haas",
+        "authorUrl": "https://medium.com/@stefan.haas.privat",
+        "speakers": ["Stefan Haas"],
+        "tags": ["Micro Frontends", "Module Federation"]
+      },
+      {
+        "slug": "2022-05-14-M",
+        "type": "blog",
+        "title": "Custom & Reusable Toast Component with Angular Animations, Async Pipe, and RxJS' BehaviorSubject",
+        "url": "https://dev.to/riapacheco/custom-reusable-toast-component-with-angular-animations-async-pipe-and-rxjs-behaviorsubject-2bdf",
+        "description": "Objectives\nCreate a toast component with a\nDefine states with stored strings to feed it\nUse cool animations from Angular's core packages\nTrigger the toast from anywhere in the app (by any service or from any parent component that calls it)",
+        "datePosted": "2022-05-14",
+        "dateSource": "2022-05-14",
+        "postedBy": "Steve Witman",
+        "sourceSite": "Medium",
+        "sourceUrl": "https://medium.com/tag/angular/latest",
+        "authorName": "Ria Pacheco",
+        "authorUrl": "https://dev.to/riapacheco",
+        "speakers": ["Ria Pacheco"],
+        "tags": ["RxJS", "Behavior Subject", "Async Pipe", "Animations"]
       }
     ]
   }
