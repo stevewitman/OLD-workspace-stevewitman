@@ -7,6 +7,7 @@ export const tags = [
   { cat: 'Angular', tag: 'Angular Workspace' },
   { cat: 'Angular', tag: 'Animations' },
   { cat: 'Angular', tag: 'Architecture' },
+  { cat: 'Angular', tag: 'APP_INITIALIZER' },
   { cat: 'Angular', tag: 'Attribute Binding' },
   {
     cat: 'Angular',
@@ -151,6 +152,7 @@ export const tags = [
   { cat: 'Angular-routing', tag: 'routerLinkActiveOptions' },
   { cat: 'Angular-routing', tag: 'Routing' },
   { cat: 'Angular-routing', tag: 'router-outlet' },
+  { cat: 'Angular-routing', tag: 'title' },
 
   { cat: 'Misc', tag: 'Auth' },
   { cat: 'Misc', tag: 'Autocomplete' },
@@ -258,6 +260,7 @@ export const tags = [
   { cat: 'Angular-Material', tag: 'Overlay' },
   { cat: 'Angular-Material', tag: 'Portals' },
   { cat: 'Angular-Material', tag: 'Progress' },
+  { cat: 'Angular-Material', tag: 'Select' },
   { cat: 'Angular-Material', tag: 'Sidenav' },
   { cat: 'Angular-Material', tag: 'Slider' },
   { cat: 'Angular-Material', tag: 'Spinner' },

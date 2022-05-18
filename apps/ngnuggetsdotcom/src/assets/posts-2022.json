@@ -4891,7 +4891,7 @@
         "authorName": "Miroslav Slapka",
         "authorUrl": "https://blog.mairo.eu",
         "speakers": ["Miroslav Slapka"],
-        "tags": []
+        "tags": ["APP_INITIALIZER"]
       },
       {
         "slug": "2022-01-29-G",
@@ -6687,7 +6687,7 @@
         "duration": "54",
         "title": "The Why of Angular CLI, Workspaces, and Monorepos",
         "url": "https://www.youtube.com/watch?v=CkTcziDMwR8",
-        "description": "Presenters: Akshay, Jayant and Robert",
+        "description": "Jayant Ojha, Akshay Biradar, Robert Ramirez",
         "datePosted": "2022-02-09",
         "dateSource": "2022-02-09",
         "postedBy": "Steve Witman",
@@ -6695,8 +6695,8 @@
         "sourceUrl": "https://www.youtube.com/results?search_query=angular",
         "authorName": "Angular Nation",
         "authorUrl": "https://www.youtube.com/channel/UCmlK6Jayb3qqJYNfUmL-DkA/videos",
-        "speakers": ["Akshay Biradar", "Jayant Ojha", "Robert Ramirez"],
-        "tags": ["CLI", "Workspaces", "Monorepos"]
+        "speakers": ["Jayant Ojha", "Akshay Biradar", "Robert Ramirez"],
+        "tags": ["CLI", "Angular Workspaces", "Monorepos"]
       },
       {
         "slug": "2022-02-09-F",
@@ -10535,7 +10535,7 @@
         "authorName": "Code with Ahsan",
         "authorUrl": "https://www.youtube.com/c/CodewithAhsan/videos",
         "speakers": ["Ahsan Ayaz"],
-        "tags": ["setTitle"]
+        "tags": ["setTitle", "Custom", "Dynamic"]
       },
       {
         "slug": "2022-02-28-H",
@@ -11388,7 +11388,7 @@
         "authorName": "Ayyash",
         "authorUrl": "https://dev.to/ayyash",
         "speakers": [],
-        "tags": []
+        "tags": ["APP_INITIALIZER"]
       },
       {
         "slug": "2022-03-05-F",
@@ -14401,7 +14401,7 @@
       {
         "slug": "2022-03-20-C",
         "type": "blog",
-        "title": "Loading external configurations via http using APP_INITIALIZER",
+        "title": "Loading external configurations via HTTP using APP_INITIALIZER",
         "url": "https://elmota.com/loading-external-configurations-via-http-using-appinitializer",
         "description": "Fetching Configuration from server\nEnvironment variables pollute the compiled source code, which does not allow for multiple server deployments. External configuration, allows multiple custom configuration for the same source code. The downside is, you have to maintain them manually.",
         "datePosted": "2022-03-20",
@@ -14412,7 +14412,7 @@
         "authorName": "Ayyash",
         "authorUrl": "https://hashnode.com/@ayyash",
         "speakers": [],
-        "tags": ["Configuration"]
+        "tags": ["APP_INITIALIZER", "Configuration"]
       },
       {
         "slug": "2022-03-20-D",
@@ -16910,7 +16910,7 @@
         "type": "blog",
         "title": "Loading external configurations in Angular Universal",
         "url": "https://elmota.com/loading-external-configurations-in-angular-universal",
-        "description": "In my post Loading external configurations via http using APP_INITIALIZER, I attempted to load external configuration via HTTP, on client side. In this post I am explroing options for SSR.",
+        "description": "In my post Loading external configurations via HTTP using APP_INITIALIZER, I attempted to load external configuration via HTTP, on client side. In this post I am explroing options for SSR.",
         "datePosted": "2022-04-02",
         "dateSource": "2022-04-02",
         "postedBy": "Steve Witman",
@@ -16919,7 +16919,7 @@
         "authorName": "Ayyash",
         "authorUrl": "https://elmota.com",
         "speakers": [],
-        "tags": ["Angular Universal", "SSR", "Configuration"]
+        "tags": ["APP_INITIALIZER", "HttpClient", "HttpInterceptors", "Angular Universal", "SSR", "Configuration"]
       },
       {
         "slug": "2022-04-02-J",
@@ -20764,7 +20764,7 @@
         "authorName": "Learn Smart Coding",
         "authorUrl": "https://www.youtube.com/channel/UCKUxSY2xp12QiP3c60sOc-g/videos",
         "speakers": [],
-        "tags": ["setTitle"]
+        "tags": ["setTitle", "Custom", "Dynamic"]
       },
       {
         "slug": "2022-04-21-M",
@@ -25197,6 +25197,135 @@
         "sourceUrl": "https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc",
         "authorName": "Chetan",
         "authorUrl": "https://dev.to/chetan_void",
+        "speakers": [],
+        "tags": []
+      },
+      {
+        "slug": "2022-05-17-E",
+        "type": "blog",
+        "duration": "",
+        "title": "Angular Basics: How To Get the Value of a Selected Dropdown Menu Item",
+        "url": "https://www.telerik.com/blogs/angular-basics-how-to-get-value-selected-dropdown-menu-item",
+        "description": "Have you ever had to ask, “How do I get the value of the selected dropdown menu item in Angular?” Let's answer that!",
+        "datePosted": "2022-05-17",
+        "dateSource": "2022-05-17",
+        "postedBy": "Steve Witman",
+        "sourceSite": "Progress Telerik Blog",
+        "sourceUrl": "https://www.telerik.com/blogs/web-angular",
+        "authorName": "Dany Paredes",
+        "authorUrl": "https://www.telerik.com/blogs/author/dany-paredes",
+        "speakers": ["Dany Paredes"],
+        "tags": ["Select"]
+      },
+      {
+        "slug": "2022-05-17-F",
+        "type": "blog",
+        "title": "VS Code Snippets: let's make unit testing a little less painful",
+        "url": "https://medium.com/@offscripting/vs-code-snippets-lets-make-unit-testing-a-little-less-painful-ce50570894f2",
+        "description": "Are you a weirdo? If you aren't, you probably don't fully enjoy unit testing. Okay, sometimes it can be fun when it actually finds you a bug no one even knew existed. You feel like Indiana Jones. But apart from that, how annoying is unit testing?",
+        "datePosted": "2022-05-17",
+        "dateSource": "2022-05-17",
+        "postedBy": "Steve Witman",
+        "sourceSite": "Medium",
+        "sourceUrl": "https://medium.com/tag/angular/latest",
+        "authorName": "Off_Scripting",
+        "authorUrl": "https://medium.com/@offscripting",
+        "speakers": [],
+        "tags": ["Unit Testing", "VSCode"]
+      },
+      {
+        "slug": "2022-05-17-G",
+        "type": "blog",
+        "title": "It's Probably Not Necessary to Use Angular's Date Pipe",
+        "url": "https://netbasal.com/its-probably-not-necessary-to-use-angular-s-date-pipe-857c3c124617",
+        "description": "Dates are an integral part of almost every application. Angular provides a date pipe out-of-the-box. The date pipe allows users to convert dates according to predefined or custom Angular date formats.",
+        "datePosted": "2022-05-17",
+        "dateSource": "2022-05-17",
+        "postedBy": "Steve Witman",
+        "sourceSite": "Medium",
+        "sourceUrl": "https://medium.com/tag/angular/latest",
+        "authorName": "Netanel Basal",
+        "authorUrl": "https://netbasal.medium.com",
+        "speakers": ["Netanel Basal"],
+        "tags": ["Pipes"]
+      },
+      {
+        "slug": "2022-05-17-H",
+        "type": "blog",
+        "title": "How to copy text in Angular (The Definitive Guide)",
+        "url": "https://dkreider.medium.com/how-to-copy-text-in-angular-the-definitive-guide-678794fdb413",
+        "description": "Today you're going to learn how to copy text in Angular. That is, I'm going to show you exactly how to copy text to the clipboard programmatically. The best part? There are 4 different ways to do this. And you get to pick the option that will work best for you.",
+        "datePosted": "2022-05-17",
+        "dateSource": "2022-05-17",
+        "postedBy": "Steve Witman",
+        "sourceSite": "Medium",
+        "sourceUrl": "https://medium.com/tag/angular/latest",
+        "authorName": "Daniel Kreider",
+        "authorUrl": "https://dkreider.medium.com",
+        "speakers": ["Daniel Kreider"],
+        "tags": ["clipboard"]
+      },
+      {
+        "slug": "2022-05-17-J",
+        "type": "blog",
+        "title": "Handling Page Titles in Angular",
+        "url": "https://netbasal.com/handling-page-titles-in-angular-40b53823af4a",
+        "description": "Starting from version 14, Angular adds the option of setting the page title through the router. We can set the title property in our route definition:",
+        "datePosted": "2022-05-17",
+        "dateSource": "2022-05-17",
+        "postedBy": "Steve Witman",
+        "sourceSite": "Medium",
+        "sourceUrl": "https://medium.com/tag/angular/latest",
+        "authorName": "Netanel Basal",
+        "authorUrl": "https://netbasal.medium.com",
+        "speakers": ["Netanel Basal"],
+        "tags": ["Routing", "title", "setTitle", "Custom", "Dynamic"]
+      },
+      {
+        "slug": "2022-05-17-K",
+        "type": "blog",
+        "title": "Typed Reactive Forms in Angular — No Longer a Type Dream",
+        "url": "https://netbasal.com/typed-reactive-forms-in-angular-no-longer-a-type-dream-bf6982b0af28",
+        "description": "One of Angular 14's most sought-after features is about to arrive — Typed Reactive Forms. You can begin experimenting with it now by creating a new Angular 14 project:",
+        "datePosted": "2022-05-17",
+        "dateSource": "2022-05-17",
+        "postedBy": "Steve Witman",
+        "sourceSite": "Medium",
+        "sourceUrl": "https://medium.com/tag/angular/latest",
+        "authorName": "Netanel Basal",
+        "authorUrl": "https://netbasal.medium.com",
+        "speakers": ["Netanel Basal"],
+        "tags": ["Typed Forms", "Reactive Forms"]
+      },
+      {
+        "slug": "2022-05-17-L",
+        "type": "blog",
+        "title": "Introduction to APP_INITIALIZER DI Token",
+        "url": "https://medium.com/@gagandeep.sidhu88/introduction-to-app-initializer-di-token-2e1a10802e92",
+        "description": "APP_INITIALIZER is a dependency injection token that we can use to provide one or more functions. These functions will be injected at application startup time and get executed during app initialization. For any async function returning promise will be resolved first and only after fully resolving those the app will initialize.",
+        "datePosted": "2022-05-17",
+        "dateSource": "2022-05-17",
+        "postedBy": "Steve Witman",
+        "sourceSite": "Medium",
+        "sourceUrl": "https://medium.com/tag/angular/latest",
+        "authorName": "Gagandeep Sidhu",
+        "authorUrl": "https://medium.com/@gagandeep.sidhu88",
+        "speakers": ["Gagandeep Sidhu"],
+        "tags": ["APP_INITIALIZER", "HttpClient", "HttpInterceptors", "Dependency Injection"]
+      },
+      {
+        "slug": "2022-05-17-M",
+        "type": "blog",
+        "title": "Angular Full Course — Part 1 — Table of Contents",
+        "url": "https://bytecodepandit.medium.com/angular-full-course-part-1-table-of-contents-1398d2bbcf94",
+        "description": "I will cover all the topics one by one and make the topic clickable whenever I will get done. So I request you to follow me and subscribe to my newsletter to get the notification.",
+        "datePosted": "2022-05-17",
+        "dateSource": "2022-05-17",
+        "postedBy": "Steve Witman",
+        "sourceSite": "Medium",
+        "sourceUrl": "https://medium.com/tag/angular/latest",
+        "authorName": "Bytecode Pandit",
+        "authorUrl": "https://bytecodepandit.medium.com",
         "speakers": [],
         "tags": []
       }
