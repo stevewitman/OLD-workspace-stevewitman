@@ -25130,5 +25130,76 @@
         "tags": ["Change Detection", "onPush", "Performance"]
       }
     ]
+  },
+  {
+    "date": "2022-05-17",
+    "dailyPosts": [
+      {
+        "slug": "2022-05-17-A",
+        "type": "video",
+        "duration": "25",
+        "title": "Standalone Components and Optional Modules in Angular",
+        "url": "https://www.youtube.com/watch?v=9RvoyFXHhT4",
+        "description": "Angular framework always evolves and gets better and better with every release. This time really big changes are coming! One of the most significant changes is Standalone components that allow us to build angular applications without @NgModules. Yes, it is still in Developer Preview mode, so the API might change but we can see already the direction and play around with it and start adjusting our libraries and projects.",
+        "datePosted": "2022-05-17",
+        "dateSource": "2022-05-17",
+        "postedBy": "Steve Witman",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "Decoded Frontend",
+        "authorUrl": "https://www.youtube.com/c/DecodedFrontend/videos",
+        "speakers": ["Dmytro Mezhenskyi"],
+        "tags": ["Standalone Components", "Optional Modules"]
+      },
+      {
+        "slug": "2022-05-17-B",
+        "type": "video",
+        "duration": "9",
+        "title": "AG Grid Cell Renderers in Angular",
+        "url": "https://www.youtube.com/watch?v=xsafnM77NVs",
+        "description": "In this video Stephen Cooper explains how to customize AG Grid with Angular Components which can add new rendering or functionality from within an AG Grid cell. These can be normal Angular Components or functions that return HTML.",
+        "datePosted": "2022-05-17",
+        "dateSource": "2022-05-17",
+        "postedBy": "Steve Witman",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "ag-Grid",
+        "authorUrl": "https://www.youtube.com/c/agGrid/videos",
+        "speakers": ["Stephen Cooper"],
+        "tags": ["AG Grid"]
+      },
+      {
+        "slug": "2022-05-17-C",
+        "type": "blog",
+        "title": "Passing callback function to the Angular child component",
+        "url": "https://dev.to/developersmill/passing-callback-function-to-the-angular-child-component-20co",
+        "description": "This example is going to cover the problem that I have been facing recently regarding passing function to the component.",
+        "datePosted": "2022-05-17",
+        "dateSource": "2022-05-17",
+        "postedBy": "Steve Witman",
+        "sourceSite": "DEV Community",
+        "sourceUrl": "https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc",
+        "authorName": "Pawel Pawlak",
+        "authorUrl": "https://dev.to/developersmill",
+        "speakers": ["Pawel Pawlak"],
+        "tags": []
+      },
+      {
+        "slug": "2022-05-17-D",
+        "type": "blog",
+        "title": "Angular: Build your own Context Menu",
+        "url": "https://dev.to/chetan_void/angular-build-your-own-context-menu-18ma",
+        "description": "Quite an amazing topic and much needed in large scale application. Every developer has somehow used html Tables to display records and might have used action buttons like Edit, View or download and list goes on and everyone must have felt that these buttons occupy so much space.",
+        "datePosted": "2022-05-17",
+        "dateSource": "2022-05-17",
+        "postedBy": "Steve Witman",
+        "sourceSite": "DEV Community",
+        "sourceUrl": "https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc",
+        "authorName": "Chetan",
+        "authorUrl": "https://dev.to/chetan_void",
+        "speakers": [],
+        "tags": []
+      }
+    ]
   }
 ]
