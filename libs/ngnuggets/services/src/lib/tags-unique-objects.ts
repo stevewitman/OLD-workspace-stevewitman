@@ -377,6 +377,7 @@ export const tags = [
   { cat: '3rd Party', tag: 'Scully' },
   { cat: '3rd Party', tag: 'Storybook' },
   { cat: '3rd Party', tag: 'TailwindCSS' },
+  { cat: '3rd Party', tag: 'TensorFlowJS' },
   { cat: '3rd Party', tag: 'Transloco' },
   { cat: '3rd Party', tag: 'Travis CI' },
   { cat: '3rd Party', tag: 'VSCode' },
