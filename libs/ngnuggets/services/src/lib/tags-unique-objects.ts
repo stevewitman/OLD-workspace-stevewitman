@@ -31,6 +31,7 @@ export const tags = [
   { cat: 'Angular', tag: 'Deployment' },
   { cat: 'Angular', tag: 'Directives' },
   { cat: 'Angular', tag: 'ElementRef' },
+  { cat: 'Angular', tag: 'ENVIRONMENT_INITIALIZER' },
   { cat: 'Angular', tag: 'Environments' },
   { cat: 'Angular', tag: 'EventEmitter' },
   { cat: 'Angular', tag: 'ExpressionChangedAfterItHasBeenCheckedError' },
