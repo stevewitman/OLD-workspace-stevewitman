@@ -1,0 +1,40 @@
+https://cannyuksel.medium.com/using-charts-in-angular-6fc8e14c1e55
+https://bytecodepandit.medium.com/angular-full-course-part-2-introduction-to-angular-a82c47e72603
+https://paperinflames.medium.com/avoiding-multiple-api-calls-in-angular-by-using-sharereplay-method-of-rxjs-f73755a833e3
+https://medium.com/ngconf/configure-your-angular-apps-with-an-injection-token-be16eee59c40
+s1 https://dev.to/riapacheco/custom-slide-out-menu-component-with-angular-animations-and-scss-453l
+s1 https://renatobogar.me/rxjs-and-angular-pt1
+s6 https://www.youtube.com/watch?v=YM6CeFZAO6o
+s12 https://www.youtube.com/watch?v=cq08bFUrNAA
+s13 https://renatobogar.me/rxjs-pt-3-caching-observables
+21 https://www.youtube.com/watch?v=FNbZKGQnC1Q
+s https://dev.to/deepakjaiswal/netflix-clone-in-angular-using-streaming-with-nodejs-57b9
+s https://renatobogar.me/rxjs-pt-4-reactive-approach
+s https://renatobogar.me/rxjs-pt-5-mapping-returned-data
+s https://renatobogar.me/rxjs-pt-3-caching-observables
+s https://renatobogar.me/rxjs-pt1-terms
+
+https://medium.com/@yuvayuvaraj720444/lesson-15-dynamic-route-and-activatedroute-observable-dcd0a51cd052
+u0 https://www.youtube.com/watch?v=EQJpoyA69c4
+u1 https://www.youtube.com/watch?v=1uitA69ZlIs
+https://medium.com/@onyalioscar/implementing-user-single-session-with-automatic-log-out-using-keycloak-java-spring-boot-and-ef23b0804417
+https://edengoforit.medium.com/angular-ngtemplateoutlet-use-case-afef01641ec1
+u12 https://dev.to/chrollo4ki/easy-caching-with-rxjs-jkl
+u16 https://www.youtube.com/watch?v=MoIOP9G8sUs
+u17 https://www.youtube.com/watch?v=4jHg9_Jb7RM
+u https://medium.com/@rado.sabo/change-color-of-your-svg-icons-without-filter-in-angular-835c35c46d95
+
+m0 https://dev.to/this-is-angular/change-detection-without-change-detection-5pa
+m4 https://dev.to/rainerhahnekamp/ng-news-episode-2220-5c2a
+m7 https://dev.to/hiepxanh/angular-14-standalone-component-help-reduce-bundle-size-and-the-story-behind-you-may-not-know-1f44
+m8 https://www.youtube.com/watch?v=IQXEmCUp5gw
+m8 angular exoerience https://www.spreaker.com/user/14532324/s2e17-paul-spears-on-working-with-diffic?utm_campaign=episode-title&utm_medium=app&utm_source=widget
+m9 https://medium.com/@matsal.dev/angular-how-to-access-the-component-inside-ng-content-using-contentchild-2e88b455b6c2
+m9 https://www.youtube.com/watch?v=oGLLQlWPIoQ
+m10 https://medium.com/@michelle.wiginton00/a-table-with-expandable-and-collapsible-rows-using-angular-59af3bdd8fd1
+m10 https://medium.com/@franprietodeveloper/how-to-disable-events-in-angular-fran-prieto-46ba8a86b89d
+m10 https://betterprogramming.pub/7-key-points-from-state-of-angular-google-i-o-2022-6f2c95540cac
+m11 https://www.youtube.com/watch?v=XzRc2A-WZkA
+m14 https://medium.com/@sankethdesuwar5/create-a-carousel-with-awesome-zoom-effects-like-that-of-amazon-prime-and-netflix-in-angular-940d5c6333cd
+m16 https://www.youtube.com/watch?v=uxqodXpM-HM
+m17 https://dev.to/pantpapasavvas/add-spinner-in-angular-application-with-ngx-spinner-10an

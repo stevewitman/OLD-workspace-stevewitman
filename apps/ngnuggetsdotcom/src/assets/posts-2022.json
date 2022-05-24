@@ -6721,7 +6721,7 @@
         "duration": "51",
         "title": "Angular Dynamic Rendering Options w/ Bonnie Brennan",
         "url": "https://www.youtube.com/watch?v=uDdfwPXj2CY",
-        "description": "",
+        "description": "Many of us know about ngIf and ngFor but not everyone is comfortable yet with things like ngTemplateOutlet, ngComponentOutlet, or ViewContainerRef. If you've seen these mentioned but you're not really using them yet, this talk was made just for you. Bonnie will show you how to implement them easily, which one to use where, and even share a simple stackblitz sample to help you remember everything you learned and implement it in your own projects!",
         "datePosted": "2022-02-09",
         "dateSource": "2022-02-09",
         "postedBy": "Steve Witman",
@@ -6730,7 +6730,7 @@
         "authorName": "Angular Nation",
         "authorUrl": "https://www.youtube.com/channel/UCmlK6Jayb3qqJYNfUmL-DkA/videos",
         "speakers": ["Bonnie Brennan"],
-        "tags": ["Dynamic"]
+        "tags": ["Dynamic", "ng-container", "ng-template", "ngTemplateOutlet", "ngComponentOutlet", "createEmbeddedView", "createComponent", "componentFactoryResolver(deprecated)", "resolveComponentFactory(deprecated)", "let-*", "Performance", "@ViewChild", "TemplateRef", "viewContainerRef"]
       },
       {
         "slug": "2022-02-09-H",
@@ -10378,7 +10378,7 @@
         "authorName": "Techie House",
         "authorUrl": "https://www.youtube.com/channel/UCbgBz2Tepn7je7IP61J0YKg/videos",
         "speakers": [],
-        "tags": ["NgModel", "Data Binding"]
+        "tags": ["ngModel", "Data Binding"]
       },
       {
         "slug": "2022-02-27-J",
@@ -24126,7 +24126,7 @@
         "authorName": "Matsal Dev",
         "authorUrl": "https://medium.com/@matsal.dev",
         "speakers": [],
-        "tags": ["Two-Way Data Binding", "NgModel"]
+        "tags": ["Two-Way Data Binding", "ngModel"]
       },
       {
         "slug": "2022-05-11-M",
@@ -25849,6 +25849,143 @@
         "authorUrl": "",
         "speakers": ["Fabian Gosebrink"],
         "tags": ["Forms", "Reactive Forms", "Validation"]
+      }
+    ]
+  },
+  {
+    "date": "2022-05-20",
+    "dailyPosts": [
+      {
+        "slug": "2022-05-20-A",
+        "type": "blog",
+        "title": "Angular 14 new features",
+        "url": "https://www.webtutpro.com/angular-14-new-features-7f2d223f3b7b",
+        "description": "In this article, we'll look at the new features of Angular 14. The new features of the new angular 14 release include CLI auto completion, typed reactive forms, standalone components, directives and pipes and enhanced template diagnostics.",
+        "datePosted": "2022-05-20",
+        "dateSource": "2022-05-19",
+        "postedBy": "Steve Witman",
+        "sourceSite": "Medium",
+        "sourceUrl": "https://medium.com/tag/angular/latest",
+        "authorName": "Mr Nerd",
+        "authorUrl": "https://ahmedbouchefradiary.medium.com",
+        "speakers": [],
+        "tags": []
+      },
+      {
+        "slug": "2022-05-20-B",
+        "type": "blog",
+        "title": "Lesson 14: Router (Programmatic navigation)",
+        "url": "https://medium.com/@yuvayuvaraj720444/lesson-14-router-programmatic-navigation-fb2e17150f47",
+        "description": "",
+        "datePosted": "2022-05-20",
+        "dateSource": "2022-05-19",
+        "postedBy": "Steve Witman",
+        "sourceSite": "Medium",
+        "sourceUrl": "https://medium.com/tag/angular/latest",
+        "authorName": "Yuvaraj S",
+        "authorUrl": "https://medium.com/@yuvayuvaraj720444",
+        "speakers": [],
+        "tags": ["Routing"]
+      },
+      {
+        "slug": "2022-05-20-C",
+        "type": "video",
+        "duration": "3",
+        "title": "Using NgModule inside a Standalone Component",
+        "url": "https://www.youtube.com/watch?v=NUHA8z8Rmkk",
+        "description": "A short video where I show you how to use a component wrapped in an NgModule inside a component marked as standalone.",
+        "datePosted": "2022-05-20",
+        "dateSource": "2022-05-19",
+        "postedBy": "Steve Witman",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "Dzhavat Ushev",
+        "authorUrl": "https://www.youtube.com/c/DzhavatUshev/videos",
+        "speakers": ["Dzhavat Ushev"],
+        "tags": ["Modules", "Standalone Components"]
+      },
+      {
+        "slug": "2022-05-20-D",
+        "type": "blog",
+        "title": "Angular Pipes Simplified",
+        "url": "https://javascript.plainenglish.io/angular-pipes-simplified-41ec4e1711f3",
+        "description": "If you have been working with Angular, then you must have heard and used the pipes. Today, in this tutorial, we will be simplifying what pipes are, why they should be used and how they should be used.\n\n(photo: by Pawel Czerwinski on Unsplash)",
+        "datePosted": "2022-05-20",
+        "dateSource": "2022-05-20",
+        "postedBy": "Steve Witman",
+        "sourceSite": "Medium",
+        "sourceUrl": "https://medium.com/tag/angular/latest",
+        "authorName": "Avinash Nandan",
+        "authorUrl": "https://medium.com/@avinash.dev21987",
+        "speakers": ["Avinash Nandan"],
+        "tags": ["Pipes"]
+      },
+      {
+        "slug": "2022-05-20-E",
+        "type": "video",
+        "duration": "12",
+        "title": "Learn How to Use Angular Typed Forms",
+        "url": "https://www.youtube.com/watch?v=uME4etc8IsU",
+        "description": " In Angular 14, many great features will be released and in this video, I will explain how to use Typed Reactive Forms. As a bonus, the component will be a standalone one, and will be generated using the ng completion which again is a new feature.",
+        "datePosted": "2022-05-20",
+        "dateSource": "2022-05-20",
+        "postedBy": "Steve Witman",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "Code Shots With Profanis",
+        "authorUrl": "https://www.youtube.com/c/CodeShotsWithProfanis/videos",
+        "speakers": ["Fanis Prodromou"],
+        "tags": ["Typed Forms"]
+      },
+      {
+        "slug": "2022-05-20-F",
+        "type": "video",
+        "duration": "9",
+        "title": "How to debug Angular app using Chrome and Angular DevTools extension",
+        "url": "https://www.youtube.com/watch?v=u58DrxIbHT8",
+        "description": "",
+        "datePosted": "2022-05-20",
+        "dateSource": "2022-05-20",
+        "postedBy": "Steve Witman",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "Rui Wang",
+        "authorUrl": "https://www.youtube.com/user/turingcs2001/videos",
+        "speakers": ["Rui Wang"],
+        "tags": ["Debugging", "DevTools"]
+      },
+      {
+        "slug": "2022-05-20-G",
+        "type": "video",
+        "duration": "9",
+        "title": "Angular for Beginners: Angular Services Tutorial",
+        "url": "https://www.youtube.com/watch?v=fXuYA1ajmDc",
+        "description": " In this Angular services tutorial for beginners, you will learn what a service is and how to create one as well as how to use your Angular service inside of an angular component. We will be going over how to generate a service from the Angular CLI and also how to connect our angular service to an api in order to retrieve data.",
+        "datePosted": "2022-05-20",
+        "dateSource": "2022-05-20",
+        "postedBy": "Steve Witman",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "Code Legends",
+        "authorUrl": "https://www.youtube.com/channel/UCIVPPRvwwEh_rZoQVZGXR7A/videos",
+        "speakers": [],
+        "tags": ["Services"]
+      },
+      {
+        "slug": "2022-05-20-H",
+        "type": "blog",
+        "title": "Understanding Services and Dependency Injection in Angular",
+        "url": "https://medium.com/geekculture/understanding-services-and-dependency-injection-in-angular-175a5c893dcc",
+        "description": "Angular distinguishes components from services to increase modularity and reusability. By separating a component's view-related functionality from other kinds of processing, you can make your component classes lean and efficient.",
+        "datePosted": "2022-05-20",
+        "dateSource": "2022-05-20",
+        "postedBy": "Steve Witman",
+        "sourceSite": "Medium",
+        "sourceUrl": "https://medium.com/tag/angular/latest",
+        "authorName": "Rahul Kapoor",
+        "authorUrl": "https://medium.com/@kapoorrahul",
+        "speakers": ["Rahul Kapoor"],
+        "tags": ["Dependency Injection"]
       }
     ]
   }
