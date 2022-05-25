@@ -1,19 +1,4 @@
-https://dev.to/this-is-angular/change-detection-without-change-detection-5pa
-m4 https://dev.to/rainerhahnekamp/ng-news-episode-2220-5c2a
-m7 https://dev.to/hiepxanh/angular-14-standalone-component-help-reduce-bundle-size-and-the-story-behind-you-may-not-know-1f44
-m8 https://www.youtube.com/watch?v=IQXEmCUp5gw
-m8 angular exoerience https://www.spreaker.com/user/14532324/s2e17-paul-spears-on-working-with-diffic?utm_campaign=episode-title&utm_medium=app&utm_source=widget
-m9 https://medium.com/@matsal.dev/angular-how-to-access-the-component-inside-ng-content-using-contentchild-2e88b455b6c2
-m9 https://www.youtube.com/watch?v=oGLLQlWPIoQ
-m10 https://medium.com/@michelle.wiginton00/a-table-with-expandable-and-collapsible-rows-using-angular-59af3bdd8fd1
-m10 https://medium.com/@franprietodeveloper/how-to-disable-events-in-angular-fran-prieto-46ba8a86b89d
-m10 https://betterprogramming.pub/7-key-points-from-state-of-angular-google-i-o-2022-6f2c95540cac
-m11 https://www.youtube.com/watch?v=XzRc2A-WZkA
-m14 https://medium.com/@sankethdesuwar5/create-a-carousel-with-awesome-zoom-effects-like-that-of-amazon-prime-and-netflix-in-angular-940d5c6333cd
-m16 https://www.youtube.com/watch?v=uxqodXpM-HM
-m17 https://dev.to/pantpapasavvas/add-spinner-in-angular-application-with-ngx-spinner-10an
 
-m16 https://dev.to/pantpapasavvas/add-spinner-in-angular-application-with-ngx-spinner-10an
 m22 https://www.youtube.com/watch?v=WAIK20Pft6M
 t1 https://www.youtube.com/watch?v=N1u44QQ64lg
 t5 https://golapyd.medium.com/how-to-avoid-cors-error-in-angular-development-mode-dd1f048c73bf
@@ -30,3 +15,8 @@ t12 https://saackef.com/angular-composing-directives-with-di-934803667f3
 t12 https://medium.com/@matsal.dev/angular-difference-between-observables-and-promises-in-a-nutshell-2a79617029a7
 t13 https://www.youtube.com/watch?v=OFgR-GV5BfM
 t14 https://blog.angular.io/angulars-vision-for-the-future-3cfca5e7b448
+
+w2 https://dev.to/ayyash/catching-and-displaying-ui-errors-with-toast-messages-in-angular-37bj
+w6 https://www.youtube.com/watch?v=vzgouJbyum0
+w6 https://www.telerik.com/blogs/angular-basics-using-localstorage-object-keep-data-browser
+w7 A+ https://www.spreaker.com/user/ng-conf/ap-show-s3e10-darin-webb-edit-1
