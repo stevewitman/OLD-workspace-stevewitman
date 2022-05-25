@@ -1,14 +1,4 @@
-https://medium.com/@yuvayuvaraj720444/lesson-15-dynamic-route-and-activatedroute-observable-dcd0a51cd052
-u0 https://www.youtube.com/watch?v=EQJpoyA69c4
-u1 https://www.youtube.com/watch?v=1uitA69ZlIs
-https://medium.com/@onyalioscar/implementing-user-single-session-with-automatic-log-out-using-keycloak-java-spring-boot-and-ef23b0804417
-https://edengoforit.medium.com/angular-ngtemplateoutlet-use-case-afef01641ec1
-u12 https://dev.to/chrollo4ki/easy-caching-with-rxjs-jkl
-u16 https://www.youtube.com/watch?v=MoIOP9G8sUs
-u17 https://www.youtube.com/watch?v=4jHg9_Jb7RM
-u https://medium.com/@rado.sabo/change-color-of-your-svg-icons-without-filter-in-angular-835c35c46d95
-
-m0 https://dev.to/this-is-angular/change-detection-without-change-detection-5pa
+https://dev.to/this-is-angular/change-detection-without-change-detection-5pa
 m4 https://dev.to/rainerhahnekamp/ng-news-episode-2220-5c2a
 m7 https://dev.to/hiepxanh/angular-14-standalone-component-help-reduce-bundle-size-and-the-story-behind-you-may-not-know-1f44
 m8 https://www.youtube.com/watch?v=IQXEmCUp5gw

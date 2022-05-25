@@ -80,6 +80,7 @@ export const tags = [
   { cat: 'Angular', tag: 'createComponent' },
   { cat: 'Angular', tag: 'createEmbeddedView' },
   { cat: 'Angular', tag: 'componentFactoryResolver(deprecated)' },
+  { cat: 'Angular', tag: 'c' },
   { cat: 'Angular', tag: 'let-*' },
   { cat: 'Angular', tag: 'ng build' },
   { cat: 'Angular', tag: 'ng completion' },
