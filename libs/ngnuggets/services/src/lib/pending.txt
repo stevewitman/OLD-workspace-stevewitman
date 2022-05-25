@@ -1,19 +1,3 @@
-https://cannyuksel.medium.com/using-charts-in-angular-6fc8e14c1e55
-https://bytecodepandit.medium.com/angular-full-course-part-2-introduction-to-angular-a82c47e72603
-https://paperinflames.medium.com/avoiding-multiple-api-calls-in-angular-by-using-sharereplay-method-of-rxjs-f73755a833e3
-https://medium.com/ngconf/configure-your-angular-apps-with-an-injection-token-be16eee59c40
-s1 https://dev.to/riapacheco/custom-slide-out-menu-component-with-angular-animations-and-scss-453l
-s1 https://renatobogar.me/rxjs-and-angular-pt1
-s6 https://www.youtube.com/watch?v=YM6CeFZAO6o
-s12 https://www.youtube.com/watch?v=cq08bFUrNAA
-s13 https://renatobogar.me/rxjs-pt-3-caching-observables
-21 https://www.youtube.com/watch?v=FNbZKGQnC1Q
-s https://dev.to/deepakjaiswal/netflix-clone-in-angular-using-streaming-with-nodejs-57b9
-s https://renatobogar.me/rxjs-pt-4-reactive-approach
-s https://renatobogar.me/rxjs-pt-5-mapping-returned-data
-s https://renatobogar.me/rxjs-pt-3-caching-observables
-s https://renatobogar.me/rxjs-pt1-terms
-
 https://medium.com/@yuvayuvaraj720444/lesson-15-dynamic-route-and-activatedroute-observable-dcd0a51cd052
 u0 https://www.youtube.com/watch?v=EQJpoyA69c4
 u1 https://www.youtube.com/watch?v=1uitA69ZlIs
@@ -38,3 +22,21 @@ m11 https://www.youtube.com/watch?v=XzRc2A-WZkA
 m14 https://medium.com/@sankethdesuwar5/create-a-carousel-with-awesome-zoom-effects-like-that-of-amazon-prime-and-netflix-in-angular-940d5c6333cd
 m16 https://www.youtube.com/watch?v=uxqodXpM-HM
 m17 https://dev.to/pantpapasavvas/add-spinner-in-angular-application-with-ngx-spinner-10an
+
+m16 https://dev.to/pantpapasavvas/add-spinner-in-angular-application-with-ngx-spinner-10an
+m22 https://www.youtube.com/watch?v=WAIK20Pft6M
+t1 https://www.youtube.com/watch?v=N1u44QQ64lg
+t5 https://golapyd.medium.com/how-to-avoid-cors-error-in-angular-development-mode-dd1f048c73bf
+t7 https://www.youtube.com/watch?v=xk8L5P6-lEg
+t8 https://dev.to/signoz/complete-guide-to-graphql-in-angular-with-example-2fh5
+t8 https://www.youtube.com/watch?v=KNTN-nsbV7M
+t8 https://www.youtube.com/watch?v=aTRjXA_L1dU
+t9 https://nevzatopcu.medium.com/what-is-new-in-angular-14-d31edf91fd3e
+t9 https://dev.to/oktadev/how-to-build-micro-frontends-using-module-federation-in-angular-4ib2
+t10 https://www.youtube.com/watch?v=2i7jopTKjY0
+t11 https://www.youtube.com/watch?v=rEO-lnOHhPM
+t12 https://dev.to/cppshane/vs-code-configuration-for-netangular-projects-418h
+t12 https://saackef.com/angular-composing-directives-with-di-934803667f3
+t12 https://medium.com/@matsal.dev/angular-difference-between-observables-and-promises-in-a-nutshell-2a79617029a7
+t13 https://www.youtube.com/watch?v=OFgR-GV5BfM
+t14 https://blog.angular.io/angulars-vision-for-the-future-3cfca5e7b448
