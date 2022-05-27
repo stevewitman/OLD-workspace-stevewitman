@@ -1,22 +1,34 @@
-
-m22 https://www.youtube.com/watch?v=WAIK20Pft6M
-t1 https://www.youtube.com/watch?v=N1u44QQ64lg
-t5 https://golapyd.medium.com/how-to-avoid-cors-error-in-angular-development-mode-dd1f048c73bf
-t7 https://www.youtube.com/watch?v=xk8L5P6-lEg
-t8 https://dev.to/signoz/complete-guide-to-graphql-in-angular-with-example-2fh5
-t8 https://www.youtube.com/watch?v=KNTN-nsbV7M
-t8 https://www.youtube.com/watch?v=aTRjXA_L1dU
-t9 https://nevzatopcu.medium.com/what-is-new-in-angular-14-d31edf91fd3e
-t9 https://dev.to/oktadev/how-to-build-micro-frontends-using-module-federation-in-angular-4ib2
-t10 https://www.youtube.com/watch?v=2i7jopTKjY0
-t11 https://www.youtube.com/watch?v=rEO-lnOHhPM
-t12 https://dev.to/cppshane/vs-code-configuration-for-netangular-projects-418h
-t12 https://saackef.com/angular-composing-directives-with-di-934803667f3
-t12 https://medium.com/@matsal.dev/angular-difference-between-observables-and-promises-in-a-nutshell-2a79617029a7
-t13 https://www.youtube.com/watch?v=OFgR-GV5BfM
-t14 https://blog.angular.io/angulars-vision-for-the-future-3cfca5e7b448
+t7 
+t8 
+t8 
+t8 
+t9 
+t9 
+t10 
+t11 
+t12 
+t12 
+t12 
+t13 
+t14 
 
 w2 https://dev.to/ayyash/catching-and-displaying-ui-errors-with-toast-messages-in-angular-37bj
 w6 https://www.youtube.com/watch?v=vzgouJbyum0
 w6 https://www.telerik.com/blogs/angular-basics-using-localstorage-object-keep-data-browser
 w7 A+ https://www.spreaker.com/user/ng-conf/ap-show-s3e10-darin-webb-edit-1
+w9 https://dev.to/oktadev/secure-and-deploy-micro-frontends-with-angular-1b3p
+m12 https://www.youtube.com/watch?v=lpJMWgWyKQ0
+w13 https://www.youtube.com/watch?v=WmKi84JTQLY
+w14 https://dev.to/bwca/turn-angular-application-into-chrome-extension-2mkn
+w14 https://dev.to/grapecity/how-to-build-a-responsive-dashboard-application-in-angular-4idn
+w15 https://github.com/angular/angular/releases/tag/13.3.10
+w15 https://github.com/angular/angular/releases/tag/14.0.0-rc.2
+w16 https://dev.to/riapacheco/parent-child-component-communication-with-angular-and-vanilla-js-1pae
+w20 https://www.youtube.com/watch?v=PMpRYtNcsZs
+
+r1 https://bytecodepandit.medium.com/angular-full-course-part-3-components-32d8a18eda2e
+r7 https://webrush.io/episodes/episode-185-speed-up-frontend-development-with-maria-korneeva
+r10 https://www.youtube.com/watch?v=6N5_b_tohCU 
+r11 https://www.youtube.com/watch?v=r-MlQQFRonc
+r14 https://medium.com/@colinbroberg/angular-component-inheritance-d5057ade463e
+r14 https://dev.to/robertinoc_dev/build-secure-ionic-apps-with-angular-and-jhipster-4h02
