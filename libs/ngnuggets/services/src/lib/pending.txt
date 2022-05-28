@@ -1,30 +1,10 @@
-t7 
-t8 
-t8 
-t8 
-t9 
-t9 
-t10 
-t11 
-t12 
-t12 
-t12 
-t13 
-t14 
+16th https://okanyesiloglu.medium.com/understanding-pipes-in-angular-49e61711fcd6
 
-w2 https://dev.to/ayyash/catching-and-displaying-ui-errors-with-toast-messages-in-angular-37bj
-w6 https://www.youtube.com/watch?v=vzgouJbyum0
-w6 https://www.telerik.com/blogs/angular-basics-using-localstorage-object-keep-data-browser
-w7 A+ https://www.spreaker.com/user/ng-conf/ap-show-s3e10-darin-webb-edit-1
-w9 https://dev.to/oktadev/secure-and-deploy-micro-frontends-with-angular-1b3p
-m12 https://www.youtube.com/watch?v=lpJMWgWyKQ0
-w13 https://www.youtube.com/watch?v=WmKi84JTQLY
-w14 https://dev.to/bwca/turn-angular-application-into-chrome-extension-2mkn
-w14 https://dev.to/grapecity/how-to-build-a-responsive-dashboard-application-in-angular-4idn
-w15 https://github.com/angular/angular/releases/tag/13.3.10
-w15 https://github.com/angular/angular/releases/tag/14.0.0-rc.2
-w16 https://dev.to/riapacheco/parent-child-component-communication-with-angular-and-vanilla-js-1pae
-w20 https://www.youtube.com/watch?v=PMpRYtNcsZs
+
+w14 
+w15 
+w16 
+w20 
 
 r1 https://bytecodepandit.medium.com/angular-full-course-part-3-components-32d8a18eda2e
 r7 https://webrush.io/episodes/episode-185-speed-up-frontend-development-with-maria-korneeva
@@ -32,3 +12,15 @@ r10 https://www.youtube.com/watch?v=6N5_b_tohCU
 r11 https://www.youtube.com/watch?v=r-MlQQFRonc
 r14 https://medium.com/@colinbroberg/angular-component-inheritance-d5057ade463e
 r14 https://dev.to/robertinoc_dev/build-secure-ionic-apps-with-angular-and-jhipster-4h02
+
+20th https://medium.com/applearn-engineering/dont-loose-your-marbles-testing-rxjs-observable-in-jasmine-268e23e506be
+r https://medium.com/@lucapiciollo/formatdate-formatnumber-typescript-57772b770cce
+f5 https://www.youtube.com/watch?v=_uWkxyLeMmY
+f8 https://www.youtube.com/watch?v=8PysoU6seeM
+f8 https://www.youtube.com/watch?v=4TEaBwlr200
+f11 https://www.youtube.com/watch?v=pVUvRN1rykg
+f11 https://www.youtube.com/watch?v=2QnCNR5nzhg
+f15 https://renatobogar.me/rxjs-pt-6-higher-order-mapping-operators
+f18 https://dev.to/braydoncoyer/learn-how-to-click-a-button-when-angular-unit-testing-3mb9
+
+

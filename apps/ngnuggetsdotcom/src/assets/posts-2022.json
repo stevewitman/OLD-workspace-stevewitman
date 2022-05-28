@@ -8476,7 +8476,7 @@
         "authorName": "Nihira Techiees",
         "authorUrl": "https://www.youtube.com/channel/UCsbmVmB_or8sVLLEq4XhE_A/videos",
         "speakers": [],
-        "tags": ["Local Storage"]
+        "tags": ["localStorage"]
       },
       {
         "slug": "2022-02-18-F",
@@ -17968,7 +17968,7 @@
         "authorName": "AyyazTech",
         "authorUrl": "https://www.youtube.com/c/AyyazTech/videos",
         "speakers": [],
-        "tags": ["Local Storage"]
+        "tags": ["localStorage"]
       },
       {
         "slug": "2022-04-07-F",
@@ -19338,7 +19338,7 @@
         "authorName": "yuvaraj_11",
         "authorUrl": "https://dev.to/yuvan11",
         "speakers": [],
-        "tags": ["SPA", "Configuration"]
+        "tags": ["SPA", "SingleSPA", "Configuration"]
       },
       {
         "slug": "2022-04-14-F",
@@ -20447,7 +20447,7 @@
         "authorName": "The Angular Plus Show",
         "authorUrl": "https://www.spreaker.com/show/angular-show",
         "speakers": ["Joel Denning"],
-        "tags": ["Micro Frontends"]
+        "tags": ["Micro Frontends", "SingleSPA"]
       },
       {
         "slug": "2022-04-20-J",
@@ -23894,7 +23894,7 @@
         "authorName": "Jay",
         "authorUrl": "https://dev.to/jay3dec",
         "speakers": [],
-        "tags": ["Local Storage"]
+        "tags": ["localStorage"]
       },
       {
         "slug": "2022-05-10-F",
@@ -24799,7 +24799,7 @@
         "authorName": "Ria Pacheco",
         "authorUrl": "https://dev.to/riapacheco",
         "speakers": ["Ria Pacheco"],
-        "tags": ["RxJS", "Behavior Subject", "Async Pipe", "Animations"]
+        "tags": ["RxJS", "BehaviorSubject", "Async Pipe", "Animations"]
       }
     ]
   },
@@ -26779,22 +26779,241 @@
         "authorUrl": "https://www.youtube.com/c/WomenWhoCodeGlobal/videos",
         "speakers": ["Orson Sampson"],
         "tags": ["NGXS"]
-      }
+      },
       {
         "slug": "2022-05-24-R",
         "type": "blog",
         "title": "Angular's Vision for the Future",
         "url": "https://blog.angular.io/angulars-vision-for-the-future-3cfca5e7b448",
-        "description": "In the Angular 2021 recap and 2022 preview post, we shared our plans for 2022. As we are almost midway through 2022, this is a great time to give more insights into our long-term plan and some hints of what we might work on in 2023.",
+        "description": "In the Angular 2021 recap and 2022 preview post, we shared our plans for 2022. As we are almost midway through 2022, this is a great time to give more insights into our long-term plan and some hints of what we might work on in 2023.\n\n(photo by Pixabay)",
         "datePosted": "2022-05-24",
         "dateSource": "2022-05-24",
         "postedBy": "Steve Witman",
-        "sourceSite": "Medium",
-        "sourceUrl": "https://medium.com/tag/angular/latest",
+        "sourceSite": "Angular Blog",
+        "sourceUrl": "https://blog.angular.io",
         "authorName": "Madleina Scheidegger",
         "authorUrl": "https://medium.com/@madleina_s",
         "speakers": ["Madleina Scheidegger"],
         "tags": []
+      }
+    ]
+  },
+  {
+    "date": "2022-05-25",
+    "dailyPosts": [
+      {
+        "slug": "2022-05-25-A",
+        "type": "blog",
+        "title": "Catching and displaying UI errors with toast messages in Angular",
+        "url": "https://dev.to/ayyash/catching-and-displaying-ui-errors-with-toast-messages-in-angular-37bj",
+        "description": "",
+        "datePosted": "2022-05-25",
+        "dateSource": "2022-05-25",
+        "postedBy": "Steve Witman",
+        "sourceSite": "DEV Community",
+        "sourceUrl": "https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc",
+        "authorName": "Ayyash",
+        "authorUrl": "https://dev.to/ayyash",
+        "speakers": [],
+        "tags": ["Errors", "RxJS", "BehaviorSubject"]
+      },
+      {
+        "slug": "2022-05-25-B",
+        "type": "video",
+        "duration": "19",
+        "title": "2 hours to build this!? Is TDD in Angular really worth it?",
+        "url": "https://www.youtube.com/watch?v=vzgouJbyum0",
+        "description": "In this video, we walk through how a simple feature was built in Angular using TDD and why spending four times as long building it when compared to not writing tests is still worth it.",
+        "datePosted": "2022-05-25",
+        "dateSource": "2022-05-25",
+        "postedBy": "Steve Witman",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "Joshua Morony",
+        "authorUrl": "https://www.youtube.com/c/JoshuaMorony/videos",
+        "speakers": ["Joshua Morony"],
+        "tags": ["Testing", "TDD"]
+      },
+      {
+        "slug": "2022-05-25-C",
+        "type": "blog",
+        "duration": "",
+        "title": "Angular Basics: Using localStorage Object To Keep Data in the Browser",
+        "url": "https://www.telerik.com/blogs/angular-basics-using-localstorage-object-keep-data-browser",
+        "description": "Learn how to save user-preferred settings and data in the browser with the localStorage API in Angular.",
+        "datePosted": "2022-05-25",
+        "dateSource": "2022-05-25",
+        "postedBy": "Steve Witman",
+        "sourceSite": "Progress Telerik Blog",
+        "sourceUrl": "https://www.telerik.com/blogs/web-angular",
+        "authorName": "Dany Paredes",
+        "authorUrl": "https://www.telerik.com/blogs/author/dany-paredes",
+        "speakers": ["Dany Paredes"],
+        "tags": ["localStorage"]
+      },
+      {
+        "slug": "2022-05-25-D",
+        "type": "podcast",
+        "duration": "56",
+        "title": "S3 E10 - Empowering More Kids to Learn Code",
+        "url": "https://www.spreaker.com/user/ng-conf/ap-show-s3e10-darin-webb-edit-1",
+        "description": "Do you want to increase diversity in computing? In this episode, Darin Webb shares how you can empower tomorrow's generations by increasing classroom access to computers and computer science courses and what it's like migrating your career from the corporate to the non-profit sector.",
+        "datePosted": "2022-05-25",
+        "dateSource": "2022-05-25",
+        "postedBy": "Steve Witman",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://www.spreaker.com",
+        "authorName": "The Angular Plus Show",
+        "authorUrl": "https://www.spreaker.com/show/angular-show",
+        "speakers": ["Darin Webb"],
+        "tags": []
+      },
+      {
+        "slug": "2022-05-25-E",
+        "type": "blog",
+        "title": "Secure and Deploy Micro Frontends with Angular",
+        "url": "https://dev.to/oktadev/secure-and-deploy-micro-frontends-with-angular-1b3p",
+        "description": "This post is part two in a series about building an e-commerce site with Angular using micro frontends. We use Webpack 5 with Module Federation to wire the micro frontends together, demonstrate sharing authenticated state between the different front ends, prepare for deployment using dynamic module loading, and deploy it all to Vercel's free hosting plan.",
+        "datePosted": "2022-05-25",
+        "dateSource": "2022-05-25",
+        "postedBy": "Steve Witman",
+        "sourceSite": "DEV Community",
+        "sourceUrl": "https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc",
+        "authorName": "Alisa",
+        "authorUrl": "https://dev.to/alisaduncan",
+        "speakers": ["Alisa Duncan"],
+        "tags": ["Micro Frontends", "Module Federation", "Deployment"]
+      },
+      {
+        "slug": "2022-05-25-F",
+        "type": "video",
+        "duration": "7",
+        "title": "Angular Material #47 - CDK Observers",
+        "url": "https://www.youtube.com/watch?v=lpJMWgWyKQ0",
+        "description": "Angular Material is a UI Component-Based Library for Angular, and through this series, we will take a look into each feature that Angular Material has to offer.",
+        "datePosted": "2022-05-25",
+        "dateSource": "2022-05-25",
+        "postedBy": "Steve Witman",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "Omerko",
+        "authorUrl": "https://www.youtube.com/c/Omerko/videos",
+        "speakers": ["Stefan Omerovic"],
+        "tags": ["CDK", "Observers"]
+      },
+      {
+        "slug": "2022-05-25-G",
+        "type": "video",
+        "duration": "11",
+        "title": "Get to Know the Angular Team | Emma Twersky | ng-conf 2022",
+        "url": "https://www.youtube.com/watch?v=WmKi84JTQLY",
+        "description": "",
+        "datePosted": "2022-05-25",
+        "dateSource": "2022-05-25",
+        "postedBy": "Steve Witman",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "ng-conf",
+        "authorUrl": "https://www.youtube.com/c/ngconfonline/videos",
+        "speakers": ["Emma Twersky"],
+        "tags": []
+      },
+      {
+        "slug": "2022-05-25-H",
+        "type": "blog",
+        "title": "Turn Angular application into Chrome extension",
+        "url": "https://dev.to/bwca/turn-angular-application-into-chrome-extension-2mkn",
+        "description": "It's pretty easy actually, this is going to be a short one.",
+        "datePosted": "2022-05-25",
+        "dateSource": "2022-05-25",
+        "postedBy": "Steve Witman",
+        "sourceSite": "DEV Community",
+        "sourceUrl": "https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc",
+        "authorName": "Volodymyr Yepishev",
+        "authorUrl": "https://dev.to/bwca",
+        "speakers": ["Volodymyr Yepishev"],
+        "tags": []
+      },
+      {
+        "slug": "2022-05-25-J",
+        "type": "blog",
+        "title": "How to Build a Responsive Dashboard Application in Angular",
+        "url": "https://dev.to/grapecity/how-to-build-a-responsive-dashboard-application-in-angular-4idn",
+        "description": "Dashboards have become a crucial part of many businesses; the ability to get the information you need at a glance is invaluable, improving both the speed at which your business and employees operate and allowing them to make better decisions based on the data that they are provided.",
+        "datePosted": "2022-05-25",
+        "dateSource": "2022-05-25",
+        "postedBy": "Steve Witman",
+        "sourceSite": "DEV Community",
+        "sourceUrl": "https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc",
+        "authorName": "Chelsea Devereaux",
+        "authorUrl": "https://dev.to/chelseadevereaux",
+        "speakers": ["Chelsea Devereaux"],
+        "tags": ["Responsive"]
+      },
+      {
+        "slug": "2022-05-25-K",
+        "type": "release",
+        "title": "Angular Release: v13.3.10",
+        "url": "https://github.com/angular/angular/releases/tag/13.3.10",
+        "description": "",
+        "datePosted": "2022-05-25",
+        "dateSource": "2022-05-25",
+        "postedBy": "Steve Witman",
+        "sourceSite": "GitHub Angular",
+        "sourceUrl": "https://github.com/angular/angular/releases",
+        "authorName": "Alex Rickabaugh",
+        "authorUrl": "https://github.com/alxhub",
+        "speakers": [],
+        "tags": ["Release"]
+      },
+      {
+        "slug": "2022-05-25-L",
+        "type": "release",
+        "title": "Angular Release: v14.0.0-rc.2",
+        "url": "https://github.com/angular/angular/releases/tag/14.0.0-rc.2",
+        "description": "",
+        "datePosted": "2022-05-25",
+        "dateSource": "2022-05-25",
+        "postedBy": "Steve Witman",
+        "sourceSite": "GitHub Angular",
+        "sourceUrl": "https://github.com/angular/angular/releases",
+        "authorName": "Alex Rickabaugh",
+        "authorUrl": "https://github.com/alxhub",
+        "speakers": [],
+        "tags": ["Release"]
+      },
+      {
+        "slug": "2022-05-25-M",
+        "type": "blog",
+        "title": "Parent-Child Component Communication with Angular and Vanilla JS",
+        "url": "https://dev.to/riapacheco/parent-child-component-communication-with-angular-and-vanilla-js-1pae",
+        "description": "This post uses the code picked up from my last article (that created a custom slide-out menu with dynamic data), the code of which you can fork from this branch. As an aside: this is a long article because it's the one I needed when I started coding with Angular.",
+        "datePosted": "2022-05-25",
+        "dateSource": "2022-05-25",
+        "postedBy": "Steve Witman",
+        "sourceSite": "DEV Community",
+        "sourceUrl": "https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc",
+        "authorName": "Ria Pacheco",
+        "authorUrl": "https://dev.to/riapacheco",
+        "speakers": ["Ria Pacheco"],
+        "tags": ["Components", "Data Transfer"]
+      },
+      {
+        "slug": "2022-05-25-N",
+        "type": "video",
+        "duration": "18",
+        "title": "Building an Angular Micro-Frontend Application with Single SPA",
+        "url": "https://www.youtube.com/watch?v=PMpRYtNcsZs",
+        "description": "Start building large front-end applications using the Single-SPA Micro-Frontend Library with different front-end technology.",
+        "datePosted": "2022-05-25",
+        "dateSource": "2022-05-25",
+        "postedBy": "Steve Witman",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "Soft Code",
+        "authorUrl": "https://www.youtube.com/channel/UCzRW8AaTPD_IisfNbn52aVQ/videos",
+        "speakers": [],
+        "tags": ["Micro Frontends", "SingleSPA"]
       }
     ]
   }
