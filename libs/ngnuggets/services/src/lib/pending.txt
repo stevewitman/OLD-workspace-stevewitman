@@ -1,17 +1,9 @@
 16th https://okanyesiloglu.medium.com/understanding-pipes-in-angular-49e61711fcd6
 
-
-w14 
-w15 
-w16 
-w20 
-
-r1 https://bytecodepandit.medium.com/angular-full-course-part-3-components-32d8a18eda2e
-r7 https://webrush.io/episodes/episode-185-speed-up-frontend-development-with-maria-korneeva
-r10 https://www.youtube.com/watch?v=6N5_b_tohCU 
-r11 https://www.youtube.com/watch?v=r-MlQQFRonc
-r14 https://medium.com/@colinbroberg/angular-component-inheritance-d5057ade463e
-r14 https://dev.to/robertinoc_dev/build-secure-ionic-apps-with-angular-and-jhipster-4h02
+ 
+r11 
+r14 
+r14 
 
 20th https://medium.com/applearn-engineering/dont-loose-your-marbles-testing-rxjs-observable-in-jasmine-268e23e506be
 r https://medium.com/@lucapiciollo/formatdate-formatnumber-typescript-57772b770cce

@@ -19320,7 +19320,7 @@
         "sourceSite": "Web Rush",
         "sourceUrl": "https://webrush.io",
         "authorName": "Ramona Schwering",
-        "authorUrl": "https://twitter.com/leichteckig",
+        "authorUrl": "",
         "speakers": ["Ramona Schwering"],
         "tags": ["Testing"]
       },
@@ -25761,10 +25761,10 @@
         "postedBy": "Steve Witman",
         "sourceSite": "Web Rush",
         "sourceUrl": "https://webrush.io",
-        "authorName": "Ramona Schwering",
-        "authorUrl": "https://twitter.com/leichteckig",
-        "speakers": ["Ramona Schwering"],
-        "tags": ["Testing"]
+        "authorName": "",
+        "authorUrl": "",
+        "speakers": [""],
+        "tags": ["Update"]
       },
       {
         "slug": "2022-05-19-F",
@@ -27014,6 +27014,110 @@
         "authorUrl": "https://www.youtube.com/channel/UCzRW8AaTPD_IisfNbn52aVQ/videos",
         "speakers": [],
         "tags": ["Micro Frontends", "SingleSPA"]
+      }
+    ]
+  },
+  {
+    "date": "2022-05-26",
+    "dailyPosts": [
+      {
+        "slug": "2022-05-26-A",
+        "type": "blog",
+        "title": "Angular Full Course — Part 3 — Components",
+        "url": "https://bytecodepandit.medium.com/angular-full-course-part-3-components-32d8a18eda2e",
+        "description": "Hi Guys, in the previous blog, we discussed the brief introductions for the angular you can visit and read. Today we will discuss the most basic UI building block of angular called components.",
+        "datePosted": "2022-05-26",
+        "dateSource": "2022-05-26",
+        "postedBy": "Steve Witman",
+        "sourceSite": "Medium",
+        "sourceUrl": "https://medium.com/tag/angular/latest",
+        "authorName": "Bytecode Pandit",
+        "authorUrl": "https://bytecodepandit.medium.com",
+        "speakers": [],
+        "tags": ["Components"]
+      },
+      {
+        "slug": "2022-05-26-B",
+        "type": "podcast",
+        "duration": "41",
+        "title": "Episode 185: Speed Up Frontend Development With Maria Korneeva",
+        "url": "https://webrush.io/episodes/episode-185-speed-up-frontend-development-with-maria-korneeva",
+        "description": "Maria Korneeva talks through options for speeding up frontend development, including running a fake backend server, using linters, resizing images, IDE utilities, and more.",
+        "datePosted": "2022-05-26",
+        "dateSource": "2022-05-26",
+        "postedBy": "Steve Witman",
+        "sourceSite": "Web Rush",
+        "sourceUrl": "https://webrush.io",
+        "authorName": "Maria Korneeva",
+        "authorUrl": "https://twitter.com/BrowserPerson",
+        "speakers": ["Maria Korneeva"],
+        "tags": ["Testing"]
+      },
+      {
+        "slug": "2022-05-26-C",
+        "type": "video",
+        "duration": "6",
+        "title": "Angular CDK Keyboard List Navigation and Selection",
+        "url": "https://www.youtube.com/watch?v=6N5_b_tohCU",
+        "description": "We have a Product item list and we want users to be able to navigate through it using the keyboard, perform typeahead searches, and select an active item.",
+        "datePosted": "2022-05-26",
+        "dateSource": "2022-05-26",
+        "postedBy": "Steve Witman",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "Firefly Semantics Media",
+        "authorUrl": "https://www.youtube.com/channel/UCwU64qy-66Ivm81OzRvjgXw/videos",
+        "speakers": [],
+        "tags": ["CDK"]
+      },
+      {
+        "slug": "2022-05-26-D",
+        "type": "video",
+        "duration": "11",
+        "title": "Get to Know the Angular Team | Miles Malerba | ng-conf 2022",
+        "url": "https://www.youtube.com/watch?v=r-MlQQFRonc",
+        "description": "",
+        "datePosted": "2022-05-26",
+        "dateSource": "2022-05-26",
+        "postedBy": "Steve Witman",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "ng-conf",
+        "authorUrl": "https://www.youtube.com/c/ngconfonline/videos",
+        "speakers": ["Miles Malerba"],
+        "tags": []
+      },
+      {
+        "slug": "2022-05-26-E",
+        "type": "blog",
+        "title": "Angular Component Inheritance",
+        "url": "https://medium.com/@colinbroberg/angular-component-inheritance-d5057ade463e",
+        "description": "Inheritance, in any programming language, is an excellent way to maintain an object-oriented design, as well as reduce redundant code. It may not be apparent when first learning the Angular framework, but components can inherit from other components, thereby reusing methods and properties. Let's work through an example of how one might use Angular inheritance to build a more elegant application.",
+        "datePosted": "2022-05-26",
+        "dateSource": "2022-05-26",
+        "postedBy": "Steve Witman",
+        "sourceSite": "Medium",
+        "sourceUrl": "https://medium.com/tag/angular/latest",
+        "authorName": "Colin Broberg",
+        "authorUrl": "https://medium.com/@colinbroberg",
+        "speakers": ["Colin Broberg"],
+        "tags": ["Components"]
+      },
+      {
+        "slug": "2022-05-26-F",
+        "type": "blog",
+        "title": "Build Secure Ionic Apps with Angular and JHipster",
+        "url": "https://dev.to/robertinoc_dev/build-secure-ionic-apps-with-angular-and-jhipster-4h02",
+        "description": "Build an Ionic + Angular frontend for your Spring Boot backend, all using the power of JHipster! Secured by OpenID Connect.",
+        "datePosted": "2022-05-26",
+        "dateSource": "2022-05-26",
+        "postedBy": "Steve Witman",
+        "sourceSite": "DEV Community",
+        "sourceUrl": "https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc",
+        "authorName": "Robertino",
+        "authorUrl": "https://dev.to/robertinoc_dev",
+        "speakers": [],
+        "tags": []
       }
     ]
   }
