@@ -5,14 +5,26 @@ r11
 r14 
 r14 
 
-20th https://medium.com/applearn-engineering/dont-loose-your-marbles-testing-rxjs-observable-in-jasmine-268e23e506be
-r https://medium.com/@lucapiciollo/formatdate-formatnumber-typescript-57772b770cce
-f5 https://www.youtube.com/watch?v=_uWkxyLeMmY
-f8 https://www.youtube.com/watch?v=8PysoU6seeM
-f8 https://www.youtube.com/watch?v=4TEaBwlr200
-f11 https://www.youtube.com/watch?v=pVUvRN1rykg
-f11 https://www.youtube.com/watch?v=2QnCNR5nzhg
-f15 https://renatobogar.me/rxjs-pt-6-higher-order-mapping-operators
-f18 https://dev.to/braydoncoyer/learn-how-to-click-a-button-when-angular-unit-testing-3mb9
+20th 
+r 
+f5 
+f8 
+f8 
+f11 
+f11 
+f15 
+f18 
 
+f https://medium.com/@matsal.dev/viewencapsulation-in-angular-emulated-none-shadowdom-639c42d116c1
+f21 https://www.youtube.com/watch?v=DFwZs48XzSo
+f23 https://youtu.be/-kiaHoYGOq4?t=421
+s4 https://medium.com/@lucapiciollo/unsubscribe-angular-ee6f116e2504
+s5 LIB https://medium.com/bytelimes/teleport-content-anywhere-in-angular-applications-7ad94acc540e
+s6 https://rohitsinghwd1993.medium.com/bootstrapping-in-angular-24054b3220a7
+s7 https://sudhagar.hashnode.dev/install-tailwindcss-in-angular-14
+s9 https://www.youtube.com/watch?v=5lnE0ly7NdI
+s9 https://www.youtube.com/watch?v=wkDLNpbSojU
+s10 https://www.youtube.com/watch?v=OPW6MJoPnPY
+s12 https://kapoorrahul.medium.com/pipes-in-angular-547c28f0e236
+s11 https://dev.to/pranambhat/say-no-to-ngmodule-in-angular-14-39hl
 
