@@ -444,7 +444,7 @@
         "authorName": "Edori Atiri",
         "authorUrl": "https://dev.to/edoriatiri",
         "speakers": ["Edori Atiri"],
-        "tags": ["Tailwind"]
+        "tags": ["TailwindCSS"]
       },
       {
         "slug": "2022-01-04-D",
@@ -9322,7 +9322,7 @@
         "authorName": "alternativeboy",
         "authorUrl": "https://dev.to/alternativeboy",
         "speakers": [],
-        "tags": ["Tailwind"]
+        "tags": ["TailwindCSS"]
       },
       {
         "slug": "2022-02-22-D",
@@ -27154,8 +27154,7 @@
         "authorName": "Luca Piciollo",
         "authorUrl": "",
         "speakers": ["Luca Piciollo"],
-        "tags": [],
-        "library": true
+        "tags": ["3rd Party Library"]
       },
       {
         "slug": "2022-05-27-C",
@@ -27172,8 +27171,7 @@
         "authorName": "Nihira Techiees",
         "authorUrl": "https://www.youtube.com/channel/UCsbmVmB_or8sVLLEq4XhE_A/videos",
         "speakers": [],
-        "tags": ["Progress"],
-        "library": true
+        "tags": ["Progress", "3rd Party Library"]
       },
       {
         "slug": "2022-05-27-D",
@@ -27274,6 +27272,208 @@
         "authorUrl": "https://dev.to/braydoncoyer",
         "speakers": ["Braydon Coyer"],
         "tags": ["Testing", "Unit Testing", "Mocks"]
+      }
+          ]
+  },
+  {
+    "date": "2022-05-28",
+    "dailyPosts": [
+      {
+        "slug": "2022-05-28-A",
+        "type": "blog",
+        "title": "ViewEncapsulation in Angular: Emulated, None, ShadowDOM",
+        "url": "https://medium.com/@matsal.dev/viewencapsulation-in-angular-emulated-none-shadowdom-639c42d116c1",
+        "description": "You can easily set the encapsulation type by specifying it in the “encapsulation” property of the @Component decorator:",
+        "datePosted": "2022-05-28",
+        "dateSource": "2022-05-27",
+        "postedBy": "Steve Witman",
+        "sourceSite": "Medium",
+        "sourceUrl": "https://medium.com/tag/angular/latest",
+        "authorName": "Matsal Dev",
+        "authorUrl": "https://medium.com/@matsal.dev",
+        "speakers": [],
+        "tags": ["View Encapsulation"]
+      },
+      {
+        "slug": "2022-05-28-B",
+        "type": "video",
+        "duration": "18",
+        "title": "Resume Guide 7 Web engineering 2 (Angular)",
+        "url": "https://www.youtube.com/watch?v=DFwZs48XzSo",
+        "description": "",
+        "datePosted": "2022-05-28",
+        "dateSource": "2022-05-27",
+        "postedBy": "Steve Witman",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "Manuel Ernesto Bonilla Munoz",
+        "authorUrl": "https://www.youtube.com/user/LordNightmare1988",
+        "speakers": ["Manuel Ernesto Bonilla Munoz"],
+        "tags": []
+      },
+      {
+        "slug": "2022-05-28-C",
+        "type": "video",
+        "duration": "127",
+        "title": "Realworld Conduit application but with Angular instead",
+        "url": "https://youtu.be/-kiaHoYGOq4?t=421",
+        "description": "",
+        "datePosted": "2022-05-28",
+        "dateSource": "2022-05-27",
+        "postedBy": "Steve Witman",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "Chau Tran",
+        "authorUrl": "https://www.youtube.com/c/ChauTran",
+        "speakers": ["Chau Tran"],
+        "tags": []
+      },
+      {
+        "slug": "2022-05-28-D",
+        "type": "blog",
+        "title": "@Unsubscribe Angular",
+        "url": "https://medium.com/@lucapiciollo/unsubscribe-angular-ee6f116e2504",
+        "description": "Let's start with creating the decorator, called @Unsubscribe, this place above the class declaration, takes care of destroying all declared subscribers. We can tell the decorator not to destroy some subscribers by passing his name as a parameter",
+        "datePosted": "2022-05-28",
+        "dateSource": "2022-05-28",
+        "postedBy": "Steve Witman",
+        "sourceSite": "Medium",
+        "sourceUrl": "https://medium.com/tag/angular/latest",
+        "authorName": "Luca Piciollo",
+        "authorUrl": "https://medium.com/@lucapiciollo",
+        "speakers": ["Luca Piciollo"],
+        "tags": ["Subscriptions", "Decorators", "Custom"]
+      },
+      {
+        "slug": "2022-05-28-E",
+        "type": "blog",
+        "title": "Teleport Content Anywhere In Angular Applications",
+        "url": "https://medium.com/bytelimes/teleport-content-anywhere-in-angular-applications-7ad94acc540e",
+        "description": "Sometimes you need to break the top down content projection model in Angular and have the ability to project some Content DOM laterally to sibling component sub trees.",
+        "datePosted": "2022-05-28",
+        "dateSource": "2022-05-28",
+        "postedBy": "Steve Witman",
+        "sourceSite": "Medium",
+        "sourceUrl": "https://medium.com/tag/angular/latest",
+        "authorName": "Nivrith Gomatam",
+        "authorUrl": "https://medium.com/bytelimes/teleport-content-anywhere-in-angular-applications-7ad94acc540e",
+        "speakers": ["Nivrith Gomatam"],
+        "tags": ["3rd Party Library"]
+      },
+      {
+        "slug": "2022-05-28-F",
+        "type": "blog",
+        "title": "Bootstrapping in Angular",
+        "url": "https://rohitsinghwd1993.medium.com/bootstrapping-in-angular-24054b3220a7",
+        "description": "Before we start learning about bootstrapping in Angular, let's just first understand what this term (bootstrapping) means in the Angular world.",
+        "datePosted": "2022-05-28",
+        "dateSource": "2022-05-28",
+        "postedBy": "Steve Witman",
+        "sourceSite": "Medium",
+        "sourceUrl": "https://medium.com/tag/angular/latest",
+        "authorName": "Rohit Singh",
+        "authorUrl": "https://rohitsinghwd1993.medium.com",
+        "speakers": ["Rohit Singh"],
+        "tags": []
+      },
+      {
+        "slug": "2022-05-28-G",
+        "type": "blog",
+        "title": "Install TailwindCSS in Angular 14",
+        "url": "https://sudhagar.hashnode.dev/install-tailwindcss-in-angular-14",
+        "description": "Tailwind CSS is a 'utility-first' CSS framework that provides a wide variety of CSS classes and tools that lets you easily get started styling your website or application.",
+        "datePosted": "2022-05-28",
+        "dateSource": "2022-05-28",
+        "postedBy": "Steve Witman",
+        "sourceSite": "Hashnode",
+        "sourceUrl": "https://hashnode.com/n/angular",
+        "authorName": "sudhagar murugesan",
+        "authorUrl": "https://hashnode.com/@sudhagar",
+        "speakers": ["sudhagar murugesan"],
+        "tags": ["TailwindCSS"]
+      },
+      {
+        "slug": "2022-05-28-H",
+        "type": "video",
+        "duration": "71",
+        "title": "Angular Community Meetup | May 2022 | Mini Bhati, Jeffry Houser, & Colum Ferry",
+        "url": "https://www.youtube.com/watch?v=5lnE0ly7NdI",
+        "description": "This month's Angular Community Meetup featured:\nMini Bahti - Dependency Injection\nJeffry Houser - Optimizing Angular Components for Reuse\nColum Ferry - Module Federation vs Micro Frontends: What do you actually need?",
+        "datePosted": "2022-05-28",
+        "dateSource": "2022-05-21",
+        "postedBy": "Steve Witman",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "Angular Community Meetup",
+        "authorUrl": "https://www.youtube.com/channel/UCvzHWtPcYjtEKe3CUU9JLtQ/videos",
+        "speakers": ["Mini Bhati", "Jeffry Houser", "Colum Ferry"],
+        "tags": ["Dependency Injection", "Micro Frontends", "Module Federation"]
+      },
+      {
+        "slug": "2022-05-28-J",
+        "type": "video",
+        "duration": "114",
+        "title": "Angular Community Meetup | May 2022 | Cecelia Martinez & Michael Dowden",
+        "url": "https://www.youtube.com/watch?v=wkDLNpbSojU",
+        "description": "This month's Angular Community Meetup featured:\nCecelia Martinez - Debugging Angular Applications\nMichael Dowden - Hosted, Not Served",
+        "datePosted": "2022-05-28",
+        "dateSource": "2022-05-28",
+        "postedBy": "Steve Witman",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "Angular Community Meetup",
+        "authorUrl": "https://www.youtube.com/channel/UCvzHWtPcYjtEKe3CUU9JLtQ/videos",
+        "speakers": ["Cecelia Martinez", "Michael Dowden"],
+        "tags": ["Debugging", "Deployment"]
+      },
+      {
+        "slug": "2022-05-28-K",
+        "type": "blog",
+        "title": "Pipes In Angular",
+        "url": "https://kapoorrahul.medium.com/pipes-in-angular-547c28f0e236",
+        "description": "Understanding built-in pipes, creating custom and filter pipes in Angular",
+        "datePosted": "2022-05-28",
+        "dateSource": "2022-05-28",
+        "postedBy": "Steve Witman",
+        "sourceSite": "Medium",
+        "sourceUrl": "https://medium.com/tag/angular/latest",
+        "authorName": "Rahul Kapoor",
+        "authorUrl": "https://medium.com/@kapoorrahul",
+        "speakers": ["Rahul Kapoor"],
+        "tags": ["Pipes", "Custom"]
+      },
+      {
+        "slug": "2022-05-28-L",
+        "type": "blog",
+        "title": "Say No to NgModule in Angular 14!",
+        "url": "https://dev.to/pranambhat/say-no-to-ngmodule-in-angular-14-39hl",
+        "description": "NgModules consolidate components, directives, and pipes into cohesive blocks of functionality, each focused on a feature area, application business domain, workflow, or common collection of utilities.",
+        "datePosted": "2022-05-28",
+        "dateSource": "2022-05-28",
+        "postedBy": "Steve Witman",
+        "sourceSite": "DEV Community",
+        "sourceUrl": "https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc",
+        "authorName": "Pranam K",
+        "authorUrl": "https://dev.to/pranambhat",
+        "speakers": [],
+        "tags": ["Modules"]
+      },
+      {
+        "slug": "2022-05-28-M",
+        "type": "video",
+        "duration": "13",
+        "title": "Webpack Bundle analyzer/Sourcemap explorer - tools to optimize Angular bundle size",
+        "url": "https://www.youtube.com/watch?v=8lUkVsvCsl8",
+        "description": "We take a look at two tools - Webpack Bundle analyzer/Sourcemap explorer - which can be used to optimize generated js bundle size of an Angular application.",
+        "datePosted": "2022-05-28",
+        "dateSource": "2022-05-28",
+        "postedBy": "Steve Witman",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "JS Frameworks",
+        "authorUrl": "https://www.youtube.com/c/JSFrameworks/videos",
+        "speakers": [],
+        "tags": ["Performance"]
       }
     ]
   }

@@ -337,6 +337,7 @@ export const tags = [
   { cat: 'RxJS', tag: 'withLatestFrom' },
   { cat: 'RxJS', tag: 'zip' },
 
+  { cat: '3rd Party', tag: '3rd Party Library' },
   { cat: '3rd Party', tag: 'AG Grid' },
   { cat: '3rd Party', tag: 'Akita' },
   { cat: '3rd Party', tag: 'AngularFire' },

@@ -1,30 +1,9 @@
-16th https://okanyesiloglu.medium.com/understanding-pipes-in-angular-49e61711fcd6
 
- 
-r11 
-r14 
-r14 
-
-20th 
-r 
-f5 
-f8 
-f8 
-f11 
-f11 
-f15 
-f18 
-
-f https://medium.com/@matsal.dev/viewencapsulation-in-angular-emulated-none-shadowdom-639c42d116c1
-f21 https://www.youtube.com/watch?v=DFwZs48XzSo
-f23 https://youtu.be/-kiaHoYGOq4?t=421
-s4 https://medium.com/@lucapiciollo/unsubscribe-angular-ee6f116e2504
-s5 LIB https://medium.com/bytelimes/teleport-content-anywhere-in-angular-applications-7ad94acc540e
-s6 https://rohitsinghwd1993.medium.com/bootstrapping-in-angular-24054b3220a7
-s7 https://sudhagar.hashnode.dev/install-tailwindcss-in-angular-14
-s9 https://www.youtube.com/watch?v=5lnE0ly7NdI
-s9 https://www.youtube.com/watch?v=wkDLNpbSojU
-s10 https://www.youtube.com/watch?v=OPW6MJoPnPY
-s12 https://kapoorrahul.medium.com/pipes-in-angular-547c28f0e236
-s11 https://dev.to/pranambhat/say-no-to-ngmodule-in-angular-14-39hl
+u4 https://ankit-kaushik.medium.com/integrating-search-within-multi-mat-select-angular-material-450ed67e6c74
+u7 https://ankit-kaushik.medium.com/trackid-infixing-trackby-capabilities-to-ngfor-in-a-centralised-way-across-your-angular-f1286f703469
+u8 https://www.youtube.com/watch?v=2o8OBFDDBqY
+u11 https://kapoorrahul.medium.com/interceptors-in-angular-3505c832c1db
+u12 https://medium.com/@praveenkumarlsipl/implementing-a-map-strategy-pattern-with-angular-13-bd06065bad50
+u13 https://saackef.com/angular-create-a-custom-decorator-6ef6c9fd2246
+u19 https://www.youtube.com/watch?v=oTL8LE4cXL4
 
