@@ -1,9 +1,6 @@
 
-u4 https://ankit-kaushik.medium.com/integrating-search-within-multi-mat-select-angular-material-450ed67e6c74
-u7 https://ankit-kaushik.medium.com/trackid-infixing-trackby-capabilities-to-ngfor-in-a-centralised-way-across-your-angular-f1286f703469
-u8 https://www.youtube.com/watch?v=2o8OBFDDBqY
-u11 https://kapoorrahul.medium.com/interceptors-in-angular-3505c832c1db
-u12 https://medium.com/@praveenkumarlsipl/implementing-a-map-strategy-pattern-with-angular-13-bd06065bad50
-u13 https://saackef.com/angular-create-a-custom-decorator-6ef6c9fd2246
-u19 https://www.youtube.com/watch?v=oTL8LE4cXL4
+
+
+
+
 
