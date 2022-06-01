@@ -217,6 +217,7 @@ export const tags = [
   { cat: 'Misc', tag: 'Web Sockets' },
   { cat: 'Misc', tag: 'Web Workers' },
   { cat: 'Misc', tag: 'git' },
+  { cat: 'Misc', tag: 'iframe' },
 
   { cat: 'Testing', tag: 'Assertions' },
   { cat: 'Testing', tag: 'Code Coverage' },
