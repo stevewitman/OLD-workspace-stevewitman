@@ -1,6 +1,68 @@
+ 
+r https://netbasal.com/whats-new-in-angular-v14-df1b0c5d5e2f
+r https://medium.com/@rado.sabo/best-way-to-use-svg-icons-in-angular-with-caching-and-possibility-of-changing-colour-71923bb3f189
+r https://medium.com/marmicode/angular-inject-injection-functions-patterns-anti-patterns-b099deb2d73c
+r https://mohammedfahimullah.medium.com/apply-retry-operator-for-specific-apis-478f93742492
+r21 https://dev.to/harshalsuthar/implementing-auth0-in-angular-with-ngrx-ifour-technolab-o8p
+r21 https://dev.to/pranambhat/angular-14-is-here-4hdn
+2 https://www.youtube.com/watch?v=pOWluh34qN4
+5 https://www.youtube.com/watch?v=ne4ZpBgXGig
+6 https://dev.to/lucaspaganini/intersection-observer-and-infinite-scroll-in-a-visual-way-1i99
+6 https://dev.to/lucaspaganini/advanced-approaches-to-angular-form-validations-kf3
+7 https://dev.to/siddev/easy-modals-with-angular-3gdj
+7 https://www.youtube.com/watch?v=xcePFi8X24M
+8 https://indepth.dev/posts/1502/external-configurations-in-angular
+11 https://www.youtube.com/watch?v=9g_87UG5dYE
+11 https://dev.to/sandeepbalachandran/angular-14-features-14ip
+12 https://www.youtube.com/watch?v=4Ptk3ckTR64
+14 https://www.youtube.com/watch?v=uz7ezP6FOgk
+15 https://dev.to/grapecity/how-to-build-a-responsive-dashboard-application-in-angular-part-3-m0g
+16 https://dev.to/riapacheco/trigger-event-when-element-scrolled-into-viewport-with-angulars-hostlistener-3ofh
+17 https://www.youtube.com/watch?v=lOjsuYVQjI4
+19 https://www.youtube.com/watch?v=ZUeWFIvAKpU
+ 
+f20 https://www.youtube.com/watch?v=G381Q_nmnZM
+f23 https://www.youtube.com/watch?v=5tKXazWR9J0
+s11 https://muhammadawaisshaikh.hashnode.dev/welcoming-standalone-components-in-angular-v14
+s11 https://www.youtube.com/watch?v=KBbrpq5C0eM
+https://medium.com/geekculture/resolvers-in-angular-to-pre-load-data-16c37393b172
+s13 https://www.youtube.com/watch?v=tox_klrwITI
+https://bytecodepandit.medium.com/angular-full-course-part-4-data-binding-bc1be9423743
+https://ankit-kaushik.medium.com/ngxs-snapshot-on-select-75bea6b6197f
+s13 https://www.youtube.com/watch?v=VGP8r2VavW0
+s21 https://www.youtube.com/watch?v=e8km3blGu6g
 
 
-12 
-14 
-18 
+
+shttps://srisad95.medium.com/angular-material-forms-332d1468e965
+u2 https://www.youtube.com/watch?v=wqIb6NsRVLo
+https://anilvermaspeaks.medium.com/angular-v14-is-available-now-a7d35069ebe6
+https://www.webtutpro.com/working-with-angular-httpclient-f3fccb263d02
+u8 https://medium.com/generic-ui/angular-component-practices-b7228c44b78c
+u12 https://www.youtube.com/watch?v=q-jt3ji7LWU
+u13 https://www.youtube.com/watch?v=yeUms_EMpfc
+u15 https://www.youtube.com/watch?v=oWUVQ1Nq7FQ
+u21 https://www.youtube.com/watch?v=_v3cpp87708
+u23 https://www.youtube.com/watch?v=cAhOqSQp2lE
+
+m1 https://dev.to/sandrocagara/angular-v13-array-destructuring-31m5
+m4 https://www.youtube.com/watch?v=LW7BdpqwGTE
+m7 https://www.youtube.com/watch?v=8HaLNtAWB6M
+m7 https://www.youtube.com/watch?v=pzkefV8lXFY
+m8 A EXP https://www.spreaker.com/user/14532324/s2e19-michael-dowden-on-how-to-ask-for-a?utm_campaign=episode-title&utm_medium=app&utm_source=widget
+m9 https://dev.to/angular_kenya/introduction-to-angular-forms-3m3e
+m12 https://dev.to/lambdatest/angular-testing-with-jasmine-and-karma-using-selenium-tutorial-3cc1
+m12 https://dev.to/brandontroberts/remix-ing-routing-in-angular-4g90
+m13 https://dev.to/devashishsarmah/custom-structural-directives-in-angular-a8i
+m13 https://dev.to/rainerhahnekamp/ng-news-episode-2222-360f
+m17 https://www.youtube.com/watch?v=skpSSrul_J0
+m22 https://www.youtube.com/watch?v=FW8zEKZm2D8
+
+t2 https://www.youtube.com/watch?v=DJewg33FEa0
+t6 https://www.youtube.com/watch?v=TWJCIhwGz98 ****
+t7 https://www.youtube.com/watch?v=xpXlEJArHzg
+t8 https://www.youtube.com/watch?v=50tINEglfWI
+t8 https://www.youtube.com/watch?v=3Lef5Xdgwzk
+t8 https://www.youtube.com/watch?v=-cDyCtG3Vfw
+t11 https://www.youtube.com/watch?v=W90EopFqUH4
 
