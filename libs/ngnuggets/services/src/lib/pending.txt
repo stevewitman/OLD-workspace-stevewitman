@@ -1,25 +1,7 @@
- 
-r https://netbasal.com/whats-new-in-angular-v14-df1b0c5d5e2f
-r https://medium.com/@rado.sabo/best-way-to-use-svg-icons-in-angular-with-caching-and-possibility-of-changing-colour-71923bb3f189
-r https://medium.com/marmicode/angular-inject-injection-functions-patterns-anti-patterns-b099deb2d73c
-r https://mohammedfahimullah.medium.com/apply-retry-operator-for-specific-apis-478f93742492
-r21 https://dev.to/harshalsuthar/implementing-auth0-in-angular-with-ngrx-ifour-technolab-o8p
-r21 https://dev.to/pranambhat/angular-14-is-here-4hdn
-2 https://www.youtube.com/watch?v=pOWluh34qN4
-5 https://www.youtube.com/watch?v=ne4ZpBgXGig
-6 https://dev.to/lucaspaganini/intersection-observer-and-infinite-scroll-in-a-visual-way-1i99
-6 https://dev.to/lucaspaganini/advanced-approaches-to-angular-form-validations-kf3
-7 https://dev.to/siddev/easy-modals-with-angular-3gdj
-7 https://www.youtube.com/watch?v=xcePFi8X24M
-8 https://indepth.dev/posts/1502/external-configurations-in-angular
-11 https://www.youtube.com/watch?v=9g_87UG5dYE
-11 https://dev.to/sandeepbalachandran/angular-14-features-14ip
-12 https://www.youtube.com/watch?v=4Ptk3ckTR64
-14 https://www.youtube.com/watch?v=uz7ezP6FOgk
-15 https://dev.to/grapecity/how-to-build-a-responsive-dashboard-application-in-angular-part-3-m0g
-16 https://dev.to/riapacheco/trigger-event-when-element-scrolled-into-viewport-with-angulars-hostlistener-3ofh
-17 https://www.youtube.com/watch?v=lOjsuYVQjI4
-19 https://www.youtube.com/watch?v=ZUeWFIvAKpU
+
+16 
+17 
+19 
  
 f20 https://www.youtube.com/watch?v=G381Q_nmnZM
 f23 https://www.youtube.com/watch?v=5tKXazWR9J0
@@ -52,6 +34,7 @@ m7 https://www.youtube.com/watch?v=pzkefV8lXFY
 m8 A EXP https://www.spreaker.com/user/14532324/s2e19-michael-dowden-on-how-to-ask-for-a?utm_campaign=episode-title&utm_medium=app&utm_source=widget
 m9 https://dev.to/angular_kenya/introduction-to-angular-forms-3m3e
 m12 https://dev.to/lambdatest/angular-testing-with-jasmine-and-karma-using-selenium-tutorial-3cc1
+https://javascript.plainenglish.io/the-new-features-of-angular-v14-851995870f59
 m12 https://dev.to/brandontroberts/remix-ing-routing-in-angular-4g90
 m13 https://dev.to/devashishsarmah/custom-structural-directives-in-angular-a8i
 m13 https://dev.to/rainerhahnekamp/ng-news-episode-2222-360f
@@ -63,6 +46,34 @@ t6 https://www.youtube.com/watch?v=TWJCIhwGz98 ****
 t7 https://www.youtube.com/watch?v=xpXlEJArHzg
 t8 https://www.youtube.com/watch?v=50tINEglfWI
 t8 https://www.youtube.com/watch?v=3Lef5Xdgwzk
+t8 https://levelup.gitconnected.com/angular-server-side-pagination-and-filtering-2206ce8279d1
 t8 https://www.youtube.com/watch?v=-cDyCtG3Vfw
+t9 https://betterprogramming.pub/why-and-how-to-create-an-impure-filter-pipe-in-angular-a3916de5841f
+t9 https://betterprogramming.pub/split-angular-nested-forms-into-subform-components-dcf32d1fb10d
+t10 https://dev.to/madhust/stateless-standalone-components-in-angular-9gl
 t11 https://www.youtube.com/watch?v=W90EopFqUH4
+t11 https://towardsdev.com/stateless-standalone-components-in-angular-beef9cad840b
+t12 https://medium.com/@basudevadhikari/angular-standalone-components-use-case-in-current-scenario-67dc31db4b8a
+t13 https://www.youtube.com/watch?v=EzRTZ9uqp3Y
+t13 https://www.youtube.com/watch?v=jVSBaJkj1ys
+t14 https://youtu.be/DVo7xttP_gg?t=34
+t15 https://medium.com/@walid.bouguima/angular-generic-http-service-handle-your-backend-communication-like-a-pro-38422ca3ee2a
+t16 https://medium.com/ngconf/angular-standalone-components-54cd5453eff5
+t16 https://medium.com/ngconf/angular-typed-reactive-forms-cb3dd27de746
+t16 https://medium.com/ngconf/angular-lifecycle-hooks-977b73fc66af
+t19 https://dev.to/yushulx/how-to-build-angular-barcode-and-qr-code-scanner-apps-from-scratch-353d
+
+w2 https://www.youtube.com/watch?v=MFxMBwfRsa4
+w6 https://www.youtube.com/watch?v=m4ex4iEBnz8
+w6 https://www.youtube.com/watch?v=6KVsy81Dabg ***
+w6 https://www.youtube.com/watch?v=lagW8s2NY7U
+w6 https://www.youtube.com/watch?v=IvUQt64CCJI
+w9 https://www.spreaker.com/user/ng-conf/ap-show-s3e12-stephen-cooper-edit-1
+w10 https://www.youtube.com/watch?v=5kkQgdH72Yw
+w10 https://dev.to/ussdlover/convert-angular-app-to-standalone-component-angular-app-53lc
+w13 https://www.youtube.com/watch?v=MPdRUF90IPE
+w14 https://github.com/angular/angular/releases/tag/14.0.1
+w14 https://github.com/angular/angular/releases/tag/14.1.0-next.0
+w17 https://www.youtube.com/watch?v=ByhoIVE0ZMU
+w17 https://www.youtube.com/watch?v=ZVa0SEf7xkg
 

@@ -324,6 +324,7 @@ export const tags = [
   { cat: 'RxJS', tag: 'pairwise' },
   { cat: 'RxJS', tag: 'pluck' },
   { cat: 'RxJS', tag: 'range' },
+  { cat: 'RxJS', tag: 'retry' },
   { cat: 'RxJS', tag: 'scan' },
   { cat: 'RxJS', tag: 'share' },
   { cat: 'RxJS', tag: 'shareReplay' },
