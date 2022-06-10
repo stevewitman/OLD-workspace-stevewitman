@@ -1,22 +1,4 @@
-
-16 
-17 
-19 
- 
-f20 https://www.youtube.com/watch?v=G381Q_nmnZM
-f23 https://www.youtube.com/watch?v=5tKXazWR9J0
-s11 https://muhammadawaisshaikh.hashnode.dev/welcoming-standalone-components-in-angular-v14
-s11 https://www.youtube.com/watch?v=KBbrpq5C0eM
-https://medium.com/geekculture/resolvers-in-angular-to-pre-load-data-16c37393b172
-s13 https://www.youtube.com/watch?v=tox_klrwITI
-https://bytecodepandit.medium.com/angular-full-course-part-4-data-binding-bc1be9423743
-https://ankit-kaushik.medium.com/ngxs-snapshot-on-select-75bea6b6197f
-s13 https://www.youtube.com/watch?v=VGP8r2VavW0
-s21 https://www.youtube.com/watch?v=e8km3blGu6g
-
-
-
-shttps://srisad95.medium.com/angular-material-forms-332d1468e965
+https://srisad95.medium.com/angular-material-forms-332d1468e965
 u2 https://www.youtube.com/watch?v=wqIb6NsRVLo
 https://anilvermaspeaks.medium.com/angular-v14-is-available-now-a7d35069ebe6
 https://www.webtutpro.com/working-with-angular-httpclient-f3fccb263d02
@@ -77,3 +59,19 @@ w14 https://github.com/angular/angular/releases/tag/14.1.0-next.0
 w17 https://www.youtube.com/watch?v=ByhoIVE0ZMU
 w17 https://www.youtube.com/watch?v=ZVa0SEf7xkg
 
+w https://javascript.plainenglish.io/how-to-manage-complex-forms-in-angular-7bd0007dea5e
+w https://medium.com/@gfaganli/confirmation-for-unsaved-changes-angular-dc1f9c75a95b
+w https://javascript.plainenglish.io/create-a-custom-angular-pipe-62ac8c4c7865
+w https://medium.com/@estherwavinya/observables-in-angular-7f90d0b2613e
+r0 https://garage.sekrab.com/posts/localstorage-wrapper-service-in-angular
+r1 https://www.youtube.com/watch?v=p1v2nlINhxQ
+r3 https://www.youtube.com/watch?v=g836yoZ2y6o
+r5 https://dev.to/ag-grid/upcoming-changes-to-ag-grid-angular-in-v28-e3o
+r6 https://www.youtube.com/watch?v=wRBqqcgZwTg
+r6 https://www.youtube.com/watch?v=4omKgGdL9to
+r7 https://www.youtube.com/watch?v=8BatUQYtMlY
+r9 https://www.youtube.com/watch?v=tSy45dxf4O0
+r10 https://dev.to/nx/nx-142-angular-v14-storybook-update-lightweight-nx-and-more-c5p
+r12 https://www.youtube.com/watch?v=k2qt-sOfXwY
+r12 https://www.youtube.com/watch?v=IetP4KQGT_g
+r14 https://www.youtube.com/watch?v=dUPS8kcA-wI
