@@ -1,13 +1,7 @@
-https://srisad95.medium.com/angular-material-forms-332d1468e965
-u2 https://www.youtube.com/watch?v=wqIb6NsRVLo
-https://anilvermaspeaks.medium.com/angular-v14-is-available-now-a7d35069ebe6
-https://www.webtutpro.com/working-with-angular-httpclient-f3fccb263d02
-u8 https://medium.com/generic-ui/angular-component-practices-b7228c44b78c
-u12 https://www.youtube.com/watch?v=q-jt3ji7LWU
-u13 https://www.youtube.com/watch?v=yeUms_EMpfc
-u15 https://www.youtube.com/watch?v=oWUVQ1Nq7FQ
-u21 https://www.youtube.com/watch?v=_v3cpp87708
-u23 https://www.youtube.com/watch?v=cAhOqSQp2lE
+
+u15 
+u21 
+u23 
 
 m1 https://dev.to/sandrocagara/angular-v13-array-destructuring-31m5
 m4 https://www.youtube.com/watch?v=LW7BdpqwGTE
@@ -75,3 +69,14 @@ r10 https://dev.to/nx/nx-142-angular-v14-storybook-update-lightweight-nx-and-mor
 r12 https://www.youtube.com/watch?v=k2qt-sOfXwY
 r12 https://www.youtube.com/watch?v=IetP4KQGT_g
 r14 https://www.youtube.com/watch?v=dUPS8kcA-wI
+
+r https://medium.com/@HonoraryMarleyans/using-angular-flex-layout-to-achieve-responsive-web-design-3b73c8424bc2
+r https://techgigdotcom.medium.com/angular-14-adds-typed-forms-standalone-components-e3d349ad37d4
+r *** https://netbasal.com/create-reusable-copy-to-clipboard-directive-in-angular-fc1139b9e755
+r https://betterprogramming.pub/how-to-build-a-strongly-typed-angular-14-super-form-86837965a0e5
+r https://javascript.plainenglish.io/understanding-template-variables-in-angular-506ae98d29
+r https://medium.com/@aayyash/localstorage-wrapper-service-in-angular-e056da00387b
+f1 https://dev.to/this-is-angular/top-3-common-errors-new-angular-developers-make-3ajh
+f2 https://www.youtube.com/watch?v=9w8uXS5lvsc
+f10 https://www.youtube.com/watch?v=FTdp0r1pPK8
+f14 https://youtu.be/YYYNSjbe_xo?t=24
