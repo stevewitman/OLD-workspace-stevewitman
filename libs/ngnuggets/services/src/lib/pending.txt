@@ -1,18 +1,4 @@
-https://www.youtube.com/watch?v=MFxMBwfRsa4
-w6 https://www.youtube.com/watch?v=m4ex4iEBnz8
-w6 https://www.youtube.com/watch?v=6KVsy81Dabg ***
-w6 https://www.youtube.com/watch?v=lagW8s2NY7U
-w6 https://www.youtube.com/watch?v=IvUQt64CCJI
-w9 https://www.spreaker.com/user/ng-conf/ap-show-s3e12-stephen-cooper-edit-1
-w10 https://www.youtube.com/watch?v=5kkQgdH72Yw
-w10 https://dev.to/ussdlover/convert-angular-app-to-standalone-component-angular-app-53lc
-w13 https://www.youtube.com/watch?v=MPdRUF90IPE
-w14 https://github.com/angular/angular/releases/tag/14.0.1
-w14 https://github.com/angular/angular/releases/tag/14.1.0-next.0
-w17 https://www.youtube.com/watch?v=ByhoIVE0ZMU
-w17 https://www.youtube.com/watch?v=ZVa0SEf7xkg
-
-w https://javascript.plainenglish.io/how-to-manage-complex-forms-in-angular-7bd0007dea5e
+https://javascript.plainenglish.io/how-to-manage-complex-forms-in-angular-7bd0007dea5e
 w https://medium.com/@gfaganli/confirmation-for-unsaved-changes-angular-dc1f9c75a95b
 w https://javascript.plainenglish.io/create-a-custom-angular-pipe-62ac8c4c7865
 w https://medium.com/@estherwavinya/observables-in-angular-7f90d0b2613e
