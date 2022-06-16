@@ -1,26 +1,4 @@
-https://www.youtube.com/watch?v=DJewg33FEa0
-t6 https://www.youtube.com/watch?v=TWJCIhwGz98 ****
-t7 https://www.youtube.com/watch?v=xpXlEJArHzg
-t8 https://www.youtube.com/watch?v=50tINEglfWI
-t8 https://www.youtube.com/watch?v=3Lef5Xdgwzk
-t8 https://levelup.gitconnected.com/angular-server-side-pagination-and-filtering-2206ce8279d1
-t8 https://www.youtube.com/watch?v=-cDyCtG3Vfw
-t9 https://betterprogramming.pub/why-and-how-to-create-an-impure-filter-pipe-in-angular-a3916de5841f
-t9 https://betterprogramming.pub/split-angular-nested-forms-into-subform-components-dcf32d1fb10d
-t10 https://dev.to/madhust/stateless-standalone-components-in-angular-9gl
-t11 https://www.youtube.com/watch?v=W90EopFqUH4
-t11 https://towardsdev.com/stateless-standalone-components-in-angular-beef9cad840b
-t12 https://medium.com/@basudevadhikari/angular-standalone-components-use-case-in-current-scenario-67dc31db4b8a
-t13 https://www.youtube.com/watch?v=EzRTZ9uqp3Y
-t13 https://www.youtube.com/watch?v=jVSBaJkj1ys
-t14 https://youtu.be/DVo7xttP_gg?t=34
-t15 https://medium.com/@walid.bouguima/angular-generic-http-service-handle-your-backend-communication-like-a-pro-38422ca3ee2a
-t16 https://medium.com/ngconf/angular-standalone-components-54cd5453eff5
-t16 https://medium.com/ngconf/angular-typed-reactive-forms-cb3dd27de746
-t16 https://medium.com/ngconf/angular-lifecycle-hooks-977b73fc66af
-t19 https://dev.to/yushulx/how-to-build-angular-barcode-and-qr-code-scanner-apps-from-scratch-353d
-
-w2 https://www.youtube.com/watch?v=MFxMBwfRsa4
+https://www.youtube.com/watch?v=MFxMBwfRsa4
 w6 https://www.youtube.com/watch?v=m4ex4iEBnz8
 w6 https://www.youtube.com/watch?v=6KVsy81Dabg ***
 w6 https://www.youtube.com/watch?v=lagW8s2NY7U
@@ -114,6 +92,9 @@ w8 A+ https://www.spreaker.com/user/ng-conf/ap-show-s3e13-angela-wright-edit-1
 w9 https://www.youtube.com/watch?v=rk83ZMqEDV4
 w12 https://github.com/angular/angular/releases/tag/14.0.2
 w12 https://github.com/angular/angular/releases/tag/14.1.0-next.1
+w15 ? https://www.youtube.com/watch?v=gjw_ShwVDsc
+w16 https://www.youtube.com/watch?v=P2BgqRATizA
+w19 https://www.youtube.com/watch?v=aupp0_tpDho
 
 
 
