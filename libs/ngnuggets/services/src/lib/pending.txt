@@ -1,23 +1,4 @@
-
-u15 
-u21 
-u23 
-
-m1 https://dev.to/sandrocagara/angular-v13-array-destructuring-31m5
-m4 https://www.youtube.com/watch?v=LW7BdpqwGTE
-m7 https://www.youtube.com/watch?v=8HaLNtAWB6M
-m7 https://www.youtube.com/watch?v=pzkefV8lXFY
-m8 A EXP https://www.spreaker.com/user/14532324/s2e19-michael-dowden-on-how-to-ask-for-a?utm_campaign=episode-title&utm_medium=app&utm_source=widget
-m9 https://dev.to/angular_kenya/introduction-to-angular-forms-3m3e
-m12 https://dev.to/lambdatest/angular-testing-with-jasmine-and-karma-using-selenium-tutorial-3cc1
-https://javascript.plainenglish.io/the-new-features-of-angular-v14-851995870f59
-m12 https://dev.to/brandontroberts/remix-ing-routing-in-angular-4g90
-m13 https://dev.to/devashishsarmah/custom-structural-directives-in-angular-a8i
-m13 https://dev.to/rainerhahnekamp/ng-news-episode-2222-360f
-m17 https://www.youtube.com/watch?v=skpSSrul_J0
-m22 https://www.youtube.com/watch?v=FW8zEKZm2D8
-
-t2 https://www.youtube.com/watch?v=DJewg33FEa0
+https://www.youtube.com/watch?v=DJewg33FEa0
 t6 https://www.youtube.com/watch?v=TWJCIhwGz98 ****
 t7 https://www.youtube.com/watch?v=xpXlEJArHzg
 t8 https://www.youtube.com/watch?v=50tINEglfWI
@@ -80,3 +61,66 @@ f1 https://dev.to/this-is-angular/top-3-common-errors-new-angular-developers-mak
 f2 https://www.youtube.com/watch?v=9w8uXS5lvsc
 f10 https://www.youtube.com/watch?v=FTdp0r1pPK8
 f14 https://youtu.be/YYYNSjbe_xo?t=24
+
+f10 https://www.webtutpro.com/add-tailwind-css-to-angular-14-apps-546774b7c6ea
+s0 https://medium.com/@harshmathur.04/introduction-to-building-ionic-6-angular-app-with-nx-monorepo-part-1-b53d6b9106a6
+s4 https://www.youtube.com/watch?v=jOk3SnSVfag
+s7 https://dev.to/shhdharmen/indepth-guide-for-customizing-angular-material-button-58do
+s17 https://www.youtube.com/watch?v=dyvx7CEmL24
+s21 https://dev.to/amplication/amplication-angular-frontend-authentication-5ok
+s21 https://www.youtube.com/watch?v=8e3_zrLvGdM
+
+s https://medium.com/geekculture/learn-how-to-create-custom-placeholder-images-for-your-web-app-in-no-time-314f76a72615 `   
+s https://srisad95.medium.com/angular-form-array-learn-it-in-11-steps-eac0a0513945
+s https://medium.com/@elangoram1998/angular-13-asynchronous-form-input-validation-2b38263b421a
+s https://medium.com/@elangoram1998/angular-13-custom-form-validator-1a4f166ae192
+s https://medium.com/@tausifabir9419/angular-forms-5d34e82651d1
+s22 https://www.youtube.com/watch?v=XLMOP-QcwTE (hostlistener)
+s23 https://vkbharadwazkopalle.medium.com/1-anatomy-of-creating-micro-frontends-with-nx-workspace-217df99b1878
+u2 https://ankit-kaushik.medium.com/integrating-analytics-to-your-angular-application-in-an-abstract-plug-n-play-fashion-ff2ea57fb42f
+u5 https://dev.to/prathameshk73/using-chart-js-in-angular-app-11ek
+u5 https://medium.com/@estherwavinya/2-ways-in-which-angular-observable-pipe-can-be-used-7adcca4072b
+u6 https://medium.com/@shriharimohan/text-formatting-on-html-using-js-functions-vs-angular-pipe-736464299ade
+u6 https://www.youtube.com/watch?v=yXEYlig4ekk (local storage)
+u6 https://dev.to/shrihari/text-formatting-on-html-using-js-functions-vs-angular-pipe-1f8g
+u16 https://dev.to/rainerhahnekamp/ng-news-episode-2223-503b
+
+u11 https://levelup.gitconnected.com/angular-intercept-your-http-errors-10d9c95133ec
+u20 https://medium.com/@thecodinganalyst/ngrx-explained-3891da35eeea
+m2 https://medium.com/@scottmerry23/angular-14-what-are-standalone-components-routes-and-services-f41953773734
+m4 https://www.youtube.com/watch?v=lFueDYByb_A
+m4 https://dev.to/mmuscat/angular-14-dependency-injection-unlocked-3mi2
+m8 https://www.youtube.com/watch?v=xxu2EXh9Gzw
+m8 Ax https://www.spreaker.com/user/14532324/s2e20-martine-dowden-on-a-fast-track-to-?utm_campaign=episode-title&utm_medium=app&utm_source=widget
+
+m https://dev.to/mmuscat/angular-14-dependency-injection-unlocked-3mi2
+t0 https://www.youtube.com/watch?v=WJGmWdBEUxg
+t1 https://medium.com/codex/angular-guards-disabling-browsers-back-button-for-specific-url-fdf05d9fe155
+t4 https://medium.com/@denis.loh/rxjs-testing-write-unit-tests-for-observables-603af959e251
+t5 https://medium.com/@pole.indraneel/biggest-angular-pitfalls-and-how-to-avoid-them-part-one-circular-dependency-4272417428e4
+t5 https://dev.to/dreamsoft4you/angular-14-all-the-important-features-and-updates-1bp1
+t6 https://dev.to/entando/using-angular-to-create-a-micro-frontend-5fci
+t7 https://dev.to/ngrx/using-ngrx-packages-with-standalone-angular-features-53d8
+t9 https://www.youtube.com/watch?v=X3Yd8iMRxts
+
+t https://medium.com/@anassguendef/angular-automatic-blockui-6afac87a026d
+t https://medium.com/@pbelikov/bullet-proof-api-integration-architecture-for-angular-applications-3d00582c7156
+w1 https://www.youtube.com/watch?v=vJJ9Cyx4giY
+w3 https://dev.to/armandotrue/design-patterns-in-angular-part-i-3ld7
+w6 https://www.youtube.com/watch?v=aKsPMTP6-sY
+w6 https://www.youtube.com/watch?v=1lYrplmKmq0
+w8 https://www.youtube.com/watch?v=5pj5eDKSY_k
+w8 A+ https://www.spreaker.com/user/ng-conf/ap-show-s3e13-angela-wright-edit-1
+w9 https://www.youtube.com/watch?v=rk83ZMqEDV4
+w12 https://github.com/angular/angular/releases/tag/14.0.2
+w12 https://github.com/angular/angular/releases/tag/14.1.0-next.1
+
+
+
+
+
+
+
+
+
+
