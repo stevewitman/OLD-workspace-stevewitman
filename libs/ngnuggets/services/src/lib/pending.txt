@@ -1,15 +1,4 @@
 
-r https://medium.com/@HonoraryMarleyans/using-angular-flex-layout-to-achieve-responsive-web-design-3b73c8424bc2
-r https://techgigdotcom.medium.com/angular-14-adds-typed-forms-standalone-components-e3d349ad37d4
-r *** https://netbasal.com/create-reusable-copy-to-clipboard-directive-in-angular-fc1139b9e755
-r https://betterprogramming.pub/how-to-build-a-strongly-typed-angular-14-super-form-86837965a0e5
-r https://javascript.plainenglish.io/understanding-template-variables-in-angular-506ae98d29
-r https://medium.com/@aayyash/localstorage-wrapper-service-in-angular-e056da00387b
-f1 https://dev.to/this-is-angular/top-3-common-errors-new-angular-developers-make-3ajh
-f2 https://www.youtube.com/watch?v=9w8uXS5lvsc
-f10 https://www.youtube.com/watch?v=FTdp0r1pPK8
-f14 https://youtu.be/YYYNSjbe_xo?t=24
-
 f10 https://www.webtutpro.com/add-tailwind-css-to-angular-14-apps-546774b7c6ea
 s0 https://medium.com/@harshmathur.04/introduction-to-building-ionic-6-angular-app-with-nx-monorepo-part-1-b53d6b9106a6
 s4 https://www.youtube.com/watch?v=jOk3SnSVfag
