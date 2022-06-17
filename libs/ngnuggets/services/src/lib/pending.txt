@@ -1,11 +1,11 @@
 
-f10 https://www.webtutpro.com/add-tailwind-css-to-angular-14-apps-546774b7c6ea
-s0 https://medium.com/@harshmathur.04/introduction-to-building-ionic-6-angular-app-with-nx-monorepo-part-1-b53d6b9106a6
-s4 https://www.youtube.com/watch?v=jOk3SnSVfag
-s7 https://dev.to/shhdharmen/indepth-guide-for-customizing-angular-material-button-58do
-s17 https://www.youtube.com/watch?v=dyvx7CEmL24
-s21 https://dev.to/amplication/amplication-angular-frontend-authentication-5ok
-s21 https://www.youtube.com/watch?v=8e3_zrLvGdM
+f10 
+s0 
+s4 
+s7 
+s17 
+s21 
+s21 
 
 s https://medium.com/geekculture/learn-how-to-create-custom-placeholder-images-for-your-web-app-in-no-time-314f76a72615 `   
 s https://srisad95.medium.com/angular-form-array-learn-it-in-11-steps-eac0a0513945
