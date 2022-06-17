@@ -1,19 +1,3 @@
-https://javascript.plainenglish.io/how-to-manage-complex-forms-in-angular-7bd0007dea5e
-w https://medium.com/@gfaganli/confirmation-for-unsaved-changes-angular-dc1f9c75a95b
-w https://javascript.plainenglish.io/create-a-custom-angular-pipe-62ac8c4c7865
-w https://medium.com/@estherwavinya/observables-in-angular-7f90d0b2613e
-r0 https://garage.sekrab.com/posts/localstorage-wrapper-service-in-angular
-r1 https://www.youtube.com/watch?v=p1v2nlINhxQ
-r3 https://www.youtube.com/watch?v=g836yoZ2y6o
-r5 https://dev.to/ag-grid/upcoming-changes-to-ag-grid-angular-in-v28-e3o
-r6 https://www.youtube.com/watch?v=wRBqqcgZwTg
-r6 https://www.youtube.com/watch?v=4omKgGdL9to
-r7 https://www.youtube.com/watch?v=8BatUQYtMlY
-r9 https://www.youtube.com/watch?v=tSy45dxf4O0
-r10 https://dev.to/nx/nx-142-angular-v14-storybook-update-lightweight-nx-and-more-c5p
-r12 https://www.youtube.com/watch?v=k2qt-sOfXwY
-r12 https://www.youtube.com/watch?v=IetP4KQGT_g
-r14 https://www.youtube.com/watch?v=dUPS8kcA-wI
 
 r https://medium.com/@HonoraryMarleyans/using-angular-flex-layout-to-achieve-responsive-web-design-3b73c8424bc2
 r https://techgigdotcom.medium.com/angular-14-adds-typed-forms-standalone-components-e3d349ad37d4
@@ -82,9 +66,12 @@ w15 ? https://www.youtube.com/watch?v=gjw_ShwVDsc
 w16 https://www.youtube.com/watch?v=P2BgqRATizA
 w19 https://www.youtube.com/watch?v=aupp0_tpDho
 
-
-
-
+w18 https://www.youtube.com/watch?v=aupp0_tpDho
+r2 https://www.youtube.com/watch?v=BPi06eXxcvA
+r4 https://dev.to/syncfusion/angular-template-driven-vs-reactive-forms-497d
+r8 https://www.youtube.com/watch?v=IlhFScDlbrw
+r10 https://www.youtube.com/watch?v=BEkC2mgiZYw
+r10 https://www.youtube.com/watch?v=BEkC2mgiZYw
 
 
 
