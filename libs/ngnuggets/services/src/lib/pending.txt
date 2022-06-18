@@ -1,26 +1,7 @@
 
-f10 
-s0 
-s4 
-s7 
-s17 
-s21 
-s21 
 
-s https://medium.com/geekculture/learn-how-to-create-custom-placeholder-images-for-your-web-app-in-no-time-314f76a72615 `   
-s https://srisad95.medium.com/angular-form-array-learn-it-in-11-steps-eac0a0513945
-s https://medium.com/@elangoram1998/angular-13-asynchronous-form-input-validation-2b38263b421a
-s https://medium.com/@elangoram1998/angular-13-custom-form-validator-1a4f166ae192
-s https://medium.com/@tausifabir9419/angular-forms-5d34e82651d1
-s22 https://www.youtube.com/watch?v=XLMOP-QcwTE (hostlistener)
-s23 https://vkbharadwazkopalle.medium.com/1-anatomy-of-creating-micro-frontends-with-nx-workspace-217df99b1878
-u2 https://ankit-kaushik.medium.com/integrating-analytics-to-your-angular-application-in-an-abstract-plug-n-play-fashion-ff2ea57fb42f
-u5 https://dev.to/prathameshk73/using-chart-js-in-angular-app-11ek
-u5 https://medium.com/@estherwavinya/2-ways-in-which-angular-observable-pipe-can-be-used-7adcca4072b
-u6 https://medium.com/@shriharimohan/text-formatting-on-html-using-js-functions-vs-angular-pipe-736464299ade
-u6 https://www.youtube.com/watch?v=yXEYlig4ekk (local storage)
-u6 https://dev.to/shrihari/text-formatting-on-html-using-js-functions-vs-angular-pipe-1f8g
-u16 https://dev.to/rainerhahnekamp/ng-news-episode-2223-503b
+u 
+u16 
 
 u11 https://levelup.gitconnected.com/angular-intercept-your-http-errors-10d9c95133ec
 u20 https://medium.com/@thecodinganalyst/ngrx-explained-3891da35eeea
@@ -48,6 +29,7 @@ w6 https://www.youtube.com/watch?v=aKsPMTP6-sY
 w6 https://www.youtube.com/watch?v=1lYrplmKmq0
 w8 https://www.youtube.com/watch?v=5pj5eDKSY_k
 w8 A+ https://www.spreaker.com/user/ng-conf/ap-show-s3e13-angela-wright-edit-1
+https://betterprogramming.pub/rxjs-testing-write-unit-tests-for-observables-603af959e251
 w9 https://www.youtube.com/watch?v=rk83ZMqEDV4
 w12 https://github.com/angular/angular/releases/tag/14.0.2
 w12 https://github.com/angular/angular/releases/tag/14.1.0-next.1
@@ -58,12 +40,23 @@ w19 https://www.youtube.com/watch?v=aupp0_tpDho
 w18 https://www.youtube.com/watch?v=aupp0_tpDho
 r2 https://www.youtube.com/watch?v=BPi06eXxcvA
 r4 https://dev.to/syncfusion/angular-template-driven-vs-reactive-forms-497d
+r8 https://medium.com/@info.excelsiortechnologies/7-amazing-features-of-angular-14-e82719f581b
 r8 https://www.youtube.com/watch?v=IlhFScDlbrw
+r https://levelup.gitconnected.com/how-to-test-ngrx-ccf6861fa708
+r Alexis Degraeve https://www.youtube.com/watch?v=FqJKh5FySpc
+r9 https://medium.com/@thecodinganalyst/how-to-test-ngrx-ccf6861fa708
 r10 https://www.youtube.com/watch?v=BEkC2mgiZYw
-r10 https://www.youtube.com/watch?v=BEkC2mgiZYw
+r10 https://prashant007.medium.com/how-to-configure-and-build-angular-application-for-multiple-environments-83a4be4c84e3
+r15 https://dev.to/bipon68/angular-components-1dg4
 
-
-
-
-
-
+f2 Webdevelopment by Gourish https://www.youtube.com/watch?v=lpT4lQUBWTo
+f3 Traveling Coderman  https://www.youtube.com/watch?v=ee17YczpCpU
+f6 https://dev.to/angular_kenya/how-to-create-a-custom-directive-in-angular-co0
+f6 WebTechTalk https://www.youtube.com/watch?v=ZL_goJVUmz0
+f8 Code with Sloba https://www.youtube.com/watch?v=VwOQ1sCI6xo
+f11 https://www.youtube.com/watch?v=8GLU9e2lxpk
+f13 https://dev.to/blove/angular-14-standalone-components-5ghj
+f15 Traveling Coderman https://www.youtube.com/watch?v=ee17YczpCpU
+f16 https://rodrigokamada.hashnode.dev/validating-the-user-phone-by-sms-on-auth0-using-zenvia
+f17 UnHardcoded UnHardcoded https://www.youtube.com/watch?v=HhCjbjZnA14
+f19 Core Knowledge Sharing https://www.youtube.com/watch?v=1MrgexcVACA
