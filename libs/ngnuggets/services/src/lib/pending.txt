@@ -1,18 +1,4 @@
-
-
-u 
-u16 
-
-u11 https://levelup.gitconnected.com/angular-intercept-your-http-errors-10d9c95133ec
-u20 https://medium.com/@thecodinganalyst/ngrx-explained-3891da35eeea
-m2 https://medium.com/@scottmerry23/angular-14-what-are-standalone-components-routes-and-services-f41953773734
-m4 https://www.youtube.com/watch?v=lFueDYByb_A
-m4 https://dev.to/mmuscat/angular-14-dependency-injection-unlocked-3mi2
-m8 https://www.youtube.com/watch?v=xxu2EXh9Gzw
-m8 Ax https://www.spreaker.com/user/14532324/s2e20-martine-dowden-on-a-fast-track-to-?utm_campaign=episode-title&utm_medium=app&utm_source=widget
-
-m https://dev.to/mmuscat/angular-14-dependency-injection-unlocked-3mi2
-t0 https://www.youtube.com/watch?v=WJGmWdBEUxg
+https://www.youtube.com/watch?v=WJGmWdBEUxg
 t1 https://medium.com/codex/angular-guards-disabling-browsers-back-button-for-specific-url-fdf05d9fe155
 t4 https://medium.com/@denis.loh/rxjs-testing-write-unit-tests-for-observables-603af959e251
 t5 https://medium.com/@pole.indraneel/biggest-angular-pitfalls-and-how-to-avoid-them-part-one-circular-dependency-4272417428e4

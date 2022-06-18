@@ -30543,5 +30543,93 @@
         "tags": ["NgRx"]
       }
     ]
+  },
+  {
+    "date": "2022-06-13",
+    "dailyPosts": [
+      {
+        "slug": "2022-06-13-A",
+        "type": "blog",
+        "title": "Angular — Intercept your HTTP Errors",
+        "url": "https://levelup.gitconnected.com/angular-intercept-your-http-errors-10d9c95133ec",
+        "description": "Clean and concise management of HTTP errors. Since errors can occur from time to time in any application, a suitable error handling system should be implemented. In this article, we will focus on the different types of http errors and how we can handle them accordingly.",
+        "datePosted": "2022-06-13",
+        "dateSource": "2022-06-12",
+        "postedBy": "Steve Witman",
+        "sourceSite": "Medium",
+        "sourceUrl": "https://medium.com/tag/angular/latest",
+        "authorName": "Fabian Saacke",
+        "authorUrl": "https://saackef.com",
+        "speakers": ["Fabian Saacke"],
+        "tags": ["Errors"]
+      },
+      {
+        "slug": "2022-06-13-B",
+        "type": "video",
+        "duration": "4",
+        "title": "Custom Validator | Angular - Hero to Superhero",
+        "url": "https://www.youtube.com/watch?v=lFueDYByb_A",
+        "description": "",
+        "datePosted": "2022-06-13",
+        "dateSource": "2022-06-13",
+        "postedBy": "Steve Witman",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "WebTechTalk",
+        "authorUrl": "https://www.youtube.com/c/WebTechTalk/videos",
+        "speakers": [],
+        "tags": ["Forms", "Validation", "Custom"]
+      },
+      {
+        "slug": "2022-06-13-C",
+        "type": "blog",
+        "title": "Angular 14 dependency injection unlocked",
+        "url": "https://dev.to/mmuscat/angular-14-dependency-injection-unlocked-3mi2",
+        "description": "Quietly released with Angular 14 is a fix for this handy little inject utility that allows us to create and retrieve dependencies from the injector tree without relying on parameterized class constructors (read docs)",
+        "datePosted": "2022-06-13",
+        "dateSource": "2022-06-13",
+        "postedBy": "Steve Witman",
+        "sourceSite": "DEV Community",
+        "sourceUrl": "https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc",
+        "authorName": "Michael Muscat",
+        "authorUrl": "https://dev.to/mmuscat",
+        "speakers": ["Michael Muscat"],
+        "tags": ["Dependency Injection"]
+      },
+      {
+        "slug": "2022-06-13-D",
+        "type": "video",
+        "duration": "5",
+        "title": "Adding links or websites in Angular AG Grid cells",
+        "url": "https://www.youtube.com/watch?v=xxu2EXh9Gzw",
+        "description": "In this video you will learn to add links in the AG Grid.",
+        "datePosted": "2022-06-13",
+        "dateSource": "2022-06-13",
+        "postedBy": "Steve Witman",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "E 4 E-Learning",
+        "authorUrl": "https://www.youtube.com/user/E4ELearning/videos",
+        "speakers": [],
+        "tags": ["AG Grid"]
+      },
+      {
+        "slug": "2022-06-13-E",
+        "type": "podcast",
+        "duration": "64",
+        "title": "S2E20 - Martine Dowden on A Fast Track to Success",
+        "url": "https://www.spreaker.com/user/14532324/s2e20-martine-dowden-on-a-fast-track-to-?utm_campaign=episode-title&utm_medium=app&utm_source=widget",
+        "description": "In this episode our guest is the talented and successful Martine Dowden. We inspect the fast track to success, one of us from the perspective of there just isn't one, one of us with the perspective that there are definitely slow tracks and fast tracks, and the other one has the perspective that the track is completely busted. It's up to you to figure out who has which opinion and what your own opinion is. We hope you enjoy this conversation about success!",
+        "datePosted": "2022-06-13",
+        "dateSource": "2022-06-13",
+        "postedBy": "Steve Witman",
+        "sourceSite": "Spreaker",
+        "sourceUrl": "https://spreaker.com",
+        "authorName": "Angular Experience",
+        "authorUrl": "https://angular-experience.web.app/episodes",
+        "speakers": ["Martine Dowden"],
+        "tags": []
+      }
+    ]
   }
 ]
