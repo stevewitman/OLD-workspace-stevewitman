@@ -1,16 +1,14 @@
-https://www.youtube.com/watch?v=vJJ9Cyx4giY
-w3 https://dev.to/armandotrue/design-patterns-in-angular-part-i-3ld7
-w6 https://www.youtube.com/watch?v=aKsPMTP6-sY
-w6 https://www.youtube.com/watch?v=1lYrplmKmq0
-w8 https://www.youtube.com/watch?v=5pj5eDKSY_k
-w8 A+ https://www.spreaker.com/user/ng-conf/ap-show-s3e13-angela-wright-edit-1
-https://betterprogramming.pub/rxjs-testing-write-unit-tests-for-observables-603af959e251
-w9 https://www.youtube.com/watch?v=rk83ZMqEDV4
-w12 https://github.com/angular/angular/releases/tag/14.0.2
-w12 https://github.com/angular/angular/releases/tag/14.1.0-next.1
-w15 ? https://www.youtube.com/watch?v=gjw_ShwVDsc
-w16 https://www.youtube.com/watch?v=P2BgqRATizA
-w19 https://www.youtube.com/watch?v=aupp0_tpDho
+
+w8 
+w 
+w8 A+ 
+
+w9 
+w12 
+w12 
+w15 ? 
+w16 
+w19 
 
 w18 https://www.youtube.com/watch?v=aupp0_tpDho
 r2 https://www.youtube.com/watch?v=BPi06eXxcvA
@@ -35,3 +33,12 @@ f15 Traveling Coderman https://www.youtube.com/watch?v=ee17YczpCpU
 f16 https://rodrigokamada.hashnode.dev/validating-the-user-phone-by-sms-on-auth0-using-zenvia
 f17 UnHardcoded UnHardcoded https://www.youtube.com/watch?v=HhCjbjZnA14
 f19 Core Knowledge Sharing https://www.youtube.com/watch?v=1MrgexcVACA
+
+f22 https://dev.to/riapacheco/custom-tooltip-component-using-angulars-style-directive-and-coordinates-from-web-apis-mouseevent-13f6
+s0 https://balramchavan.medium.com/truly-component-oriented-angular-application-using-standalone-components-3a05e2f587d6
+s3 https://blogs.ashutec.com/angular-14-is-now-available-lets-get-to-know-what-s-new-30b9e0ee34d5
+s7 Alexis Degraeve https://www.youtube.com/watch?v=pYp2T7lqQig
+s7 skk https://www.youtube.com/watch?v=XmOz8ao9DhY
+s8 https://medium.com/bytelimes/steal-this-elegant-trick-right-now-to-repeat-templates-without-ngfor-b2a0ce9e39a5
+s11 https://ramya-bala221190.medium.com/rxjs-angular-retrying-sequential-or-parallel-http-requests-a-fixed-number-of-times-and-also-with-a-b445e1560f88
+s21 JS Frameworks https://www.youtube.com/watch?v=kiQBKe0dosI
