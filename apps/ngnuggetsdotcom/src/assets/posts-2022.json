@@ -3642,7 +3642,7 @@
         "authorName": "Aakash Goplani",
         "authorUrl": "https://dev.to/aakashgoplani",
         "speakers": ["Aakash Goplani"],
-        "tags": ["Forms", "Reactive", "Template Driven Forms", "Validation", "Dynamic"]
+        "tags": ["Forms", "Reactive Forms", "Template Driven Forms", "Validation", "Dynamic"]
       },
       {
         "slug": "2022-01-23-L",
@@ -5894,7 +5894,7 @@
         "authorName": "Angular University",
         "authorUrl": "https://www.youtube.com/channel/UC3cEGKhg3OERn-ihVsJcb7A/videos",
         "speakers": ["Vasco Ferreira"],
-        "tags": ["Angular Material", "Virtual Scroll"]
+        "tags": ["Angular Material", "Scrolling"]
       },
       {
         "slug": "2022-02-04-K",
@@ -6389,7 +6389,7 @@
         "authorName": "Sam",
         "authorUrl": "https://eraoftech.medium.com",
         "speakers": [],
-        "tags": ["Virtual Scroll"]
+        "tags": ["Scrolling"]
       },
       {
         "slug": "2022-02-07-K",
@@ -11445,9 +11445,9 @@
         "slug": "2022-03-05-H",
         "type": "video",
         "duration": "19",
-        "title": "Rxjs subjects - Subject/BehaviorSubject/ReplaySubject/AsyncSubject | Angular 13",
+        "title": "RxJS subjects - Subject/BehaviorSubject/ReplaySubject/AsyncSubject | Angular 13",
         "url": "https://www.youtube.com/watch?v=F9JjUO5TJ-I",
-        "description": "Rxjs subjects - Subject/BehaviorSubject/ReplaySubject/AsyncSubject. We create an Angular 13 app and implement all these different types of subjects to explore their behaviors in detail along with the use cases.",
+        "description": "RxJS subjects - Subject/BehaviorSubject/ReplaySubject/AsyncSubject. We create an Angular 13 app and implement all these different types of subjects to explore their behaviors in detail along with the use cases.",
         "datePosted": "2022-03-05",
         "dateSource": "2022-03-05",
         "postedBy": "Steve Witman",
@@ -20666,7 +20666,7 @@
         "authorName": "TechshareSKK",
         "authorUrl": "https://www.youtube.com/channel/UCD8gC85u512FeCFzRV4Ll-A/videos",
         "speakers": ["Sai Kumar Korthivada"],
-        "tags": ["Testing", "Unit Testing", "ReactiveForms", "FormArray", "removeAt"]
+        "tags": ["Testing", "Unit Testing", "Reactive Forms", "FormArray", "removeAt"]
       },
       {
         "slug": "2022-04-21-E",
@@ -27663,7 +27663,7 @@
         "authorName": "Renato Bogar",
         "authorUrl": "https://hashnode.com/@renatobogar",
         "speakers": ["Renato Bogar"],
-        "tags": ["Rxjs", "combineLatest", "forkJoin", "withLatestFrom"]
+        "tags": ["RxJS", "combineLatest", "forkJoin", "withLatestFrom"]
       },
       {
         "slug": "2022-05-30-E",
@@ -28651,7 +28651,7 @@
         "authorName": "Lucas Paganini",
         "authorUrl": "https://dev.to/lucaspaganini",
         "speakers": ["Lucas Paganini"],
-        "tags": ["Intersection Observer", "Infinite Scroll"]
+        "tags": ["Intersection Observer", "Scrolling"]
       },
       {
         "slug": "2022-06-03-L",
@@ -31033,6 +31033,159 @@
         "authorUrl": "https://www.youtube.com/channel/UCGUKXx5HYoEIiZ5Me2QDvTw/videos",
         "speakers": ["Israel Quiroz"],
         "tags": ["Angular Material"]
+      }
+    ]
+  },
+  {
+    "date": "2022-06-16",
+    "dailyPosts": [
+      {
+        "slug": "2022-06-16-A",
+        "type": "video",
+        "duration": "43",
+        "title": "Day 13 NgClass & NgStyle",
+        "url": "https://www.youtube.com/watch?v=BPi06eXxcvA",
+        "description": "Angular Complete Course: In this playlist, I will explain to you everything you need to get started with the Angular framework. Angular is a very popular framework used to create single-page applications (SPA).",
+        "datePosted": "2022-06-16",
+        "dateSource": "2022-06-16",
+        "postedBy": "Steve Witman",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "Livepure Techonlogy",
+        "authorUrl": "https://www.youtube.com/channel/UCtu5ZE6cdEBx-7eZGCE4P3Q/videos",
+        "speakers": [],
+        "tags": ["ngClass", "ngStyle"]
+      },
+      {
+        "slug": "2022-06-16-B",
+        "type": "blog",
+        "title": "Angular Template Driven vs. Reactive Forms",
+        "url": "https://dev.to/syncfusion/angular-template-driven-vs-reactive-forms-497d",
+        "description": "Almost all enterprise applications are heavily form-driven. Some apps have massive forms that span multiple steps and dialogs and integrate complex validation logic. If developers were to build these complex forms from scratch, they would have to...",
+        "datePosted": "2022-06-16",
+        "dateSource": "2022-06-16",
+        "postedBy": "Steve Witman",
+        "sourceSite": "DEV Community",
+        "sourceUrl": "https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc",
+        "authorName": "Suresh Mohan",
+        "authorUrl": "https://dev.to/sureshmohan",
+        "speakers": ["Suresh Mohan"],
+        "tags": ["Forms", "Template Driven Forms", "Reactive Forms"]
+      },
+      {
+        "slug": "2022-06-16-C",
+        "type": "blog",
+        "title": "7 Amazing Features of Angular 14",
+        "url": "https://medium.com/@info.excelsiortechnologies/7-amazing-features-of-angular-14-e82719f581b",
+        "description": "After the success of its predecessor, Angular 13, Angular 14 has finally here. The Type-script-based web application framework is Google's next big thing. With stand-alone components, Angular 14 promises to simplify Angular app development by removing the requirement for Angular modules. The transition from Angular 13 to Angular 14 opens us with additional possibilities for typed forms, enhanced template diagnosis, and standalone components.",
+        "datePosted": "2022-06-16",
+        "dateSource": "2022-06-16",
+        "postedBy": "Steve Witman",
+        "sourceSite": "Medium",
+        "sourceUrl": "https://medium.com/tag/angular/latest",
+        "authorName": "Excelsior Technologies",
+        "authorUrl": "https://medium.com/@info.excelsiortechnologies",
+        "speakers": [],
+        "tags": []
+      },
+      {
+        "slug": "2022-06-16-D",
+        "type": "video",
+        "duration": "8",
+        "title": "Angular Material #51 - CDK Scrolling",
+        "url": "https://www.youtube.com/watch?v=IlhFScDlbrw",
+        "description": "Angular Material is a UI Component-Based Library for Angular, and through this series, we will take a look into each feature that Angular Material has to offer.",
+        "datePosted": "2022-06-16",
+        "dateSource": "2022-06-16",
+        "postedBy": "Steve Witman",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "Omerko",
+        "authorUrl": "https://www.youtube.com/c/Omerko/videos",
+        "speakers": ["Stefan Omerovic"],
+        "tags": ["Angular Material", "CDK", "Scrolling"]
+      },
+      {
+        "slug": "2022-06-16-E",
+        "type": "blog",
+        "title": "How to test NgRx",
+        "url": "https://levelup.gitconnected.com/how-to-test-ngrx-ccf6861fa708",
+        "description": "NgRx is a framework for angular that helps to separate the backend logic from the frontend, making the code easier cleaner. To know more about how it works and how to use it, do check out my previous article — NgRx explained. Testing with NgRx is pretty straightforward, you'll just need to use the mocks provided.",
+        "datePosted": "2022-06-16",
+        "dateSource": "2022-06-16",
+        "postedBy": "Steve Witman",
+        "sourceSite": "Medium",
+        "sourceUrl": "https://medium.com/tag/angular/latest",
+        "authorName": "Dennis",
+        "authorUrl": "https://medium.com/@thecodinganalyst",
+        "speakers": [],
+        "tags": ["NgRx", "Testing"]
+      },
+      {
+        "slug": "2022-06-16-F",
+        "type": "video",
+        "duration": "34",
+        "title": "Tutorial - RxJS Observer (Weather Station - Part I)",
+        "url": "https://www.youtube.com/watch?v=FqJKh5FySpc",
+        "description": "With this tutorial you will learn how to use RxJS with the Observable, Observer. Also you will see some operators like the pipe, map, tap. We will see in second part how to create the CSS for the weather station. You will get better understanding of the CSS also.",
+        "datePosted": "2022-06-16",
+        "dateSource": "2022-06-16",
+        "postedBy": "Steve Witman",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "Alexis Degraeve",
+        "authorUrl": "https://www.youtube.com/channel/UCDPAw4WDkmXYX-L_NyZ4Hug/videos",
+        "speakers": ["Alexis Degraeve"],
+        "tags": ["RxJS"]
+      },
+      {
+        "slug": "2022-06-16-G",
+        "type": "video",
+        "duration": "11",
+        "title": "Angular Chat App with Firebase (3/N): Fetching user chats and displaying them in a material list",
+        "url": "https://www.youtube.com/watch?v=BEkC2mgiZYw",
+        "description": "This is Part 3 of a series of videos on creating a chat app with Angular Material and Firebase Firestore Database. In this part, we'll fetch all of the chats for the currently logged in user and display it in the form of a material selection list.",
+        "datePosted": "2022-06-16",
+        "dateSource": "2022-06-16",
+        "postedBy": "Steve Witman",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "Zoaib Khan",
+        "authorUrl": "https://www.youtube.com/c/ZoaibKhan/videos",
+        "speakers": ["Zoaib Khan"],
+        "tags": ["Firebase"]
+      },
+      {
+        "slug": "2022-06-16-H",
+        "type": "blog",
+        "title": "How to Configure and build Angular application for multiple environments?",
+        "url": "https://prashant007.medium.com/how-to-configure-and-build-angular-application-for-multiple-environments-83a4be4c84e3",
+        "description": "To start with this topic, I assume you already have one running Angular application in which you need to work to setup for multiple environments",
+        "datePosted": "2022-06-16",
+        "dateSource": "2022-06-16",
+        "postedBy": "Steve Witman",
+        "sourceSite": "Medium",
+        "sourceUrl": "https://medium.com/tag/angular/latest",
+        "authorName": "Prashant Gangwar",
+        "authorUrl": "https://prashant007.medium.com",
+        "speakers": ["Prashant Gangwar"],
+        "tags": ["Environments", "Configuration"]
+      },
+      {
+        "slug": "2022-06-16-J",
+        "type": "blog",
+        "title": "Angular Components",
+        "url": "https://dev.to/bipon68/angular-components-1dg4",
+        "description": "",
+        "datePosted": "2022-06-16",
+        "dateSource": "2022-06-16",
+        "postedBy": "Steve Witman",
+        "sourceSite": "DEV Community",
+        "sourceUrl": "https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc",
+        "authorName": "Bipon Biswas",
+        "authorUrl": "https://dev.to/bipon68/angular-components-1dg4",
+        "speakers": ["Bipon Biswas"],
+        "tags": ["Components"]
       }
     ]
   }

@@ -1,26 +1,14 @@
 
-w8 
-w 
-w8 A+ 
-
-w9 
-w12 
-w12 
-w15 ? 
-w16 
-w19 
-
-w18 https://www.youtube.com/watch?v=aupp0_tpDho
-r2 https://www.youtube.com/watch?v=BPi06eXxcvA
-r4 https://dev.to/syncfusion/angular-template-driven-vs-reactive-forms-497d
-r8 https://medium.com/@info.excelsiortechnologies/7-amazing-features-of-angular-14-e82719f581b
-r8 https://www.youtube.com/watch?v=IlhFScDlbrw
-r https://levelup.gitconnected.com/how-to-test-ngrx-ccf6861fa708
-r Alexis Degraeve https://www.youtube.com/watch?v=FqJKh5FySpc
-r9 https://medium.com/@thecodinganalyst/how-to-test-ngrx-ccf6861fa708
-r10 https://www.youtube.com/watch?v=BEkC2mgiZYw
-r10 https://prashant007.medium.com/how-to-configure-and-build-angular-application-for-multiple-environments-83a4be4c84e3
-r15 https://dev.to/bipon68/angular-components-1dg4
+r2 
+r4 
+r8 
+r8 
+r 
+r Alexis Degraeve 
+r9 
+r10 
+r10 
+r15 
 
 f2 Webdevelopment by Gourish https://www.youtube.com/watch?v=lpT4lQUBWTo
 f3 Traveling Coderman  https://www.youtube.com/watch?v=ee17YczpCpU
@@ -42,3 +30,11 @@ s7 skk https://www.youtube.com/watch?v=XmOz8ao9DhY
 s8 https://medium.com/bytelimes/steal-this-elegant-trick-right-now-to-repeat-templates-without-ngfor-b2a0ce9e39a5
 s11 https://ramya-bala221190.medium.com/rxjs-angular-retrying-sequential-or-parallel-http-requests-a-fixed-number-of-times-and-also-with-a-b445e1560f88
 s21 JS Frameworks https://www.youtube.com/watch?v=kiQBKe0dosI
+
+
+
+s22 Kode With Kamran https://www.youtube.com/watch?v=zRQfehv5QMk
+u4 https://blogs.letscooee.com/my-first-angular-14-standalone-component-64c5f000f01b
+u5 Naveen Bommidi Tech Seeker https://www.youtube.com/watch?v=8Kx4n_Xu9NU
+u7 https://levelup.gitconnected.com/angular-charting-done-right-2564dc52027f
+u8 https://dev.to/ngrx/building-reactive-angular-templates-with-ngrx-component-4m1e

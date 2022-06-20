@@ -204,6 +204,7 @@ export const tags = [
   { cat: 'Misc', tag: 'Productivity' },
   { cat: 'Misc', tag: 'ResizeObserver' },
   { cat: 'Misc', tag: 'Responsive' },
+  { cat: 'Misc', tag: 'Scrolling' },
   { cat: 'Misc', tag: 'SEO' },
   { cat: 'Misc', tag: 'SSR' },
   { cat: 'Misc', tag: 'Sanitization' },
@@ -262,7 +263,6 @@ export const tags = [
   { cat: 'Angular-Material', tag: 'Datepicker' },
   { cat: 'Angular-Material', tag: 'Dialog' },
   { cat: 'Angular-Material', tag: 'Drag and Drop' },
-  { cat: 'Angular-Material', tag: 'Infinite Scroll' },
   { cat: 'Angular-Material', tag: 'Observers' },
   { cat: 'Angular-Material', tag: 'Overlay' },
   { cat: 'Angular-Material', tag: 'Portals' },
@@ -273,7 +273,6 @@ export const tags = [
   { cat: 'Angular-Material', tag: 'Spinner' },
   { cat: 'Angular-Material', tag: 'Tabs' },
   { cat: 'Angular-Material', tag: 'Theming' },
-  { cat: 'Angular-Material', tag: 'Virtual Scroll' },
   { cat: 'Angular-Material', tag: 'Toolbar' },
   { cat: 'Angular-Material', tag: 'Tooltip' },
 
