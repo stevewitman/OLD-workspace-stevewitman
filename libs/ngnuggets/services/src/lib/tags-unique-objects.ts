@@ -35,6 +35,7 @@ export const tags = [
   { cat: 'Angular', tag: 'Environments' },
   { cat: 'Angular', tag: 'EventEmitter' },
   { cat: 'Angular', tag: 'ExpressionChangedAfterItHasBeenCheckedError' },
+  { cat: 'Angular', tag: 'Extended Diagnostics' },
   { cat: 'Angular', tag: 'Form Builder' },
   { cat: 'Angular', tag: 'Forms' },
   { cat: 'Angular', tag: 'HttpClient' },

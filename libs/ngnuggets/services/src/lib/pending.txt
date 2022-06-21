@@ -1,15 +1,4 @@
-https://dev.to/riapacheco/custom-tooltip-component-using-angulars-style-directive-and-coordinates-from-web-apis-mouseevent-13f6
-s0 https://balramchavan.medium.com/truly-component-oriented-angular-application-using-standalone-components-3a05e2f587d6
-s3 https://blogs.ashutec.com/angular-14-is-now-available-lets-get-to-know-what-s-new-30b9e0ee34d5
-s7 Alexis Degraeve https://www.youtube.com/watch?v=pYp2T7lqQig
-s7 skk https://www.youtube.com/watch?v=XmOz8ao9DhY
-s8 https://medium.com/bytelimes/steal-this-elegant-trick-right-now-to-repeat-templates-without-ngfor-b2a0ce9e39a5
-s11 https://ramya-bala221190.medium.com/rxjs-angular-retrying-sequential-or-parallel-http-requests-a-fixed-number-of-times-and-also-with-a-b445e1560f88
-s21 JS Frameworks https://www.youtube.com/watch?v=kiQBKe0dosI
-
-
-
-s22 Kode With Kamran https://www.youtube.com/watch?v=zRQfehv5QMk
+Kode With Kamran https://www.youtube.com/watch?v=zRQfehv5QMk
 u4 https://blogs.letscooee.com/my-first-angular-14-standalone-component-64c5f000f01b
 u5 Naveen Bommidi Tech Seeker https://www.youtube.com/watch?v=8Kx4n_Xu9NU
 u7 https://levelup.gitconnected.com/angular-charting-done-right-2564dc52027f
