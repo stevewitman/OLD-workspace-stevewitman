@@ -16140,7 +16140,7 @@
         "authorName": "Zoaib Khan",
         "authorUrl": "",
         "speakers": ["Zoaib Khan"],
-        "tags": ["Rpouting"]
+        "tags": ["Routing"]
       },
       {
         "slug": "2022-03-29-E",
@@ -31494,6 +31494,93 @@
         "authorUrl": "https://www.youtube.com/c/JSFrameworks/videos",
         "speakers": [],
         "tags": ["Extended Diagnostics"]
+      }
+    ]
+  },
+  {
+    "date": "2022-06-19",
+    "dailyPosts": [
+      {
+        "slug": "2022-06-19-A",
+        "type": "video",
+        "duration": "11",
+        "title": "Angular 13 Tutorial - 4 - Routing | Client Side VS Server Side Routing",
+        "url": "https://www.youtube.com/watch?v=zRQfehv5QMk",
+        "description": "In this video, we will learn about Routing in Angular framework, its implementation and types of routing in modern frameworks",
+        "datePosted": "2022-06-19",
+        "dateSource": "2022-06-18",
+        "postedBy": "Steve Witman",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "Kode With Kamran",
+        "authorUrl": "https://www.youtube.com/channel/UClAF60JODGbZKoyREtl6S5A/videos",
+        "speakers": [],
+        "tags": ["Routing"]
+      },
+      {
+        "slug": "2022-06-19-B",
+        "type": "blog",
+        "title": "My first Angular 14 Standalone Component",
+        "url": "https://blogs.letscooee.com/my-first-angular-14-standalone-component-64c5f000f01b",
+        "description": "One of the prominent features I have been waiting for in Angular v14 is the support of Standalone Components, which removes the need of @NgModule from the application.",
+        "datePosted": "2022-06-19",
+        "dateSource": "2022-06-19",
+        "postedBy": "Steve Witman",
+        "sourceSite": "Medium",
+        "sourceUrl": "https://medium.com/tag/angular/latest",
+        "authorName": "Shashank Agrawal",
+        "authorUrl": "https://medium.com/@snagrawal",
+        "speakers": ["Shashank Agrawal"],
+        "tags": ["Standalone Components"]
+      },
+      {
+        "slug": "2022-06-19-C",
+        "type": "video",
+        "duration": "66",
+        "title": "Angular 14 Crud Example",
+        "url": "https://www.youtube.com/watch?v=8Kx4n_Xu9NU",
+        "description": "",
+        "datePosted": "2022-06-19",
+        "dateSource": "2022-06-19",
+        "postedBy": "Steve Witman",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "Naveen Bommidi Tech Seeker",
+        "authorUrl": "https://www.youtube.com/c/NaveenTechSeeker/videos",
+        "speakers": ["Naveen Bommidi"],
+        "tags": []
+      },
+      {
+        "slug": "2022-06-19-D",
+        "type": "blog",
+        "title": "Angular — charting done right",
+        "url": "https://levelup.gitconnected.com/angular-charting-done-right-2564dc52027f",
+        "description": "When working with large amounts of data or while analysing data, charts are a popular technique to present the data in an easy and comprehensive way. In this article, I will show you how to integrate charts into an Angular app based on a simple demonstration. For this demo, I use ngx-echarts, a popular library where you can create various diagrams.\n(photo by Olga Tutunaru on Unsplash)",
+        "datePosted": "2022-06-19",
+        "dateSource": "2022-06-19",
+        "postedBy": "Steve Witman",
+        "sourceSite": "Medium",
+        "sourceUrl": "https://medium.com/tag/angular/latest",
+        "authorName": "Fabian Saacke",
+        "authorUrl": "https://saackef.com",
+        "speakers": ["Fabian Saacke"],
+        "tags": []
+      },
+      {
+        "slug": "2022-06-19-E",
+        "type": "blog",
+        "title": "Building Reactive Angular Templates with NgRx Component",
+        "url": "https://dev.to/ngrx/building-reactive-angular-templates-with-ngrx-component-4m1e",
+        "description": "In this article, we'll look into the @ngrx/component library used to build reactive Angular templates in a performant way. It contains a set of declarables that are primarily used for rendering observable events and can work in both zone-full and zone-less mode.",
+        "datePosted": "2022-06-19",
+        "dateSource": "2022-06-19",
+        "postedBy": "Steve Witman",
+        "sourceSite": "DEV Community",
+        "sourceUrl": "https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc",
+        "authorName": "Marko Stanimirovic",
+        "authorUrl": "https://dev.to/markostanimirovic",
+        "speakers": ["Marko Stanimirovic"],
+        "tags": ["NgRx"]
       }
     ]
   }

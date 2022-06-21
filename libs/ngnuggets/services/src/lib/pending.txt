@@ -1,8 +1,7 @@
-Kode With Kamran https://www.youtube.com/watch?v=zRQfehv5QMk
-u4 https://blogs.letscooee.com/my-first-angular-14-standalone-component-64c5f000f01b
-u5 Naveen Bommidi Tech Seeker https://www.youtube.com/watch?v=8Kx4n_Xu9NU
-u7 https://levelup.gitconnected.com/angular-charting-done-right-2564dc52027f
-u8 https://dev.to/ngrx/building-reactive-angular-templates-with-ngrx-component-4m1e
+u4 
+u5 Naveen Bommidi Tech Seeker 
+u7 
+u8 
 
 m1 https://www.youtube.com/watch?v=A0JAZhyYXGA
 m2 https://dev.to/rainerhahnekamp/ng-news-episode-2224-4b8h
