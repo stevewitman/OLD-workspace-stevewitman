@@ -206,6 +206,7 @@ export const tags = [
   { cat: 'Misc', tag: 'Responsive' },
   { cat: 'Misc', tag: 'Scrolling' },
   { cat: 'Misc', tag: 'SEO' },
+  { cat: 'Misc', tag: 'SMS' },
   { cat: 'Misc', tag: 'SSR' },
   { cat: 'Misc', tag: 'Sanitization' },
   { cat: 'Misc', tag: 'Search' },

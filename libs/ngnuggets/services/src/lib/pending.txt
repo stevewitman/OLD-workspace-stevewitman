@@ -1,28 +1,4 @@
-
-r2 
-r4 
-r8 
-r8 
-r 
-r Alexis Degraeve 
-r9 
-r10 
-r10 
-r15 
-
-f2 Webdevelopment by Gourish https://www.youtube.com/watch?v=lpT4lQUBWTo
-f3 Traveling Coderman  https://www.youtube.com/watch?v=ee17YczpCpU
-f6 https://dev.to/angular_kenya/how-to-create-a-custom-directive-in-angular-co0
-f6 WebTechTalk https://www.youtube.com/watch?v=ZL_goJVUmz0
-f8 Code with Sloba https://www.youtube.com/watch?v=VwOQ1sCI6xo
-f11 https://www.youtube.com/watch?v=8GLU9e2lxpk
-f13 https://dev.to/blove/angular-14-standalone-components-5ghj
-f15 Traveling Coderman https://www.youtube.com/watch?v=ee17YczpCpU
-f16 https://rodrigokamada.hashnode.dev/validating-the-user-phone-by-sms-on-auth0-using-zenvia
-f17 UnHardcoded UnHardcoded https://www.youtube.com/watch?v=HhCjbjZnA14
-f19 Core Knowledge Sharing https://www.youtube.com/watch?v=1MrgexcVACA
-
-f22 https://dev.to/riapacheco/custom-tooltip-component-using-angulars-style-directive-and-coordinates-from-web-apis-mouseevent-13f6
+https://dev.to/riapacheco/custom-tooltip-component-using-angulars-style-directive-and-coordinates-from-web-apis-mouseevent-13f6
 s0 https://balramchavan.medium.com/truly-component-oriented-angular-application-using-standalone-components-3a05e2f587d6
 s3 https://blogs.ashutec.com/angular-14-is-now-available-lets-get-to-know-what-s-new-30b9e0ee34d5
 s7 Alexis Degraeve https://www.youtube.com/watch?v=pYp2T7lqQig
@@ -38,3 +14,12 @@ u4 https://blogs.letscooee.com/my-first-angular-14-standalone-component-64c5f000
 u5 Naveen Bommidi Tech Seeker https://www.youtube.com/watch?v=8Kx4n_Xu9NU
 u7 https://levelup.gitconnected.com/angular-charting-done-right-2564dc52027f
 u8 https://dev.to/ngrx/building-reactive-angular-templates-with-ngrx-component-4m1e
+
+m1 https://www.youtube.com/watch?v=A0JAZhyYXGA
+m2 https://dev.to/rainerhahnekamp/ng-news-episode-2224-4b8h
+m8 an exp podcast https://www.spreaker.com/user/14532324/s2e21-jordan-powell-on-starting-and-runn?utm_campaign=episode-title&utm_medium=app&utm_source=widget
+m8 an masters podcast https://open.spotify.com/episode/4q8FYk22GcyxyOME6oyVfn
+m8 https://dev.to/enrico_dev86/notification-brodacast-system-with-laravel-websocket-and-rxjs-fph
+m10 https://dev.to/ngrx/announcing-ngrx-v14-action-groups-componentstore-lifecycle-hooks-eslint-package-revamped-ngrx-component-and-more-18ck
+m19 https://www.youtube.com/watch?v=ySqeT7G8xfc
+
