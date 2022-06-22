@@ -1,13 +1,24 @@
-u4 
-u5 Naveen Bommidi Tech Seeker 
-u7 
-u8 
 
-m1 https://www.youtube.com/watch?v=A0JAZhyYXGA
-m2 https://dev.to/rainerhahnekamp/ng-news-episode-2224-4b8h
-m8 an exp podcast https://www.spreaker.com/user/14532324/s2e21-jordan-powell-on-starting-and-runn?utm_campaign=episode-title&utm_medium=app&utm_source=widget
-m8 an masters podcast https://open.spotify.com/episode/4q8FYk22GcyxyOME6oyVfn
-m8 https://dev.to/enrico_dev86/notification-brodacast-system-with-laravel-websocket-and-rxjs-fph
-m10 https://dev.to/ngrx/announcing-ngrx-v14-action-groups-componentstore-lifecycle-hooks-eslint-package-revamped-ngrx-component-and-more-18ck
-m19 https://www.youtube.com/watch?v=ySqeT7G8xfc
+m9 
+m10 
+m19 
+
+m 
+m 
+m16 https://medium.com/@lambda_dev/implementing-a-component-overlay-loader-with-angular-cdk-21c071f53b30
+m16 https://sunilsoundarapandian.medium.com/introduction-to-standalone-components-with-angular-14-8cb3079f8f74
+m17 https://medium.com/@anas.zeouinene/how-to-transform-an-angular-component-to-custom-elements-build-it-in-single-bundle-and-call-6f8ca3c1f5ee
+t1 https://www.youtube.com/watch?v=GYB64qbQx38
+t3 https://altimetrikpoland.medium.com/angular-tips-1-get-rid-of-the-long-relative-import-paths-ca1469f29888
+t4 https://www.youtube.com/watch?v=dtthbiP3SE0
+t7 https://www.youtube.com/watch?v=Sd9aAVL3Uk8
+t8 https://www.youtube.com/watch?v=3iSADIqLp2E
+t9 https://www.youtube.com/watch?v=nlk54-QkGk4
+t10 https://www.youtube.com/watch?v=sWB4FdujP3U
+t11 https://www.youtube.com/watch?v=rcD7YIyYUbA
+t11 https://www.youtube.com/watch?v=zMw55t-TL5c
+t12 https://www.youtube.com/watch?v=AuccCn0JXMc
+t13 https://dev.to/bitovi/how-to-improve-your-angular-e-commerce-application-with-scully-40fj
+
+
 
