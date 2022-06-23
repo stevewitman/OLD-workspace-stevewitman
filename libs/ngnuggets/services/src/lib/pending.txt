@@ -1,24 +1,15 @@
-
-m9 
-m10 
-m19 
-
-m 
-m 
-m16 https://medium.com/@lambda_dev/implementing-a-component-overlay-loader-with-angular-cdk-21c071f53b30
-m16 https://sunilsoundarapandian.medium.com/introduction-to-standalone-components-with-angular-14-8cb3079f8f74
-m17 https://medium.com/@anas.zeouinene/how-to-transform-an-angular-component-to-custom-elements-build-it-in-single-bundle-and-call-6f8ca3c1f5ee
-t1 https://www.youtube.com/watch?v=GYB64qbQx38
-t3 https://altimetrikpoland.medium.com/angular-tips-1-get-rid-of-the-long-relative-import-paths-ca1469f29888
-t4 https://www.youtube.com/watch?v=dtthbiP3SE0
-t7 https://www.youtube.com/watch?v=Sd9aAVL3Uk8
-t8 https://www.youtube.com/watch?v=3iSADIqLp2E
-t9 https://www.youtube.com/watch?v=nlk54-QkGk4
-t10 https://www.youtube.com/watch?v=sWB4FdujP3U
-t11 https://www.youtube.com/watch?v=rcD7YIyYUbA
-t11 https://www.youtube.com/watch?v=zMw55t-TL5c
-t12 https://www.youtube.com/watch?v=AuccCn0JXMc
-t13 https://dev.to/bitovi/how-to-improve-your-angular-e-commerce-application-with-scully-40fj
-
-
-
+https://dev.to/yushulx/how-to-build-angular-document-scanner-with-dynamsoft-web-capture-sdk-4fm2
+w4 https://waterkamp.hashnode.dev/angular-performance-tips
+w6 morony  https://www.youtube.com/watch?v=i6zd8YPGfa4
+w6 https://dev.to/nx/angular-cli-and-nx-why-4dpk
+w6 https://medium.com/@aminsaadati1368/how-to-install-angular-cli-locally-and-globally-59a1ee14d58f
+w7 https://www.youtube.com/watch?v=tnP_fFSkcdo
+w7 https://www.youtube.com/watch?v=CdE6rVfPJ9I
+w8 https://javascript.plainenglish.io/deploy-an-angular-application-with-surge-using-gitlab-ci-cd-dc34aad1f7e3
+w8 a+ https://www.spreaker.com/user/ng-conf/ap-show-s3e14-wade-harkins-edit-2
+w10 https://www.youtube.com/watch?v=dtWV_N7c5-c
+w12 https://dev.to/anirbmuk/a-unique-angular-hover-directive-dk4
+w12 https://www.youtube.com/watch?v=e4XiUZaPz-4
+w18 https://youtu.be/P4yHbHhR_xY?t=434  
+w18 https://github.com/angular/angular/releases/tag/14.0.3
+w18 https://github.com/angular/angular/releases/tag/14.1.0-next.2

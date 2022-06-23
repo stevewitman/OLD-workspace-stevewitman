@@ -111,6 +111,7 @@ export const tags = [
   { cat: 'Angular', tag: 'ngTemplateOutlet' },
   { cat: 'Angular', tag: 'ngTemplateOutletInjector' },
   { cat: 'Angular', tag: 'patchValue' },
+  { cat: 'Angular', tag: 'providers' },
   { cat: 'Angular', tag: 'removeAt' },
   { cat: 'Angular', tag: 'resolve' },
   { cat: 'Angular', tag: 'resolveComponentFactory(deprecated)' },
