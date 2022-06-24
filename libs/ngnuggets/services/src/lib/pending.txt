@@ -1,15 +1,27 @@
-https://dev.to/yushulx/how-to-build-angular-document-scanner-with-dynamsoft-web-capture-sdk-4fm2
-w4 https://waterkamp.hashnode.dev/angular-performance-tips
-w6 morony  https://www.youtube.com/watch?v=i6zd8YPGfa4
-w6 https://dev.to/nx/angular-cli-and-nx-why-4dpk
-w6 https://medium.com/@aminsaadati1368/how-to-install-angular-cli-locally-and-globally-59a1ee14d58f
-w7 https://www.youtube.com/watch?v=tnP_fFSkcdo
-w7 https://www.youtube.com/watch?v=CdE6rVfPJ9I
-w8 https://javascript.plainenglish.io/deploy-an-angular-application-with-surge-using-gitlab-ci-cd-dc34aad1f7e3
-w8 a+ https://www.spreaker.com/user/ng-conf/ap-show-s3e14-wade-harkins-edit-2
-w10 https://www.youtube.com/watch?v=dtWV_N7c5-c
-w12 https://dev.to/anirbmuk/a-unique-angular-hover-directive-dk4
-w12 https://www.youtube.com/watch?v=e4XiUZaPz-4
-w18 https://youtu.be/P4yHbHhR_xY?t=434  
-w18 https://github.com/angular/angular/releases/tag/14.0.3
-w18 https://github.com/angular/angular/releases/tag/14.1.0-next.2
+
+w4 
+w6 morony  
+w6 
+w6 
+w7 
+w7 
+w8 
+w8 a+ 
+w10 
+w12 
+w12 
+w18   
+w18 
+w18 
+
+
+w https://medium.com/@sangwin/angular-location-history-5c6955b4cd3d
+w21 https://www.youtube.com/watch?v=J-c_IJG2s80
+w22 https://www.youtube.com/watch?v=Xnyi_nWyc1c
+r4 https://www.youtube.com/watch?v=Tf99z4qsH2A
+r4 https://www.youtube.com/watch?v=2X2z1uPsF5E
+r7 web rush https://webrush.io/episodes/episode-189-be-a-lifelong-learner-with-deborah-kurata
+r7 https://www.youtube.com/watch?v=GyOYu2EF8cg
+r9 https://blog.briebug.com/blog/angular-dependency-injection?utm_source=Sugar&utm_medium=Email&utm_campaign=Angular_Dependency_Injection
+r17 https://www.youtube.com/watch?v=WBxF_d1Sb7M
+r20 https://www.youtube.com/watch?v=3oLH3if-c4g
