@@ -1,27 +1,11 @@
-
-w4 
-w6 morony  
-w6 
-w6 
-w7 
-w7 
-w8 
-w8 a+ 
-w10 
-w12 
-w12 
-w18   
-w18 
-w18 
-
-
-w https://medium.com/@sangwin/angular-location-history-5c6955b4cd3d
-w21 https://www.youtube.com/watch?v=J-c_IJG2s80
-w22 https://www.youtube.com/watch?v=Xnyi_nWyc1c
-r4 https://www.youtube.com/watch?v=Tf99z4qsH2A
-r4 https://www.youtube.com/watch?v=2X2z1uPsF5E
-r7 web rush https://webrush.io/episodes/episode-189-be-a-lifelong-learner-with-deborah-kurata
-r7 https://www.youtube.com/watch?v=GyOYu2EF8cg
-r9 https://blog.briebug.com/blog/angular-dependency-injection?utm_source=Sugar&utm_medium=Email&utm_campaign=Angular_Dependency_Injection
-r17 https://www.youtube.com/watch?v=WBxF_d1Sb7M
-r20 https://www.youtube.com/watch?v=3oLH3if-c4g
+https://medium.com/@bananicabananica/managing-state-in-angular-part-2-c48b63b564c
+r https://topenddevs.com/podcasts/adventures-in-angular/episodes/ngrx-with-google-developer-expert-tomas-trajan-aia-347
+r23 https://www.youtube.com/watch?v=X9XFphBs7oM
+f0 https://medium.com/@sablepankaj190/read-configuration-properties-from-json-file-and-load-it-before-angular-application-is-initialized-5bf9b06e70b8
+f3 https://netbasal.com/create-urltree-from-any-activatedroutesnapshot-in-angular-34a29af25416
+f8 https://www.telerik.com/blogs/angular-14-brings-so-much
+f11 https://www.youtube.com/watch?v=_t6mkQtYycw 
+f11 https://www.youtube.com/watch?v=8noIVaqnOko
+f12 https://www.youtube.com/watch?v=QuN9Xrg_7u8
+f15 https://www.youtube.com/watch?v=gar8SxGELak
+f19 https://dev.to/cristianflorincalina/improving-angular-initial-load-time-561a
