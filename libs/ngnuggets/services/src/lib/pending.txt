@@ -1,11 +1,20 @@
-https://medium.com/@bananicabananica/managing-state-in-angular-part-2-c48b63b564c
-r https://topenddevs.com/podcasts/adventures-in-angular/episodes/ngrx-with-google-developer-expert-tomas-trajan-aia-347
-r23 https://www.youtube.com/watch?v=X9XFphBs7oM
-f0 https://medium.com/@sablepankaj190/read-configuration-properties-from-json-file-and-load-it-before-angular-application-is-initialized-5bf9b06e70b8
-f3 https://netbasal.com/create-urltree-from-any-activatedroutesnapshot-in-angular-34a29af25416
-f8 https://www.telerik.com/blogs/angular-14-brings-so-much
-f11 https://www.youtube.com/watch?v=_t6mkQtYycw 
-f11 https://www.youtube.com/watch?v=8noIVaqnOko
-f12 https://www.youtube.com/watch?v=QuN9Xrg_7u8
-f15 https://www.youtube.com/watch?v=gar8SxGELak
-f19 https://dev.to/cristianflorincalina/improving-angular-initial-load-time-561a
+
+
+june20th https://alex-migwi.medium.com/rxjs-observables-a-gentle-introduction-7f0c86df37ae
+https://www.youtube.com/watch?v=qaz8tufQKIU
+f? https://medium.com/ngconf/reusable-component-pieces-with-ngtemplateoutlet-5ac46bd19897
+s3 https://dev.to/amplication/amplication-angular-saving-tasks-to-the-backend-371l
+f4 https://medium.com/@rsagheda123/how-to-host-angular-app-on-heroku-665317d1f47f
+s7 https://medium.com/@mikjailsalazar/just-another-searchbar-angular-jsx-dd7bdaeff82e
+s9 https://www.youtube.com/watch?v=R0scVA-PsnI
+s9 https://medium.com/@anas.zeouinene/how-to-get-information-about-device-browser-by-using-ngx-device-detector-bbad8aa757c4
+s21 https://www.youtube.com/watch?v=onCo6I_lFD4
+s22 https://www.youtube.com/watch?v=x9Nng74kaaM
+
+June22nd https://www.youtube.com/watch?v=cDgSUhmUwZI
+June25th https://dev.to/this-is-learning/detect-swipes-with-reactive-programming-1bph
+u9 https://www.youtube.com/watch?v=PuHIKmWO7yQ
+u11 https://dev.to/sandrocagara/angular-use-changedetectionstrategyonpush-4n0g
+u16 https://www.youtube.com/watch?v=Ky1BncRneGw
+u18 https://www.youtube.com/watch?v=eajxBaSEAoY
+

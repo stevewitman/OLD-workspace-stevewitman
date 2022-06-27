@@ -1,6 +1,8 @@
 export const tags = [
   { cat: 'Angular', tag: 'AOT' },
   { cat: 'Angular', tag: 'Accessibility' },
+  { cat: 'Angular', tag: 'ActivatedRoute' },
+  { cat: 'Angular', tag: 'ActivatedRouteSnapshot' },
   { cat: 'Angular', tag: 'Angular Elements' },
   { cat: 'Angular', tag: 'AngularJS' },
   { cat: 'Angular', tag: 'Angular Universal' },
