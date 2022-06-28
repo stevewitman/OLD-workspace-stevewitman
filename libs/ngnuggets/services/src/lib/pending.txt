@@ -1,20 +1,21 @@
-
-
-june20th https://alex-migwi.medium.com/rxjs-observables-a-gentle-introduction-7f0c86df37ae
-https://www.youtube.com/watch?v=qaz8tufQKIU
-f? https://medium.com/ngconf/reusable-component-pieces-with-ngtemplateoutlet-5ac46bd19897
-s3 https://dev.to/amplication/amplication-angular-saving-tasks-to-the-backend-371l
-f4 https://medium.com/@rsagheda123/how-to-host-angular-app-on-heroku-665317d1f47f
-s7 https://medium.com/@mikjailsalazar/just-another-searchbar-angular-jsx-dd7bdaeff82e
-s9 https://www.youtube.com/watch?v=R0scVA-PsnI
-s9 https://medium.com/@anas.zeouinene/how-to-get-information-about-device-browser-by-using-ngx-device-detector-bbad8aa757c4
-s21 https://www.youtube.com/watch?v=onCo6I_lFD4
-s22 https://www.youtube.com/watch?v=x9Nng74kaaM
-
 June22nd https://www.youtube.com/watch?v=cDgSUhmUwZI
 June25th https://dev.to/this-is-learning/detect-swipes-with-reactive-programming-1bph
 u9 https://www.youtube.com/watch?v=PuHIKmWO7yQ
 u11 https://dev.to/sandrocagara/angular-use-changedetectionstrategyonpush-4n0g
 u16 https://www.youtube.com/watch?v=Ky1BncRneGw
 u18 https://www.youtube.com/watch?v=eajxBaSEAoY
+u https://medium.com/bytelimes/bizarre-angular-template-debugging-technique-no-one-really-talks-about-b67ecc5c6ea6
+u https://sergeygultyayev.medium.com/angular-style-encapsulation-101-f58d20c12657
 
+u https://neowei.medium.com/angular-how-i-moved-90-gets-into-a-cacheable-shell-component-e57615a77de9
+m https://www.thisdot.co/blog/state-of-angular-ecosystem-updates-in-rxjs-ngrx-ionic-nx-cypress-nggirls-and
+m1 https://medium.com/@estherwavinya/rxjs-map-operator-in-angular-3c1b92d6ca21
+m1 https://dev.to/rezanazari/strategy-pattern-in-angular-with-injector-4jce
+m7 title change? https://www.youtube.com/watch?v=L-k5kI0B8DU
+m7 ang exp https://www.spreaker.com/user/14532324/s2e22-doguhan-uluca-tale-of-a-turk-in-te?utm_campaign=episode-title&utm_medium=app&utm_source=widget
+m8 https://www.youtube.com/watch?v=HcwPyzD4LXQ
+m8 https://www.youtube.com/watch?v=hd7iKBSzxdE
+m8 https://www.youtube.com/watch?v=PQj7020Nhto
+m11 https://www.youtube.com/watch?v=SWCznpVWlZY
+m17 https://www.youtube.com/watch?v=ZHmBd8WqpZk
+m19 https://www.youtube.com/watch?v=X9sH5S2zJro
