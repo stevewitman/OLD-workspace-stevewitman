@@ -1,17 +1,4 @@
-https://neowei.medium.com/angular-how-i-moved-90-gets-into-a-cacheable-shell-component-e57615a77de9
-m https://www.thisdot.co/blog/state-of-angular-ecosystem-updates-in-rxjs-ngrx-ionic-nx-cypress-nggirls-and
-m1 https://medium.com/@estherwavinya/rxjs-map-operator-in-angular-3c1b92d6ca21
-m1 https://dev.to/rezanazari/strategy-pattern-in-angular-with-injector-4jce
-m7 title change? https://www.youtube.com/watch?v=L-k5kI0B8DU
-m7 ang exp https://www.spreaker.com/user/14532324/s2e22-doguhan-uluca-tale-of-a-turk-in-te?utm_campaign=episode-title&utm_medium=app&utm_source=widget
-m8 https://www.youtube.com/watch?v=HcwPyzD4LXQ
-m8 https://www.youtube.com/watch?v=hd7iKBSzxdE
-m8 https://www.youtube.com/watch?v=PQj7020Nhto
-m11 https://www.youtube.com/watch?v=SWCznpVWlZY
-m17 https://www.youtube.com/watch?v=ZHmBd8WqpZk
-m19 https://www.youtube.com/watch?v=X9sH5S2zJro
-
-m23 https://www.youtube.com/watch?v=_Fw4B6zCHtE
+https://www.youtube.com/watch?v=_Fw4B6zCHtE
 t0 https://medium.com/nerd-for-tech/animate-fixed-sticky-header-on-scroll-in-angular-e2b68dc63791
 t0 https://medium.com/nerd-for-tech/angular-containers-and-inheritance-ac0f9a903a6d
 t2 https://www.youtube.com/watch?v=GI9vePWob6A
@@ -21,6 +8,7 @@ t7 https://www.youtube.com/watch?v=2T3F5TfrYwI
 https://www.telerik.com/blogs/angular-14-introducing-standalone-components
 t8 https://www.youtube.com/watch?v=IYI0em-xT28
 t8 https://www.youtube.com/watch?v=0HzCrWjC2vI
+https://medium.com/applearn-engineering/rxjs-interop-incompatibility-a-tale-as-old-as-time-539282fabe43
 t9 https://dev.to/appwrite/building-a-realtime-chat-application-using-angular-and-appwrite-i3o
 t9 https://www.youtube.com/watch?v=UUiHB8VC_to
 t10 https://dev.to/nx/jumpstart-your-angular-14-development-with-storybook-tailwind-and-nx-f60
@@ -28,3 +16,31 @@ t12 https://dev.to/logrocket/nestjs-vs-expressjs-40ok
 t12 https://dev.to/royce_reed/a-brief-introduction-to-nestjs-4aea
 t12 https://medium.com/@ramya-bala221190/angular-keeping-track-of-the-loading-spinner-states-for-multiple-http-requests-in-multiple-29019ca57376
 t20 https://aliasger.dev/create-an-angular-custom-input-component-with-grouping
+
+t17 https://dev.to/ricardojavister/mergeall-28kl
+t21 https://dev.to/ricardojavister/angular-forms-19l1
+t21 https://dev.to/enappd/build-offline-ionic-angular-5-applications-32f8
+https://medium.com/@veeranan.s/websocket-implementation-in-angular-84c1508b3257
+t22 https://www.youtube.com/watch?v=V_iU6AggcxQ
+https://makesh-kumar.medium.com/angular-preloading-lazy-loaded-modules-e11e5b69bf7
+w2 https://www.youtube.com/watch?v=GI5j3dJ6o90
+w5 https://dev.to/this-is-angular/wrap-your-library-in-an-angular-directive-2pc9
+w6 https://www.youtube.com/watch?v=tWy8zaWvkvk
+w8 https://www.spreaker.com/user/ng-conf/ap-show-s3e15-david-tucker-edit-1
+w9 https://dev.to/angular/getting-started-with-angular-2-56dm
+w11 https://dev.to/bipon68/angular-dependency-injection-ob
+w12 https://aosolorzano.medium.com/building-a-cloud-native-app-using-angular-ionic-with-amplify-and-java-quarkus-with-copilot-ecs-48ca3fc50dd4
+https://www.thisdot.co/blog/new-features-in-angular-14-standalone-apis-animations-ssr-support-typed
+w12 https://github.com/angular/angular/releases/tag/14.0.4
+w12 https://github.com/angular/angular/releases/tag/14.1.0-next.3
+w16 https://www.youtube.com/watch?v=wfq8vjBY7bc
+w17 https://dev.to/bitovi/why-your-angular-bundle-is-bloated-p2d
+w22 hash https://aliasger.dev/how-to-create-an-rxjs-observable-manually-and-by-use-of-creation-operators
+
+
+
+r9 https://www.youtube.com/watch?v=Pr17T2ZOpAY
+r9 https://www.youtube.com/watch?v=kWASI5pIIBc
+r9 https://www.youtube.com/watch?v=Zpnoz5o0OhM
+r10 https://www.youtube.com/watch?v=95YOETbN_3U
+14 https://www.youtube.com/watch?v=TQBbS6YGNFc
