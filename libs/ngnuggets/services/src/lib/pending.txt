@@ -1,23 +1,4 @@
-https://www.youtube.com/watch?v=_Fw4B6zCHtE
-t0 https://medium.com/nerd-for-tech/animate-fixed-sticky-header-on-scroll-in-angular-e2b68dc63791
-t0 https://medium.com/nerd-for-tech/angular-containers-and-inheritance-ac0f9a903a6d
-t2 https://www.youtube.com/watch?v=GI9vePWob6A
-t4 https://dev.to/yushulx/how-to-create-an-angular-barcode-qr-code-scanning-library-2g17
-t5 https://www.youtube.com/watch?v=a4SFciAUXFo
-t7 https://www.youtube.com/watch?v=2T3F5TfrYwI
-https://www.telerik.com/blogs/angular-14-introducing-standalone-components
-t8 https://www.youtube.com/watch?v=IYI0em-xT28
-t8 https://www.youtube.com/watch?v=0HzCrWjC2vI
-https://medium.com/applearn-engineering/rxjs-interop-incompatibility-a-tale-as-old-as-time-539282fabe43
-t9 https://dev.to/appwrite/building-a-realtime-chat-application-using-angular-and-appwrite-i3o
-t9 https://www.youtube.com/watch?v=UUiHB8VC_to
-t10 https://dev.to/nx/jumpstart-your-angular-14-development-with-storybook-tailwind-and-nx-f60
-t12 https://dev.to/logrocket/nestjs-vs-expressjs-40ok
-t12 https://dev.to/royce_reed/a-brief-introduction-to-nestjs-4aea
-t12 https://medium.com/@ramya-bala221190/angular-keeping-track-of-the-loading-spinner-states-for-multiple-http-requests-in-multiple-29019ca57376
-t20 https://aliasger.dev/create-an-angular-custom-input-component-with-grouping
-
-t17 https://dev.to/ricardojavister/mergeall-28kl
+https://dev.to/ricardojavister/mergeall-28kl
 t21 https://dev.to/ricardojavister/angular-forms-19l1
 t21 https://dev.to/enappd/build-offline-ionic-angular-5-applications-32f8
 https://medium.com/@veeranan.s/websocket-implementation-in-angular-84c1508b3257
