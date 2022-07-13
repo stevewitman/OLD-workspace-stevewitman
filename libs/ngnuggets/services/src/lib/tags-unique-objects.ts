@@ -402,6 +402,7 @@ export const tags = [
   { cat: '3rd Party', tag: 'ngx-logger' },
   { cat: '3rd Party', tag: 'ngx-toastr' },
   { cat: '3rd Party', tag: 'ngx-translate' },
+  { cat: '3rd Party', tag: 'Webstorm' },
   { cat: '3rd Party', tag: 'reCAPTCHA' },
 ];
 // GOOD

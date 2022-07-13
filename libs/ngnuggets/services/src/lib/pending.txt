@@ -1,28 +1,4 @@
-
-w12 
-
-w12 
-w12 
-w16 
-w17 
-w22 hash 
-
-
-w https://www.webtutpro.com/what-is-new-with-angular-14-9-features-4029bc91fa3f
-r9 https://www.youtube.com/watch?v=Pr17T2ZOpAY
-r9 https://www.youtube.com/watch?v=kWASI5pIIBc
-r9 https://www.youtube.com/watch?v=Zpnoz5o0OhM
-??day https://medium.com/@kvkarti/microsites-architecture-using-nrwl-nx-9edaa453af24
-??day https://medium.com/@lucapiciollo/welcome-to-pl-schematics-b5d6d332655
-??day https://medium.com/sliitwif/angular-unit-testing-4887eea3c188
-??day https://balramchavan.medium.com/how-to-inject-angular-services-in-external-javascript-and-static-functions-a1d144087f1f
-??day https://javascript.plainenglish.io/angular-route-parameters-a-simple-guide-88c69d54102c
-r10 https://www.youtube.com/watch?v=95YOETbN_3U
-r14 https://www.youtube.com/watch?v=TQBbS6YGNFc
-r22 https://dev.to/riapacheco/making-pretty-responsive-charts-with-angular-v14-and-ng2-charts-v310-4ibh
-
-
-f3 https://medium.com/@shilpasyal55/building-autocomplete-search-component-from-scratch-angular-7b012339514
+https://medium.com/@shilpasyal55/building-autocomplete-search-component-from-scratch-angular-7b012339514
 f4 https://www.youtube.com/watch?v=cxjw-prKTFA
 f4 https://medium.com/@schaenk/api-endpoint-parameter-handling-within-an-angular-application-8ea81e7abf00
 f4 https://medium.com/@hudzenko7/reload-current-route-in-angular-b5c3911721aa
@@ -117,3 +93,32 @@ u3 https://dev.to/shrihari/a-custom-right-click-menu-on-angular-feat-primeng-4hj
 u9 https://dev.to/rezanazari/separate-numbers-in-input-with-angular-directive-p4k
 u11 https://www.youtube.com/watch?v=ziTBF-OUUjg
 u12 https://www.youtube.com/watch?v=u_CRppLcC9k
+
+
+
+u23 https://www.youtube.com/watch?v=lqCNVi1292Q
+u23 https://www.youtube.com/watch?v=2T2icM2jRA8
+m1 https://www.youtube.com/watch?v=KAIqP2Y1YHE
+m1 https://www.youtube.com/watch?v=W7Xsm-7Jmbo
+m2 https://dev.to/ayyash/alternative-way-to-localize-in-angular-o8d
+m3 https://dev.to/this-is-angular/errors-and-angular-n0b
+m3 https://www.youtube.com/watch?v=e4hBxFQGPxg
+m https://www.telerik.com/blogs/angular-basics-working-enums
+m7 https://www.youtube.com/watch?v=RHK6MWLhB90
+m8 ang exp https://www.spreaker.com/user/14532324/s2e24-colum-ferry-on-solving-the-timezon?utm_campaign=episode-title&utm_medium=app&utm_source=widget
+m10 https://www.youtube.com/watch?v=kCS1Ge_Zgaw
+m10 https://www.youtube.com/watch?v=b8AYk7ADJwE
+m11 https://dev.to/nx/setup-module-federation-in-angular-using-nx-5gko
+m13 https://www.youtube.com/watch?v=jWWQRXhgciQ
+m https://medium.com/@vakhrushev.sergey/dont-filter-it-20bc85a7f56f
+m13 https://www.youtube.com/watch?v=cmT5wXjZq1k
+m17 https://www.youtube.com/watch?v=YUCNdQX7RTo
+
+
+m https://medium.com/@ConorJonOReilly/nx-fetch-operator-and-working-with-ngrx-effects-while-maintaining-state-4a8c42ac86ca
+m13 https://medium.com/@joosep.parts/create-an-angular-14-library-use-it-locally-when-developing-and-publish-the-package-to-npm-689ca2efdea8
+m13 https://medium.com/ideacoding-lab/getting-parameters-from-incoming-link-quickies-in-angular-fc02c3c14649
+m22 https://ramya-bala221190.medium.com/angular-rxjs-2-ways-you-could-share-the-http-request-execution-when-the-request-is-executed-inside-975d0dce054c
+t2 https://dev.to/this-is-angular/asynchronous-sources-angular-3mcd
+t3 https://medium.com/@vicpuigcer/rxjs-7-operator-topromise-deprecated-alternatives-4b02d1061f44
+t8 https://www.youtube.com/watch?v=wDAmfqnIrck
