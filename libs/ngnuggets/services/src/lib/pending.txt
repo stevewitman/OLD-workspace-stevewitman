@@ -1,16 +1,13 @@
-https://medium.com/@shilpasyal55/building-autocomplete-search-component-from-scratch-angular-7b012339514
-f4 https://www.youtube.com/watch?v=cxjw-prKTFA
-f4 https://medium.com/@schaenk/api-endpoint-parameter-handling-within-an-angular-application-8ea81e7abf00
-f4 https://medium.com/@hudzenko7/reload-current-route-in-angular-b5c3911721aa
-f10 https://sergeygultyayev.medium.com/how-to-make-angular-applications-more-robust-855deec98fbc
-f11 https://www.youtube.com/watch?v=CR72s1sqEOA
-f11 https://www.youtube.com/watch?v=8ZbjleTp7EQ
-f12 https://youtu.be/hCnz-lRX-FY?t=23
 
-https://medium.com/@tyagi.vinayak/so-i-understood-rxjs-flattening-operators-12e9f39aa51b
-s8 angular master https://open.spotify.com/episode/04mVDygYK2tcB3312rgDS6
-s11 https://www.youtube.com/watch?v=HUfvZDmwpiE
-s18 https://www.youtube.com/watch?v=0KQ2LlHasos
+f10 
+f11 
+f11 
+f12 
+
+
+s8 angular master 
+s11 
+s18 
 
 s https://srishty-2550.medium.com/angular-authentication-using-jwt-95d2b441446b
 s https://medium.com/@jaydeepvpatil225/jwt-token-authentication-in-angular-14-and-net-core-6-web-api-c3237cb4204
@@ -120,5 +117,13 @@ m13 https://medium.com/@joosep.parts/create-an-angular-14-library-use-it-locally
 m13 https://medium.com/ideacoding-lab/getting-parameters-from-incoming-link-quickies-in-angular-fc02c3c14649
 m22 https://ramya-bala221190.medium.com/angular-rxjs-2-ways-you-could-share-the-http-request-execution-when-the-request-is-executed-inside-975d0dce054c
 t2 https://dev.to/this-is-angular/asynchronous-sources-angular-3mcd
+t2 https://brunoelo.hashnode.dev/adding-netlify-cms-to-an-angular-scully-blog-site
 t3 https://medium.com/@vicpuigcer/rxjs-7-operator-topromise-deprecated-alternatives-4b02d1061f44
+t4 https://dev.to/this-is-angular/multi-store-dom-events-angular-a12
+t5 https://chibueze.hashnode.dev/candeactivate-route-guard-in-angular
+t6 https://dev.to/syncfusion/firebase-push-notifications-for-android-and-ios-using-ionic-and-aspnet-a-complete-guide-16bi
+t7 https://dev.to/angular/pipes-in-angular-3g4i
 t8 https://www.youtube.com/watch?v=wDAmfqnIrck
+t12 https://www.youtube.com/watch?v=9bQtKh1Vtos
+t13 https://github.com/angular/angular/releases/tag/14.0.6
+t14 https://github.com/angular/angular/releases/tag/14.1.0-rc.0

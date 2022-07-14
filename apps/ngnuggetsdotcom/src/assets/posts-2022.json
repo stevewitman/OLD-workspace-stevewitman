@@ -325,7 +325,7 @@
         "authorName": "Code With Lyle",
         "authorUrl": "https://www.youtube.com/channel/UCX9kUAaYYm6x7uojvxXx7UA/videos",
         "speakers": [],
-        "tags": ["@Input", "@Output"]
+        "tags": ["@Input", "@Output", "Data Transfer"]
       },
       {
         "slug": "2022-01-03-G",
@@ -696,7 +696,7 @@
         "authorName": "Joshua Morony",
         "authorUrl": "https://www.youtube.com/c/CreativeDeveloper/videos",
         "speakers": ["Joshua Morony"],
-        "tags": ["RxJS", "Observables", "@Input"]
+        "tags": ["RxJS", "Observables", "@Input", "Data Transfer"]
       },
       {
         "slug": "2022-01-05-H",
@@ -1902,7 +1902,7 @@
         "authorName": "kelly woo",
         "authorUrl": "https://kelly-kh-woo.medium.com",
         "speakers": ["Kelly Woo"],
-        "tags": ["Getters/Setters", "@Input"]
+        "tags": ["Getters/Setters", "@Input", "Data Transfer"]
       },
       {
         "slug": "2022-01-13-J",
@@ -2289,7 +2289,7 @@
         "authorName": "Anubhab Mukherjee",
         "authorUrl": "https://dev.to/anubhab5",
         "speakers": ["Anubhab Mukherjee"],
-        "tags": ["Components", "@Input", "@Output"]
+        "tags": ["Components", "@Input", "@Output", "Data Transfer"]
       },
       {
         "slug": "2022-01-15-H",
@@ -3659,7 +3659,7 @@
         "authorName": "Learn Smart Coding",
         "authorUrl": "https://www.youtube.com/channel/UCKUxSY2xp12QiP3c60sOc-g/videos",
         "speakers": [],
-        "tags": ["@Input", "@Output"]
+        "tags": ["@Input", "@Output", "Data Transfer"]
       },
       {
         "slug": "2022-01-23-M",
@@ -3730,7 +3730,7 @@
         "authorName": "Michael Karen",
         "authorUrl": "https://hashnode.com/@melcor76",
         "speakers": ["Michael Karen"],
-        "tags": ["Forms", "Form Builder", "Async Pipe", "@Input", "@Output"]
+        "tags": ["Forms", "Form Builder", "Async Pipe", "@Input", "@Output", "Data Transfer"]
       },
       {
         "slug": "2022-01-24-D",
@@ -3814,7 +3814,7 @@
         "authorName": "procademy",
         "authorUrl": "https://www.youtube.com/c/procademyn/videos",
         "speakers": [],
-        "tags": ["@Input"]
+        "tags": ["@Input", "Data Transfer"]
       },
       {
         "slug": "2022-01-24-J",
@@ -7048,7 +7048,7 @@
         "authorName": "lavanya k",
         "authorUrl": "https://medium.com/@lavanya.kakimallaiah",
         "speakers": [],
-        "tags": ["@Input", "@Output"]
+        "tags": ["@Input", "@Output", "Data Transfer"]
       },
       {
         "slug": "2022-02-10-L",
@@ -7659,7 +7659,7 @@
         "authorName": "Dany Paredes",
         "authorUrl": "https://hashnode.com/@danywalls4",
         "speakers": ["Dany Paredes"],
-        "tags": ["@Input", "@Output", "@ViewChild", "BehaviorSubject"]
+        "tags": ["@Input", "@Output", "@ViewChild", "BehaviorSubject", "Data Transfer"]
       },
       {
         "slug": "2022-02-14-K",
@@ -8404,7 +8404,7 @@
         "authorName": "Mete Aydin",
         "authorUrl": "https://meteaydin.medium.com",
         "speakers": ["Mete Aydin"],
-        "tags": ["@Input", "@Ouptut"]
+        "tags": ["@Input", "@Ouptut", "Data Transfer"]
       },
       {
         "slug": "2022-02-18-B",
@@ -9027,7 +9027,7 @@
         "authorName": "Kelly Williams",
         "authorUrl": "https://medium.com/@kellymarjorie",
         "speakers": ["Kelly Williams"],
-        "tags": ["@Input"]
+        "tags": ["@Input", "Data Transfer"]
       },
       {
         "slug": "2022-02-20-P",
@@ -12766,7 +12766,7 @@
         "authorName": "Nihira Techiees",
         "authorUrl": "https://www.youtube.com/channel/UCsbmVmB_or8sVLLEq4XhE_A/videos",
         "speakers": [],
-        "tags": ["@Input", "@Output", "@ViewChild"]
+        "tags": ["@Input", "@Output", "@ViewChild", "Data Transfer"]
       },
       {
         "slug": "2022-03-12-G",
@@ -14386,7 +14386,7 @@
         "authorName": "Tutorial Rays",
         "authorUrl": "https://www.youtube.com/c/TutorialRays/videos",
         "speakers": ["Umar Rahman"],
-        "tags": ["Components", "@Input"]
+        "tags": ["Components", "@Input", "Data Transfer"]
       },
       {
         "slug": "2022-03-20-B",
@@ -16078,7 +16078,7 @@
         "authorName": "Leela Web Dev",
         "authorUrl": "https://www.youtube.com/c/LeelaWebDev/videos",
         "speakers": ["Leela Narasimha"],
-        "tags": ["Testing", "Unit Testing", "@Input", "@Output"]
+        "tags": ["Testing", "Unit Testing", "@Input", "@Output", "Data Transfer"]
       },
       {
         "slug": "2022-03-29-B",
@@ -17116,7 +17116,7 @@
         "authorName": "Sam",
         "authorUrl": "https://eraoftech.medium.com",
         "speakers": [],
-        "tags": ["@Input", "@Output", "EventEmitter"]
+        "tags": ["@Input", "@Output", "EventEmitter", "Data Transfer"]
       },
       {
         "slug": "2022-04-04-C",
@@ -19238,7 +19238,7 @@
         "authorName": "RightClick Programming",
         "authorUrl": "https://www.youtube.com/c/RightClickProgramming/videos",
         "speakers": [],
-        "tags": ["@Input"]
+        "tags": ["@Input", "Data Transfer"]
       }
     ]
   },
@@ -19448,7 +19448,7 @@
         "authorName": "Ankit Kumar Sharma",
         "authorUrl": "https://dev.to/ankitkumarsharma",
         "speakers": ["Ankit Kumar Sharma"],
-        "tags": ["@Input", "@Output", "@ViewChild"]
+        "tags": ["@Input", "@Output", "@ViewChild", "Data Transfer"]
       },
       {
         "slug": "2022-04-15-C",
@@ -20736,7 +20736,7 @@
         "authorName": "jerry wycoco",
         "authorUrl": "https://medium.com/@jerry.wycoco",
         "speakers": ["Jerry Wycoco"],
-        "tags": ["@Input"]
+        "tags": ["@Input", "Data Transfer"]
       },
       {
         "slug": "2022-04-21-K",
@@ -22983,7 +22983,7 @@
         "authorName": "Yuvaraj S",
         "authorUrl": "https://medium.com/@yuvayuvaraj720444",
         "speakers": [],
-        "tags": ["Directives", "@HostBinding", "@Input"]
+        "tags": ["Directives", "@HostBinding", "@Input", "Data Transfer"]
       },
       {
         "slug": "2022-05-05-B",
@@ -25646,7 +25646,7 @@
         "authorName": "Greg Dask",
         "authorUrl": "https://www.youtube.com/channel/UC2R0tvoGj-WW-w0vRzZuEow/videos",
         "speakers": ["Greg Dask"],
-        "tags": ["@Input", "@Output"]
+        "tags": ["@Input", "@Output", "Data Transfer"]
       },
       {
         "slug": "2022-05-18-V",
@@ -31323,7 +31323,7 @@
         "authorName": "UnHardcoded UnHardcoded",
         "authorUrl": "https://www.youtube.com/channel/UCnFvc-totvgi3p-eTS8wmOA/videos",
         "speakers": [],
-        "tags": ["@Input"]
+        "tags": ["@Input", "Data Transfer"]
       },
       {
         "slug": "2022-06-17-K",
@@ -31764,7 +31764,7 @@
         "authorName": "Paul Chesa",
         "authorUrl": "https://paul-chesa.medium.com",
         "speakers": ["Paul Chesa"],
-        "tags": ["@Input", "@Output"]
+        "tags": ["@Input", "@Output", "Data Transfer"]
       }
     ]
   },
@@ -33811,6 +33811,215 @@
         "authorUrl": "https://dev.to/riapacheco",
         "speakers": ["Ria Pacheco"],
         "tags": []
+      }
+    ]
+  },
+  {
+    "date": "2022-07-01",
+    "dailyPosts": [
+      {
+        "slug": "2022-07-01-A",
+        "type": "blog",
+        "title": "Building Autocomplete Search Component from Scratch: Angular",
+        "url": "https://medium.com/@shilpasyal55/building-autocomplete-search-component-from-scratch-angular-7b012339514",
+        "description": "In this article, you'll learn how to implement your own autocomplete component using Angular and RxJS. For the demo, I'll pass an array to the suggestion options. You can also get the options from an HTTP request through API. You have a choice for the options shown. Just fetch the options and store them into an array.\n(photo: by Safar Safarov on Unsplash)",
+        "datePosted": "2022-07-01",
+        "dateSource": "2022-07-01",
+        "postedBy": "Steve Witman",
+        "sourceSite": "Medium",
+        "sourceUrl": "https://medium.com/tag/angular/latest",
+        "authorName": "Shilpa Syal",
+        "authorUrl": "https://medium.com/@shilpasyal55",
+        "speakers": ["Shilpa Syal"],
+        "tags": ["Autocomplete", "RxJS"]
+      },
+      {
+        "slug": "2022-07-01-B",
+        "type": "video",
+        "duration": "8",
+        "title": "Angular 13 Tutorial - 6 - Passing Data from Parent to Child Component",
+        "url": "https://www.youtube.com/watch?v=cxjw-prKTFA",
+        "description": "This video contains how to create parent-child components and how to pass data from parent to its child component",
+        "datePosted": "2022-07-01",
+        "dateSource": "2022-07-01",
+        "postedBy": "Steve Witman",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "Kode With Kamran",
+        "authorUrl": "https://www.youtube.com/channel/UClAF60JODGbZKoyREtl6S5A/videos",
+        "speakers": [],
+        "tags": ["@Input", "Data Transfer"]
+      },
+      {
+        "slug": "2022-07-01-C",
+        "type": "blog",
+        "title": "API endpoint parameter handling within an Angular 13 application",
+        "url": "https://medium.com/@schaenk/api-endpoint-parameter-handling-within-an-angular-application-8ea81e7abf00",
+        "description": "Handling many API endpoints with even more parameters can be challenging. I asked myself a few questions on how I could make the implementations as clean as possible: ...",
+        "datePosted": "2022-07-01",
+        "dateSource": "2022-07-01",
+        "postedBy": "Steve Witman",
+        "sourceSite": "Medium",
+        "sourceUrl": "https://medium.com/tag/angular/latest",
+        "authorName": "schaenk",
+        "authorUrl": "https://medium.com/@schaenk",
+        "speakers": [],
+        "tags": ["HttpParams"]
+      },
+      {
+        "slug": "2022-07-01-D",
+        "type": "blog",
+        "title": "Reload current route in Angular",
+        "url": "https://medium.com/@hudzenko7/reload-current-route-in-angular-b5c3911721aa",
+        "description": "In Angular apps there is often a need to refresh current page being on the same route. For example, the common use case for that is the data reloading of the active components after login.",
+        "datePosted": "2022-07-01",
+        "dateSource": "2022-07-01",
+        "postedBy": "Steve Witman",
+        "sourceSite": "Medium",
+        "sourceUrl": "https://medium.com/tag/angular/latest",
+        "authorName": "Yevhenii Hudzenko",
+        "authorUrl": "https://medium.com/@hudzenko7",
+        "speakers": ["Yevhenii Hudzenko"],
+        "tags": [""]
+      },
+      {
+        "slug": "2022-07-01-E",
+        "type": "blog",
+        "title": "How to make Angular applications more robust",
+        "url": "https://sergeygultyayev.medium.com/how-to-make-angular-applications-more-robust-855deec98fbc",
+        "description": "In our day to day work we tend to skip and short cut some paths to save time for ourselves or make it easier, but eventually it back fires as careless approach leads to an increased amount of bugs in the production, higher maintenance costs, harder features incorporation and so on.",
+        "datePosted": "2022-07-01",
+        "dateSource": "2022-07-01",
+        "postedBy": "Steve Witman",
+        "sourceSite": "Medium",
+        "sourceUrl": "https://medium.com/tag/angular/latest",
+        "authorName": "Sergey Gultyayev",
+        "authorUrl": "https://sergeygultyayev.medium.com",
+        "speakers": ["Sergey Gultyayev"],
+        "tags": ["Performance", "Architecture"]
+      },
+      {
+        "slug": "2022-07-01-F",
+        "type": "video",
+        "duration": "65",
+        "title": "AngularAir - So, about that inject function in Angular v14",
+        "url": "https://www.youtube.com/watch?v=CR72s1sqEOA",
+        "description": "With the release of Angular v14 we are now able to use the inject() function in a lot more places, opening the door for things like creating functions that utilize providers retrieved from the injection provider. In this episode we discuss this new-found world of opportunity and the potential pros and cons of what it might mean to our Angular development experience.",
+        "datePosted": "2022-07-01",
+        "dateSource": "2022-07-01",
+        "postedBy": "Steve Witman",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "AngularAir",
+        "authorUrl": "https://www.youtube.com/c/AngularAirPodcast/videos",
+        "speakers": ["Justin Schwartzenberger", "Alyssa Nicoll", "Mike Brocci"],
+        "tags": ["inject"]
+      },
+      {
+        "slug": "2022-07-01-G",
+        "type": "video",
+        "duration": "54",
+        "title": "Getting Started with Angular Material - Advancio Tech Webinar",
+        "url": "https://youtu.be/8ZbjleTp7EQ?t=200",
+        "description": "On this course, we will go over the necessary steps to set up and review the main features of the #Angular Material library. You will also learn how to include a diverse set of components and theming configurations for your project. We have a live exercise where we will show you how to install the Angular Material library on an Angular Project.",
+        "datePosted": "2022-07-01",
+        "dateSource": "2022-07-01",
+        "postedBy": "Steve Witman",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "Advancio",
+        "authorUrl": "https://www.youtube.com/c/Advancio/videos",
+        "speakers": ["Edgar Quiroz"],
+        "tags": ["Angular Material"]
+      },
+      {
+        "slug": "2022-07-01-H",
+        "type": "video",
+        "duration": "66",
+        "title": "Gaming and Q/A with the Angular Team | July 2022",
+        "url": "https://youtu.be/hCnz-lRX-FY?t=23",
+        "description": "Mark and Jeremy are back with another stream with a very special guest",
+        "datePosted": "2022-07-01",
+        "dateSource": "2022-07-01",
+        "postedBy": "Steve Witman",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "Angular",
+        "authorUrl": "https://www.youtube.com/c/Angular/videos",
+        "speakers": ["Mark Thompson", "Jeremy Elbourn", "Jessica Janiuk"],
+        "tags": []
+      }
+    ]
+  },
+  {
+    "date": "2022-07-02",
+    "dailyPosts": [
+      {
+        "slug": "2022-07-02-A",
+        "type": "blog",
+        "title": "So, I understood RxJS flattening operators",
+        "url": "https://medium.com/@tyagi.vinayak/so-i-understood-rxjs-flattening-operators-12e9f39aa51b",
+        "description": "RxJS is one of the most interesting JS libraries one can work with, IMHO. However, as the title says, this is not a tutorial on RxJS, but only how I managed to understand its flattening operators.",
+        "datePosted": "2022-07-02",
+        "dateSource": "2022-07-01",
+        "postedBy": "Steve Witman",
+        "sourceSite": "Medium",
+        "sourceUrl": "https://medium.com/tag/angular/latest",
+        "authorName": "Vinayak Tyagi",
+        "authorUrl": "https://medium.com/@tyagi.vinayak",
+        "speakers": ["Vinayak Tyagi"],
+        "tags": ["RxJS"]
+      },
+      {
+        "slug": "2022-07-02-B",
+        "type": "podcast",
+        "duration": "23",
+        "title": "AMP 26: Rethinking Auth for SPAs and Micro Frontends by Manfred Steyer",
+        "url": "https://open.spotify.com/episode/04mVDygYK2tcB3312rgDS6",
+        "description": "What's up everyone, this is Dariusz Kalbarczyk co-founder of NG Poland, JS Poland, AngularMaster.dev & WorkshopFest.dev. Welcome back to the Angular Master Podcast. Today, together with Manfred Steyer, who is an excellent Speaker, Trainer, Consultant and Author with focus on Angular. We will talk about Auth for SPAs and Micro Frontends",
+        "datePosted": "2022-07-02",
+        "dateSource": "2022-07-02",
+        "postedBy": "Steve Witman",
+        "sourceSite": "Spotify",
+        "sourceUrl": "https://open.spotify.com",
+        "authorName": "Angular Master Podcast",
+        "authorUrl": "https://open.spotify.com/show/1wgZAEEIoRZ8eP78LTbyZf",
+        "speakers": ["Manfred Steyer"],
+        "tags": ["Micro Frontends", "SPA"]
+      },
+      {
+        "slug": "2022-07-02-C",
+        "type": "video",
+        "duration": "11",
+        "title": "Typescript interfaces | Angular interfaces | Angular 14",
+        "url": "https://www.youtube.com/watch?v=HUfvZDmwpiE",
+        "description": " In this video you will learn how to use interfaces in Angular, what is the importance of interfaces in Angular.",
+        "datePosted": "2022-07-02",
+        "dateSource": "2022-07-02",
+        "postedBy": "Steve Witman",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "TechshareSKK",
+        "authorUrl": "https://www.youtube.com/channel/UCD8gC85u512FeCFzRV4Ll-A/videos",
+        "speakers": ["Sai Kumar Korthivada"],
+        "tags": ["TypeScript"]
+      },
+      {
+        "slug": "2022-07-02-D",
+        "type": "video",
+        "duration": "25",
+        "title": "Error Interceptor in Angular - Quick and Easy Steps",
+        "url": "https://www.youtube.com/watch?v=0KQ2LlHasos",
+        "description": "In this video we are covering Error Interceptor and showing different messages for different error status codes!",
+        "datePosted": "2022-07-02",
+        "dateSource": "2022-07-02",
+        "postedBy": "Steve Witman",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "Adnan Halilovic",
+        "authorUrl": "https://www.youtube.com/c/AdnanHalilovicDev/videos",
+        "speakers": ["Adnan Halilovic"],
+        "tags": ["Errors"]
       }
     ]
   }

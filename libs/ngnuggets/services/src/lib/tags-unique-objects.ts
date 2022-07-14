@@ -65,6 +65,7 @@ export const tags = [
   { cat: 'Angular', tag: 'Preloading' },
   { cat: 'Angular', tag: 'Property Binding' },
   { cat: 'Angular', tag: 'QueryList' },
+  { cat: 'Angular', tag: 'RouteReuseStrategy' },
   { cat: 'Angular', tag: 'SPA' },
   { cat: 'Angular', tag: 'Schematics' },
   { cat: 'Angular', tag: 'Services' },
