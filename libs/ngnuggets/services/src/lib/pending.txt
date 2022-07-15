@@ -1,36 +1,4 @@
-
-f10 
-f11 
-f11 
-f12 
-
-
-s8 angular master 
-s11 
-s18 
-
-s https://srishty-2550.medium.com/angular-authentication-using-jwt-95d2b441446b
-s https://medium.com/@jaydeepvpatil225/jwt-token-authentication-in-angular-14-and-net-core-6-web-api-c3237cb4204
-3rd? https://medium.com/@shravanvishwakarma5/how-to-display-the-loading-screen-when-calling-any-api-in-angular-2bbb93a599f9
-3rd? https://medium.com/generic-ui/the-new-approach-to-the-container-presenter-pattern-in-angular-dac60ca1b65e
-3rd? https://medium.com/@himanshu_dev/differences-between-component-and-module-in-angular-ffb4ad4c045d
-u1 https://www.youtube.com/watch?v=9F31neYdT20
-u1 https://www.youtube.com/watch?v=ikpeztZVA7U
-u5 https://medium.com/@turnerran87/angular-rxjs-behaviorsubject-vs-subject-57c95e72b842
-
-u https://indepth.dev/posts/1502/external-configurations-in-angular
-u https://medium.com/@ujjawalr/show-hide-or-toggle-element-in-angular-289f64f55fb4
-u https://paul-chesa.medium.com/component-styling-in-angular-5d2c1920f179
-u20 https://www.youtube.com/watch?v=JNxWZXOsU0w
-m8 https://www.spreaker.com/user/14532324/s2e23-building-a-customer-focused-mindse?utm_campaign=episode-title&utm_medium=app&utm_source=widget
-4th? https://medium.com/@kartikjagdale11/async-await-in-angular-ngoninit-using-typescript-decorator-b8b35963407c
-m14 https://dev.to/rainerhahnekamp/ng-news-episode-2226-397o
-m14 https://www.youtube.com/watch?v=k61DyfeP0cE
-m20 https://www.youtube.com/watch?v=G0jPyuXjxKk
-
-
-
-m https://alfa.hashnode.dev/observable-in-rxjs-hot-and-cold
+https://alfa.hashnode.dev/observable-in-rxjs-hot-and-cold
 m https://dev.to/harshalsuthar/understanding-output-and-eventemitter-in-angular-ifour-technolab-2egn
 t2 https://www.youtube.com/watch?v=EJKMiaHQCmw
 t4 https://dev.to/this-is-angular/progressive-reactivity-in-angular-1d40
@@ -112,18 +80,53 @@ m13 https://www.youtube.com/watch?v=cmT5wXjZq1k
 m17 https://www.youtube.com/watch?v=YUCNdQX7RTo
 
 
+
 m https://medium.com/@ConorJonOReilly/nx-fetch-operator-and-working-with-ngrx-effects-while-maintaining-state-4a8c42ac86ca
 m13 https://medium.com/@joosep.parts/create-an-angular-14-library-use-it-locally-when-developing-and-publish-the-package-to-npm-689ca2efdea8
 m13 https://medium.com/ideacoding-lab/getting-parameters-from-incoming-link-quickies-in-angular-fc02c3c14649
 m22 https://ramya-bala221190.medium.com/angular-rxjs-2-ways-you-could-share-the-http-request-execution-when-the-request-is-executed-inside-975d0dce054c
-t2 https://dev.to/this-is-angular/asynchronous-sources-angular-3mcd
-t2 https://brunoelo.hashnode.dev/adding-netlify-cms-to-an-angular-scully-blog-site
-t3 https://medium.com/@vicpuigcer/rxjs-7-operator-topromise-deprecated-alternatives-4b02d1061f44
-t4 https://dev.to/this-is-angular/multi-store-dom-events-angular-a12
-t5 https://chibueze.hashnode.dev/candeactivate-route-guard-in-angular
-t6 https://dev.to/syncfusion/firebase-push-notifications-for-android-and-ios-using-ionic-and-aspnet-a-complete-guide-16bi
-t7 https://dev.to/angular/pipes-in-angular-3g4i
 t8 https://www.youtube.com/watch?v=wDAmfqnIrck
-t12 https://www.youtube.com/watch?v=9bQtKh1Vtos
-t13 https://github.com/angular/angular/releases/tag/14.0.6
-t14 https://github.com/angular/angular/releases/tag/14.1.0-rc.0
+t2 https://dev.to/this-is-angular/asynchronous-sources-angular-3mcd
+t3 https://medium.com/@vicpuigcer/rxjs-7-operator-topromise-deprecated-alternatives-4b02d1061f44
+
+
+w2 https://brunoelo.hashnode.dev/adding-netlify-cms-to-an-angular-scully-blog-site
+w4 https://dev.to/this-is-angular/multi-store-dom-events-angular-a12
+w5 https://chibueze.hashnode.dev/candeactivate-route-guard-in-angular
+w6 https://dev.to/syncfusion/firebase-push-notifications-for-android-and-ios-using-ionic-and-aspnet-a-complete-guide-16bi
+w7 https://dev.to/angular/pipes-in-angular-3g4i
+w12 https://www.youtube.com/watch?v=9bQtKh1Vtos
+w13 https://github.com/angular/angular/releases/tag/14.0.6
+w14 https://github.com/angular/angular/releases/tag/14.1.0-rc.0
+w https://javascript.plainenglish.io/angular-rxjs-2-ways-you-could-share-the-http-request-execution-when-the-request-is-executed-inside-975d0dce054c
+w https://medium.com/@singhkrishnapal0818/setvalue-vs-patchvalue-angular-2a493439a0f8
+w https://medium.com/@jh00032012/angular-httpclient-multiple-content-type-in-single-request-image-along-with-json-fabddee4904b
+w15 https://www.youtube.com/watch?v=psojgR7joWk
+
+
+w https://medium.com/@diaslalinda/monorepo-nx-storybook-in-angular-7365bd1508ff
+w https://medium.com/@nimeresam95/data-status-the-most-used-component-in-any-angular-project-c53a4ac46b1e
+w https://ashatilovdev.medium.com/infinite-whiteboard-with-konvajs-and-angular-part-1-db0f86cfe02d
+w https://chibueze.hashnode.dev/candeactivate-route-guard-in-angular
+r1 https://www.youtube.com/watch?v=Kf1dW95UeCg
+r3 https://brunoelo.hashnode.dev/adding-forestry-cms-to-an-angular-scully-blog-site
+r6 https://www.youtube.com/watch?v=8SBHbFYeZgw
+r6 https://www.youtube.com/watch?v=byIlBEQQ4Zk
+r7 https://www.youtube.com/watch?v=SkoI_VHtcTU
+r11 https://www.youtube.com/watch?v=aSvpKzKcef8
+r13 https://www.youtube.com/watch?v=EfFzkyFzJwo
+r13 https://www.youtube.com/watch?v=dCaZhWIhLWI
+r14 https://www.youtube.com/watch?v=yWrSbAB-5Tc
+r14 https://dev.to/amplication/amplication-angular-using-graphql-3k5o
+r20 https://www.youtube.com/watch?v=bU3S2CFYrQo
+r22 aia https://topenddevs.com/podcasts/adventures-in-angular/episodes/4035
+
+r or before https://medium.com/herodevs/7-vscode-extensions-to-boost-your-performance-as-an-angular-developer-21bc37104446
+r or before https://medium.com/ideacoding-lab/publish-your-awesome-ideas-as-npm-packages-a33c45b849d2
+f0 https://www.youtube.com/watch?v=xXSwgm2PW-I
+f3 https://www.youtube.com/watch?v=vsTrYV6CXQM
+f5 https://brunoelo.hashnode.dev/module-scoped-styling-in-angular-13
+f9 https://www.youtube.com/watch?v=iNsTKaYLYjA
+f11 https://www.youtube.com/watch?v=V-xg-lFhXn4
+f11 https://www.youtube.com/watch?v=ltdVNRaykzE
+f12 https://www.youtube.com/watch?v=RpmFS0_ygnI
