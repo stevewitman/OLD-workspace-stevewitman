@@ -1,42 +1,4 @@
-https://alfa.hashnode.dev/observable-in-rxjs-hot-and-cold
-m https://dev.to/harshalsuthar/understanding-output-and-eventemitter-in-angular-ifour-technolab-2egn
-t2 https://www.youtube.com/watch?v=EJKMiaHQCmw
-t4 https://dev.to/this-is-angular/progressive-reactivity-in-angular-1d40
-t5 https://www.youtube.com/watch?v=U4DrqCqIWnU
-t7 https://www.youtube.com/watch?v=WKCweQOI9-U
-t9 https://www.youtube.com/watch?v=06K7nzGYRtU
-t10 Geometric Jim https://www.youtube.com/watch?v=inOzoOzhp54
-https://dev.to/angular/sliders-are-like-onions-three-gradient-layers-of-a-single-slider-1nia
-https://dev.to/this-is-angular/progressive-reactivity-in-angular-1d40
-t12 https://dev.to/angular/directives-in-angular-48df
-t15 https://www.youtube.com/watch?v=030TVrCuS9w
-
-t https://dev.to/this-is-angular/simple-derived-state-progressive-reactivity-in-angular-48oe
-angularplus https://www.spreaker.com/user/ng-conf/ap-show-s3e16-michael-liendo-edit-1
-t10 https://www.youtube.com/watch?v=3JTorbC-340
-t11 https://www.youtube.com/watch?v=oXeg_q2lKGg
-https://akbarkhan904412.medium.com/angular-custom-pipes-636784299d7e
-https://medium.com/@nimeresam95/how-to-use-angular-httpinterceptor-for-caching-12b65c485963
-https://medium.com/immuta-engineering/upgrading-angularjs-1-x-to-angular-12-a-retrospective-b9f6f05d43e6
-w7 https://dev.to/mmuscat/experimental-class-composition-with-angular-14-ief
-w8 https://www.youtube.com/watch?v=4BihlRGmn3s
-w8 https://www.telerik.com/blogs/configuring-kendo-ui-angular-rich-text-editor
-w11 https://github.com/angular/angular/releases/tag/14.0.5
-w11 https://github.com/angular/angular/releases/tag/14.1.0-next.4
-w17 https://www.youtube.com/watch?v=gCKjsd4gaxI
-w https://www.youtube.com/watch?v=vh4WLrqGPEQ
-
-w https://www.youtube.com/watch?v=fm7rWULEpMM
-w https://www.youtube.com/watch?v=gCKjsd4gaxI
-r8 https://webrush.io/episodes/episode-191-first-impressions-of-angular-14
-r adventures https://topenddevs.com/podcasts/adventures-in-angular/episodes/standalone-component-aia-349
-r https://akbarkhan904412.medium.com/template-form-validation-angular-a47201e2f2fd
-https://www.youtube.com/watch?v=SMk-7jIxkoA
-https://www.youtube.com/watch?v=FGhsXuIyFpM
-r https://dev.to/this-is-angular/complex-changes-and-derived-state-progressive-reactivity-in-angular-1pmj
-r https://dev.to/ankit_k_sharma/angular-standalone-component-future-of-angular-37l2
-
-f https://dev.to/this-is-angular/reusable-state-patterns-angular-59l9https://dev.to/this-is-angular/reusable-state-patterns-angular-59l9
+https://dev.to/this-is-angular/reusable-state-patterns-angular-59l9https://dev.to/this-is-angular/reusable-state-patterns-angular-59l9
 f https://medium.com/ideacoding-lab/creating-a-timestamp-in-typescript-quickies-in-angular-7c402627fd4f
 https://www.youtube.com/watch?v=IRaxENxZnfo
 f https://medium.com/@anooprvarrier/angular-elementref-interface-c826cd5db732
@@ -44,7 +6,6 @@ f https://dev.to/mikeryandev/the-typescript-gluten-behind-ngrx-createactiongroup
 f https://dev.to/grapecity/how-to-create-an-angular-dropdown-control-in-your-web-application-ogh
 f https://akbarkhan904412.medium.com/auth-guard-in-angular-to-prevent-url-visit-47393550cb5b
 f https://dev.to/thetogi/jest-testing-mocking-modules-and-handling-module-state-using-typescript-and-es6-3jk4
-
 
 s https://www.youtube.com/watch?v=WApTjVO_sPQ
 https://www.youtube.com/watch?v=-JPSUn1ee5I
@@ -58,8 +19,6 @@ u3 https://dev.to/shrihari/a-custom-right-click-menu-on-angular-feat-primeng-4hj
 u9 https://dev.to/rezanazari/separate-numbers-in-input-with-angular-directive-p4k
 u11 https://www.youtube.com/watch?v=ziTBF-OUUjg
 u12 https://www.youtube.com/watch?v=u_CRppLcC9k
-
-
 
 u23 https://www.youtube.com/watch?v=lqCNVi1292Q
 u23 https://www.youtube.com/watch?v=2T2icM2jRA8
@@ -79,8 +38,6 @@ m https://medium.com/@vakhrushev.sergey/dont-filter-it-20bc85a7f56f
 m13 https://www.youtube.com/watch?v=cmT5wXjZq1k
 m17 https://www.youtube.com/watch?v=YUCNdQX7RTo
 
-
-
 m https://medium.com/@ConorJonOReilly/nx-fetch-operator-and-working-with-ngrx-effects-while-maintaining-state-4a8c42ac86ca
 m13 https://medium.com/@joosep.parts/create-an-angular-14-library-use-it-locally-when-developing-and-publish-the-package-to-npm-689ca2efdea8
 m13 https://medium.com/ideacoding-lab/getting-parameters-from-incoming-link-quickies-in-angular-fc02c3c14649
@@ -88,7 +45,6 @@ m22 https://ramya-bala221190.medium.com/angular-rxjs-2-ways-you-could-share-the-
 t8 https://www.youtube.com/watch?v=wDAmfqnIrck
 t2 https://dev.to/this-is-angular/asynchronous-sources-angular-3mcd
 t3 https://medium.com/@vicpuigcer/rxjs-7-operator-topromise-deprecated-alternatives-4b02d1061f44
-
 
 w2 https://brunoelo.hashnode.dev/adding-netlify-cms-to-an-angular-scully-blog-site
 w4 https://dev.to/this-is-angular/multi-store-dom-events-angular-a12
@@ -102,7 +58,6 @@ w https://javascript.plainenglish.io/angular-rxjs-2-ways-you-could-share-the-htt
 w https://medium.com/@singhkrishnapal0818/setvalue-vs-patchvalue-angular-2a493439a0f8
 w https://medium.com/@jh00032012/angular-httpclient-multiple-content-type-in-single-request-image-along-with-json-fabddee4904b
 w15 https://www.youtube.com/watch?v=psojgR7joWk
-
 
 w https://medium.com/@diaslalinda/monorepo-nx-storybook-in-angular-7365bd1508ff
 w https://medium.com/@nimeresam95/data-status-the-most-used-component-in-any-angular-project-c53a4ac46b1e
@@ -126,7 +81,10 @@ r or before https://medium.com/ideacoding-lab/publish-your-awesome-ideas-as-npm-
 f0 https://www.youtube.com/watch?v=xXSwgm2PW-I
 f3 https://www.youtube.com/watch?v=vsTrYV6CXQM
 f5 https://brunoelo.hashnode.dev/module-scoped-styling-in-angular-13
+f6 https://dev.to/brunoelo/module-scoped-styling-in-angular-13-i09
 f9 https://www.youtube.com/watch?v=iNsTKaYLYjA
 f11 https://www.youtube.com/watch?v=V-xg-lFhXn4
 f11 https://www.youtube.com/watch?v=ltdVNRaykzE
 f12 https://www.youtube.com/watch?v=RpmFS0_ygnI
+f13 https://dev.to/iamguid/new-way-to-cook-angular-14-typed-forms-1g7h
+f17 https://youtu.be/Vh0OcM0MoWA?t=140
