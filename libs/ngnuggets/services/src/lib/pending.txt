@@ -1,11 +1,11 @@
-https://dev.to/this-is-angular/reusable-state-patterns-angular-59l9https://dev.to/this-is-angular/reusable-state-patterns-angular-59l9
-f https://medium.com/ideacoding-lab/creating-a-timestamp-in-typescript-quickies-in-angular-7c402627fd4f
-https://www.youtube.com/watch?v=IRaxENxZnfo
-f https://medium.com/@anooprvarrier/angular-elementref-interface-c826cd5db732
-f https://dev.to/mikeryandev/the-typescript-gluten-behind-ngrx-createactiongroup-4ce9
-f https://dev.to/grapecity/how-to-create-an-angular-dropdown-control-in-your-web-application-ogh
-f https://akbarkhan904412.medium.com/auth-guard-in-angular-to-prevent-url-visit-47393550cb5b
-f https://dev.to/thetogi/jest-testing-mocking-modules-and-handling-module-state-using-typescript-and-es6-3jk4
+
+f 
+
+f 
+f 
+f 
+f 
+f 
 
 s https://www.youtube.com/watch?v=WApTjVO_sPQ
 https://www.youtube.com/watch?v=-JPSUn1ee5I
@@ -88,3 +88,14 @@ f11 https://www.youtube.com/watch?v=ltdVNRaykzE
 f12 https://www.youtube.com/watch?v=RpmFS0_ygnI
 f13 https://dev.to/iamguid/new-way-to-cook-angular-14-typed-forms-1g7h
 f17 https://youtu.be/Vh0OcM0MoWA?t=140
+
+Saturday 16th
+w https://medium.com/@sureshkumar_95502/angular-cheat-sheet-b542fc75ddfdr https://fleker.medium.com/building-a-chrome-extension-with-the-angular-framework-rafflesia-part-1-dd7fe8702a46
+r https://medium.com/@HonoraryMarleyans/angular-material-checkbox-with-reactive-form-observables-to-monitor-form-control-values-a56148027548
+r https://mohammedfahimullah.medium.com/applying-different-themes-dynamically-in-angular-with-css-application-2ecf88a91535
+f https://levelup.gitconnected.com/moduliths-in-angular-with-nx-b8b0076794fb
+s5 https://www.youtube.com/watch?v=b2bEURixOwY
+s10 https://www.youtube.com/watch?v=HajQX22fmhA
+s12 https://www.youtube.com/watch?v=KlA1wn6oquU
+s18 https://dev.to/davidshortman/how-to-use-dynamic-titles-from-ngrx-selectors-1f0
+s19 https://dev.to/riapacheco/searchable-data-table-in-angular-no-material-with-scss-useful-directives-js-methods-and-virtual-scroll-1ilh
