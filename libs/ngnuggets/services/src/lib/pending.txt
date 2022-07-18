@@ -1,24 +1,7 @@
 
-f 
-
-f 
-f 
-f 
-f 
-f 
-
-s https://www.youtube.com/watch?v=WApTjVO_sPQ
-https://www.youtube.com/watch?v=-JPSUn1ee5I
-s https://dev.to/devlazar/reusable-loader-directive-angular-498h
-https://ramya-bala221190.medium.com/angular-this-is-how-i-understood-how-to-use-mixins-to-reuse-logic-between-components-cda729297de2
-s https://medium.com/@peterdgreat/pass-data-from-a-page-to-another-in-angular-c6b4d77d46b9
-s https://www.youtube.com/watch?v=Ve41qftmMK0
-
-
-u3 https://dev.to/shrihari/a-custom-right-click-menu-on-angular-feat-primeng-4hji
-u9 https://dev.to/rezanazari/separate-numbers-in-input-with-angular-directive-p4k
-u11 https://www.youtube.com/watch?v=ziTBF-OUUjg
-u12 https://www.youtube.com/watch?v=u_CRppLcC9k
+u9 
+u11 
+u12 
 
 u23 https://www.youtube.com/watch?v=lqCNVi1292Q
 u23 https://www.youtube.com/watch?v=2T2icM2jRA8
@@ -99,3 +82,15 @@ s10 https://www.youtube.com/watch?v=HajQX22fmhA
 s12 https://www.youtube.com/watch?v=KlA1wn6oquU
 s18 https://dev.to/davidshortman/how-to-use-dynamic-titles-from-ngrx-selectors-1f0
 s19 https://dev.to/riapacheco/searchable-data-table-in-angular-no-material-with-scss-useful-directives-js-methods-and-virtual-scroll-1ilh
+
+Sunday 07-17
+s https://medium.com/enappd/how-to-use-google-maps-in-taxi-app-and-do-live-tracking-a66bf46e016e
+s https://medium.com/@bananicabananica/angular-theming-b49576e6e827
+s https://medium.com/@kasupsri/amazon-cognito-login-to-angular-application-with-amplify-ui-17bda1e6e7e5
+s https://medium.com/@kartikjagdale11/typescript-decorator-for-logging-analytics-event-in-angular-using-monad-design-pattern-3241246b0c5d
+s https://medium.com/@iam.guid/why-new-angular-14-typed-forms-isnt-good-and-how-to-fix-it-1ffebf193df
+s https://medium.com/@david_shortman/how-to-use-dynamic-titles-from-ngrx-selectors-52271bfbc986
+s22 https://www.youtube.com/watch?v=GXf0y_nUIZE
+u8 https://dev.to/asayerio_techblog/drag-and-drop-with-angular-material-3jeb
+u12 https://www.youtube.com/watch?v=JRL1lgiExQ4
+u12 https://dev.to/entangledcognition/dynamic-tab-title-in-angular-26jg

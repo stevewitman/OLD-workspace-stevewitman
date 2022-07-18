@@ -32880,5 +32880,196 @@
         "tags": ["Testing", "Jest"]
       }
     ]
+  },
+  {
+    "date": "2022-07-09",
+    "dailyPosts": [
+      {
+        "slug": "2022-07-09-A",
+        "type": "video",
+        "duration": "78",
+        "title": "Angular(v14) CRUD Example Using NgRx Data(v14)",
+        "url": "https://www.youtube.com/watch?v=WApTjVO_sPQ",
+        "description": "",
+        "datePosted": "2022-07-09",
+        "dateSource": "2022-07-09",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "Naveen Bommidi Tech Seeker",
+        "authorUrl": "https://www.youtube.com/c/NaveenTechSeeker/videos",
+        "speakers": ["Naveen Bommidi"],
+        "tags": ["NgRx", "CRUD"]
+      },
+      {
+        "slug": "2022-07-09-B",
+        "type": "blog",
+        "title": "Reusable Loader directive - Angular",
+        "url": "https://dev.to/devlazar/reusable-loader-directive-angular-498h",
+        "description": "Hi all! Hope you are all having a great weekend. I am currently working on multiple platforms using ReactJS, Angular 12 and Node.js.",
+        "datePosted": "2022-07-09",
+        "dateSource": "2022-07-09",
+        "sourceSite": "DEV Community",
+        "sourceUrl": "https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc",
+        "authorName": "devlazar",
+        "authorUrl": "https://dev.to/devlazar",
+        "speakers": [],
+        "tags": ["Directives", "Custom"]
+      },
+      {
+        "slug": "2022-07-09-C",
+        "type": "blog",
+        "title": "Angular: This is how I understood how to use Mixins to reuse logic between components",
+        "url": "https://ramya-bala221190.medium.com/angular-this-is-how-i-understood-how-to-use-mixins-to-reuse-logic-between-components-cda729297de2",
+        "description": "The documentation on Mixins can be quite confusing and overwhelming in the beginning. In simple words, A mixin class is used to handle some behavior and other regular classes can easily access this behavior by just extending this mixin class. It's an easy way to promote reusability of logic between multiple classes.",
+        "datePosted": "2022-07-09",
+        "dateSource": "2022-07-09",
+        "sourceSite": "Medium",
+        "sourceUrl": "https://medium.com/tag/angular/latest",
+        "authorName": "AngularEnthusiast",
+        "authorUrl": "https://medium.com/@ramya-bala221190",
+        "speakers": [],
+        "tags": ["Mixins"]
+      },
+      {
+        "slug": "2022-07-09-D",
+        "type": "blog",
+        "title": "How To Pass Data From A Page To Another In Angular",
+        "url": "https://medium.com/@peterdgreat/pass-data-from-a-page-to-another-in-angular-c6b4d77d46b9",
+        "description": "As a front-end developer, it is your job to display data to users in a way that makes sense. Today you will learn an easy way to pass data from one page to another in Angular, the browser history saves the day!\n(photo: by Tudor Baciu on Unsplash)",
+        "datePosted": "2022-07-09",
+        "dateSource": "2022-07-09",
+        "sourceSite": "Medium",
+        "sourceUrl": "https://medium.com/tag/angular/latest",
+        "authorName": "Peterdgreat",
+        "authorUrl": "https://medium.com/@peterdgreat",
+        "speakers": [],
+        "tags": ["Data Transfer"]
+      },
+      {
+        "slug": "2022-07-09-E",
+        "type": "video",
+        "duration": "17",
+        "title": "Angular 14 typed reactive forms",
+        "url": "https://www.youtube.com/watch?v=Ve41qftmMK0",
+        "description": "Angular 14 typed reactive forms - We do an Overview of Typed Forms. Automated Untyped Forms Migration which happens when we migrate an existing angular app to Angular 14.  We take a look at the concepts of Nullability, specifying Explicit Type for form controls. We explore the type safety for Dynamic, Homogenous Collections FormArray.",
+        "datePosted": "2022-07-09",
+        "dateSource": "2022-07-09",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "JS Frameworks",
+        "authorUrl": "https://www.youtube.com/c/JSFrameworks/videos",
+        "speakers": [],
+        "tags": ["Typed Forms", "Reactive Forms"]
+      }
+    ]
+  },
+  {
+    "date": "2022-07-10",
+    "dailyPosts": [
+      {
+        "slug": "2022-07-10-A",
+        "type": "blog",
+        "title": "A custom right click menu on Angular: Feat PrimeNg",
+        "url": "https://dev.to/shrihari/a-custom-right-click-menu-on-angular-feat-primeng-4hji",
+        "description": "This implementation uses PrimeNg to ease our implementation on context menu rather more focusing on copy and paste options.",
+        "datePosted": "2022-07-10",
+        "dateSource": "2022-07-10",
+        "sourceSite": "DEV Community",
+        "sourceUrl": "https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc",
+        "authorName": "Shrihari Mohan",
+        "authorUrl": "https://medium.com/@shriharimohan",
+        "speakers": ["Shrihari Mohan"],
+        "tags": ["PrimeNG"]
+      },
+      {
+        "slug": "2022-07-10-B",
+        "type": "blog",
+        "title": "Separate numbers in input with Angular Directive",
+        "url": "https://dev.to/rezanazari/separate-numbers-in-input-with-angular-directive-p4k",
+        "description": "Imagine that you have an input tag in your project for entering credit card numbers and you want to separate the entered numbers with a few digits for better readability.",
+        "datePosted": "2022-07-10",
+        "dateSource": "2022-07-10",
+        "sourceSite": "DEV Community",
+        "sourceUrl": "https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc",
+        "authorName": "Reza Nazari",
+        "authorUrl": "https://dev.to/rezanazari",
+        "speakers": [],
+        "tags": ["Directives", "Custom"]
+      },
+      {
+        "slug": "2022-07-10-C",
+        "type": "video",
+        "duration": "24",
+        "title": "Ionic 6 Angular - Add Input Forms Dynamically",
+        "url": "https://www.youtube.com/watch?v=ziTBF-OUUjg",
+        "description": "In this video, we are going to 'Add Input Forms Dynamically' using Ionic Angular for PWA, Android & ios",
+        "datePosted": "2022-07-10",
+        "dateSource": "2022-07-10",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "Coding Technyks",
+        "authorUrl": "https://www.youtube.com/c/CodingTechnyks/videos",
+        "speakers": [],
+        "tags": ["Ionic", "Forms"]
+      },
+      {
+        "slug": "2022-07-10-D",
+        "type": "video",
+        "duration": "24",
+        "title": "How To Deploy Angular 14 .Net 6 Web App To Azure full tutorial!",
+        "url": "https://www.youtube.com/watch?v=u_CRppLcC9k",
+        "description": "In this tutorial I will cover every single thing that you will need to do to deploy your Angular 14 .Net 6 web app to azure. Included in this is how to set up you sql server instance and navigate any issues that could arise there. We will first test push the API into Azure first. Then once we can prove that its working in Azure we can push the Angular 14 client and connect everything.",
+        "datePosted": "2022-07-10",
+        "dateSource": "2022-07-10",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "Israel Quiroz",
+        "authorUrl": "https://www.youtube.com/channel/UCGUKXx5HYoEIiZ5Me2QDvTw/videos",
+        "speakers": ["Israel Quiroz"],
+        "tags": ["Deployment", "Azure"]
+      }
+    ]
+  },
+  {
+    "date": "2022-07-11",
+    "dailyPosts": [
+      
+    ]
+  },
+  {
+    "date": "2022-07-12",
+    "dailyPosts": [
+      
+    ]
+  },
+  {
+    "date": "2022-07-13",
+    "dailyPosts": [
+      
+    ]
+  },
+  {
+    "date": "2022-07-14",
+    "dailyPosts": [
+      
+    ]
+  },
+  {
+    "date": "2022-07-15",
+    "dailyPosts": [
+      
+    ]
+  },
+  {
+    "date": "2022-07-16",
+    "dailyPosts": [
+      
+    ]
+  },
+  {
+    "date": "2022-07-17",
+    "dailyPosts": [
+      
+    ]
   }
 ]
