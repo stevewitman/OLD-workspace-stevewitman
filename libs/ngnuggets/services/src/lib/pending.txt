@@ -1,25 +1,15 @@
 
-u9 
-u11 
-u12 
-
-u23 https://www.youtube.com/watch?v=lqCNVi1292Q
-u23 https://www.youtube.com/watch?v=2T2icM2jRA8
-m1 https://www.youtube.com/watch?v=KAIqP2Y1YHE
-m1 https://www.youtube.com/watch?v=W7Xsm-7Jmbo
-m2 https://dev.to/ayyash/alternative-way-to-localize-in-angular-o8d
-m3 https://dev.to/this-is-angular/errors-and-angular-n0b
-m3 https://www.youtube.com/watch?v=e4hBxFQGPxg
-m https://www.telerik.com/blogs/angular-basics-working-enums
-m7 https://www.youtube.com/watch?v=RHK6MWLhB90
-m8 ang exp https://www.spreaker.com/user/14532324/s2e24-colum-ferry-on-solving-the-timezon?utm_campaign=episode-title&utm_medium=app&utm_source=widget
-m10 https://www.youtube.com/watch?v=kCS1Ge_Zgaw
-m10 https://www.youtube.com/watch?v=b8AYk7ADJwE
-m11 https://dev.to/nx/setup-module-federation-in-angular-using-nx-5gko
-m13 https://www.youtube.com/watch?v=jWWQRXhgciQ
-m https://medium.com/@vakhrushev.sergey/dont-filter-it-20bc85a7f56f
-m13 https://www.youtube.com/watch?v=cmT5wXjZq1k
-m17 https://www.youtube.com/watch?v=YUCNdQX7RTo
+m3 
+m 
+m7 
+m8 ang exp 
+m10 
+m10 
+m11 
+m13 
+m 
+m13 
+m17 
 
 m https://medium.com/@ConorJonOReilly/nx-fetch-operator-and-working-with-ngrx-effects-while-maintaining-state-4a8c42ac86ca
 m13 https://medium.com/@joosep.parts/create-an-angular-14-library-use-it-locally-when-developing-and-publish-the-package-to-npm-689ca2efdea8
@@ -94,3 +84,14 @@ s22 https://www.youtube.com/watch?v=GXf0y_nUIZE
 u8 https://dev.to/asayerio_techblog/drag-and-drop-with-angular-material-3jeb
 u12 https://www.youtube.com/watch?v=JRL1lgiExQ4
 u12 https://dev.to/entangledcognition/dynamic-tab-title-in-angular-26jg
+
+u23 https://dev.to/ayyash/serving-multilingual-angular-application-with-expressjs-ocf
+m4 https://dev.to/this-is-angular/multi-store-selectors-angular-3fdc
+m4 https://www.youtube.com/watch?v=H2nMCQLhmps
+m6 https://dev.to/coderpad/dev-discussions-how-to-reduce-your-angular-bundle-size-with-google-developers-expert-santosh-yadav-2c3k
+m6 https://www.youtube.com/watch?v=6gvBIYSs6-A
+m8 ang exp https://www.spreaker.com/user/14532324/s2e25-craig-shearer-on-independent-contr?utm_campaign=episode-title&utm_medium=app&utm_source=widget
+m10 https://www.youtube.com/watch?v=hUqoqNhereg
+m10 https://www.youtube.com/watch?v=CZYAph73mnI
+m10 https://www.youtube.com/watch?v=QR-N11BFpAY
+m14 https://www.youtube.com/watch?v=5vnWjjKpPW8

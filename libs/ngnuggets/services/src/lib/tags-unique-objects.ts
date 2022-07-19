@@ -383,6 +383,7 @@ export const tags = [
   { cat: '3rd Party', tag: 'Lodash-es' },
   { cat: '3rd Party', tag: 'MongoDB' },
   { cat: '3rd Party', tag: 'NestJS' },
+  { cat: '3rd Party', tag: '.Net' },
   { cat: '3rd Party', tag: 'NextJS' },
   { cat: '3rd Party', tag: 'NGXS' },
   { cat: '3rd Party', tag: 'Nx' },
