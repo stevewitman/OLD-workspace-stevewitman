@@ -1,38 +1,4 @@
-
-m3 
-m 
-m7 
-m8 ang exp 
-m10 
-m10 
-m11 
-m13 
-m 
-m13 
-m17 
-
-m https://medium.com/@ConorJonOReilly/nx-fetch-operator-and-working-with-ngrx-effects-while-maintaining-state-4a8c42ac86ca
-m13 https://medium.com/@joosep.parts/create-an-angular-14-library-use-it-locally-when-developing-and-publish-the-package-to-npm-689ca2efdea8
-m13 https://medium.com/ideacoding-lab/getting-parameters-from-incoming-link-quickies-in-angular-fc02c3c14649
-m22 https://ramya-bala221190.medium.com/angular-rxjs-2-ways-you-could-share-the-http-request-execution-when-the-request-is-executed-inside-975d0dce054c
-t8 https://www.youtube.com/watch?v=wDAmfqnIrck
-t2 https://dev.to/this-is-angular/asynchronous-sources-angular-3mcd
-t3 https://medium.com/@vicpuigcer/rxjs-7-operator-topromise-deprecated-alternatives-4b02d1061f44
-
-w2 https://brunoelo.hashnode.dev/adding-netlify-cms-to-an-angular-scully-blog-site
-w4 https://dev.to/this-is-angular/multi-store-dom-events-angular-a12
-w5 https://chibueze.hashnode.dev/candeactivate-route-guard-in-angular
-w6 https://dev.to/syncfusion/firebase-push-notifications-for-android-and-ios-using-ionic-and-aspnet-a-complete-guide-16bi
-w7 https://dev.to/angular/pipes-in-angular-3g4i
-w12 https://www.youtube.com/watch?v=9bQtKh1Vtos
-w13 https://github.com/angular/angular/releases/tag/14.0.6
-w14 https://github.com/angular/angular/releases/tag/14.1.0-rc.0
-w https://javascript.plainenglish.io/angular-rxjs-2-ways-you-could-share-the-http-request-execution-when-the-request-is-executed-inside-975d0dce054c
-w https://medium.com/@singhkrishnapal0818/setvalue-vs-patchvalue-angular-2a493439a0f8
-w https://medium.com/@jh00032012/angular-httpclient-multiple-content-type-in-single-request-image-along-with-json-fabddee4904b
-w15 https://www.youtube.com/watch?v=psojgR7joWk
-
-w https://medium.com/@diaslalinda/monorepo-nx-storybook-in-angular-7365bd1508ff
+https://medium.com/@diaslalinda/monorepo-nx-storybook-in-angular-7365bd1508ff
 w https://medium.com/@nimeresam95/data-status-the-most-used-component-in-any-angular-project-c53a4ac46b1e
 w https://ashatilovdev.medium.com/infinite-whiteboard-with-konvajs-and-angular-part-1-db0f86cfe02d
 w https://chibueze.hashnode.dev/candeactivate-route-guard-in-angular
@@ -95,3 +61,26 @@ m10 https://www.youtube.com/watch?v=hUqoqNhereg
 m10 https://www.youtube.com/watch?v=CZYAph73mnI
 m10 https://www.youtube.com/watch?v=QR-N11BFpAY
 m14 https://www.youtube.com/watch?v=5vnWjjKpPW8
+
+Tuesday
+m https://arif-arrijal.medium.com/how-to-create-authentication-quickly-in-angular-using-firebase-2209aa149122
+m https://medium.com/@nccandiotti/beginner-resources-for-learning-angular-2022-8c1703e16392
+m https://medium.com/@dnlcyan/local-angular-ssr-with-https-b9d305dc620d
+m https://srisad95.medium.com/angular-material-forms-username-availability-learn-it-in-21-steps-41214e7ab929
+m15 https://medium.com/ngconf/angular-application-build-optimizations-3b9c5dca2083
+m23 https://www.youtube.com/watch?v=Tgg_J41FVCA
+m23 https://www.youtube.com/watch?v=c-TtbwjibIc
+t2 https://www.youtube.com/watch?v=PZNB4zGOnl0
+t3 https://dev.to/brunoelo/how-to-create-an-angular-library-or-package-4c15
+t3 https://brunoelo.hashnode.dev/how-to-create-an-angular-library-or-package-and-publish-on-npm
+t4 https://dev.to/this-is-angular/wrapping-imperative-apis-in-angular-550b
+t6 https://www.youtube.com/watch?v=5c-AGyuO7VA
+t7 https://dev.to/jrubzjeknf/making-typed-forms-a-bit-more-consistent-353l
+t8 https://www.youtube.com/watch?v=L9dG17xbVic
+t9 https://dev.to/this-is-angular/intro-to-angular-reactive-forms-2ggk
+t10 https://www.youtube.com/watch?v=uH4W7thH4fs
+t10 https://www.youtube.com/watch?v=YuXLXnRVxPw
+t14 https://www.youtube.com/watch?v=JkcaGzhRjkc
+t14 https://www.youtube.com/watch?v=obb9DM1iwa4
+t16 https://dev.to/rainerhahnekamp/ng-news-episode-2228-38h1
+t18 https://www.youtube.com/watch?v=MeIIJaq6tKE
