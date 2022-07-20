@@ -1,20 +1,3 @@
-https://medium.com/@diaslalinda/monorepo-nx-storybook-in-angular-7365bd1508ff
-w https://medium.com/@nimeresam95/data-status-the-most-used-component-in-any-angular-project-c53a4ac46b1e
-w https://ashatilovdev.medium.com/infinite-whiteboard-with-konvajs-and-angular-part-1-db0f86cfe02d
-w https://chibueze.hashnode.dev/candeactivate-route-guard-in-angular
-r1 https://www.youtube.com/watch?v=Kf1dW95UeCg
-r3 https://brunoelo.hashnode.dev/adding-forestry-cms-to-an-angular-scully-blog-site
-r6 https://www.youtube.com/watch?v=8SBHbFYeZgw
-r6 https://www.youtube.com/watch?v=byIlBEQQ4Zk
-r7 https://www.youtube.com/watch?v=SkoI_VHtcTU
-r11 https://www.youtube.com/watch?v=aSvpKzKcef8
-r13 https://www.youtube.com/watch?v=EfFzkyFzJwo
-r13 https://www.youtube.com/watch?v=dCaZhWIhLWI
-r14 https://www.youtube.com/watch?v=yWrSbAB-5Tc
-r14 https://dev.to/amplication/amplication-angular-using-graphql-3k5o
-r20 https://www.youtube.com/watch?v=bU3S2CFYrQo
-r22 aia https://topenddevs.com/podcasts/adventures-in-angular/episodes/4035
-
 r or before https://medium.com/herodevs/7-vscode-extensions-to-boost-your-performance-as-an-angular-developer-21bc37104446
 r or before https://medium.com/ideacoding-lab/publish-your-awesome-ideas-as-npm-packages-a33c45b849d2
 f0 https://www.youtube.com/watch?v=xXSwgm2PW-I
