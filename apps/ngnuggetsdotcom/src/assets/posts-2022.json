@@ -7910,7 +7910,7 @@
         "authorName": "Mete Aydin",
         "authorUrl": "https://meteaydin.medium.com",
         "speakers": ["Mete Aydin"],
-        "tags": ["@Input", "@Ouptut", "Data Transfer"]
+        "tags": ["@Input", "@Output", "Data Transfer"]
       },
       {
         "slug": "2022-02-18-B",
@@ -32785,7 +32785,7 @@
         "sourceUrl": "https://medium.com/tag/angular/latest",
         "authorName": "Jorge Guerra Pires, PhD",
         "authorUrl": "https://medium.com/@jorgeguerrapires",
-        "speakers": ["Jorge Guerra Pires, PhD"],
+        "speakers": ["Jorge Guerra Pires"],
         "tags": ["TypeScript"]
       },
       {
@@ -33347,7 +33347,7 @@
         "sourceUrl": "https://medium.com/tag/angular/latest",
         "authorName": "Jorge Guerra Pires, PhD",
         "authorUrl": "https://medium.com/@jorgeguerrapires",
-        "speakers": ["Jorge Guerra Pires, PhD"],
+        "speakers": ["Jorge Guerra Pires"],
         "tags": ["Route Params", "paramMap"]
       },
       {
@@ -33735,7 +33735,147 @@
   {
     "date": "2022-07-15",
     "dailyPosts": [
-      
+      {
+        "slug": "2022-07-15-A",
+        "type": "blog",
+        "title": "7 VSCode Extensions to Boost Your Performance as an Angular Developer",
+        "url": "https://medium.com/herodevs/7-vscode-extensions-to-boost-your-performance-as-an-angular-developer-21bc37104446",
+        "description": "Extensions on VSCode are invaluable tools for us developers to turn repetitive manual tasks in a few clicks or key bindings, do complex operations automagically, and increase our development satisfaction by providing us a whole new experience on gray areas.\n(photo: by Charlotte Coneybeer on Unsplash)",
+        "datePosted": "2022-07-15",
+        "dateSource": "2022-07-13",
+        "sourceSite": "Medium",
+        "sourceUrl": "https://medium.com/tag/angular/latest",
+        "authorName": "Diego Juliao",
+        "authorUrl": "https://medium.com/@dianjuar",
+        "speakers": ["Diego Juliao"],
+        "tags": ["VSCode"]
+      },
+      {
+        "slug": "2022-07-15-B",
+        "type": "blog",
+        "title": "Publish your awesome ideas as NPM packages",
+        "url": "https://medium.com/ideacoding-lab/publish-your-awesome-ideas-as-npm-packages-a33c45b849d2",
+        "description": "I do believe we may change the world with third-party packages. You can easily be part of this revolution!\n(photo: by Clay Banks on Unsplash)",
+        "datePosted": "2022-07-15",
+        "dateSource": "2022-07-13",
+        "sourceSite": "Medium",
+        "sourceUrl": "https://medium.com/tag/angular/latest",
+        "authorName": "Jorge Guerra Pires, PhD",
+        "authorUrl": "https://medium.com/@jorgeguerrapires",
+        "speakers": ["Jorge Guerra Pires"],
+        "tags": ["Libraries"]
+      },
+      {
+        "slug": "2022-07-15-C",
+        "type": "video",
+        "duration": "9",
+        "title": "38. Emit Child Component Event Emitter using Comp Instance from Parent Component - Angular testing",
+        "url": "https://www.youtube.com/watch?v=xXSwgm2PW-I",
+        "description": "In this video we will see how to emit the child components event emitter using the component instance from the parent component - Angular Unit testing.",
+        "datePosted": "2022-07-15",
+        "dateSource": "2022-07-14",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "Leela Web Dev",
+        "authorUrl": "https://www.youtube.com/c/LeelaWebDev/videos",
+        "speakers": ["Leela Narasimha"],
+        "tags": ["Testing", "Unit Testing", "Jasmine", "Karma", "EventEmitter", "@Output"]
+      },
+      {
+        "slug": "2022-07-15-D",
+        "type": "video",
+        "duration": "24",
+        "title": "Reusable Table Component Angular 14 | Angular tutorial | Reusable components in angular",
+        "url": "https://www.youtube.com/watch?v=vsTrYV6CXQM",
+        "description": "Build Reusable component in Angular. With action button. Configuration of Table header columns as well.",
+        "datePosted": "2022-07-15",
+        "dateSource": "2022-07-15",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "Learning Partner",
+        "authorUrl": "https://www.youtube.com/c/LearningPartnerDigital/videos",
+        "speakers": [],
+        "tags": ["Components", "@Input", "@Output"]
+      },
+      {
+        "slug": "2022-07-15-E",
+        "type": "blog",
+        "title": "Module scoped styling in Angular 13",
+        "url": "https://dev.to/brunoelo/module-scoped-styling-in-angular-13-i09",
+        "description": "Styling applications can get technical at times especially if it is large with many modules. Learn how to style based on the scope of Angular modules.\n(photo: by Maxim Potkin ❄ on Unsplash)",
+        "datePosted": "2022-07-15",
+        "dateSource": "2022-07-15",
+        "sourceSite": "DEV Community",
+        "sourceUrl": "https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc",
+        "authorName": "Emeka Elo-Chukwuma",
+        "authorUrl": "https://hashnode.com/@BrunoElo",
+        "speakers": ["Emeka Elo-Chukwuma"],
+        "tags": ["Architecture"]
+      },
+      {
+        "slug": "2022-07-15-F",
+        "type": "video",
+        "duration": "3",
+        "title": "How to use custom SVG icons in Angular",
+        "url": "https://www.youtube.com/watch?v=V-xg-lFhXn4",
+        "description": "",
+        "datePosted": "2022-07-15",
+        "dateSource": "2022-07-15",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "Rui Wang",
+        "authorUrl": "https://www.youtube.com/user/turingcs2001/videos",
+        "speakers": ["Rui Wang"],
+        "tags": []
+      },
+      {
+        "slug": "2022-07-15-G",
+        "type": "video",
+        "duration": "66",
+        "title": "AngularAir - How Much TypeScript Is Enough For Our Angular Apps?",
+        "url": "https://www.youtube.com/watch?v=ltdVNRaykzE",
+        "description": "",
+        "datePosted": "2022-07-15",
+        "dateSource": "2022-07-15",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "AngularAir",
+        "authorUrl": "https://www.youtube.com/c/AngularAirPodcast/videos",
+        "speakers": ["Justin Schwartzenberger", "Alyssa Nicoll", "Mike Brocci"],
+        "tags": []
+      },
+      {
+        "slug": "2022-07-15-H",
+        "type": "video",
+        "duration": "9",
+        "title": "39. Create Post Details Component with the Activated Route - Angular Unit Testing",
+        "url": "https://www.youtube.com/watch?v=RpmFS0_ygnI",
+        "description": "In this video we will see how to create the Post Details component with the activated route - Angular Unit Testing",
+        "datePosted": "2022-07-15",
+        "dateSource": "2022-07-15",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "Leela Web Dev",
+        "authorUrl": "https://www.youtube.com/c/LeelaWebDev/videos",
+        "speakers": ["Leela Narasimha"],
+        "tags": ["Testing", "Unit Testing", "Jasmine", "Karma", "ActivatedRoute"]
+      },
+      {
+        "slug": "2022-07-15-J",
+        "type": "video",
+        "duration": "42",
+        "title": "Building a configurable Angular package with Nx",
+        "url": "https://youtu.be/Vh0OcM0MoWA?t=140",
+        "description": " Building a configurable Angular library using Angular 14+ with Standalone Components, Single File Components, inject function and Nx",
+        "datePosted": "2022-07-15",
+        "dateSource": "2022-07-15",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "Jay Bell",
+        "authorUrl": "https://www.youtube.com/channel/UCNSNsSjigIpbMwof4BjKmNA/videos",
+        "speakers": ["Jay Bell"],
+        "tags": ["Nx", "Libraries", "Standalone Components"]
+      }
     ]
   },
   {

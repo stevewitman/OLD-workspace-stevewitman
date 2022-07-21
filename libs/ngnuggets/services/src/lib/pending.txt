@@ -1,18 +1,4 @@
-r or before https://medium.com/herodevs/7-vscode-extensions-to-boost-your-performance-as-an-angular-developer-21bc37104446
-r or before https://medium.com/ideacoding-lab/publish-your-awesome-ideas-as-npm-packages-a33c45b849d2
-f0 https://www.youtube.com/watch?v=xXSwgm2PW-I
-f3 https://www.youtube.com/watch?v=vsTrYV6CXQM
-f5 https://brunoelo.hashnode.dev/module-scoped-styling-in-angular-13
-f6 https://dev.to/brunoelo/module-scoped-styling-in-angular-13-i09
-f9 https://www.youtube.com/watch?v=iNsTKaYLYjA
-f11 https://www.youtube.com/watch?v=V-xg-lFhXn4
-f11 https://www.youtube.com/watch?v=ltdVNRaykzE
-f12 https://www.youtube.com/watch?v=RpmFS0_ygnI
-f13 https://dev.to/iamguid/new-way-to-cook-angular-14-typed-forms-1g7h
-f17 https://youtu.be/Vh0OcM0MoWA?t=140
-
-Saturday 16th
-w https://medium.com/@sureshkumar_95502/angular-cheat-sheet-b542fc75ddfdr https://fleker.medium.com/building-a-chrome-extension-with-the-angular-framework-rafflesia-part-1-dd7fe8702a46
+https://medium.com/@sureshkumar_95502/angular-cheat-sheet-b542fc75ddfdr https://fleker.medium.com/building-a-chrome-extension-with-the-angular-framework-rafflesia-part-1-dd7fe8702a46
 r https://medium.com/@HonoraryMarleyans/angular-material-checkbox-with-reactive-form-observables-to-monitor-form-control-values-a56148027548
 r https://mohammedfahimullah.medium.com/applying-different-themes-dynamically-in-angular-with-css-application-2ecf88a91535
 f https://levelup.gitconnected.com/moduliths-in-angular-with-nx-b8b0076794fb
@@ -66,4 +52,15 @@ t10 https://www.youtube.com/watch?v=YuXLXnRVxPw
 t14 https://www.youtube.com/watch?v=JkcaGzhRjkc
 t14 https://www.youtube.com/watch?v=obb9DM1iwa4
 t16 https://dev.to/rainerhahnekamp/ng-news-episode-2228-38h1
+
+WEDNESDAY
+t17 https://www.youtube.com/watch?v=-I232-uRtMs
 t18 https://www.youtube.com/watch?v=MeIIJaq6tKE
+t19 https://www.youtube.com/watch?v=MeIIJaq6tKE
+t23 https://www.youtube.com/watch?v=6Smb7HHTEEs
+t23 https://www.youtube.com/watch?v=8n2xoG92dns
+w2 https://dev.to/dmitryefimenko/have-a-day-at-the-spa-working-on-your-spa-with-remote-data-5epo
+w6 https://www.youtube.com/watch?v=ctXcCRl-zCw
+w12 https://github.com/angular/angular/releases/tag/14.0.7
+w12 https://github.com/angular/angular/releases/tag/14.1.0
+w13 https://dev.to/alakkadshaw/angular-chat-application-tutorial-4him
