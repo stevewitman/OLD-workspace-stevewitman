@@ -2458,7 +2458,7 @@
         "authorName": "Naveen Bommidi Tech Seeker",
         "authorUrl": "https://www.youtube.com/c/NaveenTechSeeker/videos",
         "speakers": ["Naveen Bommidi"],
-        "tags": []
+        "tags": ["Bootstrap", "Dialog"]
       },
       {
         "slug": "2022-01-17-H",
@@ -10423,7 +10423,7 @@
         "authorName": "Maina Wycliffe",
         "authorUrl": "https://twitter.com/mwycliffe_dev",
         "speakers": ["Maina Wycliffe"],
-        "tags": ["TypeScript"]
+        "tags": ["TypeScript", "Enums"]
       },
       {
         "slug": "2022-03-03-F",
@@ -10806,7 +10806,7 @@
         "authorName": "pro.gramistka",
         "authorUrl": "https://medium.com/@pro.gramistka",
         "speakers": [],
-        "tags": ["Maps"]
+        "tags": ["Maps", "Charts"]
       },
       {
         "slug": "2022-03-05-L",
@@ -11427,7 +11427,7 @@
         "authorName": "Mohamed Riaz",
         "authorUrl": "https://medium.com/@the.mohamed.riaz",
         "speakers": ["Mohamed Riaz"],
-        "tags": ["D3"]
+        "tags": ["D3", "Charts"]
       },
       {
         "slug": "2022-03-09-J",
@@ -11634,7 +11634,7 @@
         "authorName": "Zara Cooper",
         "authorUrl": "https://zaracooper.github.io",
         "speakers": ["Zara Cooper"],
-        "tags": []
+        "tags": ["Charts"]
       },
       {
         "slug": "2022-03-10-F",
@@ -11916,7 +11916,7 @@
         "authorName": "Mohamed Riaz",
         "authorUrl": "https://medium.com/@the.mohamed.riaz",
         "speakers": ["Mohamed Riaz"],
-        "tags": ["D3"]
+        "tags": ["D3", "Charts"]
       }
     ]
   },
@@ -14794,7 +14794,7 @@
         "authorName": "AB Nation Programmers",
         "authorUrl": "https://www.youtube.com/c/ABNATIONProgrammerz553/videos",
         "speakers": [],
-        "tags": []
+        "tags": ["Checkbox"]
       }
     ]
   },
@@ -15403,7 +15403,7 @@
         "authorName": "Joshua Morony",
         "authorUrl": "https://www.youtube.com/c/JoshuaMorony/videos",
         "speakers": ["Joshua Morony"],
-        "tags": ["ControlValueAccessor"]
+        "tags": ["ControlValueAccessor", "Checkbox"]
       },
       {
         "slug": "2022-03-30-G",
@@ -16203,7 +16203,7 @@
         "authorName": "Chadwin's Blog",
         "authorUrl": "https://chadwindeysel.hashnode.dev",
         "speakers": [],
-        "tags": []
+        "tags": ["Charts"]
       },
       {
         "slug": "2022-04-04-J",
@@ -23996,7 +23996,7 @@
         "authorName": "Yuliia Nikitina",
         "authorUrl": "https://medium.com/@yuli-nikol12",
         "speakers": ["Yuliia Nikitina"],
-        "tags": []
+        "tags": ["Charts"]
       },
       {
         "slug": "2022-05-18-L",
@@ -24477,7 +24477,7 @@
         "authorName": "Can Yuksel",
         "authorUrl": "https://cannyuksel.medium.com",
         "speakers": ["Can Yuksel"],
-        "tags": []
+        "tags": ["Charts"]
       },
       {
         "slug": "2022-05-21-B",
@@ -26283,7 +26283,7 @@
         "authorName": "Learn from Scratch",
         "authorUrl": "https://www.youtube.com/channel/UCpFZq7b6E-RDC7F7v1O_5uA/videos",
         "speakers": [],
-        "tags": ["PrimeNG"]
+        "tags": ["PrimeNG", "Checkbox"]
       }
     ]
   },
@@ -27651,7 +27651,7 @@
         "authorName": "Fabian Saacke",
         "authorUrl": "https://saackef.com",
         "speakers": ["Fabian Saacke"],
-        "tags": ["Pagination"]
+        "tags": ["Pagination", "Data Table"]
       },
       {
         "slug": "2022-06-07-D",
@@ -28633,7 +28633,7 @@
         "authorName": "Prathamesh",
         "authorUrl": "https://dev.to/prathameshk73",
         "speakers": [],
-        "tags": []
+        "tags": ["Charts"]
       },
       {
         "slug": "2022-06-12-H",
@@ -29688,7 +29688,7 @@
         "authorName": "Fabian Saacke",
         "authorUrl": "https://saackef.com",
         "speakers": ["Fabian Saacke"],
-        "tags": []
+        "tags": ["Charts"]
       },
       {
         "slug": "2022-06-19-E",
@@ -31833,7 +31833,7 @@
         "authorName": "Ria Pacheco",
         "authorUrl": "https://dev.to/riapacheco",
         "speakers": ["Ria Pacheco"],
-        "tags": []
+        "tags": ["Charts"]
       }
     ]
   },
@@ -32705,7 +32705,7 @@
         "authorName": "Nihira Techiees",
         "authorUrl": "https://www.youtube.com/c/NihiraTechiees/videos",
         "speakers": [],
-        "tags": ["Forms", "Typed Forms", "Reactive Forms"]
+        "tags": ["Forms", "Typed Forms", "Reactive Forms", "CRUD"]
       },
       {
         "slug": "2022-07-07-F",
@@ -33156,7 +33156,7 @@
         "authorName": "John Au-Yeung",
         "authorUrl": "https://www.telerik.com/blogs/author/john-au-yeung",
         "speakers": ["John Au-Yeung"],
-        "tags": ["TypeScript"]
+        "tags": ["TypeScript", "Enums"]
       },
       {
         "slug": "2022-07-11-J",
@@ -33881,7 +33881,144 @@
   {
     "date": "2022-07-16",
     "dailyPosts": [
-      
+      {
+        "slug": "2022-07-16-A",
+        "type": "blog",
+        "title": "Building a Chrome Extension with the Angular framework / Rafflesia Part 1",
+        "url": "https://fleker.medium.com/building-a-chrome-extension-with-the-angular-framework-rafflesia-part-1-dd7fe8702a46",
+        "description": "Over the last few months I've worked on a handful of assorted projects and written short blog posts about them. For the next few months, I want to go deeper into one particular project.",
+        "datePosted": "2022-07-16",
+        "dateSource": "2022-07-14",
+        "sourceSite": "Medium",
+        "sourceUrl": "https://medium.com/tag/angular/latest",
+        "authorName": "Nick Felker",
+        "authorUrl": "https://fleker.medium.com",
+        "speakers": ["Nick Felker"],
+        "tags": []
+      },
+      {
+        "slug": "2022-07-16-B",
+        "type": "blog",
+        "title": "Angular material checkbox with reactive form observables to monitor form control values",
+        "url": "https://medium.com/@HonoraryMarleyans/angular-material-checkbox-with-reactive-form-observables-to-monitor-form-control-values-a56148027548",
+        "description": "This is the description from the official Angular website. Angular makes use of observables as an interface to handle a variety of common asynchronous operations.",
+        "datePosted": "2022-07-16",
+        "dateSource": "2022-07-14",
+        "sourceSite": "Medium",
+        "sourceUrl": "https://medium.com/tag/angular/latest",
+        "authorName": "Honorary Marleyans",
+        "authorUrl": "https://medium.com/@HonoraryMarleyans",
+        "speakers": [],
+        "tags": ["Angular Material", "Checkbox"]
+      },
+      {
+        "slug": "2022-07-16-C",
+        "type": "blog",
+        "title": "Applying different themes dynamically in Angular with CSS Application",
+        "url": "https://mohammedfahimullah.medium.com/applying-different-themes-dynamically-in-angular-with-css-application-2ecf88a91535",
+        "description": "To increase the user experience of the applications now a days applications can have multiple themes. Through this article you will get an basic idea on how to apply different themes dynamically in an Angular Application.",
+        "datePosted": "2022-07-16",
+        "dateSource": "2022-07-14",
+        "sourceSite": "Medium",
+        "sourceUrl": "https://medium.com/tag/angular/latest",
+        "authorName": "Mohammedfahimullah",
+        "authorUrl": "https://mohammedfahimullah.medium.com",
+        "speakers": [],
+        "tags": ["Theming"]
+      },
+      {
+        "slug": "2022-07-16-D",
+        "type": "blog",
+        "title": "Moduliths in Angular with Nx",
+        "url": "https://levelup.gitconnected.com/moduliths-in-angular-with-nx-b8b0076794fb",
+        "description": "Using DDD and Monorepos to create sustainable applications",
+        "datePosted": "2022-07-16",
+        "dateSource": "2022-07-15",
+        "sourceSite": "Medium",
+        "sourceUrl": "https://medium.com/tag/angular/latest",
+        "authorName": "Stefan Haas",
+        "authorUrl": "https://medium.com/@stefan.haas.privat",
+        "speakers": ["Stefan Haas"],
+        "tags": ["Architecture", "Nx"]
+      },
+      {
+        "slug": "2022-07-16-E",
+        "type": "video",
+        "duration": "27",
+        "title": "Part-4| Angular(v14) | GraphQL Client - Apollo Angular(v3) | JSON Server GraphQL | CRUD Example",
+        "url": "https://www.youtube.com/watch?v=b2bEURixOwY",
+        "description": "",
+        "datePosted": "2022-07-16",
+        "dateSource": "2022-07-16",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "Naveen Bommidi Tech Seeker",
+        "authorUrl": "https://www.youtube.com/c/NaveenTechSeeker/videos",
+        "speakers": ["Naveen Bommidi"],
+        "tags": ["GraphQL"]
+      },
+      {
+        "slug": "2022-07-16-F",
+        "type": "video",
+        "duration": "12",
+        "title": "Angular Tutorial For Beginners 2022 - 1. Install & Folder Structure",
+        "url": "https://www.youtube.com/watch?v=HajQX22fmhA",
+        "description": "",
+        "datePosted": "2022-07-16",
+        "dateSource": "2022-07-16",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "Teddy Smith",
+        "authorUrl": "https://www.youtube.com/c/TeddySmithNC/videos",
+        "speakers": ["Teddy Smith"],
+        "tags": []
+      },
+      {
+        "slug": "2022-07-16-G",
+        "type": "video",
+        "duration": "9",
+        "title": "40. Create TestBed for ActivatedRoute and Location for Component Dependencies - Angular Unit Testing",
+        "url": "https://www.youtube.com/watch?v=KlA1wn6oquU",
+        "description": " In this video we will see how to create the providers for the activated rout and the Location for resolving component dependencies in Angular Unit testing",
+        "datePosted": "2022-07-16",
+        "dateSource": "2022-07-16",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "Leela Web Dev",
+        "authorUrl": "https://www.youtube.com/c/LeelaWebDev/videos",
+        "speakers": ["Leela Narasimha"],
+        "tags": ["Testing", "Unit Testing", "Jasmine", "Karma", "ActivatedRoute"]
+      },
+      {
+        "slug": "2022-07-16-H",
+        "type": "blog",
+        "title": "How to Use Dynamic Titles from NgRx Selectors",
+        "url": "https://dev.to/davidshortman/how-to-use-dynamic-titles-from-ngrx-selectors-1f0",
+        "description": "When Angular 14 released and custom title strategies became a possibility, my mind immediately went to asking, 'how can I dynamically set a page's title from a selector?'",
+        "datePosted": "2022-07-16",
+        "dateSource": "2022-07-16",
+        "sourceSite": "DEV Community",
+        "sourceUrl": "https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc",
+        "authorName": "David",
+        "authorUrl": "https://dev.to/davidshortman",
+        "speakers": ["David Shortman"],
+        "tags": ["NgRx"]
+      },
+      {
+        "slug": "2022-07-16-J",
+        "type": "blog",
+        "title": "Searchable Data Table in Angular (NO Material) with SCSS, Useful Directives, JS methods, and Virtual Scroll",
+        "url": "https://dev.to/riapacheco/searchable-data-table-in-angular-no-material-with-scss-useful-directives-js-methods-and-virtual-scroll-1ilh",
+        "description": "If you've taken on the use-case of a searchable or sortable data table in Angular, that avoids the restrictive styles of @angular/material by using the cdkTable under it, you've probably pulled out your hair as much as I have in frustration.",
+        "datePosted": "2022-07-16",
+        "dateSource": "2022-07-16",
+        "sourceSite": "DEV Community",
+        "sourceUrl": "https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc",
+        "authorName": "Ria Pacheco",
+        "authorUrl": "https://dev.to/riapacheco",
+        "speakers": ["Ria Pacheco"],
+        "tags": ["Data Table"]
+      }
     ]
   },
   {
