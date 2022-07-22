@@ -1,15 +1,7 @@
 
-MONDAY
-u23 https://dev.to/ayyash/serving-multilingual-angular-application-with-expressjs-ocf
-m4 https://dev.to/this-is-angular/multi-store-selectors-angular-3fdc
-m4 https://www.youtube.com/watch?v=H2nMCQLhmps
-m6 https://dev.to/coderpad/dev-discussions-how-to-reduce-your-angular-bundle-size-with-google-developers-expert-santosh-yadav-2c3k
-m6 https://www.youtube.com/watch?v=6gvBIYSs6-A
-m8 ang exp https://www.spreaker.com/user/14532324/s2e25-craig-shearer-on-independent-contr?utm_campaign=episode-title&utm_medium=app&utm_source=widget
-m10 https://www.youtube.com/watch?v=hUqoqNhereg
-m10 https://www.youtube.com/watch?v=CZYAph73mnI
-m10 https://www.youtube.com/watch?v=QR-N11BFpAY
-m14 https://www.youtube.com/watch?v=5vnWjjKpPW8
+m10 
+m10 
+m14 
 
 TUESDAY
 m https://arif-arrijal.medium.com/how-to-create-authentication-quickly-in-angular-using-firebase-2209aa149122
@@ -64,3 +56,7 @@ r9 https://brunoelo.hashnode.dev/how-to-create-an-angular-library-or-package-and
 r9 https://www.youtube.com/watch?v=BlMhUSjnlJI
 r9 https://www.youtube.com/watch?v=WMxhT1HWkcA
 r10 https://www.youtube.com/watch?v=6dEl4n5MuBo
+r11 https://topenddevs.com/podcasts/adventures-in-angular/episodes/making-the-most-of-meetups-aia-351
+r15 https://www.youtube.com/watch?v=L-odCf4MfJc
+r19 https://dev.to/brihoum/how-i-optimized-my-angular-website-3fd0
+r https://www.telerik.com/blogs/angular-basics-tips-structuring-angular-project
