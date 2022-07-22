@@ -1,15 +1,5 @@
-Sunday 07-17
-s https://medium.com/enappd/how-to-use-google-maps-in-taxi-app-and-do-live-tracking-a66bf46e016e
-s https://medium.com/@bananicabananica/angular-theming-b49576e6e827
-s https://medium.com/@kasupsri/amazon-cognito-login-to-angular-application-with-amplify-ui-17bda1e6e7e5
-s https://medium.com/@kartikjagdale11/typescript-decorator-for-logging-analytics-event-in-angular-using-monad-design-pattern-3241246b0c5d
-s https://medium.com/@iam.guid/why-new-angular-14-typed-forms-isnt-good-and-how-to-fix-it-1ffebf193df
-s https://medium.com/@david_shortman/how-to-use-dynamic-titles-from-ngrx-selectors-52271bfbc986
-s22 https://www.youtube.com/watch?v=GXf0y_nUIZE
-u8 https://dev.to/asayerio_techblog/drag-and-drop-with-angular-material-3jeb
-u12 https://www.youtube.com/watch?v=JRL1lgiExQ4
-u12 https://dev.to/entangledcognition/dynamic-tab-title-in-angular-26jg
 
+MONDAY
 u23 https://dev.to/ayyash/serving-multilingual-angular-application-with-expressjs-ocf
 m4 https://dev.to/this-is-angular/multi-store-selectors-angular-3fdc
 m4 https://www.youtube.com/watch?v=H2nMCQLhmps
@@ -21,7 +11,7 @@ m10 https://www.youtube.com/watch?v=CZYAph73mnI
 m10 https://www.youtube.com/watch?v=QR-N11BFpAY
 m14 https://www.youtube.com/watch?v=5vnWjjKpPW8
 
-Tuesday
+TUESDAY
 m https://arif-arrijal.medium.com/how-to-create-authentication-quickly-in-angular-using-firebase-2209aa149122
 m https://medium.com/@nccandiotti/beginner-resources-for-learning-angular-2022-8c1703e16392
 m https://medium.com/@dnlcyan/local-angular-ssr-with-https-b9d305dc620d
@@ -51,6 +41,26 @@ t23 https://www.youtube.com/watch?v=6Smb7HHTEEs
 t23 https://www.youtube.com/watch?v=8n2xoG92dns
 w2 https://dev.to/dmitryefimenko/have-a-day-at-the-spa-working-on-your-spa-with-remote-data-5epo
 w6 https://www.youtube.com/watch?v=ctXcCRl-zCw
+w https://medium.com/into-tech/creating-a-combobox-component-in-angular-4ea8dfcf5112
 w12 https://github.com/angular/angular/releases/tag/14.0.7
 w12 https://github.com/angular/angular/releases/tag/14.1.0
+w https://medium.com/herodevs/testing-ngrx-effects-with-async-await-351cc39bc5d5
+w https://marklowg.medium.com/how-to-unit-test-angular-ngrx-effects-ce5075e870a2
+w12 https://javascript.plainenglish.io/dynamic-component-loading-4945ce73ad1
 w13 https://dev.to/alakkadshaw/angular-chat-application-tutorial-4him
+
+THURSDAY
+
+w23 https://www.youtube.com/watch?v=nRfezy9TgpY
+w23 https://medium.com/@anooprvarrier/angular-reading-data-from-json-file-using-httpclient-3c46ba1aaf22
+r0 https://www.youtube.com/watch?v=HT4GzcQtJNc
+r0 https://dev.to/guiseek/env-vars-with-angular-nx-26i9
+r3 https://www.youtube.com/watch?v=KlzLj0_JGqU
+r7 https://www.youtube.com/watch?v=ICUWX4nVFw4
+r7 https://www.youtube.com/watch?v=M39PAWttOWg
+r8 https://webrush.io/episodes/episode-193-localizing-docs-with-aristeidis-bampakos
+r8 https://www.youtube.com/watch?v=hvUhfuz0hxI
+r9 https://brunoelo.hashnode.dev/how-to-create-an-angular-library-or-package-and-publish-on-npm
+r9 https://www.youtube.com/watch?v=BlMhUSjnlJI
+r9 https://www.youtube.com/watch?v=WMxhT1HWkcA
+r10 https://www.youtube.com/watch?v=6dEl4n5MuBo

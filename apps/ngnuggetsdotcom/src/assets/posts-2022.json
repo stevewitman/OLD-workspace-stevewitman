@@ -34017,12 +34017,172 @@
         "authorName": "Ria Pacheco",
         "authorUrl": "https://dev.to/riapacheco",
         "speakers": ["Ria Pacheco"],
-        "tags": ["Data Table"]
+        "tags": ["Data Table", "Directives", "Scrolling"]
       }
     ]
   },
   {
     "date": "2022-07-17",
+    "dailyPosts": [
+      {
+        "slug": "2022-07-17-A",
+        "type": "blog",
+        "title": "How to do Live Tracking using Google Maps in Taxi App",
+        "url": "https://medium.com/enappd/how-to-use-google-maps-in-taxi-app-and-do-live-tracking-a66bf46e016e",
+        "description": "In this blog, we are going to learn about Live Tracking using Google Maps in Ionic Angular App OR any Angular App. We will use freely available directive agm-maps and agm-directions and use them in the Ionic Taxi application for tracking and other features.",
+        "datePosted": "2022-07-17",
+        "dateSource": "2022-07-16",
+        "sourceSite": "Medium",
+        "sourceUrl": "https://medium.com/tag/angular/latest",
+        "authorName": "Vaibhav gehani",
+        "authorUrl": "https://medium.com/@vgehani90",
+        "speakers": ["Vaibhav Gehani"],
+        "tags": ["Ionic", "Google Maps"]
+      },
+      {
+        "slug": "2022-07-17-B",
+        "type": "blog",
+        "title": "Angular theming",
+        "url": "https://medium.com/@bananicabananica/angular-theming-b49576e6e827",
+        "description": "I wish to share here my little experiment with theming Angular applications. I'm not claiming that this is a battle tested solution, or even a good idea… It's just my experiment. Also, some of the things may be over-complicated since I'm still uncertain in which direction I'm going to take this.",
+        "datePosted": "2022-07-17",
+        "dateSource": "2022-07-16",
+        "sourceSite": "Medium",
+        "sourceUrl": "https://medium.com/tag/angular/latest",
+        "authorName": "Bananica Bananica",
+        "authorUrl": "https://medium.com/@bananicabananica",
+        "speakers": [],
+        "tags": []
+      },
+      {
+        "slug": "2022-07-17-C",
+        "type": "blog",
+        "title": "Amazon Cognito Login to Angular Application with Amplify UI",
+        "url": "https://medium.com/@kasupsri/amazon-cognito-login-to-angular-application-with-amplify-ui-17bda1e6e7e5",
+        "description": "Amazon cognito is a BaaS provided by Amason. It's a Secure identity and an access management service for apps.",
+        "datePosted": "2022-07-17",
+        "dateSource": "2022-07-16",
+        "sourceSite": "Medium",
+        "sourceUrl": "https://medium.com/tag/angular/latest",
+        "authorName": "Kasup Sri Bandara",
+        "authorUrl": "https://medium.com/@kasupsri",
+        "speakers": ["Kasup Sri Bandara"],
+        "tags": ["AWS", "Auth"]
+      },
+      {
+        "slug": "2022-07-17-D",
+        "type": "blog",
+        "title": "TypeScript Decorator for Logging Analytics Event in Angular Using Monad Design Pattern",
+        "url": "https://medium.com/@kartikjagdale11/typescript-decorator-for-logging-analytics-event-in-angular-using-monad-design-pattern-3241246b0c5d",
+        "description": "The Logging Decorator tracks Analytics events in Angular using a Monad design pattern, decoupling application code, and logging logic.",
+        "datePosted": "2022-07-17",
+        "dateSource": "2022-07-16",
+        "sourceSite": "Medium",
+        "sourceUrl": "https://medium.com/tag/angular/latest",
+        "authorName": "Kartik Jagdale",
+        "authorUrl": "https://medium.com/@kartikjagdale11",
+        "speakers": ["Kartik Jagdale"],
+        "tags": ["Decorators", "TypeScript"]
+      },
+      {
+        "slug": "2022-07-17-E",
+        "type": "blog",
+        "title": "4 Problems of Angular 14 Typed Forms and How to Fix Them",
+        "url": "https://medium.com/@iam.guid/why-new-angular-14-typed-forms-isnt-good-and-how-to-fix-it-1ffebf193df",
+        "description": "You can't get FormGroup or FormArray from your models' types. But in real-world forms bind with models. You should be able to construct controls' type from model, example:",
+        "datePosted": "2022-07-17",
+        "dateSource": "2022-07-16",
+        "sourceSite": "Medium",
+        "sourceUrl": "https://medium.com/tag/angular/latest",
+        "authorName": "Vlad Lebedev",
+        "authorUrl": "https://medium.com/@iam.guid",
+        "speakers": ["Vlad Lebedev"],
+        "tags": ["Typed Forms"]
+      },
+      {
+        "slug": "2022-07-17-F",
+        "type": "video",
+        "duration": "11",
+        "title": "Docker & Angular: Dockerizing your Angular Application in 10 min for Beginners",
+        "url": "https://www.youtube.com/watch?v=GXf0y_nUIZE",
+        "description": "This tutorial will walk you through the steps How to Dockerize an Angular Application within 10 minute ",
+        "datePosted": "2022-07-17",
+        "dateSource": "2022-07-16",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "Techno Saviour",
+        "authorUrl": "https://www.youtube.com/c/TechnoSaviour/videos",
+        "speakers": ["Biswa kalyan Das"],
+        "tags": ["Docker"]
+      },
+      {
+        "slug": "2022-07-17-G",
+        "type": "blog",
+        "title": "Drag-and-drop with Angular Material",
+        "url": "https://dev.to/asayerio_techblog/drag-and-drop-with-angular-material-3jeb",
+        "description": "Angular Material is a User Interface (UI) component library that developers can use to quickly create stunning and cohesive user interfaces in their Angular projects. With Angular Material, you can find reusable and appealing UI components like Cards, Inputs, Data Tables, Datepickers, and much more.",
+        "datePosted": "2022-07-17",
+        "dateSource": "2022-07-17",
+        "sourceSite": "DEV Community",
+        "sourceUrl": "https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc",
+        "authorName": "OpenReplay Tech Blog",
+        "authorUrl": "https://dev.to/asayerio_techblog",
+        "speakers": ["Godwin Chinda"],
+        "tags": ["Angular Material", "CDK", "Drag and Drop"]
+      },
+      {
+        "slug": "2022-07-17-H",
+        "type": "video",
+        "duration": "9",
+        "title": "41. Testing Post Detail Component Template using nativeElement & debugElement - Angular Unit Testing",
+        "url": "https://www.youtube.com/watch?v=JRL1lgiExQ4",
+        "description": "In this video we will see how to test the post details component template using native element and the debug element - Angular Unit Testing",
+        "datePosted": "2022-07-17",
+        "dateSource": "2022-07-17",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "Leela Web Dev",
+        "authorUrl": "https://www.youtube.com/c/LeelaWebDev/videos",
+        "speakers": ["Leela Narasimha"],
+        "tags": ["Testing", "Unit Testing", "Jasmine", "Karma"]
+      },
+      {
+        "slug": "2022-07-17-J",
+        "type": "blog",
+        "title": "Dynamic Tab Title in Angular",
+        "url": "https://dev.to/entangledcognition/dynamic-tab-title-in-angular-26jg",
+        "description": "With Angular 14, Now we can generate dynamic tab titles with ease.",
+        "datePosted": "2022-07-17",
+        "dateSource": "2022-07-17",
+        "sourceSite": "DEV Community",
+        "sourceUrl": "https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc",
+        "authorName": "Bharath Muppa",
+        "authorUrl": "https://dev.to/bharathmuppa",
+        "speakers": ["Bharath Muppa"],
+        "tags": ["setTitle"]
+      }
+    ]
+  },
+  {
+    "date": "2022-07-18",
+    "dailyPosts": [
+      
+    ]
+  },
+  {
+    "date": "2022-07-19",
+    "dailyPosts": [
+      
+    ]
+  },
+  {
+    "date": "2022-07-20",
+    "dailyPosts": [
+      
+    ]
+  },
+  {
+    "date": "2022-07-21",
     "dailyPosts": [
       
     ]
