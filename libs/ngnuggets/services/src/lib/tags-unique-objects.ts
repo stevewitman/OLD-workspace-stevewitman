@@ -23,6 +23,7 @@ export const tags = [
   { cat: 'Angular', tag: 'Components' },
   { cat: 'Angular', tag: 'Component Factory' },
   { cat: 'Angular', tag: 'Component Harness' },
+  { cat: 'Angular', tag: 'Component Loading' },
   { cat: 'Angular', tag: 'Container Presenter' },
   { cat: 'Angular', tag: 'Content Projection' },
   { cat: 'Angular', tag: 'Data Binding' },

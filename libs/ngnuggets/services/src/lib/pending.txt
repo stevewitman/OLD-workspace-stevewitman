@@ -1,22 +1,3 @@
-https://www.youtube.com/watch?v=-I232-uRtMs
-t18 https://www.youtube.com/watch?v=MeIIJaq6tKE
-t19 https://www.youtube.com/watch?v=MeIIJaq6tKE
-t23 https://www.youtube.com/watch?v=6Smb7HHTEEs
-t23 https://www.youtube.com/watch?v=8n2xoG92dns
-w2 https://dev.to/dmitryefimenko/have-a-day-at-the-spa-working-on-your-spa-with-remote-data-5epo
-w6 https://www.youtube.com/watch?v=ctXcCRl-zCw
-w https://medium.com/into-tech/creating-a-combobox-component-in-angular-4ea8dfcf5112
-w12 https://github.com/angular/angular/releases/tag/14.0.7
-w12 https://github.com/angular/angular/releases/tag/14.1.0
-w https://medium.com/herodevs/testing-ngrx-effects-with-async-await-351cc39bc5d5
-w https://marklowg.medium.com/how-to-unit-test-angular-ngrx-effects-ce5075e870a2
-w12 https://javascript.plainenglish.io/dynamic-component-loading-4945ce73ad1
-w13 https://dev.to/alakkadshaw/angular-chat-application-tutorial-4him
-
-
-
-
-
 THURSDAY
 w23 https://www.youtube.com/watch?v=nRfezy9TgpY
 w23 https://medium.com/@anooprvarrier/angular-reading-data-from-json-file-using-httpclient-3c46ba1aaf22
