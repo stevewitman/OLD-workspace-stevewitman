@@ -1,32 +1,4 @@
-
-m10 
-m10 
-m14 
-
-TUESDAY
-m https://arif-arrijal.medium.com/how-to-create-authentication-quickly-in-angular-using-firebase-2209aa149122
-m https://medium.com/@nccandiotti/beginner-resources-for-learning-angular-2022-8c1703e16392
-m https://medium.com/@dnlcyan/local-angular-ssr-with-https-b9d305dc620d
-m https://srisad95.medium.com/angular-material-forms-username-availability-learn-it-in-21-steps-41214e7ab929
-m15 https://medium.com/ngconf/angular-application-build-optimizations-3b9c5dca2083
-m23 https://www.youtube.com/watch?v=Tgg_J41FVCA
-m23 https://www.youtube.com/watch?v=c-TtbwjibIc
-t2 https://www.youtube.com/watch?v=PZNB4zGOnl0
-t3 https://dev.to/brunoelo/how-to-create-an-angular-library-or-package-4c15
-t3 https://brunoelo.hashnode.dev/how-to-create-an-angular-library-or-package-and-publish-on-npm
-t4 https://dev.to/this-is-angular/wrapping-imperative-apis-in-angular-550b
-t6 https://www.youtube.com/watch?v=5c-AGyuO7VA
-t7 https://dev.to/jrubzjeknf/making-typed-forms-a-bit-more-consistent-353l
-t8 https://www.youtube.com/watch?v=L9dG17xbVic
-t9 https://dev.to/this-is-angular/intro-to-angular-reactive-forms-2ggk
-t10 https://www.youtube.com/watch?v=uH4W7thH4fs
-t10 https://www.youtube.com/watch?v=YuXLXnRVxPw
-t14 https://www.youtube.com/watch?v=JkcaGzhRjkc
-t14 https://www.youtube.com/watch?v=obb9DM1iwa4
-t16 https://dev.to/rainerhahnekamp/ng-news-episode-2228-38h1
-
-WEDNESDAY
-t17 https://www.youtube.com/watch?v=-I232-uRtMs
+https://www.youtube.com/watch?v=-I232-uRtMs
 t18 https://www.youtube.com/watch?v=MeIIJaq6tKE
 t19 https://www.youtube.com/watch?v=MeIIJaq6tKE
 t23 https://www.youtube.com/watch?v=6Smb7HHTEEs
@@ -41,8 +13,11 @@ w https://marklowg.medium.com/how-to-unit-test-angular-ngrx-effects-ce5075e870a2
 w12 https://javascript.plainenglish.io/dynamic-component-loading-4945ce73ad1
 w13 https://dev.to/alakkadshaw/angular-chat-application-tutorial-4him
 
-THURSDAY
 
+
+
+
+THURSDAY
 w23 https://www.youtube.com/watch?v=nRfezy9TgpY
 w23 https://medium.com/@anooprvarrier/angular-reading-data-from-json-file-using-httpclient-3c46ba1aaf22
 r0 https://www.youtube.com/watch?v=HT4GzcQtJNc
@@ -58,5 +33,94 @@ r9 https://www.youtube.com/watch?v=WMxhT1HWkcA
 r10 https://www.youtube.com/watch?v=6dEl4n5MuBo
 r11 https://topenddevs.com/podcasts/adventures-in-angular/episodes/making-the-most-of-meetups-aia-351
 r15 https://www.youtube.com/watch?v=L-odCf4MfJc
+
+
+FRIDAY
+20th https://medium.com/@marklowg/how-to-unit-test-angular-ngrx-effects-ce5075e870a2
 r19 https://dev.to/brihoum/how-i-optimized-my-angular-website-3fd0
 r https://www.telerik.com/blogs/angular-basics-tips-structuring-angular-project
+f9 https://www.youtube.com/watch?v=0IfTwAtL_fI
+f9 https://www.youtube.com/watch?v=RVascfQ9X8U
+f9 https://www.youtube.com/watch?v=E9RDS7lcQns
+f10 https://www.youtube.com/watch?v=UyWDqZODprk
+f21 https://www.youtube.com/watch?v=vXpTMZpgntU
+
+SATURDAY
+f https://websolutionstuff.medium.com/angular-13-crop-image-before-upload-with-preview-d650ea0f7664
+f https://medium.com/enappd/complete-flow-of-location-selection-in-agm-maps-based-ionic-5-application-28f94442f66c
+f https://ashishgopalhattimare.medium.com/ngrx-solution-to-state-management-using-angular-344889572c18
+f https://levelup.gitconnected.com/angular-dynamic-language-i18n-l10n-300d76c31b17
+s6 https://www.youtube.com/watch?v=DNN5T13jg3w
+s8 https://medium.com/@diari.ismail/how-to-combine-angular-with-a-legacy-asp-net-web-application-b9760adc1bfc
+s11 https://www.youtube.com/watch?v=hbgR1xV63QI
+
+SUNDAY
+s21 https://www.youtube.com/watch?v=zwgFgBH-y9k
+u1 https://www.youtube.com/watch?v=a4vBljyLPmI
+u2 https://dev.to/giladmaayan/file-upload-in-angular-13-5829
+u9 https://www.youtube.com/watch?v=PDMd35Uamwg
+u23 https://dev.to/rachgrey/how-nativescript-angular-helps-to-build-truly-native-mobile-apps-oek
+
+
+MONDAY
+m0 https://www.youtube.com/watch?v=AEr80ERLgIU
+m0 https://www.youtube.com/watch?v=rvnitXFB-Xo
+m1 https://dev.to/ayyash/serving-the-same-angular-build-with-different-urls-2aa0
+m6 https://www.youtube.com/watch?v=w_q8ruSfEdw
+m8 ang exp https://www.spreaker.com/user/14532324/s2e26-ask-me-anything-with-jason-warner?utm_campaign=episode-title&utm_medium=app&utm_source=widget
+m8 https://www.youtube.com/watch?v=h_IkU-52lrM
+m9 https://www.youtube.com/watch?v=4lNUfL4u9g4
+m9 https://dev.to/bitovi/always-know-when-to-use-share-vs-sharereplay-2jdf
+m10 hash https://blog.jonandonicastelo.com/reactive-forms-template-driven-forms
+m14 https://www.youtube.com/watch?v=csqwoFWgnjc
+m21 https://www.youtube.com/watch?v=gWari3rKN9Y
+
+TUESDAY
+u https://medium.com/@Programming_Discussion/why-i-chose-angular-to-build-a-url-shortener-1ce01b44da59
+u https://medium.com/@jaydeepvpatil225/signalr-introduction-and-implementation-using-the-net-core-6-web-api-and-angular-14-b4cfd51a6fac
+m https://medium.com/@epavliy/css-isolation-with-angular-micro-frontends-eb3bd8261bb9
+m https://javascript.plainenglish.io/content-projection-in-angular-with-ng-content-b8119f3f7360
+m https://medium.com/@roshan_8028/angular-web-development-history-and-an-overview-5a71f827af8f
+m https://medium.com/@kodwings_83670/cant-bind-to-ngif-since-it-isn-t-a-known-property-of-div-8fe5d707a60f
+m https://medium.com/seriea-pub/crud-operation-in-angular-50e9e77a1545
+m https://hrishikeshbappu.medium.com/http-and-observables-in-angular-85eef5c1ef87
+m19 https://www.youtube.com/watch?v=W6Er__jTbek
+m https://medium.com/@smarth55/structuring-libraries-with-nx-9ffab71a94a0
+t2 https://www.youtube.com/watch?v=nRvDACwX7p4
+t4 https://www.youtube.com/watch?v=ahwAEcbVaWk
+t7 https://www.youtube.com/watch?v=1XBpeOC1PkM
+t8 https://www.youtube.com/watch?v=rZCQiMdQsxE
+t10 https://dev.to/oktadev/protect-your-angular-app-from-cross-site-request-forgery-2hho
+t10 https://www.youtube.com/watch?v=Zfqewpi_Zg0
+t11 https://dev.to/ayyash/twisting-angular-localizationserving-a-different-indexhtml-in-an-angular-build-for-different-languages-2ekd
+t12 https://dev.to/gilcreque/til-angular-has-keyvaluepipe-2dk4
+t15 https://dev.to/rainerhahnekamp/ng-news-episode-2229-271m
+
+WEDNESDAY
+t https://www.youtube.com/watch?v=WGCWisXCqdY
+w0 https://www.youtube.com/watch?v=C2_hw8m5EiU
+w6 https://www.youtube.com/watch?v=Byttv3YpjQk
+w8 https://dev.to/manoj_004d/create-chart-with-data-from-api-using-httpclient-module-in-angular-2gn5
+w8 https://www.youtube.com/watch?v=CsdrUt6p6UA
+w9 https://www.youtube.com/watch?v=YU31ASbWKLE
+w9 https://dev.to/oktadev/protect-your-angular-app-from-cross-site-scripting-26d4
+w11 https://dev.to/blove/ag-grid-cell-rendering-pipeline-with-typescript-c5c
+w13 https://www.youtube.com/watch?v=UNO7NRxhd40
+w16 https://dev.to/mmuscat/hostlistener-output--2dhe
+
+THURSDAY
+t https://medium.com/@Sendbird/how-to-build-an-angular-chat-app-af7a403cba89
+t https://marklowg.medium.com/how-to-unit-test-an-ngrx-reducer-f47cd9b55bc2
+w https://hennyjones.medium.com/top-9-mind-blowing-features-of-new-angular-14-hyperlink-infosystem-9d13a1f1745c
+w https://srisad95.medium.com/angular-ngrx-setup-with-simple-example-using-node-js-api-learn-it-in-14-steps-5acde7183ca2
+w https://blog.devgenius.io/angular-application-deployment-to-azure-web-app-using-github-49a4e3a7ba87
+w23 https://98sunny.hashnode.dev/notes-on-rxjs-introduction-cl64kd3l602tm2snvesm84w3b
+r0 https://www.youtube.com/watch?v=5V77yVzzv7A
+r0 https://www.youtube.com/watch?v=nPqPt-aFDso
+r2 https://dev.to/tonyhicks20/angular-two-way-binding-between-parent-and-child-components-16kl
+r6 https://www.youtube.com/watch?v=SEimlo7C-nc
+r8 https://webrush.io/episodes/episode-194-building-apps-for-teams-with-waldek-mastykarz
+r8 https://www.youtube.com/watch?v=SEimlo7C-nc
+r8 https://www.telerik.com/blogs/angular-basics-router-link-overview
+r9 https://dev.to/angular/reactive-forms-in-angular-350n
+r14 https://www.youtube.com/watch?v=QDWN4C7T-Ck
