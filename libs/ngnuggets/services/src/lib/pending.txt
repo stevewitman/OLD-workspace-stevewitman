@@ -1,23 +1,4 @@
-THURSDAY
-w23 https://www.youtube.com/watch?v=nRfezy9TgpY
-w23 https://medium.com/@anooprvarrier/angular-reading-data-from-json-file-using-httpclient-3c46ba1aaf22
-r0 https://www.youtube.com/watch?v=HT4GzcQtJNc
-r0 https://dev.to/guiseek/env-vars-with-angular-nx-26i9
-r3 https://www.youtube.com/watch?v=KlzLj0_JGqU
-r7 https://www.youtube.com/watch?v=ICUWX4nVFw4
-r7 https://www.youtube.com/watch?v=M39PAWttOWg
-r8 https://webrush.io/episodes/episode-193-localizing-docs-with-aristeidis-bampakos
-r8 https://www.youtube.com/watch?v=hvUhfuz0hxI
-r9 https://brunoelo.hashnode.dev/how-to-create-an-angular-library-or-package-and-publish-on-npm
-r9 https://www.youtube.com/watch?v=BlMhUSjnlJI
-r9 https://www.youtube.com/watch?v=WMxhT1HWkcA
-r10 https://www.youtube.com/watch?v=6dEl4n5MuBo
-r11 https://topenddevs.com/podcasts/adventures-in-angular/episodes/making-the-most-of-meetups-aia-351
-r15 https://www.youtube.com/watch?v=L-odCf4MfJc
-
-
-FRIDAY
-20th https://medium.com/@marklowg/how-to-unit-test-angular-ngrx-effects-ce5075e870a2
+https://medium.com/@marklowg/how-to-unit-test-angular-ngrx-effects-ce5075e870a2
 r19 https://dev.to/brihoum/how-i-optimized-my-angular-website-3fd0
 r https://www.telerik.com/blogs/angular-basics-tips-structuring-angular-project
 f9 https://www.youtube.com/watch?v=0IfTwAtL_fI
@@ -100,8 +81,30 @@ r0 https://www.youtube.com/watch?v=5V77yVzzv7A
 r0 https://www.youtube.com/watch?v=nPqPt-aFDso
 r2 https://dev.to/tonyhicks20/angular-two-way-binding-between-parent-and-child-components-16kl
 r6 https://www.youtube.com/watch?v=SEimlo7C-nc
-r8 https://webrush.io/episodes/episode-194-building-apps-for-teams-with-waldek-mastykarz
 r8 https://www.youtube.com/watch?v=SEimlo7C-nc
 r8 https://www.telerik.com/blogs/angular-basics-router-link-overview
 r9 https://dev.to/angular/reactive-forms-in-angular-350n
 r14 https://www.youtube.com/watch?v=QDWN4C7T-Ck
+
+FRIDAY
+r https://netbasal.com/a-new-way-to-set-inputs-on-angular-componentrefs-6214f95db63d
+r https://netbasal.com/a-new-method-for-retrieving-metadata-about-angular-components-b494351dd130
+r https://medium.com/@shaikhkamran959/data-sharing-using-services-in-angular-50c6f25ca633
+r https://adnane-lamghari.medium.com/manage-angular-page-titles-translation-d1384bbede86
+r12 https://www.youtube.com/watch?v=-TXnHyZW8Kw
+r18 https://kaleb-dalla.medium.com/rxjs-why-should-you-learn-it-721fcda7f431
+r17 https://medium.com/js-development-tidbits/view-encapsulation-7836e4425c71
+r21 https://www.youtube.com/watch?v=V3EOfERRHTg
+r https://www.youtube.com/watch?v=Syis2k_9ilc
+r https://topenddevs.com/podcasts/adventures-in-angular/episodes/async-angular-testing-and-introducing-ag-charts-aia-352
+f0 https://www.youtube.com/watch?v=C35aDpW8TwU
+f0 https://dev.to/pavankjadda/angular-url-state-management-with-query-params-or-route-params-3mcb
+f1 https://www.youtube.com/watch?v=VGuxPhRayT8
+f3 https://dev.to/manoj_004d/how-to-create-angular-chart-from-csv-data-52ed
+f3 https://www.youtube.com/watch?v=7UCZFl-sJlU
+f5 https://dev.to/arohiadhyaru/angular-resolver-a-core-tutorial-for-beginners-3a02
+f8 https://dev.to/angular/a-simpler-and-smaller-angular-starter-with-nglite-1ooh
+f8 https://dev.to/jrubzjeknf/angular-typed-forms-supercharged-1op
+f9 https://www.youtube.com/watch?v=pzgnBboBW0s
+f14 https://dev.to/grapecity/how-to-import-and-export-excel-xlsx-using-angular-531j
+f21 https://www.youtube.com/watch?v=G3AIr7fTAes

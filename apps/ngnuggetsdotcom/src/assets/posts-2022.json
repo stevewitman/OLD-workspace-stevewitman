@@ -34772,6 +34772,260 @@
   {
     "date": "2022-07-21",
     "dailyPosts": [
+      {
+        "slug": "2022-07-21-A",
+        "type": "video",
+        "duration": "54",
+        "title": "Angular V14 Property, Event, Two Way and One Way Data Binding - LIVE",
+        "url": "https://www.youtube.com/watch?v=nRfezy9TgpY",
+        "description": "",
+        "datePosted": "2022-07-21",
+        "dateSource": "2022-07-20",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "Leela Web Dev",
+        "authorUrl": "https://www.youtube.com/c/LeelaWebDev/videos",
+        "speakers": ["Leela Narasimha"],
+        "tags": ["Two-Way Data Binding", "One-Way Data Binding"]
+      },
+      {
+        "slug": "2022-07-21-B",
+        "type": "blog",
+        "title": "Angular — Reading data from JSON file using HttpClient",
+        "url": "https://medium.com/@anooprvarrier/angular-reading-data-from-json-file-using-httpclient-3c46ba1aaf22",
+        "description": "In this post, we will discuss on how to read data from a JSON file which is there locally in our assets folder within our repo. So without wasting much time let's start.",
+        "datePosted": "2022-07-21",
+        "dateSource": "2022-07-20",
+        "sourceSite": "Medium",
+        "sourceUrl": "https://medium.com/tag/angular/latest",
+        "authorName": "anoop r warrier",
+        "authorUrl": "https://medium.com/@anooprvarrier",
+        "speakers": ["Anoop R Warrier"],
+        "tags": ["HttpClient"]
+      },
+      {
+        "slug": "2022-07-21-C",
+        "type": "video",
+        "duration": "5",
+        "title": "Part 9: Angular 13 @ViewChild. How to use Examples and comparison against simple html / javascript.",
+        "url": "https://www.youtube.com/watch?v=HT4GzcQtJNc",
+        "description": "A Gentle introduction to use the @ViewChild decorator. Begin each example by comparing to simple HTML/JavaScript. How to use the Template Reference Variable in your HTML, and how to use this reference variable in the TypeScript code.",
+        "datePosted": "2022-07-21",
+        "dateSource": "2022-07-21",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "Software Nuggets",
+        "authorUrl": "https://www.youtube.com/c/SoftwareNuggets/videos",
+        "speakers": [],
+        "tags": ["@ViewChild", "Template Reference Variable"]
+      },
+      {
+        "slug": "2022-07-21-D",
+        "type": "video",
+        "duration": "6",
+        "title": "",
+        "url": "https://www.youtube.com/watch?v=KlzLj0_JGqU",
+        "description": "This is Part 6 (last part) of a series of videos on creating a chat app with Angular Material and Firebase Firestore Database. In this part, we'll fix a bug and prevent multiple chats from being created with the same users.",
+        "datePosted": "2022-07-21",
+        "dateSource": "2022-07-21",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "Zoaib Khan",
+        "authorUrl": "https://www.youtube.com/c/ZoaibKhan/videos",
+        "speakers": ["Zoaib Khan"],
+        "tags": ["Firebase", "AngularFire"]
+      },
+      {
+        "slug": "2022-07-21-E",
+        "type": "video",
+        "duration": "7",
+        "title": "Angular 13 Tutorial #11 Custom Directive",
+        "url": "https://www.youtube.com/watch?v=ICUWX4nVFw4",
+        "description": "In this video, We will discuss how to create custom directive in Angular with a practical demonstration",
+        "datePosted": "2022-07-21",
+        "dateSource": "2022-07-21",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "Tech Talks",
+        "authorUrl": "https://www.youtube.com/channel/UCqDzH0cMrTy9sRqeyH9auEQ/videos",
+        "speakers": [],
+        "tags": ["Directives", "Custom"]
+      },
+      {
+        "slug": "2022-07-21-F",
+        "type": "video",
+        "duration": "82",
+        "title": "Testing Angular - How to Start Loving Writing Tests Again",
+        "url": "https://www.youtube.com/watch?v=M39PAWttOWg",
+        "description": "In this session, Alex goes over different types of testing, the whys and the hows - testing Angular Components & Services.",
+        "datePosted": "2022-07-21",
+        "dateSource": "2022-07-21",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "Angular Kenya",
+        "authorUrl": "https://www.youtube.com/c/AngularKenya/videos",
+        "speakers": ["Alex Okrushko"],
+        "tags": ["Testing"]
+      },
+      {
+        "slug": "2022-07-21-G",
+        "type": "podcast",
+        "duration": "25",
+        "title": "Episode 193: Localizing Docs with Aristeidis Bampakos",
+        "url": "https://webrush.io/episodes/episode-193-localizing-docs-with-aristeidis-bampakos",
+        "description": "Aristeidis Bampakos joins us to talk about translating documentation into other languages, how to deal with images, whether Google Translate is any help, and if crowd sourcing the problem works?",
+        "datePosted": "2022-07-21",
+        "dateSource": "2022-07-21",
+        "sourceSite": "Web Rush",
+        "sourceUrl": "https://webrush.io",
+        "authorName": "",
+        "authorUrl": "",
+        "speakers": ["Aristeidis Bampakos"],
+        "tags": ["Internationalization"]
+      },
+      {
+        "slug": "2022-07-21-H",
+        "type": "video",
+        "duration": "11",
+        "title": "Angular 13 Tutorial #12 @Input Decorator",
+        "url": "https://www.youtube.com/watch?v=hvUhfuz0hxI",
+        "description": "In this video, we will discuss - what is @Input Decorator and passing Data From Parent To Child Component",
+        "datePosted": "2022-07-21",
+        "dateSource": "2022-07-21",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "Tech Talks ",
+        "authorUrl": "https://www.youtube.com/channel/UCqDzH0cMrTy9sRqeyH9auEQ/videos",
+        "speakers": [],
+        "tags": ["@Input"]
+      },
+      {
+        "slug": "2022-07-21-J",
+        "type": "video",
+        "duration": "63",
+        "title": "Angular and Firebase Crash Course | Create a Note Taking Application",
+        "url": "https://www.youtube.com/watch?v=BlMhUSjnlJI",
+        "description": "In this crash course, we created a Note Taking Application with full CRUD functionality using the Firestore database. Some of the things we did in this crash course include:\nGetting data from the Firestore database.\nMaking use of Modular imports from the Firebase API\nImplementing Reactive forms.\nQuerying the Firestore database\nCreating services and injecting Angular services, etc.",
+        "datePosted": "2022-07-21",
+        "dateSource": "2022-07-21",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "The Code Angle",
+        "authorUrl": "https://www.youtube.com/c/TheCodeAngle/videos",
+        "speakers": ["Deji Adesoga"],
+        "tags": ["Firebase"]
+      },
+      {
+        "slug": "2022-07-21-K",
+        "type": "video",
+        "duration": "8",
+        "title": "Creating a Basic Form in Angular Using the ngModel Directive - Relearning Angular Part 16",
+        "url": "https://www.youtube.com/watch?v=WMxhT1HWkcA",
+        "description": "Hey everyone, today we are going to create a basic form in Angular and tie the data to the component class using ngModel",
+        "datePosted": "2022-07-21",
+        "dateSource": "2022-07-21",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "Coding Under Pressure",
+        "authorUrl": "https://www.youtube.com/channel/UCdGYTnk-Ll4S6yOsYwU8D2w/videos",
+        "speakers": [],
+        "tags": ["Forms", "ngModel"]
+      },
+      {
+        "slug": "2022-07-21-L",
+        "type": "video",
+        "duration": "56",
+        "title": "JS Girl in a .NET World: Angular App Wrapped in a.NET MAUI Blazor Hybrid App!",
+        "url": "https://www.youtube.com/watch?v=6dEl4n5MuBo",
+        "description": "Let's chat about .NET MAUI Blazor Hybrid apps. More precisely, Alyssa will make a brand new Angular app and practice (along with anyone who wants to give this a try) wrapping it in a .NET MAUI Blazor Hybrid App. Easy, right?",
+        "datePosted": "2022-07-21",
+        "dateSource": "2022-07-21",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "Progress Telerik",
+        "authorUrl": "https://www.youtube.com/c/telerik/videos",
+        "speakers": ["Alyssa Nicoll"],
+        "tags": []
+      },
+      {
+        "slug": "2022-07-21-M",
+        "type": "podcast",
+        "duration": "28",
+        "title": "Making the Most of Meetups - AiA 351",
+        "url": "https://topenddevs.com/podcasts/adventures-in-angular/episodes/making-the-most-of-meetups-aia-351",
+        "description": "Meetups are a remarkably easy and convenient way to connect and network with others.  Today on the show, Charles shares his various strategies on how to make the most of Meetups, whether to network to find a better job, learn something new, collaborate with others, get counsel about your career or current work problems, or simply enjoy the human connection and community with others.",
+        "datePosted": "2022-07-21",
+        "dateSource": "2022-07-21",
+        "sourceSite": "DevChat.tv",
+        "sourceUrl": "https://adventuresinangular.com",
+        "authorName": "Adventures In Angular",
+        "authorUrl": "https://devchat.tv/show/adventures-in-angular/",
+        "speakers": [],
+        "tags": ["Community"]
+      },
+      {
+        "slug": "2022-07-21-N",
+        "type": "video",
+        "duration": "11",
+        "title": "Typed Forms in Angular",
+        "url": "https://www.youtube.com/watch?v=L-odCf4MfJc",
+        "description": "Welcome to another new video all where we're talking about Typed Forms in Angular. Our very own Dylan Hunn shares the details! Are you already using Typed Forms in your applications? Let us know in the comments down below.",
+        "datePosted": "2022-07-21",
+        "dateSource": "2022-07-21",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "Angular",
+        "authorUrl": "https://www.youtube.com/c/Angular/videos",
+        "speakers": ["Dylan Hunn"],
+        "tags": ["Forms", "Typed Forms"]
+      }
+    ]
+  },
+  {
+    "date": "2022-07-22",
+    "dailyPosts": [
+      
+    ]
+  },
+  {
+    "date": "2022-07-23",
+    "dailyPosts": [
+      
+    ]
+  },
+  {
+    "date": "2022-07-24",
+    "dailyPosts": [
+      
+    ]
+  },
+  {
+    "date": "2022-07-25",
+    "dailyPosts": [
+      
+    ]
+  },
+  {
+    "date": "2022-07-26",
+    "dailyPosts": [
+      
+    ]
+  },
+  {
+    "date": "2022-07-27",
+    "dailyPosts": [
+      
+    ]
+  },
+  {
+    "date": "2022-07-28",
+    "dailyPosts": [
+      
+    ]
+  },
+  {
+    "date": "2022-07-29",
+    "dailyPosts": [
       
     ]
   }
