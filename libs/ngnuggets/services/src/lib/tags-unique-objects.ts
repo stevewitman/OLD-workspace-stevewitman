@@ -50,7 +50,7 @@ export const tags = [
   { cat: 'Angular', tag: ':host-context' },
   { cat: 'Angular', tag: 'Hot Module Replacement' },
   { cat: 'Angular', tag: 'InjectionToken' },
-  { cat: 'Angular', tag: 'Internationalization', rel: ['i18n'] },
+  { cat: 'Angular', tag: 'Internationalization' },
   { cat: 'Angular', tag: 'Interpolation' },
   { cat: 'Angular', tag: 'Ivy' },
   { cat: 'Angular', tag: 'Lazy Loading' },

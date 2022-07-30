@@ -1,20 +1,10 @@
-https://medium.com/@marklowg/how-to-unit-test-angular-ngrx-effects-ce5075e870a2
-r19 https://dev.to/brihoum/how-i-optimized-my-angular-website-3fd0
-r https://www.telerik.com/blogs/angular-basics-tips-structuring-angular-project
-f9 https://www.youtube.com/watch?v=0IfTwAtL_fI
-f9 https://www.youtube.com/watch?v=RVascfQ9X8U
-f9 https://www.youtube.com/watch?v=E9RDS7lcQns
-f10 https://www.youtube.com/watch?v=UyWDqZODprk
-f21 https://www.youtube.com/watch?v=vXpTMZpgntU
 
-SATURDAY
-f https://websolutionstuff.medium.com/angular-13-crop-image-before-upload-with-preview-d650ea0f7664
-f https://medium.com/enappd/complete-flow-of-location-selection-in-agm-maps-based-ionic-5-application-28f94442f66c
-f https://ashishgopalhattimare.medium.com/ngrx-solution-to-state-management-using-angular-344889572c18
-f https://levelup.gitconnected.com/angular-dynamic-language-i18n-l10n-300d76c31b17
-s6 https://www.youtube.com/watch?v=DNN5T13jg3w
-s8 https://medium.com/@diari.ismail/how-to-combine-angular-with-a-legacy-asp-net-web-application-b9760adc1bfc
-s11 https://www.youtube.com/watch?v=hbgR1xV63QI
+f 
+f 
+f 
+s6 
+s8 
+s11 
 
 SUNDAY
 s21 https://www.youtube.com/watch?v=zwgFgBH-y9k
@@ -108,3 +98,12 @@ f8 https://dev.to/jrubzjeknf/angular-typed-forms-supercharged-1op
 f9 https://www.youtube.com/watch?v=pzgnBboBW0s
 f14 https://dev.to/grapecity/how-to-import-and-export-excel-xlsx-using-angular-531j
 f21 https://www.youtube.com/watch?v=G3AIr7fTAes
+
+SATURDAY 30
+27th https://javascript.plainenglish.io/retry-rxjs-operator-4aab1fbb4347
+f https://www.youtube.com/watch?v=giGaTjKk6as
+s8 https://www.youtube.com/watch?v=ORMlpzOFWuQ
+s8 https://muhammadawaisshaikh.hashnode.dev/how-to-resolve-material-icons-with-a-cool-resolver
+s9 https://www.youtube.com/watch?v=SPx0Od7y0q4
+s9 https://www.youtube.com/watch?v=eo1pisZHv1A
+s10 https://www.youtube.com/watch?v=qv07isP7aZQ

@@ -55,7 +55,7 @@
         <span *ngIf="post.duration"> - {{ post.duration }}m</span>
       </span>
     </div>
-    <div class="likes">
+    <!-- <div class="likes">
       <button
         mat-button
         class="more-button"
@@ -67,7 +67,7 @@
           <mat-icon class="likes-icon">star_border</mat-icon>
         </span>
       </button>
-    </div>
+    </div> -->
     <!-- if logged in ... -->
     <!-- <div class="likes" [routerLink]="['/post', post.slug]">
       <button
@@ -88,7 +88,7 @@
         [routerLink]="['/post', post.slug]"
         routerLinkActive="router-link-active"
       >
-        MORE<mat-icon class="details-icon">more_horiz</mat-icon>
+        <mat-icon class="details-icon">more_horiz</mat-icon>
       </button>
     </div>
   </div>

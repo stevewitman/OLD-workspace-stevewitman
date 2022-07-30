@@ -2681,7 +2681,7 @@
         "authorName": "Eugene Pavliy",
         "authorUrl": "https://medium.com/@epavliy",
         "speakers": ["Eugene Pavliy"],
-        "tags": ["Internationalization", "i18n", "Transloco"]
+        "tags": ["Internationalization", "Transloco"]
       }
     ]
   },
@@ -2826,7 +2826,7 @@
         "authorName": "Daniel Schreiber",
         "authorUrl": "https://dev.to/danielsc",
         "speakers": ["Daniel Schreiber"],
-        "tags": ["Internationalization", "i18n"]
+        "tags": ["Internationalization"]
       },
       {
         "slug": "2022-01-20-C",
@@ -3458,7 +3458,7 @@
         "authorName": "Hussain Ujjainwala",
         "authorUrl": "https://medium.com/@hujjainwala",
         "speakers": ["Hussain Ujjainwala"],
-        "tags": ["ngx-translate", "Internationalization", "i18n"]
+        "tags": ["ngx-translate", "Internationalization"]
       }
     ]
   },
@@ -4014,7 +4014,7 @@
         "authorName": "Mic B.",
         "authorUrl": "https://micbdev.medium.com",
         "speakers": [],
-        "tags": ["ngx-translate", "Internationalization", "i18n"]
+        "tags": ["ngx-translate", "Internationalization"]
       },
       {
         "slug": "2022-01-26-E",
@@ -4797,7 +4797,7 @@
         "authorName": "Code with Sloba",
         "authorUrl": "https://www.youtube.com/c/SlobodanGajic/videos",
         "speakers": ["Slobodan Gajic"],
-        "tags": ["Internationalization", "i18n"]
+        "tags": ["Internationalization"]
       },
       {
         "slug": "2022-01-31-C",
@@ -8162,7 +8162,7 @@
         "authorName": "Sam",
         "authorUrl": "https://eraoftech.medium.com",
         "speakers": [],
-        "tags": ["Internationalization", "i18n"]
+        "tags": ["Internationalization"]
       },
       {
         "slug": "2022-02-19-H",
@@ -33110,7 +33110,7 @@
         "authorName": "Ayyash",
         "authorUrl": "https://dev.to/ayyash",
         "speakers": [],
-        "tags": ["Internationalization", "i18n"]
+        "tags": ["Internationalization"]
       },
       {
         "slug": "2022-07-11-F",
@@ -34984,13 +34984,212 @@
   {
     "date": "2022-07-22",
     "dailyPosts": [
-      
+      {
+        "slug": "2022-07-22-A",
+        "type": "blog",
+        "title": "How I optimized my Angular website",
+        "url": "https://dev.to/brihoum/how-i-optimized-my-angular-website-3fd0",
+        "description": "Building application/websites with Angular always come with a downside: the bundle size. The latter has a direct impact on the loading speed & the user experience of our project.",
+        "datePosted": "2022-07-22",
+        "dateSource": "2022-07-21",
+        "sourceSite": "DEV Community",
+        "sourceUrl": "https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc",
+        "authorName": "Abdjalil Brihoum",
+        "authorUrl": "https://dev.to/brihoum",
+        "speakers": ["Abdjalil Brihoum"],
+        "tags": ["Performance"]
+      },
+      {
+        "slug": "2022-07-22-B",
+        "type": "blog",
+        "title": "Angular Basics: Tips for Structuring Your Angular Project",
+        "url": "https://www.telerik.com/blogs/angular-basics-tips-structuring-angular-project",
+        "description": "Your Angular app structure will change depending on the scenario, but these tips will help get you started right every time.",
+        "datePosted": "2022-07-22",
+        "dateSource": "2022-07-22",
+        "sourceSite": "Progress Telerik Blog",
+        "sourceUrl": "https://www.telerik.com/blogs/web-angular",
+        "authorName": "Dany Paredes",
+        "authorUrl": "https://www.telerik.com/blogs/author/dany-paredes",
+        "speakers": ["Dany Paredes"],
+        "tags": ["Architecture"]
+      },
+      {
+        "slug": "2022-07-22-C",
+        "type": "video",
+        "duration": "28",
+        "title": "Testing RxJS observables effectively | Shai Reznik | EnterpriseNG 2021",
+        "url": "https://www.youtube.com/watch?v=0IfTwAtL_fI",
+        "description": "In this session, I will show you better tools and strategies for testing RxJS Observables, which are much easier and more intuitive. As a result, you will increase your confidence in your code correctness and will be able to refactor parts of it with ease without feeling confused or stuck.",
+        "datePosted": "2022-07-22",
+        "dateSource": "2022-07-22",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "ng-conf",
+        "authorUrl": "https://www.youtube.com/c/ngconfonline/videos",
+        "speakers": ["Shai Reznik"],
+        "tags": ["Testing", "RxJS", "Observables"]
+      },
+      {
+        "slug": "2022-07-22-D",
+        "type": "video",
+        "duration": "140",
+        "title": "Angular Community Meetup | June 28th, 2022 | Carl Bergenhem, Jordan Powell, & Gleb Bahmutov",
+        "url": "https://www.youtube.com/watch?v=RVascfQ9X8U",
+        "description": " This month's Angular Community Meetup featured:\nCarl Bergenhem - Developing a Product Sense\nJordan Powell - Multi-Domain\nGleb Bahmutov - HTTP/1, HTTP/2, HTTP/3 ...\n\nThe Angular Community Meetup is an online monthly meetup sponsored by ng-conf.",
+        "datePosted": "2022-07-22",
+        "dateSource": "2022-07-22",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "ng-conf",
+        "authorUrl": "https://www.youtube.com/c/ngconfonline/videos",
+        "speakers": ["Carl Bergenhem", "Jordan Powell", "Gleb Bahmutov"],
+        "tags": []
+      },
+      {
+        "slug": "2022-07-22-E",
+        "type": "video",
+        "duration": "133",
+        "title": "Angular Community Meetup | July 12, 2022 | Lightning Talks Lollapolooza",
+        "url": "https://www.youtube.com/watch?v=E9RDS7lcQns",
+        "description": "Chris Perko | Conditional validators in Reactive Forms\nMarko Stanimirovic | NgRx Action Group Creator\nMarkus Ingvarsson | A boost of dependency injection\nAdy Ngom | 3 Quick Tips on How to Learn and Understand Angular\nKamil Chlebek | How to lazily load standalone component & configure it by using Injector?\nNicolas Ticona Valdivia | Design Principles in Angular\nYaakov Chaikin | Replace ::ng-deep For Good!\nJon Warrington | RxJS and Lego Art\nMini Bhati | Introduction to Standalone PDC\nAzizi Yazit | Continuous integration with Trunk-based & Feature Toggle\nJonathan Garvey | Tools of the Trade: Better software through better dev tools\nAlfredo Perez | Making Atomic the NgRx Entity",
+        "datePosted": "2022-07-22",
+        "dateSource": "2022-07-22",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "ng-conf",
+        "authorUrl": "https://www.youtube.com/c/ngconfonline/videos",
+        "speakers": ["Chris Perko", "Marko Stanimirovic", "Markus Ingvarsson", "Ady Ngom", "Kamil Chlebek", "Nicolas Ticona Valdivia", "Yaakov Chaikin", "Jon Warrington", "Mini Bhati", "Azizi Yazit", "Jonathan Garvey", "Alfredo Perez"],
+        "tags": []
+      },
+      {
+        "slug": "2022-07-22-F",
+        "type": "video",
+        "duration": "5",
+        "title": "Angular For Beginners - 6. Template Reference Variable",
+        "url": "https://www.youtube.com/watch?v=UyWDqZODprk",
+        "description": "",
+        "datePosted": "2022-07-22",
+        "dateSource": "2022-07-22",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "Teddy Smith",
+        "authorUrl": "https://www.youtube.com/c/TeddySmithNC",
+        "speakers": ["Teddy Smith"],
+        "tags": ["Template Reference Variable"]
+      }
     ]
   },
   {
     "date": "2022-07-23",
     "dailyPosts": [
-      
+      {
+        "slug": "2022-07-23-A",
+        "type": "blog",
+        "title": "Angular 13 Crop Image Before Upload With Preview",
+        "url": "https://websolutionstuff.medium.com/angular-13-crop-image-before-upload-with-preview-d650ea0f7664",
+        "description": "In this article, we will see the Angular 13 crop image before uploading with a preview. we will give you a simple example of an angular 12/13 image cropper example. For image cropping, we are using the ngx-image-cropper npm package. it will provide you Cropping, Zooming, Scaling, and Preview functionality while uploading time.",
+        "datePosted": "2022-07-23",
+        "dateSource": "2022-07-21",
+        "sourceSite": "Medium",
+        "sourceUrl": "https://medium.com/tag/angular/latest",
+        "authorName": "Websolutionstuff",
+        "authorUrl": "https://websolutionstuff.medium.com",
+        "speakers": [],
+        "tags": []
+      },
+      {
+        "slug": "2022-07-23-B",
+        "type": "blog",
+        "title": "Location Selection in AGM maps based on Ionic 5 Angular App",
+        "url": "https://medium.com/enappd/complete-flow-of-location-selection-in-agm-maps-based-ionic-5-application-28f94442f66c",
+        "description": "In this tutorial, we will be going through the complete solution for handling the location selection in the Ionic 5 Angular application. When you think of any taxi booking application like Uber — these applications have the auto-complete location feature — that will suggest you the address when you type one or more characters.",
+        "datePosted": "2022-07-23",
+        "dateSource": "2022-07-22",
+        "sourceSite": "Medium",
+        "sourceUrl": "https://medium.com/tag/angular/latest",
+        "authorName": "Vaibhav gehani",
+        "authorUrl": "https://medium.com/@vgehani90",
+        "speakers": ["Vaibhav Gehani"],
+        "tags": ["Maps", "Google Maps", "Ionic"]
+      },
+      {
+        "slug": "2022-07-23-C",
+        "type": "blog",
+        "title": "NgRx : Solution to State Management using Angular",
+        "url": "https://ashishgopalhattimare.medium.com/ngrx-solution-to-state-management-using-angular-344889572c18",
+        "description": "What is NgRx? NgRx is a Reactive State Management for Angular inspired by Redux. It provides a perfect library support for the following features...",
+        "datePosted": "2022-07-23",
+        "dateSource": "2022-07-22",
+        "sourceSite": "Medium",
+        "sourceUrl": "https://medium.com/tag/angular/latest",
+        "authorName": "Ashish Gopal Hattimare",
+        "authorUrl": "https://ashishgopalhattimare.medium.com",
+        "speakers": ["Ashish Gopal Hattimare"],
+        "tags": ["NgRx"]
+      },
+      {
+        "slug": "2022-07-23-D",
+        "type": "blog",
+        "title": "Angular — Dynamic Language (i18n and l10n)",
+        "url": "https://levelup.gitconnected.com/angular-dynamic-language-i18n-l10n-300d76c31b17",
+        "description": "Learn how to run your application with more than one language and bring scalability without borders!\n(photo: by Syd Wachs on Unsplash)",
+        "datePosted": "2022-07-23",
+        "dateSource": "2022-07-22",
+        "sourceSite": "Medium",
+        "sourceUrl": "https://medium.com/tag/angular/latest",
+        "authorName": "Lucas de Brito Silva",
+        "authorUrl": "https://lucasbsilva29.medium.com",
+        "speakers": ["Lucas de Brito Silva"],
+        "tags": ["Internationalization"]
+      },
+      {
+        "slug": "2022-07-23-E",
+        "type": "video",
+        "duration": "9",
+        "title": "Reponsive Sidemenu in Angular",
+        "url": "https://www.youtube.com/watch?v=DNN5T13jg3w",
+        "description": "If you've never created a responsive sidebar or side menu from scratch in Angular, it might be tricky at first. One way of solving the responsiveness could be to utilize a variable to keep track of the menu's open state. This is something that easily can be achievable with Angular and HTML+SCSS using class toggling.",
+        "datePosted": "2022-07-23",
+        "dateSource": "2022-07-23",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "Sebastian Persson",
+        "authorUrl": "https://www.youtube.com/channel/UChACd5wGjvkmgTR63YW4HGQ",
+        "speakers": ["Sebastian Persson"],
+        "tags": ["Responsive", "Sidenav"]
+      },
+      {
+        "slug": "2022-07-23-F",
+        "type": "blog",
+        "title": "How-To: Combine Angular with a legacy Asp.Net Web application",
+        "url": "https://medium.com/@diari.ismail/how-to-combine-angular-with-a-legacy-asp-net-web-application-b9760adc1bfc",
+        "description": "Through this article, I want to share with you an easy way to coexist angular side by side with an existing Asp.Net Web application.",
+        "datePosted": "2022-07-23",
+        "dateSource": "2022-07-23",
+        "sourceSite": "Medium",
+        "sourceUrl": "https://medium.com/tag/angular/latest",
+        "authorName": "Dieri Ismail",
+        "authorUrl": "https://medium.com/@diari.ismail",
+        "speakers": ["Dieri Ismail"],
+        "tags": []
+      },
+      {
+        "slug": "2022-07-23-G",
+        "type": "video",
+        "duration": "18",
+        "title": "Part-1 | Angular(v14) JWT Access Token Authentication & Refresh Token",
+        "url": "https://www.youtube.com/watch?v=hbgR1xV63QI",
+        "description": "Video Summary:, What JSON Web Token, Creating angular 14 application, Configure bootstrap, Create Home component, Create Feature Module like 'Auth' and Component like 'Login', NestJS(NodeJS app) GitHub documentation for jwt API",
+        "datePosted": "2022-07-23",
+        "dateSource": "2022-07-23",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "Naveen Bommidi Tech Seeker",
+        "authorUrl": "https://www.youtube.com/c/NaveenTechSeeker/videos",
+        "speakers": ["Naveen Bommidi"],
+        "tags": ["Auth", "JWT"]
+      }
     ]
   },
   {
