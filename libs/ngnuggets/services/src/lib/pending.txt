@@ -1,34 +1,4 @@
-
-f 
-f 
-f 
-s6 
-s8 
-s11 
-
-SUNDAY
-s21 https://www.youtube.com/watch?v=zwgFgBH-y9k
-u1 https://www.youtube.com/watch?v=a4vBljyLPmI
-u2 https://dev.to/giladmaayan/file-upload-in-angular-13-5829
-u9 https://www.youtube.com/watch?v=PDMd35Uamwg
-u23 https://dev.to/rachgrey/how-nativescript-angular-helps-to-build-truly-native-mobile-apps-oek
-
-
-MONDAY
-m0 https://www.youtube.com/watch?v=AEr80ERLgIU
-m0 https://www.youtube.com/watch?v=rvnitXFB-Xo
-m1 https://dev.to/ayyash/serving-the-same-angular-build-with-different-urls-2aa0
-m6 https://www.youtube.com/watch?v=w_q8ruSfEdw
-m8 ang exp https://www.spreaker.com/user/14532324/s2e26-ask-me-anything-with-jason-warner?utm_campaign=episode-title&utm_medium=app&utm_source=widget
-m8 https://www.youtube.com/watch?v=h_IkU-52lrM
-m9 https://www.youtube.com/watch?v=4lNUfL4u9g4
-m9 https://dev.to/bitovi/always-know-when-to-use-share-vs-sharereplay-2jdf
-m10 hash https://blog.jonandonicastelo.com/reactive-forms-template-driven-forms
-m14 https://www.youtube.com/watch?v=csqwoFWgnjc
-m21 https://www.youtube.com/watch?v=gWari3rKN9Y
-
-TUESDAY
-u https://medium.com/@Programming_Discussion/why-i-chose-angular-to-build-a-url-shortener-1ce01b44da59
+https://medium.com/@Programming_Discussion/why-i-chose-angular-to-build-a-url-shortener-1ce01b44da59
 u https://medium.com/@jaydeepvpatil225/signalr-introduction-and-implementation-using-the-net-core-6-web-api-and-angular-14-b4cfd51a6fac
 m https://medium.com/@epavliy/css-isolation-with-angular-micro-frontends-eb3bd8261bb9
 m https://javascript.plainenglish.io/content-projection-in-angular-with-ng-content-b8119f3f7360
