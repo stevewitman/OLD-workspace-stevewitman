@@ -1,15 +1,13 @@
-https://dev.to/rainerhahnekamp/ng-news-episode-2229-271m
-t https://www.youtube.com/watch?v=WGCWisXCqdY
-w0 https://www.youtube.com/watch?v=C2_hw8m5EiU
-w6 https://www.youtube.com/watch?v=Byttv3YpjQk
-w8 https://dev.to/manoj_004d/create-chart-with-data-from-api-using-httpclient-module-in-angular-2gn5
-w8 https://www.youtube.com/watch?v=CsdrUt6p6UA
-w9 https://www.youtube.com/watch?v=YU31ASbWKLE
-w9 https://dev.to/oktadev/protect-your-angular-app-from-cross-site-scripting-26d4
-w11 https://dev.to/blove/ag-grid-cell-rendering-pipeline-with-typescript-c5c
-w13 https://www.youtube.com/watch?v=UNO7NRxhd40
-w https://zmushegh.medium.com/angular-14-new-feature-typed-forms-71b0a44673db
-w16 https://dev.to/mmuscat/hostlistener-output--2dhe
+
+w6 
+w8 
+w8 
+w9 
+w9 
+w11 
+w13 
+w 
+w16 
 
 THURSDAY
 t https://medium.com/@Sendbird/how-to-build-an-angular-chat-app-af7a403cba89

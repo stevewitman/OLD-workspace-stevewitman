@@ -221,6 +221,7 @@ export const tags = [
   { cat: 'Misc', tag: 'Web Components' },
   { cat: 'Misc', tag: 'Web Sockets' },
   { cat: 'Misc', tag: 'Web Workers' },
+  { cat: 'Misc', tag: 'XSS' },
   { cat: 'Misc', tag: 'git' },
   { cat: 'Misc', tag: 'iframe' },
 
@@ -317,6 +318,7 @@ export const tags = [
   { cat: 'RxJS', tag: 'exhaustAll' },
   { cat: 'RxJS', tag: 'exhaustMap' },
   { cat: 'RxJS', tag: 'expand' },
+  { cat: 'RxJS', tag: 'filter' },
   { cat: 'RxJS', tag: 'finalize' },
   { cat: 'RxJS', tag: 'first' },
   { cat: 'RxJS', tag: 'forkJoin' },
@@ -382,6 +384,7 @@ export const tags = [
   { cat: '3rd Party', tag: '.Net' },
   { cat: '3rd Party', tag: 'NextJS' },
   { cat: '3rd Party', tag: 'NGXS' },
+  { cat: '3rd Party', tag: 'NPM' },
   { cat: '3rd Party', tag: 'Nx' },
   { cat: '3rd Party', tag: 'OpenLayers' },
   { cat: '3rd Party', tag: 'Prettier' },

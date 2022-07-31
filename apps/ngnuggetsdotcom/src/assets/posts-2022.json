@@ -336,7 +336,7 @@
         "authorName": "Akilesh Rao",
         "authorUrl": "https://akileshrao19.medium.com",
         "speakers": ["Akilesh Rao"],
-        "tags": ["Libraries"]
+        "tags": ["Libraries", "NPM"]
       },
       {
         "slug": "2022-01-03-J",
@@ -1358,7 +1358,7 @@
         "sourceSite": "YouTube",
         "sourceUrl": "https://www.youtube.com/results?search_query=angular",
         "authorName": "Iuliana Marin",
-        "authorUrl": "",
+        "authorUrl": "https://www.youtube.com/channel/UCfgNo5EJzwXl5V4Aq72s61w/videos",
         "speakers": ["Iuliana Marin"],
         "tags": ["Components"]
       },
@@ -1787,7 +1787,7 @@
         "dateSource": "2022-01-13",
         "sourceSite": "Medium",
         "sourceUrl": "https://medium.com/tag/angular/latest",
-        "authorName": "kelly woo",
+        "authorName": "Kelly Woo",
         "authorUrl": "https://kelly-kh-woo.medium.com",
         "speakers": ["Kelly Woo"],
         "tags": ["Getters/Setters", "@Input", "Data Transfer"]
@@ -1886,7 +1886,7 @@
         "authorName": "Kursat Coskun",
         "authorUrl": "https://kursatcoskun.medium.com",
         "speakers": ["Kursat Coskun"],
-        "tags": ["Libraries", "Storybook"]
+        "tags": ["Libraries", "Storybook", "NPM"]
       },
       {
         "slug": "2022-01-14-E",
@@ -2601,7 +2601,7 @@
         "sourceSite": "YouTube",
         "sourceUrl": "https://www.youtube.com/results?search_query=angular",
         "authorName": "codeWithAmi",
-        "authorUrl": "",
+        "authorUrl": "https://www.youtube.com/c/codeWithAmi/videos",
         "speakers": [],
         "tags": ["Directives", "ngIf", "Custom"]
       },
@@ -4340,7 +4340,7 @@
         "dateSource": "2022-01-27",
         "sourceSite": "Medium",
         "sourceUrl": "https://medium.com/tag/angular/latest",
-        "authorName": "lorenzo di giacomo",
+        "authorName": "Lorenzo Di Giacomo",
         "authorUrl": "https://medium.com/@morrys",
         "speakers": ["Lorenzo Di Giacomo"],
         "tags": ["TypeScript"]
@@ -4712,7 +4712,7 @@
         "dateSource": "2022-01-30",
         "sourceSite": "Medium",
         "sourceUrl": "https://medium.com/tag/angular/latest",
-        "authorName": "chebbi lamis",
+        "authorName": "Chebbi Lamis",
         "authorUrl": "https://chebbi-lamis.medium.com",
         "speakers": ["Chebbi Lamis"],
         "tags": ["Auth", "Auth0"]
@@ -5305,7 +5305,7 @@
         "authorName": "Benjamin Perney",
         "authorUrl": "https://medium.com/@benjperney",
         "speakers": ["Benjamin Perney"],
-        "tags": ["Libraries"]
+        "tags": ["Libraries", "NPM"]
       },
       {
         "slug": "2022-02-03-B",
@@ -6088,7 +6088,7 @@
         "dateSource": "2022-02-08",
         "sourceSite": "Medium",
         "sourceUrl": "https://medium.com/tag/angular/latest",
-        "authorName": "kelly woo",
+        "authorName": "Kelly Woo",
         "authorUrl": "https://kelly-kh-woo.medium.com",
         "speakers": ["Kelly Woo"],
         "tags": ["RxJS"]
@@ -6104,7 +6104,7 @@
         "sourceSite": "Medium",
         "sourceUrl": "https://medium.com/tag/angular/latest",
         "authorName": "Chenpeleg",
-        "authorUrl": "",
+        "authorUrl": "https://medium.com/@chenpeleg",
         "speakers": ["Chen Peleg"],
         "tags": ["Update"]
       },
@@ -6630,7 +6630,7 @@
         "dateSource": "2022-02-10",
         "sourceSite": "Medium",
         "sourceUrl": "https://medium.com/tag/angular/latest",
-        "authorName": "lavanya k",
+        "authorName": "Lavanya K",
         "authorUrl": "https://medium.com/@lavanya.kakimallaiah",
         "speakers": [],
         "tags": ["@Input", "@Output", "Data Transfer"]
@@ -6971,7 +6971,7 @@
         "sourceSite": "DEV Community",
         "sourceUrl": "https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc",
         "authorName": "Jonathan Gamble",
-        "authorUrl": "",
+        "authorUrl": "https://dev.to/jdgamble555",
         "speakers": ["Jonathan Gamble"],
         "tags": ["Angular Universal"]
       },
@@ -7779,7 +7779,7 @@
         "dateSource": "2022-02-17",
         "sourceSite": "Medium",
         "sourceUrl": "https://medium.com/tag/angular/latest",
-        "authorName": "kelly woo",
+        "authorName": "Kelly Woo",
         "authorUrl": "https://kelly-kh-woo.medium.com",
         "speakers": ["Kelly Woo"],
         "tags": ["RxJS"]
@@ -7826,7 +7826,7 @@
         "dateSource": "2022-02-17",
         "sourceSite": "YouTube",
         "sourceUrl": "https://www.youtube.com/results?search_query=angular",
-        "authorName": "mahmoud tamer",
+        "authorName": "Mahmoud Tamer",
         "authorUrl": "https://www.youtube.com/channel/UCIdJ8_mbH2twvEepJG7e2Qw/videos",
         "speakers": ["Mahmoud Tamer"],
         "tags": ["Nx", "NestJS", "Auth", "Pipes"]
@@ -8058,21 +8058,6 @@
   {
     "date": "2022-02-19",
     "dailyPosts": [
-      {
-        "slug": "2022-02-19-A",
-        "type": "blog",
-        "title": "Libshare - Curate & Share Your favorite JavaScript Libraries!",
-        "url": "https://dev.to/adisreyaj/libshare-curate-share-your-favorite-javascript-libraries-3m5h",
-        "description": "Libshare helps you curate and share your favorite NPM libraries with the community. Showcase all the awesome libraries that you used in your side project and give them visibility. Made for the ♥ of open-source.",
-        "datePosted": "2022-02-19",
-        "dateSource": "2022-02-18",
-        "sourceSite": "DEV Community",
-        "sourceUrl": "https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc",
-        "authorName": "Adithya Sreyaj",
-        "authorUrl": "https://dev.to/adisreyaj",
-        "speakers": ["Adithya Sreyaj"],
-        "tags": ["Libraries"]
-      },
       {
         "slug": "2022-02-19-B",
         "type": "blog",
@@ -8559,7 +8544,7 @@
         "dateSource": "2022-02-21",
         "sourceSite": "halodoc",
         "sourceUrl": "https://blogs.halodoc.io",
-        "authorName": "",
+        "authorName": "halodoc",
         "authorUrl": "https://blogs.halodoc.io/tag/angular-2-2/",
         "speakers": [],
         "tags": ["Change Detection"]
@@ -10833,7 +10818,7 @@
         "dateSource": "2022-03-05",
         "sourceSite": "Medium",
         "sourceUrl": "https://medium.com/tag/angular/latest",
-        "authorName": "prathamesh karangutkar",
+        "authorName": "Prathamesh Karangutkar",
         "authorUrl": "https://medium.com/@prathameshk73",
         "speakers": ["Prathamesh Karangutkar"],
         "tags": ["Security"]
@@ -11264,7 +11249,7 @@
         "dateSource": "2022-03-08",
         "sourceSite": "Medium",
         "sourceUrl": "https://medium.com/tag/angular/latest",
-        "authorName": "d gerbede",
+        "authorName": "D Gerbede",
         "authorUrl": "https://medium.com/@d.gerbede",
         "speakers": [],
         "tags": []
@@ -11677,8 +11662,8 @@
         "dateSource": "2022-03-10",
         "sourceSite": "Web Rush",
         "sourceUrl": "https://webrush.io",
-        "authorName": "",
-        "authorUrl": "",
+        "authorName": "Web Rush",
+        "authorUrl": "https://webrush.io",
         "speakers": ["John Papa", "Ward Bell", "Dan Wahlin", "Craig Shoemaker"],
         "tags": []
       },
@@ -11938,21 +11923,6 @@
         "authorUrl": "https://www.youtube.com/channel/UCTZMwW4pq_B-o_KkpCtotGw/videos",
         "speakers": ["Thomas Oliver"],
         "tags": ["Angular Material"]
-      },
-      {
-        "slug": "2022-03-12-B",
-        "type": "blog",
-        "title": "Open Modal In Another Component In Angular 13",
-        "url": "https://www.thecodehubs.com/open-modal-in-another-component-in-angular-13/?utm_source=rss&utm_medium=rss&utm_campaign=open-modal-in-another-component-in-angular-13",
-        "description": "In this example, there are 2 components one component contains modal code, and the other components contain the open modal button and when you click on the open modal button it opens the modal which is on another component.",
-        "datePosted": "2022-03-12",
-        "dateSource": "2022-03-12",
-        "sourceSite": "Medium",
-        "sourceUrl": "https://medium.com/tag/angular/latest",
-        "authorName": "Shaikh Hafeezjaha",
-        "authorUrl": "",
-        "speakers": ["Shaikh Hafeezjaha"],
-        "tags": ["Dialog"]
       },
       {
         "slug": "2022-03-12-C",
@@ -12926,7 +12896,7 @@
         "sourceSite": "DEV Community",
         "sourceUrl": "https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc",
         "authorName": "devashishSarmah",
-        "authorUrl": "",
+        "authorUrl": "https://dev.to/devashishsarmah",
         "speakers": [],
         "tags": ["Dialog"]
       },
@@ -14195,7 +14165,7 @@
         "dateSource": "2022-03-23",
         "sourceSite": "YouTube",
         "sourceUrl": "https://www.youtube.com/results?search_query=angular",
-        "authorName": "kushal k shetty",
+        "authorName": "Kushal K Shetty",
         "authorUrl": "https://www.youtube.com/channel/UCHp0p0yvWfNxAHf5BU1UoDw/videos",
         "speakers": ["Kushal K Shetty"],
         "tags": ["Pipes"]
@@ -14422,7 +14392,7 @@
         "dateSource": "2022-03-24",
         "sourceSite": "YouTube",
         "sourceUrl": "https://www.youtube.com/results?search_query=angular",
-        "authorName": "kushal k shetty",
+        "authorName": "Kushal K Shetty",
         "authorUrl": "https://www.youtube.com/channel/UCHp0p0yvWfNxAHf5BU1UoDw/videos",
         "speakers": ["Kushal K Shetty"],
         "tags": ["Routing"]
@@ -15179,7 +15149,7 @@
         "sourceSite": "YouTube",
         "sourceUrl": "https://www.youtube.com/results?search_query=angular",
         "authorName": "Zoaib Khan",
-        "authorUrl": "",
+        "authorUrl": "https://www.youtube.com/c/ZoaibKhan/videos",
         "speakers": ["Zoaib Khan"],
         "tags": ["Routing"]
       },
@@ -15881,7 +15851,7 @@
         "dateSource": "2022-04-02",
         "sourceSite": "Medium",
         "sourceUrl": "https://medium.com/tag/angular/latest",
-        "authorName": "ugur salin",
+        "authorName": "Ugur Salin",
         "authorUrl": "https://medium.com/@ugursalin",
         "speakers": ["Ugur Salin"],
         "tags": ["RxJS", "forkJoin", "mergeMap", "switchMap"]
@@ -16093,7 +16063,7 @@
         "sourceSite": "YouTube",
         "sourceUrl": "https://www.youtube.com/results?search_query=angular",
         "authorName": "Babatunde Lamidi",
-        "authorUrl": "",
+        "authorUrl": "https://www.youtube.com/c/BabatundeLamidi/videos",
         "speakers": ["Babatunde Lamidi"],
         "tags": []
       },
@@ -17555,7 +17525,7 @@
         "sourceSite": "DEV Community",
         "sourceUrl": "https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc",
         "authorName": "Deepa Chaurasia",
-        "authorUrl": "",
+        "authorUrl": "https://dev.to/deepachaurasia1",
         "speakers": ["Deepa Chaurasia"],
         "tags": ["Pipes"]
       }
@@ -18172,8 +18142,8 @@
         "dateSource": "2022-04-14",
         "sourceSite": "Web Rush",
         "sourceUrl": "https://webrush.io",
-        "authorName": "Ramona Schwering",
-        "authorUrl": "",
+        "authorName": "Web Rush",
+        "authorUrl": "https://webrush.io",
         "speakers": ["Ramona Schwering"],
         "tags": ["Testing"]
       },
@@ -19513,7 +19483,7 @@
         "dateSource": "2022-04-21",
         "sourceSite": "Medium",
         "sourceUrl": "https://medium.com/tag/angular/latest",
-        "authorName": "jerry wycoco",
+        "authorName": "Jerry Wycoco",
         "authorUrl": "https://medium.com/@jerry.wycoco",
         "speakers": ["Jerry Wycoco"],
         "tags": ["@Input", "Data Transfer"]
@@ -20206,8 +20176,8 @@
         "dateSource": "2022-04-26",
         "sourceSite": "DEV Community",
         "sourceUrl": "https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc",
-        "authorName": "Nikola Zarić",
-        "authorUrl": "",
+        "authorName": "Nikola Zaric",
+        "authorUrl": "https://dev.to/znikola",
         "speakers": ["Nikola Zaric"],
         "tags": ["Testing", "Schematics"]
       },
@@ -21261,7 +21231,7 @@
         "dateSource": "2022-05-03",
         "sourceSite": "Medium",
         "sourceUrl": "https://medium.com/tag/angular/latest",
-        "authorName": "himanshu motwani",
+        "authorName": "Himanshu Motwani",
         "authorUrl": "https://himanshu-motwani001.medium.com",
         "speakers": ["Himanshu Motwani"],
         "tags": ["Services"]
@@ -23057,7 +23027,7 @@
         "sourceSite": "Medium",
         "sourceUrl": "https://medium.com/tag/angular/latest",
         "authorName": "Mike Kucherov",
-        "authorUrl": "",
+        "authorUrl": "https://medium.com/@mikekucherov92",
         "speakers": ["Mike Kucherov"],
         "tags": ["Spinner"]
       },
@@ -23390,8 +23360,8 @@
         "dateSource": "2022-05-15",
         "sourceSite": "Medium",
         "sourceUrl": "https://medium.com/tag/angular/latest",
-        "authorName": "",
-        "authorUrl": "",
+        "authorName": "Matsal Dev",
+        "authorUrl": "https://medium.com/@matsal.dev",
         "speakers": [],
         "tags": ["Dependency Injection", "useValue", "useClass", "useExisting", "useFactory"]
       },
@@ -23634,7 +23604,7 @@
         "sourceSite": "DEV Community",
         "sourceUrl": "https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc",
         "authorName": "Rainer Hahnekamp",
-        "authorUrl": "Rainer Hahnekamp",
+        "authorUrl": "https://dev.to/rainerhahnekamp",
         "speakers": ["Rainer Hahnekamp"],
         "tags": []
       },
@@ -24141,7 +24111,7 @@
       {
         "slug": "2022-05-18-V",
         "type": "blog",
-        "title": "",
+        "title": "How to publish Angular component to NPM",
         "url": "https://medium.com/@thecodinganalyst/how-to-publish-angular-component-to-npm-f3fa7c3d20bb",
         "description": "There are some requirements that a module needs to fullfil before it can be published to npm. For example, you'll need a main field in your package.json...",
         "datePosted": "2022-05-18",
@@ -24151,7 +24121,7 @@
         "authorName": "Dennis",
         "authorUrl": "https://medium.com/@thecodinganalyst",
         "speakers": [],
-        "tags": []
+        "tags": ["NPM"]
       }
     ]
   },
@@ -24230,8 +24200,8 @@
         "dateSource": "2022-05-19",
         "sourceSite": "Web Rush",
         "sourceUrl": "https://webrush.io",
-        "authorName": "",
-        "authorUrl": "",
+        "authorName": "Web Rush",
+        "authorUrl": "https://webrush.io",
         "speakers": [""],
         "tags": ["Update"]
       },
@@ -24325,8 +24295,8 @@
         "dateSource": "2022-05-19",
         "sourceSite": "YouTube",
         "sourceUrl": "https://youtube.com",
-        "authorName": "",
-        "authorUrl": "",
+        "authorName": "Devoxx",
+        "authorUrl": "https://www.youtube.com/c/Devoxx2015/videos",
         "speakers": ["Fabian Gosebrink"],
         "tags": ["Forms", "Reactive Forms", "Validation"]
       }
@@ -24698,7 +24668,7 @@
         "authorName": "Chaby's Tech",
         "authorUrl": "https://www.youtube.com/channel/UChPak4wt47Rb-xpUhrxzjNw/videos",
         "speakers": [],
-        "tags": ["Update"]
+        "tags": ["Update", "NPM"]
       },
       {
         "slug": "2022-05-22-G",
@@ -24761,9 +24731,9 @@
         "dateSource": "2022-05-23",
         "sourceSite": "DEV Community",
         "sourceUrl": "https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc",
-        "authorName": "",
-        "authorUrl": "",
-        "speakers": [],
+        "authorName": "Rainer Hahnekamp",
+        "authorUrl": "https://dev.to/rainerhahnekamp",
+        "speakers": ["Rainer Hahnekamp"],
         "tags": []
       },
       {
@@ -25538,7 +25508,7 @@
         "sourceSite": "Medium",
         "sourceUrl": "https://medium.com/tag/angular/latest",
         "authorName": "Luca Piciollo",
-        "authorUrl": "",
+        "authorUrl": "https://medium.com/@lucapiciollo",
         "speakers": ["Luca Piciollo"],
         "tags": []
       },
@@ -25774,9 +25744,9 @@
         "dateSource": "2022-05-28",
         "sourceSite": "Hashnode",
         "sourceUrl": "https://hashnode.com/n/angular",
-        "authorName": "sudhagar murugesan",
+        "authorName": "Sudhagar Murugesan",
         "authorUrl": "https://hashnode.com/@sudhagar",
-        "speakers": ["sudhagar murugesan"],
+        "speakers": ["Sudhagar Murugesan"],
         "tags": ["TailwindCSS"]
       },
       {
@@ -25872,7 +25842,7 @@
         "dateSource": "2022-05-29",
         "sourceSite": "Medium",
         "sourceUrl": "https://medium.com/tag/angular/latest",
-        "authorName": "Ankit kaushik",
+        "authorName": "Ankit Kaushik",
         "authorUrl": "https://ankit-kaushik.medium.com",
         "speakers": ["Ankit Kaushik"],
         "tags": ["ngFor", "trackBy"]
@@ -26264,9 +26234,9 @@
         "dateSource": "2022-05-30",
         "sourceSite": "DEV Community",
         "sourceUrl": "https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc",
-        "authorName": "",
-        "authorUrl": "",
-        "speakers": [],
+        "authorName": "Lucas Paganini",
+        "authorUrl": "https://dev.to/lucaspaganini",
+        "speakers": ["Lucas Paganini"],
         "tags": ["Directives"]
       },
       {
@@ -26960,9 +26930,9 @@
         "dateSource": "2022-06-03",
         "sourceSite": "DEV Community",
         "sourceUrl": "https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc",
-        "authorName": "",
-        "authorUrl": "",
-        "speakers": [],
+        "authorName": "Lucas Paganini",
+        "authorUrl": "https://dev.to/lucaspaganini",
+        "speakers": ["Lucas Paganini"],
         "tags": ["Forms", "Validation"]
       },
       {
@@ -28569,7 +28539,7 @@
         "dateSource": "2022-06-11",
         "sourceSite": "Medium",
         "sourceUrl": "https://medium.com/tag/angular/latest",
-        "authorName": "elango ramar",
+        "authorName": "Elango Ramar",
         "authorUrl": "https://medium.com/@elangoram1998",
         "speakers": ["Elango Ramar"],
         "tags": ["Forms", "Validation"]
@@ -28615,7 +28585,7 @@
         "dateSource": "2022-06-12",
         "sourceSite": "Medium",
         "sourceUrl": "https://medium.com/tag/angular/latest",
-        "authorName": "Ankit kaushik",
+        "authorName": "Ankit Kaushik",
         "authorUrl": "https://ankit-kaushik.medium.com",
         "speakers": ["Ankit Kaushik"],
         "tags": []
@@ -30702,7 +30672,7 @@
         "slug": "2022-06-25-B",
         "type": "video",
         "duration": "5",
-        "title": "Create Web Components by using Google Lit, publish them on Npm and use them in React, Angular",
+        "title": "Create Web Components by using Google Lit, publish them on NPM and use them in React, Angular",
         "url": "https://www.youtube.com/watch?v=qaz8tufQKIU",
         "description": "Web components are a set of technologies that allow us to create reusable HTML elements, in which all features are encapsulated within their code.",
         "datePosted": "2022-06-25",
@@ -30712,7 +30682,7 @@
         "authorName": "Fabio Biondi - Front-End Tutorials",
         "authorUrl": "https://www.youtube.com/c/FabioBiondi",
         "speakers": ["Fabio Biondi"],
-        "tags": []
+        "tags": ["NPM"]
       },
       {
         "slug": "2022-06-25-C",
@@ -31253,8 +31223,8 @@
         "dateSource": "2022-06-28",
         "sourceSite": "YouTube",
         "sourceUrl": "https://youtube.com",
-        "authorName": "",
-        "authorUrl": "",
+        "authorName": "Monsterlessons Academy",
+        "authorUrl": "https://www.youtube.com/c/MonsterlessonsAcademy/videos",
         "speakers": [],
         "tags": ["RxJS", "Observables", "BehaviorSubject", "combineLatest"]
       },
@@ -31518,7 +31488,7 @@
         "dateSource": "2022-06-29",
         "sourceSite": "DEV Community",
         "sourceUrl": "https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc",
-        "authorName": "haimantika mitra",
+        "authorName": "Haimantika Mitra",
         "authorUrl": "https://dev.to/haimantika",
         "speakers": ["Haimantika Mitra"],
         "tags": ["Data Binding"]
@@ -31724,7 +31694,7 @@
         "sourceSite": "YouTube",
         "sourceUrl": "https://youtube.com",
         "authorName": "Techinfocse",
-        "authorUrl": "",
+        "authorUrl": "https://www.youtube.com/channel/UCfu8GM0XEkovwMRRKKyYGlA/videos",
         "speakers": [],
         "tags": []
       },
@@ -31881,7 +31851,7 @@
         "dateSource": "2022-07-01",
         "sourceSite": "Medium",
         "sourceUrl": "https://medium.com/tag/angular/latest",
-        "authorName": "schaenk",
+        "authorName": "Schaenk",
         "authorUrl": "https://medium.com/@schaenk",
         "speakers": [],
         "tags": ["HttpParams"]
@@ -32411,7 +32381,7 @@
         "dateSource": "2022-07-05",
         "sourceSite": "DEV Community",
         "sourceUrl": "https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc",
-        "authorName": "haimantika mitra",
+        "authorName": "Haimantika Mitra",
         "authorUrl": "https://dev.to/haimantika",
         "speakers": ["Haimantika Mitra"],
         "tags": ["Directives"]
@@ -32655,8 +32625,8 @@
         "dateSource": "2022-07-07",
         "sourceSite": "Web Rush",
         "sourceUrl": "https://webrush.io",
-        "authorName": "",
-        "authorUrl": "",
+        "authorName": "Web Rush",
+        "authorUrl": "https://webrush.io",
         "speakers": ["John Papa", "Ward Bell", "Dan Wahlin"],
         "tags": []
       },
@@ -32814,7 +32784,7 @@
         "dateSource": "2022-07-08",
         "sourceSite": "Medium",
         "sourceUrl": "https://medium.com/tag/angular/latest",
-        "authorName": "anoop r warrier",
+        "authorName": "Anoop R Warrier",
         "authorUrl": "https://medium.com/@anooprvarrier",
         "speakers": ["Anoop R Warrier"],
         "tags": ["ElementRef"]
@@ -33323,7 +33293,7 @@
       {
         "slug": "2022-07-12-B",
         "type": "blog",
-        "title": "Create an Angular 14 Library, use it locally when developing and publish the package to npm",
+        "title": "Create an Angular 14 Library, use it locally when developing and publish the package to NPM",
         "url": "https://medium.com/@joosep.parts/create-an-angular-14-library-use-it-locally-when-developing-and-publish-the-package-to-npm-689ca2efdea8",
         "description": "Ah.. the wonders of npm install 'something' and then use the package anywhere. But how do they do it? Well, I was wondering the same. So let's try it out.",
         "datePosted": "2022-07-12",
@@ -33331,9 +33301,9 @@
         "sourceSite": "Medium",
         "sourceUrl": "https://medium.com/tag/angular/latest",
         "authorName": "Joosep Parts",
-        "authorUrl": "",
+        "authorUrl": "https://medium.com/@joosep.parts",
         "speakers": ["Joosep Parts"],
-        "tags": ["Libraries"]
+        "tags": ["Libraries", "NPM"]
       },
       {
         "slug": "2022-07-12-C",
@@ -33361,7 +33331,7 @@
         "sourceSite": "Medium",
         "sourceUrl": "https://medium.com/tag/angular/latest",
         "authorName": "AngularEnthusiast",
-        "authorUrl": "",
+        "authorUrl": "https://ramya-bala221190.medium.com",
         "speakers": [],
         "tags": ["RxJS"]
       },
@@ -33456,7 +33426,7 @@
         "dateSource": "2022-07-13",
         "sourceSite": "DEV Community",
         "sourceUrl": "https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc",
-        "authorName": "haimantika mitra",
+        "authorName": "Haimantika Mitra",
         "authorUrl": "https://dev.to/haimantika",
         "speakers": ["Haimantika Mitra"],
         "tags": ["Pipes"]
@@ -33763,7 +33733,7 @@
         "authorName": "Jorge Guerra Pires, PhD",
         "authorUrl": "https://medium.com/@jorgeguerrapires",
         "speakers": ["Jorge Guerra Pires"],
-        "tags": ["Libraries"]
+        "tags": ["Libraries", "NPM"]
       },
       {
         "slug": "2022-07-15-C",
@@ -34434,7 +34404,7 @@
         "authorName": "Emeka Elo-Chukwuma",
         "authorUrl": "https://dev.to/brunoelo",
         "speakers": ["Emeka Elo-Chukwuma"],
-        "tags": ["Libraries"]
+        "tags": ["Libraries", "NPM"]
       },
       {
         "slug": "2022-07-19-K",
@@ -34493,9 +34463,9 @@
         "dateSource": "2022-07-19",
         "sourceSite": "DEV Community",
         "sourceUrl": "https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc",
-        "authorName": "",
-        "authorUrl": "",
-        "speakers": [],
+        "authorName": "Lorenzo Zarantonello",
+        "authorUrl": "https://dev.to/lorenzojkrl",
+        "speakers": ["Lorenzo Zarantonello"],
         "tags": ["Forms", "Reactive Forms"]
       },
       {
@@ -34525,7 +34495,7 @@
         "dateSource": "2022-07-19",
         "sourceSite": "YouTube",
         "sourceUrl": "https://youtube.com",
-        "authorName": "Rohini babu",
+        "authorName": "Rohini Babu",
         "authorUrl": "https://www.youtube.com/channel/UCjf7EQhfWGF74XQ6Q0inDtA/videos",
         "speakers": ["Rohini Babu"],
         "tags": ["Components"]
@@ -34798,7 +34768,7 @@
         "dateSource": "2022-07-20",
         "sourceSite": "Medium",
         "sourceUrl": "https://medium.com/tag/angular/latest",
-        "authorName": "anoop r warrier",
+        "authorName": "Anoop R Warrier",
         "authorUrl": "https://medium.com/@anooprvarrier",
         "speakers": ["Anoop R Warrier"],
         "tags": ["HttpClient"]
@@ -34823,7 +34793,7 @@
         "slug": "2022-07-21-D",
         "type": "video",
         "duration": "6",
-        "title": "",
+        "title": "Angular Chat App with Firebase (6/6): Preventing duplicate chats with the same users",
         "url": "https://www.youtube.com/watch?v=KlzLj0_JGqU",
         "description": "This is Part 6 (last part) of a series of videos on creating a chat app with Angular Material and Firebase Firestore Database. In this part, we'll fix a bug and prevent multiple chats from being created with the same users.",
         "datePosted": "2022-07-21",
@@ -34878,8 +34848,8 @@
         "dateSource": "2022-07-21",
         "sourceSite": "Web Rush",
         "sourceUrl": "https://webrush.io",
-        "authorName": "",
-        "authorUrl": "",
+        "authorName": "Web Rush",
+        "authorUrl": "https://webrush.io",
         "speakers": ["Aristeidis Bampakos"],
         "tags": ["Internationalization"]
       },
@@ -34894,7 +34864,7 @@
         "dateSource": "2022-07-21",
         "sourceSite": "YouTube",
         "sourceUrl": "https://youtube.com",
-        "authorName": "Tech Talks ",
+        "authorName": "Tech Talks",
         "authorUrl": "https://www.youtube.com/channel/UCqDzH0cMrTy9sRqeyH9auEQ/videos",
         "speakers": [],
         "tags": ["@Input"]
@@ -35108,7 +35078,7 @@
         "dateSource": "2022-07-22",
         "sourceSite": "Medium",
         "sourceUrl": "https://medium.com/tag/angular/latest",
-        "authorName": "Vaibhav gehani",
+        "authorName": "Vaibhav Gehani",
         "authorUrl": "https://medium.com/@vgehani90",
         "speakers": ["Vaibhav Gehani"],
         "tags": ["Maps", "Google Maps", "Ionic"]
@@ -35206,7 +35176,7 @@
         "dateSource": "2022-07-24",
         "sourceSite": "YouTube",
         "sourceUrl": "https://youtube.com",
-        "authorName": "https://www.youtube.com/watch?v=zwgFgBH-y9k",
+        "authorName": "JS Frameworks",
         "authorUrl": "https://www.youtube.com/c/JSFrameworks/videos",
         "speakers": [],
         "tags": ["Scully"]
@@ -35691,7 +35661,175 @@
   {
     "date": "2022-07-27",
     "dailyPosts": [
-      
+      {
+        "slug": "2022-07-27-A",
+        "type": "blog",
+        "title": "Ng-News: Episode 22/29",
+        "url": "https://dev.to/rainerhahnekamp/ng-news-episode-2229-271m",
+        "description": "",
+        "datePosted": "2022-07-27",
+        "dateSource": "2022-07-26",
+        "sourceSite": "Medium",
+        "sourceUrl": "https://medium.com/tag/angular/latest",
+        "authorName": "Rainer Hahnekamp",
+        "authorUrl": "https://dev.to/rainerhahnekamp",
+        "speakers": ["Rainer Hahnekamp"],
+        "tags": []
+      },
+      {
+        "slug": "2022-07-27-B",
+        "type": "video",
+        "duration": "46",
+        "title": "Angular V14 *ngFor Directive Complete Details with trackBy for increasing Performance - Angular14",
+        "url": "https://www.youtube.com/watch?v=C2_hw8m5EiU",
+        "description": "n this video we will see jabout the ngFor Directive for looping over the arrays in the template - Angular 14",
+        "datePosted": "2022-07-27",
+        "dateSource": "2022-07-26",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorUrl": "https://www.youtube.com/c/LeelaWebDev/videos",
+        "speakers": ["Leela Narasimha"],
+        "tags": ["ngFor", "trackBy"]
+      },
+      {
+        "slug": "2022-07-27-C",
+        "type": "video",
+        "duration": "25",
+        "title": "I only ever use *these* RxJS operators to code reactively",
+        "url": "https://www.youtube.com/watch?v=Byttv3YpjQk",
+        "description": "In this video, I cover the 10(ish) operators I most frequently use when coding reactively in Angular. We take a look at the theory for each one, along with a realistic example of where I have used it recently.",
+        "datePosted": "2022-07-27",
+        "dateSource": "2022-07-27",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "Joshua Morony",
+        "authorUrl": "https://www.youtube.com/c/JoshuaMorony/videos",
+        "speakers": ["Joshua Morony"],
+        "tags": ["RxJS", "map", "filter", "tap", "switchMap", "concatMap", "combineLatest", "startWith", "distinctUntilChanged", "debounceTime", "catchError"]
+      },
+      {
+        "slug": "2022-07-27-D",
+        "type": "blog",
+        "title": "Create Chart with Data from API using HttpClient Module in Angular",
+        "url": "https://dev.to/manoj_004d/create-chart-with-data-from-api-using-httpclient-module-in-angular-2gn5",
+        "description": "In real-time Angular applications, we often interact with some API or service to get data. These data can either be statistical or user-related. If you are building an application to show statistics about a country, you may use some third party APIs or services to get the data from",
+        "datePosted": "2022-07-27",
+        "dateSource": "2022-07-27",
+        "sourceSite": "DEV Community",
+        "sourceUrl": "https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc",
+        "authorName": "Manoj Mohan",
+        "authorUrl": "https://dev.to/manoj_004d",
+        "speakers": ["Manoj Mohan"],
+        "tags": ["HttpClient", "Charts"]
+      },
+      {
+        "slug": "2022-07-27-E",
+        "type": "video",
+        "duration": "10",
+        "title": "#4 Angular Modules",
+        "url": "https://www.youtube.com/watch?v=CsdrUt6p6UA",
+        "description": "What is Angular Module? Module refers to a place where you can group the components, directives, pipes, and services that are related, in such a way that can be combined with other modules to create an application.",
+        "datePosted": "2022-07-27",
+        "dateSource": "2022-07-27",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "Rohini Babu",
+        "authorUrl": "https://www.youtube.com/channel/UCjf7EQhfWGF74XQ6Q0inDtA/videos",
+        "speakers": ["Rohini Babu"],
+        "tags": ["Modules"]
+      },
+      {
+        "slug": "2022-07-27-F",
+        "type": "video",
+        "duration": "35",
+        "title": "Scaling Effective Angular Teams | Jennifer Wadella | EnterpriseNG 2021",
+        "url": "https://www.youtube.com/watch?v=YU31ASbWKLE",
+        "description": "In this talk, we will cover:\nHow to interview candidates.\nHow to spot skill gaps.\nStrategies for mentoring & coaching junior developers.\nProcess & best practices for creating an engaging growth environment.\nProperly leveraging Senior Engineer coding abilities while still leaving bandwidth for training. ",
+        "datePosted": "2022-07-27",
+        "dateSource": "2022-07-27",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "ng-conf",
+        "authorUrl": "https://www.youtube.com/c/ngconfonline/videos",
+        "speakers": ["Jennifer Wadella"],
+        "tags": []
+      },
+      {
+        "slug": "2022-07-27-G",
+        "type": "blog",
+        "title": "Protect Your Angular App From Cross-Site Scripting",
+        "url": "https://dev.to/oktadev/protect-your-angular-app-from-cross-site-scripting-26d4",
+        "description": "In the last post of this SPA security series, we covered Cross-Site Request Forgery (CSRF) and how Angular helps you with a mitigation technique. Next, we'll dive into Cross-Site Scripting (XSS) and look at the built-in security guards you get when using Angular.",
+        "datePosted": "2022-07-27",
+        "dateSource": "2022-07-27",
+        "sourceSite": "DEV Community",
+        "sourceUrl": "https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc",
+        "authorName": "Alisa",
+        "authorUrl": "https://dev.to/alisaduncan",
+        "speakers": ["Alisa Duncan"],
+        "tags": ["XSS"]
+      },
+      {
+        "slug": "2022-07-27-H",
+        "type": "blog",
+        "title": "AG Grid Cell Rendering Pipeline with TypeScript",
+        "url": "https://dev.to/blove/ag-grid-cell-rendering-pipeline-with-typescript-c5c",
+        "description": "In this article you'll learn:\nThe AG Grid cell rendering pipeline\nHow to leverage the new TypeScript generics provided by the AG Grid API (released in version 28)\nHow to create a type-safe value getter to retrieve the value for a cell\nHow to create a type-safe value formatted to format the value of a cell\nHow to create a type-safe and performant cell renderer",
+        "datePosted": "2022-07-27",
+        "dateSource": "2022-07-27",
+        "sourceSite": "DEV Community",
+        "sourceUrl": "https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc",
+        "authorName": "Brian Love",
+        "authorUrl": "https://dev.to/blove",
+        "speakers": ["Brian Love"],
+        "tags": ["AG Grid", "TypeScript"]
+      },
+      {
+        "slug": "2022-07-27-J",
+        "type": "video",
+        "duration": "57",
+        "title": "Angular - Getting started guide 2022",
+        "url": "https://www.youtube.com/watch?v=UNO7NRxhd40",
+        "description": " Let's start a journey to learn a new amazing, demanding framework called Angular, whether this is your first introduction to any framework or you just want to revise topics of Angular. Just follow along with me and we will going to cover all the main topics like Directives, Pipes, Services, Form handling, Handling HTTP requests.",
+        "datePosted": "2022-07-27",
+        "dateSource": "2022-07-27",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "Raj Lanjewar",
+        "authorUrl": "https://www.youtube.com/channel/UCkIGv4jRYsRzDcRWg030lOw/videos",
+        "speakers": ["Raj Lanjewar"],
+        "tags": []
+      },
+      {
+        "slug": "2022-07-27-K",
+        "type": "blog",
+        "title": "Angular 14 new Feature — Typed Forms",
+        "url": "https://zmushegh.medium.com/angular-14-new-feature-typed-forms-71b0a44673db",
+        "description": "Many improvements and bug fixes in the most recent Angular 14 release were directly provided by members of the community, from the addition of router strong typing to more tree-shakable error messages. But let's focus on a feature that is a personal favorite of mine.",
+        "datePosted": "2022-07-27",
+        "dateSource": "2022-07-27",
+        "sourceSite": "Medium",
+        "sourceUrl": "https://medium.com/tag/angular/latest",
+        "authorName": "Mushegh Zakaryan",
+        "authorUrl": "https://zmushegh.medium.com",
+        "speakers": ["Mushegh Zakaryan"],
+        "tags": ["Forms", "Typed Forms"]
+      },
+      {
+        "slug": "2022-07-27-L",
+        "type": "blog",
+        "title": "HostListener + Output =",
+        "url": "https://dev.to/mmuscat/hostlistener-output--2dhe",
+        "description": "It was a little surprising to learn that Angular components and directives can listen to custom events published by the Output decorator. This gives us a convenient way to subscribe to an observable without cleaning up afterwards; the subscription is automatically disposed when the component is destroyed. We do however pollute the output namespace in the process.",
+        "datePosted": "2022-07-27",
+        "dateSource": "2022-07-27",
+        "sourceSite": "DEV Community",
+        "sourceUrl": "https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc",
+        "authorName": "Michael Muscat",
+        "authorUrl": "https://dev.to/mmuscat",
+        "speakers": ["Michael Muscat"],
+        "tags": ["@HostListener", "@Output"]
+      }
     ]
   },
   {
