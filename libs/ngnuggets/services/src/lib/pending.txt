@@ -1,24 +1,4 @@
-https://medium.com/@Programming_Discussion/why-i-chose-angular-to-build-a-url-shortener-1ce01b44da59
-u https://medium.com/@jaydeepvpatil225/signalr-introduction-and-implementation-using-the-net-core-6-web-api-and-angular-14-b4cfd51a6fac
-m https://medium.com/@epavliy/css-isolation-with-angular-micro-frontends-eb3bd8261bb9
-m https://javascript.plainenglish.io/content-projection-in-angular-with-ng-content-b8119f3f7360
-m https://medium.com/@roshan_8028/angular-web-development-history-and-an-overview-5a71f827af8f
-m https://medium.com/@kodwings_83670/cant-bind-to-ngif-since-it-isn-t-a-known-property-of-div-8fe5d707a60f
-m https://medium.com/seriea-pub/crud-operation-in-angular-50e9e77a1545
-m https://hrishikeshbappu.medium.com/http-and-observables-in-angular-85eef5c1ef87
-m19 https://www.youtube.com/watch?v=W6Er__jTbek
-m https://medium.com/@smarth55/structuring-libraries-with-nx-9ffab71a94a0
-t2 https://www.youtube.com/watch?v=nRvDACwX7p4
-t4 https://www.youtube.com/watch?v=ahwAEcbVaWk
-t7 https://www.youtube.com/watch?v=1XBpeOC1PkM
-t8 https://www.youtube.com/watch?v=rZCQiMdQsxE
-t10 https://dev.to/oktadev/protect-your-angular-app-from-cross-site-request-forgery-2hho
-t10 https://www.youtube.com/watch?v=Zfqewpi_Zg0
-t11 https://dev.to/ayyash/twisting-angular-localizationserving-a-different-indexhtml-in-an-angular-build-for-different-languages-2ekd
-t12 https://dev.to/gilcreque/til-angular-has-keyvaluepipe-2dk4
-t15 https://dev.to/rainerhahnekamp/ng-news-episode-2229-271m
-
-WEDNESDAY
+https://dev.to/rainerhahnekamp/ng-news-episode-2229-271m
 t https://www.youtube.com/watch?v=WGCWisXCqdY
 w0 https://www.youtube.com/watch?v=C2_hw8m5EiU
 w6 https://www.youtube.com/watch?v=Byttv3YpjQk
@@ -28,11 +8,14 @@ w9 https://www.youtube.com/watch?v=YU31ASbWKLE
 w9 https://dev.to/oktadev/protect-your-angular-app-from-cross-site-scripting-26d4
 w11 https://dev.to/blove/ag-grid-cell-rendering-pipeline-with-typescript-c5c
 w13 https://www.youtube.com/watch?v=UNO7NRxhd40
+w https://zmushegh.medium.com/angular-14-new-feature-typed-forms-71b0a44673db
 w16 https://dev.to/mmuscat/hostlistener-output--2dhe
 
 THURSDAY
 t https://medium.com/@Sendbird/how-to-build-an-angular-chat-app-af7a403cba89
 t https://marklowg.medium.com/how-to-unit-test-an-ngrx-reducer-f47cd9b55bc2
+w https://medium.com/herodevs/building-conditional-validators-in-reactive-forms-c2f4a9242c0a
+w https://itnext.io/manage-angular-page-titles-translation-d1384bbede86
 w https://hennyjones.medium.com/top-9-mind-blowing-features-of-new-angular-14-hyperlink-infosystem-9d13a1f1745c
 w https://srisad95.medium.com/angular-ngrx-setup-with-simple-example-using-node-js-api-learn-it-in-14-steps-5acde7183ca2
 w https://blog.devgenius.io/angular-application-deployment-to-azure-web-app-using-github-49a4e3a7ba87
@@ -77,3 +60,15 @@ s8 https://muhammadawaisshaikh.hashnode.dev/how-to-resolve-material-icons-with-a
 s9 https://www.youtube.com/watch?v=SPx0Od7y0q4
 s9 https://www.youtube.com/watch?v=eo1pisZHv1A
 s10 https://www.youtube.com/watch?v=qv07isP7aZQ
+
+SUNDAY
+s https://pavankjadda.medium.com/angular-url-state-management-with-query-params-or-route-params-57a550bd9134
+s https://netbasal.com/determine-why-a-navigation-was-canceled-in-angular-252a65ebff3c
+s https://medium.com/@ifrat.ikhtear_96346/http-error-handling-using-interceptor-in-angular-b2e9154e1d26
+s https://medium.com/@sharma4aman16/implementing-state-management-in-angular-using-ngrx-and-what-problem-does-it-solve-4af4715a8da6
+s https://makandre.medium.com/handling-encodings-in-angular-16a52e921dfe
+s https://medium.com/@andre.schouten_ff/whats-the-difference-between-markforcheck-and-detectchanges-in-angular-fff4e5f54d34
+s21 https://www.youtube.com/watch?v=J7LxgIs_LT0
+u0 https://www.youtube.com/watch?v=AoN56g6UAsE
+u4 https://www.youtube.com/watch?v=cpgJr1mCrBU
+u7 https://www.youtube.com/watch?v=Ve31S_1CQ0s
