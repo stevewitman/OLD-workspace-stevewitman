@@ -258,7 +258,7 @@
         "sourceUrl": "https://spreaker.com",
         "authorName": "Angular Experience",
         "authorUrl": "https://angular-experience.web.app/episodes",
-        "speakers": ["Joe Eames"],
+        "speakers": ["Joe Eames", "Brooke Avery", "Erik Slack"],
         "tags": []
       },
       {
@@ -1312,7 +1312,7 @@
         "sourceUrl": "https://spreaker.com",
         "authorName": "Angular Experience",
         "authorUrl": "https://angular-experience.web.app/episodes",
-        "speakers": ["Mark Thompson"],
+        "speakers": ["Mark Thompson", "Brooke Avery", "Erik Slack"],
         "tags": []
       },
       {
@@ -2363,7 +2363,7 @@
         "sourceUrl": "https://spreaker.com",
         "authorName": "Angular Experience",
         "authorUrl": "https://angular-experience.web.app/episodes",
-        "speakers": [],
+        "speakers": ["Brooke Avery", "Erik Slack"],
         "tags": []
       },
       {
@@ -3458,7 +3458,7 @@
         "authorName": "Hussain Ujjainwala",
         "authorUrl": "https://medium.com/@hujjainwala",
         "speakers": ["Hussain Ujjainwala"],
-        "tags": ["ngx-translate", "Internationalization"]
+        "tags": ["Internationalization"]
       }
     ]
   },
@@ -3479,7 +3479,7 @@
         "authorName": "Let's Program",
         "authorUrl": "https://www.youtube.com/channel/UCW4PLi-ObJt3m6YTSEQY3gw/videos",
         "speakers": [],
-        "tags": ["Forms", "Reactive Forms"]
+        "tags": ["Forms", "Reactive Forms", "CRUD"]
       },
       {
         "slug": "2022-01-24-B",
@@ -3541,7 +3541,7 @@
         "sourceUrl": "https://spreaker.com",
         "authorName": "Angular Experience",
         "authorUrl": "https://angular-experience.web.app/episodes",
-        "speakers": ["Mike Hartington"],
+        "speakers": ["Mike Hartington", "Brooke Avery", "Erik Slack"],
         "tags": []
       },
       {
@@ -4014,7 +4014,7 @@
         "authorName": "Mic B.",
         "authorUrl": "https://micbdev.medium.com",
         "speakers": [],
-        "tags": ["ngx-translate", "Internationalization"]
+        "tags": ["Internationalization"]
       },
       {
         "slug": "2022-01-26-E",
@@ -4218,7 +4218,7 @@
         "authorName": "MartinDevs",
         "authorUrl": "https://www.youtube.com/user/Electronicsmf/videos",
         "speakers": ["Martin"],
-        "tags": ["Auth", "Bootstrap", "ngx-bootstrap"]
+        "tags": ["Auth", "Bootstrap"]
       },
       {
         "slug": "2022-01-27-B",
@@ -4669,7 +4669,7 @@
         "authorName": "JS Frameworks",
         "authorUrl": "https://www.youtube.com/c/JSFrameworks/videos",
         "speakers": [],
-        "tags": []
+        "tags": ["SPA", "Micro Frontends"]
       },
       {
         "slug": "2022-01-30-B",
@@ -4685,7 +4685,7 @@
         "authorName": "MartinDevs",
         "authorUrl": "https://www.youtube.com/user/Electronicsmf/videos",
         "speakers": ["Martin"],
-        "tags": ["ngx-toastr"]
+        "tags": []
       },
       {
         "slug": "2022-01-30-C",
@@ -4730,7 +4730,7 @@
         "authorName": "Rodrigo Kamada",
         "authorUrl": "https://hashnode.com/@rodrigokamada",
         "speakers": ["Rodrigo Kamada"],
-        "tags": ["ngx-toastr"]
+        "tags": []
       },
       {
         "slug": "2022-01-30-F",
@@ -4844,7 +4844,7 @@
         "sourceUrl": "https://spreaker.com",
         "authorName": "Angular Experience",
         "authorUrl": "https://angular-experience.web.app/episodes",
-        "speakers": ["Emilie Davis"],
+        "speakers": ["Emilie Davis", "Brooke Avery", "Erik Slack"],
         "tags": []
       },
       {
@@ -5963,7 +5963,7 @@
         "sourceUrl": "https://spreaker.com",
         "authorName": "Angular Experience",
         "authorUrl": "https://angular-experience.web.app/episodes",
-        "speakers": ["Joe Eames"],
+        "speakers": ["Joe Eames", "Brooke Avery", "Erik Slack"],
         "tags": []
       },
       {
@@ -7155,7 +7155,7 @@
         "duration": "9",
         "title": "Angular Tutorials: Intercepting all Network/XHR calls in the Angular app | Mocking API response",
         "url": "https://www.youtube.com/watch?v=mx-oblwhKts",
-        "description": "Watch this video if you all want to  intercept all the network/XHR calls within your app. We could have done this via the HTTP interceptor that Angular provides but that will not intercept the widget calls which internally go through. Hence, we have used javascript to intercept all possible calls and return a mock json which would be present in the UI repo itself. This is the second episode of a multi-part series where in I will be going over a plethora of topics related to Angular.",
+        "description": "Watch this video if you all want to  intercept all the network/XHR calls within your app. We could have done this via the HTTP interceptor that Angular provides but that will not intercept the widget calls which internally go through. Hence, we have used javascript to intercept all possible calls and return a mock JSON which would be present in the UI repo itself. This is the second episode of a multi-part series where in I will be going over a plethora of topics related to Angular.",
         "datePosted": "2022-02-14",
         "dateSource": "2022-02-14",
         "sourceSite": "YouTube",
@@ -7271,7 +7271,7 @@
         "sourceUrl": "https://spreaker.com",
         "authorName": "Angular Experience",
         "authorUrl": "https://angular-experience.web.app/episodes",
-        "speakers": ["Minko Gechev"],
+        "speakers": ["Minko Gechev", "Brooke Avery", "Erik Slack"],
         "tags": []
       },
       {
@@ -8655,7 +8655,7 @@
         "sourceUrl": "https://spreaker.com",
         "authorName": "Angular Experience",
         "authorUrl": "https://angular-experience.web.app/episodes",
-        "speakers": ["Tara Z. Manicsic"],
+        "speakers": ["Tara Z. Manicsic", "Brooke Avery", "Erik Slack"],
         "tags": []
       },
       {
@@ -9609,7 +9609,7 @@
         "duration": "22",
         "title": "Dynamic forms in Angular | Angular 13",
         "url": "https://www.youtube.com/watch?v=nVsAT7nAwYU",
-        "description": "Dynamic forms in Angular 13 using Reactive forms rendered from json. We create reusable components which can be rendered based on the meta data for the dynamic form.",
+        "description": "Dynamic forms in Angular 13 using Reactive forms rendered from JSON. We create reusable components which can be rendered based on the meta data for the dynamic form.",
         "datePosted": "2022-02-26",
         "dateSource": "2022-02-26",
         "sourceSite": "YouTube",
@@ -9617,7 +9617,7 @@
         "authorName": "JS Frameworks",
         "authorUrl": "https://www.youtube.com/c/JSFrameworks/videos",
         "speakers": [],
-        "tags": ["Forms"]
+        "tags": ["Forms", "Dynamic", "JSON"]
       },
       {
         "slug": "2022-02-26-H",
@@ -9995,7 +9995,7 @@
         "authorName": "Bonface Oywa",
         "authorUrl": "https://medium.com/@bonface.oywa",
         "speakers": ["Bonface Oywa"],
-        "tags": ["Internationalization", "ngx-translate"]
+        "tags": ["Internationalization"]
       },
       {
         "slug": "2022-03-01-E",
@@ -10729,7 +10729,7 @@
         "authorName": "Programming Techie",
         "authorUrl": "https://www.youtube.com/c/ProgrammingTechie/videos",
         "speakers": [],
-        "tags": []
+        "tags": ["JWT"]
       },
       {
         "slug": "2022-03-05-G",
@@ -11063,7 +11063,7 @@
         "authorName": "Angular Experience",
         "authorUrl": "https://angular-experience.web.app/episodes",
         "speakers": ["Katerina Skroumpelou"],
-        "tags": ["Maps", "Google Maps"]
+        "tags": ["Maps", "Google Maps", "Brooke Avery", "Erik Slack"]
       },
       {
         "slug": "2022-03-07-H",
@@ -11237,7 +11237,7 @@
         "authorName": "Piotr Powstanski",
         "authorUrl": "https://medium.com/@PiotrPowstanski",
         "speakers": ["Piotr Powstanski"],
-        "tags": ["ngx-translate"]
+        "tags": ["Internationalization"]
       },
       {
         "slug": "2022-03-08-G",
@@ -11382,7 +11382,7 @@
         "authorName": "Louisboucquet",
         "authorUrl": "https://medium.com/@louisboucquet",
         "speakers": [],
-        "tags": []
+        "tags": ["JSON"]
       },
       {
         "slug": "2022-03-09-G",
@@ -11473,7 +11473,7 @@
         "authorName": "Jean Jepleting",
         "authorUrl": "https://medium.com/@JeanJepleting",
         "speakers": ["Jean Jepleting"],
-        "tags": ["Auth"]
+        "tags": ["Auth", "JSON"]
       },
       {
         "slug": "2022-03-09-N",
@@ -12388,7 +12388,7 @@
         "sourceUrl": "https://spreaker.com",
         "authorName": "Angular Experience",
         "authorUrl": "https://angular-experience.web.app/episodes",
-        "speakers": ["Charlotte Cheng"],
+        "speakers": ["Charlotte Cheng", "Brooke Avery", "Erik Slack"],
         "tags": []
       },
       {
@@ -13764,7 +13764,7 @@
         "sourceUrl": "https://spreaker.com",
         "authorName": "Angular Experience",
         "authorUrl": "https://angular-experience.web.app/episodes",
-        "speakers": ["Igor Minar"],
+        "speakers": ["Igor Minar", "Brooke Avery", "Erik Slack"],
         "tags": []
       },
       {
@@ -14279,7 +14279,7 @@
         "sourceUrl": "https://www.youtube.com/results?search_query=angular",
         "authorName": "Angular Community Meetup",
         "authorUrl": "https://www.youtube.com/c/ngconfonline/videos",
-        "speakers": [],
+        "speakers": ["Preston Lamb", "Brandon Roberts", "Jeff Whelpley"],
         "tags": ["RxJS", "combineLatest", "NgRx", "Performance"]
       },
       {
@@ -14566,7 +14566,7 @@
         "type": "blog",
         "title": "Loading external configurations inline and in SSR in Angular",
         "url": "https://elmota.com/loading-external-configurations-inline-and-in-ssr-in-angular",
-        "description": "In the previous article I made use of the APP_INITLIZER token to load external configurations via HTTP. Today I am going to bring the configuration closer, ditching the HTTP request. But how do we inject json into HTML, in an Angular application?",
+        "description": "In the previous article I made use of the APP_INITLIZER token to load external configurations via HTTP. Today I am going to bring the configuration closer, ditching the HTTP request. But how do we inject JSON into HTML, in an Angular application?",
         "datePosted": "2022-03-25",
         "dateSource": "2022-03-25",
         "sourceSite": "Hashnode",
@@ -15342,7 +15342,7 @@
         "authorName": "Abhishek Singh",
         "authorUrl": "https://hashnode.com/@abhisheks",
         "speakers": ["Abhishek Singh"],
-        "tags": []
+        "tags": ["JSON"]
       },
       {
         "slug": "2022-03-30-E",
@@ -16141,7 +16141,7 @@
         "sourceUrl": "https://spreaker.com",
         "authorName": "Angular Experience",
         "authorUrl": "https://angular-experience.web.app/episodes",
-        "speakers": ["Victor Savkin"],
+        "speakers": ["Victor Savkin", "Brooke Avery", "Erik Slack"],
         "tags": []
       },
       {
@@ -17093,7 +17093,7 @@
         "authorName": "Sam",
         "authorUrl": "https://eraoftech.medium.com",
         "speakers": [],
-        "tags": ["HttpClient"]
+        "tags": ["HttpClient", "CRUD", "JSON"]
       },
       {
         "slug": "2022-04-08-H",
@@ -17403,7 +17403,7 @@
         "sourceUrl": "https://spreaker.com",
         "authorName": "Angular Experience",
         "authorUrl": "https://angular-experience.web.app/episodes",
-        "speakers": ["Nathan Walker"],
+        "speakers": ["Nathan Walker", "Brooke Avery", "Erik Slack"],
         "tags": []
       },
       {
@@ -18850,7 +18850,7 @@
         "sourceUrl": "https://spreaker.com",
         "authorName": "Angular Experience",
         "authorUrl": "https://angular-experience.web.app/episodes",
-        "speakers": ["Ward Bell"],
+        "speakers": ["Ward Bell", "Brooke Avery", "Erik Slack"],
         "tags": []
       },
       {
@@ -19987,7 +19987,7 @@
         "sourceUrl": "https://spreaker.com",
         "authorName": "Angular Experience",
         "authorUrl": "https://angular-experience.web.app/episodes",
-        "speakers": ["Chau Tran"],
+        "speakers": ["Chau Tran", "Brooke Avery", "Erik Slack"],
         "tags": []
       },
       {
@@ -21076,7 +21076,7 @@
         "sourceUrl": "https://spreaker.com",
         "authorName": "Angular Experience",
         "authorUrl": "https://angular-experience.web.app/episodes",
-        "speakers": ["Chau Tran"],
+        "speakers": ["Chau Tran", "Brooke Avery", "Erik Slack"],
         "tags": []
       },
       {
@@ -21272,7 +21272,7 @@
         "type": "blog",
         "title": "NgRx Action Group Creator",
         "url": "https://dev.to/ngrx/ngrx-action-group-creator-1deh",
-        "description": "In this article, we'll explore a new feature from the @ngrx/store package - the createActionGroup function that is introduced in version 13.2.\n\n(Cover photo by Karsten Wurth on Unsplash.)",
+        "description": "In this article, we'll explore a new feature from the @ngrx/store package - the createActionGroup function that is introduced in version 13.2.\n\n(photo: by Karsten Wurth on Unsplash.)",
         "datePosted": "2022-05-03",
         "dateSource": "2022-05-03",
         "sourceSite": "DEV Community",
@@ -22164,7 +22164,7 @@
         "sourceUrl": "https://spreaker.com",
         "authorName": "Angular Experience",
         "authorUrl": "https://angular-experience.web.app/episodes",
-        "speakers": ["Igor Minar"],
+        "speakers": ["Igor Minar", "Brooke Avery", "Erik Slack"],
         "tags": []
       },
       {
@@ -23462,7 +23462,7 @@
         "sourceUrl": "https://spreaker.com",
         "authorName": "Angular Experience",
         "authorUrl": "https://angular-experience.web.app/episodes",
-        "speakers": ["Joe Pea"],
+        "speakers": ["Joe Pea", "Brooke Avery", "Erik Slack"],
         "tags": []
       },
       {
@@ -24780,7 +24780,7 @@
         "sourceUrl": "https://spreaker.com",
         "authorName": "Angular Experience",
         "authorUrl": "https://angular-experience.web.app/episodes",
-        "speakers": ["Paul Spears"],
+        "speakers": ["Paul Spears", "Brooke Avery", "Erik Slack"],
         "tags": []
       },
       {
@@ -24834,7 +24834,7 @@
         "type": "blog",
         "title": "How to disable events in Angular — Fran Prieto",
         "url": "https://medium.com/@franprietodeveloper/how-to-disable-events-in-angular-fran-prieto-46ba8a86b89d",
-        "description": "Sometimes we have an event bound to an element and for any reason we have to avoid that this event is triggered, so we have to disable that event. To do such tasks, in vanilla JavaScript we have a method like preventDefault(). We will see how to disable events in Angular.\n(photo by Gerd Altmann found in Pixabay)",
+        "description": "Sometimes we have an event bound to an element and for any reason we have to avoid that this event is triggered, so we have to disable that event. To do such tasks, in vanilla JavaScript we have a method like preventDefault(). We will see how to disable events in Angular.\n(photo: by Gerd Altmann found in Pixabay)",
         "datePosted": "2022-05-23",
         "dateSource": "2022-05-23",
         "sourceSite": "Medium",
@@ -24849,7 +24849,7 @@
         "type": "blog",
         "title": "7 Key Points From State of Angular — Google I/O 2022",
         "url": "https://betterprogramming.pub/7-key-points-from-state-of-angular-google-i-o-2022-6f2c95540cac",
-        "description": "Here we will focus on Angular and the future of this framework. The key points mentioned during State of Angular by Mark Thompson and Emma Twersky align with some major features of Angular 14.\n(photo by Mitchell Luo on Unsplash)",
+        "description": "Here we will focus on Angular and the future of this framework. The key points mentioned during State of Angular by Mark Thompson and Emma Twersky align with some major features of Angular 14.\n(photo: by Mitchell Luo on Unsplash)",
         "datePosted": "2022-05-23",
         "dateSource": "2022-05-23",
         "sourceSite": "Medium",
@@ -25164,7 +25164,7 @@
         "type": "blog",
         "title": "Angular's Vision for the Future",
         "url": "https://blog.angular.io/angulars-vision-for-the-future-3cfca5e7b448",
-        "description": "In the Angular 2021 recap and 2022 preview post, we shared our plans for 2022. As we are almost midway through 2022, this is a great time to give more insights into our long-term plan and some hints of what we might work on in 2023.\n(photo by Pixabay)",
+        "description": "In the Angular 2021 recap and 2022 preview post, we shared our plans for 2022. As we are almost midway through 2022, this is a great time to give more insights into our long-term plan and some hints of what we might work on in 2023.\n(photo: by Pixabay)",
         "datePosted": "2022-05-24",
         "dateSource": "2022-05-24",
         "sourceSite": "Angular Blog",
@@ -25837,7 +25837,7 @@
         "type": "blog",
         "title": "TrackId: Infixing trackBy capabilities to *ngFor in a centralised way across your Angular application",
         "url": "https://ankit-kaushik.medium.com/trackid-infixing-trackby-capabilities-to-ngfor-in-a-centralised-way-across-your-angular-f1286f703469",
-        "description": "Often times you might have realised to provide trackBy input to your ngForOf directive for performance optimisation but in the next moment you are too lazy to do it at several places at once and furthermore it feels too much of a overhead to keep doing this for the ongoing development.\n(photo by Blocks Fletcher on Unsplash)",
+        "description": "Often times you might have realised to provide trackBy input to your ngForOf directive for performance optimisation but in the next moment you are too lazy to do it at several places at once and furthermore it feels too much of a overhead to keep doing this for the ongoing development.\n(photo: by Blocks Fletcher on Unsplash)",
         "datePosted": "2022-05-29",
         "dateSource": "2022-05-29",
         "sourceSite": "Medium",
@@ -26097,7 +26097,7 @@
         "sourceUrl": "https://spreaker.com",
         "authorName": "Angular Experience",
         "authorUrl": "https://angular-experience.web.app/episodes",
-        "speakers": ["Ryan Chenkie"],
+        "speakers": ["Ryan Chenkie", "Brooke Avery", "Erik Slack"],
         "tags": []
       },
       {
@@ -26773,7 +26773,7 @@
         "type": "blog",
         "title": "Game Database Project in Angular",
         "url": "https://nabendu82.medium.com/game-database-project-in-angular-648a440e72a0",
-        "description": "We are going to build a cool game database project in Angular. In this project we are going to get the data from an API, which contains details of more then 50,000 game and use various features of Angular to show them.\n(photo by Fabio Silva on Unsplash)",
+        "description": "We are going to build a cool game database project in Angular. In this project we are going to get the data from an API, which contains details of more then 50,000 game and use various features of Angular to show them.\n(photo: by Fabio Silva on Unsplash)",
         "datePosted": "2022-06-03",
         "dateSource": "2022-06-02",
         "sourceSite": "Medium",
@@ -27121,7 +27121,7 @@
         "dateSource": "2022-06-04",
         "sourceSite": "Medium",
         "sourceUrl": "https://medium.com/tag/angular/latest",
-        "authorName": "Srikanth Y (@srisad95)",
+        "authorName": "Srikanth Y",
         "authorUrl": "https://srisad95.medium.com",
         "speakers": [],
         "tags": ["Angular Material", "Forms"]
@@ -27240,7 +27240,7 @@
         "type": "blog",
         "title": "NGXS: @Snapshot on @Select",
         "url": "https://ankit-kaushik.medium.com/ngxs-snapshot-on-select-75bea6b6197f",
-        "description": "Reading your observable state slice in a declarative fashion and instantiating/updating your component property accordingly, so you don't have to put multiple subscribe blocks in your init function(in case you don't want to observe it in your template)\n(photo by Patrick on Unsplash)",
+        "description": "Reading your observable state slice in a declarative fashion and instantiating/updating your component property accordingly, so you don't have to put multiple subscribe blocks in your init function(in case you don't want to observe it in your template)\n(photo: by Patrick on Unsplash)",
         "datePosted": "2022-06-04",
         "dateSource": "2022-06-04",
         "sourceSite": "Medium",
@@ -27307,7 +27307,7 @@
         "type": "blog",
         "title": "Working with Angular HttpClient",
         "url": "https://www.webtutpro.com/working-with-angular-httpclient-f3fccb263d02",
-        "description": "In this article, we will instead be focusing on how to use the HttpClient, leverage its type safety and extend it for our customizations. There are ways to bypass the type safety which inadvertently happens when we are not careful. We will implement an approach which leverages classes and interfaces to provide a custom, type safe and consistent access to different entities.\n(photo by Maxwell Nelson on Unsplash)",
+        "description": "In this article, we will instead be focusing on how to use the HttpClient, leverage its type safety and extend it for our customizations. There are ways to bypass the type safety which inadvertently happens when we are not careful. We will implement an approach which leverages classes and interfaces to provide a custom, type safe and consistent access to different entities.\n(photo: by Maxwell Nelson on Unsplash)",
         "datePosted": "2022-06-05",
         "dateSource": "2022-06-05",
         "sourceSite": "Medium",
@@ -27461,7 +27461,7 @@
         "sourceUrl": "https://spreaker.com",
         "authorName": "Angular Experience",
         "authorUrl": "https://angular-experience.web.app/episodes",
-        "speakers": ["Michael Dowden"],
+        "speakers": ["Michael Dowden", "Brooke Avery", "Erik Slack"],
         "tags": []
       },
       {
@@ -27644,7 +27644,7 @@
         "type": "blog",
         "title": "Why and How to Create an Impure Filter Pipe in Angular",
         "url": "https://betterprogramming.pub/why-and-how-to-create-an-impure-filter-pipe-in-angular-a3916de5841f",
-        "description": "Understand why Angular doesn't ship with filtering and sorting pipes and how you can create a custom filter pipe\n(photo by Erlend Ekseth on Unsplash)",
+        "description": "Understand why Angular doesn't ship with filtering and sorting pipes and how you can create a custom filter pipe\n(photo: by Erlend Ekseth on Unsplash)",
         "datePosted": "2022-06-07",
         "dateSource": "2022-06-07",
         "sourceSite": "Medium",
@@ -27659,7 +27659,7 @@
         "type": "blog",
         "title": "Split Angular Nested Forms Into Subform Components",
         "url": "https://betterprogramming.pub/split-angular-nested-forms-into-subform-components-dcf32d1fb10d",
-        "description": "How to turn an Angular nested form into smaller subform components.\n(photo by DTatiana8)",
+        "description": "How to turn an Angular nested form into smaller subform components.\n(photo: by DTatiana8)",
         "datePosted": "2022-06-07",
         "dateSource": "2022-06-07",
         "sourceSite": "Medium",
@@ -28026,7 +28026,7 @@
         "type": "blog",
         "title": "How to Manage Complex Forms in Angular",
         "url": "https://javascript.plainenglish.io/how-to-manage-complex-forms-in-angular-7bd0007dea5e",
-        "description": "Have you ever encountered difficulties in handling forms containing several FormArray, often even nested? In this article, we will see how to save and modify data from a form containing several FormArray.\n(photo by Esther Jiao on Unsplash)",
+        "description": "Have you ever encountered difficulties in handling forms containing several FormArray, often even nested? In this article, we will see how to save and modify data from a form containing several FormArray.\n(photo: by Esther Jiao on Unsplash)",
         "datePosted": "2022-06-09",
         "dateSource": "2022-06-08",
         "sourceSite": "Medium",
@@ -28524,7 +28524,7 @@
         "dateSource": "2022-06-11",
         "sourceSite": "Medium",
         "sourceUrl": "https://medium.com/tag/angular/latest",
-        "authorName": "Srikanth Y (@srisad95)",
+        "authorName": "Srikanth Y",
         "authorUrl": "https://srisad95.medium.com",
         "speakers": [],
         "tags": []
@@ -28580,7 +28580,7 @@
         "type": "blog",
         "title": "Integrating analytics to your Angular application in an abstract(plug n play) fashion",
         "url": "https://ankit-kaushik.medium.com/integrating-analytics-to-your-angular-application-in-an-abstract-plug-n-play-fashion-ff2ea57fb42f",
-        "description": "Taking Countly as an example this time...\n(photo by Justin Morgan on Unsplash)",
+        "description": "Taking Countly as an example this time...\n(photo: by Justin Morgan on Unsplash)",
         "datePosted": "2022-06-12",
         "dateSource": "2022-06-12",
         "sourceSite": "Medium",
@@ -28776,7 +28776,7 @@
         "sourceUrl": "https://spreaker.com",
         "authorName": "Angular Experience",
         "authorUrl": "https://angular-experience.web.app/episodes",
-        "speakers": ["Martine Dowden"],
+        "speakers": ["Martine Dowden", "Brooke Avery", "Erik Slack"],
         "tags": []
       }
     ]
@@ -28789,7 +28789,7 @@
         "type": "blog",
         "title": "Angular Guards: Disabling Browser's Back Button To A Specific URL",
         "url": "https://medium.com/codex/angular-guards-disabling-browsers-back-button-for-specific-url-fdf05d9fe155",
-        "description": "How to disable navigation with the browser's back button in Angular and leave your window history intact.\n(photo by gorodenkoff)",
+        "description": "How to disable navigation with the browser's back button in Angular and leave your window history intact.\n(photo: by gorodenkoff)",
         "datePosted": "2022-06-14",
         "dateSource": "2022-06-14",
         "sourceSite": "Medium",
@@ -28804,7 +28804,7 @@
         "type": "blog",
         "title": "RxJS Testing — Write Unit Tests for Observables",
         "url": "https://medium.com/@denis.loh/rxjs-testing-write-unit-tests-for-observables-603af959e251",
-        "description": "Advance your unit testing skills by writing tests with the RxJS testing features.\n(photo by Davyn Ben on Unsplash)",
+        "description": "Advance your unit testing skills by writing tests with the RxJS testing features.\n(photo: by Davyn Ben on Unsplash)",
         "datePosted": "2022-06-14",
         "dateSource": "2022-06-14",
         "sourceSite": "Medium",
@@ -28880,7 +28880,7 @@
         "type": "blog",
         "title": "Angular Automatic BlockUI",
         "url": "https://medium.com/@anassguendef/angular-automatic-blockui-6afac87a026d",
-        "description": "In this short story, I'll show you how to configure your Angular app to manage UI blocking automatically.\n(photo by Mike van den Bos on Unsplash)",
+        "description": "In this short story, I'll show you how to configure your Angular app to manage UI blocking automatically.\n(photo: by Mike van den Bos on Unsplash)",
         "datePosted": "2022-06-14",
         "dateSource": "2022-06-14",
         "sourceSite": "Medium",
@@ -28931,7 +28931,7 @@
         "type": "blog",
         "title": "Design Patterns in Angular (part I)",
         "url": "https://dev.to/armandotrue/design-patterns-in-angular-part-i-3ld7",
-        "description": "Every experienced developer has at least some design patterns that they have heard about. But the common stereotype is that in front end development no one has ever used them. Today, let's dive into the design patterns that are either already being used in Angular development, or, even better, can be utilized to overcome common challenges.\n(photo by Caspar Camille Rubin on Unsplash.)",
+        "description": "Every experienced developer has at least some design patterns that they have heard about. But the common stereotype is that in front end development no one has ever used them. Today, let's dive into the design patterns that are either already being used in Angular development, or, even better, can be utilized to overcome common challenges.\n(photo: by Caspar Camille Rubin on Unsplash.)",
         "datePosted": "2022-06-15",
         "dateSource": "2022-06-15",
         "sourceSite": "DEV Community",
@@ -29552,7 +29552,7 @@
         "type": "blog",
         "title": "Steal this elegant trick right now to repeat templates without *ngFor",
         "url": "https://medium.com/bytelimes/steal-this-elegant-trick-right-now-to-repeat-templates-without-ngfor-b2a0ce9e39a5",
-        "description": "The *ngFor directive is great when repeating templates for iterables. But when it comes to simply repeating templates based on a number, you have to hack your way around it.\n(photo by Rhett Wesley on Unsplash)",
+        "description": "The *ngFor directive is great when repeating templates for iterables. But when it comes to simply repeating templates based on a number, you have to hack your way around it.\n(photo: by Rhett Wesley on Unsplash)",
         "datePosted": "2022-06-18",
         "dateSource": "2022-06-18",
         "sourceSite": "Medium",
@@ -29567,7 +29567,7 @@
         "type": "blog",
         "title": "Retrying HTTP Requests a Fixed Number of Times With a Delay in Angular",
         "url": "https://ramya-bala221190.medium.com/rxjs-angular-retrying-sequential-or-parallel-http-requests-a-fixed-number-of-times-and-also-with-a-b445e1560f88",
-        "description": "A guide on retrying sequential or parallel HTTP requests a fixed number of times with a delay using RxJS, Angular.\n(photo by Mitchell Luo on Unsplash)",
+        "description": "A guide on retrying sequential or parallel HTTP requests a fixed number of times with a delay using RxJS, Angular.\n(photo: by Mitchell Luo on Unsplash)",
         "datePosted": "2022-06-18",
         "dateSource": "2022-06-18",
         "sourceSite": "Medium",
@@ -29650,7 +29650,7 @@
         "type": "blog",
         "title": "Angular — charting done right",
         "url": "https://levelup.gitconnected.com/angular-charting-done-right-2564dc52027f",
-        "description": "When working with large amounts of data or while analysing data, charts are a popular technique to present the data in an easy and comprehensive way. In this article, I will show you how to integrate charts into an Angular app based on a simple demonstration. For this demo, I use ngx-echarts, a popular library where you can create various diagrams.\n(photo by Olga Tutunaru on Unsplash)",
+        "description": "When working with large amounts of data or while analysing data, charts are a popular technique to present the data in an easy and comprehensive way. In this article, I will show you how to integrate charts into an Angular app based on a simple demonstration. For this demo, I use ngx-echarts, a popular library where you can create various diagrams.\n(photo: by Olga Tutunaru on Unsplash)",
         "datePosted": "2022-06-19",
         "dateSource": "2022-06-19",
         "sourceSite": "Medium",
@@ -29754,7 +29754,7 @@
         "sourceUrl": "https://spreaker.com",
         "authorName": "Angular Experience",
         "authorUrl": "https://angular-experience.web.app/episodes",
-        "speakers": ["Jordan Powell"],
+        "speakers": ["Jordan Powell", "Brooke Avery", "Erik Slack"],
         "tags": []
       },
       {
@@ -30537,7 +30537,7 @@
         "authorName": "Sablepankaj",
         "authorUrl": "https://medium.com/@sablepankaj190",
         "speakers": [],
-        "tags": ["Configuration"]
+        "tags": ["Configuration", "JSON"]
       },
       {
         "slug": "2022-06-24-E",
@@ -31015,7 +31015,7 @@
         "sourceUrl": "https://spreaker.com",
         "authorName": "Angular Experience",
         "authorUrl": "https://angular-experience.web.app/episodes",
-        "speakers": ["Doguhan Uluca"],
+        "speakers": ["Doguhan Uluca", "Brooke Avery", "Erik Slack"],
         "tags": []
       },
       {
@@ -32177,7 +32177,7 @@
         "sourceUrl": "https://spreaker.com",
         "authorName": "Angular Experience",
         "authorUrl": "https://angular-experience.web.app/episodes",
-        "speakers": ["Carl Bergenhem"],
+        "speakers": ["Carl Bergenhem", "Brooke Avery", "Erik Slack"],
         "tags": []
       },
       {
@@ -33157,7 +33157,7 @@
         "sourceUrl": "https://spreaker.com",
         "authorName": "Angular Experience",
         "authorUrl": "https://angular-experience.web.app/episodes",
-        "speakers": ["Colum Ferry"],
+        "speakers": ["Colum Ferry", "Brooke Avery", "Erik Slack"],
         "tags": []
       },
       {
@@ -33489,7 +33489,7 @@
         "authorName": "Jaya Sahita Avadata",
         "authorUrl": "https://medium.com/@jh00032012",
         "speakers": ["Jaya Sahita Avadata"],
-        "tags": ["HttpClient"]
+        "tags": ["HttpClient", "JSON"]
       },
       {
         "slug": "2022-07-13-J",
@@ -33925,7 +33925,7 @@
         "authorName": "Naveen Bommidi Tech Seeker",
         "authorUrl": "https://www.youtube.com/c/NaveenTechSeeker/videos",
         "speakers": ["Naveen Bommidi"],
-        "tags": ["GraphQL"]
+        "tags": ["GraphQL", "CRUD"]
       },
       {
         "slug": "2022-07-16-F",
@@ -34196,7 +34196,7 @@
         "sourceUrl": "https://spreaker.com",
         "authorName": "Angular Experience",
         "authorUrl": "https://angular-experience.web.app/episodes",
-        "speakers": ["Craig Shearer"],
+        "speakers": ["Craig Shearer", "Brooke Avery", "Erik Slack"],
         "tags": []
       },
       {
@@ -34441,7 +34441,7 @@
         "slug": "2022-07-19-M",
         "type": "video",
         "duration": "29",
-        "title": "Angular Json File - My Top 8 Settings (2022)",
+        "title": "Angular JSON File - My Top 8 Settings (2022)",
         "url": "https://www.youtube.com/watch?v=L9dG17xbVic",
         "description": "The Angular.json file is where we usually configure the Angular workspace and every particular project or library. In this video, I will share my TOP 8 the most used settings in my angular.json files, and some advanced configurations that might also be useful in your projects. ",
         "datePosted": "2022-07-19",
@@ -34771,7 +34771,7 @@
         "authorName": "Anoop R Warrier",
         "authorUrl": "https://medium.com/@anooprvarrier",
         "speakers": ["Anoop R Warrier"],
-        "tags": ["HttpClient"]
+        "tags": ["HttpClient", "JSON"]
       },
       {
         "slug": "2022-07-21-C",
@@ -35309,7 +35309,7 @@
         "sourceUrl": "https://spreaker.com",
         "authorName": "Angular Experience",
         "authorUrl": "https://angular-experience.web.app/episodes",
-        "speakers": ["Jason Warner"],
+        "speakers": ["Jason Warner", "Brooke Avery", "Erik Slack"],
         "tags": []
       },
       {
@@ -35687,6 +35687,7 @@
         "dateSource": "2022-07-26",
         "sourceSite": "YouTube",
         "sourceUrl": "https://youtube.com",
+        "authorName": "Leela Web Dev",
         "authorUrl": "https://www.youtube.com/c/LeelaWebDev/videos",
         "speakers": ["Leela Narasimha"],
         "tags": ["ngFor", "trackBy"]
@@ -35835,13 +35836,533 @@
   {
     "date": "2022-07-28",
     "dailyPosts": [
-      
+      {
+        "slug": "2022-07-28-A",
+        "type": "blog",
+        "title": "How to Unit Test an NgRx Reducer",
+        "url": "https://marklowg.medium.com/how-to-unit-test-an-ngrx-reducer-f47cd9b55bc2",
+        "description": "Before we start unit testing reducers, we'll begin with a quick recap of NgRx reducers.\n(photo: by Steve Johnson on Unsplash)",
+        "datePosted": "2022-07-28",
+        "dateSource": "2022-07-28",
+        "sourceSite": "Medium",
+        "sourceUrl": "https://medium.com/tag/angular/latest",
+        "authorName": "George Marklow",
+        "authorUrl": "https://marklowg.medium.com",
+        "speakers": ["George Marklow"],
+        "tags": ["NgRx"]
+      },
+      {
+        "slug": "2022-07-28-B",
+        "type": "blog",
+        "title": "Building Conditional Validators in Reactive Forms",
+        "url": "https://medium.com/herodevs/building-conditional-validators-in-reactive-forms-c2f4a9242c0a",
+        "description": "Reactive forms in Angular provide a powerful way to validate your user's inputs in a declarative style. But what happens when the validation rules depend on another form control's value? Here's an example problem that we will use to learn how to write conditional validators in reactive forms.\n(photo: by Javier Allegue Barros on Unsplash)",
+        "datePosted": "2022-07-28",
+        "dateSource": "2022-07-27",
+        "sourceSite": "Medium",
+        "sourceUrl": "https://medium.com/tag/angular/latest",
+        "authorName": "Chris Perko",
+        "authorUrl": "https://medium.com/@perkoHD",
+        "speakers": ["Chris Perko"],
+        "tags": ["Forms", "Reactive Forms", "Validation"]
+      },
+      {
+        "slug": "2022-07-28-C",
+        "type": "blog",
+        "title": "Manage Angular page titles translation",
+        "url": "https://itnext.io/manage-angular-page-titles-translation-d1384bbede86",
+        "description": "Translate pages' titles using the Streamlined page title feature!",
+        "datePosted": "2022-07-28",
+        "dateSource": "2022-07-27",
+        "sourceSite": "Medium",
+        "sourceUrl": "https://medium.com/tag/angular/latest",
+        "authorName": "Adnane Lamghari",
+        "authorUrl": "https://adnane-lamghari.medium.com",
+        "speakers": ["Adnane Lamghari"],
+        "tags": ["title", "Internationalization"]
+      },
+      {
+        "slug": "2022-07-28-D",
+        "type": "blog",
+        "title": "Top 9 Mind-Blowing Features Of New Angular 14 | Hyperlink InfoSystem",
+        "url": "https://hennyjones.medium.com/top-9-mind-blowing-features-of-new-angular-14-hyperlink-infosystem-9d13a1f1745c",
+        "description": "This is supposed to be breaking news for Angular developers. Angular 14 with the latest version which is having Type-based and open-source web framework is out with the new update. Well, this just happened on 2nd June 2022. Considering every version of Angular, Angular 14 is one of the best upgrades that has been launched to date.",
+        "datePosted": "2022-07-28",
+        "dateSource": "2022-07-27",
+        "sourceSite": "Medium",
+        "sourceUrl": "https://medium.com/tag/angular/latest",
+        "authorName": "Henny Jones",
+        "authorUrl": "https://hennyjones.medium.com",
+        "speakers": ["Henny Jones"],
+        "tags": []
+      },
+      {
+        "slug": "2022-07-28-E",
+        "type": "blog",
+        "title": "Angular NgRx Setup with Simple Example using Node Js API (Learn it in 21 Steps)",
+        "url": "https://srisad95.medium.com/angular-ngrx-setup-with-simple-example-using-node-js-api-learn-it-in-14-steps-5acde7183ca2",
+        "description": "",
+        "datePosted": "2022-07-28",
+        "dateSource": "2022-07-27",
+        "sourceSite": "Medium",
+        "sourceUrl": "https://medium.com/tag/angular/latest",
+        "authorName": "Srikanth Y",
+        "authorUrl": "https://srisad95.medium.com",
+        "speakers": ["Srikanth Y"],
+        "tags": []
+      },
+      {
+        "slug": "2022-07-28-F",
+        "type": "blog",
+        "title": "Angular Application Deployment to Azure Web App using GitHub",
+        "url": "https://blog.devgenius.io/angular-application-deployment-to-azure-web-app-using-github-49a4e3a7ba87",
+        "description": "In this article I will demonstrate the process to deploy an Angular application to Azure Web App using GitHub",
+        "datePosted": "2022-07-28",
+        "dateSource": "2022-07-28",
+        "sourceSite": "Medium",
+        "sourceUrl": "https://medium.com/tag/angular/latest",
+        "authorName": "Babula Parida",
+        "authorUrl": "https://medium.com/@babulaparida",
+        "speakers": ["Babula Parida"],
+        "tags": ["Deployment", "Azure"]
+      },
+      {
+        "slug": "2022-07-28-G",
+        "type": "blog",
+        "title": "Notes on RxJS - Introduction",
+        "url": "https://98sunny.hashnode.dev/notes-on-rxjs-introduction-cl64kd3l602tm2snvesm84w3b",
+        "description": "This is my understanding on What RxJS is, and all important terms related to it.",
+        "datePosted": "2022-07-28",
+        "dateSource": "2022-07-27",
+        "sourceSite": "Hashnode",
+        "sourceUrl": "https://hashnode.com/n/angular",
+        "authorName": "Sunny Singh",
+        "authorUrl": "https://hashnode.com/@98sunny",
+        "speakers": ["Sunny Singh"],
+        "tags": ["RxJS"]
+      },
+      {
+        "slug": "2022-07-28-H",
+        "type": "video",
+        "duration": "47",
+        "title": "Angular V14 Parent Child Component Communication using Input() and Output() Decorator - Angular",
+        "url": "https://www.youtube.com/watch?v=5V77yVzzv7A",
+        "description": "In this video we will see about the parent and child communication using Input() and Output() decorator - MongoDB",
+        "datePosted": "2022-07-28",
+        "dateSource": "2022-07-27",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "Leela Web Dev",
+        "authorUrl": "https://www.youtube.com/c/LeelaWebDev/videos",
+        "speakers": ["Leela Narasimha"],
+        "tags": ["@Input", "@Output"]
+      },
+      {
+        "slug": "2022-07-28-J",
+        "type": "video",
+        "duration": "38",
+        "title": "Cypress Component Testing in Angular",
+        "url": "https://www.youtube.com/watch?v=nPqPt-aFDso",
+        "description": "A first look into Angular Component Testing with Cypress",
+        "datePosted": "2022-07-28",
+        "dateSource": "2022-07-28",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "Angular Kenya",
+        "authorUrl": "https://www.youtube.com/c/AngularKenya/videos",
+        "speakers": ["Jordan Powell"],
+        "tags": ["Testing", "Cypress"]
+      },
+      {
+        "slug": "2022-07-28-K",
+        "type": "blog",
+        "title": "Angular two way binding between parent and child components",
+        "url": "https://dev.to/tonyhicks20/angular-two-way-binding-between-parent-and-child-components-16kl",
+        "description": "In Angular, it's well known how to pass data from the parent component to the child. What I would like to demonstrate is how in Angular with two way binding we can ensure that changes in the child are also propagated to the parent when needed.",
+        "datePosted": "2022-07-28",
+        "dateSource": "2022-07-28",
+        "sourceSite": "DEV Community",
+        "sourceUrl": "https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc",
+        "authorName": "Tony Hicks",
+        "authorUrl": "https://dev.to/tonyhicks20",
+        "speakers": ["Tony Hicks"],
+        "tags": ["Two-Way Data Binding"]
+      },
+      {
+        "slug": "2022-07-28-L",
+        "type": "video",
+        "duration": "13",
+        "title": "Angular 13 Tutorial - 9 - Passing data between components using Services",
+        "url": "https://www.youtube.com/watch?v=SEimlo7C-nc",
+        "description": "We are talking aboout passing data from one component to another using services and also discuss the concept of dependency injection",
+        "datePosted": "2022-07-28",
+        "dateSource": "2022-07-28",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "Kode With Kamran",
+        "authorUrl": "https://www.youtube.com/channel/UClAF60JODGbZKoyREtl6S5A/videos",
+        "speakers": [],
+        "tags": ["Services", "Dependency Injection"]
+      },
+      {
+        "slug": "2022-07-28-M",
+        "type": "blog",
+        "title": "Angular Basics: Router Link Overview",
+        "url": "https://www.telerik.com/blogs/angular-basics-router-link-overview",
+        "description": "Learn how to use the Angular Router to add routes and links that render the content we want when we navigate to the routes.",
+        "datePosted": "2022-07-28",
+        "dateSource": "2022-07-28",
+        "sourceSite": "Progress Telerik Blog",
+        "sourceUrl": "https://www.telerik.com/blogs/web-angular",
+        "authorName": "John Au-Yeung",
+        "authorUrl": "https://www.telerik.com/blogs/author/john-au-yeung",
+        "speakers": ["John Au-Yeung"],
+        "tags": ["Router Link"]
+      },
+      {
+        "slug": "2022-07-28-N",
+        "type": "video",
+        "duration": "7",
+        "title": "Support for Cypress 10",
+        "url": "https://www.youtube.com/watch?v=QDWN4C7T-Ck",
+        "description": "Nx 14.5 includes some new generators for migrating to Cypress version 10, plus generators for adding Cypress component tests to your project to support unit and integration tests!",
+        "datePosted": "2022-07-28",
+        "dateSource": "2022-07-28",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "Nrwl - Narwhal Technologies Inc.",
+        "authorUrl": "https://www.youtube.com/c/Nrwl_io/videos",
+        "speakers": [],
+        "tags": ["Nx", "Cypress"]
+      },
+      {
+        "slug": "2022-07-28-P",
+        "type": "blog",
+        "title": "Reactive Forms In Angular",
+        "url": "https://dev.to/angular/reactive-forms-in-angular-350n",
+        "description": "Hi readers, glad to have you as a part of my learning journey! Last week was a bit rough, back again this week with the fifth blog.\nFor the new readers, I document my learning journey in the series 'Getting Started With Angular', hoping it can help people learn.\nThis week we will be learning about Reactive Forms.",
+        "datePosted": "2022-07-28",
+        "dateSource": "2022-07-28",
+        "sourceSite": "DEV Community",
+        "sourceUrl": "https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc",
+        "authorName": "Haimantika Mitra",
+        "authorUrl": "https://dev.to/haimantika",
+        "speakers": ["Haimantika Mitra"],
+        "tags": ["Forms", "Reactive Forms"]
+      }
     ]
   },
   {
     "date": "2022-07-29",
     "dailyPosts": [
-      
+      {
+        "slug": "2022-07-29-A",
+        "type": "blog",
+        "title": "A New Way to Set Inputs on Angular ComponentRefs",
+        "url": "https://netbasal.com/a-new-way-to-set-inputs-on-angular-componentrefs-6214f95db63d",
+        "description": "When creating dynamic components in our applications or writing tests, we use the component reference instance property to change input values. For example...",
+        "datePosted": "2022-07-29",
+        "dateSource": "2022-07-28",
+        "sourceSite": "Medium",
+        "sourceUrl": "https://medium.com/tag/angular/latest",
+        "authorName": "Netanel Basal",
+        "authorUrl": "https://netbasal.medium.com",
+        "speakers": ["Netanel Basal"],
+        "tags": ["viewContainerRef"]
+      },
+      {
+        "slug": "2022-07-29-B",
+        "type": "blog",
+        "title": "A New Method for Retrieving Metadata about Angular Components",
+        "url": "https://netbasal.com/a-new-method-for-retrieving-metadata-about-angular-components-b494351dd130",
+        "description": "A new function named reflectComponentType() has been added to Angular v14.1.0 that returns the following metadata from a component...",
+        "datePosted": "2022-07-29",
+        "dateSource": "2022-07-28",
+        "sourceSite": "Medium",
+        "sourceUrl": "https://medium.com/tag/angular/latest",
+        "authorName": "Netanel Basal",
+        "authorUrl": "https://netbasal.medium.com",
+        "speakers": ["Netanel Basal"],
+        "tags": []
+      },
+      {
+        "slug": "2022-07-29-C",
+        "type": "blog",
+        "title": "Determine Why a Navigation Was Canceled in Angular",
+        "url": "https://netbasal.com/determine-why-a-navigation-was-canceled-in-angular-252a65ebff3c",
+        "description": "Angular v14.1.0 added a new property named code to the NavigationCancel event. It contains a code that indicates why the navigation was canceled. The code is an enum with the following options...",
+        "datePosted": "2022-07-29",
+        "dateSource": "2022-07-29",
+        "sourceSite": "Medium",
+        "sourceUrl": "https://medium.com/tag/angular/latest",
+        "authorName": "Netanel Basal",
+        "authorUrl": "https://netbasal.medium.com",
+        "speakers": ["Netanel Basal"],
+        "tags": ["NavigationCancel", "NavigationCancellationCode"]
+      },
+      {
+        "slug": "2022-07-29-D",
+        "type": "blog",
+        "title": "Data Sharing using Services in Angular",
+        "url": "https://medium.com/@shaikhkamran959/data-sharing-using-services-in-angular-50c6f25ca633",
+        "description": "Michael started his Angular project with two components. He used input decorator to pass data from parent to child component and output decorator to pass data from child to parent component. As the project grew, he kept adding more components to the project and before he knew it, the project was as big as the “Fast and Furious” franchise.",
+        "datePosted": "2022-07-29",
+        "dateSource": "2022-07-28",
+        "sourceSite": "Medium",
+        "sourceUrl": "https://medium.com/tag/angular/latest",
+        "authorName": "Kamran Shaikh",
+        "authorUrl": "https://medium.com/@shaikhkamran959",
+        "speakers": ["Kamran Shaikh"],
+        "tags": ["RxJS", "BehaviorSubject"]
+      },
+      {
+        "slug": "2022-07-29-E",
+        "type": "blog",
+        "title": "RxJS — Why should you learn it?",
+        "url": "https://kaleb-dalla.medium.com/rxjs-why-should-you-learn-it-721fcda7f431",
+        "description": "Hey everyone, if you work with the Angular framework it is highly possible that you'll came across with the RxJS library. So, what is RxJS and why it is important to learn it?",
+        "datePosted": "2022-07-29",
+        "dateSource": "2022-07-28",
+        "sourceSite": "Medium",
+        "sourceUrl": "https://medium.com/tag/angular/latest",
+        "authorName": "Kaleb Dalla",
+        "authorUrl": "https://kaleb-dalla.medium.com",
+        "speakers": ["Kaleb Dalla"],
+        "tags": ["RxJS"]
+      },
+      {
+        "slug": "2022-07-29-F",
+        "type": "blog",
+        "title": "ViewEncapsulation",
+        "url": "https://medium.com/js-development-tidbits/view-encapsulation-7836e4425c71",
+        "description": "In a bid to try and demystify the Shadow DOM in the Angular context. Here we go.\n(photo: by Edward Jenner)",
+        "datePosted": "2022-07-29",
+        "dateSource": "2022-07-28",
+        "sourceSite": "Medium",
+        "sourceUrl": "https://medium.com/tag/angular/latest",
+        "authorName": "B. Chepkorir",
+        "authorUrl": "https://medium.com/@chepkorir",
+        "speakers": [],
+        "tags": ["ViewEncapsulation"]
+      },
+      {
+        "slug": "2022-07-29-G",
+        "type": "video",
+        "duration": "17",
+        "title": "Build A Angular Movie Info App Using RxJS Part2 implement TypeScript",
+        "url": "https://www.youtube.com/watch?v=V3EOfERRHTg",
+        "description": "This is part 2. In this video we will build a movie listing application using JavaScript ES6,  HttpClientModule for making HTTP requests to the OMDb API, Add navigation with routing and create a detail page to your single page application. Implement Interfaces to the application using TypeScript plus use the pipe operator with map from RxJS library",
+        "datePosted": "2022-07-29",
+        "dateSource": "2022-07-28",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "MartinDevs",
+        "authorUrl": "https://www.youtube.com/user/Electronicsmf/videos",
+        "speakers": ["MartinDevs"],
+        "tags": ["HttpClient", "RxJS", "map"]
+      },
+      {
+        "slug": "2022-07-29-H",
+        "type": "video",
+        "duration": "69",
+        "title": "Angular Real World Project Development",
+        "url": "https://www.youtube.com/watch?v=Syis2k_9ilc",
+        "description": "Let's create cool projects together on the stream and go from setting up a new project to finally hosting it!",
+        "datePosted": "2022-07-29",
+        "dateSource": "2022-07-28",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "Simon Grimm",
+        "authorUrl": "https://www.youtube.com/c/SimonGrimmDev/videos",
+        "speakers": ["Simon Grimm"],
+        "tags": []
+      },
+      {
+        "slug": "2022-07-29-J",
+        "type": "podcast",
+        "duration": "49",
+        "title": "Async Angular Testing and Introducing AG Charts - AiA 352",
+        "url": "https://topenddevs.com/podcasts/adventures-in-angular/episodes/async-angular-testing-and-introducing-ag-charts-aia-352",
+        "description": "If you are testing an Angular application, then at some point, you will be required to test asynchronous behavior.  Today on the show, guests Stephen Cooper and Mona Peirov share about how you can validate your internal models with async Angular testing and integrate AG Charts into your workflows.",
+        "datePosted": "2022-07-29",
+        "dateSource": "2022-07-28",
+        "sourceSite": "DevChat.tv",
+        "sourceUrl": "https://adventuresinangular.com",
+        "authorName": "Adventures In Angular",
+        "authorUrl": "https://devchat.tv/show/adventures-in-angular/",
+        "speakers": ["Mana Peirov", "Stephen Cooper"],
+        "tags": ["Charts", "Testing"]
+      },
+      {
+        "slug": "2022-07-29-K",
+        "type": "video",
+        "duration": "48",
+        "title": "View Encapsulation, Template Variable and its Scope, @ViewChild and Content Projection - Angular V14",
+        "url": "https://www.youtube.com/watch?v=C35aDpW8TwU",
+        "description": "In this video we will see about the view encapsulation, Template Variable and its Scope @ViewChild and Content Projection - Angular V14",
+        "datePosted": "2022-07-29",
+        "dateSource": "2022-07-28",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "Leela Web Dev",
+        "authorUrl": "https://www.youtube.com/c/LeelaWebDev/videos",
+        "speakers": ["Leela Narasimha"],
+        "tags": ["ViewEncapsulation", "@ViewChild", "Content Projection"]
+      },
+      {
+        "slug": "2022-07-29-L",
+        "type": "blog",
+        "title": "Angular URL State management with Query Params or Route Params",
+        "url": "https://dev.to/pavankjadda/angular-url-state-management-with-query-params-or-route-params-3mcb",
+        "description": "This blog post explains the process to maintain state using browser URL. In Angular there are couple of different ways to manage the state",
+        "datePosted": "2022-07-29",
+        "dateSource": "2022-07-28",
+        "sourceSite": "DEV Community",
+        "sourceUrl": "https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc",
+        "authorName": "Pavan K Jadda",
+        "authorUrl": "https://dev.to/pavankjadda",
+        "speakers": ["Pavan K Jadda"],
+        "tags": ["State Management", "Query Params", "Route Params"]
+      },
+      {
+        "slug": "2022-07-29-M",
+        "type": "video",
+        "duration": "49",
+        "title": "Day 21 Dependency Injection",
+        "url": "https://www.youtube.com/watch?v=VGuxPhRayT8",
+        "description": "Angular Complete Course: In this playlist, I will explain to you everything you need to get started with the Angular framework. Angular is a very popular framework used to create single-page applications (SPA). This video will cover an Angular Project in English",
+        "datePosted": "2022-07-29",
+        "dateSource": "2022-07-29",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "Livepure Techonlogy",
+        "authorUrl": "https://www.youtube.com/channel/UCtu5ZE6cdEBx-7eZGCE4P3Q/videos",
+        "speakers": [],
+        "tags": ["Dependency Injection"]
+      },
+      {
+        "slug": "2022-07-29-N",
+        "type": "blog",
+        "title": "How to Create Angular Chart from CSV Data",
+        "url": "https://dev.to/manoj_004d/how-to-create-angular-chart-from-csv-data-52ed",
+        "description": "In the last article, I have created chart with data from API using HTTPClient module in Angular. Similarly in this article, I will be using same HTTPClient modules and CanvasJS angular chart component to plot chart with data from CSV files.",
+        "datePosted": "2022-07-29",
+        "dateSource": "2022-07-29",
+        "sourceSite": "DEV Community",
+        "sourceUrl": "https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc",
+        "authorName": "Manoj Mohan",
+        "authorUrl": "https://dev.to/manoj_004d",
+        "speakers": ["Manoj Mohan"],
+        "tags": ["Charts", "HttpClient"]
+      },
+      {
+        "slug": "2022-07-29-P",
+        "type": "video",
+        "duration": "15",
+        "title": "Angular 14 Project to Read & Display JSON Data inside Bootstrap 4 Table in Browser Using TypeScript",
+        "url": "https://www.youtube.com/watch?v=7UCZFl-sJlU",
+        "description": "",
+        "datePosted": "2022-07-29",
+        "dateSource": "2022-07-29",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "Coding Shiksha",
+        "authorUrl": "https://www.youtube.com/c/CodingShiksha/videos",
+        "speakers": ["Gautam Sharma"],
+        "tags": ["JSON", "Bootstrap"]
+      },
+      {
+        "slug": "2022-07-29-Q",
+        "type": "blog",
+        "title": "Angular Resolver: A core tutorial for beginners",
+        "url": "https://dev.to/arohiadhyaru/angular-resolver-a-core-tutorial-for-beginners-3a02",
+        "description": "The fundamental purpose of an Angular resolver is to prefetch data even before the user begins to browse it. One option for handling data retrieval and presentation from an API is to route a user to a component and then call a function in a class in a certain component's ngOnInit hook to obtain the required data. Perhaps the component can display a loading indicator when retrieving the data.",
+        "datePosted": "2022-07-29",
+        "dateSource": "2022-07-29",
+        "sourceSite": "DEV Community",
+        "sourceUrl": "https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc",
+        "authorName": "ArohiAdhyaru",
+        "authorUrl": "https://dev.to/arohiadhyaru",
+        "speakers": [],
+        "tags": []
+      },
+      {
+        "slug": "2022-07-29-R",
+        "type": "blog",
+        "title": "A simpler and smaller Angular starter with ngLite",
+        "url": "https://dev.to/angular/a-simpler-and-smaller-angular-starter-with-nglite-1ooh",
+        "description": "A lot of complaints I heard when starting with Angular are about the sheer amount of files you get even on simple apps. When looking at the default starter template you get from Angular CLI's ng new command, it's true that it can be a bit overwhelming if you're not used to it.",
+        "datePosted": "2022-07-29",
+        "dateSource": "2022-07-29",
+        "sourceSite": "DEV Community",
+        "sourceUrl": "https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc",
+        "authorName": "Yohan Lasorsa",
+        "authorUrl": "https://dev.to/sinedied",
+        "speakers": ["Yohan Lasorsa"],
+        "tags": []
+      },
+      {
+        "slug": "2022-07-29-S",
+        "type": "blog",
+        "title": "Angular Typed Forms Supercharged",
+        "url": "https://dev.to/jrubzjeknf/angular-typed-forms-supercharged-1op",
+        "description": "In my previous post about typed forms I mentioned two utility types which make it easier to work with typed forms.\nHere I'll make a three recommendations that will make it a LOT easier to work with typed forms.",
+        "datePosted": "2022-07-29",
+        "dateSource": "2022-07-29",
+        "sourceSite": "DEV Community",
+        "sourceUrl": "https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc",
+        "authorName": "Jrubzjeknf",
+        "authorUrl": "https://dev.to/jrubzjeknf",
+        "speakers": [],
+        "tags": ["Forms", "Typed Forms"]
+      },
+      {
+        "slug": "2022-07-29-T",
+        "type": "video",
+        "duration": "33",
+        "title": "Concurrent Mode in Angular - Non-blocking UIs at scale | Michael Hladky | EnterpriseNG 2021",
+        "url": "https://www.youtube.com/watch?v=pzgnBboBW0s",
+        "description": "In this session, I will teach you the theory behind Concurrent Mode in Angular, how it works, how to enable it in your builds, and how you can use it to speed up the performance of your application.",
+        "datePosted": "2022-07-29",
+        "dateSource": "2022-07-29",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "ng-conf",
+        "authorUrl": "https://www.youtube.com/c/ngconfonline/videos",
+        "speakers": ["Michael Hladky"],
+        "tags": ["Performance"]
+      },
+      {
+        "slug": "2022-07-29-U",
+        "type": "blog",
+        "title": "How to Import and Export Excel XLSX Using Angular",
+        "url": "https://dev.to/grapecity/how-to-import-and-export-excel-xlsx-using-angular-531j",
+        "description": "The Excel spreadsheet has been around since the 1980s. With over 30 million users, most are familiar with the Excel spreadsheet experience. Many businesses begin using Excel spreadsheets for budgeting and planning when their businesses are moderately simple.",
+        "datePosted": "2022-07-29",
+        "dateSource": "2022-07-29",
+        "sourceSite": "DEV Community",
+        "sourceUrl": "https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc",
+        "authorName": "Chelsea Devereaux",
+        "authorUrl": "https://dev.to/chelseadevereaux",
+        "speakers": ["Chelsea Devereaux"],
+        "tags": []
+      },
+      {
+        "slug": "2022-07-29-V",
+        "type": "video",
+        "duration": "21",
+        "title": "Micro Frontends with Angular and Nx",
+        "url": "https://www.youtube.com/watch?v=G3AIr7fTAes",
+        "description": "",
+        "datePosted": "2022-07-29",
+        "dateSource": "2022-07-29",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "TechBuild with San",
+        "authorUrl": "https://www.youtube.com/channel/UCZvWqdjs8pXHHSPn3AOu9EQ/videos",
+        "speakers": [],
+        "tags": ["Nx", "Micro Frontends"]
+      }
     ]
   }
 ]
