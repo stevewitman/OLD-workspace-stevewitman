@@ -1,19 +1,14 @@
-https://javascript.plainenglish.io/retry-rxjs-operator-4aab1fbb4347
-f https://www.youtube.com/watch?v=giGaTjKk6as
-s8 https://www.youtube.com/watch?v=ORMlpzOFWuQ
-s8 https://muhammadawaisshaikh.hashnode.dev/how-to-resolve-material-icons-with-a-cool-resolver
-s9 https://www.youtube.com/watch?v=SPx0Od7y0q4
-s9 https://www.youtube.com/watch?v=eo1pisZHv1A
-s10 https://www.youtube.com/watch?v=qv07isP7aZQ
-
-SUNDAY
-s https://pavankjadda.medium.com/angular-url-state-management-with-query-params-or-route-params-57a550bd9134
-s https://netbasal.com/determine-why-a-navigation-was-canceled-in-angular-252a65ebff3c
-s https://medium.com/@ifrat.ikhtear_96346/http-error-handling-using-interceptor-in-angular-b2e9154e1d26
-s https://medium.com/@sharma4aman16/implementing-state-management-in-angular-using-ngrx-and-what-problem-does-it-solve-4af4715a8da6
-s https://makandre.medium.com/handling-encodings-in-angular-16a52e921dfe
-s https://medium.com/@andre.schouten_ff/whats-the-difference-between-markforcheck-and-detectchanges-in-angular-fff4e5f54d34
-s21 https://www.youtube.com/watch?v=J7LxgIs_LT0
-u0 https://www.youtube.com/watch?v=AoN56g6UAsE
-u4 https://www.youtube.com/watch?v=cpgJr1mCrBU
-u7 https://www.youtube.com/watch?v=Ve31S_1CQ0s
+https://srisad95.medium.com/angular-material-table-with-search-using-node-js-api-learn-it-in-20-steps-c5f54856e4f8
+u https://srisad95.medium.com/angular-material-forms-adding-form-array-in-forms-learn-it-in-19-steps-ee787d4cf0c3
+u https://medium.com/rupesh-tiwari/when-should-you-use-an-exhaust-map-operator-39bfa79b386
+u16 https://www.youtube.com/watch?v=IB9c3K745P8
+u23 https://dev.to/deekshithrajbasa/build-custom-structural-directives-in-angular-like-a-hero-2nk6
+m0 https://medium.com/@gaikwadashish0120/what-are-services-and-tree-shakable-providers-in-angular-services-d9cc97d9c407
+m0 https://angularaddicts.com/angular-addicts-issue-4-micro-frontends-moduliths-tutorials-more-b36923db8cc2
+m1 https://www.youtube.com/watch?v=-iz6WdszkkM
+m2 https://www.youtube.com/watch?v=XmRj1HqR1D0
+m4 https://www.youtube.com/watch?v=cvdBjXsqLIQ
+m7 https://dev.to/ayyash/currency-angular-pipe-ui-language-switch-and-a-verdict-4n25
+m8 https://www.spreaker.com/user/14532324/s2e27-jeff-cross-on-managing-your-career?utm_campaign=episode-title&utm_medium=app&utm_source=widget
+m8 ?? https://www.youtube.com/watch?v=7YgtsePPYaw
+m14 https://www.youtube.com/watch?v=A_DJ5-HMLGI
