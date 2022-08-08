@@ -1,14 +1,80 @@
-https://srisad95.medium.com/angular-material-table-with-search-using-node-js-api-learn-it-in-20-steps-c5f54856e4f8
-u https://srisad95.medium.com/angular-material-forms-adding-form-array-in-forms-learn-it-in-19-steps-ee787d4cf0c3
-u https://medium.com/rupesh-tiwari/when-should-you-use-an-exhaust-map-operator-39bfa79b386
-u16 https://www.youtube.com/watch?v=IB9c3K745P8
-u23 https://dev.to/deekshithrajbasa/build-custom-structural-directives-in-angular-like-a-hero-2nk6
-m0 https://medium.com/@gaikwadashish0120/what-are-services-and-tree-shakable-providers-in-angular-services-d9cc97d9c407
-m0 https://angularaddicts.com/angular-addicts-issue-4-micro-frontends-moduliths-tutorials-more-b36923db8cc2
-m1 https://www.youtube.com/watch?v=-iz6WdszkkM
-m2 https://www.youtube.com/watch?v=XmRj1HqR1D0
-m4 https://www.youtube.com/watch?v=cvdBjXsqLIQ
-m7 https://dev.to/ayyash/currency-angular-pipe-ui-language-switch-and-a-verdict-4n25
-m8 https://www.spreaker.com/user/14532324/s2e27-jeff-cross-on-managing-your-career?utm_campaign=episode-title&utm_medium=app&utm_source=widget
-m8 ?? https://www.youtube.com/watch?v=7YgtsePPYaw
-m14 https://www.youtube.com/watch?v=A_DJ5-HMLGI
+
+m14 
+
+TUESDAY
+n https://medium.com/@chenpeleg/javascript-observables-explained-594f0ffec21e
+m https://medium.com/@aayyash/currency-angular-pipe-ui-language-switch-and-a-verdict-401840375ec
+m https://rauniee.hashnode.dev/creating-a-real-time-search-functionality-using-rxjs
+t0 https://www.youtube.com/watch?v=1s8ZwKbEiXY
+t7 https://www.youtube.com/watch?v=MoRScEseTf4
+t8 https://www.youtube.com/watch?v=BRLiapG3v-4
+t14 https://98sunny.hashnode.dev/mocking-injected-service-and-beforeeach-concepts-cl6ckjvsn01m7fvnv06x6addl
+
+WEDNESDAY
+t https://medium.com/@venkateshb-03/angular-developer-roadmap-2025-things-every-budding-angular-developer-should-know-86061c84a0f9
+t https://javascript.plainenglish.io/angular-async-pipe-714dd864adaa
+w1 https://netbasal.com/getting-to-know-the-runincontext-api-in-angular-f8996d7e00da
+w6 https://www.youtube.com/watch?v=iCyMbezt-Q0
+w6 https://www.youtube.com/watch?v=TZZApWysF9g
+w8 angular master https://open.spotify.com/episode/6on29VMtoEQSd0to8d8DeT
+w10 https://www.youtube.com/watch?v=Z8F4_191pCU
+w12 https://github.com/angular/angular/releases/tag/14.1.1
+w12 https://github.com/angular/angular/releases/tag/14.2.0-next.0
+w12 https://www.youtube.com/watch?v=0rEa5MjW5ME
+w19 https://www.youtube.com/watch?v=jhs4rj_pxWo
+
+THURSDAY
+w19 https://www.youtube.com/watch?v=jhs4rj_pxWo
+w22 ?? https://www.youtube.com/watch?v=qA7Jfr1NWEo
+tues https://medium.com/@adsumsoftware/angular-14-all-the-important-updates-and-key-features-1566d2148bc2
+tues https://medium.com/@ertungabezirgan/add-themes-to-angular-using-css-variables-fc49798285c6
+w https://medium.com/peaksoftgmbh/easy-way-to-optimize-angular-app-performance-9de0c5b3564d
+r https://www.telerik.com/blogs/angular-basics-using-eslint-boost-code-quality
+r1 https://www.youtube.com/watch?v=PevqeI-Hxzs
+r2 https://www.youtube.com/watch?v=wejBctes9jY
+r4 https://www.youtube.com/watch?v=7KZ4iedR2Sw
+r4 https://www.youtube.com/watch?v=daba7xeo4sA
+r5 https://dev.to/vishwas/add-interactive-angular-charts-to-ng-bootstrap-components-15hg
+r8 https://www.youtube.com/watch?v=sr1bKUAaJCg
+r8 https://www.youtube.com/watch?v=sgqx16WZCaw
+r9 https://www.youtube.com/watch?v=QfGMT0eoBrk
+r9 https://www.youtube.com/watch?v=G_kqGWeMORQ
+
+FRIDAY
+w https://medium.com/weekly-webtips/nice-angular-material-selection-dropdown-dc3147db07c6
+f0 https://www.youtube.com/watch?v=aOxgeBG92cc
+f1 https://www.youtube.com/watch?v=Li3gZwvc3Zw
+f3 https://medium.com/@pabasaramahindapala/a-robust-angular-search-bar-with-rxjs-debounce-29a082d6816e
+f4 angular master https://open.spotify.com/episode/4btlNMlhJxA38eLGvPexYy
+f6 https://codereacter.medium.com/how-to-improve-angular-14-reactive-forms-typings-1a9963139023
+f7 https://www.youtube.com/watch?v=CXDH_IV3MYQ
+f8 https://medium.com/@zgollum/crossfade-animation-in-angular-a18f08fe5a03
+f16 https://dev.to/grapecity/a-guide-to-angular-14-release-features-and-updates-442f
+f16 https://dev.to/grapecity/
+add-angular-input-form-mask-validation-features-to-your-web-app-3g7h
+f16 https://dev.to/stacksjar/angular-interview-questions-part-1-5cc2
+f16 https://dev.to/stacksjar/angular-interview-questions-part-2-10bn
+f16 https://dev.to/stacksjar/angular-interview-questions-part-3-4m2h
+f18 https://www.youtube.com/watch?v=hP-oUGbR3N8
+f14 https://youtu.be/fkoFf4_yPRw?t=23
+
+SATURDAY
+f https://ramya-bala221190.medium.com/angular-how-you-can-reload-refresh-a-single-component-or-the-entire-application-and-reuse-the-logic-c6e975a278c3
+f https://itnext.io/make-a-signing-pad-in-angular-vanilla-js-7a3eb7e0599d
+s0 https://www.youtube.com/watch?v=rL7MLmmy58A
+s3 https://www.youtube.com/watch?v=ItZcgy9ZQTQ
+s4 https://open.spotify.com/episode/2dhgfnVpeHY8LUOWvIicKs
+s6 https://www.youtube.com/watch?v=uhFFE1v9XNs
+s6 https://www.youtube.com/watch?v=M3df6OFmeQY
+s7 https://dev.to/rajsaha/listening-to-multiple-form-controls-in-angular-im3
+s9 https://www.youtube.com/watch?v=2-OvE9xRnXA
+
+
+SUNDAY
+s21 https://www.youtube.com/watch?v=BkbId2HQnLA
+s23 https://www.youtube.com/watch?v=AsauWmRnERE
+u2 https://www.youtube.com/watch?v=ktlHXUpEfBE
+u4 https://www.youtube.com/watch?v=rv6pbIAmiI4
+u11 https://www.youtube.com/watch?v=C0SAdxccykU
+u14 https://www.youtube.com/watch?v=dg3q2u9nbnw
+u18 https://www.youtube.com/watch?v=Je01EH_C8HQ
