@@ -908,7 +908,7 @@
         "sourceSite": "Devchat.tv",
         "sourceUrl": "https://devchat.tv",
         "authorName": "Adventures In Angular",
-        "authorUrl": "https://devchat.tv/show/adventures-in-angular/",
+        "authorUrl": "https://topenddevs.com/podcasts/adventures-in-angular/",
         "speakers": ["Patricio Vargas"],
         "tags": ["PWA"]
       },
@@ -1615,6 +1615,7 @@
         "sourceUrl": "https://github.com/angular/angular/releases",
         "authorName": "Andrew Scott",
         "authorUrl": "https://github.com/atscott",
+        "speakers": [],
         "tags": ["Release"]
       },
       {
@@ -1629,6 +1630,7 @@
         "sourceUrl": "https://github.com/angular/angular/releases",
         "authorName": "Andrew Scott",
         "authorUrl": "https://github.com/atscott",
+        "speakers": [],
         "tags": ["Release"]
       },
       {
@@ -1758,7 +1760,7 @@
         "sourceSite": "Devchat.tv",
         "sourceUrl": "https://devchat.tv",
         "authorName": "Adventures In Angular",
-        "authorUrl": "https://devchat.tv/show/adventures-in-angular/",
+        "authorUrl": "https://topenddevs.com/podcasts/adventures-in-angular/",
         "speakers": ["Yiu Pang Chan"],
         "tags": []
       },
@@ -2139,7 +2141,7 @@
         "authorName": "Code Logic",
         "authorUrl": "https://www.youtube.com/channel/UCf7preZhtay-p5vsUPOtbrw/videos",
         "speakers": [],
-        "tags": ["Github Pages"]
+        "tags": ["GitHub Pages"]
       },
       {
         "slug": "2022-01-15-G",
@@ -2716,6 +2718,7 @@
         "sourceUrl": "https://github.com/angular/angular/releases",
         "authorName": "Dylan Hunn",
         "authorUrl": "https://github.com/dylhunn",
+        "speakers": [],
         "tags": ["Release"]
       },
       {
@@ -2790,6 +2793,7 @@
         "sourceUrl": "https://github.com/angular/angular/releases",
         "authorName": "Dylan Hunn",
         "authorUrl": "https://github.com/dylhunn",
+        "speakers": [],
         "tags": ["Release"]
       }
     ]
@@ -3635,6 +3639,7 @@
         "sourceUrl": "https://github.com/angular/angular/releases",
         "authorName": "Andrew Kushnir",
         "authorUrl": "https://github.com/AndrewKushnir",
+        "speakers": [],
         "tags": ["Release"]
       },
       {
@@ -4152,6 +4157,7 @@
         "sourceUrl": "https://github.com/angular/angular/releases",
         "authorName": "Andrew Kushnir",
         "authorUrl": "https://github.com/AndrewKushnir",
+        "speakers": [],
         "tags": ["Release"]
       },
       {
@@ -4166,6 +4172,7 @@
         "sourceUrl": "https://github.com/angular/angular/releases",
         "authorName": "Andrew Kushnir",
         "authorUrl": "https://github.com/AndrewKushnir",
+        "speakers": [],
         "tags": ["Release"]
       },
       {
@@ -4180,6 +4187,7 @@
         "sourceUrl": "https://github.com/angular/angular/releases",
         "authorName": "Joey Perrott",
         "authorUrl": "https://github.com/josephperrott",
+        "speakers": [],
         "tags": ["Release"]
       },
       {
@@ -4248,7 +4256,7 @@
         "sourceSite": "DevChat.tv",
         "sourceUrl": "https://adventuresinangular.com",
         "authorName": "Adventures In Angular",
-        "authorUrl": "https://devchat.tv/show/adventures-in-angular/",
+        "authorUrl": "https://topenddevs.com/podcasts/adventures-in-angular/",
         "speakers": ["Andrew Evans"],
         "tags": []
       },
@@ -5335,7 +5343,7 @@
         "sourceSite": "DevChat.tv",
         "sourceUrl": "https://adventuresinangular.com",
         "authorName": "Adventures In Angular",
-        "authorUrl": "https://devchat.tv/show/adventures-in-angular/",
+        "authorUrl": "https://topenddevs.com/podcasts/adventures-in-angular/",
         "speakers": ["Aristeidis Bampakos"],
         "tags": ["Dependency Injection"]
       },
@@ -8034,7 +8042,7 @@
         "sourceSite": "DevChat.tv",
         "sourceUrl": "https://adventuresinangular.com",
         "authorName": "Adventures In Angular",
-        "authorUrl": "https://devchat.tv/show/adventures-in-angular/",
+        "authorUrl": "https://topenddevs.com/podcasts/adventures-in-angular/",
         "speakers": ["Eric Simons"],
         "tags": []
       },
@@ -10520,7 +10528,7 @@
         "sourceSite": "DevChat.tv",
         "sourceUrl": "https://adventuresinangular.com",
         "authorName": "Adventures In Angular",
-        "authorUrl": "https://devchat.tv/show/adventures-in-angular/",
+        "authorUrl": "https://topenddevs.com/podcasts/adventures-in-angular/",
         "speakers": ["Sam Basu"],
         "tags": ["Dependency Injection"]
       },
@@ -12078,7 +12086,7 @@
         "sourceSite": "DevChat.tv",
         "sourceUrl": "https://adventuresinangular.com",
         "authorName": "Adventures In Angular",
-        "authorUrl": "https://devchat.tv/show/adventures-in-angular/",
+        "authorUrl": "https://topenddevs.com/podcasts/adventures-in-angular/",
         "speakers": ["Jared Youtsey"],
         "tags": []
       }
@@ -18142,8 +18150,8 @@
         "dateSource": "2022-04-14",
         "sourceSite": "Web Rush",
         "sourceUrl": "https://webrush.io",
-        "authorName": "Web Rush",
-        "authorUrl": "https://webrush.io",
+        "authorName": "Ramona Schwering",
+        "authorUrl": "https://twitter.com/leichteckig",
         "speakers": ["Ramona Schwering"],
         "tags": ["Testing"]
       },
@@ -21823,7 +21831,7 @@
         "sourceSite": "DevChat.tv",
         "sourceUrl": "https://adventuresinangular.com",
         "authorName": "Adventures In Angular",
-        "authorUrl": "https://devchat.tv/show/adventures-in-angular/",
+        "authorUrl": "https://topenddevs.com/podcasts/adventures-in-angular/",
         "speakers": ["Hossein Mousavi"],
         "tags": ["Forms", "Template Driven Forms", "Reactive Forms"]
       },
@@ -28015,6 +28023,21 @@
         "authorUrl": "https://www.youtube.com/c/SoftwareNuggets/videos",
         "speakers": [],
         "tags": ["Routing"]
+      },
+      {
+        "slug": "2022-06-08-M",
+        "type": "blog",
+        "title": "Standalone components with Custom Title Strategy in Angular 14",
+        "url": "https://medium.com/geekculture/standalone-components-with-custom-title-strategy-in-angular-14-aec71a23bcd8",
+        "description": "Till Angular 13, the smallest possible reusable block of code in an Angular application was NgModule. Then, there came an RFC (RFC #43784) to make NgModules optional. The idea behind it was to reduce the boilerplate code for getting started with an Angular application and to get rid of *.module.ts files...",
+        "datePosted": "2022-06-08",
+        "dateSource": "2022-06-07",
+        "sourceSite": "Medium",
+        "sourceUrl": "https://medium.com/tag/angular/latest",
+        "authorName": "Akash Kriplani",
+        "authorUrl": "https://medium.com/@akashkriplani",
+        "speakers": ["Akash Kriplani"],
+        "tags": ["Standalone Components", "title"]
       }
     ]
   },
@@ -30504,7 +30527,7 @@
         "sourceSite": "DevChat.tv",
         "sourceUrl": "https://adventuresinangular.com",
         "authorName": "Adventures In Angular",
-        "authorUrl": "https://devchat.tv/show/adventures-in-angular/",
+        "authorUrl": "https://topenddevs.com/podcasts/adventures-in-angular/",
         "speakers": ["Tomas Trajan"],
         "tags": ["NgRx"]
       },
@@ -32642,7 +32665,7 @@
         "sourceSite": "DevChat.tv",
         "sourceUrl": "https://adventuresinangular.com",
         "authorName": "Adventures In Angular",
-        "authorUrl": "https://devchat.tv/show/adventures-in-angular/",
+        "authorUrl": "https://topenddevs.com/podcasts/adventures-in-angular/",
         "speakers": ["Rainer Hahnekamp"],
         "tags": ["Standalone Components"]
       },
@@ -33680,7 +33703,7 @@
         "sourceSite": "DevChat.tv",
         "sourceUrl": "https://adventuresinangular.com",
         "authorName": "Adventures In Angular",
-        "authorUrl": "https://devchat.tv/show/adventures-in-angular/",
+        "authorUrl": "https://topenddevs.com/podcasts/adventures-in-angular/",
         "speakers": ["Lars Gyrup Brink Nielsen"],
         "tags": ["Nx"]
       },
@@ -34848,8 +34871,8 @@
         "dateSource": "2022-07-21",
         "sourceSite": "Web Rush",
         "sourceUrl": "https://webrush.io",
-        "authorName": "Web Rush",
-        "authorUrl": "https://webrush.io",
+        "authorName": "Aristeidis Bampakos",
+        "authorUrl": "https://twitter.com/abampakos",
         "speakers": ["Aristeidis Bampakos"],
         "tags": ["Internationalization"]
       },
@@ -34929,7 +34952,7 @@
         "sourceSite": "DevChat.tv",
         "sourceUrl": "https://adventuresinangular.com",
         "authorName": "Adventures In Angular",
-        "authorUrl": "https://devchat.tv/show/adventures-in-angular/",
+        "authorUrl": "https://topenddevs.com/podcasts/adventures-in-angular/",
         "speakers": [],
         "tags": ["Community"]
       },
@@ -36189,7 +36212,7 @@
         "sourceSite": "DevChat.tv",
         "sourceUrl": "https://adventuresinangular.com",
         "authorName": "Adventures In Angular",
-        "authorUrl": "https://devchat.tv/show/adventures-in-angular/",
+        "authorUrl": "https://topenddevs.com/podcasts/adventures-in-angular/",
         "speakers": ["Mana Peirov", "Stephen Cooper"],
         "tags": ["Charts", "Testing"]
       },
@@ -36730,8 +36753,8 @@
         "dateSource": "2022-08-01",
         "sourceSite": "DEV Community",
         "sourceUrl": "https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc",
-        "authorName": "",
-        "authorUrl": "",
+        "authorName": "Ayyash",
+        "authorUrl": "https://dev.to/ayyash",
         "speakers": [],
         "tags": ["Pipes"]
       },
@@ -36797,6 +36820,279 @@
         "authorUrl": "https://www.youtube.com/channel/UCOAvYSXh-6sMR5FT4MtzMJg/videos",
         "speakers": [],
         "tags": []
+      }
+    ]
+  },
+  {
+    "date": "2022-08-02",
+    "dailyPosts": [
+      {
+        "slug": "2022-08-02-A",
+        "type": "blog",
+        "title": "Javascript Observables Explained",
+        "url": "https://medium.com/@chenpeleg/javascript-observables-explained-594f0ffec21e",
+        "description": "As Front-end developers, we encounter Observables as classes, objects or patterns, whether if it's in Angular, RxJS or through Redux (Redux uses the Observable pattern).\n\nI will try to unveil the “magic” behind the Observables in javascript by creating two very simple examples of them. These examples are very simplified versions.",
+        "datePosted": "2022-08-02",
+        "dateSource": "2022-08-01",
+        "sourceSite": "Medium",
+        "sourceUrl": "https://medium.com/tag/angular/latest",
+        "authorName": "Chenpeleg",
+        "authorUrl": "https://medium.com/@chenpeleg",
+        "speakers": [],
+        "tags": ["Observables", "RxJS"]
+      },
+      {
+        "slug": "2022-08-02-B",
+        "type": "blog",
+        "title": "Currency Angular pipe, UI language switch, and a verdict",
+        "url": "https://medium.com/@aayyash/currency-angular-pipe-ui-language-switch-and-a-verdict-401840375ec",
+        "description": "The current i18n packages provided by Angular for that purpose serve the purpose well. In this series of articles I want to create an alternative solution for smaller scale apps.",
+        "datePosted": "2022-08-02",
+        "dateSource": "2022-08-01",
+        "sourceSite": "Medium",
+        "sourceUrl": "https://medium.com/tag/angular/latest",
+        "authorName": "Ayyash",
+        "authorUrl": "https://medium.com/@aayyash",
+        "speakers": [],
+        "tags": ["Pipes"]
+      },
+      {
+        "slug": "2022-08-02-C",
+        "type": "blog",
+        "title": "Creating A Real-Time Search Functionality Using RxJS",
+        "url": "https://rauniee.hashnode.dev/creating-a-real-time-search-functionality-using-rxjs",
+        "description": "Guys today we are going to implement real-time search implementation using RxJS(Reactive extension of JavaScript)\n\nReal-time search functionality in the sense for every user input search string we need to make API calls to the server to bring data.",
+        "datePosted": "2022-08-02",
+        "dateSource": "2022-08-01",
+        "sourceSite": "Hashnode",
+        "sourceUrl": "https://hashnode.com/n/angular",
+        "authorName": "Raunak Thakkar",
+        "authorUrl": "https://hashnode.com/@Rauniee",
+        "speakers": ["Raunak Thakkar"],
+        "tags": ["RxJS"]
+      },
+      {
+        "slug": "2022-08-02-D",
+        "type": "video",
+        "duration": "47",
+        "title": "Angular V14 CRUD Operations using Input and Output Decorators - Angular",
+        "url": "https://www.youtube.com/watch?v=1s8ZwKbEiXY",
+        "description": "In this video we will see about the CRUD Operations using the Input and Output Decorators using Angular 14",
+        "datePosted": "2022-08-02",
+        "dateSource": "2022-08-01",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "Leela Web Dev",
+        "authorUrl": "https://www.youtube.com/c/LeelaWebDev/videos",
+        "speakers": ["Leela Narasimha"],
+        "tags": ["CRUD", "@Input", "@Output"]
+      },
+      {
+        "slug": "2022-08-02-E",
+        "type": "video",
+        "duration": "24",
+        "title": "APP_INITIALIZER Token in Angular (Advanced, 2022)",
+        "url": "https://www.youtube.com/watch?v=MoRScEseTf4",
+        "description": " In real Angular applications, it might happen that you need to perform some logic or pull the data even before Angular will start rendering the very first component. So basically, we want to have something like ngOnInit lifecycle hook but for the whole application. This is where the APP_INITIALIZER token in Angular comes into play! In this video, you will see how to use this token and what you should pay attention to",
+        "datePosted": "2022-08-02",
+        "dateSource": "2022-08-02",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "Decoded Frontend",
+        "authorUrl": "https://www.youtube.com/c/DecodedFrontend/videos",
+        "speakers": ["Dmytro Mezhenskyi"],
+        "tags": ["APP_INITIALIZER"]
+      },
+      {
+        "slug": "2022-08-02-F",
+        "type": "video",
+        "duration": "15",
+        "title": "Account Layout Configuration (Part 2) | Angular for Beginner & Expert | Angular children routing",
+        "url": "https://www.youtube.com/watch?v=BRLiapG3v-4",
+        "description": "This is Part 2 of the angular 14 series and in this video, I have explained about the children and lazy routing. Also explained about basic core and page folder structure.",
+        "datePosted": "2022-08-02",
+        "dateSource": "2022-08-02",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "Beginner 2 Expert",
+        "authorUrl": "https://www.youtube.com/c/Beginner2Expert/videos",
+        "speakers": [],
+        "tags": ["Configuration"]
+      },
+      {
+        "slug": "2022-08-02-G",
+        "type": "blog",
+        "title": "Mocking Injected Service and BeforeEach Concepts",
+        "url": "https://98sunny.hashnode.dev/mocking-injected-service-and-beforeeach-concepts-cl6ckjvsn01m7fvnv06x6addl",
+        "description": "Here, I have tried showing how to mock services and use them and basics of beforeEach() method by hands-on programming",
+        "datePosted": "2022-08-02",
+        "dateSource": "2022-08-02",
+        "sourceSite": "Hashnode",
+        "sourceUrl": "https://hashnode.com/n/angular",
+        "authorName": "Sunny Singh",
+        "authorUrl": "https://hashnode.com/@98sunny",
+        "speakers": ["Sunny Singh"],
+        "tags": ["Testing", "Unit Testing"]
+      }
+    ]
+  },
+  {
+    "date": "2022-08-03",
+    "dailyPosts": [
+      {
+        "slug": "2022-08-03-A",
+        "type": "blog",
+        "title": "Angular Developer Roadmap 2022 (Things Every Budding Angular Developer Should Know)",
+        "url": "https://medium.com/@venkateshb-03/angular-developer-roadmap-2025-things-every-budding-angular-developer-should-know-86061c84a0f9",
+        "description": "Hi readers, This is my second blog of the Roadmap Series. Here I Listed all the Angular topics to learn level by level to master Angular.",
+        "datePosted": "2022-08-03",
+        "dateSource": "2022-08-02",
+        "sourceSite": "Medium",
+        "sourceUrl": "https://medium.com/tag/angular/latest",
+        "authorName": "Venkatesh B",
+        "authorUrl": "https://medium.com/@venkateshb-03",
+        "speakers": [],
+        "tags": []
+      },
+      {
+        "slug": "2022-08-03-B",
+        "type": "blog",
+        "title": "Use Angular Async Pipe to Make Your Life Easier",
+        "url": "https://javascript.plainenglish.io/angular-async-pipe-714dd864adaa",
+        "description": "Use the async pipe whenever you can. Let Angular do the heavy work for you!\n(photo: by Victor Freitas on Unsplash)",
+        "datePosted": "2022-08-03",
+        "dateSource": "2022-08-02",
+        "sourceSite": "Medium",
+        "sourceUrl": "https://medium.com/tag/angular/latest",
+        "authorName": "Kagklis Vasileios",
+        "authorUrl": "https://kagklis.medium.com",
+        "speakers": ["Kagklis Vasileios"],
+        "tags": ["RxJS", "Async Pipe"]
+      },
+      {
+        "slug": "2022-08-03-C",
+        "type": "blog",
+        "title": "Getting to Know the runInContext API in Angular",
+        "url": "https://netbasal.com/getting-to-know-the-runincontext-api-in-angular-f8996d7e00da",
+        "description": "Angular v14.10 introduce the EnvironmentInjector.runInContext API. Using this function, we can run a function in the context of an injector.",
+        "datePosted": "2022-08-03",
+        "dateSource": "2022-08-03",
+        "sourceSite": "Medium",
+        "sourceUrl": "https://medium.com/tag/angular/latest",
+        "authorName": "Netanel Basal",
+        "authorUrl": "https://netbasal.medium.com",
+        "speakers": ["Netanel Basal"],
+        "tags": []
+      },
+      {
+        "slug": "2022-08-03-D",
+        "type": "video",
+        "duration": "28",
+        "title": "Part-5 | Angular(v14) JWT Access Token Authentication & Refresh Token",
+        "url": "https://www.youtube.com/watch?v=iCyMbezt-Q0",
+        "description": "Video Summary\n1. Refresh Token API\n2. Interceptor to invoke the refresh token API",
+        "datePosted": "2022-08-03",
+        "dateSource": "2022-08-03",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "Naveen Bommidi Tech Seeker",
+        "authorUrl": "https://www.youtube.com/c/NaveenTechSeeker/videos",
+        "speakers": ["Naveen Bommidi"],
+        "tags": ["JWT", "Auth", "HttpInterceptors"]
+      },
+      {
+        "slug": "2022-08-03-E",
+        "type": "video",
+        "duration": "17",
+        "title": "ngTemplateOutlet is WAY more useful than I realised",
+        "url": "https://www.youtube.com/watch?v=TZZApWysF9g",
+        "description": "In this video, we explore a situation where *ngTemplateOutlet can turn an impossibly messy component into something beautiful. We will discuss the role of ng-template, how we can use *ngTemplateOutlet to display them, and why just using components and inputs isn't viable. ",
+        "datePosted": "2022-08-03",
+        "dateSource": "2022-08-03",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "Joshua Morony",
+        "authorUrl": "https://www.youtube.com/c/CreativeDeveloper/videos",
+        "speakers": ["Joshua Morony"],
+        "tags": ["mg-template", "ngTemplateOutlet"]
+      },
+            {
+        "slug": "2022-08-03-F",
+        "type": "podcast",
+        "duration": "44",
+        "title": "AMP 27: Michael Hladky on Advanced Reactive UI Patterns",
+        "url": "https://open.spotify.com/episode/6on29VMtoEQSd0to8d8DeT",
+        "description": "Topics covered in this episode:\n - Local vs. global state (when to us what)\n - Derived state (shared computations, distinct changes, and nullish values)\n - View vs. ViewModel\n - OOP Design Patterns and Component state (Facade, MVVM, MVC, Adapter)\n - Observable Inputs without decorators\n - Observable HostBindings\n - Managing async data streams with RxJS flattening operators\n - How to handle error, complete, suspense, and values in the template\n - Component lazy loading\n - Improving UX with Reusable reactive helpers (nonFlickerLoader)",
+        "datePosted": "2022-08-03",
+        "dateSource": "2022-08-03",
+        "sourceSite": "Spotify",
+        "sourceUrl": "https://open.spotify.com",
+        "authorName": "Angular Master Podcast",
+        "authorUrl": "https://open.spotify.com/show/1wgZAEEIoRZ8eP78LTbyZf",
+        "speakers": ["Michael Hladky"],
+        "tags": ["Observables"]
+      },
+      {
+        "slug": "2022-08-03-G",
+        "type": "video",
+        "duration": "12",
+        "title": "Angular For Beginners - 16. Observables",
+        "url": "https://www.youtube.com/watch?v=Z8F4_191pCU",
+        "description": "",
+        "datePosted": "2022-08-03",
+        "dateSource": "2022-08-03",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "Teddy Smith",
+        "authorUrl": "https://www.youtube.com/c/TeddySmithNC/videos",
+        "speakers": ["Teddy Smith"],
+        "tags": ["Observables"]
+      },
+      {
+        "slug": "2022-08-03-H",
+        "type": "release",
+        "title": "Angular Release: v14.1.1",
+        "url": "https://github.com/angular/angular/releases/tag/14.1.1",
+        "description": "",
+        "datePosted": "2022-08-03",
+        "dateSource": "2022-08-03",
+        "sourceSite": "GitHub Angular",
+        "sourceUrl": "https://github.com/angular/angular/releases",
+        "authorName": "Andrew Kushnir",
+        "authorUrl": "https://github.com/AndrewKushnir",
+        "speakers": [],
+        "tags": ["Release"]
+      },
+      {
+        "slug": "2022-08-03-J",
+        "type": "release",
+        "title": "Angular Release: v14.2.0-next.0",
+        "url": "https://github.com/angular/angular/releases/tag/14.2.0-next.0",
+        "description": "",
+        "datePosted": "2022-08-03",
+        "dateSource": "2022-08-03",
+        "sourceSite": "GitHub Angular",
+        "sourceUrl": "https://github.com/angular/angular/releases",
+        "authorName": "Andrew Kushnir",
+        "authorUrl": "https://github.com/AndrewKushnir",
+        "speakers": [],
+        "tags": ["Release"]
+      },
+      {
+        "slug": "2022-08-03-K",
+        "type": "video",
+        "duration": "73",
+        "title": "UI Mondays: Hosting Angular and React Apps on GitHub pages",
+        "url": "https://www.youtube.com/watch?v=0rEa5MjW5ME",
+        "description": "Welcome to UI Mondays where Alyssa and Kathryn will show you how you can host your Angular or React apps on GitHub pages. Kathryn already has her React app up on GitHub pages, so can Alyssa replicate that for her Angular app? ",
+        "datePosted": "2022-08-03",
+        "dateSource": "2022-08-03",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "Kendo UI",
+        "authorUrl": "https://www.youtube.com/c/KendoUIChannel/videos",
+        "speakers": ["Alyssa Nicoll", "Kathryn Grayson"],
+        "tags": ["GitHub Pages"]
       }
     ]
   }

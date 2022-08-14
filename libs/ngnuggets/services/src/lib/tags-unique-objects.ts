@@ -152,6 +152,7 @@ export const tags = [
   { cat: 'Angular', tag: 'routerLinkActive' },
   { cat: 'Angular', tag: 'routerLinkActiveOptions' },
   { cat: 'Angular', tag: 'router-outlet' },
+  { cat: 'Angular', tag: 'runInContext' },
   { cat: 'Angular', tag: 'setTitle' },
   { cat: 'Angular', tag: 'setValue' },
   { cat: 'Angular', tag: 'String Interpolation' },
@@ -295,7 +296,7 @@ export const tags = [
   { cat: 'NgRx', tag: 'Reducers' },
   { cat: 'NgRx', tag: 'Selectors' },
   { cat: 'NgRx', tag: 'createFeature' },
-  
+
   { cat: 'RxJS', tag: 'AsyncSubject' },
   { cat: 'RxJS', tag: 'BehaviorSubject' },
   { cat: 'RxJS', tag: 'Creation Operators' },

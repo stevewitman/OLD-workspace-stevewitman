@@ -1,30 +1,4 @@
-
-m14 
-
-TUESDAY
-n https://medium.com/@chenpeleg/javascript-observables-explained-594f0ffec21e
-m https://medium.com/@aayyash/currency-angular-pipe-ui-language-switch-and-a-verdict-401840375ec
-m https://rauniee.hashnode.dev/creating-a-real-time-search-functionality-using-rxjs
-t0 https://www.youtube.com/watch?v=1s8ZwKbEiXY
-t7 https://www.youtube.com/watch?v=MoRScEseTf4
-t8 https://www.youtube.com/watch?v=BRLiapG3v-4
-t14 https://98sunny.hashnode.dev/mocking-injected-service-and-beforeeach-concepts-cl6ckjvsn01m7fvnv06x6addl
-
-WEDNESDAY
-t https://medium.com/@venkateshb-03/angular-developer-roadmap-2025-things-every-budding-angular-developer-should-know-86061c84a0f9
-t https://javascript.plainenglish.io/angular-async-pipe-714dd864adaa
-w1 https://netbasal.com/getting-to-know-the-runincontext-api-in-angular-f8996d7e00da
-w6 https://www.youtube.com/watch?v=iCyMbezt-Q0
-w6 https://www.youtube.com/watch?v=TZZApWysF9g
-w8 angular master https://open.spotify.com/episode/6on29VMtoEQSd0to8d8DeT
-w10 https://www.youtube.com/watch?v=Z8F4_191pCU
-w12 https://github.com/angular/angular/releases/tag/14.1.1
-w12 https://github.com/angular/angular/releases/tag/14.2.0-next.0
-w12 https://www.youtube.com/watch?v=0rEa5MjW5ME
-w19 https://www.youtube.com/watch?v=jhs4rj_pxWo
-
-THURSDAY
-w19 https://www.youtube.com/watch?v=jhs4rj_pxWo
+https://www.youtube.com/watch?v=jhs4rj_pxWo
 w22 ?? https://www.youtube.com/watch?v=qA7Jfr1NWEo
 tues https://medium.com/@adsumsoftware/angular-14-all-the-important-updates-and-key-features-1566d2148bc2
 tues https://medium.com/@ertungabezirgan/add-themes-to-angular-using-css-variables-fc49798285c6
@@ -78,3 +52,101 @@ u4 https://www.youtube.com/watch?v=rv6pbIAmiI4
 u11 https://www.youtube.com/watch?v=C0SAdxccykU
 u14 https://www.youtube.com/watch?v=dg3q2u9nbnw
 u18 https://www.youtube.com/watch?v=Je01EH_C8HQ
+
+MONDAY 
+u https://netbasal.com/getting-to-know-the-createapplication-api-in-angular-f1c0a2685047
+u https://www.youtube.com/watch?v=bw4Cueeoesg
+m0 https://www.youtube.com/watch?v=Jv8Us9xek6k
+m2 https://dev.to/ayyash/pre-generating-multiple-index-files-using-angular-builders-and-gulp-tasks-to-serve-a-multilingual-angular-app-323
+m5 https://medium.com/@dp.manakal82/an-overview-of-the-modular-structure-in-angular-p1-13f0c12330eb
+m7 https://pgolofit.medium.com/how-to-create-your-own-angular-tooltip-directive-a-short-tutorial-4d58a4633495
+m8 https://www.spreaker.com/user/14532324/s2e28-david-khourshid-on-the-current-fut?utm_campaign=episode-title&utm_medium=app&utm_source=widget
+m9 https://www.youtube.com/watch?v=qCmxKuck9NI
+m9 https://www.youtube.com/watch?v=ARNgZREs65I
+m9 https://www.youtube.com/watch?v=gEv4WSDM2Z4
+m10 https://www.telerik.com/blogs/angular-basics-using-hostlistener-decorator-detect-changes-specific-dom-element
+m10 https://blog.jonandonicastelo.com/route-guards
+m10 https://medium.com/@andre.schouten_ff/having-some-fun-with-activity-indicators-and-observables-in-angular-dcd1c5ae7685
+m10 https://mervyn-manilall.medium.com/creating-cd-pipeline-to-deploy-an-angular-application-7c1c5eecad39
+m11 https://dev.to/bitovi/bitovi-eslint-config-handpicked-rules-to-improve-your-code-3p83
+m11 https://www.youtube.com/watch?v=6gV6_TI85sk
+m12 https://blog.devgenius.io/angular-dependency-injection-de5ce8ec0961
+m13 https://www.youtube.com/watch?v=xh5DiElEGwA
+m16 https://dev.to/renancferro/angular-pipe-character-counter-1odf
+
+TUESDAY
+m https://hashnode.com/@jonandonicastelo
+t0 https://www.youtube.com/watch?v=5IVKapdNPGY
+m2 https://dev.to/urstrulyvishwak/binding-in-angular-32kd
+t3 https://www.youtube.com/watch?v=C8qDy17Mu-Q
+t5 https://www.youtube.com/watch?v=DTWrJ_cC2s0
+t6 https://www.youtube.com/watch?v=_pqNp-YSK8Y
+t7 https://lorenzozar.hashnode.dev/introduction-to-angular-services
+t8 https://www.youtube.com/watch?v=SGX0rSYf6ZY
+t10 https://dev.to/meetupfeedio/angular-top-meetups-in-july-2022-full-list-57hm
+t15 https://dev.to/transient-thoughts/working-on-the-version-14-release-of-lumberjack-the-extensible-logging-library-for-angular-4f7p
+
+WEDNESDAY
+t https://boottechnologies-ci.medium.com/google-recaptcha-v3-with-spring-webflux-and-angular-893e01c76113
+t https://netbasal.com/lazy-load-services-in-angular-bcf8eae406c8
+t https://robert-leitl.medium.com/our-angular-i18n-workflow-7594e7d912f2
+t https://medium.com/@corinneroosen/building-a-mobile-app-with-amazon-webservices-and-ionic-8aae45b4601c
+t https://medium.com/@ConorJonOReilly/subscriptions-practices-to-avoid-in-angular-4eefa0316727
+t23 https://www.youtube.com/watch?v=d5MOWbJBFCk
+w0 https://www.youtube.com/watch?v=c4iSmX6kwoU
+w3 https://dev.to/this-is-angular/choosing-a-state-management-library-for-progressive-reactivity-in-angular-19j8
+w5 https://www.youtube.com/watch?v=9ALcdljm_1E
+w6 https://www.youtube.com/watch?v=oqSLkbfLWQI
+w7 https://www.youtube.com/watch?v=p3UvEX_B8ks
+w10 https://dev.to/developmentsh/how-to-create-custom-pipes-in-angular-5e4n
+w10 https://www.youtube.com/watch?v=ELS_QdbqF_Q
+w12 https://github.com/angular/angular/releases/tag/14.2.0-next.1
+w12 https://github.com/angular/angular/releases/tag/14.1.2
+w14 https://blog.angular.io/the-state-of-end-to-end-testing-with-angular-d175f751cb9c
+
+
+THURSDAY
+w https://medium.com/herodevs/the-observables-i-promise-to-callback-later-1ec28b8bc03a
+w22 https://www.youtube.com/watch?v=Ttc9A2zVTzE
+r2 https://www.youtube.com/watch?v=hVCt_WOarLM
+r8 https://www.danywalls.com/working-with-multiple-projects-in-angular
+r8 https://webrush.io/episodes/episode-196-developer-experience-and-tools-with-brian-holt
+r7 https://www.youtube.com/watch?v=qbO8_V6OU7g
+r10 https://www.youtube.com/watch?v=-tkoE-b9Z1c
+r2 https://www.youtube.com/watch?v=XyF8gJNx_io
+r18 https://dev.to/asayerio_techblog/infinite-scrolling-in-angular-1nna
+
+
+FRIDAY
+w https://netbasal.com/add-keyboard-shortcuts-to-your-angular-app-9bf2e89862b3
+w https://davutgurbuz.medium.com/google-recaptcha-implementation-within-minutes-for-angular-developers-ca4cb5a1e3cc
+r https://levelup.gitconnected.com/defining-your-own-theme-in-angular-material-8a4a6ffad400
+r https://javascript.plainenglish.io/develop-an-online-shop-with-angular-11-and-net-core-5-9d235cb06638
+r https://medium.com/@roshanidilhara7/angular-standards-and-best-practices-4c523c037587
+r https://srisad95.medium.com/angular-sharing-data-from-parent-to-child-using-input-and-output-directive-learn-it-in-20-steps-de930d45f3b8
+r https://medium.com/@devbazz/setting-up-bitbucket-pipeline-for-angular-on-linux-servers-abbas-irekeola-c1ee5137793f
+r https://medium.com/@yaroslav.stetsko/angular-app-dark-mode-with-css-variables-6810d5122f26
+r23 https://www.youtube.com/watch?v=MgR6oJHaliA
+f0 https://www.youtube.com/watch?v=aT20NQLDWR8
+f1 https://dev.to/urstrulyvishwak/angular-content-projection-end-to-end-2mid
+f2 https://www.youtube.com/watch?v=ObdTz9k2IsM
+f2 https://www.youtube.com/watch?v=89qe_WCJZdA
+f9 https://www.youtube.com/watch?v=OP7IdmB9Dlg
+f12 https://dev.to/gin_mitch/dynamic-translations-in-angular-made-possible-525n
+
+SATURDAY
+f https://medium.com/fundamental-library/translations-for-angular-fundamental-components-1ba6bb5061e0
+f https://srisad95.medium.com/angular-loading-data-based-on-selection-change-learn-it-in-23-steps-mryenagandula-369aaa6bef4
+f https://medium.com/@gin_mitch/dynamic-translations-in-angular-made-possible-5eeed8466696
+s0 https://www.youtube.com/watch?v=qTjppI2dRUU
+s5 https://www.youtube.com/watch?v=uCGPkFtw8N4
+s5 https://dev.to/bl4ckst0n3/custom-error-class-in-angular-12-l3g
+s6 https://www.youtube.com/watch?v=tDTTgssz8JI
+s8 https://www.youtube.com/watch?v=uUaZzALTn7o
+s8 https://www.youtube.com/watch?v=q8wOhfc49UE
+s9 https://www.youtube.com/watch?v=czf4Bh8eNPA
+s9 https://blog.rajasekar.me/angular-material-datetime-picker
+s17 https://www.youtube.com/watch?v=GIKIvTmbC3Q
+
+*** 
+*** 
