@@ -323,6 +323,7 @@ export const tags = [
   { cat: 'RxJS', tag: 'concatMap' },
   { cat: 'RxJS', tag: 'concatAll' },
   { cat: 'RxJS', tag: 'count' },
+  { cat: 'RxJS', tag: 'debounce' },
   { cat: 'RxJS', tag: 'debounceTime' },
   { cat: 'RxJS', tag: 'defer' },
   { cat: 'RxJS', tag: 'dematerialize' },

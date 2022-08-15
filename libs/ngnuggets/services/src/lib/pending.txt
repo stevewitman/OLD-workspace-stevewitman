@@ -1,39 +1,4 @@
-https://www.youtube.com/watch?v=jhs4rj_pxWo
-w22 ?? https://www.youtube.com/watch?v=qA7Jfr1NWEo
-tues https://medium.com/@adsumsoftware/angular-14-all-the-important-updates-and-key-features-1566d2148bc2
-tues https://medium.com/@ertungabezirgan/add-themes-to-angular-using-css-variables-fc49798285c6
-w https://medium.com/peaksoftgmbh/easy-way-to-optimize-angular-app-performance-9de0c5b3564d
-r https://www.telerik.com/blogs/angular-basics-using-eslint-boost-code-quality
-r1 https://www.youtube.com/watch?v=PevqeI-Hxzs
-r2 https://www.youtube.com/watch?v=wejBctes9jY
-r4 https://www.youtube.com/watch?v=7KZ4iedR2Sw
-r4 https://www.youtube.com/watch?v=daba7xeo4sA
-r5 https://dev.to/vishwas/add-interactive-angular-charts-to-ng-bootstrap-components-15hg
-r8 https://www.youtube.com/watch?v=sr1bKUAaJCg
-r8 https://www.youtube.com/watch?v=sgqx16WZCaw
-r9 https://www.youtube.com/watch?v=QfGMT0eoBrk
-r9 https://www.youtube.com/watch?v=G_kqGWeMORQ
-
-FRIDAY
-w https://medium.com/weekly-webtips/nice-angular-material-selection-dropdown-dc3147db07c6
-f0 https://www.youtube.com/watch?v=aOxgeBG92cc
-f1 https://www.youtube.com/watch?v=Li3gZwvc3Zw
-f3 https://medium.com/@pabasaramahindapala/a-robust-angular-search-bar-with-rxjs-debounce-29a082d6816e
-f4 angular master https://open.spotify.com/episode/4btlNMlhJxA38eLGvPexYy
-f6 https://codereacter.medium.com/how-to-improve-angular-14-reactive-forms-typings-1a9963139023
-f7 https://www.youtube.com/watch?v=CXDH_IV3MYQ
-f8 https://medium.com/@zgollum/crossfade-animation-in-angular-a18f08fe5a03
-f16 https://dev.to/grapecity/a-guide-to-angular-14-release-features-and-updates-442f
-f16 https://dev.to/grapecity/
-add-angular-input-form-mask-validation-features-to-your-web-app-3g7h
-f16 https://dev.to/stacksjar/angular-interview-questions-part-1-5cc2
-f16 https://dev.to/stacksjar/angular-interview-questions-part-2-10bn
-f16 https://dev.to/stacksjar/angular-interview-questions-part-3-4m2h
-f18 https://www.youtube.com/watch?v=hP-oUGbR3N8
-f14 https://youtu.be/fkoFf4_yPRw?t=23
-
-SATURDAY
-f https://ramya-bala221190.medium.com/angular-how-you-can-reload-refresh-a-single-component-or-the-entire-application-and-reuse-the-logic-c6e975a278c3
+https://ramya-bala221190.medium.com/angular-how-you-can-reload-refresh-a-single-component-or-the-entire-application-and-reuse-the-logic-c6e975a278c3
 f https://itnext.io/make-a-signing-pad-in-angular-vanilla-js-7a3eb7e0599d
 s0 https://www.youtube.com/watch?v=rL7MLmmy58A
 s3 https://www.youtube.com/watch?v=ItZcgy9ZQTQ
@@ -148,5 +113,14 @@ s9 https://www.youtube.com/watch?v=czf4Bh8eNPA
 s9 https://blog.rajasekar.me/angular-material-datetime-picker
 s17 https://www.youtube.com/watch?v=GIKIvTmbC3Q
 
-*** 
-*** 
+SUNDAY
+f https://awstip.com/how-to-preserve-spa-route-path-in-the-browser-using-aws-cloudfront-51983a5519ee
+ss https://raffaelespinoni.medium.com/angular-1-introduction-to-the-framework-76cd3c3beaf4
+s23 https://dev.to/urstrulyvishwak/star-rating-with-no-external-libraries-in-angular-1lp5
+u0 https://www.youtube.com/watch?v=_Dj-58f-w8c
+u4 https://www.youtube.com/watch?v=LRFzhJVaM_4
+u8 https://minibhati.hashnode.dev/how-to-configure-jest-for-unit-testing-in-an-angular-application
+u10 https://www.youtube.com/watch?v=-70mkrY_Tz8
+u12 https://dev.to/danduh81/the-flexible-way-to-adopt-uxui-in-angular-app-according-to-users-permissions-gb2
+u14 https://www.youtube.com/watch?v=6aAkI71nu9U
+u21 https://www.youtube.com/watch?v=PL9VazUz104
