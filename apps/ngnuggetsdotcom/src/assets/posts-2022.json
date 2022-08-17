@@ -94,7 +94,7 @@
         "authorName": "Makesh Kumar",
         "authorUrl": "https://makesh-kumar.medium.com",
         "speakers": ["Makesh Kumar"],
-        "tags": ["ViewEncapsulation"]
+        "tags": ["ViewEncapsulation", "Styles"]
       },
       {
         "slug": "2022-01-01-G",
@@ -388,7 +388,7 @@
         "authorName": "Krishna Chaitanya Tech Center",
         "authorUrl": "https://www.youtube.com/channel/UC6hjO6A1FvKKfMlAA7EOJDA/videos",
         "speakers": [],
-        "tags": ["Routing", "Route Guards", "canDeactivate"]
+        "tags": ["Routing", "Route Guards", "CanDeactivate"]
       },
       {
         "slug": "2022-01-04-B",
@@ -561,7 +561,7 @@
         "authorName": "Linda Thompson",
         "authorUrl": "https://www.thisdot.co/author/linda-thompson",
         "speakers": ["Linda Thompson"],
-        "tags": ["Content Projection", "ng-content"]
+        "tags": ["Content Projection", "<ng-content>"]
       },
       {
         "slug": "2022-01-05-B",
@@ -782,7 +782,7 @@
         "authorName": "ARC Tutorials",
         "authorUrl": "https://www.youtube.com/c/ARCTutorials/videos",
         "speakers": ["Sridhar Rao"],
-        "tags": ["RxJS", "distinct"]
+        "tags": ["RxJS", "distinct()"]
       },
       {
         "slug": "2022-01-06-D",
@@ -814,7 +814,7 @@
         "authorName": "Codeminer42",
         "authorUrl": "https://www.youtube.com/c/Codeminer42TV/videos",
         "speakers": ["Paulo Souza"],
-        "tags": ["Content Projection", "@ContentChild", "ng-content", "ng-container", "ng-template", "ngTemplateOutlet"]
+        "tags": ["Content Projection", "@ContentChild", "<ng-content>", "<ng-container>", "<ng-template>", "ngTemplateOutlet"]
       },
       {
         "slug": "2022-01-06-F",
@@ -889,7 +889,7 @@
         "authorName": "Talha Khaild",
         "authorUrl": "https://medium.com/@talhakhalid101",
         "speakers": ["Talha Khaild"],
-        "tags": ["Forms"]
+        "tags": ["Forms", "ControlContainer"]
       }
     ]
   },
@@ -1024,7 +1024,7 @@
         "authorName": "WebTechTalk",
         "authorUrl": "https://www.youtube.com/c/WebTechTalk/videos",
         "speakers": [],
-        "tags": ["ViewEncapsulation"]
+        "tags": ["ViewEncapsulation", "Styles"]
       },
       {
         "slug": "2022-01-08-B",
@@ -1273,7 +1273,7 @@
         "type": "blog",
         "title": "A sweet Introduction to NgRx Angular",
         "url": "https://medium.com/@ayush.b.1998/a-sweet-introduction-to-ngrx-angular-419f5e15d768",
-        "description": "Well, I thought of writing this article after facing a plethora of hurdles in understanding what is the use of NgRx and how does it actually work behind the scenes ? I couldn't find the direct answer anywhere so had to spend a lot time and this article is a simple and easy introduction of NgRX. In the next article we'll be playing around with the code. Let's start :)",
+        "description": "Well, I thought of writing this article after facing a plethora of hurdles in understanding what is the use of NgRx and how does it actually work behind the scenes ? I couldn't find the direct answer anywhere so had to spend a lot time and this article is a simple and easy introduction of NgRx. In the next article we'll be playing around with the code. Let's start :)",
         "datePosted": "2022-01-10",
         "dateSource": "2022-01-09",
         "sourceSite": "Medium",
@@ -1336,7 +1336,7 @@
         "duration": "16",
         "title": "Angular - Build a Reusable Reactive Form (like a PRO)",
         "url": "https://www.youtube.com/watch?v=AF9wxhwW0sg",
-        "description": "In this Angular Tutorial you will learn how to build a #reusable #reactive form that you can use anywhere in your Angular application. Why would you wanna build a reusable form ? Actually the question is why shouldn't you ? Reusable simply means it can be used again and that way you don't have to build it from scratch or litter your #angular app with one same form!",
+        "description": "In this Angular Tutorial you will learn how to build a #reusable #reactive form that you can use anywhere in your Angular application. Why would you wanna build a reusable form ? Actually the question is why shouldn't you ? Reusable simply means it can be used again and that way you don't have to build it from scratch or litter your Angular app with one same form!",
         "datePosted": "2022-01-10",
         "dateSource": "2022-01-10",
         "sourceSite": "YouTube",
@@ -1488,7 +1488,7 @@
         "authorName": "Mark Thompson",
         "authorUrl": "https://medium.com/@markathompson",
         "speakers": ["Mark Thompson"],
-        "tags": ["AngularJS"]
+        "tags": []
       }
     ]
   },
@@ -1730,13 +1730,13 @@
         "authorName": "digibrains",
         "authorUrl": "https://www.youtube.com/channel/UC2d43lRPRGRYGZ_l8A7qWEA/videos",
         "speakers": [],
-        "tags": ["RxJS", "combineLatest", "combineLatestWith"]
+        "tags": ["RxJS", "combineLatest()", "combineLatestWith()"]
       },
       {
         "slug": "2022-01-13-E",
         "type": "video",
         "duration": "13",
-        "title": "RxJs Observable vs Subject vs BehaviorSubject vs ReplaySubject",
+        "title": "RxJS Observable vs Subject vs BehaviorSubject vs ReplaySubject",
         "url": "https://www.youtube.com/watch?v=CXSxACzntlo",
         "description": "",
         "datePosted": "2022-01-13",
@@ -1807,7 +1807,7 @@
         "authorName": "Anil Verma",
         "authorUrl": "https://anilvermaspeaks.medium.com",
         "speakers": ["Anil Verma"],
-        "tags": ["setTitle"]
+        "tags": ["setTitle()"]
       },
       {
         "slug": "2022-01-13-K",
@@ -1907,21 +1907,6 @@
         "tags": ["Components"]
       },
       {
-        "slug": "2022-01-14-F",
-        "type": "blog",
-        "title": "Why You Shouldn't Use Angular Pipes With Inputs",
-        "url": "https://medium.com/@colinbroberg/why-you-shouldnt-use-angular-pipes-with-inputs-8dc1d0e9039d",
-        "description": "The problem is simple: I have a form with an input for the users phone number. I want to format the phone number as the user types it. Pipes immediately popped into my head...",
-        "datePosted": "2022-01-14",
-        "dateSource": "2022-01-14",
-        "sourceSite": "Medium",
-        "sourceUrl": "https://medium.com",
-        "authorName": "Colin Broberg",
-        "authorUrl": "https://medium.com/@colinbroberg",
-        "speakers": ["Colin Broberg"],
-        "tags": ["Pipes"]
-      },
-      {
         "slug": "2022-01-14-G",
         "type": "video",
         "duration": "51",
@@ -2017,9 +2002,9 @@
       {
         "slug": "2022-01-14-N",
         "type": "blog",
-        "title": "Angular: Auto unsubscribe decorator for RxJs",
+        "title": "Angular: Auto unsubscribe decorator for RxJS",
         "url": "https://medium.com/@nillcon248/angular-auto-unsubscribe-decorator-for-rxjs-8d7ff1b781a7",
-        "description": "All-time you have used Angular, you see a lot RxJs code, it may be simple observable or more progressive subjects, but we always have one main issue — memory leak. So I have a deal for you, can I resolve your problem?",
+        "description": "All-time you have used Angular, you see a lot RxJS code, it may be simple observable or more progressive subjects, but we always have one main issue — memory leak. So I have a deal for you, can I resolve your problem?",
         "datePosted": "2022-01-14",
         "dateSource": "2022-01-14",
         "sourceSite": "Medium",
@@ -2027,7 +2012,7 @@
         "authorName": "Nillcon",
         "authorUrl": "https://medium.com/@nillcon248",
         "speakers": [],
-        "tags": ["NgRx"]
+        "tags": ["NgRx", "unsubscribe()"]
       },
       {
         "slug": "2022-01-14-P",
@@ -2079,7 +2064,7 @@
         "authorName": "WebTechTalk",
         "authorUrl": "https://www.youtube.com/c/WebTechTalk/videos",
         "speakers": [],
-        "tags": ["ngIf"]
+        "tags": ["*ngIf"]
       },
       {
         "slug": "2022-01-15-C",
@@ -2194,7 +2179,7 @@
         "duration": "26",
         "title": "Reactive programming in Angular 13 using RxJS",
         "url": "https://www.youtube.com/watch?v=3vTbNuJdpw0",
-        "description": "Reactive programming in Angular 13 using Rxjs. We explore the core concept of Observables which is based on Observer design pattern. Observables can be unicast or multicast. Subject is a special observable which allows multicasting to observers. We explore the different part of Angular where rxjs reactive programming is inbuilt.",
+        "description": "Reactive programming in Angular 13 using RxJS. We explore the core concept of Observables which is based on Observer design pattern. Observables can be unicast or multicast. Subject is a special observable which allows multicasting to observers. We explore the different part of Angular where RxJS reactive programming is inbuilt.",
         "datePosted": "2022-01-15",
         "dateSource": "2022-01-15",
         "sourceSite": "YouTube",
@@ -2202,7 +2187,7 @@
         "authorName": "JS Frameworks",
         "authorUrl": "https://www.youtube.com/c/JSFrameworks/videos",
         "speakers": [],
-        "tags": ["RxJS", "unicast", "multicast"]
+        "tags": ["RxJS", "Observables", "Hot vs Cold"]
       },
       {
         "slug": "2022-01-15-L",
@@ -2484,21 +2469,6 @@
     "date": "2022-01-18",
     "dailyPosts": [
       {
-        "slug": "2022-01-18-A",
-        "type": "blog",
-        "title": "4 Angular Performance Pitfalls",
-        "url": "https://medium.com/@colinbroberg/4-angular-performance-pitfalls-a221fedc709a",
-        "description": "Angular is a powerful framework with many useful tools to make web development a breeze. But many of these tools can work against you if you aren't careful. Here are 4 ways that Angular applications can take a hit in performance, and how to fix them.",
-        "datePosted": "2022-01-18",
-        "dateSource": "2022-01-17",
-        "sourceSite": "Medium",
-        "sourceUrl": "https://medium.com",
-        "authorName": "Colin Broberg",
-        "authorUrl": "https://medium.com/@colinbroberg",
-        "speakers": ["Colin Broberg"],
-        "tags": []
-      },
-      {
         "slug": "2022-01-18-B",
         "type": "blog",
         "title": "Angular Quick Answer: Difference between constructor and ngOnInit",
@@ -2605,7 +2575,7 @@
         "authorName": "codeWithAmi",
         "authorUrl": "https://www.youtube.com/c/codeWithAmi/videos",
         "speakers": [],
-        "tags": ["Directives", "ngIf", "Custom"]
+        "tags": ["Directives", "*ngIf", "Custom"]
       },
       {
         "slug": "2022-01-18-K",
@@ -2683,7 +2653,7 @@
         "authorName": "Eugene Pavliy",
         "authorUrl": "https://medium.com/@epavliy",
         "speakers": ["Eugene Pavliy"],
-        "tags": ["Internationalization", "Transloco"]
+        "tags": ["Internationalization"]
       }
     ]
   },
@@ -2875,7 +2845,7 @@
         "authorName": "Netanel Basal",
         "authorUrl": "https://netbasal.com",
         "speakers": ["Netanel Basal"],
-        "tags": ["ngTemplateOutletInjector"]
+        "tags": ["ngTemplateOutletInjector", "createComponent()"]
       },
       {
         "slug": "2022-01-20-F",
@@ -3005,7 +2975,7 @@
         "authorName": "procademy",
         "authorUrl": "https://www.youtube.com/c/procademyn/videos",
         "speakers": [],
-        "tags": ["Directives", "ngIf"]
+        "tags": ["Directives", "*ngIf"]
       },
       {
         "slug": "2022-01-21-F",
@@ -3179,7 +3149,7 @@
         "authorName": "Sergey Gultyayev",
         "authorUrl": "https://sergeygultyayev.medium.com",
         "speakers": ["Sergey Gultyayev"],
-        "tags": ["Components", ":host"]
+        "tags": ["Components", ":host", "Styles"]
       },
       {
         "slug": "2022-01-22-G",
@@ -3210,7 +3180,7 @@
         "authorName": "Anubhab Mukherjee",
         "authorUrl": "https://dev.to/anubhab5",
         "speakers": ["Anubhab Mukherjee"],
-        "tags": ["Content Projection", "ng-content"]
+        "tags": ["Content Projection", "<ng-content>"]
       },
       {
         "slug": "2022-01-22-J",
@@ -3514,7 +3484,7 @@
         "authorName": "Michael Karen",
         "authorUrl": "https://hashnode.com/@melcor76",
         "speakers": ["Michael Karen"],
-        "tags": ["Forms", "Form Builder", "Async Pipe", "@Input", "@Output", "Data Transfer"]
+        "tags": ["Forms", "FormBuilder", "Async Pipe", "@Input", "@Output", "Data Transfer"]
       },
       {
         "slug": "2022-01-24-D",
@@ -3530,7 +3500,7 @@
         "authorName": "Nisha Singla",
         "authorUrl": "https://www.youtube.com/c/NishaSingla/videos",
         "speakers": ["Nisha Singla"],
-        "tags": ["@ContentChild", "@ContentChildren"]
+        "tags": ["@ContentChild", "@ContentChildren", "Content Projection", "<ng-content>"]
       },
       {
         "slug": "2022-01-24-E",
@@ -3567,7 +3537,7 @@
         "slug": "2022-01-24-G",
         "type": "video",
         "duration": "7",
-        "title": "RxJS Tutorial For Beginners #23 - Difference Between RxJS, Redux and NgRX",
+        "title": "RxJS Tutorial For Beginners #23 - Difference Between RxJS, Redux and NgRx",
         "url": "https://www.youtube.com/watch?v=cR_zpod6wFs",
         "description": "",
         "datePosted": "2022-01-24",
@@ -3686,7 +3656,7 @@
         "authorName": "Maria Zayed",
         "authorUrl": "https://indepth.dev/authors/1145/maria",
         "speakers": ["Maria Zayed"],
-        "tags": ["Lifecycle Hooks", "ngOnChanges", "ngOnInit", "ngDoCheck", "ngAfterContentInit", "ngAfterContentChecked", "ngAfterViewInit", "ngAfterViewChecked", "ngOnDestroy"]
+        "tags": ["Lifecycle Hooks", "ngOnChanges()", "ngOnInit()", "ngDoCheck()", "ngAfterContentInit()", "ngAfterContentChecked()", "ngAfterViewInit()", "ngAfterViewChecked()", "ngOnDestroy()"]
       },
       {
         "slug": "2022-01-24-Q",
@@ -3846,7 +3816,7 @@
         "authorName": "Briebug",
         "authorUrl": "https://www.youtube.com/c/Briebugsoftwaresolutions/videos",
         "speakers": ["Hudson Baker"],
-        "tags": ["RxJS", "pluck"]
+        "tags": ["RxJS", "pluck()"]
       },
       {
         "slug": "2022-01-25-G",
@@ -3892,7 +3862,7 @@
         "authorName": "Abimael Barea",
         "authorUrl": "https://dev.to/abimaelbarea",
         "speakers": ["Abimael Barea"],
-        "tags": ["Content Projection", "ng-content"]
+        "tags": ["Content Projection", "<ng-content>"]
       },
       {
         "slug": "2022-01-25-K",
@@ -4004,7 +3974,7 @@
         "authorName": "Tim Deschryver",
         "authorUrl": "https://dev.to/timdeschryver",
         "speakers": ["Tim Deschryver"],
-        "tags": ["trackBy"]
+        "tags": ["*ngFor", "trackBy", "Performance"]
       },
       {
         "slug": "2022-01-26-D",
@@ -4050,7 +4020,7 @@
         "authorName": "Buhuti Manakal",
         "authorUrl": "https://medium.com/@dp.manakal82",
         "speakers": ["Buhuti Manakal"],
-        "tags": ["Directives", "ngModel", "ngClass", "ngStyle", "ngFor", "ngIf"]
+        "tags": ["Directives", "ngModel", "ngClass", "ngStyle", "*ngFor", "*ngIf"]
       },
       {
         "slug": "2022-01-26-G",
@@ -4065,7 +4035,7 @@
         "authorName": "Ranganath Prasad",
         "authorUrl": "https://www.c-sharpcorner.com/members/ranganath-prasad4",
         "speakers": ["Ranganath Prasad"],
-        "tags": ["Directives", "ngIf"]
+        "tags": ["Directives", "*ngIf"]
       },
       {
         "slug": "2022-01-26-H",
@@ -4205,7 +4175,7 @@
           "authorName": "digibrains",
           "authorUrl": "https://www.youtube.com/channel/UC2d43lRPRGRYGZ_l8A7qWEA/videos",
           "speakers": [],
-          "tags": ["RxJS", "Subscriptions", "takeUntil", "Performance"]
+          "tags": ["RxJS", "Subscriptions", "takeUntil()", "Performance"]
         }
     ]
   },
@@ -4595,7 +4565,7 @@
         "authorName": "Ng SriLanka",
         "authorUrl": "https://www.youtube.com/channel/UCMaKyH6yopChpZBCvwjYc2Q/videos",
         "speakers": ["Rukshan Dangalla"],
-        "tags": ["Lifecycle Hooks", "ViewEncapsulation", "Content Projection", "Angular Elements"]
+        "tags": ["Lifecycle Hooks", "ViewEncapsulation", "Styles", "Content Projection", "Angular Elements"]
       },
       {
         "slug": "2022-01-29-F",
@@ -4640,7 +4610,7 @@
         "authorName": "Rodrigo Kamada",
         "authorUrl": "https://hashnode.com/@rodrigokamada",
         "speakers": ["Rodrigo Kamada"],
-        "tags": ["GitHub Pages", "Travis CI"]
+        "tags": ["GitHub Pages"]
       },
       {
         "slug": "2022-01-29-J",
@@ -4779,9 +4749,9 @@
         "slug": "2022-01-31-A",
         "type": "video",
         "duration": "6",
-        "title": "Master RxJs with Angular - Introduction Part I",
+        "title": "Master RxJS with Angular - Introduction Part I",
         "url": "https://www.youtube.com/watch?v=iv7Sdonw3Lc",
-        "description": "In this video, we will start our new session on mastering RxJs in Angular as we discuss the general features of this JavaScript library and how it can help us leverage reactive development patterns for better user experience and UI performance improvement.",
+        "description": "In this video, we will start our new session on mastering RxJS in Angular as we discuss the general features of this JavaScript library and how it can help us leverage reactive development patterns for better user experience and UI performance improvement.",
         "datePosted": "2022-01-31",
         "dateSource": "2022-01-30",
         "sourceSite": "YouTube",
@@ -4890,7 +4860,7 @@
         "type": "blog",
         "title": "Avoid common pitfalls when using OnPush change detection in Angular",
         "url": "https://www.thisdot.co/blog/avoid-common-pitfalls-when-using-onpush-change-detection-in-angular",
-        "description": "Protractor Will Be Deprecated. The Angular team has announced the deprecation of Protractor in May 2021. Some of the reasons behind these deprecation plans are...",
+        "description": "By default, Angular provides two different change detection strategies: Default and OnPush. Each has his own advantages, but sometimes we run into pitfalls if we don't understand how to apply OnPush and how it works. First, we need to understand how Angular implements change detection.",
         "datePosted": "2022-01-31",
         "dateSource": "2022-01-31",
         "sourceSite": "This Dot Labs",
@@ -4898,7 +4868,7 @@
         "authorName": "Daian Scuarissi",
         "authorUrl": "https://www.thisdot.co/author/daian-scuarissi",
         "speakers": ["Daian Scuarissi"],
-        "tags": ["Change Detection", "onPush"]
+        "tags": ["Change Detection", "OnPush"]
       },
       {
         "slug": "2022-01-31-J",
@@ -5329,7 +5299,7 @@
         "authorName": "Nisha Singla",
         "authorUrl": "https://www.youtube.com/c/NishaSingla/videos",
         "speakers": ["Nisha Singla"],
-        "tags": ["Lifecycle Hooks", "ngAfterContentInit", "ngAfterContentChecked", "ngAfterViewInit", "ngAfterViewChecked"]
+        "tags": ["Lifecycle Hooks", "ngAfterContentInit()", "ngAfterContentChecked()", "ngAfterViewInit()", "ngAfterViewChecked()"]
       },
       {
         "slug": "2022-02-03-C",
@@ -5361,7 +5331,7 @@
         "authorName": "procademy",
         "authorUrl": "https://www.youtube.com/c/procademyn/videos",
         "speakers": [],
-        "tags": ["ViewEncapsulation"]
+        "tags": ["ViewEncapsulation", "Styles"]
       },
       {
         "slug": "2022-02-03-E",
@@ -5462,21 +5432,6 @@
         "tags": ["Auth", "Azure"]
       },
       {
-        "slug": "2022-02-04-D",
-        "type": "blog",
-        "title": "Creating an Angular directive to detect clicking outside an object",
-        "url": "https://medium.com/@colinbroberg/creating-an-angular-directive-to-detect-clicking-outside-an-object-afd6c07212ef",
-        "description": "I constantly find need of a way of detecting when there is a click outside an element. Whether it be a dropdown, a modal, or an input, knowing when the user is trying to click away from something can be really important. Because it's so common, I've standardized the way I handle it into a directive, and usually just copy-paste this directive into every new project.",
-        "datePosted": "2022-02-04",
-        "dateSource": "2022-02-04",
-        "sourceSite": "Medium",
-        "sourceUrl": "https://medium.com",
-        "authorName": "Colin Broberg",
-        "authorUrl": "https://medium.com/@colinbroberg",
-        "speakers": ["Colin Broberg"],
-        "tags": ["Directives"]
-      },
-      {
         "slug": "2022-02-04-E",
         "type": "video",
         "duration": "13",
@@ -5490,7 +5445,7 @@
         "authorName": "procademy",
         "authorUrl": "https://www.youtube.com/c/procademyn/videos",
         "speakers": [],
-        "tags": ["Directives", "ng-content", "Dynamic"]
+        "tags": ["Directives", "<ng-content>", "Dynamic"]
       },
       {
         "slug": "2022-02-04-F",
@@ -5874,7 +5829,7 @@
         "authorName": "Nisha Singla",
         "authorUrl": "https://www.youtube.com/c/NishaSingla/videos",
         "speakers": ["Nisha Singla"],
-        "tags": ["Lifecycle Hooks", "ngOnDestroy"]
+        "tags": ["Lifecycle Hooks", "ngOnDestroy()"]
       }
     ]
   },
@@ -6146,7 +6101,7 @@
         "authorName": "Briebug",
         "authorUrl": "https://www.youtube.com/c/Briebugsoftwaresolutions/videos",
         "speakers": ["Hudson Baker"],
-        "tags": ["RxJS", "scan"]
+        "tags": ["RxJS", "scan()"]
       },
       {
         "slug": "2022-02-08-F",
@@ -6224,7 +6179,7 @@
         "authorName": "Monica K",
         "authorUrl": "https://mkay11.medium.com",
         "speakers": [],
-        "tags": ["Intersection Observer"]
+        "tags": ["IntersectionObserver"]
       },
       {
         "slug": "2022-02-08-L",
@@ -6323,7 +6278,7 @@
         "authorName": "Angular Nation",
         "authorUrl": "https://www.youtube.com/channel/UCmlK6Jayb3qqJYNfUmL-DkA/videos",
         "speakers": ["Jayant Ojha", "Akshay Biradar", "Robert Ramirez"],
-        "tags": ["CLI", "Angular Workspaces", "Monorepos"]
+        "tags": ["CLI", "Monorepos"]
       },
       {
         "slug": "2022-02-09-F",
@@ -6355,7 +6310,7 @@
         "authorName": "Angular Nation",
         "authorUrl": "https://www.youtube.com/channel/UCmlK6Jayb3qqJYNfUmL-DkA/videos",
         "speakers": ["Bonnie Brennan"],
-        "tags": ["Dynamic", "ng-container", "ng-template", "ngTemplateOutlet", "ngComponentOutlet", "createEmbeddedView", "createComponent", "componentFactoryResolver(deprecated)", "resolveComponentFactory(deprecated)", "let-*", "Performance", "@ViewChild", "TemplateRef", "viewContainerRef"]
+        "tags": ["Dynamic", "<ng-container>", "<ng-template>", "ngTemplateOutlet", "ngComponentOutlet", "createEmbeddedView()", "createComponent()", "let-*", "Performance", "@ViewChild", "TemplateRef", "viewContainerRef"]
       },
       {
         "slug": "2022-02-09-H",
@@ -6501,7 +6456,7 @@
         "authorName": "Pawan Kumawat",
         "authorUrl": "https://pawan-kumawat.medium.com/avoid-callback-hell-in-angular-code-3537890034b",
         "speakers": ["Pawan Kumawat"],
-        "tags": ["RxJS", "concatMap"]
+        "tags": ["RxJS", "concatMap()"]
       },
       {
         "slug": "2022-02-10-B",
@@ -6532,7 +6487,7 @@
         "authorName": "Carl Bergenhem",
         "authorUrl": "https://www.telerik.com/blogs/author/carl-bergenhem",
         "speakers": ["Carl Bergenhem"],
-        "tags": ["AngularJS"]
+        "tags": []
       },
       {
         "slug": "2022-02-10-D",
@@ -6599,21 +6554,6 @@
         "tags": ["Ionic"]
       },
       {
-        "slug": "2022-02-10-H",
-        "type": "blog",
-        "title": "Create a Tooltip Directive in Angular",
-        "url": "https://javascript.plainenglish.io/creating-a-tooltip-directive-in-angular-abfc607d52f3",
-        "description": "For a while, I hacked together inconsistent and messy methods of implementing tooltips on a case-by-case basis. Eventually I decided to standardize the way I implement them, and I created an easy-to-use Angular directive that allows you to quickly add a tooltip to an element. Directives are a perfect way to handle tooltips since they allow us to attach logic to any element regardless of its position or styling.",
-        "datePosted": "2022-02-10",
-        "dateSource": "2022-02-10",
-        "sourceSite": "Medium",
-        "sourceUrl": "https://medium.com",
-        "authorName": "Colin Broberg",
-        "authorUrl": "https://medium.com/@colinbroberg",
-        "speakers": ["Colin Broberg"],
-        "tags": ["Directives", "Custom", "Tooltip"]
-      },
-      {
         "slug": "2022-02-10-J",
         "type": "blog",
         "title": "Jest Integration with Angular 12",
@@ -6677,7 +6617,7 @@
         "authorName": "Avinash Nandan",
         "authorUrl": "https://medium.com/@avinash.dev21987",
         "speakers": ["Avinash Nandan"],
-        "tags": ["Directives", "ng-container"]
+        "tags": ["Directives", "<ng-container>"]
       },
       {
         "slug": "2022-02-11-B",
@@ -6740,7 +6680,7 @@
         "authorName": "Coding Shiksha",
         "authorUrl": "https://www.youtube.com/c/CodingShiksha/videos",
         "speakers": ["Gautam Sharma"],
-        "tags": ["clipboard"]
+        "tags": ["Clipboard"]
       },
       {
         "slug": "2022-02-11-F",
@@ -6803,7 +6743,7 @@
         "authorName": "David Mimay",
         "authorUrl": "https://medium.com/@davidmimay",
         "speakers": ["David Mimay"],
-        "tags": ["Gitpod"]
+        "tags": []
       },
       {
         "slug": "2022-02-11-K",
@@ -6914,7 +6854,7 @@
         "authorName": "Jozsef",
         "authorUrl": "https://dev.to/pjozeph",
         "speakers": [],
-        "tags": ["String Interpolation", "Attribute Binding", "Two-Way Data Binding"]
+        "tags": ["Interpolation", "Attribute Binding", "Two-Way Data Binding"]
       },
       {
         "slug": "2022-02-12-G",
@@ -7631,7 +7571,7 @@
         "authorName": "Kevin Kreuzer",
         "authorUrl": "https://www.youtube.com/channel/UCFT4YVZl7AFia7rZBTEvavw/videos",
         "speakers": ["Kevin Kreuzer"],
-        "tags": ["RxJS", "tap", "Errors"]
+        "tags": ["RxJS", "tap()", "Errors"]
       },
       {
         "slug": "2022-02-16-C",
@@ -7754,7 +7694,7 @@
         "authorName": "Luis Aviles",
         "authorUrl": "https://www.thisdot.co/author/luis-aviles",
         "speakers": ["Luis Aviles"],
-        "tags": ["Routing"]
+        "tags": ["Routing", "Interpolation"]
       },
       {
         "slug": "2022-02-16-L",
@@ -7806,7 +7746,7 @@
         "authorName": "procademy",
         "authorUrl": "https://www.youtube.com/c/procademyn/videos",
         "speakers": [],
-        "tags": ["Directives", "ngSwitch"]
+        "tags": ["Directives", "*ngSwitch"]
       },
       {
         "slug": "2022-02-17-C",
@@ -8365,7 +8305,7 @@
         "authorName": "Learn Code",
         "authorUrl": "https://www.youtube.com/channel/UCSUcR0LCSrnWmuLS1oBVugg/videos",
         "speakers": [],
-        "tags": ["Routing", "router-outlet"]
+        "tags": ["Routing", "<router-outlet>"]
       },
       {
         "slug": "2022-02-20-F",
@@ -8738,7 +8678,7 @@
         "type": "blog",
         "title": "Building Angular Micro Frontend with NgRx state sharing as well as Nx CLI",
         "url": "https://medium.com/@varun.singh_99751/building-angular-micro-frontend-with-ngrx-state-sharing-as-well-as-nx-cli-cffa7b8cd43a",
-        "description": "Micro Frontend — is a client-side style, when individual elements or web pages are organized in separate domain names. If you consider directing, state monitoring, and element sharing, it might appear complex to execute. Today, we will develop a whole app that has whatever you require for a scalable Micro Frontend. We will use the NX command line to generate the majority of the architecture and, after that, add a minimum coding.",
+        "description": "Micro Frontend — is a client-side style, when individual elements or web pages are organized in separate domain names. If you consider directing, state monitoring, and element sharing, it might appear complex to execute. Today, we will develop a whole app that has whatever you require for a scalable Micro Frontend. We will use the Nx command line to generate the majority of the architecture and, after that, add a minimum coding.",
         "datePosted": "2022-02-22",
         "dateSource": "2022-02-22",
         "sourceSite": "Medium",
@@ -8793,7 +8733,7 @@
         "authorName": "Briebug",
         "authorUrl": "https://www.youtube.com/c/Briebugsoftwaresolutions/videos",
         "speakers": ["Hudson Baker"],
-        "tags": ["RxJS", "Observables", "switchMap"]
+        "tags": ["RxJS", "Observables", "switchMap()"]
       },
       {
         "slug": "2022-02-22-F",
@@ -8892,7 +8832,7 @@
         "authorName": "Learning Partner",
         "authorUrl": "https://www.youtube.com/c/LearningPartnerDigital/videos",
         "speakers": [],
-        "tags": ["RxJS", "switchMap", "distinctUntilChanged", "debounceTime", "startWith"]
+        "tags": ["RxJS", "switchMap()", "distinctUntilChanged()", "debounceTime()", "startWith()"]
       },
       {
         "slug": "2022-02-23-B",
@@ -9032,7 +8972,7 @@
         "authorName": "Women Who Code",
         "authorUrl": "https://www.youtube.com/c/WomenWhoCodeGlobal/videos",
         "speakers": ["Ankita Sood"],
-        "tags": ["ng-deep"]
+        "tags": ["ng-deep", "Styles"]
       },
       {
         "slug": "2022-02-23-L",
@@ -9080,7 +9020,7 @@
         "authorName": "Tutorial Rays",
         "authorUrl": "https://www.youtube.com/c/TutorialRays/videos",
         "speakers": ["Umar Rahman"],
-        "tags": ["Directives", "ngFor", "trackBy"]
+        "tags": ["Directives", "*ngFor", "trackBy"]
       },
       {
         "slug": "2022-02-23-P",
@@ -9381,7 +9321,7 @@
         "authorName": "Sam",
         "authorUrl": "https://eraoftech.medium.com",
         "speakers": [],
-        "tags": ["ng-template", "ng-container", "ng-content", "viewContainerRef", "ngComponentOutlet", "@ContentChild"]
+        "tags": ["<ng-template>", "<ng-container>", "<ng-content>", "viewContainerRef", "ngComponentOutlet", "@ContentChild"]
       }
     ]
   },
@@ -9465,21 +9405,6 @@
         "authorUrl": "https://dev.to/alisaduncan",
         "speakers": ["Alisa Duncan"],
         "tags": ["Modules"]
-      },
-      {
-        "slug": "2022-02-25-F",
-        "type": "blog",
-        "title": "How to Create an Extensible API Service in Angular",
-        "url": "https://medium.com/@colinbroberg/how-to-create-an-extensible-api-service-in-angular-e451073a2f90",
-        "description": "If you're creating an Angular frontend website, you will undoubtedly make use of APIs. Let's take a look at a straightforward way you can standardize your API services, as well as handle any response errors they might receive.",
-        "datePosted": "2022-02-25",
-        "dateSource": "2022-02-25",
-        "sourceSite": "Medium",
-        "sourceUrl": "https://medium.com",
-        "authorName": "Colin Broberg",
-        "authorUrl": "https://medium.com/@colinbroberg",
-        "speakers": ["Colin Broberg"],
-        "tags": ["Services"]
       },
       {
         "slug": "2022-02-25-G",
@@ -9919,7 +9844,7 @@
         "authorName": "Code with Ahsan",
         "authorUrl": "https://www.youtube.com/c/CodewithAhsan/videos",
         "speakers": ["Ahsan Ayaz"],
-        "tags": ["setTitle", "Custom", "Dynamic"]
+        "tags": ["setTitle()", "Custom", "Dynamic"]
       },
       {
         "slug": "2022-02-28-H",
@@ -9956,7 +9881,7 @@
         "authorName": "Hike Coding Knowledge",
         "authorUrl": "https://www.youtube.com/user/rajupaul71/videos",
         "speakers": [],
-        "tags": ["Directives", "ngIf"]
+        "tags": ["Directives", "*ngIf"]
       },
       {
         "slug": "2022-03-01-B",
@@ -10034,7 +9959,7 @@
         "authorName": "Zoaib Khan",
         "authorUrl": "https://www.youtube.com/c/ZoaibKhan/videos",
         "speakers": ["Zoaib Khan"],
-        "tags": ["ng-container"]
+        "tags": ["<ng-container>"]
       },
       {
         "slug": "2022-03-01-G",
@@ -10112,7 +10037,7 @@
         "authorName": "AngularAir",
         "authorUrl": "https://www.youtube.com/c/AngularAirPodcast/videos",
         "speakers": ["Shmuela Jacobs"],
-        "tags": ["RxJS", "Hot vs Cold", "shareReplay"]
+        "tags": ["RxJS", "Hot vs Cold", "shareReplay()"]
       },
       {
         "slug": "2022-03-01-M",
@@ -10173,13 +10098,13 @@
         "authorName": "Anastasia Anisimova",
         "authorUrl": "https://medium.com/@cbgdn",
         "speakers": ["Anastasia Anisimova"],
-        "tags": ["Components", "Dynamic"]
+        "tags": ["Components", "Dynamic", "createComponent()"]
       },
       {
         "slug": "2022-03-01-R",
         "type": "video",
         "duration": "3",
-        "title": "RxJs finalize operator explained",
+        "title": "RxJS finalize operator explained",
         "url": "https://www.youtube.com/watch?v=8ackjL3FsRM",
         "description": "The finalize operator is a very handy operator to perform side effects or tear-down logic. Learn how to use it and apply it in your project.",
         "datePosted": "2022-03-01",
@@ -10189,7 +10114,7 @@
         "authorName": "Kevin Kreuzer",
         "authorUrl": "https://www.youtube.com/channel/UCFT4YVZl7AFia7rZBTEvavw/videos",
         "speakers": ["Kevin Kreuzer"],
-        "tags": ["RxJS", "finalize"]
+        "tags": ["RxJS", "finalize()"]
       },
       {
         "slug": "2022-03-01-S",
@@ -10462,7 +10387,7 @@
         "authorName": "Sam",
         "authorUrl": "https://eraoftech.medium.com",
         "speakers": [],
-        "tags": ["ViewEncapsulation"]
+        "tags": ["ViewEncapsulation", "Styles"]
       },
       {
         "slug": "2022-03-03-J",
@@ -10706,7 +10631,7 @@
         "authorName": "Nigro Simone",
         "authorUrl": "https://dev.to/nigrosimone",
         "speakers": ["Nigro Simone"],
-        "tags": ["ngFor"]
+        "tags": ["*ngFor", "trackBy"]
       },
       {
         "slug": "2022-03-05-E",
@@ -10743,9 +10668,9 @@
         "slug": "2022-03-05-G",
         "type": "video",
         "duration": "7",
-        "title": "How to protect routes with Angular Auth Guards | canActivate guard",
+        "title": "How to protect routes with Angular Auth Guards | CanActivate guard",
         "url": "https://www.youtube.com/watch?v=QfVwb9qUOg0",
-        "description": "In this video, we will see How to protect routes with Angular Auth Guards. We will see how to use canActivate guard to protect a route. We will use the Router service and ActivatedSnapShot service for this demo",
+        "description": "In this video, we will see How to protect routes with Angular Auth Guards. We will see how to use CanActivate guard to protect a route. We will use the Router service and ActivatedSnapShot service for this demo",
         "datePosted": "2022-03-05",
         "dateSource": "2022-03-05",
         "sourceSite": "YouTube",
@@ -10814,7 +10739,7 @@
         "authorName": "Pawan Kumawat",
         "authorUrl": "https://pawan-kumawat.medium.com",
         "speakers": ["Pawan Kumawat"],
-        "tags": ["RxJS", "switchMap"]
+        "tags": ["RxJS", "switchMap()"]
       },
       {
         "slug": "2022-03-05-M",
@@ -11025,7 +10950,7 @@
         "authorName": "WebTechTalk",
         "authorUrl": "https://www.youtube.com/c/WebTechTalk/videos",
         "speakers": [],
-        "tags": ["RxJS", "switchMap", "mergeMap", "Observables"]
+        "tags": ["RxJS", "switchMap()", "mergeMap()", "Observables"]
       },
       {
         "slug": "2022-03-07-E",
@@ -11086,7 +11011,7 @@
         "authorName": "Shaikh Zaki Mohammed",
         "authorUrl": "https://zakimohammed.medium.com/",
         "speakers": ["Shaikh Zaki Mohammed"],
-        "tags": ["Pagination"]
+        "tags": ["Pagination", "Data Table"]
       },
       {
         "slug": "2022-03-07-J",
@@ -11275,7 +11200,7 @@
         "authorName": "Abhishek Kumar",
         "authorUrl": "https://medium.com/@abhishek950650",
         "speakers": ["Abhishek Kumar"],
-        "tags": ["RxJS", "Observables", "Subscriptions"]
+        "tags": ["RxJS", "Observables", "Subscriptions", "unsubscribe()"]
       },
       {
         "slug": "2022-03-08-J",
@@ -11755,7 +11680,7 @@
         "authorName": "Wojciech Trawinski",
         "authorUrl": "https://medium.com/@wojtrawi",
         "speakers": ["Wojciech Trawinski"],
-        "tags": ["trackBy"]
+        "tags": ["*ngFor", "trackBy", "Performance"]
       },
       {
         "slug": "2022-03-11-C",
@@ -12016,7 +11941,7 @@
         "type": "blog",
         "title": "How Mapping Operators can help you to avoid multiple subscriptions in Angular",
         "url": "https://eraoftech.medium.com/how-mapping-operators-can-help-you-to-avoid-multiple-subscriptions-in-angular-ca9a9d040897",
-        "description": "In this article, I will talk about Rxjs mapping operators. These operators are used to avoid multiple subscriptions This is also known as flattening. There are 3 mapping operators we can use to solve this issue. So the three mapping operators are switchMap, mergeMap, concatMap which are used to work to reduce multiple subscriptions. These operators are mostly used with API calls.",
+        "description": "In this article, I will talk about RxJS mapping operators. These operators are used to avoid multiple subscriptions This is also known as flattening. There are 3 mapping operators we can use to solve this issue. So the three mapping operators are switchMap, mergeMap, concatMap which are used to work to reduce multiple subscriptions. These operators are mostly used with API calls.",
         "datePosted": "2022-03-12",
         "dateSource": "2022-03-12",
         "sourceSite": "Medium",
@@ -12024,7 +11949,7 @@
         "authorName": "Sam",
         "authorUrl": "https://eraoftech.medium.com",
         "speakers": [],
-        "tags": ["RxJS"]
+        "tags": ["RxJS", "switchMap()", "mergeMap()", "concatMap()"]
       },
       {
         "slug": "2022-03-12-J",
@@ -12162,9 +12087,9 @@
         "slug": "2022-03-13-E",
         "type": "video",
         "duration": "7",
-        "title": "Angular and Nest - Best way to setup Project Using NX",
+        "title": "Angular and Nest - Best way to setup Project Using Nx",
         "url": "https://www.youtube.com/watch?v=N7uP2OXsfvc",
-        "description": "Angular and Nest - The best way to set up Project   Using NX.\n\nIn this video walk-through, I will show you how to create a full-stack application setup using Angular",
+        "description": "Angular and Nest - The best way to set up Project   Using Nx.\n\nIn this video walk-through, I will show you how to create a full-stack application setup using Angular",
         "datePosted": "2022-03-13",
         "dateSource": "2022-03-13",
         "sourceSite": "YouTube",
@@ -12339,7 +12264,7 @@
         "slug": "2022-03-14-A",
         "type": "video",
         "duration": "19",
-        "title": "canActivate vs canDeactivate Guard in Angular | difference between canActivate and canDeactivate",
+        "title": "CanActivate vs CanDeactivate Guard in Angular | difference between CanActivate and CanDeactivate",
         "url": "https://www.youtube.com/watch?v=dD2koRcadAw",
         "description": "",
         "datePosted": "2022-03-14",
@@ -12349,7 +12274,7 @@
         "authorName": "WorldGyan",
         "authorUrl": "https://www.youtube.com/channel/UCL-ACPCQnKbT2nWadQuqt2w/videos",
         "speakers": [],
-        "tags": ["Routing", "Route Guards", "canActivate", "canDeactivate"]
+        "tags": ["Routing", "Route Guards", "CanActivate", "CanDeactivate"]
       },
       {
         "slug": "2022-03-14-B",
@@ -12555,7 +12480,7 @@
         "authorName": "RightClick Education",
         "authorUrl": "https://www.youtube.com/channel/UCI_5b08hocM7hXh5JK8fJ7w/videos",
         "speakers": ["Ravi Shankar Kumar"],
-        "tags": ["Directives", "ngSwitch"]
+        "tags": ["Directives", "*ngSwitch"]
       },
       {
         "slug": "2022-03-15-B",
@@ -12586,7 +12511,7 @@
         "authorName": "Zoaib Khan",
         "authorUrl": "https://www.youtube.com/c/ZoaibKhan/videos",
         "speakers": ["Zoaib Khan"],
-        "tags": ["ng-template"]
+        "tags": ["<ng-template>"]
       },
       {
         "slug": "2022-03-15-D",
@@ -12696,7 +12621,7 @@
         "authorName": "procademy",
         "authorUrl": "https://www.youtube.com/c/procademyn/videos",
         "speakers": [],
-        "tags": ["Routing"]
+        "tags": ["Routing", "routerLinkActive"]
       },
       {
         "slug": "2022-03-15-L",
@@ -12780,7 +12705,7 @@
         "authorName": "RightClick Education",
         "authorUrl": "https://www.youtube.com/channel/UCI_5b08hocM7hXh5JK8fJ7w/videos",
         "speakers": ["Ravi Shankar Kumar"],
-        "tags": ["Directives", "ngFor"]
+        "tags": ["Directives", "*ngFor"]
       },
       {
         "slug": "2022-03-16-D",
@@ -13065,7 +12990,7 @@
         "authorName": "TechshareSKK",
         "authorUrl": "https://www.youtube.com/channel/UCD8gC85u512FeCFzRV4Ll-A/videos",
         "speakers": ["Sai Kumar Korthivada"],
-        "tags": ["Forms", "Reactive Forms", "setValue"]
+        "tags": ["Forms", "Reactive Forms", "setValue()"]
       },
       {
         "slug": "2022-03-17-F",
@@ -13111,7 +13036,7 @@
         "authorName": "Lorenzo Zarantonello",
         "authorUrl": "https://medium.com/@lorenzozar",
         "speakers": ["Lorenzo Zarantonello"],
-        "tags": ["RxJS", "Observables", "interval"]
+        "tags": ["RxJS", "Observables", "interval()"]
       },
       {
         "slug": "2022-03-17-J",
@@ -13319,7 +13244,7 @@
         "authorName": "Brandon Roberts",
         "authorUrl": "https://www.youtube.com/c/BrandonRobertsDev",
         "speakers": ["Brandon Roberts"],
-        "tags": ["Routing", "Vite"]
+        "tags": ["Routing"]
       },
       {
         "slug": "2022-03-18-K",
@@ -13402,7 +13327,7 @@
         "authorName": "TechshareSKK",
         "authorUrl": "https://www.youtube.com/channel/UCD8gC85u512FeCFzRV4Ll-A/videos",
         "speakers": ["Sai Kumar Korthivada"],
-        "tags": ["Testing", "Unit Testing", "Reactive Forms", "setValue"]
+        "tags": ["Testing", "Unit Testing", "Reactive Forms", "setValue()"]
       },
       {
         "slug": "2022-03-19-C",
@@ -13657,7 +13582,7 @@
         "authorName": "procademy",
         "authorUrl": "https://www.youtube.com/c/procademyn/videos",
         "speakers": [],
-        "tags": ["Routing", "Route Guards"]
+        "tags": ["Routing", "Route Guards", "CanLoad", "CanActivate", "CanActivateChild", "CanDeactivate"]
       },
       {
         "slug": "2022-03-20-L",
@@ -13716,7 +13641,7 @@
         "slug": "2022-03-21-M",
         "type": "video",
         "duration": "12",
-        "title": "Angular guard | CanLoad Guard ? | CanLoad vs canActivate Guard | Angular 14",
+        "title": "Angular guard | CanLoad Guard ? | CanLoad vs CanActivate Guard | Angular 14",
         "url": "https://www.youtube.com/watch?v=0QAzwKvffEY",
         "description": "",
         "datePosted": "2022-03-21",
@@ -13726,7 +13651,7 @@
         "authorName": "WorldGyan",
         "authorUrl": "https://www.youtube.com/channel/UCL-ACPCQnKbT2nWadQuqt2w/videos",
         "speakers": [],
-        "tags": ["Routing", "Route Guards", "canActivate", "canLoad"]
+        "tags": ["Routing", "Route Guards", "CanActivate", "CanLoad"]
       },
       {
         "slug": "2022-03-21-D",
@@ -13757,7 +13682,7 @@
         "authorName": "The DotNet Office",
         "authorUrl": "https://www.youtube.com/c/TheDotNetOffice/videos",
         "speakers": [],
-        "tags": ["Testing", "Unit Testing", "ngFor", "Jasmine", "Karma"]
+        "tags": ["Testing", "Unit Testing", "*ngFor", "Jasmine", "Karma"]
       },
       {
         "slug": "2022-03-21-F",
@@ -13789,7 +13714,7 @@
         "authorName": "procademy",
         "authorUrl": "https://www.youtube.com/c/procademyn/videos",
         "speakers": [],
-        "tags": ["Routing", "canActivate", "Route Guards"]
+        "tags": ["Routing", "CanActivate", "Route Guards"]
       },
       {
         "slug": "2022-03-21-H",
@@ -13805,7 +13730,7 @@
         "authorName": "coding wall",
         "authorUrl": "https://www.youtube.com/channel/UCxjJshhu0QBbztNZei4udOA/videos",
         "speakers": [],
-        "tags": ["Routing", "canActivate", "Route Guards"]
+        "tags": ["Routing", "CanActivate", "Route Guards"]
       },
       {
         "slug": "2022-03-21-J",
@@ -13967,7 +13892,7 @@
         "authorName": "Decoded Frontend",
         "authorUrl": "https://www.youtube.com/c/DecodedFrontend/videos",
         "speakers": ["Dmytro Mezhenskyi"],
-        "tags": ["Open Source"]
+        "tags": []
       },
       {
         "slug": "2022-03-22-H",
@@ -14014,7 +13939,7 @@
         "authorName": "Aleksei Jegorov",
         "authorUrl": "https://medium.com/@alekseijegorov",
         "speakers": ["Aleksei Jegorov"],
-        "tags": ["RxJS", "tap", "map"]
+        "tags": ["RxJS", "tap()", "map()"]
       },
       {
         "slug": "2022-03-22-L",
@@ -14046,7 +13971,7 @@
         "authorName": "procademy",
         "authorUrl": "https://www.youtube.com/c/procademyn/videos",
         "speakers": [],
-        "tags": ["canActivate"]
+        "tags": ["CanActivate"]
       },
       {
         "slug": "2022-03-22-N",
@@ -14145,7 +14070,7 @@
         "authorName": "procademy",
         "authorUrl": "https://www.youtube.com/c/procademyn/videos",
         "speakers": [],
-        "tags": ["Routing", "Route Guards", "canDeactivate"]
+        "tags": ["Routing", "Route Guards", "CanDeactivate"]
       },
       {
         "slug": "2022-03-23-C",
@@ -14267,7 +14192,7 @@
         "description": "And we're back! Enjoy some great laughs in this special episode of The Angular PLUS Show as your Hosts recount the struggles and successes they faced along their journeys to becoming the Developers they are today.",
         "datePosted": "2022-03-23",
         "dateSource": "2022-03-23",
-        "sourceSite": "YouTube",
+        "sourceSite": "Spreaker",
         "sourceUrl": "https://www.spreaker.com",
         "authorName": "The Angular Plus Show",
         "authorUrl": "https://www.spreaker.com/show/angular-show",
@@ -14288,7 +14213,7 @@
         "authorName": "Angular Community Meetup",
         "authorUrl": "https://www.youtube.com/c/ngconfonline/videos",
         "speakers": ["Preston Lamb", "Brandon Roberts", "Jeff Whelpley"],
-        "tags": ["RxJS", "combineLatest", "NgRx", "Performance"]
+        "tags": ["RxJS", "combineLatest()", "NgRx", "Performance"]
       },
       {
         "slug": "2022-03-23-M",
@@ -14340,7 +14265,7 @@
         "authorName": "Piyush Jain",
         "authorUrl": "https://jnpiyush.medium.com",
         "speakers": [],
-        "tags": ["canDeactivate", "Route Guards", "Routing"]
+        "tags": ["CanDeactivate", "Route Guards", "Routing"]
       },
       {
         "slug": "2022-03-24-C",
@@ -14535,7 +14460,7 @@
         "authorName": "TechshareSKK",
         "authorUrl": "https://www.youtube.com/channel/UCD8gC85u512FeCFzRV4Ll-A/videos",
         "speakers": ["Sai Kumar Korthivada"],
-        "tags": ["Forms", "Reactive Forms", "patchValue"]
+        "tags": ["Forms", "Reactive Forms", "patchValue()"]
       },
       {
         "slug": "2022-03-25-C",
@@ -14644,7 +14569,7 @@
         "authorName": "WorldGyan",
         "authorUrl": "https://www.youtube.com/channel/UCL-ACPCQnKbT2nWadQuqt2w/videos",
         "speakers": [],
-        "tags": ["resolve", "Route Guards", "Routing"]
+        "tags": ["Resolve", "Route Guards", "Routing"]
       },
       {
         "slug": "2022-03-25-K",
@@ -14725,7 +14650,7 @@
         "authorName": "TechshareSKK",
         "authorUrl": "https://www.youtube.com/channel/UCD8gC85u512FeCFzRV4Ll-A/videos",
         "speakers": ["Sai Kumar Korthivada"],
-        "tags": ["Testing", "Unit Testing", "Jasmine", "Karma", "FormControl"]
+        "tags": ["Testing", "Unit Testing", "Jasmine", "Karma", "FormControl", "patchValue()"]
       },
       {
         "slug": "2022-03-26-E",
@@ -14974,9 +14899,9 @@
       {
         "slug": "2022-03-28-J",
         "type": "blog",
-        "title": "Separate Business Logic from UI Presenational Logic Using NX",
+        "title": "Separate Business Logic from UI Presenational Logic Using Nx",
         "url": "https://dev.to/paulmojicatech/separate-business-logic-from-ui-presenational-logic-using-nx-5794",
-        "description": "In this article, we will be discussing the practice of separating an application's business logic from the UI presentational logic. We achieve this by using NX, utilizing the design of creating an app, which is where the presentational components will be, and libs, which is where the business logic will be.",
+        "description": "In this article, we will be discussing the practice of separating an application's business logic from the UI presentational logic. We achieve this by using Nx, utilizing the design of creating an app, which is where the presentational components will be, and libs, which is where the business logic will be.",
         "datePosted": "2022-03-28",
         "dateSource": "2022-03-28",
         "sourceSite": "DEV Community",
@@ -15090,7 +15015,7 @@
         "authorName": "Nwose Lotanna Victor",
         "authorUrl": "https://www.telerik.com/blogs/author/nwose-lotanna",
         "speakers": ["Nwose Lotanna Victor"],
-        "tags": ["ngSwitch", "Directives"]
+        "tags": ["*ngSwitch", "Directives"]
       } 
     ]
   },
@@ -15127,7 +15052,7 @@
         "authorName": "Monsterlessons Academy",
         "authorUrl": "https://www.youtube.com/c/MonsterlessonsAcademy/videos",
         "speakers": [],
-        "tags": ["ngIf", "Directives"]
+        "tags": ["*ngIf", "Directives"]
       },
       {
         "slug": "2022-03-29-C",
@@ -15408,7 +15333,7 @@
         "description": "In this episode of The Angular Plus Show, we talk with Nrwl CEO Jeff Cross about code organization, monorepos, multi-repos, and how build tools like Nx, Lerna, and TurboRepo are shaping the future of app development.",
         "datePosted": "2022-03-30",
         "dateSource": "2022-03-30",
-        "sourceSite": "YouTube",
+        "sourceSite": "Spreaker",
         "sourceUrl": "https://www.spreaker.com",
         "authorName": "The Angular Plus Show",
         "authorUrl": "https://www.spreaker.com/show/angular-show",
@@ -15505,7 +15430,7 @@
         "authorName": "Mudit Manucha",
         "authorUrl": "https://medium.com/@mudit.manucha",
         "speakers": ["Mudit Manucha"],
-        "tags": ["Lifecycle Hooks", "ngOnChanges", "ngOnInit", "ngDoCheck", "ngAfterContentInit", "ngAfterContentChecked", "ngAfterViewInit", "ngAfterViewChecked", "ngOnDestroy"]
+        "tags": ["Lifecycle Hooks", "ngOnChanges()", "ngOnInit()", "ngDoCheck()", "ngAfterContentInit()", "ngAfterContentChecked()", "ngAfterViewInit()", "ngAfterViewChecked()", "ngOnDestroy()"]
       }
     ]
   },
@@ -15671,7 +15596,7 @@
         "authorName": "WebTechTalk",
         "authorUrl": "https://www.youtube.com/c/WebTechTalk/videos",
         "speakers": [],
-        "tags": ["ng-content", "ng-template", "ng-container"]
+        "tags": ["<ng-content>", "<ng-template>", "<ng-container>"]
       },
       {
         "slug": "2022-04-01-C",
@@ -15801,7 +15726,7 @@
         "authorName": "Lorenzo Zarantonello",
         "authorUrl": "https://medium.com/@lorenzozar",
         "speakers": ["Lorenzo Zarantonello"],
-        "tags": ["RxJS", "Design Patterns", "Declarative", "Imperative"]
+        "tags": ["RxJS", "Design Patterns"]
       },
       {
         "slug": "2022-04-02-B",
@@ -15862,7 +15787,7 @@
         "authorName": "Ugur Salin",
         "authorUrl": "https://medium.com/@ugursalin",
         "speakers": ["Ugur Salin"],
-        "tags": ["RxJS", "forkJoin", "mergeMap", "switchMap"]
+        "tags": ["RxJS", "forkJoin()", "mergeMap()", "switchMap()"]
       },
       {
         "slug": "2022-04-02-F",
@@ -15878,7 +15803,7 @@
         "authorName": "Omerko",
         "authorUrl": "https://www.youtube.com/c/Omerko/videos",
         "speakers": ["Stefan Omerovic"],
-        "tags": ["Angular CDK", "clipboard"]
+        "tags": ["Angular CDK", "Clipboard"]
       },
       {
         "slug": "2022-04-02-G",
@@ -15915,7 +15840,7 @@
         "type": "blog",
         "title": "RxJS: How to group Observables with groupBy",
         "url": "https://medium.com/@matsal.dev/rxjs-how-to-group-observables-with-groupby-aa2d7a70c7ea",
-        "description": "RxJs provides us with many operators that make it easier to work with various types of data. In this article, I will present examples of using the groupBy operator, which allows you to group values represented by the same key.",
+        "description": "RxJS provides us with many operators that make it easier to work with various types of data. In this article, I will present examples of using the groupBy operator, which allows you to group values represented by the same key.",
         "datePosted": "2022-04-02",
         "dateSource": "2022-04-02",
         "sourceSite": "Medium",
@@ -16166,7 +16091,7 @@
         "authorName": "Code Shots With Profanis",
         "authorUrl": "https://www.youtube.com/c/CodeShotsWithProfanis/videos",
         "speakers": ["Fanis Prodromou"],
-        "tags": ["RxJS", "Errors", "catchError"]
+        "tags": ["RxJS", "Errors", "catchError()"]
       },
       {
         "slug": "2022-04-04-H",
@@ -16196,7 +16121,7 @@
         "authorName": "Matsal Dev",
         "authorUrl": "https://medium.com/@matsal.dev",
         "speakers": [],
-        "tags": ["RxJS", "count", "min", "max", "reduce"]
+        "tags": ["RxJS", "count()", "min()", "max()", "reduce()"]
       },
       {
         "slug": "2022-04-04-K",
@@ -16243,7 +16168,7 @@
         "authorName": "Yurii K",
         "authorUrl": "https://medium.com/@yurii-k",
         "speakers": [],
-        "tags": ["RxJS", "Observables", "Errors", "Async Await"]
+        "tags": ["RxJS", "Observables", "Errors", "catchError()", "Async Await"]
       },
       {
         "slug": "2022-04-04-N",
@@ -16259,7 +16184,7 @@
         "authorName": "Leela Web Dev",
         "authorUrl": "https://www.youtube.com/c/LeelaWebDev/videos",
         "speakers": ["Leela Narasimha"],
-        "tags": ["Testing", "Unit Testing", "Jasmine", "Karma", "TestBed"]
+        "tags": ["Testing", "Unit Testing", "Jasmine", "Karma", "TestBed", "createComponent()"]
       },
       {
         "slug": "2022-04-04-P",
@@ -16335,7 +16260,7 @@
         "authorName": "Hien Pham",
         "authorUrl": "https://hashnode.com/@hienpham",
         "speakers": ["Hien Pham"],
-        "tags": ["Dependency Injection"]
+        "tags": ["Dependency Injection", "Route Params", "Query Params", "ActivatedRoute"]
       }
     ]
   },
@@ -16403,7 +16328,7 @@
         "authorName": "Sam",
         "authorUrl": "https://eraoftech.medium.com",
         "speakers": [],
-        "tags": ["Lifecycle Hooks", "ngOnChanges", "ngOnInit", "ngDoCheck", "ngAfterContentInit", "ngAfterContentChecked", "ngAfterViewInit", "ngAfterViewChecked", "ngOnDestroy"]
+        "tags": ["Lifecycle Hooks", "ngOnChanges()", "ngOnInit()", "ngDoCheck()", "ngAfterContentInit()", "ngAfterContentChecked()", "ngAfterViewInit()", "ngAfterViewChecked()", "ngOnDestroy()"]
       },
       {
         "slug": "2022-04-05-E",
@@ -16434,7 +16359,7 @@
         "authorName": "procademy",
         "authorUrl": "https://www.youtube.com/c/procademyn/videos",
         "speakers": [],
-        "tags": ["Forms", "Template Driven Forms", "setValue", "patchValue"]
+        "tags": ["Forms", "Template Driven Forms", "setValue()", "patchValue()"]
       },
       {
         "slug": "2022-04-05-G",
@@ -16497,7 +16422,7 @@
         "authorName": "digibrains",
         "authorUrl": "https://www.youtube.com/channel/UC2d43lRPRGRYGZ_l8A7qWEA/videos",
         "speakers": [],
-        "tags": ["RxJS", "map"]
+        "tags": ["RxJS", "map()"]
       },
       {
         "slug": "2022-04-05-L",
@@ -16579,7 +16504,7 @@
         "authorName": "Bojidar Yovchev",
         "authorUrl": "https://www.youtube.com/channel/UCy8gt5oEte2fNAS7Ak45f_Q/videos",
         "speakers": ["Bojidar Yovchev"],
-        "tags": ["ng-container", "ng-template", "ng-content"]
+        "tags": ["<ng-container>", "<ng-template>", "<ng-content>"]
       },
       {
         "slug": "2022-04-06-C",
@@ -16668,7 +16593,7 @@
         "description": "Since the beginning of Angular, Joe Eames has been an integral part of teaching millions of new developers through his courses on Pluralsight and his Angular conference, ng-conf. In this episode, we talk with Joe about effective strategies to learn new skills, retain knowledge, and the importance of immersion and community and their impact on career growth.",
         "datePosted": "2022-04-06",
         "dateSource": "2022-04-06",
-        "sourceSite": "YouTube",
+        "sourceSite": "Spreaker",
         "sourceUrl": "https://www.spreaker.com",
         "authorName": "The Angular Plus Show",
         "authorUrl": "https://www.spreaker.com/show/angular-show",
@@ -16750,7 +16675,7 @@
         "authorName": "Matsal Dev",
         "authorUrl": "https://medium.com/@matsal.dev",
         "speakers": [],
-        "tags": ["Content Projection", "ng-content"]
+        "tags": ["Content Projection", "<ng-content>"]
       },
       {
         "slug": "2022-04-06-P",
@@ -16766,7 +16691,7 @@
         "authorName": "LeoCode",
         "authorUrl": "https://www.youtube.com/channel/UCZ-YRnaPedfSnMleJ2y6q7w/videos",
         "speakers": [],
-        "tags": ["Services", "HttpClient", "RxJS", "shareReplay", "ReplaySubject"]
+        "tags": ["Services", "HttpClient", "RxJS", "shareReplay()", "ReplaySubject"]
       },
       {
         "slug": "2022-04-06-Q",
@@ -16832,7 +16757,7 @@
         "authorName": "Armen Vardanyan",
         "authorUrl": "https://dev.to/armandotrue",
         "speakers": ["Armen Vardanyan"],
-        "tags": ["RxJS", "Observables", "combineLatest", "forkJoin", "pairwise","withLatestFrom"]
+        "tags": ["RxJS", "Observables", "combineLatest()", "forkJoin()", "pairwise()","withLatestFrom()"]
       },
       {
         "slug": "2022-04-07-C",
@@ -16958,7 +16883,7 @@
         "authorName": "Women Who Code",
         "authorUrl": "https://www.youtube.com/c/WomenWhoCodeGlobal/videos",
         "speakers": ["Rob Ramirez"],
-        "tags": ["RxJS", "Observables", "Subscriptions", "complete", "unsubscribe", "first", "takeUntil", "Async Pipe", "ngOnDestroy"]
+        "tags": ["RxJS", "Observables", "Subscriptions", "complete", "unsubscribe()", "first()", "takeUntil()", "Async Pipe", "ngOnDestroy()"]
       },
       {
         "slug": "2022-04-07-L",
@@ -16989,7 +16914,7 @@
         "authorName": "Matsal Dev",
         "authorUrl": "https://medium.com/@matsal.dev",
         "speakers": [],
-        "tags": ["RxJS", "ajax"]
+        "tags": ["RxJS", "ajax()"]
       }
     ]
   },
@@ -17102,21 +17027,6 @@
         "authorUrl": "https://eraoftech.medium.com",
         "speakers": [],
         "tags": ["HttpClient", "CRUD", "JSON"]
-      },
-      {
-        "slug": "2022-04-08-H",
-        "type": "blog",
-        "title": "Masonry Layouts with Angular",
-        "url": "https://medium.com/@colinbroberg/masonry-layouts-with-angular-71c0b5a80c36",
-        "description": "Using a custom Angular pipe, we can achieve a masonry layout, given a single array of items, over X number of columns. Here's how:",
-        "datePosted": "2022-04-08",
-        "dateSource": "2022-04-08",
-        "sourceSite": "Medium",
-        "sourceUrl": "https://medium.com",
-        "authorName": "Colin Broberg",
-        "authorUrl": "https://medium.com/@colinbroberg",
-        "speakers": ["Colin Broberg"],
-        "tags": []
       },
       {
         "slug": "2022-04-08-J",
@@ -17474,7 +17384,7 @@
         "authorName": "Jan Benscheid",
         "authorUrl": "https://medium.com/@jan.benscheid",
         "speakers": ["Jan Benscheid"],
-        "tags": ["RxJS", "mergeMap"]
+        "tags": ["RxJS", "mergeMap()"]
       },
       {
         "slug": "2022-04-11-J",
@@ -17596,7 +17506,7 @@
         "duration": "32",
         "title": "Santosh Yadav - Optimizing your Angular App like a PRO",
         "url": "https://www.youtube.com/watch?v=XcFpJDcvmvY",
-        "description": "The presentation will talk about, optimizing the bundle size of the Angular Application, How you can use RxJs and State management libs to work with OnPush Change detection strategy and how to create tree shakable libraries with Nx and Angular CLI",
+        "description": "The presentation will talk about, optimizing the bundle size of the Angular Application, How you can use RxJS and State management libs to work with OnPush Change detection strategy and how to create tree shakable libraries with Nx and Angular CLI",
         "datePosted": "2022-04-12",
         "dateSource": "2022-04-12",
         "sourceSite": "YouTube",
@@ -17604,7 +17514,7 @@
         "authorName": "CITYJS CONFERENCE",
         "authorUrl": "https://www.youtube.com/channel/UCSL9UjbOlc2BZ4lBg3EYrfA/videos",
         "speakers": ["Santosh Yadav"],
-        "tags": ["Performance", "trackBy", "onPush", "Lazy Loading"]
+        "tags": ["Performance", "trackBy", "OnPush", "Change Detection", "Lazy Loading"]
       },
       {
         "slug": "2022-04-12-E",
@@ -17652,21 +17562,6 @@
         "authorUrl": "https://www.youtube.com/user/saimon1924/videos",
         "speakers": ["Simon Grimm"],
         "tags": ["Ionic"]
-      },
-      {
-        "slug": "2022-04-12-H",
-        "type": "blog",
-        "title": "Pagination with RxJS state, and Route Params",
-        "url": "https://elmota.com/pagination-with-rxjs-state-and-route-params",
-        "description": "Expanding on RxJS based state management, I will attempt to paginate a list through route parameter, and try to fix as many issues as one article can handle.",
-        "datePosted": "2022-04-12",
-        "dateSource": "2022-04-12",
-        "sourceSite": "Hashnode",
-        "sourceUrl": "https://hashnode.com",
-        "authorName": "Ayyash",
-        "authorUrl": "https://hashnode.com/@ayyash",
-        "speakers": [],
-        "tags": ["RxJS", "Pagination", "Route Params"]
       },
       {
         "slug": "2022-04-12-J",
@@ -17743,7 +17638,7 @@
         "authorName": "Dany Paredes",
         "authorUrl": "https://dev.to/danywalls",
         "speakers": ["Dany Paredes"],
-        "tags": ["RxJS", "Caching", "shareReplay"]
+        "tags": ["RxJS", "Caching", "shareReplay()"]
       },
       {
         "slug": "2022-04-12-P",
@@ -17897,7 +17792,7 @@
         "description": "How do you decide if your project or company should go with Micro Frontends Approach? Understanding how these concepts scale is crucial at an enterprise level. In this episode, we chat with Luca Mezzalira, who has tackled this very question with numerous teams and sheds some light on how to think about the architectural considerations and distributed systems in general.",
         "datePosted": "2022-04-13",
         "dateSource": "2022-04-13",
-        "sourceSite": "YouTube",
+        "sourceSite": "Spreaker",
         "sourceUrl": "https://www.spreaker.com",
         "authorName": "The Angular Plus Show",
         "authorUrl": "https://www.spreaker.com/show/angular-show",
@@ -18008,7 +17903,7 @@
         "authorName": "Matsal Dev",
         "authorUrl": "https://medium.com/@matsal.dev",
         "speakers": [],
-        "tags": ["ng-deep"]
+        "tags": ["ng-deep", "Styles"]
       },
       {
         "slug": "2022-04-13-P",
@@ -18038,7 +17933,7 @@
         "authorName": "Pawan Kumawat",
         "authorUrl": "https://pawan-kumawat.medium.com",
         "speakers": ["Pawan Kumawat"],
-        "tags": ["RxJS", "forkJoin"]
+        "tags": ["RxJS", "forkJoin()"]
       },
       {
         "slug": "2022-04-13-R",
@@ -18456,7 +18351,7 @@
         "authorName": "digibrains",
         "authorUrl": "https://www.youtube.com/channel/UC2d43lRPRGRYGZ_l8A7qWEA/videos",
         "speakers": [],
-        "tags": ["RxJS", "combineLatest"]
+        "tags": ["RxJS", "combineLatest()"]
       },
       {
         "slug": "2022-04-15-P",
@@ -18714,7 +18609,7 @@
         "authorName": "AngularEnthusiast",
         "authorUrl": "https://medium.com/@ramya-bala221190",
         "speakers": [],
-        "tags": ["ng-template", "ngTemplateOutlet"]
+        "tags": ["<ng-template>", "ngTemplateOutlet"]
       },
       {
         "slug": "2022-04-17-J",
@@ -18843,7 +18738,7 @@
         "authorName": "procademy",
         "authorUrl": "https://www.youtube.com/c/procademyn/videos",
         "speakers": [],
-        "tags": ["Forms", "Reactive Forms", "setValue", "patchValue"]
+        "tags": ["Forms", "Reactive Forms", "setValue()", "patchValue()"]
       },
       {
         "slug": "2022-04-18-F",
@@ -19117,7 +19012,7 @@
         "authorName": "Kevin Kreuzer",
         "authorUrl": "https://www.youtube.com/channel/UCFT4YVZl7AFia7rZBTEvavw/videos",
         "speakers": ["Kevin Kreuzer"],
-        "tags": ["ViewEncapsulation"]
+        "tags": ["ViewEncapsulation", "Styles"]
       },
       {
         "slug": "2022-04-20-C",
@@ -19206,7 +19101,7 @@
         "description": "In our second installment on Microfrontend (MFE) Architecture with Angular Joel Denning, the founder and core contributor for Single SPA teaches Jennifer and Brian the approach to building MFEs with Single SPA. Joel gives us a brief introduction to Single SPA and how it came about, along with the challenges he was trying to solve at the time. We also learn from Joel a few strategies for sharing dependencies, such as module federation or SystemJS.",
         "datePosted": "2022-04-20",
         "dateSource": "2022-04-20",
-        "sourceSite": "YouTube",
+        "sourceSite": "Spreaker",
         "sourceUrl": "https://www.spreaker.com",
         "authorName": "The Angular Plus Show",
         "authorUrl": "https://www.spreaker.com/show/angular-show",
@@ -19243,7 +19138,7 @@
         "authorName": "WorldGyan",
         "authorUrl": "https://www.youtube.com/channel/UCL-ACPCQnKbT2nWadQuqt2w/videos",
         "speakers": [],
-        "tags": ["RxJS", "forkJoin", "zip"]
+        "tags": ["RxJS", "forkJoin()", "zip()"]
       },
       {
         "slug": "2022-04-20-L",
@@ -19259,7 +19154,7 @@
         "authorName": "WorldGyan",
         "authorUrl": "https://www.youtube.com/channel/UCL-ACPCQnKbT2nWadQuqt2w/videos",
         "speakers": [],
-        "tags": ["RxJS", "switchMap", "mergeMap", "concatMap", "exhaustMap"]
+        "tags": ["RxJS", "switchMap()", "mergeMap()", "concatMap()", "exhaustMap()"]
       },
       {
         "slug": "2022-04-20-M",
@@ -19335,7 +19230,7 @@
         "authorName": "Akshatha Anantharamu",
         "authorUrl": "https://akshathaa.medium.com",
         "speakers": ["Akshatha Anantharamu"],
-        "tags": ["clipboard"]
+        "tags": ["Clipboard"]
       },
       {
         "slug": "2022-04-20-S",
@@ -19417,7 +19312,7 @@
         "authorName": "TechshareSKK",
         "authorUrl": "https://www.youtube.com/channel/UCD8gC85u512FeCFzRV4Ll-A/videos",
         "speakers": ["Sai Kumar Korthivada"],
-        "tags": ["Testing", "Unit Testing", "Reactive Forms", "FormArray", "removeAt"]
+        "tags": ["Testing", "Unit Testing", "Reactive Forms", "FormArray"]
       },
       {
         "slug": "2022-04-21-E",
@@ -19509,7 +19404,7 @@
         "authorName": "Sergey Gultyayev",
         "authorUrl": "https://sergeygultyayev.medium.com",
         "speakers": ["Sergey Gultyayev"],
-        "tags": ["RxJS", "exhaustMap"]
+        "tags": ["RxJS", "exhaustMap()"]
       },
       {
         "slug": "2022-04-21-L",
@@ -19525,7 +19420,7 @@
         "authorName": "Learn Smart Coding",
         "authorUrl": "https://www.youtube.com/channel/UCKUxSY2xp12QiP3c60sOc-g/videos",
         "speakers": [],
-        "tags": ["setTitle", "Custom", "Dynamic"]
+        "tags": ["setTitle()", "Custom", "Dynamic"]
       },
       {
         "slug": "2022-04-21-M",
@@ -19638,7 +19533,7 @@
         "authorName": "Conor O'Reilly",
         "authorUrl": "https://medium.com/@ConorJonOReilly",
         "speakers": ["Conor O'Reilly"],
-        "tags": ["ViewEncapsulation", "ng-deep"]
+        "tags": ["ViewEncapsulation", "Styles", "ng-deep"]
       },
       {
         "slug": "2022-04-22-G",
@@ -19873,7 +19768,7 @@
         "authorName": "Nil Seri",
         "authorUrl": "https://senoritadeveloper.medium.com",
         "speakers": ["Nil Seri"],
-        "tags": ["RxJS", "forkJoin", "File Upload", "Progress"]
+        "tags": ["RxJS", "forkJoin()", "File Upload", "Progress"]
       },
       {
         "slug": "2022-04-25-B",
@@ -20073,7 +19968,7 @@
         "authorName": "WorldGyan",
         "authorUrl": "https://www.youtube.com/channel/UCL-ACPCQnKbT2nWadQuqt2w/videos",
         "speakers": [],
-        "tags": ["RxJS", "debounceTime", "distinctUntilChanged"]
+        "tags": ["RxJS", "debounceTime()", "distinctUntilChanged()"]
       },
       {
         "slug": "2022-04-25-Q",
@@ -20156,7 +20051,7 @@
         "authorName": "Dany Paredes",
         "authorUrl": "https://www.telerik.com/blogs/author/dany-paredes",
         "speakers": ["Dany Paredes"],
-        "tags": ["trackBy", "Performance"]
+        "tags": ["*ngFor", "trackBy", "Performance"]
       },
       {
         "slug": "2022-04-26-E",
@@ -20240,7 +20135,7 @@
         "authorName": "Fabio Biondi",
         "authorUrl": "https://www.youtube.com/c/FabioBiondi/videos",
         "speakers": ["Fabio Biondi"],
-        "tags": ["RxJS", "switchMap", "mergeMap", "concatMap", "exhaustMap"]
+        "tags": ["RxJS", "switchMap()", "mergeMap()", "concatMap()", "exhaustMap()"]
       },
       {
         "slug": "2022-04-27-C",
@@ -20297,7 +20192,7 @@
         "description": "Lara and Jennifer talk to Zack Jackson about the creation of Module Federation and its place in the Micro Frontend landscape. Zack explains the benefits of Federated Modules, the need for code splitting, concerns with deploying micro frontend dependencies and more. Zack schools Jennifer on Webpack basics like plugins vs. loaders, and explains how to navigate Webpack's expansive API surface. Jennifer & Lara ask about Zack's journey to creating Module Federation and his learnings along the way. Zack shares key concepts to getting started with Module Federation and resources to help developers get started",
         "datePosted": "2022-04-27",
         "dateSource": "2022-04-27",
-        "sourceSite": "YouTube",
+        "sourceSite": "Spreaker",
         "sourceUrl": "https://www.spreaker.com",
         "authorName": "The Angular Plus Show",
         "authorUrl": "https://www.spreaker.com/show/angular-show",
@@ -20408,7 +20303,7 @@
         "authorName": "Pawan Kumawat",
         "authorUrl": "https://pawan-kumawat.medium.com",
         "speakers": ["Pawan Kumawat"],
-        "tags": ["RxJS", "timer"]
+        "tags": ["RxJS", "timer()"]
       }
     ]
   },
@@ -20475,7 +20370,7 @@
         "authorName": "Haseeb Ahmed",
         "authorUrl": "https://thehaseebahmed.medium.com",
         "speakers": ["Haseeb Ahmed"],
-        "tags": ["RxJS", "Autocomplete", "Subject", "debounceTime", "distinctUntilChanged" ]
+        "tags": ["RxJS", "Autocomplete", "Subject", "debounceTime()", "distinctUntilChanged()" ]
       },
       {
         "slug": "2022-04-28-E",
@@ -20855,7 +20750,7 @@
         "authorName": "Eden Park",
         "authorUrl": "https://edengoforit.medium.com",
         "speakers": ["Eden Park"],
-        "tags": ["ng-content"]
+        "tags": ["<ng-content>"]
       },
       {
         "slug": "2022-04-30-G",
@@ -20863,7 +20758,7 @@
         "duration": "21",
         "title": "Angular 13 module federation using Nx mfe tool | Dynamically load a remote module without Router",
         "url": "https://www.youtube.com/watch?v=7k0AqqJeWNo",
-        "description": "Angular 13 - Angular module federation using Nx microfrontend tool | Dynamically load a remote module without Router. Step by step explanation of how to create an nx workspace for creating Angular micro frontends.",
+        "description": "Angular 13 - Angular module federation using Nx microfrontend tool | Dynamically load a remote module without Router. Step by step explanation of how to create an Nx workspace for creating Angular micro frontends.",
         "datePosted": "2022-04-30",
         "dateSource": "2022-04-30",
         "sourceSite": "YouTube",
@@ -20887,7 +20782,7 @@
         "authorName": "digibrains",
         "authorUrl": "https://www.youtube.com/channel/UC2d43lRPRGRYGZ_l8A7qWEA/videos",
         "speakers": [],
-        "tags": ["RxJS", "concat"]
+        "tags": ["RxJS", "concat()"]
       },
       {
         "slug": "2022-04-30-J",
@@ -20978,7 +20873,7 @@
         "duration": "126",
         "title": "Angular Course | Consuming API's with Angular",
         "url": "https://www.youtube.com/watch?v=05mhsj4XPso",
-        "description": "Use Angular to consume API's and build applications using available API's. Integrate with RxJs, Resolvers, Map API Integration, etc.",
+        "description": "Use Angular to consume API's and build applications using available API's. Integrate with RxJS, Resolvers, Map API Integration, etc.",
         "datePosted": "2022-05-01",
         "dateSource": "2022-05-01",
         "sourceSite": "YouTube",
@@ -20986,7 +20881,7 @@
         "authorName": "Get Arrays",
         "authorUrl": "https://www.youtube.com/c/GetArrays/videos",
         "speakers": [],
-        "tags": ["RxJS", "resolve"]
+        "tags": ["RxJS"]
       },
       {
         "slug": "2022-05-01-E",
@@ -21037,7 +20932,7 @@
         "authorName": "Svetloslav Novoselski",
         "authorUrl": "https://medium.com/@novoselski",
         "speakers": ["Svetloslav Novoselski"],
-        "tags": ["ViewEncapsulation"]
+        "tags": ["ViewEncapsulation", "Styles"]
       },
       {
         "slug": "2022-05-02-C",
@@ -21161,7 +21056,7 @@
         "authorName": "Igor Moto",
         "authorUrl": "https://dev.to/mprojs",
         "speakers": ["Igor Moto"],
-        "tags": ["ViewEncapsulation", "ng-deep"]
+        "tags": ["ViewEncapsulation", "Styles", "ng-deep"]
       },
       {
         "slug": "2022-05-02-L",
@@ -21273,7 +21168,7 @@
         "authorName": "Anastasia Anisimova",
         "authorUrl": "https://medium.com/@cbgdn",
         "speakers": ["Anastasia Anisimova"],
-        "tags": ["RxJS", "materialize", "dematerialize"]
+        "tags": ["RxJS", "materialize()", "dematerialize()"]
       },
       {
         "slug": "2022-05-03-E",
@@ -21358,7 +21253,7 @@
         "duration": "5",
         "title": "Higher order mapping operators explained differently",
         "url": "https://www.youtube.com/watch?v=MUWpyRC4Dw8",
-        "description": "Higher-order mapping operators are one of the most powerful features in RxJs. In this video, we will explore them from a different angle. We will use a demo application that drops balls on click to explain switchMap, concatMap, exhaustMap and mergeMap.",
+        "description": "Higher-order mapping operators are one of the most powerful features in RxJS. In this video, we will explore them from a different angle. We will use a demo application that drops balls on click to explain switchMap, concatMap, exhaustMap and mergeMap.",
         "datePosted": "2022-05-03",
         "dateSource": "2022-05-03",
         "sourceSite": "YouTube",
@@ -21366,7 +21261,7 @@
         "authorName": "Kevin Kreuzer",
         "authorUrl": "https://www.youtube.com/channel/UCFT4YVZl7AFia7rZBTEvavw/videos",
         "speakers": ["Kevin Kreuzer"],
-        "tags": ["RxJS", "switchMap", "concatMap", "exhaustMap", "mergeMap"]
+        "tags": ["RxJS", "switchMap()", "concatMap()", "exhaustMap()", "mergeMap()"]
       }
     ]
   },
@@ -21458,7 +21353,7 @@
         "duration": "125",
         "title": "Angular Project - Cryptocurrency price tracker | Angular HTTP Client | Angular Material UI",
         "url": "https://www.youtube.com/watch?v=vb6b67HiuC8",
-        "description": "Learn how to make a cryptocurrency finance price tracker app in this Angular API Project. We will make use of Angular HttpClient for API calls, Routing, Rxjs Features, and many more while creating this video.",
+        "description": "Learn how to make a cryptocurrency finance price tracker app in this Angular API Project. We will make use of Angular HttpClient for API calls, Routing, RxJS Features, and many more while creating this video.",
         "datePosted": "2022-05-04",
         "dateSource": "2022-05-04",
         "sourceSite": "YouTube",
@@ -21508,7 +21403,7 @@
         "description": "Do you find managing dependencies difficult? In this episode, we conclude our four-part series on Micro-Frontends by discussing with Colum Ferry about Nx, Module Federation, and why using technology to solve problems sometimes isn't the right answer.",
         "datePosted": "2022-05-04",
         "dateSource": "2022-05-04",
-        "sourceSite": "YouTube",
+        "sourceSite": "Spreaker",
         "sourceUrl": "https://www.spreaker.com",
         "authorName": "The Angular Plus Show",
         "authorUrl": "https://www.spreaker.com/show/angular-show",
@@ -21559,7 +21454,7 @@
         "authorName": "Yuvaraj S",
         "authorUrl": "https://medium.com/@yuvayuvaraj720444",
         "speakers": [],
-        "tags": ["ng-content"]
+        "tags": ["<ng-content>"]
       },
       {
         "slug": "2022-05-04-N",
@@ -21688,7 +21583,7 @@
         "authorName": "Fabio Biondi",
         "authorUrl": "https://www.youtube.com/c/FabioBiondi/videos",
         "speakers": ["Fabio Biondi"],
-        "tags": ["RxJS", "HttpClient", "combineLatest", "forkJoin"]
+        "tags": ["RxJS", "HttpClient", "combineLatest()", "forkJoin()"]
       },
       {
         "slug": "2022-05-05-G",
@@ -21756,7 +21651,7 @@
         "type": "blog",
         "title": "Angular and Observables: how to avoid the subscription with the help of Async Pipe",
         "url": "https://medium.com/@franprietodeveloper/angular-and-observables-how-to-avoid-the-subscription-with-the-help-of-async-pipe-95d5d4221998",
-        "description": "If you have been using Angular for a while, probably you have met and used the Observables. Observables are part of a paradigm called Reactive Programming, and are included in Angular with the rxjs library. As you can read on the links, Reactive programming and Observables help you work with asynchronous data streams.\n\nImage provided by Luisella Planeta Leoni Love Peace in Pixabay",
+        "description": "If you have been using Angular for a while, probably you have met and used the Observables. Observables are part of a paradigm called Reactive Programming, and are included in Angular with the RxJS library. As you can read on the links, Reactive programming and Observables help you work with asynchronous data streams.\n\nImage provided by Luisella Planeta Leoni Love Peace in Pixabay",
         "datePosted": "2022-05-05",
         "dateSource": "2022-05-05",
         "sourceSite": "Medium",
@@ -21946,7 +21841,7 @@
         "authorName": "JS Frameworks",
         "authorUrl": "https://www.youtube.com/c/JSFrameworks/videos",
         "speakers": [],
-        "tags": ["Performance", "trackBy", "ngFor"]
+        "tags": ["Performance", "trackBy", "*ngFor"]
       },
       {
         "slug": "2022-05-07-F",
@@ -21981,7 +21876,7 @@
         "authorName": "Rohan Kumar Thakur",
         "authorUrl": "https://xebec19.medium.com",
         "speakers": ["Rohan Kumar Thakur"],
-        "tags": ["Routing", "resolve"]
+        "tags": ["Routing", "Resolve"]
       },
       {
         "slug": "2022-05-08-B",
@@ -22044,7 +21939,7 @@
         "authorName": "Or Anaki",
         "authorUrl": "https://medium.com/@oranaki9910",
         "speakers": ["Or Anaki"],
-        "tags": ["router-outlet"]
+        "tags": ["<router-outlet>"]
       },
       {
         "slug": "2022-05-08-F",
@@ -22311,7 +22206,7 @@
         "authorName": "Yaroslav Dobroskok",
         "authorUrl": "https://medium.com/@yar.dobroskok",
         "speakers": ["Yaroslav Dobroskok"],
-        "tags": ["Change Detection", "onPush"]
+        "tags": ["Change Detection", "OnPush"]
       },
       {
         "slug": "2022-05-09-S",
@@ -22561,7 +22456,7 @@
         "description": "In this episode, we chat with James Spivey about the heart-pounding dreaded topic: finding a job and getting hired. The conversation covers interview tips, how-to pivot tough interview questions, toxic and positive work environments, common red flags and how to spot them, the importance of diversity and cultural addition, and much more! (ps. we also cover tips on how to hire, for those on the other side of the table.)",
         "datePosted": "2022-05-11",
         "dateSource": "2022-05-11",
-        "sourceSite": "YouTube",
+        "sourceSite": "Spreaker",
         "sourceUrl": "https://www.spreaker.com",
         "authorName": "The Angular Plus Show",
         "authorUrl": "https://www.spreaker.com/show/angular-show",
@@ -22626,7 +22521,7 @@
         "authorName": "Rahul Kapoor",
         "authorUrl": "https://medium.com/@kapoorrahul",
         "speakers": ["Rahul Kapoor"],
-        "tags": ["ViewEncapsulation"]
+        "tags": ["ViewEncapsulation", "Styles"]
       },
       {
         "slug": "2022-05-11-H",
@@ -22775,7 +22670,7 @@
       {
         "slug": "2022-05-12-D",
         "type": "blog",
-        "title": "Stop redundant and unnecessary API calls on user input change using RxJs",
+        "title": "Stop redundant and unnecessary API calls on user input change using RxJS",
         "url": "https://medium.com/@imfaizanahmed/stop-redundant-and-unnecessary-api-calls-on-user-input-change-using-rxjs-2d42e8d4a8e7",
         "description": "A proper system is a combination of the back-end and front-end technologies. The front-end is the part of the website users can see and interact with such as the graphical user interface (GUI). On the other hand, the back-end is the server side where most business logic is usually written. Both have to transfer information to each other.",
         "datePosted": "2022-05-12",
@@ -22801,7 +22696,7 @@
         "authorName": "Pavan Kalyan Chilakalapalli",
         "authorUrl": "https://www.youtube.com/channel/UCzVVym8OVARr9r_vBx7raCA/videos",
         "speakers": ["Pavan Kalyan Chilakalapalli"],
-        "tags": ["Attribute Binding", "Class Binding", "Style Binding"]
+        "tags": ["Attribute Binding", "Class Binding", "Style Binding", "Interpolation"]
       },
       {
         "slug": "2022-05-12-F",
@@ -22847,7 +22742,7 @@
         "authorName": "Google Cloud Tech",
         "authorUrl": "https://www.youtube.com/user/googlecloudplatform/videos",
         "speakers": ["Minko Gechev"],
-        "tags": ["SSR", "Hybrid Rendering"]
+        "tags": ["SSR"]
       },
       {
         "slug": "2022-05-12-J",
@@ -23006,7 +22901,7 @@
         "authorName": "Suresh Mohan",
         "authorUrl": "https://dev.to/sureshmohan",
         "speakers": ["Suresh Mohan"],
-        "tags": ["Routing", "Route Guards", "canActivate"]
+        "tags": ["Routing", "Route Guards", "CanActivate"]
       },
       {
         "slug": "2022-05-13-D",
@@ -23022,7 +22917,7 @@
         "authorName": "Techie Ocean",
         "authorUrl": "https://www.youtube.com/c/TechieOcean/videos",
         "speakers": [],
-        "tags": ["ng-container"]
+        "tags": ["<ng-container>"]
       },
       {
         "slug": "2022-05-13-E",
@@ -23583,7 +23478,7 @@
         "authorName": "Tech & Mac",
         "authorUrl": "https://www.youtube.com/channel/UC1-XaZ0_TK-oxz4i7CRuXUA/videos",
         "speakers": [],
-        "tags": ["ngIf"]
+        "tags": ["*ngIf"]
       },
       {
         "slug": "2022-05-16-N",
@@ -23629,7 +23524,7 @@
         "authorName": "Matsal Dev",
         "authorUrl": "https://medium.com/@matsal.dev",
         "speakers": [],
-        "tags": ["Change Detection", "onPush", "Performance"]
+        "tags": ["Change Detection", "OnPush", "Performance"]
       }
     ]
   },
@@ -23756,7 +23651,7 @@
         "authorName": "Daniel Kreider",
         "authorUrl": "https://dkreider.medium.com",
         "speakers": ["Daniel Kreider"],
-        "tags": ["clipboard"]
+        "tags": ["Clipboard"]
       },
       {
         "slug": "2022-05-17-J",
@@ -23771,7 +23666,7 @@
         "authorName": "Netanel Basal",
         "authorUrl": "https://netbasal.medium.com",
         "speakers": ["Netanel Basal"],
-        "tags": ["Routing", "title", "setTitle", "Custom", "Dynamic"]
+        "tags": ["Routing", "Title", "setTitle()", "Custom", "Dynamic"]
       },
       {
         "slug": "2022-05-17-K",
@@ -23851,7 +23746,7 @@
         "authorName": "Fabian Saacke",
         "authorUrl": "https://saackef.com",
         "speakers": ["Fabian Saacke"],
-        "tags": ["ngFor", "trackBy", "Performance"]
+        "tags": ["*ngFor", "trackBy", "Performance"]
       },
       {
         "slug": "2022-05-18-C",
@@ -23924,7 +23819,7 @@
         "description": "In this Episode, Anna Lytical - the sickeningly entertaining education drag queen, shares with us the importance of LGBTQ+ representation and how flamboyantly discussing computer science helps normalize dressing up and engages the audience in a new, creative, and fun way.",
         "datePosted": "2022-05-18",
         "dateSource": "2022-05-18",
-        "sourceSite": "YouTube",
+        "sourceSite": "Spreaker",
         "sourceUrl": "https://www.spreaker.com",
         "authorName": "The Angular Plus Show",
         "authorUrl": "https://www.spreaker.com/show/angular-show",
@@ -24150,7 +24045,7 @@
         "authorName": "Angular Belgrade",
         "authorUrl": "https://www.youtube.com/c/AngularBelgrade/videos",
         "speakers": ["Emma Twersky", "Muhammad Awais"],
-        "tags": ["Update", "Routing"]
+        "tags": ["Update", "Routing", "<router-outlet>"]
       },
       {
         "slug": "2022-05-19-B",
@@ -24485,7 +24380,7 @@
         "authorName": "PaperInFlames",
         "authorUrl": "https://paperinflames.medium.com",
         "speakers": [],
-        "tags": ["RxJS", "shareReplay", "Performance"]
+        "tags": ["RxJS", "shareReplay()", "Performance"]
       },
       {
         "slug": "2022-05-21-D",
@@ -24578,7 +24473,7 @@
         "authorName": "Renato Bogar",
         "authorUrl": "https://hashnode.com/@renatobogar",
         "speakers": ["Renato Bogar"],
-        "tags": ["RxJS", "Observables", "Subscriptions", "unsubscribe"]
+        "tags": ["RxJS", "Observables", "Subscriptions", "unsubscribe()"]
       }
     ]
   },
@@ -24650,9 +24545,9 @@
       {
         "slug": "2022-05-22-E",
         "type": "blog",
-        "title": "Easy caching with Rxjs",
+        "title": "Easy caching with RxJS",
         "url": "https://dev.to/chrollo4ki/easy-caching-with-rxjs-jkl",
-        "description": "Today, I will explain the best and easiest way I have found to cache API response where ever you want (Local storage, memory, cookies, etc. ) using Rxjs.",
+        "description": "Today, I will explain the best and easiest way I have found to cache API response where ever you want (Local storage, memory, cookies, etc. ) using RxJS.",
         "datePosted": "2022-05-22",
         "dateSource": "2022-05-22",
         "sourceSite": "DEV Community",
@@ -24692,7 +24587,7 @@
         "authorName": "Fabio Biondi - Front-End Tutorials",
         "authorUrl": "https://www.youtube.com/c/FabioBiondi/videos",
         "speakers": ["Fabio Biondi"],
-        "tags": ["Dependency Injection", "inject"]
+        "tags": ["Dependency Injection", "inject()"]
       },
       {
         "slug": "2022-05-22-H",
@@ -24804,7 +24699,7 @@
         "authorName": "Matsal Dev",
         "authorUrl": "https://medium.com/@matsal.dev",
         "speakers": [],
-        "tags": ["ng-content", "@ContentChild", "Content Projection"]
+        "tags": ["<ng-content>", "@ContentChild", "Content Projection"]
       },
       {
         "slug": "2022-05-23-G",
@@ -25242,7 +25137,7 @@
         "description": "Do you want to increase diversity in computing? In this episode, Darin Webb shares how you can empower tomorrow's generations by increasing classroom access to computers and computer science courses and what it's like migrating your career from the corporate to the non-profit sector.",
         "datePosted": "2022-05-25",
         "dateSource": "2022-05-25",
-        "sourceSite": "YouTube",
+        "sourceSite": "Spreaker",
         "sourceUrl": "https://www.spreaker.com",
         "authorName": "The Angular Plus Show",
         "authorUrl": "https://www.spreaker.com/show/angular-show",
@@ -25278,7 +25173,7 @@
         "authorName": "Omerko",
         "authorUrl": "https://www.youtube.com/c/Omerko/videos",
         "speakers": ["Stefan Omerovic"],
-        "tags": ["CDK", "Observers"]
+        "tags": ["CDK"]
       },
       {
         "slug": "2022-05-25-G",
@@ -25456,21 +25351,6 @@
         "tags": []
       },
       {
-        "slug": "2022-05-26-E",
-        "type": "blog",
-        "title": "Angular Component Inheritance",
-        "url": "https://medium.com/@colinbroberg/angular-component-inheritance-d5057ade463e",
-        "description": "Inheritance, in any programming language, is an excellent way to maintain an object-oriented design, as well as reduce redundant code. It may not be apparent when first learning the Angular framework, but components can inherit from other components, thereby reusing methods and properties. Let's work through an example of how one might use Angular inheritance to build a more elegant application.",
-        "datePosted": "2022-05-26",
-        "dateSource": "2022-05-26",
-        "sourceSite": "Medium",
-        "sourceUrl": "https://medium.com",
-        "authorName": "Colin Broberg",
-        "authorUrl": "https://medium.com/@colinbroberg",
-        "speakers": ["Colin Broberg"],
-        "tags": ["Components"]
-      },
-      {
         "slug": "2022-05-26-F",
         "type": "blog",
         "title": "Build Secure Ionic Apps with Angular and JHipster",
@@ -25613,7 +25493,7 @@
         "authorName": "Renato Bogar",
         "authorUrl": "https://hashnode.com/@renatobogar",
         "speakers": ["Renato Bogar"],
-        "tags": ["RxJS", "concatMap", "mergeMap", "switchMap"]
+        "tags": ["RxJS", "concatMap()", "mergeMap()", "switchMap()"]
       },
       {
         "slug": "2022-05-27-J",
@@ -25663,7 +25543,7 @@
         "authorName": "Matsal Dev",
         "authorUrl": "https://medium.com/@matsal.dev",
         "speakers": [],
-        "tags": ["ViewEncapsulation"]
+        "tags": ["ViewEncapsulation", "Styles"]
       },
       {
         "slug": "2022-05-28-B",
@@ -25853,7 +25733,7 @@
         "authorName": "Ankit Kaushik",
         "authorUrl": "https://ankit-kaushik.medium.com",
         "speakers": ["Ankit Kaushik"],
-        "tags": ["ngFor", "trackBy"]
+        "tags": ["*ngFor", "trackBy", "Performance"]
       },
       {
         "slug": "2022-05-29-B",
@@ -25869,7 +25749,7 @@
         "authorName": "Briebug",
         "authorUrl": "https://www.youtube.com/c/Briebugsoftwaresolutions/videos",
         "speakers": ["Nick Landkamer"],
-        "tags": ["RxJS", "startWith"]
+        "tags": ["RxJS", "startWith()"]
       },
       {
         "slug": "2022-05-29-C",
@@ -25914,7 +25794,7 @@
         "authorName": "Fabian Saacke",
         "authorUrl": "https://saackef.com",
         "speakers": ["Fabian Saacke"],
-        "tags": ["Declarative", "Custom"]
+        "tags": ["Decorators", "Custom"]
       },
       {
         "slug": "2022-05-29-F",
@@ -25997,7 +25877,7 @@
         "authorName": "Renato Bogar",
         "authorUrl": "https://hashnode.com/@renatobogar",
         "speakers": ["Renato Bogar"],
-        "tags": ["RxJS", "combineLatest", "forkJoin", "withLatestFrom"]
+        "tags": ["RxJS", "combineLatest()", "forkJoin()", "withLatestFrom()"]
       },
       {
         "slug": "2022-05-30-E",
@@ -26012,7 +25892,7 @@
         "authorName": "Dev-Tutos",
         "authorUrl": "https://medium.com/@devtutos",
         "speakers": [],
-        "tags": ["ngFor"]
+        "tags": ["*ngFor"]
       },
       {
         "slug": "2022-05-30-F",
@@ -26215,7 +26095,7 @@
         "authorName": "Lucas Paganini",
         "authorUrl": "https://dev.to/lucaspaganini",
         "speakers": ["Lucas Paganini"],
-        "tags": ["RxJS", "Subscriptions", "takeUntil"]
+        "tags": ["RxJS", "Subscriptions", "takeUntil()"]
       },
       {
         "slug": "2022-05-30-U",
@@ -26512,7 +26392,7 @@
         "description": "In this Episode, Mark Thompson talks about Angular v14, what it's like working at Google, and what he thinks is the *next big thing* that developers should be adding to their skillset.",
         "datePosted": "2022-06-01",
         "dateSource": "2022-06-01",
-        "sourceSite": "YouTube",
+        "sourceSite": "Spreaker",
         "sourceUrl": "https://www.spreaker.com",
         "authorName": "The Angular Plus Show",
         "authorUrl": "https://www.spreaker.com/show/angular-show",
@@ -26622,7 +26502,7 @@
         "type": "blog",
         "title": "Angular lazy loading directive with IntersectionObserver",
         "url": "https://dev.to/anirbmuk/angular-lazy-loading-directive-with-intersectionobserver-4m92",
-        "description": "So let's dig into lazy loading once again! Previously, I had written an article Angular infinite scrolling using RxJs and NgRx, which explained the concept of loading more data on reaching the end-of page. But this time, the concept is wider, or more generic.",
+        "description": "So let's dig into lazy loading once again! Previously, I had written an article Angular infinite scrolling using RxJS and NgRx, which explained the concept of loading more data on reaching the end-of page. But this time, the concept is wider, or more generic.",
         "datePosted": "2022-06-02",
         "dateSource": "2022-06-02",
         "sourceSite": "DEV Community",
@@ -26630,7 +26510,7 @@
         "authorName": "Anirban Mukherjee",
         "authorUrl": "https://dev.to/anirbmuk",  
         "speakers": ["Anirban Mukherjee"],
-        "tags": ["Lazy Loading", "Intersection Observer"]
+        "tags": ["Lazy Loading", "IntersectionObserver"]
       },
       {
         "slug": "2022-06-02-D",
@@ -26677,7 +26557,7 @@
         "authorName": "Decoded Frontend",
         "authorUrl": "https://www.youtube.com/c/DecodedFrontend/videos",
         "speakers": ["Dmytro Mezhenskyi"],
-        "tags": ["inject"]
+        "tags": ["inject()"]
       },
       {
         "slug": "2022-06-02-G",
@@ -26834,7 +26714,7 @@
         "authorName": "Younes",
         "authorUrl": "https://medium.com/@yjaaidi",
         "speakers": [],
-        "tags": ["inject"]
+        "tags": ["inject()"]
       },
       {
         "slug": "2022-06-03-E",
@@ -26849,7 +26729,7 @@
         "authorName": "Mohammedfahimullah",
         "authorUrl": "https://mohammedfahimullah.medium.com",
         "speakers": [],
-        "tags": ["RxJS", "retry"]
+        "tags": ["RxJS", "retry()"]
       },
       {
         "slug": "2022-06-03-F",
@@ -26926,7 +26806,7 @@
         "authorName": "Lucas Paganini",
         "authorUrl": "https://dev.to/lucaspaganini",
         "speakers": ["Lucas Paganini"],
-        "tags": ["Intersection Observer", "Scrolling"]
+        "tags": ["IntersectionObserver", "Scrolling"]
       },
       {
         "slug": "2022-06-03-L",
@@ -27164,7 +27044,7 @@
         "authorName": "CodeRush!!!",
         "authorUrl": "https://www.youtube.com/channel/UC8sR58aia8ANTLdlLZ4dAmQ/videos",
         "speakers": [],
-        "tags": ["ngFor"]
+        "tags": ["*ngFor"]
       },
       {
         "slug": "2022-06-04-D",
@@ -27210,7 +27090,7 @@
         "authorName": "Rahul Kapoor",
         "authorUrl": "https://medium.com/@kapoorrahul",
         "speakers": ["Rahul Kapoor"],
-        "tags": ["Forms", "resolve"]
+        "tags": ["Forms", "Resolve"]
       },
       {
         "slug": "2022-06-04-G",
@@ -27629,7 +27509,7 @@
         "authorName": "Fabian Saacke",
         "authorUrl": "https://saackef.com",
         "speakers": ["Fabian Saacke"],
-        "tags": ["Pagination", "Data Table"]
+        "tags": ["Pagination", "Data Table", "Performance"]
       },
       {
         "slug": "2022-06-07-D",
@@ -27698,7 +27578,7 @@
         "duration": "58",
         "title": "State of Angular Ecosystem",
         "url": "https://www.youtube.com/watch?v=W90EopFqUH4",
-        "description": "In this month's 'State of' event, we're bringing you the State of Angular Ecosystem. We will be talking with the Angular core team, Library Authors and Maintainers, discussing the Angular Roadmap, Best Practices, NGRX, NX dev tools, Typescript, Nestjs, and community initiatives!",
+        "description": "In this month's 'State of' event, we're bringing you the State of Angular Ecosystem. We will be talking with the Angular core team, Library Authors and Maintainers, discussing the Angular Roadmap, Best Practices, NGRX, Nx Dev Tools, Typescript, NestJS, and community initiatives!",
         "datePosted": "2022-06-07",
         "dateSource": "2022-06-07",
         "sourceSite": "YouTube",
@@ -27908,7 +27788,7 @@
         "description": "In this Episode, Stephen Cooper talks about AG Grid v27, TypeScript, Async Testing, and how he fell in love with Angular and transitioned from his career as a C# developer.",
         "datePosted": "2022-06-08",
         "dateSource": "2022-06-08",
-        "sourceSite": "YouTube",
+        "sourceSite": "Spreaker",
         "sourceUrl": "https://www.spreaker.com",
         "authorName": "The Angular Plus Show",
         "authorUrl": "https://www.spreaker.com/show/angular-show",
@@ -28037,7 +27917,7 @@
         "authorName": "Akash Kriplani",
         "authorUrl": "https://medium.com/@akashkriplani",
         "speakers": ["Akash Kriplani"],
-        "tags": ["Standalone Components", "title"]
+        "tags": ["Standalone Components", "Title"]
       }
     ]
   },
@@ -28180,7 +28060,7 @@
         "authorName": "Code Shots With Profanis",
         "authorUrl": "https://www.youtube.com/c/CodeShotsWithProfanis/videos",
         "speakers": ["Fanis Prodromou"],
-        "tags": ["inject"]
+        "tags": ["inject()"]
       },
       {
         "slug": "2022-06-09-K",
@@ -28259,7 +28139,7 @@
         "authorName": "WorldGyan",
         "authorUrl": "https://www.youtube.com/channel/UCL-ACPCQnKbT2nWadQuqt2w/videos",
         "speakers": [],
-        "tags": ["Testing", "Unit Testing", "Jasmine", "Karma"]
+        "tags": ["Testing", "Unit Testing", "Jasmine", "Karma", "createComponent()"]
       }
     ]
   },
@@ -28279,7 +28159,7 @@
         "authorName": "Honorary Marleyans",
         "authorUrl": "https://medium.com/@HonoraryMarleyans",
         "speakers": ["Honorary Marleyans"],
-        "tags": []
+        "tags": ["flex-layout"]
       },
       {
         "slug": "2022-06-10-B",
@@ -28309,7 +28189,7 @@
         "authorName": "Netanel Basal",
         "authorUrl": "https://netbasal.medium.com",
         "speakers": ["Netanel Basal"],
-        "tags": ["clipboard"]
+        "tags": ["Clipboard"]
       },
       {
         "slug": "2022-06-10-D",
@@ -28325,21 +28205,6 @@
         "authorUrl": "https://bobbyg603.medium.com",
         "speakers": ["Bobby Galli"],
         "tags": ["Typed Forms"]
-      },
-      {
-        "slug": "2022-06-10-E",
-        "type": "blog",
-        "title": "Understanding Template Variables in Angular",
-        "url": "https://javascript.plainenglish.io/understanding-template-variables-in-angular-506ae98d29",
-        "description": "Template variables are a way of labeling parts of the component template so that it may be referenced in other parts of the template. They work similarly to how a variable works in JavaScript, existing only in their defined scope, and capable of referencing several types of template objects.",
-        "datePosted": "2022-06-10",
-        "dateSource": "2022-06-09",
-        "sourceSite": "Medium",
-        "sourceUrl": "https://medium.com",
-        "authorName": "Colin Broberg",
-        "authorUrl": "https://medium.com/@colinbroberg",
-        "speakers": ["Colin Broberg"],
-        "tags": []
       },
       {
         "slug": "2022-06-10-F",
@@ -28427,9 +28292,9 @@
       {
         "slug": "2022-06-11-B",
         "type": "blog",
-        "title": "Introduction to building Ionic 6 Angular App with NX monorepo (Part 1)",
+        "title": "Introduction to building Ionic 6 Angular App with Nx monorepo (Part 1)",
         "url": "https://medium.com/@harshmathur.04/introduction-to-building-ionic-6-angular-app-with-nx-monorepo-part-1-b53d6b9106a6",
-        "description": "Before we jump to what and how NX helps with monorepo, first we need to understand what monorepos actually are? And how they help in making your life easy in managing code.",
+        "description": "Before we jump to what and how Nx helps with monorepo, first we need to understand what monorepos actually are? And how they help in making your life easy in managing code.",
         "datePosted": "2022-06-11",
         "dateSource": "2022-06-11",
         "sourceSite": "Medium",
@@ -28515,7 +28380,7 @@
         "authorName": "JS Frameworks",
         "authorUrl": "https://www.youtube.com/c/JSFrameworks/videos",
         "speakers": [],
-        "tags": ["setTitle"]
+        "tags": ["setTitle()"]
       }
     ]
   },
@@ -28672,7 +28537,7 @@
         "authorName": "Shrihari Mohan",
         "authorUrl": "https://medium.com/@shriharimohan",
         "speakers": ["Shrihari Mohan"],
-        "tags": ["Pipes"]
+        "tags": ["Pipes", "Interpolation"]
       },
       {
         "slug": "2022-06-12-L",
@@ -28820,7 +28685,7 @@
         "authorName": "Kagklis Vasileios",
         "authorUrl": "https://medium.com/@kagklis",
         "speakers": ["Kagklis Vasileios"],
-        "tags": ["canDeactivate"]
+        "tags": ["CanDeactivate"]
       },
       {
         "slug": "2022-06-14-B",
@@ -28978,13 +28843,13 @@
         "authorName": "Joshua Morony",
         "authorUrl": "https://www.youtube.com/c/JoshuaMorony",
         "speakers": ["Joshua Morony"],
-        "tags": ["RxJS", "concatMap", "distinctUntilChanged", "debounceTime", "tap", "combineLatest", "switchMap", "expand", "scan"]
+        "tags": ["RxJS", "concatMap()", "distinctUntilChanged()", "debounceTime()", "tap()", "combineLatest()", "switchMap()", "expand()", "scan()"]
       },
       {
         "slug": "2022-06-15-D",
         "type": "video",
         "duration": "9",
-        "title": "Authentication In Angular by authGuard & canActivate by Fake JWT token",
+        "title": "Authentication In Angular by AuthGuard & CanActivate by Fake JWT token",
         "url": "https://www.youtube.com/watch?v=1lYrplmKmq0",
         "description": "",
         "datePosted": "2022-06-15",
@@ -28994,7 +28859,7 @@
         "authorName": "Webdevelopment by Gourish",
         "authorUrl": "https://www.youtube.com/channel/UCO1Lzzc8Y2L39ocnnXcvr5g/videos",
         "speakers": [],
-        "tags": ["Auth", "Route Guards", "canActivate"]
+        "tags": ["Auth", "Route Guards", "CanActivate"]
       },
       {
         "slug": "2022-06-15-E",
@@ -29009,7 +28874,7 @@
         "authorName": "Paul Chesa",
         "authorUrl": "https://paul-chesa.medium.com",
         "speakers": ["Paul Chesa"],
-        "tags": ["ViewEncapsulation"]
+        "tags": ["ViewEncapsulation", "Styles"]
       },
       {
         "slug": "2022-06-15-F",
@@ -29062,7 +28927,7 @@
         "type": "blog",
         "title": "Introducing the CanMatch Router Guard In Angular",
         "url": "https://netbasal.com/introducing-the-canmatch-router-guard-in-angular-84e398046c9a",
-        "description": "Angular provides the canLoad and canActivate router guards. CanLoad and canActivate guards are used to determine if a lazy-loaded module or component should be loaded and activated, respectively.",
+        "description": "Angular provides the CanLoad and CanActivate router guards. CanLoad and CanActivate guards are used to determine if a lazy-loaded module or component should be loaded and activated, respectively.",
         "datePosted": "2022-06-15",
         "dateSource": "2022-06-15",
         "sourceSite": "Medium",
@@ -29070,7 +28935,7 @@
         "authorName": "Netanel Basal",
         "authorUrl": "https://netbasal.medium.com",
         "speakers": ["Netanel Basal"],
-        "tags": ["canMatch", "canLoad", "canActivate", "Route Guards"]
+        "tags": ["CanMatch", "CanLoad", "CanActivate", "Route Guards"]
       },
       {
         "slug": "2022-06-15-K",
@@ -29081,7 +28946,7 @@
         "description": "In this Episode, we talk with Angela Wright about how to implement Agile effectively, examples of poorly executed Agile, and how Agile can improve team culture and make everyone happier.",
         "datePosted": "2022-06-15",
         "dateSource": "2022-06-15",
-        "sourceSite": "YouTube",
+        "sourceSite": "Spreaker",
         "sourceUrl": "https://www.spreaker.com",
         "authorName": "The Angular Plus Show",
         "authorUrl": "https://www.spreaker.com/show/angular-show",
@@ -29148,7 +29013,7 @@
         "authorName": "Tech & Mac",
         "authorUrl": "https://www.youtube.com/channel/UC1-XaZ0_TK-oxz4i7CRuXUA/videos",
         "speakers": [],
-        "tags": ["ngSwitch"]
+        "tags": ["*ngSwitch"]
       },
       {
         "slug": "2022-06-15-Q",
@@ -29278,7 +29143,7 @@
         "authorName": "Alexis Degraeve",
         "authorUrl": "https://www.youtube.com/channel/UCDPAw4WDkmXYX-L_NyZ4Hug/videos",
         "speakers": ["Alexis Degraeve"],
-        "tags": ["RxJS"]
+        "tags": ["RxJS", "pipe()", "map()", "tap()"]
       },
       {
         "slug": "2022-06-16-G",
@@ -29583,7 +29448,7 @@
         "authorName": "Nivrith",
         "authorUrl": "https://medium.com/@nivrith",
         "speakers": ["Nivrith Gomatam"],
-        "tags": ["ngFor"]
+        "tags": ["*ngFor"]
       },
       {
         "slug": "2022-06-18-G",
@@ -29598,7 +29463,7 @@
         "authorName": "AngularEnthusiast",
         "authorUrl": "https://ramya-bala221190.medium.com",
         "speakers": [],
-        "tags": ["RxJS", "HttpClient"]
+        "tags": ["RxJS", "HttpClient", "retry()"]
       },
       {
         "slug": "2022-06-18-H",
@@ -29752,7 +29617,7 @@
       {
         "slug": "2022-06-20-C",
         "type": "blog",
-        "title": "Angular Addicts Issue #2: Angular 14, NX 14, RxJS and NgRx tips & more",
+        "title": "Angular Addicts Issue #2: Angular 14, Nx 14, RxJS and NgRx tips & more",
         "url": "https://angularaddicts.com/angular-addicts-issue-2-angular-14-nx-14-rxjs-and-ngrx-tips-more-3c0e85a09d1e",
         "description": "",
         "datePosted": "2022-06-20",
@@ -29973,9 +29838,9 @@
         "slug": "2022-06-21-F",
         "type": "video",
         "duration": "11",
-        "title": "Angular ngContainer vs Angular ng Template vs Angular ngContent vs Angular ngTemplateOutlet",
+        "title": "Angular ng-container vs Angular ng-template vs Angular ng-content vs Angular ngTemplateOutlet",
         "url": "https://www.youtube.com/watch?v=Sd9aAVL3Uk8",
-        "description": "In this video we will learn 4 important Angular directives. Angular ngContainer, Angular ngTemplate, Angular ngContent and Angular ngTemplateOutlet. We need them for different things but people are mixing them a lot. We use Angular ngContainer to avoid creating additional DOM nodes. We need Angular ngContent to provide markup from parent component to child component. We use Angular ng template to create and pass templates to other directives and if we need to render ng template on it's own we use Angular ngTemplateOutlet. You will also learn how to use ngTemplateOutlet context to pass data to the template.",
+        "description": "In this video we will learn 4 important Angular directives. Angular ng-container, Angular ng-template, Angular ng-content and Angular ngTemplateOutlet. We need them for different things but people are mixing them a lot. We use Angular ng-container to avoid creating additional DOM nodes. We need Angular ng-content to provide markup from parent component to child component. We use Angular ng-template to create and pass templates to other directives and if we need to render ng-template on it's own we use Angular ngTemplateOutlet. You will also learn how to use ngTemplateOutlet context to pass data to the template.",
         "datePosted": "2022-06-21",
         "dateSource": "2022-06-21",
         "sourceSite": "YouTube",
@@ -29983,7 +29848,7 @@
         "authorName": "Monsterlessons Academy",
         "authorUrl": "https://www.youtube.com/c/MonsterlessonsAcademy/videos",
         "speakers": [],
-        "tags": ["ng-container", "ng-template", "ng-content", "ngTemplateOutlet"]
+        "tags": ["<ng-container>", "<ng-template>", "<ng-content>", "ngTemplateOutlet"]
       },
       {
         "slug": "2022-06-21-G",
@@ -29999,7 +29864,7 @@
         "authorName": "Decoded Frontend",
         "authorUrl": "https://www.youtube.com/c/DecodedFrontend/videos",
         "speakers": ["Dmytro Mezhenskyi"],
-        "tags": ["Routing", "providers"]
+        "tags": ["Routing"]
       },
       {
         "slug": "2022-06-21-H",
@@ -30233,7 +30098,7 @@
         "description": "Everyone working in application development deals with the problems addressed by design systems. In this Episode, we discuss with Wade Harkins about the benefits of Design Systems, how to implement them with your team, some of the unexpected hurdles that can arise along the way, and more! Wade also presented a few specific libraries such as lit, StencilJS, and Storybook for speeding up development and keeping solutions framework-agnostic.",
         "datePosted": "2022-06-22",
         "dateSource": "2022-06-22",
-        "sourceSite": "YouTube",
+        "sourceSite": "Spreaker",
         "sourceUrl": "https://www.spreaker.com",
         "authorName": "The Angular Plus Show",
         "authorUrl": "https://www.spreaker.com/show/angular-show",
@@ -30720,7 +30585,7 @@
         "authorName": "Preston Lamb",
         "authorUrl": "https://medium.com/@pjlamb12",
         "speakers": ["Preston Lamb"],
-        "tags": ["ng-template", "ng-container", "ngTemplateOutlet"]
+        "tags": ["<ng-template>", "<ng-container>", "ngTemplateOutlet"]
       },
       {
         "slug": "2022-06-25-D",
@@ -30880,7 +30745,7 @@
         "authorName": "Sandro Jhuliano Cagara",
         "authorUrl": "https://dev.to/sandrocagara",
         "speakers": ["Sandro Jhuliano Cagara"],
-        "tags": ["onPush", "Change Detection"]
+        "tags": ["OnPush", "Change Detection", "Performance"]
       },
       {
         "slug": "2022-06-26-E",
@@ -30942,7 +30807,7 @@
         "authorName": "Sergey Gultyayev",
         "authorUrl": "https://sergeygultyayev.medium.com",
         "speakers": ["Sergey Gultyayev"],
-        "tags": ["ViewEncapsulation"]
+        "tags": ["ViewEncapsulation", "Styles"]
       }
     ]
   },
@@ -30992,7 +30857,7 @@
         "authorName": "Esther Wavinya",
         "authorUrl": "https://medium.com/@estherwavinya",
         "speakers": ["Esther Wavinya"],
-        "tags": ["RxJS", "map"]
+        "tags": ["RxJS", "map()"]
       },
       {
         "slug": "2022-06-27-D",
@@ -31055,7 +30920,7 @@
         "authorName": "Briebug",
         "authorUrl": "https://www.youtube.com/c/Briebugsoftwaresolutions/videos",
         "speakers": ["Nick Landkamer"],
-        "tags": ["RxJS", "tap"]
+        "tags": ["RxJS", "tap()"]
       },
       {
         "slug": "2022-06-27-H",
@@ -31249,7 +31114,7 @@
         "authorName": "Monsterlessons Academy",
         "authorUrl": "https://www.youtube.com/c/MonsterlessonsAcademy/videos",
         "speakers": [],
-        "tags": ["RxJS", "Observables", "BehaviorSubject", "combineLatest"]
+        "tags": ["RxJS", "Observables", "BehaviorSubject", "combineLatest()"]
       },
       {
         "slug": "2022-06-28-H",
@@ -31407,7 +31272,7 @@
         "authorName": "Ricardo Torres",
         "authorUrl": "https://dev.to/ricardojavister",
         "speakers": ["Ricardo Torres"],
-        "tags": ["RxJS", "mergeAll"]
+        "tags": ["RxJS", "mergeAll()"]
       },
       {
         "slug": "2022-06-29-B",
@@ -31452,7 +31317,7 @@
         "authorName": "Veeranan S S",
         "authorUrl": "https://medium.com/@veeranan.s",
         "speakers": [],
-        "tags": ["Web Sockets"]
+        "tags": []
       },
       {
         "slug": "2022-06-29-E",
@@ -31499,7 +31364,7 @@
         "authorName": "Joshua Morony",
         "authorUrl": "https://www.youtube.com/c/JoshuaMorony/videos",
         "speakers": ["Joshua Morony"],
-        "tags": ["onPush", "Architecture"]
+        "tags": ["OnPush", "Change Detection", "Performance", "Architecture"]
       },
       {
         "slug": "2022-06-29-H",
@@ -31635,7 +31500,7 @@
         "authorName": "Aliasger Jaffer",
         "authorUrl": "https://hashnode.com/@aliasger",
         "speakers": ["Aliasger Jaffer"],
-        "tags": ["RxJS", "Observables", "Creation Operators"]
+        "tags": ["RxJS", "Observables"]
       },
       {
         "slug": "2022-06-29-S",
@@ -31646,7 +31511,7 @@
         "description": "Do you know how infrastructure-as-code fits into your developer toolbelt? In this episode, David Tucker distills his incredible knowledge of AWS/serverless to make this vast topic accessible to developers of all levels",
         "datePosted": "2022-06-29",
         "dateSource": "2022-06-29",
-        "sourceSite": "YouTube",
+        "sourceSite": "Spreaker",
         "sourceUrl": "https://www.spreaker.com",
         "authorName": "The Angular Plus Show",
         "authorUrl": "https://www.spreaker.com/show/angular-show",
@@ -31923,7 +31788,7 @@
         "authorName": "AngularAir",
         "authorUrl": "https://www.youtube.com/c/AngularAirPodcast/videos",
         "speakers": ["Justin Schwartzenberger", "Alyssa Nicoll", "Mike Brocci"],
-        "tags": ["inject"]
+        "tags": ["inject()"]
       },
       {
         "slug": "2022-07-01-G",
@@ -32088,7 +31953,7 @@
         "authorName": "Luke",
         "authorUrl": "https://medium.com/@luke_genericui",
         "speakers": [],
-        "tags": ["Container Presenter"]
+        "tags": ["Architecture"]
       },
       {
         "slug": "2022-07-03-E",
@@ -32154,7 +32019,7 @@
         "authorName": "Ujjawal Rohra",
         "authorUrl": "https://medium.com/@ujjawalr",
         "speakers": ["Ujjawal Rohra"],
-        "tags": ["ngIf"]
+        "tags": ["*ngIf"]
       },
       {
         "slug": "2022-07-04-B",
@@ -32345,7 +32210,7 @@
         "authorName": "Decoded Frontend",
         "authorUrl": "https://www.youtube.com/c/DecodedFrontend/videos",
         "speakers": ["Dmytro Mezhenskyi"],
-        "tags": ["Routing", "title", "setTitle"]
+        "tags": ["Routing", "Title", "setTitle()"]
       },
       {
         "slug": "2022-07-05-F",
@@ -32454,7 +32319,7 @@
         "description": "If you're a Frontend Developer that has been stuck on side projects due to a lack of backend/auth/database layers knowledge, then this show is for you! In this episode, Michael Liendo demonstrates how AWS Amplify's powerful tooling makes backend functions approachable and enjoyable to Frontend Devs.",
         "datePosted": "2022-07-06",
         "dateSource": "2022-07-06",
-        "sourceSite": "YouTube",
+        "sourceSite": "Spreaker",
         "sourceUrl": "https://www.spreaker.com",
         "authorName": "The Angular Plus Show",
         "authorUrl": "https://www.spreaker.com/show/angular-show",
@@ -33251,7 +33116,7 @@
         "type": "blog",
         "title": "Don't 'filter' it",
         "url": "https://medium.com/@vakhrushev.sergey/dont-filter-it-20bc85a7f56f",
-        "description": "This topic was appeared when in one company we faced with a problem that is connected with rxjs “filter” operator. But after making research and analysis I understood that the problem might be deeper.",
+        "description": "This topic was appeared when in one company we faced with a problem that is connected with RxJS “filter” operator. But after making research and analysis I understood that the problem might be deeper.",
         "datePosted": "2022-07-11",
         "dateSource": "2022-07-11",
         "sourceSite": "Medium",
@@ -33259,7 +33124,7 @@
         "authorName": "Sergei Vakhrushev",
         "authorUrl": "https://medium.com/@vakhrushev.sergey",
         "speakers": ["Sergei Vakhrushev"],
-        "tags": ["RxJS"]
+        "tags": ["RxJS", "filter()"]
       },
       {
         "slug": "2022-07-11-R",
@@ -33275,7 +33140,7 @@
         "authorName": "Adnan Halilovic",
         "authorUrl": "https://www.youtube.com/c/AdnanHalilovicDev/videos",
         "speakers": ["Adnan Halilovic"],
-        "tags": ["RxJS", "Errors", "HttpInterceptors"]
+        "tags": ["RxJS", "Errors", "HttpInterceptors", "retry()"]
       },
       {
         "slug": "2022-07-11-S",
@@ -33341,7 +33206,7 @@
         "authorName": "Jorge Guerra Pires, PhD",
         "authorUrl": "https://medium.com/@jorgeguerrapires",
         "speakers": ["Jorge Guerra Pires"],
-        "tags": ["Route Params", "paramMap"]
+        "tags": ["Route Params", "ParamMap"]
       },
       {
         "slug": "2022-07-12-D",
@@ -33372,14 +33237,14 @@
         "authorName": "Monsterlessons Academy",
         "authorUrl": "https://www.youtube.com/c/MonsterlessonsAcademy/videos",
         "speakers": [],
-        "tags": ["RxJS", "Subscriptions", "Async Pipe", "takeUntil"]
+        "tags": ["RxJS", "Subscriptions", "Async Pipe", "takeUntil()", "unsubscribe()"]
       },
       {
         "slug": "2022-07-12-F",
         "type": "blog",
-        "title": "RxJs 7 operator 'toPromise' deprecated. Alternatives!",
+        "title": "RxJS 7 operator 'toPromise' deprecated. Alternatives!",
         "url": "https://medium.com/@vicpuigcer/rxjs-7-operator-topromise-deprecated-alternatives-4b02d1061f44",
-        "description": "The helper function toPromise, with which we could convert an Observable to a Promise it has been deprecated in version 7 of RxJs. We have several ways to achieve the same.",
+        "description": "The helper function toPromise, with which we could convert an Observable to a Promise it has been deprecated in version 7 of RxJS. We have several ways to achieve the same.",
         "datePosted": "2022-07-12",
         "dateSource": "2022-07-12",
         "sourceSite": "Medium",
@@ -33387,7 +33252,7 @@
         "authorName": "Victor Puigcerver",
         "authorUrl": "https://medium.com/@vicpuigcer",
         "speakers": ["Victor Puigcerver"],
-        "tags": ["toPromise"]
+        "tags": []
       }
     ]
   },
@@ -33422,7 +33287,7 @@
         "authorName": "Sam-Obisike Chibueze",
         "authorUrl": "https://hashnode.com/@uniquechibueze",
         "speakers": ["Sam-Obisike Chibueze"],
-        "tags": ["Route Guards", "canDeactivate"]
+        "tags": ["Route Guards", "CanDeactivate"]
       },
       {
         "slug": "2022-07-13-C",
@@ -33497,7 +33362,7 @@
         "authorName": "Krishnapal Singh Chandrawat",
         "authorUrl": "https://medium.com/@singhkrishnapal0818",
         "speakers": ["Krishnapal Singh Chandrawat"],
-        "tags": ["setValue", "patchValue"]
+        "tags": ["setValue()", "patchValue()", "Forms", "Reactive Forms"]
       },
       {
         "slug": "2022-07-13-H",
@@ -33972,7 +33837,7 @@
         "duration": "9",
         "title": "40. Create TestBed for ActivatedRoute and Location for Component Dependencies - Angular Unit Testing",
         "url": "https://www.youtube.com/watch?v=KlA1wn6oquU",
-        "description": " In this video we will see how to create the providers for the activated rout and the Location for resolving component dependencies in Angular Unit testing",
+        "description": " In this video we will see how to create the providers for the activated route and the Location for resolving component dependencies in Angular Unit testing",
         "datePosted": "2022-07-16",
         "dateSource": "2022-07-16",
         "sourceSite": "YouTube",
@@ -34121,7 +33986,7 @@
         "authorName": "OpenReplay Tech Blog",
         "authorUrl": "https://dev.to/asayerio_techblog",
         "speakers": ["Godwin Chinda"],
-        "tags": ["Angular Material", "CDK", "Drag and Drop"]
+        "tags": ["Angular Material", "CDK", "Drag and Drop", "Data Table"]
       },
       {
         "slug": "2022-07-17-H",
@@ -34152,7 +34017,7 @@
         "authorName": "Bharath Muppa",
         "authorUrl": "https://dev.to/bharathmuppa",
         "speakers": ["Bharath Muppa"],
-        "tags": ["setTitle"]
+        "tags": ["setTitle()"]
       }
     ]
   },
@@ -34244,7 +34109,7 @@
         "duration": "25",
         "title": "Designing Reactive Angular Components (RxJS) | Deborah Kurata | EnterpriseNG 2021",
         "url": "https://www.youtube.com/watch?v=CZYAph73mnI",
-        "description": "In this talk, you'll learn:\nTechniques for designing Angular components and services\nHow to leverage RxJS to retrieve and combine data for display\nHow to leverage RxJs to react to user actions and state changes\nHow to leverage RxJs emit notifications to any other components or services\nWe'll also examine the concept of “Degrees of Freedom” and how it can help us think through our design and confirm the correctness of our design model.",
+        "description": "In this talk, you'll learn:\nTechniques for designing Angular components and services\nHow to leverage RxJS to retrieve and combine data for display\nHow to leverage RxJS to react to user actions and state changes\nHow to leverage RxJS emit notifications to any other components or services\nWe'll also examine the concept of “Degrees of Freedom” and how it can help us think through our design and confirm the correctness of our design model.",
         "datePosted": "2022-07-18",
         "dateSource": "2022-07-18",
         "sourceSite": "YouTube",
@@ -34758,7 +34623,7 @@
         "authorName": "Paul Chesa",
         "authorUrl": "https://paul-chesa.medium.com",
         "speakers": ["Paul Chesa"],
-        "tags": ["Component Loading", "Dynamic"]
+        "tags": ["Components", "Dynamic", "*ngFor", "*ngIf", "*ngSwitch", "<router-outlet>"]
       }
     ]
   },
@@ -35053,7 +34918,7 @@
         "authorName": "ng-conf",
         "authorUrl": "https://www.youtube.com/c/ngconfonline/videos",
         "speakers": ["Chris Perko", "Marko Stanimirovic", "Markus Ingvarsson", "Ady Ngom", "Kamil Chlebek", "Nicolas Ticona Valdivia", "Yaakov Chaikin", "Jon Warrington", "Mini Bhati", "Azizi Yazit", "Jonathan Garvey", "Alfredo Perez"],
-        "tags": []
+        "tags": ["ng-deep", "Styles"]
       },
       {
         "slug": "2022-07-22-F",
@@ -35270,7 +35135,7 @@
         "authorName": "Leela Web Dev",
         "authorUrl": "https://www.youtube.com/c/LeelaWebDev/videos",
         "speakers": ["Leela Narasimha"],
-        "tags": ["ngIf", "ng-template", "Template Reference Variable"]
+        "tags": ["*ngIf", "<ng-template>", "Template Reference Variable"]
       },
       {
         "slug": "2022-07-25-B",
@@ -35380,7 +35245,7 @@
         "authorName": "Fabio Englert Moutinho",
         "authorUrl": "https://dev.to/fabioemoutinho",
         "speakers": ["Fabio Englert Moutinho"],
-        "tags": ["RxJS", "share", "shareReplay"]
+        "tags": ["RxJS", "share()", "shareReplay()"]
       },
       {
         "slug": "2022-07-25-J",
@@ -35507,7 +35372,7 @@
         "authorName": "Avinash Nandan",
         "authorUrl": "https://medium.com/@avinash.dev21987",
         "speakers": ["Avinash Nandan"],
-        "tags": ["Content Projection", "ng-content"]
+        "tags": ["Content Projection", "<ng-content>"]
       },
       {
         "slug": "2022-07-26-F",
@@ -35575,7 +35440,7 @@
         "type": "blog",
         "title": "Structuring Libraries with Nx",
         "url": "https://medium.com/@smarth55/structuring-libraries-with-nx-9ffab71a94a0",
-        "description": "When using NX, one of the basic principles for structuring your code is the use of libraries. Libraries are great for reusing code between your applications or even other libraries. One point of contention that I have seen, though, is the question of what defines a library. As in, how many components goes in it? Or what if it isn't used by multiple applications?",
+        "description": "When using Nx, one of the basic principles for structuring your code is the use of libraries. Libraries are great for reusing code between your applications or even other libraries. One point of contention that I have seen, though, is the question of what defines a library. As in, how many components goes in it? Or what if it isn't used by multiple applications?",
         "datePosted": "2022-07-26",
         "dateSource": "2022-07-25",
         "sourceSite": "Medium",
@@ -35713,7 +35578,7 @@
         "authorName": "Leela Web Dev",
         "authorUrl": "https://www.youtube.com/c/LeelaWebDev/videos",
         "speakers": ["Leela Narasimha"],
-        "tags": ["ngFor", "trackBy"]
+        "tags": ["*ngFor", "trackBy", "Performance"]
       },
       {
         "slug": "2022-07-27-C",
@@ -35729,7 +35594,7 @@
         "authorName": "Joshua Morony",
         "authorUrl": "https://www.youtube.com/c/JoshuaMorony/videos",
         "speakers": ["Joshua Morony"],
-        "tags": ["RxJS", "map", "filter", "tap", "switchMap", "concatMap", "combineLatest", "startWith", "distinctUntilChanged", "debounceTime", "catchError"]
+        "tags": ["RxJS", "map()", "filter()", "tap()", "switchMap()", "concatMap()", "combineLatest()", "startWith()", "distinctUntilChanged()", "debounceTime()", "catchError()"]
       },
       {
         "slug": "2022-07-27-D",
@@ -35902,7 +35767,7 @@
         "authorName": "Adnane Lamghari",
         "authorUrl": "https://adnane-lamghari.medium.com",
         "speakers": ["Adnane Lamghari"],
-        "tags": ["title", "Internationalization"]
+        "tags": ["Title", "Internationalization"]
       },
       {
         "slug": "2022-07-28-D",
@@ -36040,7 +35905,7 @@
         "authorName": "John Au-Yeung",
         "authorUrl": "https://www.telerik.com/blogs/author/john-au-yeung",
         "speakers": ["John Au-Yeung"],
-        "tags": ["Router Link"]
+        "tags": ["routerLink"]
       },
       {
         "slug": "2022-07-28-N",
@@ -36166,7 +36031,7 @@
         "authorName": "B. Chepkorir",
         "authorUrl": "https://medium.com/@chepkorir",
         "speakers": [],
-        "tags": ["ViewEncapsulation"]
+        "tags": ["ViewEncapsulation", "Styles"]
       },
       {
         "slug": "2022-07-29-G",
@@ -36182,7 +36047,7 @@
         "authorName": "MartinDevs",
         "authorUrl": "https://www.youtube.com/user/Electronicsmf/videos",
         "speakers": ["MartinDevs"],
-        "tags": ["HttpClient", "RxJS", "map"]
+        "tags": ["HttpClient", "RxJS", "map()"]
       },
       {
         "slug": "2022-07-29-H",
@@ -36230,7 +36095,7 @@
         "authorName": "Leela Web Dev",
         "authorUrl": "https://www.youtube.com/c/LeelaWebDev/videos",
         "speakers": ["Leela Narasimha"],
-        "tags": ["ViewEncapsulation", "@ViewChild", "Content Projection"]
+        "tags": ["ViewEncapsulation", "Styles", "@ViewChild", "Content Projection"]
       },
       {
         "slug": "2022-07-29-L",
@@ -36404,7 +36269,7 @@
         "authorName": "Paul Chesa",
         "authorUrl": "https://paul-chesa.medium.com",
         "speakers": ["Paul Chesa"],
-        "tags": ["RxJS", "catchError", "retry", "retryWhen"]
+        "tags": ["RxJS", "catchError()", "retry()", "retryWhen()"]
       },
       {
         "slug": "2022-07-30-B",
@@ -36436,7 +36301,7 @@
         "authorName": "Leela Web Dev",
         "authorUrl": "https://www.youtube.com/c/LeelaWebDev/videos",
         "speakers": ["Leela Narasimha"],
-        "tags": ["Lifecycle Hooks", "ngOnChanges", "ngOnInit", "ngDoCheck", "ngAfterContentInit", "ngAfterContentChecked", "ngAfterViewInit", "ngAfterViewChecked"]
+        "tags": ["Lifecycle Hooks", "ngOnChanges()", "ngOnInit()", "ngDoCheck()", "ngAfterContentInit()", "ngAfterContentChecked()", "ngAfterViewInit()", "ngAfterViewChecked()"]
       },
       {
         "slug": "2022-07-30-D",
@@ -36517,7 +36382,7 @@
         "authorName": "Andre Schouten",
         "authorUrl": "https://medium.com/@andre.schouten_ff",
         "speakers": ["Andre Schouten"],
-        "tags": ["Change Detection", "markForCheck", "detectChanges", "Performance"]
+        "tags": ["Change Detection", "markForCheck()", "detectChanges()", "Performance"]
       },
       {
         "slug": "2022-07-31-E",
@@ -36525,7 +36390,7 @@
         "duration": "22",
         "title": "RxJS creation operators with Angular 14 project",
         "url": "https://www.youtube.com/watch?v=J7LxgIs_LT0",
-        "description": "We explore the different creation operators which are available with the latest version of Rxjs using an Angular 14 applications. The below operators are explored: ajax, bindCallback, bindNodeCallback, defer, from, fromEvent, fromEventPattern, generate, interval, timer, of, range, throwError, iif",
+        "description": "We explore the different creation operators which are available with the latest version of RxJS using an Angular 14 applications. The below operators are explored: ajax, bindCallback, bindNodeCallback, defer, from, fromEvent, fromEventPattern, generate, interval, timer, of, range, throwError, iif",
         "datePosted": "2022-07-31",
         "dateSource": "2022-07-30",
         "sourceSite": "YouTube",
@@ -36533,7 +36398,7 @@
         "authorName": "JS Frameworks",
         "authorUrl": "https://www.youtube.com/c/JSFrameworks/videos",
         "speakers": [],
-        "tags": ["RxJS", "ajax", "bindCallback", "bindNodeCallback", "defer", "empty", "from", "fromEvent", "fromEventPattern", "generate", "interval", "of", "range", "throwError", "timer", "iif"]
+        "tags": ["RxJS", "ajax()", "bindCallback()", "bindNodeCallback()", "defer()", "empty()", "from()", "fromEvent()", "fromEventPattern()", "generate()", "interval()", "of()", "range()", "throwError()", "timer()", "iif()"]
       },
       {
         "slug": "2022-07-31-F",
@@ -36909,7 +36774,7 @@
         "duration": "15",
         "title": "Account Layout Configuration (Part 2) | Angular for Beginner & Expert | Angular children routing",
         "url": "https://www.youtube.com/watch?v=BRLiapG3v-4",
-        "description": "This is Part 2 of the angular 14 series and in this video, I have explained about the children and lazy routing. Also explained about basic core and page folder structure.",
+        "description": "This is Part 2 of the Angular 14 series and in this video, I have explained about the children and lazy routing. Also explained about basic core and page folder structure.",
         "datePosted": "2022-08-02",
         "dateSource": "2022-08-02",
         "sourceSite": "YouTube",
@@ -36982,7 +36847,7 @@
         "authorName": "Netanel Basal",
         "authorUrl": "https://netbasal.medium.com",
         "speakers": ["Netanel Basal"],
-        "tags": []
+        "tags": ["runInContext", "inject()"]
       },
       {
         "slug": "2022-08-03-D",
@@ -37014,7 +36879,7 @@
         "authorName": "Joshua Morony",
         "authorUrl": "https://www.youtube.com/c/CreativeDeveloper/videos",
         "speakers": ["Joshua Morony"],
-        "tags": ["mg-template", "ngTemplateOutlet"]
+        "tags": ["<ng-template>", "ngTemplateOutlet"]
       },
             {
         "slug": "2022-08-03-F",
@@ -37252,7 +37117,7 @@
         "authorName": "Beginner 2 Expert",
         "authorUrl": "https://www.youtube.com/c/Beginner2Expert/videos",
         "speakers": [],
-        "tags": ["title", "setTitle"]
+        "tags": ["setTitle()"]
       },
       {
         "slug": "2022-08-04-L",
@@ -37328,7 +37193,7 @@
         "duration": "47",
         "title": "Angular V14 Routing Introduction. Passing & retrieving Parameters, queryparams, fragments - Angular",
         "url": "https://www.youtube.com/watch?v=aOxgeBG92cc",
-        "description": "In this video we will see about the angular 14 routing introduction. Passing and retrieving the parameters, query params and fragments in Angular",
+        "description": "In this video we will see about the Angular 14 routing introduction. Passing and retrieving the parameters, query params and fragments in Angular",
         "datePosted": "2022-08-05",
         "dateSource": "2022-08-04",
         "sourceSite": "YouTube",
@@ -37352,7 +37217,7 @@
         "authorName": "Alex Khymenko",
         "authorUrl": "https://www.youtube.com/channel/UCc6U8t63AXf1twGg6qiK9fA/videos",
         "speakers": ["Alex Khymenko"],
-        "tags": ["title", "setTitle"]
+        "tags": ["Title", "setTitle()"]
       },
       {
         "slug": "2022-08-05-D",
@@ -37367,7 +37232,7 @@
         "authorName": "Pabasara Mahindapala",
         "authorUrl": "https://medium.com/@pabasaramahindapala",
         "speakers": ["Pabasara Mahindapala"],
-        "tags": ["RxJS", "debounce"]
+        "tags": ["RxJS", "debounce()"]
       },
       {
         "slug": "2022-08-05-E",
@@ -37421,7 +37286,7 @@
         "type": "blog",
         "title": "A Guide to Angular 14 Release Features and Updates",
         "url": "https://dev.to/grapecity/a-guide-to-angular-14-release-features-and-updates-442f",
-        "description": "Angular 14 has officially been released! This version of angular contains many powerful features, such as typed forms, standalone components, and new primitives in the Angular CDK.",
+        "description": "Angular 14 has officially been released! This version of Angular contains many powerful features, such as typed forms, standalone components, and new primitives in the Angular CDK.",
         "datePosted": "2022-08-05",
         "dateSource": "2022-08-05",
         "sourceSite": "DEV Community",
@@ -37451,7 +37316,7 @@
         "type": "blog",
         "title": "Angular Interview Questions Part 1",
         "url": "https://dev.to/stacksjar/angular-interview-questions-part-1-5cc2",
-        "description": "In this article we are going to see a well curated list of angular interview questions 2021 and answers for experienced as well as freshers.",
+        "description": "In this article we are going to see a well curated list of Angular interview questions 2021 and answers for experienced as well as freshers.",
         "datePosted": "2022-08-05",
         "dateSource": "2022-08-05",
         "sourceSite": "DEV Community",
@@ -37466,7 +37331,7 @@
         "type": "blog",
         "title": "Angular Interview Questions Part 2",
         "url": "https://dev.to/stacksjar/angular-interview-questions-part-2-10bn",
-        "description": "In this article we are going to see a well curated list of angular interview questions 2021 and answers for experienced as well as freshers.",
+        "description": "In this article we are going to see a well curated list of Angular interview questions 2021 and answers for experienced as well as freshers.",
         "datePosted": "2022-08-05",
         "dateSource": "2022-08-05",
         "sourceSite": "DEV Community",
@@ -37481,7 +37346,7 @@
         "type": "blog",
         "title": "Angular Interview Questions Part 3",
         "url": "https://dev.to/stacksjar/angular-interview-questions-part-3-4m2h",
-        "description": "In this article we are going to see a well curated list of angular interview questions 2021 and answers for experienced as well as freshers.",
+        "description": "In this article we are going to see a well curated list of Angular interview questions 2021 and answers for experienced as well as freshers.",
         "datePosted": "2022-08-05",
         "dateSource": "2022-08-05",
         "sourceSite": "DEV Community",
@@ -37522,6 +37387,152 @@
         "authorUrl": "https://www.youtube.com/c/Angular/videos",
         "speakers": ["Jessica Janiuk", "Jeremy Elbourn", "Mark Thompson"],
         "tags": []
+      }
+    ]
+  },
+  {
+    "date": "2022-08-06",
+    "dailyPosts": [
+      {
+        "slug": "2022-08-06-A",
+        "type": "blog",
+        "title": "Angular: Reload/Refresh a Component or Entire Application & Reuse Logic Across Multiple Components",
+        "url": "https://ramya-bala221190.medium.com/angular-how-you-can-reload-refresh-a-single-component-or-the-entire-application-and-reuse-the-logic-c6e975a278c3",
+        "description": "An Angular tutorial on how to reload/refresh a single component or the entire application and reuse the logic across multiple components.",
+        "datePosted": "2022-08-06",
+        "dateSource": "2022-08-05",
+        "sourceSite": "Medium",
+        "sourceUrl": "https://medium.com/tag/angular/latest",
+        "authorName": "AngularEnthusiast",
+        "authorUrl": "https://ramya-bala221190.medium.com",
+        "speakers": [],
+        "tags": ["Routing"]
+      },
+      {
+        "slug": "2022-08-06-B",
+        "type": "blog",
+        "title": "Make a signing pad in Angular & Vanilla JS",
+        "url": "https://itnext.io/make-a-signing-pad-in-angular-vanilla-js-7a3eb7e0599d",
+        "description": "How to make a signature pad in Angular and store the digital signature in your server",
+        "datePosted": "2022-08-06",
+        "dateSource": "2022-08-05",
+        "sourceSite": "Medium",
+        "sourceUrl": "https://medium.com/tag/angular/latest",
+        "authorName": "Adnane Lamghari",
+        "authorUrl": "https://adnane-lamghari.medium.com",
+        "speakers": ["Adnane Lamghari"],
+        "tags": []
+      },
+      {
+        "slug": "2022-08-06-C",
+        "type": "video",
+        "duration": "60",
+        "title": "Build an Angular App in 1 hour [ Components | Routing | Network ]",
+        "url": "https://www.youtube.com/watch?v=rL7MLmmy58A",
+        "description": "",
+        "datePosted": "2022-08-06",
+        "dateSource": "2022-08-05",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "Ganesh Pilli",
+        "authorUrl": "https://www.youtube.com/c/GaneshPilli/videos",
+        "speakers": ["Ganesh Pilli"],
+        "tags": []
+      },
+      {
+        "slug": "2022-08-06-D",
+        "type": "video",
+        "duration": "27",
+        "title": "Angular component communication",
+        "url": "https://www.youtube.com/watch?v=ItZcgy9ZQTQ",
+        "description": "How to communication between components in Angular.\nPass data from parent to child component using @Input decorator.\nPass data from child to parent component using @Output and EventEmitter.\nHow to access child components properties & methods using @ViewChild.\nHow to communication between components using services.\nHow to share data between components in Angular.\nHow to use Subject in Angular.",
+        "datePosted": "2022-08-06",
+        "dateSource": "2022-08-06",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "Hike Coding Knowledge",
+        "authorUrl": "https://www.youtube.com/user/rajupaul71/videos",
+        "speakers": [],
+        "tags": ["Data Transfer", "@Input", "@Output", "EventEmitter", "@ViewChild", "Subject"]
+      },
+      {
+        "slug": "2022-08-06-E",
+        "type": "podcast",
+        "duration": "39",
+        "title": "AMP 30: Dhananjay Kumar on Angular Services",
+        "url": "https://open.spotify.com/episode/4btlNMlhJxA38eLGvPexYy",
+        "description": "",
+        "datePosted": "2022-08-06",
+        "dateSource": "2022-08-06",
+        "sourceSite": "Spotify",
+        "sourceUrl": "https://open.spotify.com",
+        "authorName": "Angular Master Podcast",
+        "authorUrl": "https://open.spotify.com/show/1wgZAEEIoRZ8eP78LTbyZf",
+        "speakers": ["Dhananjay Kumar"],
+        "tags": ["Services"]
+      },
+      {
+        "slug": "2022-08-06-F",
+        "type": "video",
+        "duration": "5",
+        "title": "20. Template variables in Angular",
+        "url": "https://www.youtube.com/watch?v=uhFFE1v9XNs",
+        "description": "Template variables are used to pass data in one direction from the template to the typescript component.\nIn the template, you use the hash symbol to declare a template variable.",
+        "datePosted": "2022-08-06",
+        "dateSource": "2022-08-06",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "Ervis Trupja",
+        "authorUrl": "https://www.youtube.com/c/DotNetHow/videos",
+        "speakers": ["Ervis Trupja"],
+        "tags": ["Template Reference Variable"]
+      },
+      {
+        "slug": "2022-08-06-G",
+        "type": "video",
+        "duration": "18",
+        "title": "Part-6 | Angular(v14) JWT Access Token Authentication & Refresh Token",
+        "url": "https://www.youtube.com/watch?v=M3df6OFmeQY",
+        "description": "",
+        "datePosted": "2022-08-06",
+        "dateSource": "2022-08-06",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "Naveen Bommidi Tech Seeker",
+        "authorUrl": "https://www.youtube.com/c/NaveenTechSeeker/videos",
+        "speakers": ["Naveen Bommidi"],
+        "tags": ["JWT", "Auth"]
+      },
+      {
+        "slug": "2022-08-06-H",
+        "type": "blog",
+        "title": "Listening to multiple form controls in Angular",
+        "url": "https://dev.to/rajsaha/listening-to-multiple-form-controls-in-angular-im3",
+        "description": "Let's say you're in a situation where you're listening to one FormControl but you're dependent on the value of another FormControl.",
+        "datePosted": "2022-08-06",
+        "dateSource": "2022-08-06",
+        "sourceSite": "DEV Community",
+        "sourceUrl": "https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc",
+        "authorName": "Raj Saha",
+        "authorUrl": "https://dev.to/rajsaha",
+        "speakers": ["Raj Saha"],
+        "tags": ["Forms", "FormControl", "withLatestFrom()", "combineLatest()", "RxJS"]
+      },
+      {
+        "slug": "2022-08-06-J",
+        "type": "video",
+        "duration": "27",
+        "title": "Login functionality with JWT token | Angular for Beginner and Experience | Angular 14 login",
+        "url": "https://www.youtube.com/watch?v=2-OvE9xRnXA",
+        "description": "This is part 5 of Angular 14 series and in this video explained regarding login and remember me full functionality.",
+        "datePosted": "2022-08-06",
+        "dateSource": "2022-08-06",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "Beginner 2 Expert",
+        "authorUrl": "https://www.youtube.com/c/Beginner2Expert/videos",
+        "speakers": [],
+        "tags": ["JWT", "Auth"]
       }
     ]
   }
