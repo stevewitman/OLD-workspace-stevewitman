@@ -1,65 +1,4 @@
-https://www.youtube.com/watch?v=BkbId2HQnLA
-s23 https://www.youtube.com/watch?v=AsauWmRnERE
-u2 https://www.youtube.com/watch?v=ktlHXUpEfBE
-u4 https://www.youtube.com/watch?v=rv6pbIAmiI4
-u11 https://www.youtube.com/watch?v=C0SAdxccykU
-u14 https://www.youtube.com/watch?v=dg3q2u9nbnw
-u18 https://www.youtube.com/watch?v=Je01EH_C8HQ
-
-MONDAY 
-u https://netbasal.com/getting-to-know-the-createapplication-api-in-angular-f1c0a2685047
-u https://www.youtube.com/watch?v=bw4Cueeoesg
-m0 https://www.youtube.com/watch?v=Jv8Us9xek6k
-m2 https://dev.to/ayyash/pre-generating-multiple-index-files-using-angular-builders-and-gulp-tasks-to-serve-a-multilingual-angular-app-323
-m5 https://medium.com/@dp.manakal82/an-overview-of-the-modular-structure-in-angular-p1-13f0c12330eb
-m7 https://pgolofit.medium.com/how-to-create-your-own-angular-tooltip-directive-a-short-tutorial-4d58a4633495
-m8 https://www.spreaker.com/user/14532324/s2e28-david-khourshid-on-the-current-fut?utm_campaign=episode-title&utm_medium=app&utm_source=widget
-m9 https://www.youtube.com/watch?v=qCmxKuck9NI
-m9 https://www.youtube.com/watch?v=ARNgZREs65I
-m9 https://www.youtube.com/watch?v=gEv4WSDM2Z4
-m10 https://www.telerik.com/blogs/angular-basics-using-hostlistener-decorator-detect-changes-specific-dom-element
-m10 https://blog.jonandonicastelo.com/route-guards
-m10 https://medium.com/@andre.schouten_ff/having-some-fun-with-activity-indicators-and-observables-in-angular-dcd1c5ae7685
-m10 https://mervyn-manilall.medium.com/creating-cd-pipeline-to-deploy-an-angular-application-7c1c5eecad39
-m11 https://dev.to/bitovi/bitovi-eslint-config-handpicked-rules-to-improve-your-code-3p83
-m11 https://www.youtube.com/watch?v=6gV6_TI85sk
-m12 https://blog.devgenius.io/angular-dependency-injection-de5ce8ec0961
-m13 https://www.youtube.com/watch?v=xh5DiElEGwA
-m16 https://dev.to/renancferro/angular-pipe-character-counter-1odf
-
-TUESDAY
-m https://hashnode.com/@jonandonicastelo
-t0 https://www.youtube.com/watch?v=5IVKapdNPGY
-m2 https://dev.to/urstrulyvishwak/binding-in-angular-32kd
-t3 https://www.youtube.com/watch?v=C8qDy17Mu-Q
-t5 https://www.youtube.com/watch?v=DTWrJ_cC2s0
-t6 https://www.youtube.com/watch?v=_pqNp-YSK8Y
-t7 https://lorenzozar.hashnode.dev/introduction-to-angular-services
-t8 https://www.youtube.com/watch?v=SGX0rSYf6ZY
-t10 https://dev.to/meetupfeedio/angular-top-meetups-in-july-2022-full-list-57hm
-t15 https://dev.to/transient-thoughts/working-on-the-version-14-release-of-lumberjack-the-extensible-logging-library-for-angular-4f7p
-
-WEDNESDAY
-t https://boottechnologies-ci.medium.com/google-recaptcha-v3-with-spring-webflux-and-angular-893e01c76113
-t https://netbasal.com/lazy-load-services-in-angular-bcf8eae406c8
-t https://robert-leitl.medium.com/our-angular-i18n-workflow-7594e7d912f2
-t https://medium.com/@corinneroosen/building-a-mobile-app-with-amazon-webservices-and-ionic-8aae45b4601c
-t https://medium.com/@ConorJonOReilly/subscriptions-practices-to-avoid-in-angular-4eefa0316727
-t23 https://www.youtube.com/watch?v=d5MOWbJBFCk
-w0 https://www.youtube.com/watch?v=c4iSmX6kwoU
-w3 https://dev.to/this-is-angular/choosing-a-state-management-library-for-progressive-reactivity-in-angular-19j8
-w5 https://www.youtube.com/watch?v=9ALcdljm_1E
-w6 https://www.youtube.com/watch?v=oqSLkbfLWQI
-w7 https://www.youtube.com/watch?v=p3UvEX_B8ks
-w10 https://dev.to/developmentsh/how-to-create-custom-pipes-in-angular-5e4n
-w10 https://www.youtube.com/watch?v=ELS_QdbqF_Q
-w12 https://github.com/angular/angular/releases/tag/14.2.0-next.1
-w12 https://github.com/angular/angular/releases/tag/14.1.2
-w14 https://blog.angular.io/the-state-of-end-to-end-testing-with-angular-d175f751cb9c
-
-
-THURSDAY
-w https://medium.com/herodevs/the-observables-i-promise-to-callback-later-1ec28b8bc03a
+https://medium.com/herodevs/the-observables-i-promise-to-callback-later-1ec28b8bc03a
 w22 https://www.youtube.com/watch?v=Ttc9A2zVTzE
 r2 https://www.youtube.com/watch?v=hVCt_WOarLM
 r8 https://www.danywalls.com/working-with-multiple-projects-in-angular
@@ -149,6 +88,24 @@ t10 https://www.youtube.com/watch?v=BdZrC_RwVGU
 t14 https://dev.to/cypress/introducing-angular-component-testing-43ja
 t20 https://www.youtube.com/watch?v=wBZIC-r82Sc
 
+WEDNESDAY
+t14 https://aosolorzano.medium.com/using-dynamodb-container-image-for-local-environment-testing-9912995b961f
+t23 https://dev.to/vineethtrv/angular-library-dependencies-vs-peerdependencies-1hcd
+t23 https://javascript.plainenglish.io/custom-pipes-in-angular-the-ultimate-guide-e54bb400e3ce
+w0 https://websolutionstuff.medium.com/bootstrap-modal-in-angular-13-13d1699032c4
+w5 https://www.youtube.com/watch?v=AqSmojInsZQ
+w5 https://medium.com/@zmushegh/why-use-pipe-instead-of-function-in-angular-507cf972bfb0
+w6 https://www.youtube.com/watch?v=zcyv12Tc95A
+w6 https://www.youtube.com/watch?v=mLyQk_G3pZg
+w6 https://www.youtube.com/watch?v=dau7kQMdH4A
+w6 https://mohammedfahimullah.medium.com/optimize-the-bundle-size-using-source-map-explorer-5e848850e578
+w8 angular plus https://www.spreaker.com/user/ng-conf/ap-show-s4e1-alisa-duncan-edit-1
+w9 https://github.com/angular/angular/releases/tag/14.1.3
+w9 https://github.com/angular/angular/releases/tag/14.2.0-rc.0
+w10 https://www.youtube.com/watch?v=ZAP3GYKjeWc
+w12 https://www.youtube.com/watch?v=uaB5LKp8S7M
+w13 https://www.youtube.com/watch?v=w0E05RnTMNA
+w14 https://www.youtube.com/watch?v=GKY6Kaase_I
 
 
 
