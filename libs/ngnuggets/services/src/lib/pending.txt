@@ -1,30 +1,7 @@
-https://medium.com/herodevs/the-observables-i-promise-to-callback-later-1ec28b8bc03a
-w22 https://www.youtube.com/watch?v=Ttc9A2zVTzE
-r2 https://www.youtube.com/watch?v=hVCt_WOarLM
-r8 https://www.danywalls.com/working-with-multiple-projects-in-angular
-r8 https://webrush.io/episodes/episode-196-developer-experience-and-tools-with-brian-holt
-r7 https://www.youtube.com/watch?v=qbO8_V6OU7g
-r10 https://www.youtube.com/watch?v=-tkoE-b9Z1c
-r2 https://www.youtube.com/watch?v=XyF8gJNx_io
-r18 https://dev.to/asayerio_techblog/infinite-scrolling-in-angular-1nna
 
-
-FRIDAY
-w https://netbasal.com/add-keyboard-shortcuts-to-your-angular-app-9bf2e89862b3
-w https://davutgurbuz.medium.com/google-recaptcha-implementation-within-minutes-for-angular-developers-ca4cb5a1e3cc
-r https://levelup.gitconnected.com/defining-your-own-theme-in-angular-material-8a4a6ffad400
-r https://javascript.plainenglish.io/develop-an-online-shop-with-angular-11-and-net-core-5-9d235cb06638
-r https://medium.com/@roshanidilhara7/angular-standards-and-best-practices-4c523c037587
-r https://srisad95.medium.com/angular-sharing-data-from-parent-to-child-using-input-and-output-directive-learn-it-in-20-steps-de930d45f3b8
-r https://medium.com/@devbazz/setting-up-bitbucket-pipeline-for-angular-on-linux-servers-abbas-irekeola-c1ee5137793f
-r https://medium.com/@yaroslav.stetsko/angular-app-dark-mode-with-css-variables-6810d5122f26
-r23 https://www.youtube.com/watch?v=MgR6oJHaliA
-f0 https://www.youtube.com/watch?v=aT20NQLDWR8
-f1 https://dev.to/urstrulyvishwak/angular-content-projection-end-to-end-2mid
-f2 https://www.youtube.com/watch?v=ObdTz9k2IsM
-f2 https://www.youtube.com/watch?v=89qe_WCJZdA
-f9 https://www.youtube.com/watch?v=OP7IdmB9Dlg
-f12 https://dev.to/gin_mitch/dynamic-translations-in-angular-made-possible-525n
+f2 
+f9 
+f12 
 
 SATURDAY
 f https://medium.com/fundamental-library/translations-for-angular-fundamental-components-1ba6bb5061e0
@@ -107,6 +84,27 @@ w12 https://www.youtube.com/watch?v=uaB5LKp8S7M
 w13 https://www.youtube.com/watch?v=w0E05RnTMNA
 w14 https://www.youtube.com/watch?v=GKY6Kaase_I
 
+THURSDAY
+t https://alex-migwi.medium.com/what-are-rxjs-observables-c4b4392f582d
+w https://zmushegh.medium.com/why-use-pipe-instead-of-function-in-angular-507cf972bfb0
+w https://mohammedfahimullah.medium.com/optimize-the-bundle-size-using-source-map-explorer-5e848850e578
+w https://netbasal.com/using-the-angular-router-api-without-routermodule-2d415e9d5e84
+w12 https://medium.com/herodevs/powering-up-your-forms-with-custom-validators-f44e544d9f0
+w22 https://www.youtube.com/watch?v=YimiVb61k9I
+w22 https://www.youtube.com/watch?v=dOFGJekKYes
+r0 https://www.youtube.com/watch?v=-DqMDMKSGAE
+r1 https://medium.com/yavar/hello-everyone-8ec65520a4d9
+r2 https://netbasal.com/using-angular-ngoptimizedimage-to-implement-image-loading-best-practices-e20a69d71ea3
+r4 Omerko CDK Tree vid with wrong title https://www.youtube.com/watch?v=spNB-Zapkx0
+r5 https://www.youtube.com/watch?v=su1Rb_e1cfE
+r7 https://webrush.io/episodes/episode-197-women-in-tech-with-gen-ashley
+r8 https://www.youtube.com/watch?v=K9Ty27grLEQ
+r10 https://www.youtube.com/watch?v=TYRpVJfSdqw
+r11 https://www.youtube.com/watch?v=ksYE8aMkp90
+r12 https://www.youtube.com/watch?v=PJhkbwRR6kw
+
 
 
 https://elmota.com???
+
+

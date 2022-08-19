@@ -5263,7 +5263,7 @@
         "authorName": "Angular Nation",
         "authorUrl": "https://www.youtube.com/channel/UCmlK6Jayb3qqJYNfUmL-DkA/videos",
         "speakers": ["Aristeidis Bampakos"],
-        "tags": ["Testing", "CDK", "Component Harness"]
+        "tags": ["Testing", "Angular CDK", "Component Harness"]
       }
     ]
   },
@@ -5445,7 +5445,7 @@
         "authorName": "procademy",
         "authorUrl": "https://www.youtube.com/c/procademyn/videos",
         "speakers": [],
-        "tags": ["Directives", "<ng-content>", "Dynamic"]
+        "tags": ["Directives", "<ng-content>", "Dynamic", "Content Projection"]
       },
       {
         "slug": "2022-02-04-F",
@@ -6278,7 +6278,7 @@
         "authorName": "Angular Nation",
         "authorUrl": "https://www.youtube.com/channel/UCmlK6Jayb3qqJYNfUmL-DkA/videos",
         "speakers": ["Jayant Ojha", "Akshay Biradar", "Robert Ramirez"],
-        "tags": ["CLI", "Monorepos"]
+        "tags": ["CLI", "Monorepos", "Workspaces"]
       },
       {
         "slug": "2022-02-09-F",
@@ -7873,7 +7873,7 @@
         "sourceUrl": "https://www.youtube.com/results?search_query=angular",
         "authorName": "Coding Tutorials",
         "authorUrl": "https://www.youtube.com/c/CodingTutorialsAreGo/videos",
-        "speakers": [],
+        "speakers": ["Jasper Kent"],
         "tags": []
       },
       {
@@ -20750,7 +20750,7 @@
         "authorName": "Eden Park",
         "authorUrl": "https://edengoforit.medium.com",
         "speakers": ["Eden Park"],
-        "tags": ["<ng-content>"]
+        "tags": ["<ng-content>", "Content Projection"]
       },
       {
         "slug": "2022-04-30-G",
@@ -21454,7 +21454,7 @@
         "authorName": "Yuvaraj S",
         "authorUrl": "https://medium.com/@yuvayuvaraj720444",
         "speakers": [],
-        "tags": ["<ng-content>"]
+        "tags": ["<ng-content>", "Content Projection"]
       },
       {
         "slug": "2022-05-04-N",
@@ -23494,7 +23494,7 @@
         "authorName": "Firefly Semantics Media",
         "authorUrl": "https://www.youtube.com/channel/UCwU64qy-66Ivm81OzRvjgXw/videos",
         "speakers": [],
-        "tags": ["", "CDK", "cdkTrapFocus"]
+        "tags": ["Angular CDK", "cdkTrapFocus"]
       },
       {
         "slug": "2022-05-16-P",
@@ -25173,7 +25173,7 @@
         "authorName": "Omerko",
         "authorUrl": "https://www.youtube.com/c/Omerko/videos",
         "speakers": ["Stefan Omerovic"],
-        "tags": ["CDK"]
+        "tags": ["Angular Material", "Angular CDK"]
       },
       {
         "slug": "2022-05-25-G",
@@ -25332,7 +25332,7 @@
         "authorName": "Firefly Semantics Media",
         "authorUrl": "https://www.youtube.com/channel/UCwU64qy-66Ivm81OzRvjgXw/videos",
         "speakers": [],
-        "tags": ["CDK"]
+        "tags": ["Angular CDK"]
       },
       {
         "slug": "2022-05-26-D",
@@ -26930,7 +26930,7 @@
         "authorName": "Omerko",
         "authorUrl": "https://www.youtube.com/c/Omerko/videos",
         "speakers": ["Stefan Omerovic"],
-        "tags": ["Angular Material", "CDK"]
+        "tags": ["Angular Material", "Angular CDK"]
       },
       {
         "slug": "2022-06-03-U",
@@ -29029,7 +29029,7 @@
         "authorName": "Aristeidis Bampakos",
         "authorUrl": "https://www.youtube.com/channel/UCl7JJ4s1DAhGw_FqOZjtcxw/videos",
         "speakers": ["Aristeidis Bampakos"],
-        "tags": ["Testing", "CDK", "Component Harness"]
+        "tags": ["Testing", "Angular CDK", "Component Harness"]
       },
       {
         "slug": "2022-06-15-R",
@@ -29112,7 +29112,7 @@
         "authorName": "Omerko",
         "authorUrl": "https://www.youtube.com/c/Omerko/videos",
         "speakers": ["Stefan Omerovic"],
-        "tags": ["Angular Material", "CDK", "Scrolling"]
+        "tags": ["Angular Material", "Angular CDK", "Scrolling"]
       },
       {
         "slug": "2022-06-16-E",
@@ -32163,7 +32163,7 @@
         "authorName": "Harshal Suthar",
         "authorUrl": "https://dev.to/ifourtechnolab",
         "speakers": ["Harshal Suthar"],
-        "tags": ["@Input", "@Output", "EventEmitter"]
+        "tags": ["@Input", "@Output", "EventEmitter", "Data Transfer"]
       },
       {
         "slug": "2022-07-05-C",
@@ -33459,7 +33459,7 @@
         "authorName": "Aish Anu",
         "authorUrl": "https://www.youtube.com/channel/UCL9OMgGX3rngRzodiRls85Q/videos",
         "speakers": ["Aish Anu"],
-        "tags": ["Angular Material", "CDK", "Drag and Drop"]
+        "tags": ["Angular Material", "Angular CDK", "Drag and Drop"]
       },
       {
         "slug": "2022-07-14-E",
@@ -33653,7 +33653,7 @@
         "authorName": "Learning Partner",
         "authorUrl": "https://www.youtube.com/c/LearningPartnerDigital/videos",
         "speakers": [],
-        "tags": ["Components", "@Input", "@Output"]
+        "tags": ["Components", "@Input", "@Output", "Data Transfer"]
       },
       {
         "slug": "2022-07-15-E",
@@ -33986,7 +33986,7 @@
         "authorName": "OpenReplay Tech Blog",
         "authorUrl": "https://dev.to/asayerio_techblog",
         "speakers": ["Godwin Chinda"],
-        "tags": ["Angular Material", "CDK", "Drag and Drop", "Data Table"]
+        "tags": ["Angular Material", "Angular CDK", "Drag and Drop", "Data Table"]
       },
       {
         "slug": "2022-07-17-H",
@@ -34755,7 +34755,7 @@
         "authorName": "Tech Talks",
         "authorUrl": "https://www.youtube.com/channel/UCqDzH0cMrTy9sRqeyH9auEQ/videos",
         "speakers": [],
-        "tags": ["@Input"]
+        "tags": ["@Input", "Data Transfer"]
       },
       {
         "slug": "2022-07-21-J",
@@ -35843,7 +35843,7 @@
         "authorName": "Leela Web Dev",
         "authorUrl": "https://www.youtube.com/c/LeelaWebDev/videos",
         "speakers": ["Leela Narasimha"],
-        "tags": ["@Input", "@Output"]
+        "tags": ["@Input", "@Output", "Data Transfer"]
       },
       {
         "slug": "2022-07-28-J",
@@ -36750,7 +36750,7 @@
         "authorName": "Leela Web Dev",
         "authorUrl": "https://www.youtube.com/c/LeelaWebDev/videos",
         "speakers": ["Leela Narasimha"],
-        "tags": ["CRUD", "@Input", "@Output"]
+        "tags": ["CRUD", "@Input", "@Output", "Data Transfer"]
       },
       {
         "slug": "2022-08-02-E",
@@ -37133,7 +37133,7 @@
         "authorName": "Omerko",
         "authorUrl": "https://www.youtube.com/c/Omerko/videos",
         "speakers": ["Stefan Omerovic"],
-        "tags": ["Angular Material", "CDK", "Data Table"]
+        "tags": ["Angular Material", "Angular CDK", "Data Table"]
       },
       {
         "slug": "2022-08-04-M",
@@ -38297,6 +38297,371 @@
         "authorUrl": "https://medium.com/@markathompson",
         "speakers": ["Mark Thompson"],
         "tags": ["Protractor"]
+      }
+    ]
+  },
+  {
+    "date": "2022-08-11",
+    "dailyPosts": [
+      {
+        "slug": "2022-08-11-A",
+        "type": "blog",
+        "title": "The observables, I promise to callback later",
+        "url": "https://medium.com/herodevs/the-observables-i-promise-to-callback-later-1ec28b8bc03a",
+        "description": "Get to know observables and say hasta la vista promises.",
+        "datePosted": "2022-08-11",
+        "dateSource": "2022-08-10",
+        "sourceSite": "Medium",
+        "sourceUrl": "https://medium.com/tag/angular/latest",
+        "authorName": "Eduardo Roth",
+        "authorUrl": "https://medium.com/@eduardoRothHD",
+        "speakers": ["Eduardo Roth"],
+        "tags": ["Observables"]
+      },
+      {
+        "slug": "2022-08-11-B",
+        "type": "video",
+        "duration": "32",
+        "title": "Angular Essentials 2 - Modules, Material and Mistakes",
+        "url": "https://www.youtube.com/watch?v=Ttc9A2zVTzE",
+        "description": "In part 2, we start learning how Angular works. We discuss the module system and its benefits and potential issues. We discuss 2-way binding and what interpolation is in Angular. We then get into some mis-adventures with Material and an Angular mismatch. We end with a discussion of emmett and a serious need to finish styling out application.",
+        "datePosted": "2022-08-11",
+        "dateSource": "2022-08-10",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "Jason Warner",
+        "authorUrl": "https://www.youtube.com/channel/UCzF8hdwni3db3UZ7P3uKBkQ/videos",
+        "speakers": ["Jason Warner"],
+        "tags": ["Modules", "Angular Material"]
+      },
+      {
+        "slug": "2022-08-11-C",
+        "type": "video",
+        "duration": "72",
+        "title": "Day 29 Form - Reactive Form",
+        "url": "https://www.youtube.com/watch?v=hVCt_WOarLM",
+        "description": "Angular Complete Course: In this playlist, I will explain to you everything you need to get started with the Angular framework. Angular is a very popular framework used to create single-page applications (SPA). This video will cover an Angular Project in English",
+        "datePosted": "2022-08-11",
+        "dateSource": "2022-08-11",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "Livepure Techonlogy",
+        "authorUrl": "https://www.youtube.com/channel/UCtu5ZE6cdEBx-7eZGCE4P3Q/videos",
+        "speakers": [],
+        "tags": ["Forms", "Reactive Forms"]
+      },
+      {
+        "slug": "2022-08-11-D",
+        "type": "blog",
+        "title": "Working With Multiple Projects In Angular",
+        "url": "https://www.danywalls.com/working-with-multiple-projects-in-angular",
+        "description": "Using The Power Of Angular Workspaces\n(photo: by Markus Spiske on Unsplash)",
+        "datePosted": "2022-08-11",
+        "dateSource": "2022-08-11",
+        "sourceSite": "Hashnode",
+        "sourceUrl": "https://hashnode.com/n/angular",
+        "authorName": "Dany Paredes",
+        "authorUrl": "https://hashnode.com/@danywalls4",
+        "speakers": ["Dany Paredes"],
+        "tags": ["Workspaces"]
+      },
+            {
+        "slug": "2022-08-11-E",
+        "type": "podcast",
+        "duration": "42",
+        "title": "Episode 196: Developer Experience and Tools with Brian Holt",
+        "url": "https://webrush.io/episodes/episode-196-developer-experience-and-tools-with-brian-holt",
+        "description": "Brian Holt talks with us about building developer tools and developer experience, convention over configuration, what the hardest part is to get right, and how to know what users really want?",
+        "datePosted": "2022-08-11",
+        "dateSource": "2022-08-11",
+        "sourceSite": "Web Rush",
+        "sourceUrl": "https://webrush.io",
+        "authorName": "Brian Holt",
+        "authorUrl": "https://twitter.com/holtbt",
+        "speakers": ["Brian Holt"],
+        "tags": []
+      },
+      {
+        "slug": "2022-08-11-F",
+        "type": "video",
+        "duration": "8",
+        "title": "Angular Material #54 - CDK Text Field",
+        "url": "https://www.youtube.com/watch?v=-tkoE-b9Z1c",
+        "description": "Angular Material is a UI Component-Based Library for Angular, and through this series, we will take a look into each feature that Angular Material has to offer.",
+        "datePosted": "2022-08-11",
+        "dateSource": "2022-08-11",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "Omerko",
+        "authorUrl": "https://www.youtube.com/c/Omerko/videos",
+        "speakers": ["Stefan Omerovic"],
+        "tags": ["Angular Material", "Angular CDK"]
+      },
+      {
+        "slug": "2022-08-11-G",
+        "type": "video",
+        "duration": "9",
+        "title": "Angular Can-Activate Guard",
+        "url": "https://www.youtube.com/watch?v=XyF8gJNx_io",
+        "description": "This video covers most of the topic related to Angular guards and How to use Angular can-activate guard in you Angular web application.",
+        "datePosted": "2022-08-11",
+        "dateSource": "2022-08-11",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "Technology_World_2022",
+        "authorUrl": "https://www.youtube.com/channel/UCsULrMdqSGh32SJJRDIGx5g/videos",
+        "speakers": [],
+        "tags": ["Route Guards", "CanActivate"]
+      },
+      {
+        "slug": "2022-08-11-H",
+        "type": "blog",
+        "title": "Infinite Scrolling in Angular",
+        "url": "https://dev.to/asayerio_techblog/infinite-scrolling-in-angular-1nna",
+        "description": "You're definitely familiar with endless scroll if you've ever had to navigate through lengthy lists in a web application. A frequent solution to the issue of providing a lengthy list to your consumers at the right time is infinite scrolling. In this article, we'll use the ngx-infinite-scroll package to add an infinite scroll to Angular.",
+        "datePosted": "2022-08-11",
+        "dateSource": "2022-08-11",
+        "sourceSite": "DEV Community",
+        "sourceUrl": "https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc",
+        "authorName": "OpenReplay Tech Blog",
+        "authorUrl": "https://dev.to/asayerio_techblog",
+        "speakers": [],
+        "tags": ["Scrolling"]
+      }
+    ]
+  },
+  {
+    "date": "2022-08-12",
+    "dailyPosts": [
+      {
+        "slug": "2022-08-12-A",
+        "type": "blog",
+        "title": "Add Keyboard Shortcuts to Your Angular App",
+        "url": "https://netbasal.com/add-keyboard-shortcuts-to-your-angular-app-9bf2e89862b3",
+        "description": "Angular provides a special syntax for registering keyboard events. A keyboard event can be bound to a specific key or code. It's assumed by default that you'll use the key field on the keyboard event.",
+        "datePosted": "2022-08-12",
+        "dateSource": "2022-08-10",
+        "sourceSite": "Medium",
+        "sourceUrl": "https://medium.com/tag/angular/latest",
+        "authorName": "Netanel Basal",
+        "authorUrl": "https://netbasal.medium.com",
+        "speakers": ["Netanel Basal"],
+        "tags": []
+      },
+      {
+        "slug": "2022-08-12-B",
+        "type": "blog",
+        "title": "Google Recaptcha implementation within minutes in your Angular project",
+        "url": "https://davutgurbuz.medium.com/google-recaptcha-implementation-within-minutes-for-angular-developers-ca4cb5a1e3cc",
+        "description": "If you haven't tried Google's captcha service yet, let's see how we can implement it within minutes using ngx-recaptcha in an Angular project.",
+        "datePosted": "2022-08-12",
+        "dateSource": "2022-08-10",
+        "sourceSite": "Medium",
+        "sourceUrl": "https://medium.com/tag/angular/latest",
+        "authorName": "Davut Gurbuz",
+        "authorUrl": "https://davutgurbuz.medium.com",
+        "speakers": ["Davut Gurbuz"],
+        "tags": ["reCAPTCHA"]
+      },
+      {
+        "slug": "2022-08-12-C",
+        "type": "blog",
+        "title": "Defining your own theme in Angular Material",
+        "url": "https://levelup.gitconnected.com/defining-your-own-theme-in-angular-material-8a4a6ffad400",
+        "description": "Having your own theme in your web application is essential to make it look professional. Imagine using the default color themes provided from the framework you are using, which everyone is using, in your application. Especially when the theme colors are so prominent that anyone who has used the framework before can spot it with one look.",
+        "datePosted": "2022-08-12",
+        "dateSource": "2022-08-11",
+        "sourceSite": "Medium",
+        "sourceUrl": "https://medium.com/tag/angular/latest",
+        "authorName": "Dennis",
+        "authorUrl": "https://medium.com/@thecodinganalyst",
+        "speakers": [],
+        "tags": ["Angular Material", "Theming"]
+      },
+      {
+        "slug": "2022-08-12-D",
+        "type": "blog",
+        "title": "Develop an Online Shop with Angular 11 and .Net Core 5 - Part 17: Testing in Angular",
+        "url": "https://javascript.plainenglish.io/develop-an-online-shop-with-angular-11-and-net-core-5-9d235cb06638",
+        "description": "In this article, we will introduce unit testing to our web application. Unit testing is essential during development, as it make us fell more assured that our app works as expected.\n(photo: by Bruno Kelzer on Unsplash)",
+        "datePosted": "2022-08-12",
+        "dateSource": "2022-08-11",
+        "sourceSite": "Medium",
+        "sourceUrl": "https://medium.com/tag/angular/latest",
+        "authorName": "Harry T",
+        "authorUrl": "https://medium.com/@harry.t",
+        "speakers": [],
+        "tags": ["Testing"]
+      },
+      {
+        "slug": "2022-08-12-E",
+        "type": "blog",
+        "title": "Angular Standards And Best Practices",
+        "url": "https://medium.com/@roshanidilhara7/angular-standards-and-best-practices-4c523c037587",
+        "description": "I've been using Angular for more than a year for developing applications. This article outlines few of the standards and best practices of Angular which I could use and experience when developing the applications.",
+        "datePosted": "2022-08-12",
+        "dateSource": "2022-08-11",
+        "sourceSite": "Medium",
+        "sourceUrl": "https://medium.com/tag/angular/latest",
+        "authorName": "Roshanidilhara",
+        "authorUrl": "https://medium.com/@roshanidilhara7",
+        "speakers": [],
+        "tags": []
+      },
+      {
+        "slug": "2022-08-12-F",
+        "type": "blog",
+        "title": "Angular Sharing Data from Parent to Child Using @Input and @Output Directive (Learn It In 20 Steps - MrYenagandula)",
+        "url": "https://srisad95.medium.com/angular-sharing-data-from-parent-to-child-using-input-and-output-directive-learn-it-in-20-steps-de930d45f3b8",
+        "description": "Please find the below steps to implement to share data between parent-to-child components using @input and @Output Directive in angular application",
+        "datePosted": "2022-08-12",
+        "dateSource": "2022-08-11",
+        "sourceSite": "Medium",
+        "sourceUrl": "https://medium.com/tag/angular/latest",
+        "authorName": "Srikanth Y",
+        "authorUrl": "https://mryenagandula.medium.com",
+        "speakers": [],
+        "tags": ["Data Transfer", "@Output", "@Input"]
+      },
+      {
+        "slug": "2022-08-12-G",
+        "type": "blog",
+        "title": "Setting up BitBucket pipeline for Angular on Linux Servers | Abbas Irekeola",
+        "url": "https://medium.com/@devbazz/setting-up-bitbucket-pipeline-for-angular-on-linux-servers-abbas-irekeola-c1ee5137793f",
+        "description": "Setting up Bitbucket pipeline for Angular on Linux Servers; Today, we'll be setting up bitbucket pipeline with Angular. BitBucket Pipelines brings continuous integration and delivery to BitBucket Cloud, empowering teams to build, test, and deploy their code within BitBucket.",
+        "datePosted": "2022-08-12",
+        "dateSource": "2022-08-11",
+        "sourceSite": "Medium",
+        "sourceUrl": "https://medium.com/tag/angular/latest",
+        "authorName": "Abbas Abiodun Irekeola",
+        "authorUrl": "https://medium.com/@devbazz",
+        "speakers": ["Abbas Irekeola"],
+        "tags": [""]
+      },
+      {
+        "slug": "2022-08-12-H",
+        "type": "blog",
+        "title": "Angular app dark mode with CSS Variables",
+        "url": "https://medium.com/@yaroslav.stetsko/angular-app-dark-mode-with-css-variables-6810d5122f26",
+        "description": "In this app we use:\n - CSS Variables\n - Prefers-color-scheme feature of Media Queries Level 5\n - RendererFactory\n - localStorage",
+        "datePosted": "2022-08-12",
+        "dateSource": "2022-08-11",
+        "sourceSite": "Medium",
+        "sourceUrl": "https://medium.com/tag/angular/latest",
+        "authorName": "Yar Stetsko",
+        "authorUrl": "https://medium.com/@yaroslav.stetsko",
+        "speakers": ["Yar Stetsko"],
+        "tags": ["Theming"]
+      },
+      {
+        "slug": "2022-08-12-J",
+        "type": "video",
+        "duration": "56",
+        "title": "Angular 14 RxJS Observables. Template Driven Forms in Angular - Angular V14",
+        "url": "https://www.youtube.com/watch?v=MgR6oJHaliA",
+        "description": " In this video we will see about the introduction of RxJS observable and the template driven forms in Angular. ",
+        "datePosted": "2022-08-12",
+        "dateSource": "2022-08-11",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "Leela Web Dev",
+        "authorUrl": "https://www.youtube.com/c/LeelaWebDev/videos",
+        "speakers": ["Leela Narasimha"],
+        "tags": ["RxJS", "Observables", "Fomrs", "Template Driven Forms"]
+      },
+      {
+        "slug": "2022-08-12-K",
+        "type": "video",
+        "duration": "12",
+        "title": "Angular Can Activate Child routing Guard",
+        "url": "https://www.youtube.com/watch?v=aT20NQLDWR8",
+        "description": "This Video covers more of Angular Can Activate Child routing Guard with live demo",
+        "datePosted": "2022-08-12",
+        "dateSource": "2022-08-12",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "Technology_World_2022",
+        "authorUrl": "https://www.youtube.com/channel/UCsULrMdqSGh32SJJRDIGx5g/videos",
+        "speakers": [],
+        "tags": ["Routing", "Route Guards", "CanActivateChild"]
+      },
+      {
+        "slug": "2022-08-12-L",
+        "type": "blog",
+        "title": "Angular: Content Projection end to end",
+        "url": "https://dev.to/urstrulyvishwak/angular-content-projection-end-to-end-2mid",
+        "description": "Content projection is a pattern in which you insert the content that you want to show inside another component. ng-content></ng-content> - responsible to project content inside another component. It is just a placeholder and will be replaced by actual projected content.",
+        "datePosted": "2022-08-12",
+        "dateSource": "2022-08-12",
+        "sourceSite": "DEV Community",
+        "sourceUrl": "https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc",
+        "authorName": "Mahesh",
+        "authorUrl": "https://dev.to/urstrulyvishwak",
+        "speakers": [],
+        "tags": ["Content Projection", "<ng-content>"]
+      },
+      {
+        "slug": "2022-08-12-M",
+        "type": "video",
+        "duration": "12",
+        "title": "Angular - Custom Two-Way Binding",
+        "url": "https://www.youtube.com/watch?v=ObdTz9k2IsM",
+        "description": "Most Angular developers have done two-way binding using [(ngModel)] on standard HTML elements. Here's how to do the same thing with our own custom components.",
+        "datePosted": "2022-08-12",
+        "dateSource": "2022-08-12",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "Coding Tutorials",
+        "authorUrl": "https://www.youtube.com/c/CodingTutorialsAreGo/videos",
+        "speakers": ["Jasper Kent"],
+        "tags": []
+      },
+      {
+        "slug": "2022-08-12-N",
+        "type": "video",
+        "duration": "36",
+        "title": "Dependency Injection in Angular",
+        "url": "https://www.youtube.com/watch?v=89qe_WCJZdA",
+        "description": "This session is about addressing dependencies of angular components, services etc. So that loosely coupled system can be developed.",
+        "datePosted": "2022-08-12",
+        "dateSource": "2022-08-12",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "Knoldus Inc.",
+        "authorUrl": "https://www.youtube.com/c/Knoldus/videos",
+        "speakers": [],
+        "tags": ["Dependency Injection"]
+      },
+      {
+        "slug": "2022-08-12-P",
+        "type": "video",
+        "duration": "15",
+        "title": "How to create custom icons | Angular",
+        "url": "https://www.youtube.com/watch?v=OP7IdmB9Dlg",
+        "description": "Hi, thanks for watching our video about Angular tutorial. In this video we'll walk you through importing Angular Material, and create custom mat icons",
+        "datePosted": "2022-08-12",
+        "dateSource": "2022-08-12",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "Ancode",
+        "authorUrl": "https://www.youtube.com/c/Ancode2/videos",
+        "speakers": [],
+        "tags": ["Angular Material"]
+      },
+      {
+        "slug": "2022-08-12-Q",
+        "type": "blog",
+        "title": "Dynamic translations in Angular made possible",
+        "url": "https://dev.to/gin_mitch/dynamic-translations-in-angular-made-possible-525n",
+        "description": "A practical guide to implement lazy-loaded translations. If you have ever dealt with internationalization (or “i18n” for short) in Angular or is about to implement it, you may stick with the official guide which is awesome, use third-party packages that might be hard to debug or choose an alternative path which I will describe below.",
+        "datePosted": "2022-08-12",
+        "dateSource": "2022-08-12",
+        "sourceSite": "DEV Community",
+        "sourceUrl": "https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc",
+        "authorName": "Michael M",
+        "authorUrl": "https://dev.to/gin_mitch",
+        "speakers": [],
+        "tags": []
       }
     ]
   }
