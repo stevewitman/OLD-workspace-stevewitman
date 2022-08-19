@@ -1,24 +1,4 @@
-
-f2 
-f9 
-f12 
-
-SATURDAY
-f https://medium.com/fundamental-library/translations-for-angular-fundamental-components-1ba6bb5061e0
-f https://srisad95.medium.com/angular-loading-data-based-on-selection-change-learn-it-in-23-steps-mryenagandula-369aaa6bef4
-f https://medium.com/@gin_mitch/dynamic-translations-in-angular-made-possible-5eeed8466696
-s0 https://www.youtube.com/watch?v=qTjppI2dRUU
-s5 https://www.youtube.com/watch?v=uCGPkFtw8N4
-s5 https://dev.to/bl4ckst0n3/custom-error-class-in-angular-12-l3g
-s6 https://www.youtube.com/watch?v=tDTTgssz8JI
-s8 https://www.youtube.com/watch?v=uUaZzALTn7o
-s8 https://www.youtube.com/watch?v=q8wOhfc49UE
-s9 https://www.youtube.com/watch?v=czf4Bh8eNPA
-s9 https://blog.rajasekar.me/angular-material-datetime-picker
-s17 https://www.youtube.com/watch?v=GIKIvTmbC3Q
-
-SUNDAY
-f https://awstip.com/how-to-preserve-spa-route-path-in-the-browser-using-aws-cloudfront-51983a5519ee
+https://awstip.com/how-to-preserve-spa-route-path-in-the-browser-using-aws-cloudfront-51983a5519ee
 ss https://raffaelespinoni.medium.com/angular-1-introduction-to-the-framework-76cd3c3beaf4
 s23 https://dev.to/urstrulyvishwak/star-rating-with-no-external-libraries-in-angular-1lp5
 u0 https://www.youtube.com/watch?v=_Dj-58f-w8c
@@ -102,6 +82,17 @@ r8 https://www.youtube.com/watch?v=K9Ty27grLEQ
 r10 https://www.youtube.com/watch?v=TYRpVJfSdqw
 r11 https://www.youtube.com/watch?v=ksYE8aMkp90
 r12 https://www.youtube.com/watch?v=PJhkbwRR6kw
+
+FRIDAY
+r https://medium.com/@teslenkooleg2017/pipes-chain-in-angular-using-async-pipe-d83d25c808b4
+r https://medium.com/runic-software/simple-guide-to-publishing-angular-libraries-6ef24447f90b
+r11 https://medium.com/@IderaDevTools/how-to-create-a-custom-source-for-file-upload-with-angular-678a7137d434
+r16 https://medium.com/@reshailawan/server-side-rendering-ssr-with-angular-universal-cd473c70a9fb
+r https://topenddevs.com/podcasts/adventures-in-angular/episodes/monorepos-linting-and-ci-oh-my-aia-354
+f2 https://www.youtube.com/watch?v=a1iwmZ1lzUQ
+f5 https://www.youtube.com/watch?v=IQ7fVLOom-k
+r7 https://www.youtube.com/watch?v=xeysVLf20h8
+f10 https://www.youtube.com/watch?v=9j22qTf1mbQ
 
 
 
