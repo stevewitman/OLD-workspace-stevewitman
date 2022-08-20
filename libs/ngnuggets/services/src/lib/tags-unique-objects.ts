@@ -81,6 +81,7 @@ export const tags = [
   { cat: 'Angular', tag: 'Modules' },
   { cat: 'Angular', tag: 'NavigationCancel' },
   { cat: 'Angular', tag: 'NavigationCancellationCode' },
+  { cat: 'Angular', tag: 'NgOptimizedImage' },
   { cat: 'Angular', tag: 'NgZone' },
   { cat: 'Angular', tag: 'One-Way Data Binding' },
   { cat: 'Angular', tag: 'OnPush' },
@@ -278,6 +279,7 @@ export const tags = [
   { cat: 'Angular-Material', tag: 'Theming' },
   { cat: 'Angular-Material', tag: 'Toolbar' },
   { cat: 'Angular-Material', tag: 'Tooltip' },
+  { cat: 'Angular-Material', tag: 'Tree' },
 
   { cat: 'NgRx', tag: 'NgRx' },
   { cat: 'NgRx', tag: 'Actions' },

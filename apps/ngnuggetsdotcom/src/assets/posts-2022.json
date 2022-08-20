@@ -2064,7 +2064,7 @@
         "authorName": "WebTechTalk",
         "authorUrl": "https://www.youtube.com/c/WebTechTalk/videos",
         "speakers": [],
-        "tags": ["*ngIf"]
+        "tags": ["Directives", "*ngIf"]
       },
       {
         "slug": "2022-01-15-C",
@@ -3974,7 +3974,7 @@
         "authorName": "Tim Deschryver",
         "authorUrl": "https://dev.to/timdeschryver",
         "speakers": ["Tim Deschryver"],
-        "tags": ["*ngFor", "trackBy", "Performance"]
+        "tags": ["Directives", "*ngFor", "trackBy", "Performance"]
       },
       {
         "slug": "2022-01-26-D",
@@ -10631,7 +10631,7 @@
         "authorName": "Nigro Simone",
         "authorUrl": "https://dev.to/nigrosimone",
         "speakers": ["Nigro Simone"],
-        "tags": ["*ngFor", "trackBy"]
+        "tags": ["Directives", "*ngFor", "trackBy"]
       },
       {
         "slug": "2022-03-05-E",
@@ -11680,7 +11680,7 @@
         "authorName": "Wojciech Trawinski",
         "authorUrl": "https://medium.com/@wojtrawi",
         "speakers": ["Wojciech Trawinski"],
-        "tags": ["*ngFor", "trackBy", "Performance"]
+        "tags": ["Directives", "*ngFor", "trackBy", "Performance"]
       },
       {
         "slug": "2022-03-11-C",
@@ -20051,7 +20051,7 @@
         "authorName": "Dany Paredes",
         "authorUrl": "https://www.telerik.com/blogs/author/dany-paredes",
         "speakers": ["Dany Paredes"],
-        "tags": ["*ngFor", "trackBy", "Performance"]
+        "tags": ["Directives", "*ngFor", "trackBy", "Performance"]
       },
       {
         "slug": "2022-04-26-E",
@@ -21841,7 +21841,7 @@
         "authorName": "JS Frameworks",
         "authorUrl": "https://www.youtube.com/c/JSFrameworks/videos",
         "speakers": [],
-        "tags": ["Performance", "trackBy", "*ngFor"]
+        "tags": ["Directives", "Performance", "trackBy", "*ngFor"]
       },
       {
         "slug": "2022-05-07-F",
@@ -23478,7 +23478,7 @@
         "authorName": "Tech & Mac",
         "authorUrl": "https://www.youtube.com/channel/UC1-XaZ0_TK-oxz4i7CRuXUA/videos",
         "speakers": [],
-        "tags": ["*ngIf"]
+        "tags": ["Directives", "*ngIf"]
       },
       {
         "slug": "2022-05-16-N",
@@ -23746,7 +23746,7 @@
         "authorName": "Fabian Saacke",
         "authorUrl": "https://saackef.com",
         "speakers": ["Fabian Saacke"],
-        "tags": ["*ngFor", "trackBy", "Performance"]
+        "tags": ["Directives", "*ngFor", "trackBy", "Performance"]
       },
       {
         "slug": "2022-05-18-C",
@@ -25733,7 +25733,7 @@
         "authorName": "Ankit Kaushik",
         "authorUrl": "https://ankit-kaushik.medium.com",
         "speakers": ["Ankit Kaushik"],
-        "tags": ["*ngFor", "trackBy", "Performance"]
+        "tags": ["Directives", "*ngFor", "trackBy", "Performance"]
       },
       {
         "slug": "2022-05-29-B",
@@ -25892,7 +25892,7 @@
         "authorName": "Dev-Tutos",
         "authorUrl": "https://medium.com/@devtutos",
         "speakers": [],
-        "tags": ["*ngFor"]
+        "tags": ["Directives", "*ngFor"]
       },
       {
         "slug": "2022-05-30-F",
@@ -27044,7 +27044,7 @@
         "authorName": "CodeRush!!!",
         "authorUrl": "https://www.youtube.com/channel/UC8sR58aia8ANTLdlLZ4dAmQ/videos",
         "speakers": [],
-        "tags": ["*ngFor"]
+        "tags": ["Directives", "*ngFor"]
       },
       {
         "slug": "2022-06-04-D",
@@ -29013,7 +29013,7 @@
         "authorName": "Tech & Mac",
         "authorUrl": "https://www.youtube.com/channel/UC1-XaZ0_TK-oxz4i7CRuXUA/videos",
         "speakers": [],
-        "tags": ["*ngSwitch"]
+        "tags": ["Directives", "*ngSwitch"]
       },
       {
         "slug": "2022-06-15-Q",
@@ -29448,7 +29448,7 @@
         "authorName": "Nivrith",
         "authorUrl": "https://medium.com/@nivrith",
         "speakers": ["Nivrith Gomatam"],
-        "tags": ["*ngFor"]
+        "tags": ["Directives", "*ngFor"]
       },
       {
         "slug": "2022-06-18-G",
@@ -32019,7 +32019,7 @@
         "authorName": "Ujjawal Rohra",
         "authorUrl": "https://medium.com/@ujjawalr",
         "speakers": ["Ujjawal Rohra"],
-        "tags": ["*ngIf"]
+        "tags": ["Directives", "*ngIf"]
       },
       {
         "slug": "2022-07-04-B",
@@ -34623,7 +34623,7 @@
         "authorName": "Paul Chesa",
         "authorUrl": "https://paul-chesa.medium.com",
         "speakers": ["Paul Chesa"],
-        "tags": ["Components", "Dynamic", "*ngFor", "*ngIf", "*ngSwitch", "<router-outlet>"]
+        "tags": ["Components", "Directives", "Dynamic", "*ngFor", "*ngIf", "*ngSwitch", "<router-outlet>"]
       }
     ]
   },
@@ -35135,7 +35135,7 @@
         "authorName": "Leela Web Dev",
         "authorUrl": "https://www.youtube.com/c/LeelaWebDev/videos",
         "speakers": ["Leela Narasimha"],
-        "tags": ["*ngIf", "<ng-template>", "Template Reference Variable"]
+        "tags": ["Directives", "*ngIf", "<ng-template>", "Template Reference Variable"]
       },
       {
         "slug": "2022-07-25-B",
@@ -35578,7 +35578,7 @@
         "authorName": "Leela Web Dev",
         "authorUrl": "https://www.youtube.com/c/LeelaWebDev/videos",
         "speakers": ["Leela Narasimha"],
-        "tags": ["*ngFor", "trackBy", "Performance"]
+        "tags": ["Directives", "*ngFor", "trackBy", "Performance"]
       },
       {
         "slug": "2022-07-27-C",
@@ -37569,7 +37569,7 @@
         "authorName": "Kode With Kamran",
         "authorUrl": "https://www.youtube.com/channel/UClAF60JODGbZKoyREtl6S5A/videos",
         "speakers": [],
-        "tags": ["*ngIf"]
+        "tags": ["Directives", "*ngIf"]
       },
       {
         "slug": "2022-08-07-C",
@@ -38203,7 +38203,7 @@
         "authorName": "SIMPL Academy",
         "authorUrl": "https://www.youtube.com/channel/UCGB1Qg0oq4Ar4h6rzW0vzdA/videos",
         "speakers": [],
-        "tags": ["*ngIf"]
+        "tags": ["Directives", "*ngIf"]
       },
       {
         "slug": "2022-08-10-K",
@@ -38365,7 +38365,7 @@
         "speakers": ["Dany Paredes"],
         "tags": ["Workspaces"]
       },
-            {
+      {
         "slug": "2022-08-11-E",
         "type": "podcast",
         "duration": "42",
@@ -38567,7 +38567,7 @@
         "authorName": "Leela Web Dev",
         "authorUrl": "https://www.youtube.com/c/LeelaWebDev/videos",
         "speakers": ["Leela Narasimha"],
-        "tags": ["RxJS", "Observables", "Fomrs", "Template Driven Forms"]
+        "tags": ["RxJS", "Observables", "Forms", "Template Driven Forms"]
       },
       {
         "slug": "2022-08-12-K",
@@ -39050,7 +39050,7 @@
         "authorName": "Learn Smart Coding",
         "authorUrl": "https://www.youtube.com/channel/UCKUxSY2xp12QiP3c60sOc-g/videos",
         "speakers": [],
-        "tags": ["*ngIf"]
+        "tags": ["Directives", "*ngIf"]
       },
       {
         "slug": "2022-08-15-E",
@@ -39096,7 +39096,7 @@
         "authorName": "Kode With Kamran",
         "authorUrl": "https://www.youtube.com/channel/UClAF60JODGbZKoyREtl6S5A/videos",
         "speakers": [],
-        "tags": ["*ngFor"]
+        "tags": ["Directives", "*ngFor"]
       },
       {
         "slug": "2022-08-15-H",
@@ -39212,7 +39212,7 @@
         "authorName": "Mouad Bouras",
         "authorUrl": "https://medium.com/@MBCube",
         "speakers": [],
-        "tags": ["*ngIf", "RxJS"]
+        "tags": ["Directives", "*ngIf", "RxJS"]
       },
       {
         "slug": "2022-08-16-B",
@@ -39715,6 +39715,423 @@
         "authorUrl": "https://www.youtube.com/c/ThisDotMedia",
         "speakers": ["Tracy Lee", "Ankita Sood", "Jordan Powell"],
         "tags": []
+      }
+    ]
+  },
+  {
+    "date": "2022-08-18",
+    "dailyPosts": [
+      {
+        "slug": "2022-08-18-A",
+        "type": "blog",
+        "title": "What are RxJS Observables",
+        "url": "https://alex-migwi.medium.com/what-are-rxjs-observables-c4b4392f582d",
+        "description": "The observer pattern simply put is a software design pattern in which an object, named the subject, maintains a list of its dependents, called observers, and notifies them automatically of any state changes, usually by calling one of their methods.",
+        "datePosted": "2022-08-18",
+        "dateSource": "2022-08-16",
+        "sourceSite": "Medium",
+        "sourceUrl": "https://medium.com/tag/angular/latest",
+        "authorName": "Job Alex Muturi",
+        "authorUrl": "https://alex-migwi.medium.com",
+        "speakers": ["Job Alex Muturi"],
+        "tags": ["RxJS", "Observables"]
+      },
+      {
+        "slug": "2022-08-18-B",
+        "type": "blog",
+        "title": "Using the Angular Router API without RouterModule",
+        "url": "https://netbasal.com/using-the-angular-router-api-without-routermodule-2d415e9d5e84",
+        "description": "As part of the new standalone feature, Angular v14.2.0-rc.0 introduces a new method to use the Router API that doesn't require using RouterModule. Using the RouterModule, we pass extra options through a config object.",
+        "datePosted": "2022-08-18",
+        "dateSource": "2022-08-17",
+        "sourceSite": "Medium",
+        "sourceUrl": "https://medium.com/tag/angular/latest",
+        "authorName": "Netanel Basal",
+        "authorUrl": "https://netbasal.medium.com",
+        "speakers": ["Netanel Basal"],
+        "tags": ["Routing"]
+      },
+      {
+        "slug": "2022-08-18-C",
+        "type": "blog",
+        "title": "Powering up your forms with Custom Validators",
+        "url": "https://medium.com/herodevs/powering-up-your-forms-with-custom-validators-f44e544d9f0",
+        "description": "Since the Internet began, forms have been the most popular way to obtain information from users. Nowadays, there are other smooths ways to extract user data like integrations with social networks, email platforms, and even video platforms, but forms always are the first option when we need to know something about our users.\n(photo: Unsplash.com — Alexander Andrews)",
+        "datePosted": "2022-08-18",
+        "dateSource": "2022-08-17",
+        "sourceSite": "Medium",
+        "sourceUrl": "https://medium.com/tag/angular/latest",
+        "authorName": "Andres Villanueva",
+        "authorUrl": "https://medium.com/@andresvillanuevaHD",
+        "speakers": ["Andres Villanueva"],
+        "tags": ["Forms", "Validation", "Custom"]
+      },
+      {
+        "slug": "2022-08-18-D",
+        "type": "video",
+        "duration": "21",
+        "title": "Angular Essentials 4 - It Is Dangerous To Code Alone",
+        "url": "https://www.youtube.com/watch?v=YimiVb61k9I",
+        "description": " In this video, we finish designing the ToDo list control. We change a predefined theme to another on the fly in Material. We also discuss some programming philosophy, like why you shouldn't write code by yourself.",
+        "datePosted": "2022-08-18",
+        "dateSource": "2022-08-18",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "Jason Warner",
+        "authorUrl": "https://www.youtube.com/channel/UCzF8hdwni3db3UZ7P3uKBkQ/videos",
+        "speakers": ["Jason Warner"],
+        "tags": ["Angular Material"]
+      },
+      {
+        "slug": "2022-08-18-E",
+        "type": "video",
+        "duration": "54",
+        "title": "Angular CRUD using JSON server rest API with reactive forms | material UI design | Angular 14",
+        "url": "https://www.youtube.com/watch?v=dOFGJekKYes",
+        "description": "",
+        "datePosted": "2022-08-18",
+        "dateSource": "2022-08-17",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "Nihira Techiees",
+        "authorUrl": "https://www.youtube.com/c/NihiraTechiees/videos",
+        "speakers": [],
+        "tags": ["Forms", "Reactive Forms", "CRUD", "JSON"]
+      },
+      {
+        "slug": "2022-08-18-F",
+        "type": "video",
+        "duration": "43",
+        "title": "What's New in Angular 14 - Google Developer Expert, Angular",
+        "url": "https://www.youtube.com/watch?v=-DqMDMKSGAE",
+        "description": "",
+        "datePosted": "2022-08-18",
+        "dateSource": "2022-08-17",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "Google Developers Space",
+        "authorUrl": "https://www.youtube.com/channel/UCiwz4_tbGyDYE64TuKe5-0g/videos",
+        "speakers": ["Pankaj Parkar"],
+        "tags": []
+      },
+      {
+        "slug": "2022-08-18-G",
+        "type": "blog",
+        "title": "Angular Data Binding",
+        "url": "https://medium.com/yavar/hello-everyone-8ec65520a4d9",
+        "description": "I'm Nirmal Kumar and this is my first blog about Data Binding in Angular. I hope you get some insight from this. Comment out your suggestions if any.",
+        "datePosted": "2022-08-18",
+        "dateSource": "2022-08-18",
+        "sourceSite": "Medium",
+        "sourceUrl": "https://medium.com/tag/angular/latest",
+        "authorName": "Nirmal Kumar",
+        "authorUrl": "https://medium.com/@Nirmal97",
+        "speakers": ["Nirmal Kumar"],
+        "tags": ["Data Binding"]
+      },
+      {
+        "slug": "2022-08-18-H",
+        "type": "blog",
+        "title": "Using Angular NgOptimizedImage to Implement Image Loading Best Practices",
+        "url": "https://netbasal.com/using-angular-ngoptimizedimage-to-implement-image-loading-best-practices-e20a69d71ea3",
+        "description": "The NgOptimizedImage directive in Angular is responsible for implementing performance best practices when loading images. It's available in Angular v14.2.0. The directive is marked as standalone and can be imported into standalone components and modules.",
+        "datePosted": "2022-08-18",
+        "dateSource": "2022-08-18",
+        "sourceSite": "Medium",
+        "sourceUrl": "https://medium.com/tag/angular/latest",
+        "authorName": "Netanel Basal",
+        "authorUrl": "https://netbasal.com",
+        "speakers": ["Netanel Basal"],
+        "tags": ["Performance"]
+      },
+      {
+        "slug": "2022-08-18-J",
+        "type": "video",
+        "duration": "14",
+        "title": "Angular Material #54 - CDK Tree",
+        "url": "https://www.youtube.com/watch?v=spNB-Zapkx0",
+        "description": "Angular Material is a UI Component-Based Library for Angular, and through this series, we will take a look into each feature that Angular Material has to offer.",
+        "datePosted": "2022-08-18",
+        "dateSource": "2022-08-18",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "Omerko",
+        "authorUrl": "https://www.youtube.com/c/Omerko/videos",
+        "speakers": ["Stefan Omerovic"],
+        "tags": ["Angular Material", "Angular CDK", "Tree"]
+      },
+      {
+        "slug": "2022-08-18-K",
+        "type": "video",
+        "duration": "16",
+        "title": "Angular 14 Project to Show List Data in Material Dialog Popup Window on Button Click in TypeScript",
+        "url": "https://www.youtube.com/watch?v=su1Rb_e1cfE",
+        "description": "",
+        "datePosted": "2022-08-18",
+        "dateSource": "2022-08-18",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "Coding Shiksha",
+        "authorUrl": "https://www.youtube.com/c/CodingShiksha/videos",
+        "speakers": ["Gautam Sharma"],
+        "tags": ["Angular Material", "Dialog"]
+      },
+      {
+        "slug": "2022-08-18-L",
+        "type": "podcast",
+        "duration": "42",
+        "title": "Episode 197: Women in Tech with Gen Ashley",
+        "url": "https://webrush.io/episodes/episode-197-women-in-tech-with-gen-ashley",
+        "description": "Gen Ashley talks with us about Coed:Code, Meetup Groups, and other efforts she is a part of to help encourage and support women, non-binary people, & allies in technology, and ways we can be more inclusive at conferences and in general.",
+        "datePosted": "2022-08-18",
+        "dateSource": "2022-08-18",
+        "sourceSite": "Web Rush",
+        "sourceUrl": "https://webrush.io",
+        "authorName": "Gen Ashley",
+        "authorUrl": "https://twitter.com/coderinheels",
+        "speakers": ["Gen Ashley"],
+        "tags": []
+      },
+      {
+        "slug": "2022-08-18-M",
+        "type": "video",
+        "duration": "66",
+        "title": "Angular Real World App with Supabase & Tailwind",
+        "url": "https://www.youtube.com/watch?v=K9Ty27grLEQ",
+        "description": "Let's create cool projects together on the stream and go from setting up a new project to finally hosting it!",
+        "datePosted": "2022-08-18",
+        "dateSource": "2022-08-18",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "Simon Grimm",
+        "authorUrl": "https://www.youtube.com/c/SimonGrimmDev/videos",
+        "speakers": ["Simon Grimm"],
+        "tags": []
+      },
+      {
+        "slug": "2022-08-18-N",
+        "type": "video",
+        "duration": "5",
+        "title": "Service providers: useValue | Angular Tutorial",
+        "url": "https://www.youtube.com/watch?v=TYRpVJfSdqw",
+        "description": "",
+        "datePosted": "2022-08-18",
+        "dateSource": "2022-08-18",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "WebGentle",
+        "authorUrl": "https://www.youtube.com/c/WebGentle/videos",
+        "speakers": [],
+        "tags": ["useValue"]
+      },
+      {
+        "slug": "2022-08-18-P",
+        "type": "video",
+        "duration": "7",
+        "title": "Angular For Beginners - 27. ElementRef",
+        "url": "https://www.youtube.com/watch?v=ksYE8aMkp90",
+        "description": "",
+        "datePosted": "2022-08-18",
+        "dateSource": "2022-08-18",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "Teddy Smith",
+        "authorUrl": "https://www.youtube.com/c/TeddySmithNC/videos",
+        "speakers": ["Teddy Smith"],
+        "tags": ["ElementRef"]
+      }
+    ]
+  },
+  {
+    "date": "2022-08-19",
+    "dailyPosts": [
+      {
+        "slug": "2022-08-19-A",
+        "type": "video",
+        "duration": "8",
+        "title": "Angular 14 simple-ng-loader Example to Show Loading Spinner Progressbar After HTTP Requests to API",
+        "url": "https://www.youtube.com/watch?v=PJhkbwRR6kw",
+        "description": "",
+        "datePosted": "2022-08-19",
+        "dateSource": "2022-08-18",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "Coding Shiksha",
+        "authorUrl": "https://www.youtube.com/c/CodingShiksha/videos",
+        "speakers": ["Gautam Sharma"],
+        "tags": ["Progress"]
+      },
+      {
+        "slug": "2022-08-19-B",
+        "type": "blog",
+        "title": "Server-side rendering (SSR) with Angular Universal",
+        "url": "https://medium.com/@reshailawan/server-side-rendering-ssr-with-angular-universal-cd473c70a9fb",
+        "description": "A normal Angular application executes in the browser, rendering pages in the DOM in response to user actions. Angular Universal runs on the server, generating static application pages that later get bootstrapped on the client. This means that the application generally renders more quickly, giving users a chance to view the application layout before it becomes fully interactive.",
+        "datePosted": "2022-08-19",
+        "dateSource": "2022-08-18",
+        "sourceSite": "Medium",
+        "sourceUrl": "https://medium.com/tag/angular/latest",
+        "authorName": "Reshail Muzammil",
+        "authorUrl": "https://medium.com/@reshailawan",
+        "speakers": ["Reshail Muzammil"],
+        "tags": ["SSR", "Angular Universal"]
+      },
+      {
+        "slug": "2022-08-19-C",
+        "type": "blog",
+        "title": "Pipes chain in Angular — using async pipe",
+        "url": "https://medium.com/@teslenkooleg2017/pipes-chain-in-angular-using-async-pipe-d83d25c808b4",
+        "description": "You can find a lot of examples how pipes works, but there is not enough information on how to use the asynchronous pipe in the chain. So let's start.\n(photo: by Aida L on Unsplash)",
+        "datePosted": "2022-08-19",
+        "dateSource": "2022-08-19",
+        "sourceSite": "Medium",
+        "sourceUrl": "https://medium.com/tag/angular/latest",
+        "authorName": "Teslenko Oleg",
+        "authorUrl": "https://medium.com/@teslenkooleg2017",
+        "speakers": ["Teslenko Oleg"],
+        "tags": ["Pipes", "Async Pipe"]
+      },
+      {
+        "slug": "2022-08-19-D",
+        "type": "blog",
+        "title": "Simple Guide to Publishing Angular Libraries",
+        "url": "https://medium.com/runic-software/simple-guide-to-publishing-angular-libraries-6ef24447f90b",
+        "description": "A subject that is far from either easy or well documented\n(photo: by Michal Matlon on Unsplash)",
+        "datePosted": "2022-08-19",
+        "dateSource": "2022-08-18",
+        "sourceSite": "Medium",
+        "sourceUrl": "https://medium.com/tag/angular/latest",
+        "authorName": "Paul Harwood",
+        "authorUrl": "",
+        "speakers": ["Paul Harwood"],
+        "tags": ["Libraries"]
+      },
+      {
+        "slug": "2022-08-19-E",
+        "type": "podcast",
+        "duration": "44",
+        "title": "Monorepos, Linting, and CI, Oh My! - AiA 354",
+        "url": "https://topenddevs.com/podcasts/adventures-in-angular/episodes/monorepos-linting-and-ci-oh-my-aia-354",
+        "description": "Today on the show, Charles and Subrat interview Miroslav Jonas to discuss various approaches related to monorepos, linting and CI.  Enjoy this broad conversation as the panel shares their industry insights on these various topics and strategies you can start to implement today.",
+        "datePosted": "2022-08-19",
+        "dateSource": "2022-08-18",
+        "sourceSite": "DevChat.tv",
+        "sourceUrl": "https://adventuresinangular.com",
+        "authorName": "Adventures In Angular",
+        "authorUrl": "https://topenddevs.com/podcasts/adventures-in-angular/",
+        "speakers": ["Miroslav Jonas"],
+        "tags": ["Monorepos", "CI/CD"]
+      },
+      {
+        "slug": "2022-08-19-F",
+        "type": "video",
+        "duration": "4",
+        "title": "#7.4 - [ngSwitch] Example - Structural Directive - Angular Series",
+        "url": "https://www.youtube.com/watch?v=a1iwmZ1lzUQ",
+        "description": "A simple example to understand how Structural Directive ngSwitch works.",
+        "datePosted": "2022-08-19",
+        "dateSource": "2022-08-19",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "SIMPL Academy",
+        "authorUrl": "https://www.youtube.com/channel/UCGB1Qg0oq4Ar4h6rzW0vzdA/videos",
+        "speakers": [],
+        "tags": ["Directives", "*ngSwitch"]
+      },
+      {
+        "slug": "2022-08-19-G",
+        "type": "video",
+        "duration": "6",
+        "title": "Angular Logout functionality | Proper way to destroy session with live example | Angular 14 series",
+        "url": "https://www.youtube.com/watch?v=IQ7fVLOom-k",
+        "description": "This is part 11 of angular 14 series and in this session I have explained about the logout functionality with an practical and live example.",
+        "datePosted": "2022-08-19",
+        "dateSource": "2022-08-19",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "Beginner 2 Expert",
+        "authorUrl": "https://www.youtube.com/c/Beginner2Expert/videos",
+        "speakers": [],
+        "tags": ["Auth"]
+      },
+      {
+        "slug": "2022-08-19-H",
+        "type": "blog",
+        "title": "Short Intro to Angular",
+        "url": "https://damaris-goebel.medium.com/short-intro-to-angular-88b5185a4a58",
+        "description": "Angular is the modern web developer's platform, according to their website. Google released the Angular version 1.0 in the year 2010. Angular version 2.0 was launched in September 2016 as a complete rewrite of AngularJS.",
+        "datePosted": "2022-08-19",
+        "dateSource": "2022-08-19",
+        "sourceSite": "Medium",
+        "sourceUrl": "https://medium.com/tag/angular/latest",
+        "authorName": "Damaris Gobel",
+        "authorUrl": "https://damaris-goebel.medium.com",
+        "speakers": ["Damaris Gobel"],
+        "tags": []
+      },
+      {
+        "slug": "2022-08-19-J",
+        "type": "video",
+        "duration": "19",
+        "title": "ngOnChanges | Parent to child communication | Introduction | Angular 14 | Part 2",
+        "url": "https://www.youtube.com/watch?v=xeysVLf20h8",
+        "description": " In this video we will learn What is ngOnChanges in Angular. How to use ngOn changes in Angular. How to track ngOnChanges in Angular. What is the purpose of ngOnChanges. ngOnChanges with an example. Error handling and Other real time scenarios",
+        "datePosted": "2022-08-19",
+        "dateSource": "2022-08-19",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "TechshareSKK",
+        "authorUrl": "https://www.youtube.com/channel/UCD8gC85u512FeCFzRV4Ll-A/videos",
+        "speakers": ["Sai Kumar Korthivada"],
+        "tags": ["Lifecycle Hooks", "ngOnChanges()", "Data Transfer", "@Input"]
+      },
+      {
+        "slug": "2022-08-19-K",
+        "type": "video",
+        "duration": "10",
+        "title": "Service provider: useFactory | Angular Tutorial",
+        "url": "https://www.youtube.com/watch?v=9j22qTf1mbQ",
+        "description": "",
+        "datePosted": "2022-08-19",
+        "dateSource": "2022-08-19",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "WebGentle",
+        "authorUrl": "https://www.youtube.com/c/WebGentle/videos",
+        "speakers": [],
+        "tags": ["useFactory"]
+      },
+      {
+        "slug": "2022-08-19-L",
+        "type": "video",
+        "duration": "42",
+        "title": "0.7 - Scully with Aaron Frost",
+        "url": "https://www.youtube.com/watch?v=I5kfTAJ3GnU",
+        "description": "",
+        "datePosted": "2022-08-19",
+        "dateSource": "2022-08-19",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "CodingCatDev",
+        "authorUrl": "https://www.youtube.com/c/CodingCatDev/videos",
+        "speakers": ["Aaron Frost"],
+        "tags": ["Scully"]
+      },
+      {
+        "slug": "2022-08-19-M",
+        "type": "video",
+        "duration": "57",
+        "title": "18 techniques for performance optimizing Angular apps (with Michael Hladky)",
+        "url": "https://www.youtube.com/watch?v=1qSYzOmQfw8",
+        "description": " In this episode, we are with Michael Hladky, who will talk about making your Angular apps as fast as possible using 18 techniques including zone-less, faster bootstrap, more precise change detection, and RxAngular.",
+        "datePosted": "2022-08-19",
+        "dateSource": "2022-08-19",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "Christian Lydemann",
+        "authorUrl": "https://www.youtube.com/c/ChristianLydemann/videos",
+        "speakers": ["Christian Lydemann", "Michael Hladky"],
+        "tags": ["Performance", "NgZone", "Change Detection"]
       }
     ]
   }

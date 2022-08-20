@@ -1,40 +1,16 @@
-THURSDAY
-t https://alex-migwi.medium.com/what-are-rxjs-observables-c4b4392f582d
-w https://zmushegh.medium.com/why-use-pipe-instead-of-function-in-angular-507cf972bfb0
-w https://mohammedfahimullah.medium.com/optimize-the-bundle-size-using-source-map-explorer-5e848850e578
-w https://netbasal.com/using-the-angular-router-api-without-routermodule-2d415e9d5e84
-w12 https://medium.com/herodevs/powering-up-your-forms-with-custom-validators-f44e544d9f0
-w22 https://www.youtube.com/watch?v=YimiVb61k9I
-w22 https://www.youtube.com/watch?v=dOFGJekKYes
-r0 https://www.youtube.com/watch?v=-DqMDMKSGAE
-r1 https://medium.com/yavar/hello-everyone-8ec65520a4d9
-r2 https://netbasal.com/using-angular-ngoptimizedimage-to-implement-image-loading-best-practices-e20a69d71ea3
-r4 Omerko CDK Tree vid with wrong title https://www.youtube.com/watch?v=spNB-Zapkx0
-r5 https://www.youtube.com/watch?v=su1Rb_e1cfE
-r7 https://webrush.io/episodes/episode-197-women-in-tech-with-gen-ashley
-r8 https://www.youtube.com/watch?v=K9Ty27grLEQ
-r10 https://www.youtube.com/watch?v=TYRpVJfSdqw
-r11 https://www.youtube.com/watch?v=ksYE8aMkp90
-r12 https://www.youtube.com/watch?v=PJhkbwRR6kw
 
-FRIDAY
-r https://medium.com/@teslenkooleg2017/pipes-chain-in-angular-using-async-pipe-d83d25c808b4
-r https://medium.com/runic-software/simple-guide-to-publishing-angular-libraries-6ef24447f90b
-r11 https://medium.com/@IderaDevTools/how-to-create-a-custom-source-for-file-upload-with-angular-678a7137d434
-r16 https://medium.com/@reshailawan/server-side-rendering-ssr-with-angular-universal-cd473c70a9fb
-r https://topenddevs.com/podcasts/adventures-in-angular/episodes/monorepos-linting-and-ci-oh-my-aia-354
-f2 https://www.youtube.com/watch?v=a1iwmZ1lzUQ
-f5 https://www.youtube.com/watch?v=IQ7fVLOom-k
-r7 https://www.youtube.com/watch?v=xeysVLf20h8
-f10 https://www.youtube.com/watch?v=9j22qTf1mbQ
+
 
 
 
 https://elmota.com???
 
-
-
-
 SEARCH AND REPLACE CHARACTERS
 “
 ”
+’
+
+
+DevChatTV show guest instead
+
+add "Directives" tag to non-structural directives
