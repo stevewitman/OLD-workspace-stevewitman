@@ -1,69 +1,3 @@
-https://awstip.com/how-to-preserve-spa-route-path-in-the-browser-using-aws-cloudfront-51983a5519ee
-ss https://raffaelespinoni.medium.com/angular-1-introduction-to-the-framework-76cd3c3beaf4
-s23 https://dev.to/urstrulyvishwak/star-rating-with-no-external-libraries-in-angular-1lp5
-u0 https://www.youtube.com/watch?v=_Dj-58f-w8c
-u4 https://www.youtube.com/watch?v=LRFzhJVaM_4
-u8 https://minibhati.hashnode.dev/how-to-configure-jest-for-unit-testing-in-an-angular-application
-u10 https://www.youtube.com/watch?v=-70mkrY_Tz8
-u12 https://dev.to/danduh81/the-flexible-way-to-adopt-uxui-in-angular-app-according-to-users-permissions-gb2
-u14 https://www.youtube.com/watch?v=6aAkI71nu9U
-u21 https://www.youtube.com/watch?v=PL9VazUz104
-
-MONDAY
-u https://singh-prateek.medium.com/mat-icon-working-without-defaults-feb8d419ebf4
-u https://medium.com/@andre.schouten_ff/using-content-projection-to-build-more-flexible-dialogs-and-write-less-code-in-angular-fb3064a608f
-u23 https://www.youtube.com/watch?v=RCTqWcsay0o
-m0 https://www.youtube.com/watch?v=yGIvmN1nXdw
-m0 https://minibhati.hashnode.dev/how-to-respond-to-input-changes-reactively-in-the-child-component
-m1 https://dev.to/ayyash/using-angular-appbasehref-token-to-serve-multilingual-apps-and-hosting-on-netlify-o7a
-m2 https://www.youtube.com/watch?v=8U-agwHO4Xg
-m4 https://www.youtube.com/watch?v=eKqqYBF6Igw
-m7 ax https://www.spreaker.com/user/14532324/s2e29-alfredo-perez-on-mexico-hobbits-ca?utm_campaign=episode-title&utm_medium=app&utm_source=widget
-m7 https://www.youtube.com/watch?v=0mkBauEwtQA
-m7 https://www.youtube.com/watch?v=Y1IhacxDVx8
-m8 https://www.youtube.com/watch?v=uJmOV8Y0GuA
-m10 https://www.youtube.com/watch?v=W-eQrEX5i3g
-m21 https://www.youtube.com/watch?v=i5FHaqe5Zis
-
-TUESDAY
-u https://medium.com/@MBCube/three-angular-mistakes-to-avoid-32e5a0bbec4f
-m https://medium.com/@aayyash/using-angular-app-base-href-token-to-serve-multilingual-apps-and-hosting-on-netlify-75b07b80ecf5
-m https://singh-prateek.medium.com/nested-routing-in-angular-c1ec9b601c4d
-m https://medium.com/@gabrielpaliari/content-projection-in-angular-ng-content-ngtemplateoutlet-cab3c6aef2c2
-m https://medium.com/@uddeshya_k/angular-v14-features-and-migration-guide-tips-e96b8803cd9a
-t5 https://www.youtube.com/watch?v=HnSf3bUeMeI
-t6 https://www.youtube.com/watch?v=n2uXyzqL1lA
-t7 https://dev.to/this-is-angular/progressive-reactivity-with-ngrxstore-and-ngxs-5bib
-t7 https://www.youtube.com/watch?v=ytg46kIsups
-t7 https://www.youtube.com/watch?v=hr8_oD60GZ4
-t7 https://www.telerik.com/blogs/angular-13-accessibility-updates-what-they-mean
-t8 https://lorenzozar.hashnode.dev/simple-todo-app-in-angular
-t9 https://www.youtube.com/watch?v=1nAbSB52inA
-t9 https://www.youtube.com/watch?v=jyYLZHGPTG4
-t9 https://www.youtube.com/watch?v=EO6OHs65LR0
-t10 https://www.youtube.com/watch?v=BdZrC_RwVGU
-t14 https://dev.to/cypress/introducing-angular-component-testing-43ja
-t20 https://www.youtube.com/watch?v=wBZIC-r82Sc
-
-WEDNESDAY
-t14 https://aosolorzano.medium.com/using-dynamodb-container-image-for-local-environment-testing-9912995b961f
-t23 https://dev.to/vineethtrv/angular-library-dependencies-vs-peerdependencies-1hcd
-t23 https://javascript.plainenglish.io/custom-pipes-in-angular-the-ultimate-guide-e54bb400e3ce
-w0 https://websolutionstuff.medium.com/bootstrap-modal-in-angular-13-13d1699032c4
-w5 https://www.youtube.com/watch?v=AqSmojInsZQ
-w5 https://medium.com/@zmushegh/why-use-pipe-instead-of-function-in-angular-507cf972bfb0
-w6 https://www.youtube.com/watch?v=zcyv12Tc95A
-w6 https://www.youtube.com/watch?v=mLyQk_G3pZg
-w6 https://www.youtube.com/watch?v=dau7kQMdH4A
-w6 https://mohammedfahimullah.medium.com/optimize-the-bundle-size-using-source-map-explorer-5e848850e578
-w8 angular plus https://www.spreaker.com/user/ng-conf/ap-show-s4e1-alisa-duncan-edit-1
-w9 https://github.com/angular/angular/releases/tag/14.1.3
-w9 https://github.com/angular/angular/releases/tag/14.2.0-rc.0
-w10 https://www.youtube.com/watch?v=ZAP3GYKjeWc
-w12 https://www.youtube.com/watch?v=uaB5LKp8S7M
-w13 https://www.youtube.com/watch?v=w0E05RnTMNA
-w14 https://www.youtube.com/watch?v=GKY6Kaase_I
-
 THURSDAY
 t https://alex-migwi.medium.com/what-are-rxjs-observables-c4b4392f582d
 w https://zmushegh.medium.com/why-use-pipe-instead-of-function-in-angular-507cf972bfb0
@@ -99,3 +33,8 @@ f10 https://www.youtube.com/watch?v=9j22qTf1mbQ
 https://elmota.com???
 
 
+
+
+SEARCH AND REPLACE CHARACTERS
+“
+”
