@@ -1,11 +1,9 @@
 
 
-
-
-
-https://elmota.com???
+https://elmota.com
 
 SEARCH AND REPLACE CHARACTERS
+"
 “
 ”
 ’
