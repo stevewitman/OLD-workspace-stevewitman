@@ -22393,7 +22393,7 @@
         "sourceUrl": "https://youtube.com",
         "authorName": "WebGentle",
         "authorUrl": "https://www.youtube.com/c/WebGentle/videos",
-        "speakers": [],
+        "speakers": ["Nitish Kumar"],
         "tags": ["Angular Material", "Toolbar"]
       },
       {
@@ -22566,7 +22566,7 @@
         "sourceUrl": "https://youtube.com",
         "authorName": "WebGentle",
         "authorUrl": "https://www.youtube.com/c/WebGentle/videos",
-        "speakers": [],
+        "speakers": ["Nitish Kumar"],
         "tags": ["Angular Material", "Toolbar"]
       },
       {
@@ -22773,7 +22773,7 @@
         "sourceUrl": "https://youtube.com",
         "authorName": "WebGentle",
         "authorUrl": "https://www.youtube.com/c/WebGentle/videos",
-        "speakers": [],
+        "speakers": ["Nitish Kumar"],
         "tags": ["Angular Material"]
       },
       {
@@ -39175,7 +39175,7 @@
         "sourceUrl": "https://youtube.com",
         "authorName": "WebGentle",
         "authorUrl": "https://www.youtube.com/c/WebGentle/videos",
-        "speakers": [],
+        "speakers": ["Nitish Kumar"],
         "tags": ["Dependency Injection"]
       },
       {
@@ -39397,7 +39397,7 @@
         "sourceUrl": "https://youtube.com",
         "authorName": "WebGentle",
         "authorUrl": "https://www.youtube.com/c/WebGentle/videos",
-        "speakers": [],
+        "speakers": ["Nitish Kumar"],
         "tags": ["Dependency Injection", "useClass"]
       },
       {
@@ -39665,7 +39665,7 @@
         "sourceUrl": "https://youtube.com",
         "authorName": "WebGentle",
         "authorUrl": "https://www.youtube.com/c/WebGentle/videos",
-        "speakers": [],
+        "speakers": ["Nitish Kumar"],
         "tags": ["Dependency Injection", "useExisting"]
       },
       {
@@ -39921,7 +39921,7 @@
         "sourceUrl": "https://youtube.com",
         "authorName": "WebGentle",
         "authorUrl": "https://www.youtube.com/c/WebGentle/videos",
-        "speakers": [],
+        "speakers": ["Nitish Kumar"],
         "tags": ["useValue"]
       },
       {
@@ -40098,7 +40098,7 @@
         "sourceUrl": "https://youtube.com",
         "authorName": "WebGentle",
         "authorUrl": "https://www.youtube.com/c/WebGentle/videos",
-        "speakers": [],
+        "speakers": ["Nitish Kumar"],
         "tags": ["useFactory"]
       },
       {
@@ -40335,7 +40335,7 @@
         "sourceUrl": "https://youtube.com",
         "authorName": "WebGentle",
         "authorUrl": "https://www.youtube.com/c/WebGentle/videos",
-        "speakers": [],
+        "speakers": ["Nitish Kumar"],
         "tags": ["Getters/Setters"]
       },
       {
@@ -40385,6 +40385,150 @@
         "authorUrl": "https://www.youtube.com/c/JSFrameworks/videos",
         "speakers": [],
         "tags": ["RxJS", "map()", "concatMap()", "mergeMap()", "exhaustMap()"]
+      }
+    ]
+  },
+  {
+    "date": "2022-08-21",
+    "dailyPosts": [
+      {
+        "slug": "2022-08-21-A",
+        "type": "blog",
+        "title": "Adding Type Safety to Angular Material Dialog",
+        "url": "https://medium.com/@htomar/adding-type-safety-to-angular-material-dialog-%EF%B8%8F-45d72b8d16b",
+        "description": "Let's make mat-dialog check for the correct data types.",
+        "datePosted": "2022-08-21",
+        "dateSource": "2022-08-20",
+        "sourceSite": "Medium",
+        "sourceUrl": "https://medium.com/tag/angular/latest",
+        "authorName": "Harshit Tomar",
+        "authorUrl": "https://medium.com/@htomar",
+        "speakers": ["Harshit Tomar"],
+        "tags": ["Angular Material", "Dialog"]
+      },
+      {
+        "slug": "2022-08-21-B",
+        "type": "blog",
+        "title": "Angular Material Table With Search by Query Params Using Node JS API (Learn it in 28 Steps includes Filter and Search- MrYenagandula)",
+        "url": "https://mryenagandula.medium.com/angular-material-table-with-search-by-query-params-using-node-js-api-learn-it-in-28-steps-includes-93c1062f423",
+        "description": "Please find the below steps to show the Angular Material table with filters and NodeJS API and apply search and filter in Angular application.",
+        "datePosted": "2022-08-21",
+        "dateSource": "2022-08-20",
+        "sourceSite": "Medium",
+        "sourceUrl": "https://medium.com/tag/angular/latest",
+        "authorName": "Srikanth Y",
+        "authorUrl": "https://mryenagandula.medium.com",
+        "speakers": [],
+        "tags": ["Angular Material", "Query Params"]
+      },
+      {
+        "slug": "2022-08-21-C",
+        "type": "blog",
+        "title": "Clean up your Components using Directives!",
+        "url": "https://medium.com/@stellar_aquamarine_cricket_607/clean-up-your-components-using-directives-8706bf233345",
+        "description": "I've been using Angular for a while (since version 2), but I had never put enough effort into understanding how to make out the most of directives; I occasionally used them, but not as frequently as I should have been.",
+        "datePosted": "2022-08-21",
+        "dateSource": "2022-08-21",
+        "sourceSite": "Medium",
+        "sourceUrl": "https://medium.com/tag/angular/latest",
+        "authorName": "Jamal Soueidan",
+        "authorUrl": "https://medium.com/@stellar_aquamarine_cricket_607",
+        "speakers": ["Jamal Soueidan"],
+        "tags": ["Directives", "Custom"]
+      },
+      {
+        "slug": "2022-08-21-D",
+        "type": "video",
+        "duration": "8",
+        "title": "Decentralized... Backend? Building An Angular dApp With OrbitDB And IPFS",
+        "url": "https://www.youtube.com/watch?v=O7fxxp_q0es",
+        "description": "I built a decentralized, p2p message client with no backend server that runs entirely in the browser.",
+        "datePosted": "2022-08-21",
+        "dateSource": "2022-08-21",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "Shane Duffy",
+        "authorUrl": "https://www.youtube.com/channel/UCYLo70tzoGibx13p9AjddfA/videos",
+        "speakers": ["Shane Duffy"],
+        "tags": []
+      },
+      {
+        "slug": "2022-08-21-E",
+        "type": "blog",
+        "title": "Clean Architecture in Frontend",
+        "url": "https://dev.to/alexey_karpov_b8cab9c09ab/clean-architecture-in-frontend-1c77",
+        "description": "I wanted to share several insights that I found helpful for large-scale front-end applications. I want to talk about ideas that proved reliable in practice. At the same time, I pursue simplicity in my explanations.",
+        "datePosted": "2022-08-21",
+        "dateSource": "2022-08-21",
+        "sourceSite": "DEV Community",
+        "sourceUrl": "https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc",
+        "authorName": "Alexey Karpov",
+        "authorUrl": "https://dev.to/alexey_karpov_b8cab9c09ab",
+        "speakers": ["Alexey Karpov"],
+        "tags": ["Architecture"]
+      },
+      {
+        "slug": "2022-08-21-F",
+        "type": "video",
+        "duration": "10",
+        "title": "Tweeks of ngOnChanges using objects | Parent to child communication | Angular 14 | Part 3",
+        "url": "https://www.youtube.com/watch?v=RktFGb2dtb4",
+        "description": "In this video we will learn What are the different tweeks and problems we face when we are using an object as data passage.\n1. What are the problems we face when we send an object from parent to child.\n2. When we update an object how does ngOnChanges behaves.\n3. Life Cycle hooks\n4. How to resolve the problems when we are using ngOnChanges.",
+        "datePosted": "2022-08-21",
+        "dateSource": "2022-08-21",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "TechshareSKK",
+        "authorUrl": "https://www.youtube.com/channel/UCD8gC85u512FeCFzRV4Ll-A/videos",
+        "speakers": ["Sai Kumar Korthivada"],
+        "tags": ["Data Transfer", "ngOnChanges()", "Lifecycle Hooks"]
+      },
+      {
+        "slug": "2022-08-21-G",
+        "type": "video",
+        "duration": "5",
+        "title": "Different relationships among Angular Components | Angular Tutorial",
+        "url": "https://www.youtube.com/watch?v=g-NTt3ugKTI",
+        "description": "",
+        "datePosted": "2022-08-21",
+        "dateSource": "2022-08-21",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "WebGentle",
+        "authorUrl": "https://www.youtube.com/c/WebGentle/videos",
+        "speakers": ["Nitish Kumar"],
+        "tags": ["Components"]
+      },
+      {
+        "slug": "2022-08-21-H",
+        "type": "video",
+        "duration": "29",
+        "title": "Angular Sudoku 3 - Storybook and CSS Debugging",
+        "url": "https://www.youtube.com/watch?v=jbI_kwlQ320",
+        "description": "We show how to pin versions using volta. We use Storybook to work on the CellComponent and the GridComponent. We use CSS variables to size the grid appropriately. We use a couple of different methods to debug CSS issues.",
+        "datePosted": "2022-08-21",
+        "dateSource": "2022-08-21",
+        "sourceSite": "YouTube",
+        "sourceUrl": "https://youtube.com",
+        "authorName": "Jason Warner",
+        "authorUrl": "https://www.youtube.com/channel/UCzF8hdwni3db3UZ7P3uKBkQ/videos",
+        "speakers": ["Jason Warner"],
+        "tags": ["Storybook"]
+      },
+      {
+        "slug": "2022-08-21-J",
+        "type": "blog",
+        "title": "How to publish an Angular app to Firebase Hosting using Github Actions",
+        "url": "https://dev.to/felipemsfg/how-to-publish-an-angular-app-to-firebase-hosting-using-github-actions-6cf",
+        "description": "The purpose of this post is to publish an Angular application within a Firebase project using the Firebase Hosting product. To automate the deploy we will use a Github Actions pipeline that will be triggered in every commit on the main branch.",
+        "datePosted": "2022-08-21",
+        "dateSource": "2022-08-21",
+        "sourceSite": "DEV Community",
+        "sourceUrl": "https://dev.to/search?q=angular&sort_by=published_at&sort_direction=desc",
+        "authorName": "Felipe Marques",
+        "authorUrl": "https://dev.to/felipemsfg",
+        "speakers": ["Felipe Marques"],
+        "tags": ["Firebase", "Deployment", "GitHub Actions"]
       }
     ]
   }
