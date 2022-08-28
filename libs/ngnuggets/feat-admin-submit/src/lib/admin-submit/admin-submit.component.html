@@ -82,8 +82,8 @@
           <mat-form-field appearance="fill" color="primary">
             <mat-label>Duration</mat-label>
             <input
-              formControlName="duration"
-              id="duration"
+              formControlName="dur"
+              id="dur"
               type="text"
               class="input-text"
               matInput
@@ -101,8 +101,8 @@
           <mat-form-field appearance="fill" color="primary">
             <mat-label>Description</mat-label>
             <textarea
-              formControlName="description"
-              id="description"
+              formControlName="desc"
+              id="desc"
               type="text"
               class="input-text"
               matInput
@@ -127,7 +127,7 @@
           <mat-form-field appearance="fill" color="primary">
             <mat-label>Date Posted</mat-label>
             <input
-              formControlName="datePosted"
+              formControlName="dAdd"
               matInput
               [matDatepicker]="datePosted"
               (dateChange)="dateChanged()"
@@ -148,7 +148,7 @@
           <mat-form-field appearance="fill" color="primary">
             <mat-label>Date Created</mat-label>
             <input
-              formControlName="dateSource"
+              formControlName="dSrc"
               matInput
               [matDatepicker]="dateSource"
             />
@@ -206,8 +206,8 @@
           <mat-form-field appearance="fill" color="primary">
             <mat-label>Author Name</mat-label>
             <input
-              formControlName="authorName"
-              id="authorName"
+              formControlName="aName"
+              id="aName"
               type="text"
               class="input-text"
               matInput
@@ -225,8 +225,8 @@
           <mat-form-field appearance="fill" color="primary">
             <mat-label>Author URL</mat-label>
             <input
-              formControlName="authorUrl"
-              id="authorUrl"
+              formControlName="aUrl"
+              id="aUrl"
               type="text"
               class="input-text"
               matInput

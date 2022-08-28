@@ -89,8 +89,8 @@ export class HomePageComponent implements OnInit {
     postGroups.forEach((e) => {
       
       e.dailyPosts.forEach((f) => {
-        if (f.speakers && f.speakers.length > 0) {
-          f.speakers.forEach((g) => {
+        if (f.spkrs && f.spkrs.length > 0) {
+          f.spkrs.forEach((g) => {
             console.log(f.slug, g);
             
             allSpeakers.push(g);

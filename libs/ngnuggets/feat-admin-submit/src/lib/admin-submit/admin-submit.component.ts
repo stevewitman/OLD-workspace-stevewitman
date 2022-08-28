@@ -16,16 +16,16 @@ export class AdminSubmitComponent implements OnInit {
     slug: [this.findNextSlug(this.todayString(this.today))],
     url: [''],
     type: [''],
-    duration: [''],
+    dur: [''],
     title: [''],
-    description: [''],
+    desc: [''],
     imgUrl: [''],
-    datePosted: [this.today],
-    dateSource: [this.today],
-    sourceSite: [''],
-    sourceUrl: [''],
-    authorName: [''],
-    authorUrl: [''],
+    dAdd: [this.today],
+    dSrc: [this.today],
+    srcSite: [''],
+    srcUrl: [''],
+    aName: [''],
+    aUrl: [''],
     likes: [''],
     featured: [''],
     tags: [''],
@@ -118,92 +118,92 @@ export class AdminSubmitComponent implements OnInit {
       if (val.includes('https://www.youtube.com/')) {
         this.postForm.patchValue({
           type: 'video',
-          sourceSite: 'YouTube',
-          sourceUrl: 'https://youtube.com',
+          srcSite: 'YouTube',
+          srcUrl: 'https://youtube.com',
         });
       }
       // DEV Community (BLOG)
       if (val.includes('https://dev.to')) {
         this.postForm.patchValue({
           type: 'blog',
-          sourceSite: 'DEV Community',
-          sourceUrl: 'https://dev.to',
+          srcSite: 'DEV Community',
+          srcUrl: 'https://dev.to',
         });
       }
       // Angular Show (PODCAST)
       if (val.includes('https://www.spreaker.com/user/ng-conf')) {
         this.postForm.patchValue({
           type: 'podcast',
-          sourceSite: 'Spreaker',
-          sourceUrl: 'https://www.spreaker.com',
-          authorName: 'The Angular Show',
-          authorUrl: 'https://www.spreaker.com/show/angular-show',
+          srcSite: 'Spreaker',
+          srcUrl: 'https://www.spreaker.com',
+          aName: 'The Angular Show',
+          aUrl: 'https://www.spreaker.com/show/angular-show',
         });
       }
       // Angular Air (PODCAST)
       if (val.includes('https://adventuresinangular.com')) {
         this.postForm.patchValue({
           type: 'podcast',
-          sourceSite: 'Devchat.tv',
-          sourceUrl: 'https://devchat.tv',
-          authorName: 'Adventures In Angular',
-          authorUrl: 'https://devchat.tv/show/adventures-in-angular/',
+          srcSite: 'Devchat.tv',
+          srcUrl: 'https://devchat.tv',
+          aName: 'Adventures In Angular',
+          aUrl: 'https://devchat.tv/show/adventures-in-angular/',
         });
       }
       // Angular Master (PODCAST)
       if (val.includes('https://open.spotify.com')) {
         this.postForm.patchValue({
           type: 'podcast',
-          sourceSite: 'Spotify',
-          sourceUrl: 'https://open.spotify.com',
-          authorName: 'Angular Master Podcast',
-          authorUrl: 'https://open.spotify.com/show/1wgZAEEIoRZ8eP78LTbyZf',
+          srcSite: 'Spotify',
+          srcUrl: 'https://open.spotify.com',
+          aName: 'Angular Master Podcast',
+          aUrl: 'https://open.spotify.com/show/1wgZAEEIoRZ8eP78LTbyZf',
         });
       }
       // ngBuild --pod (PODCAST)
       if (val.includes('https://anchor.fm/ng-build-pod')) {
         this.postForm.patchValue({
           type: 'podcast',
-          sourceSite: 'Anchor',
-          sourceUrl: 'https://anchor.fm/ng-build-pod/',
-          authorName: 'ng build --pod',
-          authorUrl: 'https://ngbuildpod.com',
+          srcSite: 'Anchor',
+          srcUrl: 'https://anchor.fm/ng-build-pod/',
+          aName: 'ng build --pod',
+          aUrl: 'https://ngbuildpod.com',
         });
       }
       // Angular Experience (PODCAST)
       if (val.includes('https://www.spreaker.com/user/14532324')) {
         this.postForm.patchValue({
           type: 'podcast',
-          sourceSite: 'Spreaker',
-          sourceUrl: 'https://spreaker.com',
-          authorName: 'Angular Experience',
-          authorUrl: 'https://angular-experience.web.app/episodes',
+          srcSite: 'Spreaker',
+          srcUrl: 'https://spreaker.com',
+          aName: 'Angular Experience',
+          aUrl: 'https://angular-experience.web.app/episodes',
         });
       }
       // Web Rush (PODCAST)
       if (val.includes('https://webrush.io')) {
         this.postForm.patchValue({
           type: 'podcast',
-          sourceSite: '',
-          sourceUrl: '',
-          authorName: 'Web Rush',
-          authorUrl: 'https://webrush.io',
+          srcSite: '',
+          srcUrl: '',
+          aName: 'Web Rush',
+          aUrl: 'https://webrush.io',
         });
       }
       // inDepthDev (BLOG)
       if (val.includes('https://indepth.dev')) {
         this.postForm.patchValue({
           type: 'blog',
-          sourceSite: 'inDepthDev',
-          sourceUrl: 'https://indepth.dev/tutorials/angular',
+          srcSite: 'inDepthDev',
+          srcUrl: 'https://indepth.dev/tutorials/angular',
         });
       }
       // Angular Release (RELEASE)
       if (val.includes('https://indepth.dev')) {
         this.postForm.patchValue({
           type: 'release',
-          sourceSite: 'GitHub Angular',
-          sourceUrl: 'https://github.com/angular/angular/releases',
+          srcSite: 'GitHub Angular',
+          srcUrl: 'https://github.com/angular/angular/releases',
         });
       }
     });
@@ -218,8 +218,8 @@ export class AdminSubmitComponent implements OnInit {
   }
 
   dateChanged() {
-    const datePosted = this.postForm.get('datePosted').value
-    const dateString = this.todayString(datePosted)
+    const dAdd = this.postForm.get('dAdd').value
+    const dateString = this.todayString(dAdd)
     this.findNextSlug(dateString)
   }
 

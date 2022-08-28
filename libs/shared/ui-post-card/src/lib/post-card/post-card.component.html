@@ -15,17 +15,17 @@
   </a>
   <div class="card-part card-row-source">
     <div class="post-source">
-      <a class="post-source-link" href="{{ post.authorUrl }}" target="_blank">
-        {{ post.authorName }}
+      <a class="post-source-link" href="{{ post.aUrl }}" target="_blank">
+        {{ post.aName }}
       </a>
-      <span *ngIf="post.authorName && post.sourceSite"
+      <span *ngIf="post.aName && post.sourceSite"
         >&nbsp;&nbsp;|&nbsp;&nbsp;</span
       >
-      <a class="post-source-link" href="{{ post.sourceUrl }}" target="_blank">
+      <a class="post-source-link" href="{{ post.srcUrl }}" target="_blank">
         {{ post.sourceSite }}
       </a>
     </div>
-    <!-- <div class="card-days-ago">{{ post.datePosted }}</div> -->
+    <!-- <div class="card-days-ago">{{ post.dAdd }}</div> -->
   </div>
 
   <div class="card-part card-row-bottom">
@@ -52,7 +52,7 @@
       >
       <span>
         {{ post.type | uppercase }}
-        <span *ngIf="post.duration"> - {{ post.duration }}m</span>
+        <span *ngIf="post.dur"> - {{ post.dur }}m</span>
       </span>
     </div>
     <!-- <div class="likes">

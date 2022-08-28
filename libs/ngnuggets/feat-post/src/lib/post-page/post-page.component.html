@@ -49,7 +49,7 @@
 
     <div class="row-dates-first dates">
       <div class="added">
-        Submitted {{ post.datePosted }} by: {{ post.postedBy }}
+        Submitted {{ post.dAdd }} by: {{ post.postedBy }}
       </div>
       <div class="likes">{{ likesText }}</div>
     </div>
@@ -60,16 +60,16 @@
         <span class="post-source">
           <a
             class="post-source-link"
-            href="{{ post.authorUrl }}"
+            href="{{ post.aUrl }}"
             target="_blank"
-            >{{ post.authorName }}</a
+            >{{ post.aName }}</a
           >
-          <span *ngIf="post.sourceSite && post.authorName"
+          <span *ngIf="post.sourceSite && post.aName"
             >&nbsp;&nbsp;|&nbsp;&nbsp;</span
           >
           <a
             class="post-source-link"
-            href="{{ post.sourceUrl }}"
+            href="{{ post.srcUrl }}"
             target="_blank"
             >{{ post.sourceSite }}</a
           >
@@ -103,8 +103,8 @@
         >
         <span class="content-type">
           {{ post.contentType | uppercase }}
-          <span *ngIf="post.duration" class="duration">
-            - {{ post.duration }}m</span
+          <span *ngIf="post.dur" class="duration">
+            - {{ post.dur }}m</span
           >
         </span>
       </div>
