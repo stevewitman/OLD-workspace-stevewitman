@@ -1,6 +1,4 @@
 
-f18 https://dev.to/lucaspaganini/whats-new-in-angular-14-91j
-f20 https://www.youtube.com/watch?v=oRDO-nIejPE
 
 
 SEARCH AND REPLACE CHARACTERS
