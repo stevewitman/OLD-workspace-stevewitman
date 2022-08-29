@@ -33,6 +33,7 @@ export class HomePageComponent implements OnInit {
     // });
     this.getPosts().subscribe((data) => {
       this.recentPosts = data;
+      this.recentPosts
     });
     
   }
