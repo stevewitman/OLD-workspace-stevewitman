@@ -5317,7 +5317,7 @@
         "srcUrl": "https://www.youtube.com",
         "aName": "BugArray",
         "aUrl": "https://www.youtube.com/channel/UCIkpfwmX7PORuZdnJ0OznAA/videos",
-        "spkrs": [],
+        "spkrs": ["Sibolelo Vilakazi"],
         "tags": []
       }
     ]
@@ -18250,7 +18250,7 @@
         "srcUrl": "https://youtube.com",
         "aName": "BugArray",
         "aUrl": "https://www.youtube.com/channel/UCIkpfwmX7PORuZdnJ0OznAA/videos",
-        "spkrs": [],
+        "spkrs": ["Sibolelo Vilakazi"],
         "tags": []
       },
       {
@@ -41021,7 +41021,7 @@
        "aName": "WebGentle",
         "aUrl": "https://www.youtube.com/c/WebGentle/videos",
         "spkrs": ["Nitish Kumar"],
-        "tags": ["ViewChild"]
+        "tags": ["@ViewChild"]
       },
       {
         "slug": "2022-08-25-J",
@@ -41553,6 +41553,151 @@
         "aUrl": "https://www.youtube.com/channel/UCpNgAFB5-_3WSHD_olBv7nw/videos",
         "spkrs": ["Rainer Hahnekamp"],
         "tags": []
+      }
+    ]
+  },
+  {
+    "date": "2022-08-29",
+    "dailyPosts": [
+      {
+        "slug": "2022-08-29-A",
+        "type": "video",
+        "dur": "30",
+        "title": "Angular Sudoku 5 - Storybook, Modules, CSS and HTML Attributes",
+        "url": "https://www.youtube.com/watch?v=wqGHCp-XtBs",
+        "desc": " We fix issues with our components in Storybook by importing the needed modules. We try multiple ways of highlighting a row in the sudoku grid. Lots of help from the community and discussions on how to accomplish our tasks.",
+        "dAdd": "2022-08-29",
+        "dSrc": "2022-08-28",
+        "srcSite": "YouTube",
+        "srcUrl": "https://youtube.com",
+        "aName": "Jason Warner",
+        "aUrl": "https://www.youtube.com/channel/UCzF8hdwni3db3UZ7P3uKBkQ/videos",
+        "spkrs": ["Jason Warner"],
+        "tags": []
+      },
+      {
+        "slug": "2022-08-29-B",
+        "type": "blog",
+        "title": "Use directives to extend third-party components",
+        "url": "https://medium.com/@stellar_aquamarine_cricket_607/use-angular-directives-to-extend-third-party-components-17d7a19c46b7",
+        "desc": "On my current project we're using Kirby Design UI Library and kirby-form-field component doesn't handle prefix or suffix, so I have to find a solution to modify the existing kirby-form-field component, to support prefix or suffix.",
+        "dAdd": "2022-08-29",
+        "dSrc": "2022-08-29",
+        "srcSite": "Medium",
+        "srcUrl": "https://medium.com",
+        "aName": "Jamal Soueidan",
+        "aUrl": "https://medium.com/@stellar_aquamarine_cricket_607",
+        "spkrs": ["Jamal Soueidan"],
+        "tags": ["Directives"]
+      },
+      {
+        "slug": "2022-08-29-C",
+        "type": "video",
+        "dur": "20",
+        "title": "Angular HTTP Interceptor - Build An Authentication Interceptor Step by Step Implementation",
+        "url": "https://www.youtube.com/watch?v=1po58WGmqB4",
+        "desc": "In this lesson we are going to implement an HTTP Interceptor using the new Angular HTTP Client module, which will send with each request back to the server our authentication JWT.",
+        "dAdd": "2022-08-29",
+        "dSrc": "2022-08-29",
+        "srcSite": "YouTube",
+        "srcUrl": "https://youtube.com",
+        "aName": "BugArray",
+        "aUrl": "https://www.youtube.com/channel/UCIkpfwmX7PORuZdnJ0OznAA/videos",
+        "spkrs": ["Sibolelo Vilakazi"],
+        "tags": ["HttpInterceptors", "JWT", "Auth"]
+      },
+            {
+        "slug": "2022-08-29-D",
+        "type": "podcast",
+        "dur": "49",
+        "title": "AMP 31: Alex Okrushko on Enterprise Frontend for Success",
+        "url": "https://open.spotify.com/episode/0hORjY21GJqf1et2HQK0uk",
+        "desc": "",
+        "dAdd": "2022-08-29",
+        "dSrc": "2022-08-29",
+        "srcSite": "Spotify",
+        "srcUrl": "https://open.spotify.com",
+        "aName": "Angular Master Podcast",
+        "aUrl": "https://open.spotify.com/show/1wgZAEEIoRZ8eP78LTbyZf",
+        "spkrs": ["Alex Okrushko"],
+        "tags": []
+      },
+      {
+        "slug": "2022-08-29-E",
+        "type": "blog",
+        "title": "Angular Basics: How To Use the Angular Mouseenter Event",
+        "url": "https://www.telerik.com/blogs/angular-basics-how-to-use-angular-mouseenter-event",
+        "desc": "The mouseenter event allows us to trigger a behavior when the user mouses over an element. Learn more about this and other mouse events.",
+        "dAdd": "2022-08-29",
+        "dSrc": "2022-08-29",
+        "srcSite": "Progress Telerik Blog",
+        "srcUrl": "https://www.telerik.com/blogs/web-angular",
+        "aName": "John Au-Yeung",
+        "aUrl": "https://www.telerik.com/blogs/author/john-au-yeung",
+        "spkrs": ["John Au-Yeung"],
+        "tags": []
+      },
+      {
+        "slug": "2022-08-29-F",
+        "type": "video",
+        "dur": "10",
+        "title": "View child decorator on HTML elements | Child to Parent communication | Angular 14 | Part 6",
+        "url": "https://www.youtube.com/watch?v=ffs9mIH7aU4",
+        "desc": "In this video we will learn How to use view child decorator on native elements and how to communicate from parent to child components.",
+        "dAdd": "2022-08-29",
+        "dSrc": "2022-08-29",
+        "srcSite": "YouTube",
+        "srcUrl": "https://youtube.com",
+        "aName": "TechshareSKK",
+        "aUrl": "https://www.youtube.com/channel/UCD8gC85u512FeCFzRV4Ll-A/videos",
+        "spkrs": ["Sai Kumar Korthivada"],
+        "tags": ["@ViewChild"]
+      },
+      {
+        "slug": "2022-08-29-G",
+        "type": "blog",
+        "title": "Bringing Angular Components to Astro Islands",
+        "url": "https://dev.to/brandontroberts/bringing-angular-components-to-astro-islands-52jp",
+        "desc": "Astro is a relatively new web framework that has a focus on helping you build faster websites. It also has a very interesting extension point in that you can bring your own UI framework of choice, including React, Svelte, Vue, and more. I even rewrote my Angular blog to use Astro in its alpha release days. This post is about bringing things full circle and using Angular components inside an Astro project.",
+        "dAdd": "2022-08-29",
+        "dSrc": "2022-08-29",
+        "srcSite": "DEV Community",
+        "srcUrl": "https://dev.to",
+        "aName": "Brandon Roberts",
+        "aUrl": "https://dev.to/brandontroberts",
+        "spkrs": ["Brandon Roberts"],
+        "tags": []
+      },
+      {
+        "slug": "2022-08-29-H",
+        "type": "blog",
+        "title": "Theming Angular Material Components - Introduction",
+        "url": "https://dev.to/hunzaboy/theming-angular-material-components-introduction-4ab",
+        "desc": "In this series, I will explain how to customize the Angular Material theme, components in particular (that's usually the most irritating part) and your own components using the Angular Material Way. I hope this series will help, new developers or anyone who has struggled, to get a better understanding and perspective on the topic.",
+        "dAdd": "2022-08-29",
+        "dSrc": "2022-08-29",
+        "srcSite": "DEV Community",
+        "srcUrl": "https://dev.to",
+        "aName": "Aslam Shah",
+        "aUrl": "https://dev.to/hunzaboy",
+        "spkrs": ["Aslam Shah"],
+        "tags": ["Angular Material", "Theming"]
+      },
+      {
+        "slug": "2022-08-29-J",
+        "type": "video",
+        "dur": "10",
+        "title": "ngOnChanges lifecycle hook in Angular | ngOnChanges Angular example | Angular Tutorial",
+        "url": "https://www.youtube.com/watch?v=ohMIUiHaV5M",
+        "desc": "",
+        "dAdd": "2022-08-29",
+        "dSrc": "2022-08-29",
+        "srcSite": "YouTube",
+        "srcUrl": "https://youtube.com",
+        "aName": "WebGentle",
+        "aUrl": "https://www.youtube.com/c/WebGentle/videos",
+        "spkrs": ["Nitish Kumar"],
+        "tags": ["ngOnChanges()", "Lifecycle Hooks"]
       }
     ]
   }

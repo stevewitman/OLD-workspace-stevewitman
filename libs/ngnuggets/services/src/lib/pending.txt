@@ -1,10 +1,4 @@
 
-7 
-10 
-10 
-11 
-19 
-
 
 SEARCH AND REPLACE CHARACTERS
 "
@@ -15,3 +9,9 @@ SEARCH AND REPLACE CHARACTERS
 
 
 
+2022-04-18-C + 2022-02-03-G add spkr
+        "aName": "BugArray",
+        "aUrl": "https://www.youtube.com/channel/UCIkpfwmX7PORuZdnJ0OznAA/videos",
+        "spkrs": ["Sibolelo Vilakazi"],
+
+2022-08-25-H, add @ to tag "tags": ["@ViewChild"]
