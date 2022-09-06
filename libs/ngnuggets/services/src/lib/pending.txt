@@ -1,27 +1,15 @@
 
 
-w 
-w 
-4 
-6 
-7 adventures in angular
-7 webrush 
-7 
-8 
-9 
-21 
-
-
-
-
 
 
 SEARCH AND REPLACE CHARACTERS
+(do a regex for permitted characters)
+(directive to highlight characters???)
 "
 “
 ”
 ’
-
+`
 
 
 
@@ -32,3 +20,20 @@ SEARCH AND REPLACE CHARACTERS
 
 2022-08-25-H, add @ to tag "tags": ["@ViewChild"]
 
+2022-02-23-F", "2022-05-05-G"  replace `
+
+"2022-05-18-A" add speaker "spkrs": ["Gergely Szerovay"],
+
+"2022-08-18-H" add , "NgOptimizedImage", "rawSrc"] to tags
+
+"2022-09-03-A", add , "NgOptimizedImage"] to tags
+
+"2022-08-19-M", "2022-08-20-A", add RxAngular tag
+
+"2022-05-05-J", tag should be @Self instead of @Skip
+
+12 instances of "aName": "Srikanth Y", to "aName": "Srikanth Yenagandula", along with adding to spkrs
+
+add this post https://kelly-kh-woo.medium.com/angular-di-resolution-modifiers-790a731890e9
+
+dependency injection => Resolution Modifiers, @Host, @Optional, @Self, @SkipSelf
