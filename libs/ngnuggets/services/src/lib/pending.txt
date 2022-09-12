@@ -1,5 +1,12 @@
 
 
+1 
+10 
+10 
+11 
+
+
+21 
 
 
 SEARCH AND REPLACE CHARACTERS
@@ -31,6 +38,8 @@ SEARCH AND REPLACE CHARACTERS
 "2022-08-19-M", "2022-08-20-A", add RxAngular tag
 
 "2022-05-05-J", tag should be @Self instead of @Skip
+
+"2022-08-14-G", "Daniel to " Daniel Ostrovsky
 
 12 instances of "aName": "Srikanth Y", to "aName": "Srikanth Yenagandula", along with adding to spkrs
 

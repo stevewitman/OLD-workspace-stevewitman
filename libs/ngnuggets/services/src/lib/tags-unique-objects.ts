@@ -460,6 +460,7 @@ export const tags = [
   { cat: '3rd Party', tag: 'RxAngular' },
   { cat: '3rd Party', tag: 'Scully' },
   { cat: '3rd Party', tag: 'SingleSPA' },
+  { cat: '3rd Party', tag: 'Stackblitz' },
   { cat: '3rd Party', tag: 'Storybook' },
   { cat: '3rd Party', tag: 'TailwindCSS' },
   { cat: '3rd Party', tag: 'TensorFlowJS' },
