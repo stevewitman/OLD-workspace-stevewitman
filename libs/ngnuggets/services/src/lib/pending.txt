@@ -1,12 +1,8 @@
 
-
-1 
+9 WEBRUSH 
 10 
-10 
-11 
+LAST 
 
-
-21 
 
 
 SEARCH AND REPLACE CHARACTERS
@@ -46,3 +42,43 @@ SEARCH AND REPLACE CHARACTERS
 add this post https://kelly-kh-woo.medium.com/angular-di-resolution-modifiers-790a731890e9
 
 dependency injection => Resolution Modifiers, @Host, @Optional, @Self, @SkipSelf
+
+
+"2022-01-18-B", "2022-01-27-E", "2022-03-23-G", "2022-03-25-D", "2022-07-04-E", "2022-07-30-D" change ngOneInint to ngOnInit()  
+
+"2022-09-02-J", "2022-08-16-G" UT to Unit Testing in the title 
+
+"2022-08-30-H" add Unit Testing tag
+
+"2022-09-14-K" tag "Form" to "Forms"
+
+
+CI CD
+2022-02-24-J
+2022-03-19-F
+2022-04-18-K
+2022-06-01-H
+2022-08-08-N
+2022-08-19-E
+2022-09-01-E
+
+Getters Setters
+2022-01-13-H
+2022-02-18-H
+2022-08-15-E
+2022-08-20-N
+2022-08-23-P
+
+Async await
+2022-04-04-M
+2022-04-25-N
+2022-07-04-E
+2022-07-20-K
+
+ngOnInit()
+2022-07-04-E
+2022-07-30-D
+2022-01-18-B
+2022-01-27-E
+2022-03-23-G
+2022-03-25-D
