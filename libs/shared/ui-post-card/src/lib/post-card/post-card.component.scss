@@ -19,6 +19,7 @@ a {
   margin-bottom: 25px;
   max-width: 360px;
   @media screen and (max-width: 599px) {
+    outline: 1px solid red;
     width: 100vw;
     max-width: 100vw !important; 
   }

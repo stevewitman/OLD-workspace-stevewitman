@@ -43,12 +43,12 @@ export class HomePageComponent implements OnInit {
   // }
   getPosts() {
     const posts = this.postService.getPosts();
-    this.extractSpeakers(posts);
+    // this.extractSpeakers(posts);
     return posts;
   }
 
   getMorePosts() {
-    console.log('recentPosts BEFORE:', this.recentPosts);
+    // console.log('recentPosts BEFORE:', this.recentPosts);
     // this.getPosts('02').subscribe((data) => {
     //   this.recentPosts2 = data;
     //   console.log('MORE:', this.recentPosts2);
@@ -83,16 +83,16 @@ export class HomePageComponent implements OnInit {
   }
 
   extractSpeakers(postGroups) {
-    console.log('SPEAKERS');
+    // console.log('SPEAKERS');
     
     const allSpeakers = [];
-    console.log(postGroups);
+    // console.log(postGroups);
     postGroups.forEach((e) => {
       
       e.dailyPosts.forEach((f) => {
         if (f.spkrs && f.spkrs.length > 0) {
           f.spkrs.forEach((g) => {
-            console.log(f.slug, g);
+            // console.log(f.slug, g);
             
             allSpeakers.push(g);
           });

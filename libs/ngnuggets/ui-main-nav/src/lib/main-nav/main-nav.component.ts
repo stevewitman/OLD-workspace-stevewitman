@@ -7,7 +7,7 @@ import {
 import { BreakpointObserver, Breakpoints } from '@angular/cdk/layout';
 
 import { Observable } from 'rxjs';
-import { map, shareReplay } from 'rxjs/operators';
+import { map, shareReplay, tap } from 'rxjs/operators';
 import {
   animate,
   animateChild,
@@ -78,6 +78,7 @@ export class MainNavComponent implements OnInit, AfterViewInit {
   isHandset$: Observable<boolean> = this.breakpointObserver
     .observe(Breakpoints.XSmall)
     .pipe(
+      // tap(data => {console.log(data)}),
       map((result) => result.matches),
       shareReplay()
     );

@@ -117,7 +117,7 @@ export class NewsletterPageComponent implements OnInit {
       newsletterRequest.method = 'twitter';
       newsletterRequest.address = '@' + this.address.value.split('/').pop();
     }
-    console.log(newsletterRequest);
+    // console.log(newsletterRequest);
   }
 
   isOptionSelected(i, control) {

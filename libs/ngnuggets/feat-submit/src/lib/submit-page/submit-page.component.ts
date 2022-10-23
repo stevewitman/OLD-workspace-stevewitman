@@ -42,7 +42,7 @@ export class SubmitPageComponent implements OnInit {
   onSubmit() {}
 
   onAuth() {
-    console.log('AUTH clicked');
+    // console.log('AUTH clicked');
     
   }
 

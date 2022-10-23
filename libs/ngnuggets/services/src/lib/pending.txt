@@ -1,10 +1,151 @@
-
-9 WEBRUSH 
+4 
+6 
+7 
+9 
+9 
 10 
-LAST 
+12 
+13 
+13 
+
+================
+THURSDAY
+12th https://medium.com/@rickcarter1806/rxjs-operators-4648699ecefa
+12th https://javascript.plainenglish.io/angular-elementref-templateref-viewcontainerref-8517b7ce3274
+2 https://www.youtube.com/watch?v=7Jni3-qYWBI
+3 https://www.youtube.com/watch?v=cTUE3oHDCrg
+6 https://javascript.plainenglish.io/most-useful-angular-features-youve-probably-never-used-a64522e747a9
+7 https://webrush.io/episodes/episode-205-leadership-with-matt-netkow
+7 https://nevzatopcu.medium.com/what-is-new-in-angular-14-2-3d7daa553eee
+10 https://www.youtube.com/watch?v=mT3UR0TdDnU
+10 https://www.youtube.com/watch?v=d6FJg2MW-lI
+13 https://www.youtube.com/watch?v=brsZQ0omg6E
+15 https://dev.to/henriquecustodia/angular-inject-function-a-new-way-to-work-with-di-2j47
+17 https://www.youtube.com/watch?v=gla_cnSKH0c
+
+
+=======
+FRIDAY
+
+13th 23 https://dev.to/codever/how-to-copy-to-clipboard-with-angular-material-317k
+https://dev.to/leon/rxjs-global-rate-limit-4g2j
+1 https://medium.com/@manakal/custom-directives-in-angular-49eb94708a21
+1 https://www.youtube.com/watch?v=mscy4fbs2Qs
+1 https://angularaddicts.com/angular-addicts-issue-6-ng-conf-2022-ngrx-best-practices-application-architecture-tips-more-feabd4406a29
+1 https://tiwarivikas.medium.com/dependency-injection-behind-the-scenes-4d2bad3e2efe
+3 https://www.youtube.com/watch?v=Vs-a_2oPZPU
+3 https://www.youtube.com/watch?v=UaObv2lVMp4
+8 https://www.youtube.com/watch?v=NLU6lmWPdLg
+8 https://dev.to/angular/angular-eslint-rules-for-keyboard-accessibility-236f
+14 https://dev.to/nx/whats-new-in-nx-15-2de9
+18 https://www.youtube.com/watch?v=AccL5-xj8WE
+
+=====
+SATURDAY
+14th https://orlandokaramani.medium.com/draw-a-seating-chart-using-svg-shapes-and-angular-7092a52f4176
+14th https://orlandokaramani.medium.com/draw-svg-shapes-in-angular-polygons-897bfb4614fc
+14th https://medium.com/@armen_stepanyan/angular-ngtemplateoutlet-directive-d8c2d3ee1fc9
+1 https://www.danywalls.com/working-with-3rd-party-script-and-css-in-angular
+2 https://www.youtube.com/watch?v=RUd7YBIomhM
+4 https://dev.to/rainerhahnekamp/ng-news-episode-2240-4073
+6 https://www.youtube.com/watch?v=GSlgISh59ac
+7 https://www.youtube.com/watch?v=gFDgpzvlmh0
+19 https://www.youtube.com/watch?v=FkQZ2GZoUWQ
+
+==============
+SUNDAY 16th
+15th 12 https://www.youtube.com/watch?v=H4c2YQZzW1o
+15th https://medium.com/@wilfried.lucha/the-angular-14-starter-transloco-jest-testcafe-docker-prettier-c794b4bb8db
+15th 20 https://www.youtube.com/watch?v=eE66zrRHuW8
+15th 20 https://medium.com/@daneavanderbilt/typed-route-path-management-in-an-angular-application-c50a0f89cec3
+15th 21 https://www.youtube.com/watch?v=sVeK9h2TVHI
+16th https://medium.com/@manakal/custom-directives-in-angular-49eb94708a21
+
+====
+MONDAY
+16th https://iamcyberster.medium.com/introduction-to-angular-unit-component-testing-2ac4f2cfc663
+5 https://www.youtube.com/watch?v=lXcyM6BsJrI
+7 https://www.spreaker.com/user/14532324/s3e6-jo-hanna-pearce-on-keeping-it-simpl
+8 https://dev.to/accesto/creating-angular-tooltip-directive-part-2-adding-customisation-4o6l
+8 https://www.youtube.com/watch?v=8WUeIiIQ5ss
+11 https://dev.to/rainerhahnekamp/ng-news-episode-2240-4073
+12 https://dev.to/rainerhahnekamp/ng-news-episode-2241-3i84
+
+===============
+TUESDAY
+17th https://medium.com/accesto/creating-angular-tooltip-directive-part-2-adding-customisation-818946372ea
+17th https://tzhangssr.medium.com/how-to-use-oauth-2-0-to-access-google-apis-in-angular-projects-d0ee607a0754
+17th https://www.youtube.com/watch?v=1JEB4psKBAw
+4 https://www.youtube.com/watch?v=urgnWuguEpA
+4 https://www.youtube.com/watch?v=c1mp_xIGChc
+5 https://www.youtube.com/watch?v=fGWtnMjYkTw
+8 https://dev.to/this-is-angular/a-simple-way-to-read-json-data-in-your-angular-app-25pp
+9 https://www.youtube.com/watch?v=uc66Y9YgTo4
+9 https://blog.angular.io/modern-css-in-angular-layouts-4a259dca9127
+
+============
+WEDNESDAY
+18th https://medium.com/@zameelamjed/fetch-api-data-from-service-as-observables-angular-e8fb58ce44a2
+18th https://www.youtube.com/watch?v=ZbDoMUB0ZGA
+18th https://medium.com/@dp.manakal82/build-your-own-custom-directives-in-angular-96337fc999c2
+3 https://medium.com/@hiepxanh/angular-vite-example-is-crazy-fast-3ee4d730020c
+3 https://www.youtube.com/watch?v=Auvaf7KLXfQ
+4 https://www.youtube.com/watch?v=xMQ37ZSpKf0
+5 https://medium.com/@asannan822/intersection-observer-in-js-and-angular-3944b0a0a054
+8 A+ https://www.spreaker.com/user/ng-conf/ap-show-s4e10-mike-alex-edit-1
+12 https://www.youtube.com/watch?v=TO0jPuUa0LY
+14 https://www.youtube.com/watch?v=myUSOf6E32c
+14 https://medium.com/@pstenger13/easy-angular-control-value-accessor-implementation-4feb1ba25fd0
+15 https://blog.devgenius.io/typescript-rxjs-takeuntil-takewhile-34e7939e4fba
+15 https://github.com/angular/angular/releases/tag/14.2.7
+16 https://github.com/angular/angular/releases/tag/15.0.0-rc.0
+LAST https://www.youtube.com/watch?v=19j3vXxLUj0
+
+======================
+THURSDAY
+19th 22 https://medium.com/@yiupang.ch/reasons-why-params-on-url-is-the-best-state-management-tool-aff72b81393d
+2 https://vkbharadwazkopalle.medium.com/angular-long-polling-with-rxjs-interval-operator-8911e59a9b4
+5 https://www.youtube.com/watch?v=YHmRPPM6qGA
+6 https://webrush.io/episodes/episode-206-a-little-diddy-about-a-griddy-with-tanner-linsley
+8 https://www.youtube.com/watch?v=BxShVQNZYCI
+8 https://dev.to/ayyash/how-to-turn-an-angular-app-into-standalone-part-i-5g9a
+12 https://medium.com/@tsung-wei_hsu/quick-fix-to-cors-errors-in-angular-569c411787a0
+13 https://dev.to/blove/typed-forms-in-angular-334c
+14 https://dev.to/krisplatis/how-angular-ssr-works-under-the-hood-source-code-analysis-amj
+
+==========
+FRIDAY
+20th https://youtu.be/5GsM_q61770?t=290
+20th https://medium.com/@tipster74743/angular-testing-revisited-71df07957548
+1 https://mryenagandula.medium.com/angular-sharing-data-between-two-different-components-using-rxjs-subjects-learn-it-in-21-steps-ff704e655854
+5 https://ramya-bala221190.medium.com/angular-creating-a-custom-rxjs-operator-for-reusing-multiple-other-repetitive-rxjs-operators-d5c459fe0c0f
+10 https://medium.com/@andriy.vl/simple-back-navigation-in-angular-with-a-directive-4262b55a1f0c
+12 https://www.youtube.com/watch?v=upLBZnj-_fw
+
+==========================
+SUNDAY
+21st https://www.youtube.com/watch?v=upLBZnj-_fw&t=4569s
+21st 22 https://mryenagandula.medium.com/angular-sharing-data-between-two-different-components-using-child-routes-learn-it-in-21-steps-a729102c38d6
+6 https://medium.com/@lavanya.kakimallaiah/angular-unit-testing-5b188ae10a4
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+-----------------------------------------------------------------------
+=======================================================================
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 SEARCH AND REPLACE CHARACTERS
 (do a regex for permitted characters)
 (directive to highlight characters???)
@@ -33,9 +174,11 @@ SEARCH AND REPLACE CHARACTERS
 
 "2022-08-19-M", "2022-08-20-A", add RxAngular tag
 
-"2022-05-05-J", tag should be @Self instead of @Skip
+"2022-05-05-J", "2022-09-25-G" tag should be @Self instead of @Skip
 
 "2022-08-14-G", "Daniel to " Daniel Ostrovsky
+
+"2022-01-25-K" tags contentChild contentChildren to @ContentChild @ContentChildren
 
 12 instances of "aName": "Srikanth Y", to "aName": "Srikanth Yenagandula", along with adding to spkrs
 
@@ -82,3 +225,19 @@ ngOnInit()
 2022-01-27-E
 2022-03-23-G
 2022-03-25-D
+
+2022-09-21-A tag "Form" to "Forms"
+
+Can-8499-2931-1101
+
+
+remove duplicate post "2022-05-21-G"
+
+
+
+#83F65A green
+#48A8EE blue
+#FFFD54 yellow
+#E25141 red
+
+"2022-08-17-C" tag "Pipess" to "Pipes"

@@ -25,7 +25,7 @@ export class AppComponent implements OnInit {
     //   })     
     // })
     // console.log(this.tags);
-    console.log('ngOnInit');
+    console.log('AppComponent ngOnInit');
     
   }
 
