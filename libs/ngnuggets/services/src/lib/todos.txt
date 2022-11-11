@@ -1,0 +1,101 @@
+
+
+-----------------------------------------------------------------------
+=======================================================================
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+SEARCH AND REPLACE CHARACTERS
+(do a regex for permitted characters)
+(directive to highlight characters???)
+"
+“
+”
+’
+`
+liyofi7766@corylan.com
+CoryLan-100001
+Summer00-()
+
+2022-04-18-C + 2022-02-03-G add spkr
+        "aName": "BugArray",
+        "aUrl": "https://www.youtube.com/channel/UCIkpfwmX7PORuZdnJ0OznAA/videos",
+        "spkrs": ["Sibolelo Vilakazi"],
+
+2022-08-25-H, add @ to tag "tags": ["@ViewChild"]
+
+2022-02-23-F", "2022-05-05-G"  replace `
+
+"2022-05-18-A" add speaker "spkrs": ["Gergely Szerovay"],
+
+"2022-08-18-H" add , "NgOptimizedImage", "rawSrc"] to tags
+
+"2022-09-03-A", add , "NgOptimizedImage"] to tags
+
+"2022-08-19-M", "2022-08-20-A", add RxAngular tag
+
+"2022-05-05-J", "2022-09-25-G" tag should be @Self instead of @Skip
+
+"2022-08-14-G", "Daniel to " Daniel Ostrovsky
+
+"2022-01-25-K" tags contentChild contentChildren to @ContentChild @ContentChildren
+
+12 instances of "aName": "Srikanth Y", to "aName": "Srikanth Yenagandula", along with adding to spkrs
+
+add this post https://kelly-kh-woo.medium.com/angular-di-resolution-modifiers-790a731890e9
+
+dependency injection => Resolution Modifiers, @Host, @Optional, @Self, @SkipSelf
+
+
+"2022-01-18-B", "2022-01-27-E", "2022-03-23-G", "2022-03-25-D", "2022-07-04-E", "2022-07-30-D" change ngOneInint to ngOnInit()  
+
+"2022-09-02-J", "2022-08-16-G" UT to Unit Testing in the title 
+
+"2022-08-30-H" add Unit Testing tag
+
+"2022-09-14-K" tag "Form" to "Forms"
+
+
+CI CD
+2022-02-24-J
+2022-03-19-F
+2022-04-18-K
+2022-06-01-H
+2022-08-08-N
+2022-08-19-E
+2022-09-01-E
+
+Getters Setters
+2022-01-13-H
+2022-02-18-H
+2022-08-15-E
+2022-08-20-N
+2022-08-23-P
+
+Async await
+2022-04-04-M
+2022-04-25-N
+2022-07-04-E
+2022-07-20-K
+
+ngOnInit()
+2022-07-04-E
+2022-07-30-D
+2022-01-18-B
+2022-01-27-E
+2022-03-23-G
+2022-03-25-D
+
+2022-09-21-A tag "Form" to "Forms"
+
+Can-8499-2931-1101
+
+
+remove duplicate post "2022-05-21-G"
+
+
+
+#83F65A green
+#48A8EE blue
+#FFFD54 yellow
+#E25141 red
+
+"2022-08-17-C" tag "Pipess" to "Pipes"
