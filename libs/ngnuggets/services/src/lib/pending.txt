@@ -1,60 +1,4 @@
 
-https://stylades.hashnode.dev/angular-validation-for-mat-autocomplete-input-fields-part-2
-1 https://medium.com/@yiupang.ch/a-subtle-but-important-change-of-debounce-operator-in-rxjs-7-dd411023f16f
-2 https://medium.com/@iker.bedecarrax/implementing-state-management-in-an-angular-complex-app-a613ebe76c5d
-7 https://webrush.io/episodes/episode-207-impact-of-devrel-and-content-creation-with-kapehe
-10 https://www.youtube.com/watch?v=9a08mIt8Jqc
-
-=============
-FRIDAY 10/28
-27th https://www.youtube.com/watch?v=9a08mIt8Jqc&t=1103s
-27th https://www.youtube.com/watch?v=iEkV3667F4I
-27th https://www.youtube.com/watch?v=P-BnODS016M
-27th https://medium.com/@yiupang.ch/a-subtle-but-important-change-of-debounce-operator-in-rxjs-7-dd411023f16f
-27th https://medium.com/@iker.bedecarrax/implementing-state-management-in-an-angular-complex-app-a613ebe76c5d
-8 https://apolinariosdevblog.hashnode.dev/how-to-make-api-requests-with-angular
-10 https://dev.to/ayyash/how-to-turn-an-angular-app-into-standalone-part-ii-1jhh
-
-=============
-SATURDAY 10/29
-
-28th https://www.youtube.com/watch?v=lAGw1YqEItg
-28th https://medium.com/@marekpanti/scss-architecture-in-angular-bc9afa4ad180
-28th https://medium.com/@stefan.haas.privat/dynamic-angular-microfrontends-7de8f2634f0a
-https://www.youtube.com/watch?v=deg2FPU01YQ
-6 https://www.youtube.com/watch?v=-p-TC4Jigqo
-11 https://www.youtube.com/watch?v=KOz02yQU-SQ
-11 https://dev.to/gergelyszerovay/angular-addicts-issue-6-ng-conf-2022-ngrx-best-practices-application-architecture-tips-more-39a0
-21 https://www.youtube.com/watch?v=LAgpu2VtQME
-
-=====
-SUNDAY 10/30
-29th https://medium.com/@maneesha649nirman/free-to-learn-angular-5590d089ddc8
-29th https://thabo-ambrose.medium.com/choosing-classes-as-types-over-interfaces-type-aliases-in-typescript-f44c53dee1d1
-29th https://iresa.medium.com/tech-angular-esri-series-feature-query-3ca8e74925eb
-29th https://medium.com/@dominicegginton/blazingly-fast-angular-with-easy-prerendering-9f708de99bce
-5 https://www.youtube.com/watch?v=mDdcuUYEiYQ
-16 https://dev.to/skyebelinda/card-switcher-magic-1l10
-20 https://www.youtube.com/watch?v=L5TIOOaXrbo
-20 https://www.youtube.com/watch?v=KkWAMTx1IHU
-
-=================
-MONDAY 10/31
-
-30th https://pandey-rohit.medium.com/creating-an-angular-library-and-publishing-it-to-npm-10c3a9a51f3d
-30th 12 https://medium.com/@ey684241/directives-in-angular-f7c9abe4000c
-1 https://www.youtube.com/watch?v=5J_sZOLwe4o
-3 https://www.youtube.com/watch?v=HzQ6rM1bphs
-6 https://www.youtube.com/watch?v=kzl4IKAC8O4
-8 https://www.youtube.com/watch?v=s6Ww4xbgYEA
-9 https://dev.to/ayyash/angular-standalone-router-providers-an-update-1cpo
-11 https://www.youtube.com/watch?v=YPmBoRgcWXo
-18 https://www.youtube.com/watch?v=cpXNzSOwri4
-***** https://www.telerik.com/blogs/angular-basics-step-by-step-understanding-async-pipe
-last 2 ***** https://medium.com/@joosep.parts/how-to-use-intersection-observer-api-with-a-directive-e86f0253c207
-
-================
-TUESDAY 11/1
 31st https://javascript.plainenglish.io/angular-custom-directive-example-hostbinding-hostlistener-1b18bb08a5d1
 31st https://alex-migwi.medium.com/angular-feature-toggles-aka-feature-flags-using-launchdarkly-c0ba800c918e
 31st https://abderrahmanems.medium.com/ivy-the-angular-compiler-b3205201021a
@@ -68,7 +12,6 @@ TUESDAY 11/1
 14 https://dev.to/renaisense_/angular-content-projection-and-solid-code-ng-content-5940
 14 https://medium.com/@igor.now/angular-standalone-components-with-ngrx-component-store-3001672da89
 ***** last https://www.youtube.com/watch?v=qxzu0tCyzak
-
 ==================
 WEDNESDAY 11/2
 21st 15 https://www.youtube.com/watch?v=NlcWBmbQPKY
@@ -76,7 +19,6 @@ WEDNESDAY 11/2
 7 https://dev.to/lambdatest/cypress-testing-framework-tutorial-complete-guide-to-test-automation-with-cypress-2h18
 7 https://www.spreaker.com/user/ng-conf/ap-show-s4e11-joey-perrot-edit-1
 18 https://www.youtube.com/watch?v=UANhcwMBPcY
-
 ====
 THURSDAY 3rd
 1st https://medium.com/@henriquecustodia/angular-15-using-the-directive-composition-api-b0246ad0796f
@@ -90,7 +32,6 @@ https://netbasal.com/create-configurable-route-guards-in-angular-b5f255045e07
 16 https://dev.to/renancferro/understanding-and-implementing-threejs-with-angular-and-creating-a-3d-animation-3eea
 18 https://github.com/angular/angular/releases/tag/14.2.9
 19 https://github.com/angular/angular/releases/tag/15.0.0-rc.2
-
 ============
 FRIDAY 11/04
 https://dev.to/ng_news/ng-news-episode-2243-188a
@@ -101,15 +42,11 @@ https://dev.to/ng_news/ng-news-episode-2243-188a
 12 https://www.youtube.com/watch?v=pD8vzZs559I
 12 https://www.youtube.com/watch?v=-2KgP-b_QRM
 13 https://medium.com/ngconf/angular-testing-unit-testing-a843fa6f11c9
-
-
-
 =================
 SATURDAY 11/05
 04? https://www.youtube.com/watch?v=vElAOWRLVzk
 04? https://www.youtube.com/watch?v=MHQDLLD86qQ
 20 https://www.youtube.com/watch?v=25IPuO_8hxg
-
 ==================
 SUNDAY 11/06
 5th 19 https://www.youtube.com/watch?v=SKuHGurp5rY
@@ -119,7 +56,6 @@ SUNDAY 11/06
 5 https://abderrahmanems.medium.com/what-i-learned-about-angular-view-creation-and-change-detection-aa7903f0b5e8
 8 https://dev.to/railsstudent/detect-key-sequence-using-rxjs-and-angular-3j2c
 9 https://www.youtube.com/watch?v=Qm20w4qyCqw
-
 =====================
 MONDAY 07th
 6th https://medium.com/@mariokandut/how-to-add-husky-to-angular-27077a99dc88
@@ -134,7 +70,6 @@ MONDAY 07th
 7 https://dev.to/ayyash/fixing-the-trailing-slash-in-static-site-generation-107k
 8 https://www.youtube.com/watch?v=F4sNN94X8hU
 14 https://www.youtube.com/watch?v=Rr_tCW9a74M
-
 ========
 TUESDAY 8th
 7th https://medium.com/@therahuljain/i-fixed-a-major-bug-just-by-changing-a-behaviorsubject-to-a-subject-in-my-angular-app-ec8e2ca6239e
@@ -147,7 +82,6 @@ TUESDAY 8th
 7 https://www.youtube.com/watch?v=Au4VfcwvjgQ
 10 https://www.youtube.com/watch?v=JpfdDBggtho
 19 https://www.youtube.com/watch?v=_UGSG7vxq2Q
-
 ==============
 WEDNESDAY 9th 
 8th 11 https://medium.com/@nurlanjoldibaev7/internationalization-and-angular-universal-321c3cfd9
@@ -162,18 +96,14 @@ WEDNESDAY 9th
 13 https://github.com/angular/angular/releases/tag/14.2.10
 14 https://github.com/angular/angular/releases/tag/15.0.0-rc.3
 LAST A+ https://www.spreaker.com/user/ng-conf/ap-show-s4e12-ady-ngom-edit-1
-
-
 ===============================
 THURSDAY 11/10
 4 https://www.youtube.com/watch?v=uv6e58xMd2Y
 4 https://www.youtube.com/watch?v=cNuAhtcAofw
 5 https://www.youtube.com/watch?v=f4teupgbckE
 6 https://dev.to/this-is-learning/feature-flags-with-azure-and-angular-22jd
-
 ======================
 FRIDAY 11/11
-
 9th https://akchauhan556.medium.com/how-to-create-angular-standalone-components-no-ngmodule-required-in-angular-eeb5e9a91ed0
 9th https://medium.com/@besimgurbuz/wrapping-indexeddb-api-with-typescript-angular-and-rxjs-805c8ac80ffe
 10th https://medium.com/@msisul/angular-with-firebase-remote-config-c3b9d253ff22
@@ -189,13 +119,11 @@ https://medium.com/syncfusion/introducing-the-new-angular-image-editor-component
 21 https://dev.to/railsstudent/slide-in-images-on-scroll-using-rxjs-and-angular-c7e
 ==============
 SATURDAY 11/12
-
 11th 22 https://dev.to/jpreagan/lets-build-a-rest-api-with-nestjs-34ek
 https://medium.com/@yuvayuvaraj720444/router-5-using-observables-to-fetch-the-route-parameters-instead-of-snapshot-b9c97a1f6eb6
 6 https://thabo-ambrose.medium.com/an-intro-to-the-singleton-design-pattern-in-angular-7203d2cae311
 9 https://medium.com/@yuvayuvaraj720444/router-06-pass-query-params-and-fragments-with-angular-router-via-raw-html-and-programatically-88a06d5191e8
 20 https://www.youtube.com/watch?v=wj5NIiKLU7M
-
 ==============
 SUNDAY 11/13
 12th 21 https://medium.com/@ruslan.ap2/how-to-create-an-avatar-uploader-with-angular-9fe89ff4fe60
@@ -203,8 +131,6 @@ SUNDAY 11/13
 https://medium.com/@hayk.shirinyan/how-to-create-a-loading-spinner-in-angular-5af935be0a46
 https://medium.com/@marekpanti/angular-standalone-components-e8aa2f24f3fd
 11 https://medium.com/@ruslan.ap2/how-to-create-a-custom-form-control-in-angular-9ad49c68fb66
-
-
 =============
 MONDAY 11/14
 1 https://dev.to/pbouillon/taking-your-angular-app-to-code-space-1p6
@@ -219,7 +145,6 @@ https://medium.com/@gouravsoni139/recursion-in-html-no-typescript-1043305b7b67
 8 https://www.youtube.com/watch?v=8AzZOniWaAo
 9 https://dev.to/angular/angular-eslint-rules-for-aria-3ba1
 13 https://github.com/angular/angular/releases/tag/15.0.0-rc.4
-
 ==============
 TUESDAY
 14th https://dev.to/renaisense_/angular-dependency-injection-understood-iii-4a20
@@ -271,7 +196,6 @@ THURSDAY 11/17
 9 https://www.youtube.com/watch?v=bihanbsgsoQ
 9 https://www.youtube.com/watch?v=pOuqxt8QSgQ
 13 https://dev.to/krisplatis/your-seo-in-danger-angular-universal-ignores-errors-in-your-app-1p0b
-
 =================
 FRIDAY 11/18
 17th https://medium.com/@nillcon248/how-does-di-work-inside-angular-fc3589a42d0f
@@ -287,10 +211,13 @@ https://www.youtube.com/watch?v=tKwHbxjp0Qw
 last https://www.youtube.com/watch?v=jHezyEB-lTI
 ==========
 SATURDAY 11/19
-
 18th 22 https://www.youtube.com/watch?v=5C_HmD94gGE
 18th 22 https://dev.to/railsstudent/synchronize-data-with-local-storage-using-rxjs-and-angular-21mf
 18th 23 https://www.youtube.com/watch?v=UxH6K6d29PA
 8 https://www.youtube.com/watch?v=V1yQ5ouMFyk
 9 https://roxanahalati.hashnode.dev/using-feature-flags-in-an-angular-application
 20 https://www.youtube.com/watch?v=P3apBRL3RZc
+===========
+SUNDAY 11-20
+6 https://medium.com/@piyalidas.it/angular-component-unit-testcase-with-subscription-service-3465f44c3589
+7 https://vasily-ivanov.medium.com/instanceof-in-angular-html-templates-63f23d497242
