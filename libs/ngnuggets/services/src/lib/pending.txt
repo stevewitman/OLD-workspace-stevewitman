@@ -1,53 +1,5 @@
 
-5th 19 
-5th 21? 
-5th 
-4 
-5 
-8 
-9 
-=====================
-MONDAY 07th
-6th https://medium.com/@mariokandut/how-to-add-husky-to-angular-27077a99dc88
-6th 22 https://www.youtube.com/watch?v=7fgFN_83hR0
-6th 22 https://www.youtube.com/watch?v=vtZy5iJxLA4
-6th https://medium.com/@mashaobradley/angular-http-interceptors-an-overview-f87aa14f0c10
-6th https://medium.com/@therahuljain/rxjs-subject-vs-behaviorsubject-next-up-how-i-fixed-a-major-bug-just-by-changing-a-4f1bf150491f
-2 https://zubairmoosa.medium.com/a-quick-overview-of-angular-standalone-components-366d4d8670ff
-3 https://dev.to/magdasawyer/configuring-cypress-code-coverage-angular-docker-azure-devops-4602
-3 https://medium.com/@mariapenafd/angular-component-interaction-64f529c86ea0
-4 https://www.youtube.com/watch?v=B75PikYtWU0
-7 https://dev.to/ayyash/fixing-the-trailing-slash-in-static-site-generation-107k
-8 https://www.youtube.com/watch?v=F4sNN94X8hU
-14 https://www.youtube.com/watch?v=Rr_tCW9a74M
-========
-TUESDAY 8th
-7th https://medium.com/@therahuljain/i-fixed-a-major-bug-just-by-changing-a-behaviorsubject-to-a-subject-in-my-angular-app-ec8e2ca6239e
-7th 18 https://www.youtube.com/watch?v=mtUAFT3RitY
-7th https://www.telerik.com/blogs/using-angular-material-build-data-grid
-1 https://www.youtube.com/watch?v=8d-9yx6nGYE
-4 https://www.youtube.com/watch?v=a8LVQgcU3AE
-6 devlife https://www.spreaker.com/user/14532324/s3e7-liz-saling-on-life-at-github-attain
-7 https://medium.com/@ey684241/structure-routing-in-angular-d886d9f223b9
-7 https://www.youtube.com/watch?v=Au4VfcwvjgQ
-10 https://www.youtube.com/watch?v=JpfdDBggtho
-19 https://www.youtube.com/watch?v=_UGSG7vxq2Q
-==============
-WEDNESDAY 9th 
-8th 11 https://medium.com/@nurlanjoldibaev7/internationalization-and-angular-universal-321c3cfd9
-8th 22 https://www.youtube.com/watch?v=Y95HyeYF1tE
-2 https://www.youtube.com/watch?v=ByQglPAESR4
-5 https://dev.to/ayyash/express-slashing-syndrome-the-trailing-slash-and-other-topics-2dpm
-6 https://www.youtube.com/watch?v=nM5Qxai8K9w
-7 https://dev.to/this-is-angular/directive-composition-with-angular-15-58e9
-7 https://www.youtube.com/watch?v=AR5b4lVNIys
-9 https://dev.to/harshallimaye/how-to-create-a-custom-assets-folder-in-angular-1dbl
-9 https://dev.to/angular/a-practical-guide-to-providers-in-angular-3c96
-13 https://github.com/angular/angular/releases/tag/14.2.10
-14 https://github.com/angular/angular/releases/tag/15.0.0-rc.3
 LAST A+ https://www.spreaker.com/user/ng-conf/ap-show-s4e12-ady-ngom-edit-1
-===============================
-THURSDAY 11/10
 4 https://www.youtube.com/watch?v=uv6e58xMd2Y
 4 https://www.youtube.com/watch?v=cNuAhtcAofw
 5 https://www.youtube.com/watch?v=f4teupgbckE
@@ -200,5 +152,6 @@ TUESDAY
 12 https://www.youtube.com/watch?v=3zOnJfTo8Gw
 https://www.telerik.com/blogs/angular-basics-what-is-angular-material-when-use-when-look-elsewhere
 https://github.com/angular/angular/releases/tag/15.1.0-next.0
+https://github.com/angular/angular/releases/tag/15.0.1
 ===================
 WEDNESDAY 11/23
