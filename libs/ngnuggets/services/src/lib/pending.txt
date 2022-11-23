@@ -1,26 +1,11 @@
 
-https://dev.to/ng_news/ng-news-episode-2243-188a
-3rd https://medium.com/getpieces/angular-material-cdk-with-drag-and-drop-a9878dbf3ad4
-0?? https://www.youtube.com/watch?v=bGTKu3Bn-z8
-6 https://www.youtube.com/watch?v=ED2tKas2BCA
-11 https://www.youtube.com/watch?v=2wdOm0-7G0I
-12 https://www.youtube.com/watch?v=pD8vzZs559I
-12 https://www.youtube.com/watch?v=-2KgP-b_QRM
-13 https://medium.com/ngconf/angular-testing-unit-testing-a843fa6f11c9
-=================
-SATURDAY 11/05
-04? https://www.youtube.com/watch?v=vElAOWRLVzk
-04? https://www.youtube.com/watch?v=MHQDLLD86qQ
-20 https://www.youtube.com/watch?v=25IPuO_8hxg
-==================
-SUNDAY 11/06
-5th 19 https://www.youtube.com/watch?v=SKuHGurp5rY
-5th 21? https://medium.com/@oranaki9910/how-to-create-a-dynamic-page-title-in-angular-28d71aa50861
-5th https://dev.to/alakkadshaw/angular-chat-application-with-socketio-and-node-js-1jo4
-4 https://www.youtube.com/watch?v=cxJ6PbCzEa4
-5 https://abderrahmanems.medium.com/what-i-learned-about-angular-view-creation-and-change-detection-aa7903f0b5e8
-8 https://dev.to/railsstudent/detect-key-sequence-using-rxjs-and-angular-3j2c
-9 https://www.youtube.com/watch?v=Qm20w4qyCqw
+5th 19 
+5th 21? 
+5th 
+4 
+5 
+8 
+9 
 =====================
 MONDAY 07th
 6th https://medium.com/@mariokandut/how-to-add-husky-to-angular-27077a99dc88
