@@ -1,39 +1,4 @@
 
-31st https://javascript.plainenglish.io/angular-custom-directive-example-hostbinding-hostlistener-1b18bb08a5d1
-31st https://alex-migwi.medium.com/angular-feature-toggles-aka-feature-flags-using-launchdarkly-c0ba800c918e
-31st https://abderrahmanems.medium.com/ivy-the-angular-compiler-b3205201021a
-31st https://netbasal.com/repeat-and-retry-http-requests-using-rxjs-423c1996fb65
-0? https://www.youtube.com/watch?v=BSU3bIXU85k
-4 https://angularexperts.io/blog/angular-directive-composition
-6 https://www.youtube.com/watch?v=voOhj6_ejkE
-8 https://medium.com/@vkbiotech841/importing-global-font-in-angular-df22b8319400
-12 https://medium.com/@piyalidas.it/rxjs-operator-s-mergemap-vs-concatmap-4b468c72f3a5
-12 https://medium.com/@piyalidas.it/rxjs-filter-operator-example-with-mergemap-9f3a3297c4fc
-14 https://dev.to/renaisense_/angular-content-projection-and-solid-code-ng-content-5940
-14 https://medium.com/@igor.now/angular-standalone-components-with-ngrx-component-store-3001672da89
-***** last https://www.youtube.com/watch?v=qxzu0tCyzak
-==================
-WEDNESDAY 11/2
-21st 15 https://www.youtube.com/watch?v=NlcWBmbQPKY
-21st 22 https://dev.to/henriquecustodia/angular-15-using-the-directive-composition-api-58j3
-7 https://dev.to/lambdatest/cypress-testing-framework-tutorial-complete-guide-to-test-automation-with-cypress-2h18
-7 https://www.spreaker.com/user/ng-conf/ap-show-s4e11-joey-perrot-edit-1
-18 https://www.youtube.com/watch?v=UANhcwMBPcY
-====
-THURSDAY 3rd
-1st https://medium.com/@henriquecustodia/angular-15-using-the-directive-composition-api-b0246ad0796f
-2nd https://medium.com/@joosep.parts/how-to-use-web-workers-api-b1ef96c46fc0
-2nd https://betterprogramming.pub/exploring-web-workers-in-angular-84b9949a4fab
-2 https://dev.to/this-is-angular/head-start-with-angular-14-and-standalone-components-5ffl
-7 https://webrush.io/episodes/episode-208-cypress-with-jordan-powell
-7 https://dev.to/nx/component-first-architecture-with-standalone-components-and-nx-1i25
-https://netbasal.com/create-configurable-route-guards-in-angular-b5f255045e07
-13 https://dev.to/tttecnology/communication-between-components-in-angular-4kii
-16 https://dev.to/renancferro/understanding-and-implementing-threejs-with-angular-and-creating-a-3d-animation-3eea
-18 https://github.com/angular/angular/releases/tag/14.2.9
-19 https://github.com/angular/angular/releases/tag/15.0.0-rc.2
-============
-FRIDAY 11/04
 https://dev.to/ng_news/ng-news-episode-2243-188a
 3rd https://medium.com/getpieces/angular-material-cdk-with-drag-and-drop-a9878dbf3ad4
 0?? https://www.youtube.com/watch?v=bGTKu3Bn-z8
@@ -221,3 +186,34 @@ SATURDAY 11/19
 SUNDAY 11-20
 6 https://medium.com/@piyalidas.it/angular-component-unit-testcase-with-subscription-service-3465f44c3589
 7 https://vasily-ivanov.medium.com/instanceof-in-angular-html-templates-63f23d497242
+https://medium.com/@aonuada5/communication-between-components-in-angular-1170ae97a4b9
+https://thesouvikmitra.medium.com/angular-router-guards-cba8aee72e11
+
+================
+MONDAY 11/21
+20th https://novoselski.tech/are-standalone-components-changing-the-way-we-write-angular-code-4abc0f92af94
+20th https://medium.com/@piyalidas.it/rxjs-most-common-operators-54ac553a84f4
+8 https://www.youtube.com/watch?v=t1r7-QbkfZM
+11 https://github.com/angular/angular/releases/tag/14.2.12
+11 https://github.com/angular/angular/releases/tag/13.3.12
+14 https://welko.hashnode.dev/sharpen-your-ngrx-effects
+14 https://dev.to/stevewhitmore/angular-unit-tests-common-pain-points-4366
+=================
+TUESDAY
+21st https://medium.com/@anas.zeouinene/angular-15-in-brief-912e0510a821
+21st https://its-dibo.medium.com/angular-v15-is-here-do-more-code-less-8c6d67f24d89
+21st https://www.youtube.com/watch?v=LLj5lQ-UfAQ
+21st https://www.youtube.com/watch?v=WoktGeSqiEs
+21st https://javascript.plainenglish.io/angular-2-ways-you-can-perform-crossfield-validationin-reactive-forms-6a9b688b8cff
+21st https://medium.com/@ChiragPrajapati81/bootstrapping-an-application-in-angular-b84326a9ed73
+5 https://dev.to/rachgrey/angular-performance-optimization-top-tips-and-tricks-1be8
+6 https://www.youtube.com/watch?v=kzjakHu6o8s
+6 https://www.youtube.com/watch?v=Z9U9-VRN_XU
+7 https://dev.to/ayyash/anchor-scrolling-in-angular-1om1
+10 https://angularexperts.io/blog/angular-template-context
+11 https://github.com/angular/angular/releases/tag/12.2.17
+12 https://www.youtube.com/watch?v=3zOnJfTo8Gw
+https://www.telerik.com/blogs/angular-basics-what-is-angular-material-when-use-when-look-elsewhere
+https://github.com/angular/angular/releases/tag/15.1.0-next.0
+===================
+WEDNESDAY 11/23
