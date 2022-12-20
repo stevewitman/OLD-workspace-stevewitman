@@ -1,45 +1,4 @@
 
-12th 21 https://medium.com/@ruslan.ap2/how-to-create-an-avatar-uploader-with-angular-9fe89ff4fe60
-5 https://dev.to/simon/building-an-angular-app-with-airtable-netlify-functions-1m79
-https://medium.com/@hayk.shirinyan/how-to-create-a-loading-spinner-in-angular-5af935be0a46
-https://medium.com/@marekpanti/angular-standalone-components-e8aa2f24f3fd
-11 https://medium.com/@ruslan.ap2/how-to-create-a-custom-form-control-in-angular-9ad49c68fb66
-=============
-MONDAY 11/14
-1 https://dev.to/pbouillon/taking-your-angular-app-to-code-space-1p6
-2 https://www.youtube.com/watch?v=6swviMNy6t4
-https://medium.com/@Nirmal97/decorators-in-angular-a050b152bdb8
-https://medium.com/@gouravsoni139/recursion-in-html-no-typescript-1043305b7b67
-3 https://www.youtube.com/watch?v=QwcndT1l6Ik
-3 https://www.youtube.com/watch?v=u-2CMJ7QU6k
-5 https://www.youtube.com/watch?v=uo4jWAki-XI
-7  https://www.youtube.com/watch?v=uK-mQgJXI_Q    
-7 https://www.youtube.com/watch?v=EmGwUvs6VpE
-8 https://www.youtube.com/watch?v=8AzZOniWaAo
-9 https://dev.to/angular/angular-eslint-rules-for-aria-3ba1
-13 https://github.com/angular/angular/releases/tag/15.0.0-rc.4
-==============
-TUESDAY
-14th https://dev.to/renaisense_/angular-dependency-injection-understood-iii-4a20
-14th https://dev.to/this-is-angular/pushing-angulars-reactive-limits-router-and-component-store-3g6o
-14th https://dev.to/bitovi/angular-apollo-client-getting-started-with-graphql-in-angular-43kp
-14th https://medium.com/yavar/decorators-in-angular-a050b152bdb8
-14th https://medium.com/ngconf/meetups-dont-just-take-our-word-for-it-1132f9df4625
-14th https://medium.com/@kevinmavani/angular-httpclient-1f4eb6ff3785
-14th https://medium.com/@aayushidoshi97/onpush-change-detection-strategy-with-angular-d3bb19ed96a9
-14th https://medium.com/@leo.merran/memory-leak-in-angular-observable-52eb7750f642
-14th https://medium.com/fundamental-library/advanced-error-handling-in-angular-forms-1b1a7fe1ec88
-14th https://freddycorly.medium.com/make-dialogs-using-the-angular-router-with-named-router-outlets-55343752040a
-14th https://medium.com/@yuvayuvaraj720444/router-07-activated-route-retriew-route-params-fragments-and-query-params-aa86d0117f21
-1 https://medium.com/yavar/observables-ddb6a5d4751d
-6 https://www.youtube.com/watch?v=fWiPmc83tWo
-6 https://www.youtube.com/watch?v=eVXeV-FUwiI
-14th https://medium.com/ngconf/meetups-dont-just-take-our-word-for-it-1132f9df4625
-8 https://www.youtube.com/watch?v=G831oTOWs_8
-12 https://dev.to/codedbychavez/how-to-ab-test-your-angular-application-using-feature-flags-and-amplitude-39h3
-https://www.youtube.com/watch?v=LgnRDkpSNMM
-===========
-WEDNESDAY
 15th https://medium.com/geekculture/angular-extracting-the-exact-value-of-radio-button-groups-and-checkbox-groups-in-template-and-f1706b912aa6
 1 https://medium.com/@asannan822/caching-the-data-using-rxjs-6dda5ce51f46
 6 https://www.youtube.com/watch?v=ywcDUsUIdzE
@@ -169,3 +128,266 @@ SATURDAY 11/26
 8 https://medium.com/@gajendhiranmohan/create-custom-public-packages-using-angular-and-publishing-in-npm-4548d5bf2177
 9 https://thesouvikmitra.medium.com/angular-modules-are-optional-cdcbe7ed7cca
 https://medium.com/@aleksanderkolata/how-to-develop-angular-libraries-locally-ed8e1fd16892
+=================
+SUNDAY 11/27
+26th https://www.youtube.com/watch?v=BKeh1yNt_9U
+26th https://www.youtube.com/watch?v=RdHlm569jIU
+26th https://www.youtube.com/watch?v=sp7QgikQwb4
+3 https://dev.to/chadwinjdeysel/how-to-create-a-table-with-inline-crud-with-angular-14-19e9
+5 https://dev.to/railsstudent/animate-text-shadow-using-rxjs-and-angular-4fd9
+===============
+MONDAY 11/28
+
+27th https://javascript.plainenglish.io/angular-different-ways-and-places-you-can-provide-services-and-their-impact-on-the-singleton-81fc2fe538bf
+27th https://ramya-bala221190.medium.com/angular-different-ways-and-places-you-can-provide-services-and-its-impact-on-singleton-status-of-1e9330c60744
+27th https://medium.com/@stefan.haas.privat/strongly-typed-ngtemplateoutlet-3a3b55057e50
+27th https://medium.com/@Oblivion041/angular-14-build-once-deploy-any-server-74cca887b2ff
+27th https://medium.com/@zakir.ansari/angular-and-net-5-app-deployment-through-azure-devops-ci-cd-pipeline-83655744abd
+27th https://dev.to/ifourtechnolab/ngstyle-in-angular-for-dynamic-styling-2jlc
+2 https://dev.to/this-is-angular/ngfor-enhancement-28o7
+3 https://medium.com/@aayyash/angular-15-standalone-httpclient-provider-another-update-2b7ac6828066
+4 https://dev.to/this-is-learning/5-reasons-to-avoid-imperative-code-e09
+5 https://medium.com/@piyalidas.it/angular-custom-configuration-26598f326b55
+https://medium.com/ngconf/angular-dynamic-component-in-material-dialog-66e5a0949e12
+https://www.telerik.com/blogs/preloading-routes-angular-faster-navigation
+https://www.youtube.com/watch?v=__6EKynv2lo
+https://dev.to/simon/angular-material-mobile-app-with-capacitor-2pjl
+=================
+TUESDAY 11/29
+
+https://medium.com/yavar/building-an-angular-application-in-various-environments-using-angular-cli-and-server-18f94067154b
+3 https://www.youtube.com/watch?v=peun5pXrcJE
+3 https://dev.to/this-is-learning/be-awerness-in-your-codebase-with-nx-1d3j
+3 https://ramya-bala221190.medium.com/angular-ways-and-places-you-can-provide-services-and-the-impact-it-has-on-the-singleton-status-of-4b79a5c6231c
+3 https://devstringx-technologies.medium.com/how-to-add-breadcrumbs-in-angular-application-dc06742184af
+4 https://kushsavani.medium.com/angular-testing-the-easiest-way-to-start-writing-unit-test-case-74b6c8df26d6
+5 https://www.youtube.com/watch?v=zEa-U2A4WgA
+5 https://robert-isaac.medium.com/add-angular-15-missing-files-b90a1dbcea89
+6 https://www.youtube.com/watch?v=UNEkczH_Zfc
+6 https://dev.to/ayyash/angular-15-standalone-httpclient-provider-another-update-32ge
+8 https://chitaranjanbiswal93.medium.com/built-in-directives-in-angular-578ae0e4c7ec
+9 https://dev.to/chadwinjdeysel/how-to-build-a-crud-application-in-angular-14--59fg
+9 https://www.youtube.com/watch?v=NhBdqnYEIM
+10 https://www.youtube.com/watch?v=7koRJKiBQGA
+10 https://dev.to/ngrx/announcing-ngrx-v15-standalone-apis-type-safe-projectors-component-and-componentstore-updates-and-more-l7
+11 https://www.youtube.com/watch?v=cuOjjjfyoUY
+==============
+WEDNESDAY 11/30
+29th https://javascript.plainenglish.io/angular-ways-and-places-you-can-provide-services-and-the-impact-it-has-on-the-singleton-status-of-4b79a5c6231c    
+29th https://dev.to/simon/how-to-create-an-expandable-card-using-ionic-react-3oc9
+29th https://javascript.plainenglish.io/add-angular-15-missing-files-b90a1dbcea89
+1 https://www.danywalls.com/how-to-use-functional-router-guards-in-angular
+1 https://medium.com/@deepachaurasia33/how-to-show-or-hide-component-on-basis-of-route-in-angular-a5c691b099fa
+2 https://dev.to/deepachaurasia1/how-to-show-or-hide-component-on-basis-of-url-in-angular-5134
+6 https://www.youtube.com/watch?v=VKFQzeswhDM
+8 https://www.spreaker.com/user/ng-conf/ap-show-s4e14-jordan-powell-edit-1
+9 https://www.youtube.com/watch?v=NhBdqnYEIMg
+10 https://medium.com/fundamental-library/getting-started-with-fundamental-library-styles-in-angular-project-7bad71446f89
+12 https://medium.com/@huannx.dev/stop-using-shared-module-in-angular-f003d8f61afa  
+13 https://khairuddinniam.hashnode.dev/angular-multiple-custom-user-interface
+13 https://github.com/angular/angular/releases/tag/15.0.2
+14 https://github.com/angular/angular/releases/tag/15.1.0-next.1  
+==============
+THURSDAY 12/01
+
+1 https://dev.to/bacancytechnology/angular-15-is-live-a-choice-to-simplify-the-web-development-25pf
+5 https://altimetrikpoland.medium.com/how-to-develop-angular-libraries-locally-395e60a7247f
+6 webrush https://webrush.io/episodes/episode-212-ag-grid-with-stephen-cooper
+9 https://www.danywalls.com/how-to-use-strictly-typed-reactive-forms-in-angular
+9 https://blog.stackjoy.com/create-an-angular-material-form-using-a-data-model-82bda4b2db6
+12 https://dev.to/chadwinjdeysel/create-an-crud-application-with-inline-table-editing-in-angular-14--1edl
+15 https://youtu.be/_qrJA-VLHOA?t=300
+16 https://dev.to/nightwolfdev/include-api-key-in-http-requests-22jh
+=======================
+FRIDAY 12/02
+https://www.youtube.com/watch?v=Ar_hCJBEG2E
+https://topenddevs.com/podcasts/adventures-in-angular/episodes/how-to-advance-your-career-without-grinding-for-years-aia-361
+1 https://medium.com/@huannx.dev/build-mapper-pipe-angular-1b56089325b6
+13 https://dev.to/blamb31/how-to-use-the-concat-rxjs-operator-to-make-synchronous-http-calls-58f1
+13 Blake Lamb https://dev.to/blamb31/how-to-use-the-forkjoin-rxjs-operator-5ci9
+LAST https://dev.to/this-is-angular/always-use-inject-2do4
+=================
+SATURDAY 12/03
+https://medium.com/@anantharaman44/how-to-implement-custom-cache-busting-for-unmanaged-static-files-in-angular-82dc2c227b98
+https://medium.com/@calanoue/mouse-interactivity-with-svg-mask-e2bbe38bca05
+https://medium.com/@sujithpathilettu/integrating-jest-into-an-angular-library-2afc56824bdc
+https://dev.to/railsstudent/sort-data-without-articles-using-rxjs-and-angular-303i
+3 https://www.youtube.com/watch?v=r7OBgfBdKV4
+7 https://medium.com/@piyalidas.it/angular-error-handling-with-user-friendly-message-6928f2059eb4
+8 https://www.youtube.com/watch?v=Uu8pIOJ-Ffw
+9 https://medium.com/@arjunadappa007/custom-svg-icons-in-angular-material-b4667f6f945d
+9 https://medium.com/@ika.vcc/use-google-map-in-angular-project-4a6fd1a5efab
+9 https://medium.com/@billwalker_29362/amazing-color-changes-enter-the-color-and-the-label-changes-text-or-background-color-instantly-904d7d7a8f14
+9 https://iamcyberster.medium.com/magic-behind-dynamic-components-a643309399de
+============================
+MONDAY 12/05
+https://medium.com/@zsolt.deak/configurable-themes-and-styles-for-big-projects-and-monorepos-angular-example-24be595ff2f8
+https://medium.com/@thomas.laforge/directive-type-checking-3d3c5f1137b3
+https://netbasal.com/implementing-upsert-form-dialogs-in-angular-732197d4936b
+4th https://dev.to/juniordevforlife/what-the-facade-22d4
+4th https://www.youtube.com/watch?v=p4pNs57CAUA
+3 https://dev.to/this-is-angular/typescript-type-predicate-3gbn
+6 https://www.spreaker.com/user/14532324/s3e8-houssein-djirdeh-from-hating-progra
+6 https://www.telerik.com/blogs/angular-v15-shes-here
+6 https://www.youtube.com/watch?v=xVCrCZyV8L0
+9 https://www.youtube.com/watch?v=pegr_NtsRHo
+11 https://www.youtube.com/watch?v=gZ2EMOcUyko
+11 https://www.youtube.com/watch?v=hZ3LaVfALfk
+16 https://www.youtube.com/watch?v=Uuv5XZXIphs
+https://medium.com/ngconf/angular-testing-component-testing-8a26609ecc22
+=================================
+TUESDAY 12/06
+
+6th 20 https://www.youtube.com/watch?v=7uwqUtBxx0U
+6th 21 https://www.youtube.com/watch?v=Dji9lNHVj6k
+6th https://balramchavan.medium.com/troubleshooting-angular-production-build-errors-uncaught-typeerror-cannot-read-properties-of-f84af0de873
+6th https://medium.com/@marekpanti/when-how-to-unsubscribe-from-the-observables-with-rxjs-ea3c07826851
+3 https://dev.to/this-is-angular/directive-type-checking-45oe
+8 https://www.youtube.com/watch?v=itq4KHN8buM
+9 https://www.youtube.com/watch?v=l-r1UzIAdnw
+9 https://www.youtube.com/watch?v=Y8_0C6ID7vE
+LAST https://dev.to/ag-grid/reducing-angular-library-contributions-to-the-main-bundle-3114
+==============================
+WEDNESDAY 12/07
+6th https://medium.com/virtual-minds/angular-localization-in-a-multi-application-workspace-setup-b86819b61abb
+6th https://medium.com/@abhinavakhil55/implementing-cookie-consent-policy-in-angular-f0a8f003d7da
+6th 23 https://www.youtube.com/watch?v=xYv4y0nz08c
+6th https://betterprogramming.pub/rendering-charts-with-web-workers-in-angular-f7ac576e21d1
+6th 23 https://medium.com/@vyakymenko/mastering-angular-routing-92a2eddc0d17
+5 https://dev.to/this-is-angular/ngtemplateoutlet-typed-checked-with-contentchild-2phe
+7 https://www.spreaker.com/user/ng-conf/ap-show-s4e15-shaundai-person-edit-1
+7 https://blog.briebug.com/blog/how-declare-global-variable-angular
+12 https://medium.com/herodevs/navigating-angular-router-events-the-sweet-sixteen-fed8fb8e5f8b
+15 https://github.com/angular/angular/releases/tag/15.0.3
+15 https://github.com/angular/angular/releases/tag/15.1.0-next.2
+===========================
+THURSDAY 12/08
+7th https://medium.com/@danioropezasoria/accessibility-linters-for-angular-applications-224983a27b77
+1 https://dev.to/this-is-angular/using-dependency-injection-to-automatically-unsubscribe-from-an-observable-30fi
+6 https://medium.com/@rogerg93/difference-between-value-and-getrawvalue-in-angular-628d0a26fcbf
+8 https://medium.com/@meydanliugur/angular-ngrx-state-management-d0438482d1d
+12 https://dev.to/blamb31/of-vs-for-how-to-use-each-and-what-is-the-difference-1h9n
+12 https://medium.com/@fsilva0703/reflecting-database-changes-to-web-application-in-real-time-using-signalr-net6-fb487bedd5ed
+13 https://medium.com/@vkcivil62p/build-a-real-time-chat-app-with-angular-node-express-and-socket-io-25e561a8c9d1
+15 https://medium.com/@m.vitzthum/all-the-benefits-angular-universal-offers-installation-and-common-pitfalls-angular-universal-46b11887250a
+=====================
+FRIDAY  12/09
+1 https://medium.com/@vyakymenko/mastering-angular-material-15-ac2f14bdc147
+2 https://dev.to/codever/how-to-configure-and-use-environment-specific-values-in-angular-4bif
+8th https://www.youtube.com/watch?v=OE3hRKFj60U
+5 https://www.youtube.com/watch?v=ejoaJr9MA7w
+10 ****DO THIS **** https://www.youtube.com/watch?v=MXzSD_87puc
+=====================
+SATURDAY 12/10
+9th 23 https://www.youtube.com/watch?v=XhsFrXbwpE8
+3 https://www.youtube.com/watch?v=FKhIeeYeMgU
+3 https://medium.com/@vijay310301s/deploying-angular-application-in-firebase-111d001bdfde
+4 https://www.youtube.com/watch?v=3Sfr2zns1w8
+8 https://www.youtube.com/watch?v=0hxe_DQZByQ
+8 https://vkbharadwazkopalle.medium.com/how-to-inject-http-params-with-interceptors-in-angular-acf4e8b4f4e4
+9 https://netbasal.com/testing-di-functions-in-angular-37a5e7ed75f9
+====================
+SUNDAY 12/11
+
+4 https://medium.com/@ey684241/structure-pipe-in-angular-819b71dc7b3f
+5 https://sergeygultyayev.medium.com/rxjs-in-angular-44c9d3b3fdb1
+7  https://dev.to/railsstudent/manipulate-video-times-using-rxjs-and-angular-o57
+10 https://www.youtube.com/watch?v=255ceEstK0g
+12 https://dev.to/stevenmclintock/show-validation-error-messages-for-reactive-forms-in-angular-4ehg
+22 https://www.youtube.com/watch?v=yMssRnG9K5Q
+===============================
+MONDAY 12/12
+11th https://medium.com/@piyalidas.it/angular-logging-http-requests-http-errors-fc8b9123204c
+2 https://dev.to/ayyash/creating-a-loading-effect-using-rxjs-in-angular-560b
+2 https://dev.to/this-is-angular/ngtemplateoutlet-typed-checking-part-2inline-4hc0
+2 https://youtu.be/IrECQyhvbVE  (((ControlValueAccessor)))
+2 https://youtu.be/3WOokZnVZCU  (((ControlValueAccessor)))
+4 https://youtu.be/emnwsVy8wRs
+5 LAST https://www.telerik.com/blogs/angular-basics-how-best-use-fonts-angular
+https://medium.com/syncfusion/easily-generate-bulk-reports-using-mail-merge-in-angular-cbf9ddb8fa3
+https://medium.com/@birkantugcu/reusable-routable-modals-for-angular-projects-7fc4c9f8a681
+https://royeraadames.medium.com/angular-how-to-unsubscribe-from-multiple-subscriptions-e6c69cffba1a
+==============================
+TUESDAY 12/13
+12th 18 https://www.youtube.com/watch?v=NNdEDaGxEzo
+12th 20 https://www.youtube.com/watch?v=ygPBoyc7YuY
+12th https://javascript.plainenglish.io/create-an-employee-satisfaction-survey-using-angular-and-store-results-in-a-mongodb-collection-388245c76f55
+7 https://www.youtube.com/watch?v=SEAO1SieF1A
+7 https://www.youtube.com/watch?v=QbDkDLnXAZE
+8 https://www.youtube.com/watch?v=U9Xo0wXZIAg
+17 https://www.youtube.com/watch?v=diQadoEHBZg
+17 https://www.youtube.com/watch?v=0oS0MAAH2tA
+================================
+WEDNESDAY 12/14
+12th https://www.youtube.com/watch?v=faszq8qipNI
+2 https://www.youtube.com/watch?v=71z8m7vT5S0
+7 A+ https://www.spreaker.com/user/ng-conf/ap-show-s4e16-emma-twersky-edit-1
+10 https://www.danywalls.com/tip-how-to-speed-angular-build-with-esbuild
+10 https://dev.to/this-is-angular/publishing-your-first-library-with-nx-on-npm-fhk
+13 https://github.com/angular/angular/releases/tag/15.0.4
+13 https://github.com/angular/angular/releases/tag/15.1.0-next.3
+=======================
+THURSDAY 12/15
+14th https://medium.com/@sagar007120/create-custom-filter-pagination-pipe-in-angular-chained-pipes-4758e717593e
+14th https://royeraadames.medium.com/angular-uniting-window-location-58447272b902
+4 https://medium.com/@eugeniyoz/why-you-dont-need-observable-inputs-in-your-angular-components-25e74cfe234d
+4 https://dev.to/surveyjs/angular-support-for-surveyjs-form-library-and-creator-14g9
+5 https://chitaranjanbiswal93.medium.com/dependency-injection-in-angular-196c7e6fcd2a
+5 https://medium.com/ngconf/angular-dynamic-component-in-material-dialog-with-dependencies-ee90e3192cab
+6 https://dev.to/refine/material-ui-checkbox-1pf4
+7 https://webrush.io/episodes/episode-214-securing-your-web-apps-and-source-code-with-feross-aboukhadijeh
+8 https://dev.to/prathameshdev123/whats-new-in-angular-15-2l6b
+8 https://dev.to/dzinxed/a-new-way-of-ordering-guards-in-angular-24do
+9 https://dev.to/syncfusion/debug-angular-apps-easily-using-angular-devtools-c1l
+10 https://topenddevs.com/podcasts/adventures-in-angular/episodes/angular-15-the-good-parts-aia-362
+======================================================
+FRIDAY 12/16
+15th https://medium.com/@yuvayuvaraj720444/angular-router-11-can-activate-guard-made-easy-7197f7263e04
+15th https://medium.com/@sagar007120/how-to-create-custom-typescript-decorators-in-angular-ac907324e30d
+15th https://www.youtube.com/watch?v=VfXvJGL7qGk
+3 https://www.youtube.com/watch?v=HHtmCeTcCvM
+5 https://www.youtube.com/watch?v=axD9DFr280w
+6 https://www.youtube.com/watch?v=UPqj3cZryqU
+8 https://www.youtube.com/watch?v=4QfhEXN1Qms
+10 https://www.youtube.com/watch?v=RAxTDKMoe9o
+12 https://www.youtube.com/watch?v=YvuUsuLckPA
+==========================
+SATURDAY 12/17
+16th https://www.youtube.com/watch?v=KbulE-_vyws
+16th https://youtu.be/tfxxeknwsi8?t=3459
+16th https://www.youtube.com/watch?v=-GzhWNoATWs
+6 https://www.youtube.com/watch?v=UmqKEPPeZyg
+6 https://medium.com/@bansal.suneet/angular-custom-code-generator-in-action-6dc131b1889e
+6 https://medium.com/@bansal.suneet/angular-with-ngrx-b6e13692a4b8
+7 https://medium.com/@bansal.suneet/improve-angular-page-performance-web-worker-7e5de0fdf646
+12 https://dev.to/cyberdelahoz95/including-standalone-components-in-your-module-based-angular-application-routes-2ei2
+12 https://dev.to/chocho01/angular-universal-with-standalone-component-206c
+
+==============================
+DECEMBER 12/18
+17th https://medium.com/@inesatoroyan/optimization-of-angular-apps-for-dummies-how-and-why-9477112a23b5
+17th https://mryenagandula.medium.com/angular-template-driven-forms-incl-validation-messages-learn-it-in-14-steps-71f1d6684ecf
+17th https://medium.com/@yuvayuvaraj720444/angular-router-12-can-deactivate-guard-9d908a0aa637
+17th https://dev.to/mchoraine/angular-universal-with-standalone-component-206c
+17th 20 https://dev.to/railsstudent/take-photos-with-web-camera-using-rxjs-and-angular-8fn
+17th 22 https://dev.to/kylerummens/supabase-angular-authentication-with-rxjs-observables-3d0f
+11 https://www.youtube.com/watch?v=v7AsBFNsDJs
+===========
+DECEMBER 12/19
+18th https://medium.com/@ivandztitan/handle-internet-connection-lost-and-server-issues-with-angular-interceptor-d5d00fa78ce6
+1 https://www.youtube.com/watch?v=POUPg9SeEeg
+2 https://www.youtube.com/watch?v=taEtp-Hc9yQ 
+2 https://www.youtube.com/watch?v=7rlwryYhGzs
+3 https://netbasal.com/optimizing-angular-form-validation-with-lazy-load-61265536a6f2
+3 https://dev.to/this-is-angular/mastering-injectable-services-a-comprehensive-guide-3kjg
+4 ***** https://medium.com/blazed-dev/building-a-serverless-angular-app-with-firebase-cloud-functions-448b13418c7f
+5 https://medium.com/blazed-dev/building-a-real-time-chat-app-with-firebase-and-angular-87c484424451
+7 https://youtu.be/yGLMwtKG0yA?t=2
+8 https://dev.to/2kabhishek/how-to-use-angular-provider-10c
+
+
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+footbalL*380220
+
+
