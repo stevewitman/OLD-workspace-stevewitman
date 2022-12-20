@@ -1,46 +1,21 @@
 
-15th https://medium.com/geekculture/angular-extracting-the-exact-value-of-radio-button-groups-and-checkbox-groups-in-template-and-f1706b912aa6
-1 https://medium.com/@asannan822/caching-the-data-using-rxjs-6dda5ce51f46
-6 https://www.youtube.com/watch?v=ywcDUsUIdzE
-7 https://dev.to/georgek/how-to-implement-angular-localization-2bg5
-7 https://dev.to/nx/battle-testing-nx-console-with-e2e-tests-5b9
-7 https://www.spreaker.com/user/ng-conf/ap-show-s4e13-jay-cooper-bell-edit-2
-7 https://dev.to/bitovi/getting-started-with-rxjs-all-you-need-to-know-about-observables-4dk9
-10 https://dev.to/this-is-angular/pushing-angulars-reactive-limits-event-context-toastsdialogs-1gep
-10 https://www.youtube.com/watch?v=PwCHpsRJkMM
-10 https://github.com/angular/angular/releases/tag/14.2.11
-11 https://github.com/angular/angular/releases/tag/15.0.0
-13 https://dev.to/this-is-angular/overview-over-angulars-repositories-5la
-15 https://www.youtube.com/watch?v=ASb7rjkfXf0
-https://www.youtube.com/watch?v=z12fxor21gA
-last https://blog.angular.io/angular-v15-is-now-available-df7be7f2f4c8
-===================
-THURSDAY 11/17
-16th https://medium.com/@max_kurylo/rxjs-for-kids-461636d8b689
-16th https://medium.com/ngconf/use-data-to-style-your-angular-components-3684b47a984d
-16th 16 https://www.youtube.com/watch?v=Z-vwuG_szVk
-16th 23 https://www.youtube.com/watch?v=FmcSqJ-leDQ
-1 https://dev.to/bitovi/angular-v15-directive-composition-api-28an
-4 https://medium.com/@emanueleielo/how-to-easily-lazy-load-an-angular-component-in-5-minutes-843955b95d62
-6 AiA https://topenddevs.com/podcasts/adventures-in-angular/episodes/change-detection-method-in-angular-aia-359
-7 webrussh https://webrush.io/episodes/episode-210-component-testing-with-ely-lucas
-7 https://www.youtube.com/watch?v=aSkbw9v7JMQ
-9 https://www.youtube.com/watch?v=bihanbsgsoQ
-9 https://www.youtube.com/watch?v=pOuqxt8QSgQ
-13 https://dev.to/krisplatis/your-seo-in-danger-angular-universal-ignores-errors-in-your-app-1p0b
+7 
+9 
+9 
+13 
 =================
 FRIDAY 11/18
-17th https://medium.com/@nillcon248/how-does-di-work-inside-angular-fc3589a42d0f
-17th https://medium.com/@madankar.hritik/how-to-create-read-more-less-button-using-angular-directive-54a3927f2e5f
-17th https://javascript.plainenglish.io/subject-rxjs-angular-example-b35332482cd
-https://medium.com/@yagmurgazezoglu/angular-authentication-canactivate-canactivatechild-guards-1b25772ec62a
-https://dev.to/this-is-angular/ngrx-effect-vs-reducer-vs-selector-11bl
-https://medium.com/@thomas.laforge/ngrx-effect-vs-reducer-vs-selector-58337ab59043
-https://dev.to/deepachaurasia1/possible-ways-to-send-data-through-routing-in-angular-5g3n
-https://www.youtube.com/watch?v=hnVckmM6GZk
-https://youtu.be/j2_NnV7nU6s?t=125
-https://www.youtube.com/watch?v=tKwHbxjp0Qw
-last https://www.youtube.com/watch?v=jHezyEB-lTI
+17th 
+17th 
+17th 
+
+
+
+
+
+
+
+last 
 ==========
 SATURDAY 11/19
 18th 22 https://www.youtube.com/watch?v=5C_HmD94gGE
@@ -362,7 +337,6 @@ SATURDAY 12/17
 7 https://medium.com/@bansal.suneet/improve-angular-page-performance-web-worker-7e5de0fdf646
 12 https://dev.to/cyberdelahoz95/including-standalone-components-in-your-module-based-angular-application-routes-2ei2
 12 https://dev.to/chocho01/angular-universal-with-standalone-component-206c
-
 ==============================
 DECEMBER 12/18
 17th https://medium.com/@inesatoroyan/optimization-of-angular-apps-for-dummies-how-and-why-9477112a23b5
@@ -384,6 +358,15 @@ DECEMBER 12/19
 5 https://medium.com/blazed-dev/building-a-real-time-chat-app-with-firebase-and-angular-87c484424451
 7 https://youtu.be/yGLMwtKG0yA?t=2
 8 https://dev.to/2kabhishek/how-to-use-angular-provider-10c
+==========================
+DECEMBER 12/20
+19th https://www.telerik.com/blogs/angular-basics-intro-interceptors
+5 https://dev.to/this-is-angular/animationfactory-how-angular-creates-animation-renderers-1m6b
+6 https://www.youtube.com/results?search_query=Standalone+Applications+with+Nx&sp=EgIIAg%253D%253D
+6 https://dev.to/lambdatest/cypress-end-to-end-testing-tutorial-a-detailed-guide-25m6
+6 https://medium.com/@piyalidas.it/typescript-map-realtime-example-1ea922b5abf1
+7 https://www.youtube.com/watch?v=RhaDn0ZcmOg
+12 https://dev.to/angular/does-angular-support-generic-component-types-4fkm
 
 
 
