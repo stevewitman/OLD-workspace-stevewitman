@@ -1,45 +1,11 @@
 
-7 
-9 
-9 
-13 
-=================
-FRIDAY 11/18
-17th 
-17th 
-17th 
-
-
-
-
-
-
-
-last 
-==========
-SATURDAY 11/19
-18th 22 https://www.youtube.com/watch?v=5C_HmD94gGE
-18th 22 https://dev.to/railsstudent/synchronize-data-with-local-storage-using-rxjs-and-angular-21mf
-18th 23 https://www.youtube.com/watch?v=UxH6K6d29PA
-8 https://www.youtube.com/watch?v=V1yQ5ouMFyk
-9 https://roxanahalati.hashnode.dev/using-feature-flags-in-an-angular-application
-20 https://www.youtube.com/watch?v=P3apBRL3RZc
-===========
-SUNDAY 11-20
-6 https://medium.com/@piyalidas.it/angular-component-unit-testcase-with-subscription-service-3465f44c3589
-7 https://vasily-ivanov.medium.com/instanceof-in-angular-html-templates-63f23d497242
-https://medium.com/@aonuada5/communication-between-components-in-angular-1170ae97a4b9
-https://thesouvikmitra.medium.com/angular-router-guards-cba8aee72e11
-
-================
-MONDAY 11/21
-20th https://novoselski.tech/are-standalone-components-changing-the-way-we-write-angular-code-4abc0f92af94
-20th https://medium.com/@piyalidas.it/rxjs-most-common-operators-54ac553a84f4
-8 https://www.youtube.com/watch?v=t1r7-QbkfZM
-11 https://github.com/angular/angular/releases/tag/14.2.12
-11 https://github.com/angular/angular/releases/tag/13.3.12
-14 https://welko.hashnode.dev/sharpen-your-ngrx-effects
-14 https://dev.to/stevewhitmore/angular-unit-tests-common-pain-points-4366
+20th 
+20th 
+8 
+11 
+11 
+14 
+14 
 =================
 TUESDAY
 21st https://medium.com/@anas.zeouinene/angular-15-in-brief-912e0510a821
