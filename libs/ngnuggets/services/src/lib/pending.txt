@@ -1,54 +1,4 @@
 
-20th 
-20th 
-8 
-11 
-11 
-14 
-14 
-=================
-TUESDAY
-21st https://medium.com/@anas.zeouinene/angular-15-in-brief-912e0510a821
-21st https://its-dibo.medium.com/angular-v15-is-here-do-more-code-less-8c6d67f24d89
-21st https://www.youtube.com/watch?v=LLj5lQ-UfAQ
-21st https://www.youtube.com/watch?v=WoktGeSqiEs
-21st https://javascript.plainenglish.io/angular-2-ways-you-can-perform-crossfield-validationin-reactive-forms-6a9b688b8cff
-21st https://medium.com/@ChiragPrajapati81/bootstrapping-an-application-in-angular-b84326a9ed73
-5 https://dev.to/rachgrey/angular-performance-optimization-top-tips-and-tricks-1be8
-6 https://www.youtube.com/watch?v=kzjakHu6o8s
-6 https://www.youtube.com/watch?v=Z9U9-VRN_XU
-7 https://dev.to/ayyash/anchor-scrolling-in-angular-1om1
-10 https://angularexperts.io/blog/angular-template-context
-11 https://github.com/angular/angular/releases/tag/12.2.17
-12 https://www.youtube.com/watch?v=3zOnJfTo8Gw
-https://www.telerik.com/blogs/angular-basics-what-is-angular-material-when-use-when-look-elsewhere
-https://github.com/angular/angular/releases/tag/15.1.0-next.0
-https://github.com/angular/angular/releases/tag/15.0.1
-===================
-WEDNESDAY 11/23
-21st https://medium.com/@ChiragPrajapati81/angular-building-blocks-fd47e2261743
-22nd https://netbasal.com/making-dry-conditional-structural-directives-using-angular-directive-composition-api-bc346672445d
-22nd https://akchauhan556.medium.com/angular-v15-is-now-available-find-all-the-new-features-changes-and-refinements-bb0dcca6e82b
-22nd https://medium.com/@aayushidoshi97/unit-testing-in-angular-application-using-jasmine-and-karma-7ce5566aa457
-22nd https://medium.com/@mariokandut/how-to-write-a-custom-eslint-rule-6206deedaffd
-2 https://tiwarivikas.medium.com/reactive-form-key-accessor-angular-bd2bb4066fa1
-4 https://dev.to/this-is-angular/ngrx-use-cases-part-ii-working-with-lists-1j58
-5 https://www.youtube.com/watch?v=JouhqQ8N9Mc
-6 https://www.youtube.com/watch?v=b15B2vgFMts
-7 https://mts88.medium.com/object-detection-with-angular-firebase-and-google-cloud-vision-acb69bc5f07
-10 https://medium.com/nerd-for-tech/lazy-loading-modules-in-angular-c3cfca72d21e
-12 https://www.youtube.com/watch?v=Z86lHIBz5TE
-===============
-THURSDAY 11/24
-https://medium.com/geekculture/angular-showing-loading-spinner-and-error-messages-with-custom-async-validator-in-reactive-forms-5fae1fedf1f1
-23rd 23 https://www.youtube.com/watch?v=BF4ivVD7wc8
-1 https://www.youtube.com/watch?v=6nCXwq5qgto
-7 https://webrush.io/episodes/episode-211-deploying-web-apps-in-containers
-8 https://topenddevs.com/podcasts/adventures-in-angular/episodes/unsubscribing-observables-on-component-destroy-with-lucas-paganini-aia-360
-8 https://www.youtube.com/watch?v=K9FeVmBQW8o
-8 https://www.youtube.com/watch?v=bRqKImogb2k
-======================
-FRIDAY 11/25
 24th https://www.youtube.com/watch?v=PzhHSLzl6sc
 24th https://www.youtube.com/watch?v=9XCmmRdtkQ8
 24th https://dev.to/gaetanrdn/angular-15-hostdirectives-287b
@@ -333,7 +283,14 @@ DECEMBER 12/20
 6 https://medium.com/@piyalidas.it/typescript-map-realtime-example-1ea922b5abf1
 7 https://www.youtube.com/watch?v=RhaDn0ZcmOg
 12 https://dev.to/angular/does-angular-support-generic-component-types-4fkm
+13 https://www.youtube.com/watch?v=Pn9-v_WAplg
+18 https://www.youtube.com/watch?v=sDltcRbycNM
+============================
+WEDNESDAY 12/21
 
+3 https://www.youtube.com/watch?v=Vtitveu5H38
+7 A+ https://www.spreaker.com/user/ng-conf/ap-show-s4e17-sandi-barr-edit-2
+8 https://www.youtube.com/watch?v=ckxCgNE3SPI
 
 
 $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$

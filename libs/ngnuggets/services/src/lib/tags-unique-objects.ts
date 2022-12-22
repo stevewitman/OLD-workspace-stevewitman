@@ -46,7 +46,7 @@ export const tags = [
   { cat: 'Angular', tag: 'Class Binding' },
   { cat: 'Angular', tag: 'Components' },
   { cat: 'Angular', tag: 'Content Projection' },
-  { cat: 'Angular', tag: 'Composition API' },
+  { cat: 'Angular', tag: 'Directive Composition' },
   { cat: 'Angular', tag: 'ControlContainer' },
   { cat: 'Angular', tag: 'ControlValueAccessor' },
   { cat: 'Angular', tag: 'Data Binding' },
