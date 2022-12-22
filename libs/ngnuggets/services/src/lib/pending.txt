@@ -1,31 +1,9 @@
 
-24th https://www.youtube.com/watch?v=PzhHSLzl6sc
-24th https://www.youtube.com/watch?v=9XCmmRdtkQ8
-24th https://dev.to/gaetanrdn/angular-15-hostdirectives-287b
-24th https://medium.com/@yuvayuvaraj720444/router-08-child-routes-and-nested-child-routes-3ce66269e9ae
-24th https://medium.com/@parserdigital/dependency-injection-in-angular-840b6e734020
-9 https://www.youtube.com/watch?v=2S6FVt-tQ7M
-15 https://www.youtube.com/watch?v=CcBFtYxE4P4
-17 https://dev.to/renancferro/understanding-standalone-component-and-modularized-component-4kbf
-=============
-SATURDAY 11/26
-25th https://medium.com/@piyalidas.it/endpoint-creation-use-in-angular-service-9fb0db5bf339
-25th https://medium.com/@techlearn/learn-how-to-split-your-angular-app-into-modules-includes-lazy-loading-748fb064188c
-25th https://medium.com/@piyalidas.it/enum-for-membership-type-with-example-in-angular-91a9ffb6722b
-25th https://medium.com/@GergelySzerovay/how-to-create-angular-libraries-and-publish-them-with-an-example-73ee45b32916
-25th https://medium.com/@nrsenthil/a-smart-component-for-angular-projects-57d30d6fadbc
-25th https://blog.devgenius.io/how-to-use-and-customize-angular-material-snackbars-fran-prieto-ec678fc90348
-7 https://sreyaj.dev/select-implementation-using-angular-cdk-selection-model
-8 https://medium.com/@gajendhiranmohan/create-custom-public-packages-using-angular-and-publishing-in-npm-4548d5bf2177
-9 https://thesouvikmitra.medium.com/angular-modules-are-optional-cdcbe7ed7cca
-https://medium.com/@aleksanderkolata/how-to-develop-angular-libraries-locally-ed8e1fd16892
-=================
-SUNDAY 11/27
-26th https://www.youtube.com/watch?v=BKeh1yNt_9U
-26th https://www.youtube.com/watch?v=RdHlm569jIU
-26th https://www.youtube.com/watch?v=sp7QgikQwb4
-3 https://dev.to/chadwinjdeysel/how-to-create-a-table-with-inline-crud-with-angular-14-19e9
-5 https://dev.to/railsstudent/animate-text-shadow-using-rxjs-and-angular-4fd9
+26th 
+26th 
+26th 
+3 
+5 
 ===============
 MONDAY 11/28
 
