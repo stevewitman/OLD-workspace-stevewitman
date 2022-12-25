@@ -44,6 +44,7 @@ export const tags = [
   { cat: 'Angular', tag: 'Change Detection' },
   { cat: 'Angular', tag: 'ChangeDetectorRef' },
   { cat: 'Angular', tag: 'Class Binding' },
+  { cat: 'Angular', tag: 'ComponentRef' },
   { cat: 'Angular', tag: 'Components' },
   { cat: 'Angular', tag: 'Content Projection' },
   { cat: 'Angular', tag: 'Directive Composition' },
