@@ -55920,6 +55920,154 @@
         "tags": ["Release"]
       }
     ] 
+  },
+  {
+    "date": "2022-12-08",
+    "dailyPosts": [
+      {
+        "slug": "2022-12-08-A",
+        "type": "blog",
+        "title": "Accessibility Linters for Angular applications",
+        "url": "https://medium.com/@danioropezasoria/accessibility-linters-for-angular-applications-224983a27b77",
+        "desc": "This is an explanatory and tutorial article of the best technologies for accessibility linters for Angular applications. By linter we refer to static code analysis.",
+        "dAdd": "2022-12-08",
+        "dSrc": "2022-12-07",
+        "srcSite": "Medium",
+        "srcUrl": "https://medium.com",
+        "aName": "Danioropezasoria",
+        "aUrl": "https://medium.com/@danioropezasoria",
+        "spkrs": [],
+        "tags": []
+      },
+      {
+        "slug": "2022-12-08-B",
+        "type": "blog",
+        "title": "Using dependency injection to automatically unsubscribe from an Observable",
+        "url": "https://dev.to/this-is-angular/using-dependency-injection-to-automatically-unsubscribe-from-an-observable-30fi",
+        "desc": "In some projects that I worked on, people usually write this code to unsubscribe from an Observable in a component.",
+        "dAdd": "2022-12-08",
+        "dSrc": "2022-12-08",
+        "srcSite": "DEV Community",
+        "srcUrl": "https://dev.to",
+        "aName": "Hien Pham",
+        "aUrl": "https://dev.to/hienhuupham",
+        "spkrs": ["Hien Pham"],
+        "tags": ["Dependency Injection", "Observables", "Subscriptions"]
+      },
+      {
+        "slug": "2022-12-08-C",
+        "type": "blog",
+        "title": "Benefits Of Angular Universal + Installation Guide And How To Avoid Common Pitfalls",
+        "url": "https://medium.com/@m.vitzthum/all-the-benefits-angular-universal-offers-installation-and-common-pitfalls-angular-universal-46b11887250a",
+        "desc": "Angular Universal is a technology that allows developers to run Angular applications on the server, enabling server-side rendering and improved performance, SEO, security, and server-side capabilities.",
+        "dAdd": "2022-12-08",
+        "dSrc": "2022-12-08",
+        "srcSite": "Medium",
+        "srcUrl": "https://medium.com",
+        "aName": "Maximilian V",
+        "aUrl": "https://medium.com/@maximilianv",
+        "spkrs": [],
+        "tags": ["Angular Universal"]
+      },
+      {
+        "slug": "2022-12-08-D",
+        "type": "blog",
+        "title": "'Of' vs 'From' - How to use each and what is the difference?",
+        "url": "https://dev.to/blamb31/of-vs-for-how-to-use-each-and-what-is-the-difference-1h9n",
+        "desc": "This article will dive into the use cases for the 'of' and 'from' RxJs Operators. We will cover what each do individually to allow you to find their differences. Finally, examples will be given for each operator to further help you apply them to your own work.",
+        "dAdd": "2022-12-08",
+        "dSrc": "2022-12-08",
+        "srcSite": "DEV Community",
+        "srcUrl": "https://dev.to",
+        "aName": "Blake Lamb",
+        "aUrl": "https://dev.to/blamb31",
+        "spkrs": ["Blake Lamb"],
+        "tags": ["RxJS", "of()", "from()"]
+      }
+    ] 
+  },
+  {
+    "date": "2022-12-09",
+    "dailyPosts": [
+      {
+        "slug": "2022-12-09-A",
+        "type": "blog",
+        "title": "Mastering Angular Material 15",
+        "url": "https://medium.com/@vyakymenko/mastering-angular-material-15-ac2f14bdc147",
+        "desc": "Angular Material is a popular UI library for Angular developers, designed to help create consistent, modern, and functional user interfaces.",
+        "dAdd": "2022-12-09",
+        "dSrc": "2022-12-09",
+        "srcSite": "Medium",
+        "srcUrl": "https://medium.com",
+        "aName": "Valentyn Yakymenko",
+        "aUrl": "https://medium.com/@vyakymenko",
+        "spkrs": ["Valentyn Yakymenko"],
+        "tags": ["Angular Material"]
+      },
+      {
+        "slug": "2022-12-09-B",
+        "type": "blog",
+        "title": "How to configure and use environment specific values in Angular",
+        "url": "https://dev.to/codever/how-to-configure-and-use-environment-specific-values-in-angular-4bif",
+        "desc": "First define different environment files for the environments you might have under the project's src/environments/ folder. Below there is an extract from environment.ts (used for development) and environment.prod.ts used for production:",
+        "dAdd": "2022-12-09",
+        "dSrc": "2022-12-08",
+        "srcSite": "DEV Community",
+        "srcUrl": "https://dev.to",
+        "aName": "Codever",
+        "aUrl": "https://dev.to/codever",
+        "spkrs": [],
+        "tags": ["Configuration"]
+      },
+      {
+        "slug": "2022-12-09-C",
+        "type": "video",
+        "dur": "56",
+        "title": "Mountain View and San Francisco Angular Nov/Dec Virtual Meetup",
+        "url": "https://youtu.be/OE3hRKFj60U?t=116",
+        "desc": "Join us for November/December virtual meetup! Register online at goo.gle/mtv-sf-meet.",
+        "dAdd": "2022-12-09",
+        "dSrc": "2022-12-09",
+        "srcSite": "YouTube",
+        "srcUrl": "https://youtube.com",
+        "aName": "",
+        "aUrl": "",
+        "spkrs": ["Minko Gechev", "Ward Bell", "Mark Thompson"],
+        "tags": ["Template Driven Forms"]
+      },
+      {
+        "slug": "2022-12-09-D",
+        "type": "video",
+        "dur": "4",
+        "title": "#13.29 - FormBuilder.array() function for FormArray with FormGroup - Reactive Form - Angular Series",
+        "url": "https://www.youtube.com/watch?v=ejoaJr9MA7w",
+        "desc": "In this video, we will understand how to array() function in the FormBuilder class can be used to create a FormArray object that contains FromGroup.",
+        "dAdd": "2022-12-09",
+        "dSrc": "2022-12-09",
+        "srcSite": "YouTube",
+        "srcUrl": "https://youtube.com",
+        "aName": "SIMPL Academy",
+        "aUrl": "https://www.youtube.com/@simplacademy/videos",
+        "spkrs": [],
+        "tags": ["Reactive Forms", "Forms", "FormBuilder", "FormArray", "FormGroup"]
+      },
+      {
+        "slug": "2022-12-09-E",
+        "type": "video",
+        "dur": "12",
+        "title": "Angular 15 Update | Best Way To Update ANY Angular APP",
+        "url": "https://www.youtube.com/watch?v=MXzSD_87puc",
+        "desc": "Let's learn the easiest and quickest way to upgrade any Angular application to its latest version. In this video, we are primarily upgrading to Angular v15. Also, as there are a lot of breaking changes with this update (especially in the Angular Material 15 library), we will learn how to handle that as well.",
+        "dAdd": "2022-12-09",
+        "dSrc": "2022-12-09",
+        "srcSite": "YouTube",
+        "srcUrl": "https://youtube.com",
+        "aName": "Kritika & Pranav",
+        "aUrl": "https://www.youtube.com/@programmercouple/videos",
+        "spkrs": [],
+        "tags": ["Update"]
+      }
+    ] 
   }
 ]
  

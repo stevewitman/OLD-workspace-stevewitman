@@ -1,20 +1,3 @@
-
-7th https://medium.com/@danioropezasoria/accessibility-linters-for-angular-applications-224983a27b77
-1 https://dev.to/this-is-angular/using-dependency-injection-to-automatically-unsubscribe-from-an-observable-30fi
-6 https://medium.com/@rogerg93/difference-between-value-and-getrawvalue-in-angular-628d0a26fcbf
-8 https://medium.com/@meydanliugur/angular-ngrx-state-management-d0438482d1d
-12 https://dev.to/blamb31/of-vs-for-how-to-use-each-and-what-is-the-difference-1h9n
-12 https://medium.com/@fsilva0703/reflecting-database-changes-to-web-application-in-real-time-using-signalr-net6-fb487bedd5ed
-13 https://medium.com/@vkcivil62p/build-a-real-time-chat-app-with-angular-node-express-and-socket-io-25e561a8c9d1
-15 https://medium.com/@m.vitzthum/all-the-benefits-angular-universal-offers-installation-and-common-pitfalls-angular-universal-46b11887250a
-=====================
-FRIDAY  12/09
-1 https://medium.com/@vyakymenko/mastering-angular-material-15-ac2f14bdc147
-2 https://dev.to/codever/how-to-configure-and-use-environment-specific-values-in-angular-4bif
-8th https://www.youtube.com/watch?v=OE3hRKFj60U
-5 https://www.youtube.com/watch?v=ejoaJr9MA7w
-10 ****DO THIS **** https://www.youtube.com/watch?v=MXzSD_87puc
-=====================
 SATURDAY 12/10
 9th 23 https://www.youtube.com/watch?v=XhsFrXbwpE8
 3 https://www.youtube.com/watch?v=FKhIeeYeMgU
@@ -169,6 +152,10 @@ SATURDAY 12/24
 23rd https://www.youtube.com/watch?v=5mNhz5nFhPc
 23rd https://topenddevs.com/podcasts/adventures-in-angular/episodes/state-management-with-rxjs-aia-363
 6 https://www.youtube.com/watch?v=r7XdE8UIffk
+=================
+SUNDAY 12/25
+
+24th 20 https://dev.to/railsstudent/create-custom-operators-to-sum-and-sort-rxjs-streams-4p4k
 
 
 $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
