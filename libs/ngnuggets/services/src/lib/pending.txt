@@ -1,35 +1,4 @@
 
-FRIDAY 12/16
-15th https://medium.com/@yuvayuvaraj720444/angular-router-11-can-activate-guard-made-easy-7197f7263e04
-15th https://medium.com/@sagar007120/how-to-create-custom-typescript-decorators-in-angular-ac907324e30d
-15th https://www.youtube.com/watch?v=VfXvJGL7qGk
-3 https://www.youtube.com/watch?v=HHtmCeTcCvM
-5 https://www.youtube.com/watch?v=axD9DFr280w
-6 https://www.youtube.com/watch?v=UPqj3cZryqU
-8 https://www.youtube.com/watch?v=4QfhEXN1Qms
-10 https://www.youtube.com/watch?v=RAxTDKMoe9o
-12 https://www.youtube.com/watch?v=YvuUsuLckPA
-==========================
-SATURDAY 12/17
-16th https://www.youtube.com/watch?v=KbulE-_vyws
-16th https://youtu.be/tfxxeknwsi8?t=3459
-16th https://www.youtube.com/watch?v=-GzhWNoATWs
-6 https://www.youtube.com/watch?v=UmqKEPPeZyg
-6 https://medium.com/@bansal.suneet/angular-custom-code-generator-in-action-6dc131b1889e
-6 https://medium.com/@bansal.suneet/angular-with-ngrx-b6e13692a4b8
-7 https://medium.com/@bansal.suneet/improve-angular-page-performance-web-worker-7e5de0fdf646
-12 https://dev.to/cyberdelahoz95/including-standalone-components-in-your-module-based-angular-application-routes-2ei2
-12 https://dev.to/chocho01/angular-universal-with-standalone-component-206c
-==============================
-DECEMBER 12/18
-17th https://medium.com/@inesatoroyan/optimization-of-angular-apps-for-dummies-how-and-why-9477112a23b5
-17th https://mryenagandula.medium.com/angular-template-driven-forms-incl-validation-messages-learn-it-in-14-steps-71f1d6684ecf
-17th https://medium.com/@yuvayuvaraj720444/angular-router-12-can-deactivate-guard-9d908a0aa637
-17th https://dev.to/mchoraine/angular-universal-with-standalone-component-206c
-17th 20 https://dev.to/railsstudent/take-photos-with-web-camera-using-rxjs-and-angular-8fn
-17th 22 https://dev.to/kylerummens/supabase-angular-authentication-with-rxjs-observables-3d0f
-11 https://www.youtube.com/watch?v=v7AsBFNsDJs
-===========
 DECEMBER 12/19
 18th https://medium.com/@ivandztitan/handle-internet-connection-lost-and-server-issues-with-angular-interceptor-d5d00fa78ce6
 1 https://www.youtube.com/watch?v=POUPg9SeEeg
