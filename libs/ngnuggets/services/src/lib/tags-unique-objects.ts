@@ -157,6 +157,7 @@ export const tags = [
   { cat: 'Angular', tag: 'ngTemplateOutletInjector' },
   { cat: 'Angular', tag: 'nonNullable' },
   { cat: 'Angular', tag: 'patchValue()' },
+  { cat: 'Angular', tag: 'providedIn' },
   { cat: 'Angular', tag: 'rawSrc' },
   { cat: 'Angular', tag: 'rawSrcset' },
   { cat: 'Angular', tag: 'reeset()' },

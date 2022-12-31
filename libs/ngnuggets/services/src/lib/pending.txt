@@ -1,38 +1,3 @@
-
-DECEMBER 12/19
-18th https://medium.com/@ivandztitan/handle-internet-connection-lost-and-server-issues-with-angular-interceptor-d5d00fa78ce6
-1 https://www.youtube.com/watch?v=POUPg9SeEeg
-2 https://www.youtube.com/watch?v=taEtp-Hc9yQ 
-https://www.youtube.com/watch?v=bg4bdqurTnM
-2 https://www.youtube.com/watch?v=7rlwryYhGzs
-3 https://netbasal.com/optimizing-angular-form-validation-with-lazy-load-61265536a6f2
-3 https://dev.to/this-is-angular/mastering-injectable-services-a-comprehensive-guide-3kjg
-4 ***** https://medium.com/blazed-dev/building-a-serverless-angular-app-with-firebase-cloud-functions-448b13418c7f
-5 https://medium.com/blazed-dev/building-a-real-time-chat-app-with-firebase-and-angular-87c484424451
-7 https://youtu.be/yGLMwtKG0yA?t=2
-8 https://dev.to/2kabhishek/how-to-use-angular-provider-10c
-==========================
-DECEMBER 12/20
-19th https://medium.com/@hongtatyew/about-environment-ts-in-your-angular-applications-50646ab08c81
-19th https://www.telerik.com/blogs/angular-basics-intro-interceptors
-5 https://dev.to/this-is-angular/animationfactory-how-angular-creates-animation-renderers-1m6b
-6 https://www.youtube.com/results?search_query=Standalone+Applications+with+Nx&sp=EgIIAg%253D%253D
-6 https://dev.to/lambdatest/cypress-end-to-end-testing-tutorial-a-detailed-guide-25m6
-6 https://medium.com/@piyalidas.it/typescript-map-realtime-example-1ea922b5abf1
-7 https://www.youtube.com/watch?v=RhaDn0ZcmOg
-12 https://dev.to/angular/does-angular-support-generic-component-types-4fkm
-13 https://www.youtube.com/watch?v=Pn9-v_WAplg
-18 https://www.youtube.com/watch?v=sDltcRbycNM
-============================
-WEDNESDAY 12/21
-20th https://medium.com/@pero0904/angular-services-with-providedin-syntax-and-tree-shaking-472d7413ff84
-20th https://itnext.io/angular-and-spas-caching-for-the-real-need-for-speed-d2ca1b1227f8
-3 https://www.youtube.com/watch?v=Vtitveu5H38
-7 A+ https://www.spreaker.com/user/ng-conf/ap-show-s4e17-sandi-barr-edit-2
-8 https://www.youtube.com/watch?v=ckxCgNE3SPI
-https://medium.com/@saravanan109587/how-angular-dependency-injection-work-f567f6b4010f
-=====================
-THURSDAY 12/22
 21st https://www.youtube.com/watch?v=h6sPy8urbjI
 4 https://bobbyg603.hashnode.dev/rxjs-in-the-wild-how-to-create-pop-up-alerts-69134162c8b2
 5 https://www.youtube.com/watch?v=2MwNOnWDqwY
@@ -40,7 +5,6 @@ THURSDAY 12/22
 9 https://dev.to/grapecity/how-to-use-an-angular-pivot-table-component-in-your-web-application-o8h
 10 https://www.youtube.com/watch?v=zZtFhRQWhXg
 ===========================
-
 FRIDAY 12/23
 21st https://ganeshsirsi.medium.com/how-to-set-up-cypress-and-typescript-end-to-end-test-automation-framework-from-scratch-step-by-step-b4f887e0646
 22nd https://shraddha-paghdar.medium.com/why-lazy-loading-is-a-must-have-for-large-angular-applications-f39753380367
@@ -63,7 +27,6 @@ SATURDAY 12/24
 6 https://www.youtube.com/watch?v=r7XdE8UIffk
 =================
 SUNDAY 12/25
-
 24th 20 https://dev.to/railsstudent/create-custom-operators-to-sum-and-sort-rxjs-streams-4p4k
 https://medium.com/@kptengco/advantages-of-using-dictionary-or-map-object-in-angular-63aab1fb3bf7
 25th https://medium.com/@kptengco/advantages-of-using-dictionary-or-map-object-in-angular-63aab1fb3bf7
@@ -84,11 +47,9 @@ TUESDAY 12/27
 26trh https://tiwarivikas.medium.com/mouse-events-angular-61e97b909669
 26th https://medium.com/@e94kai/angular-12-server-side-rendering-optimization-2b8a30208c11
 26th https://medium.com/@giancarlo.dallemole1995/the-testing-library-in-angular-5b8aa2b99b7c
-
 1 https://www.youtube.com/watch?v=PlvTveHGe8M
 2 https://www.msn.com/en-us/news/world/russian-soldiers-surrender-to-ukrainian-troops-circling-them-in-trenches/vi-AA15HNOD?cvid=c92b62e1faf54831bd972ceed88f8f1d&category=foryou
 7 https://www.telerik.com/blogs/angular-basics-javascript-template-literals
-
 ==================
 WEDNESDAY 12/28
 27th https://shraddha-paghdar.medium.com/maximizing-efficiency-with-angular-component-communication-388941ec2dda
