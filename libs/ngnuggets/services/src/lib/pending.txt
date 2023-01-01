@@ -1,42 +1,14 @@
 
-WEDNESDAY 12/28
-27th https://shraddha-paghdar.medium.com/maximizing-efficiency-with-angular-component-communication-388941ec2dda
-27th https://medium.com/@deepanshurtiwari/sample-test-to-unit-test-complex-angular-component-bd0f46755e4
-27th https://medium.com/@marekpanti/5-things-to-do-before-starting-your-angular-app-a32137a53a95
-27th https://dev.to/this-is-angular/angular-registering-animation-triggers-5gpg
-27th https://medium.com/@piyalidas.it/angular-reactive-form-custom-validation-8bd09775401
-2 https://www.youtube.com/watch?v=y5iNHOFuRHw
-2 https://dev.to/this-is-learning/supercharge-your-firebase-app-development-using-nx-301n
-3 https://www.youtube.com/watch?v=PF3mFOZn3MQ
-4 https://dev.to/paresh4734/angular-version-upgrade-my-experience-17ac
-5 https://siddiquiweb.hashnode.dev/angular-create-dynamic-forms-using-formarray
-6 https://medium.com/@ogun.ergin35/firebase-powered-authentication-in-angular-a-step-by-step-guide-196236c96ba6
-7 https://dev.to/railsstudent/build-a-reactive-countdown-timer-using-rxjs-and-angular-1iff
-8 https://www.youtube.com/watch?v=tmupTjypmAo
-14 https://dev.to/stevenmclintock/using-angulars-eventemitter-to-share-data-between-child-and-parent-components-55ib
-===================
-THURSDAY 12/29
-28th https://medium.com/@ogun.ergin35/firebase-powered-authentication-in-angular-a-step-by-step-guide-196236c96ba6
-28th https://medium.com/@techwithease/understanding-directives-in-angular-680789999830
-28th https://medium.com/@nicchong/implementing-server-side-rendering-ssr-in-popular-angular-frameworks-a-guide-21420954991a
-2 https://medium.com/@tumma.suryaprakash/ag-grid-editors-visible-without-click-b22a43ef785f
-3 https://www.youtube.com/watch?v=FfehkSYT-jQ
-4 https://medium.com/@ogun.ergin35/automating-jwt-authentication-in-angular-with-an-http-interceptor-5bb2f3ab5572
-5 https://medium.com/@reyhandagci/the-hints-you-should-know-when-using-angular-11135227ac39
-=================
-FRIDAY 12/30
-29th https://medium.com/@bcakko/best-practices-for-localization-in-angular-4ab25d79b265
-29th https://dev.to/danywalls/maximizing-your-angular-build-performance-with-esbuild-1ea9
-29th https://medium.com/@piyalidas.it/angular-reactive-form-custom-validation-using-array-d198e367682e
-3 https://www.youtube.com/watch?v=M3ckt2Cin9o
-5 https://www.youtube.com/watch?v=c9b7lcjxUHo
-7 https://www.youtube.com/watch?v=Lefm11h3NUk
-8 https://www.youtube.com/watch?v=cXFgFJATfVA
-9 https://dev.to/danywalls/the-role-of-mocks-and-spies-in-unit-testing-3i97
-9 https://dev.to/incubyte/how-to-use-angular-provider-42la
-14 https://www.youtube.com/watch?v=lvmJ7HyelLI
+30th 
+
+
+
 ========================
-SATURDAY 12/31
+SUNDAY 01/01
+3 https://www.youtube.com/watch?v=2CsBUSQa7qI
+3 https://www.youtube.com/watch?v=BiQCnm0lGaY
+5 https://medium.com/@nicchong/using-services-to-share-data-and-functionality-across-components-in-angular-de3f85d2ea36
+8 https://dev.to/railsstudent/create-whack-a-mole-game-using-rxjs-and-angular-1ne2
 
 
 

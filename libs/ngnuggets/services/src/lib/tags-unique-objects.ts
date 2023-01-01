@@ -237,6 +237,7 @@ export const tags = [
   { cat: 'Misc', tag: 'Spinner' },
   { cat: 'Misc', tag: 'State Management' },
   { cat: 'Misc', tag: 'Styles' },
+  { cat: 'Misc', tag: 'TransferState' },
   { cat: 'Misc', tag: 'Webpack' },
   { cat: 'Misc', tag: 'Web Components' },
   { cat: 'Misc', tag: 'Web Workers' },
