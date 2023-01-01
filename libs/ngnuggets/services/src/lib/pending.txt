@@ -1,56 +1,4 @@
-21st https://www.youtube.com/watch?v=h6sPy8urbjI
-4 https://bobbyg603.hashnode.dev/rxjs-in-the-wild-how-to-create-pop-up-alerts-69134162c8b2
-5 https://www.youtube.com/watch?v=2MwNOnWDqwY
-7 https://www.youtube.com/watch?v=bl6LB_NSP48
-9 https://dev.to/grapecity/how-to-use-an-angular-pivot-table-component-in-your-web-application-o8h
-10 https://www.youtube.com/watch?v=zZtFhRQWhXg
-===========================
-FRIDAY 12/23
-21st https://ganeshsirsi.medium.com/how-to-set-up-cypress-and-typescript-end-to-end-test-automation-framework-from-scratch-step-by-step-b4f887e0646
-22nd https://shraddha-paghdar.medium.com/why-lazy-loading-is-a-must-have-for-large-angular-applications-f39753380367
-22nd https://shraddha-paghdar.medium.com/the-power-of-angular-guards-how-they-work-and-when-to-use-them-db4482e945fd
-22nd 23 https://www.youtube.com/watch?v=mWDQR8HQb_k
-22nd https://medium.com/@mikedrakoulelis/tidy-up-your-angular-resolvers-2fece84fb167
-3 https://www.youtube.com/watch?v=y2T8gEELh0k
-4 https://shraddha-paghdar.medium.com/component-lifecycle-management-in-angular-a-comprehensive-guide-badc0867a946
-6 https://www.youtube.com/watch?v=8AfzgTKICYo
-============================================
-SATURDAY 12/24
-22nd https://medium.com/@techwithease/understanding-templates-in-angular-5fba2b4ddfb1
-22nd https://medium.com/@yuvayuvaraj720444/angular-router-14-resolve-guard-875238178aaf
-23rd https://ramya-bala221190.medium.com/angular-how-to-make-a-loading-spinner-work-to-solve-the-issue-with-parallel-http-requests-cc55a3e25711
-23rd https://dev.to/blamb31/intro-to-the-ngswitch-directive-23bm
-23rd https://dev.to/shrihari/sign-out-of-all-tabs-if-logged-out-from-one-angular-storage-events-5cdf
-23rd https://www.youtube.com/watch?v=1Xz0ppGsTGc
-23rd https://www.youtube.com/watch?v=5mNhz5nFhPc
-23rd https://topenddevs.com/podcasts/adventures-in-angular/episodes/state-management-with-rxjs-aia-363
-6 https://www.youtube.com/watch?v=r7XdE8UIffk
-=================
-SUNDAY 12/25
-24th 20 https://dev.to/railsstudent/create-custom-operators-to-sum-and-sort-rxjs-streams-4p4k
-https://medium.com/@kptengco/advantages-of-using-dictionary-or-map-object-in-angular-63aab1fb3bf7
-25th https://medium.com/@kptengco/advantages-of-using-dictionary-or-map-object-in-angular-63aab1fb3bf7
-25th https://medium.com/@bansal.suneet/optimize-angular-build-size-webpack-bundle-analyzer-2dd57655b90b
-25th https://medium.com/@harrish/what-rxjs-really-is-part-1-bf7fd75c6e92
-LAST https://blog.devgenius.io/create-chrome-extension-using-angular-5ae8ad48b39d
-====================================
-MONDAY 12/26
-3 https://www.youtube.com/watch?v=uY_Cy_wUmQI
-3 https://www.youtube.com/watch?v=KLjZ5ROwCgg
-6 https://dev.to/this-is-angular/discover-the-power-of-ngrxcomponent-store-to-create-a-local-component-state-2oel
-8 https://www.youtube.com/watch?v=QOrxtWK39-c
-8 https://www.youtube.com/watch?v=GbF6CR6-zXc
-10 https://www.youtube.com/watch?v=Rx24PNlYzh0
-================
-TUESDAY 12/27
-26th https://medium.com/@gopidinni.kteja/custom-angular-mat-stepper-ceb458cbb4c7
-26trh https://tiwarivikas.medium.com/mouse-events-angular-61e97b909669
-26th https://medium.com/@e94kai/angular-12-server-side-rendering-optimization-2b8a30208c11
-26th https://medium.com/@giancarlo.dallemole1995/the-testing-library-in-angular-5b8aa2b99b7c
-1 https://www.youtube.com/watch?v=PlvTveHGe8M
-2 https://www.msn.com/en-us/news/world/russian-soldiers-surrender-to-ukrainian-troops-circling-them-in-trenches/vi-AA15HNOD?cvid=c92b62e1faf54831bd972ceed88f8f1d&category=foryou
-7 https://www.telerik.com/blogs/angular-basics-javascript-template-literals
-==================
+
 WEDNESDAY 12/28
 27th https://shraddha-paghdar.medium.com/maximizing-efficiency-with-angular-component-communication-388941ec2dda
 27th https://medium.com/@deepanshurtiwari/sample-test-to-unit-test-complex-angular-component-bd0f46755e4
@@ -87,6 +35,10 @@ FRIDAY 12/30
 9 https://dev.to/danywalls/the-role-of-mocks-and-spies-in-unit-testing-3i97
 9 https://dev.to/incubyte/how-to-use-angular-provider-42la
 14 https://www.youtube.com/watch?v=lvmJ7HyelLI
+========================
+SATURDAY 12/31
+
+
 
 $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 footbalL*380220
