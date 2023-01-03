@@ -108,3 +108,22 @@ remove duplicate post "2022-05-21-G"
 
 2022-08-15-H remove # and add "pipes"
 
+"2022-09-30-F" add "Angular Material"
+
+"2022-09-01" & "2022-09-15-H" & "2022-09-22-D" add "aName": "Web Rush", "aUrl": "https://webrush.io",
+
+"2022-09-13-C"  add       "aName": "WebGentle", "aUrl": "https://www.youtube.com/c/WebGentle/videos", "spkrs": ["Nitish Kumar"],
+
+"2022-08-19-D" add "aUrl": "https://medium.com/@runette",
+
+ "2022-09-08-H", "2022-09-14-H" add       "aUrl": "https://www.spreaker.com/show/angular-show",
+
+"2022-09-15-G" add "aUrl": "https://www.youtube.com/@PraveenClasses/videos",
+
+"2022-08-17-M" & "2022-08-17-N" add
+
+"2022-09-13-C" REMOVE!
+
+"2022-10-01-A" add "Google Maps"
+
+2022-03-07-G move , "Brooke Avery", "Erik Slack" from tags to spkrs

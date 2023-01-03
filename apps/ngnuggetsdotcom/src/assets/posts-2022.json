@@ -10812,8 +10812,8 @@
         "srcUrl": "https://spreaker.com",
         "aName": "Angular Experience",
         "aUrl": "https://angular-experience.web.app/episodes",
-        "spkrs": ["Katerina Skroumpelou"],
-        "tags": ["Maps", "Google Maps", "Brooke Avery", "Erik Slack"]
+        "spkrs": ["Katerina Skroumpelou", "Brooke Avery", "Erik Slack"],
+        "tags": ["Maps", "Google Maps"]
       },
       {
         "slug": "2022-03-07-H",
@@ -23799,7 +23799,7 @@
         "srcUrl": "https://webrush.io",
         "aName": "Web Rush",
         "aUrl": "https://webrush.io",
-        "spkrs": [""],
+        "spkrs": ["John Papa", "Ward Bell", "Craig Shoemaker", "Dan Wahlin"],
         "tags": ["Update"]
       },
       {
@@ -36711,7 +36711,7 @@
         "dur": "73",
         "title": "UI Mondays: Hosting Angular and React Apps on GitHub pages",
         "url": "https://www.youtube.com/watch?v=0rEa5MjW5ME",
-        "desc": "Welcome to UI Mondays where Alyssa and Kathryn will show you how you can host your Angular or React apps on GitHub pages. Kathryn already has her React app up on GitHub pages, so can Alyssa replicate that for her Angular app? ",
+        "desc": "Welcome to UI Mondays where Alyssa and Kathryn will show you how you can host your Angular or React apps on GitHub pages. Kathryn already has her React app up on GitHub pages, so can Alyssa replicate that for her Angular app?",
         "dAdd": "2022-08-03",
         "dSrc": "2022-08-03",
         "srcSite": "YouTube",
@@ -37387,7 +37387,7 @@
         "dur": "10",
         "title": "How to quickly test the front end | Angular | Testing | Chart.js | ng2-charts | Aelli codes",
         "url": "https://www.youtube.com/watch?v=dg3q2u9nbnw",
-        "desc": "In this tutorial you will learn how to quickly test your front end if you don't want or can't use a test framework, or don't want to spend time on testing APIs, etc. Angular@14.1.0, chart.js@3.9.1, ng2-charts@4.0.0 ",
+        "desc": "In this tutorial you will learn how to quickly test your front end if you don't want or can't use a test framework, or don't want to spend time on testing APIs, etc. Angular@14.1.0, chart.js@3.9.1, ng2-charts@4.0.0",
         "dAdd": "2022-08-07",
         "dSrc": "2022-08-07",
         "srcSite": "YouTube",
@@ -38033,7 +38033,7 @@
       {
         "slug": "2022-08-10-P",
         "type": "release",
-        "title": "Angular Release: v14.1.2 ",
+        "title": "Angular Release: v14.1.2",
         "url": "https://github.com/angular/angular/releases/tag/14.1.2",
         "desc": "",
         "dAdd": "2022-08-10",
@@ -39395,7 +39395,7 @@
         "srcSite": "GitHub Angular",
         "srcUrl": "https://github.com/angular/angular/releases",
         "aName": "Pawel Kozlowski",
-        "aUrl": "",
+        "aUrl": "https://github.com/pkozlowski-opensource",
         "spkrs": [],
         "tags": ["Release"]
       },
@@ -39410,7 +39410,7 @@
         "srcSite": "GitHub Angular",
         "srcUrl": "https://github.com/angular/angular/releases",
         "aName": "Pawel Kozlowski",
-        "aUrl": "",
+        "aUrl": "https://github.com/pkozlowski-opensource",
         "spkrs": [],
         "tags": ["Release"]
       },
@@ -39780,7 +39780,7 @@
         "srcSite": "Medium",
         "srcUrl": "'https://medium.com",
         "aName": "Paul Harwood",
-        "aUrl": "",
+        "aUrl": "https://medium.com/@runette",
         "spkrs": ["Paul Harwood"],
         "tags": ["Libraries"]
       },
@@ -42186,7 +42186,7 @@
         "dur": "51",
         "title": "Why would you use Angular in a Startup? - AiA 355",
         "url": "https://topenddevs.com/podcasts/adventures-in-angular/episodes/why-would-you-use-angular-in-a-startup-aia-355",
-        "desc": "Catalin Ciubotaru joins the show today to share his industry insights and the advantages and disadvantages of using Angular in a startup.  ",
+        "desc": "Catalin Ciubotaru joins the show today to share his industry insights and the advantages and disadvantages of using Angular in a startup.",
         "dAdd": "2022-09-01",
         "dSrc": "2022-08-31",
         "srcSite": "Adventures In Angular",
@@ -42207,8 +42207,8 @@
         "dSrc": "2022-09-01",
         "srcSite": "Web Rush",
         "srcUrl": "https://webrush.io",
-        "aName": "",
-        "aUrl": "",
+        "aName": "Web Rush",
+        "aUrl": "https://webrush.io",
         "spkrs": ["Craig Shoemaker", "Dan Wahlin"],
         "tags": []
       },
@@ -43559,7 +43559,7 @@
         "srcSite": "Spreaker",
         "srcUrl": "https://www.spreaker.com",
         "aName": "The Angular Plus Show",
-        "aUrl": "",
+        "aUrl": "https://www.spreaker.com/show/angular-show",
         "spkrs": [""],
         "tags": []
       },
@@ -43954,7 +43954,7 @@
         "dur": "10",
         "title": "Lazyload Standalone Components in Angular",
         "url": "https://www.youtube.com/watch?v=wJekj9RMQxU",
-        "desc": "Lazyload components Angular!\nThis is an easy-to-follow video demonstrating the ability to lazyload standalone components in Angular.\nThis is one of the new Angular 14 features to check. This is still in the developer preview version, but we can test it! ",
+        "desc": "Lazyload components Angular!\nThis is an easy-to-follow video demonstrating the ability to lazyload standalone components in Angular.\nThis is one of the new Angular 14 features to check. This is still in the developer preview version, but we can test it!",
         "dAdd": "2022-09-11",
         "dSrc": "2022-09-11",
         "srcSite": "YouTube",
@@ -44241,22 +44241,6 @@
         "tags": []
       },
       {
-        "slug": "2022-09-13-C",
-        "type": "video",
-        "dur": "7",
-        "title": "How to Display Validation Error Message in Angular Template Driven Form | Angular Tutorial",
-        "url": "https://www.youtube.com/watch?v=z6nFzN7dMRs",
-        "desc": "",
-        "dAdd": "2022-09-13",
-        "dSrc": "2022-09-13",
-        "srcSite": "YouTube",
-        "srcUrl": "https://youtube.com",
-        "aName": "",
-        "aUrl": "",
-        "spkrs": [],
-        "tags": []
-      },
-      {
         "slug": "2022-09-13-D",
         "type": "blog",
         "title": "Angular Basics: Pure vs. Impure Pipes in Angular",
@@ -44277,7 +44261,7 @@
         "dur": "46",
         "title": "Directive Composition API Intro w/ Kristiyan Kostadinov",
         "url": "https://www.youtube.com/watch?v=oC9Qd9yw3pE",
-        "desc": "Did you know, one of the most popular Angular github issues of all time was recently solved? It was done by Kristiyan Kostadinov, he did it for himself (and the Angular Material team) but in doing so, he's opened up a lot of very cool possibilities for the rest of us! Thanks Kristiyan! ",
+        "desc": "Did you know, one of the most popular Angular github issues of all time was recently solved? It was done by Kristiyan Kostadinov, he did it for himself (and the Angular Material team) but in doing so, he's opened up a lot of very cool possibilities for the rest of us! Thanks Kristiyan!",
         "dAdd": "2022-09-13",
         "dSrc": "2022-09-13",
         "srcSite": "YouTube",
@@ -44457,7 +44441,7 @@
         "srcSite": "Spreaker",
         "srcUrl": "https://www.spreaker.com",
         "aName": "The Angular Plus Show",
-        "aUrl": "https://twitter.com/AngularShow",
+        "aUrl": "https://www.spreaker.com/show/angular-show",
         "spkrs": ["Ady Ngom", "Philip Fulcher", "Craig Spence"],
         "tags": []
       },
@@ -44631,7 +44615,7 @@
         "srcSite": "YouTube",
         "srcUrl": "https://youtube.com",
         "aName": "Praveen Classes",
-        "aUrl": "",
+        "aUrl": "https://www.youtube.com/@PraveenClasses/videos",
         "spkrs": [],
         "tags": ["RxJS", "forkJoin()"]
       },
@@ -44646,8 +44630,8 @@
         "dSrc": "2022-09-15",
         "srcSite": "Web Rush",
         "srcUrl": "https://webrush.io",
-        "aName": "",
-        "aUrl": "",
+        "aName": "Corbin Crutchley",
+        "aUrl": "https://twitter.com/crutchcorn",
         "spkrs": ["Corbin Crutchley"],
         "tags": []
       },
@@ -45675,8 +45659,8 @@
         "dSrc": "2022-09-22",
         "srcSite": "Web Rush",
         "srcUrl": "https://webrush.io",
-        "aName": "",
-        "aUrl": "",
+        "aName": "Web Rush",
+        "aUrl": "https://webrush.io",
         "spkrs": ["John Papa", "Ward Bell", "Craig Shoemaker"],
         "tags": []
       },
@@ -46688,7 +46672,7 @@
         "aName": "Alex Rickabaugh",
         "aUrl": "https://github.com/alxhub",
         "spkrs": [],
-        "tags": ["Release"]
+        c
       },
       {
         "slug": "2022-09-29-E",
@@ -46868,7 +46852,7 @@
         "type": "video",
         "dur": "17",
         "title": "Part 28 - Multiselect With Live Search | Angular Material | Angular 14 Series | Various Selection",
-        "url": " ",
+        "url": "https://www.youtube.com/watch?v=E5OmK6ufHOw",
         "desc": "",
         "dAdd": "2022-09-30",
         "dSrc": "2022-09-30",
@@ -46877,7 +46861,7 @@
         "aName": "Beginner 2 Expert",
         "aUrl": "https://www.youtube.com/c/Beginner2Expert/videos",
         "spkrs": ["Biswajit Jana"],
-        "tags": []
+        "tags": ["Angular Material"]
       },
       {
         "slug": "2022-09-30-G",
@@ -46927,7 +46911,7 @@
         "aName": "Jignesh Kumar",
         "aUrl": "https://jigneshkumar1494.medium.com",
         "spkrs": ["Jignesh Kumar"],
-        "tags": []
+        "tags": ["Google Maps"]
       },
       {
         "slug": "2022-10-01-B",
@@ -48388,7 +48372,7 @@
         "slug": "2022-10-11-F",
         "type": "blog",
         "title": "How does Dependency Injection work in Angular?",
-        "url": "https://medium.com/@adityanarayan10/how-dependency-injection-works-in-angular-1773110a60a4  ",
+        "url": "https://medium.com/@adityanarayan10/how-dependency-injection-works-in-angular-1773110a60a4",
         "desc": "We all have used Dependency Injection irrespective of the tech stack, at some point in our coding journey. But what's the reason for using it?\n\nImagine instantiating a class each time we need to access it! Awful, yes! We use DI to avoid hard dependencies between classes.",
         "dAdd": "2022-10-11",
         "dSrc": "2022-10-10",
@@ -48509,7 +48493,7 @@
         "aName": "Ayush Dixit",
         "aUrl": "https://iamcyberster.medium.com",
         "spkrs": ["Ayush Dixit"],
-        "tags": []
+        "tags": ["Testing", "Unit Testing"]
       },
       {
         "slug": "2022-10-12-B",
@@ -48871,9 +48855,9 @@
         "srcSite": "DEV Community",
         "srcUrl": "https://dev.to",
         "aName": "Leon Radley",
-        "aUrl": "",
+        "aUrl": "https://dev.to/leon",
         "spkrs": ["Leon Radley"],
-        "tags": []
+        "tags": ["RxJS"]
       },
       {
         "slug": "2022-10-14-C",
@@ -49393,7 +49377,7 @@
         "srcSite": "Medium",
         "srcUrl": "https://medium.com",
         "aName": "Zameel Amjed",
-        "aUrl": "https://medium.com/@zameelamjed  ",
+        "aUrl": "https://medium.com/@zameelamjed",
         "spkrs": ["Zameel Amjed"],
         "tags": ["RxJS", "Observables", "Subscriptions", "BehaviorSubject", "HttpClient"]
       },
@@ -49617,7 +49601,7 @@
         "aName": "Rainer Stropek",
         "aUrl": "https://www.youtube.com/@rstropek/videos",
         "spkrs": ["Rainer Stropek"],
-        "tags": []
+        "tags": ["Forms", "Template Driven Forms"]
       },
       {
         "slug": "2022-10-20-B",
@@ -49633,7 +49617,7 @@
         "aName": "Brandon Roberts",
         "aUrl": "https://www.youtube.com/@BrandonRobertsDev/videos",
         "spkrs": ["Brandon Roberts"],
-        "tags": []
+        "tags": ["Routing"]
       },
       {
         "slug": "2022-10-20-C",
@@ -49825,7 +49809,7 @@
         "aName": "Ming Wu",
         "aUrl": "https://crazyming.medium.com",
         "spkrs": ["Ming Wu"],
-        "tags": []
+        "tags": ["RxJS"]
       },
       {
         "slug": "2022-10-22-C",
@@ -50557,7 +50541,7 @@
         "aName": "Ayyash",
         "aUrl": "https://dev.to/ayyash",
         "spkrs": [],
-        "tags": []
+        "tags": ["Standalone Components"]
       }
     ]
   },
@@ -50692,7 +50676,7 @@
         "aName": "Dominic Egginton",
         "aUrl": "https://medium.com/@dominicegginton",
         "spkrs": ["Dominic Egginton"],
-        "tags": []
+        "tags": ["Per"]
       },
       {
         "slug": "2022-10-30-B",
@@ -50821,7 +50805,7 @@
         "aName": "ARC Tutorials",
         "aUrl": "https://www.youtube.com/@ARCTutorials/videos",
         "spkrs": [],
-        "tags": []
+        "tags": ["Update"]
       },
       {
         "slug": "2022-10-31-G",
@@ -51263,7 +51247,7 @@
         "aName": "Renan Ferro",
         "aUrl": "https://dev.to/renancferro",
         "spkrs": ["Renan Ferro"],
-        "tags": []
+        "tags": ["Animations"]
       },
       {
         "slug": "2022-11-03-J",
@@ -51486,9 +51470,9 @@
       {
         "slug": "2022-11-06-C",
         "type": "blog",
-        "title": "Angular Chat Application with Socket.io and Node Js",
+        "title": "Angular Chat Application with Socket.io and NodeJS",
         "url": "https://dev.to/alakkadshaw/angular-chat-application-with-socketio-and-node-js-1jo4",
-        "desc": "In this article we will building an Angular chat application with Socket.io and Node JS. We will be building a basic chat application using Node JS and Socket.io in the back-end and Angular in the front end.",
+        "desc": "In this article we will building an Angular chat application with Socket.io and NodeJS. We will be building a basic chat application using NodeJS and Socket.io in the back-end and Angular in the front end.",
         "dAdd": "2022-11-06",
         "dSrc": "2022-11-05",
         "srcSite": "DEV Community",
@@ -51685,7 +51669,7 @@
         "aName": "Maria Pena",
         "aUrl": "https://medium.com/@mariapenafd",
         "spkrs": ["Maria Pena"],
-        "tags": []
+        "tags": ["Data Transfer"]
       },
       {
         "slug": "2022-11-07-J",
@@ -51700,7 +51684,7 @@
         "aName": "Ayyash",
         "aUrl": "https://dev.to/ayyash",
         "spkrs": [],
-        "tags": []
+        "tags": ["SSR", "Routing"]
       },
       {
         "slug": "2022-11-07-K",
@@ -51799,7 +51783,7 @@
         "aName": "Mike Pearson / Engineering",
         "aUrl": "https://www.youtube.com/channel/UCiPDBcPWl9yswuULEZMosZw/videos",
         "spkrs": ["Mike Pearson"],
-        "tags": []
+        "tags": ["State Management"]
       },
       {
         "slug": "2022-11-08-E",
@@ -51854,13 +51838,13 @@
         "dur": "14",
         "title": "Angular Slider - Build Angular Carousel From Scratch Tutorial",
         "url": "https://www.youtube.com/watch?v=Au4VfcwvjgQ",
-        "desc": "",
+        "desc": "Learn how to build an Angular slider from scratch. We will implement left and right arrows to navigate through slideshow. Our Angular image slider will be implemented without any additional libraries. We will use module approach to create this project. This Angular carousel tutorial will help you to understand how any slider works from the beginning to the end.",
         "dAdd": "2022-11-08",
         "dSrc": "2022-11-08",
         "srcSite": "YouTube",
         "srcUrl": "https://youtube.com",
-        "aName": "",
-        "aUrl": "",
+        "aName": "Monsterlessons Academy",
+        "aUrl": "https://www.youtube.com/@MonsterlessonsAcademy/videos",
         "spkrs": [],
         "tags": []
       },
@@ -51930,7 +51914,7 @@
         "aName": "Tutor Things",
         "aUrl": "https://www.youtube.com/@TutorThings/videos",
         "spkrs": [],
-        "tags": []
+        "tags": ["Directives"]
       },
       {
         "slug": "2022-11-09-C",
@@ -51961,7 +51945,7 @@
         "aName": "Ayyash",
         "aUrl": "https://dev.to/ayyash",
         "spkrs": [],
-        "tags": []
+        "tags": ["SSR", "Routing"]
       },
       {
         "slug": "2022-11-09-E",
@@ -52007,7 +51991,7 @@
         "aName": "Harshal Limaye",
         "aUrl": "https://harshal.dev",
         "spkrs": ["Harshal Limaye"],
-        "tags": []
+        "tags": ["Architecture"]
       },
       {
         "slug": "2022-11-09-H",
@@ -52139,7 +52123,7 @@
         "aName": "Besim Gurbuz",
         "aUrl": "https://medium.com/@besimgurbuz",
         "spkrs": ["Besim Gurbuz"],
-        "tags": []
+        "tags": ["RxJS"]
       },
       {
         "slug": "2022-11-11-F",
@@ -52288,10 +52272,10 @@
         "dSrc": "2022-11-11",
         "srcSite": "DEV Community",
         "srcUrl": "https://dev.to",
-        "aName": "",
-        "aUrl": "",
-        "spkrs": [],
-        "tags": []
+        "aName": "Connie Leung",
+        "aUrl": "https://dev.to/railsstudent",
+        "spkrs": ["Connie Leung"],
+        "tags": ["RxJS"]
       }
     ]
   },
@@ -52846,7 +52830,7 @@
         "aName": "Chavez Harris",
         "aUrl": "https://dev.to/codedbychavez",
         "spkrs": ["Chavez Harris"],
-        "tags": []
+        "tags": ["Feature Flags"]
       },
       {
         "slug": "2022-11-15-S",
@@ -53005,7 +52989,7 @@
         "aName": "Christian Lydemann",
         "aUrl": "https://www.youtube.com/@ChristianLydemann/videos",
         "spkrs": ["Christian Lydemann"],
-        "tags": []
+        "tags": ["back"]
       },
       {
         "slug": "2022-11-16-K",
@@ -53115,7 +53099,7 @@
         "srcSite": "Medium",
         "srcUrl": "https://medium.com",
         "aName": "Max Kurylo",
-        "aUrl": "",
+        "aUrl": "https://medium.com/@max_kurylo",
         "spkrs": ["Max Kurylo"],
         "tags": ["RxJS"]
       },
@@ -53146,7 +53130,7 @@
         "srcSite": "YouTube",
         "srcUrl": "https://youtube.com",
         "aName": "ng-conf",
-        "aUrl": "",
+        "aUrl": "https://twitter.com/dylhunn",
         "spkrs": ["Dylan Hunn"],
         "tags": ["Forms", "Typed Forms"]
       },
@@ -53273,7 +53257,7 @@
         "aName": "Krzysztof Platis",
         "aUrl": "https://dev.to/krisplatis",
         "spkrs": ["Krzysztof Platis"],
-        "tags": []
+        "tags": ["Angular Universal", "SSR", "Errors"]
       }
     ]
   },
@@ -53408,7 +53392,7 @@
         "dur": "4",
         "title": "Debugging in Angular is getting better and better in version 15",
         "url": "https://www.youtube.com/watch?v=tKwHbxjp0Qw",
-        "desc": "In Angular v15, we've improved stack traces. Find out how structured stack tracing has become easier, how you can trace different microtasks, macrotasks, and more!  ",
+        "desc": "In Angular v15, we've improved stack traces. Find out how structured stack tracing has become easier, how you can trace different microtasks, macrotasks, and more!",
         "dAdd": "2022-11-18",
         "dSrc": "2022-11-18",
         "srcSite": "YouTube",
@@ -53432,7 +53416,7 @@
         "aName": "AngularAir",
         "aUrl": "https://www.youtube.com/@AngularAirPodcast/videos",
         "spkrs": ["Quantarius Ray", "Alyssa Nicoll", "Mike Brocci", "Justin Schwartzenberger"],
-        "tags": []
+        "tags": ["Testing", "Components", "Standalone Components"]
       }
     ]
   },
@@ -54001,9 +53985,9 @@
         "dSrc": "2022-11-23",
         "srcSite": "DEV Community",
         "srcUrl": "https://dev.to",
-        "aName": "",
-        "aUrl": "",
-        "spkrs": [],
+        "aName": "Armen Vardanyan",
+        "aUrl": "https://dev.to/armandotrue",
+        "spkrs": ["Armen Vardanyan"],
         "tags": ["NgRx"]
       },
       {
@@ -54174,15 +54158,15 @@
         "dur": "13",
         "title": "Create a Journey Planner App with Angular: Adding the Map Display with Directions (3/3)",
         "url": "https://www.youtube.com/watch?v=K9FeVmBQW8o",
-        "desc": "",
+        "desc": "This is the last part of the series where we build a journey planner app in Angular with Google Maps APIs. In this part, we create the map display component - which renders our directions data between the two places and also shows markers!",
         "dAdd": "2022-11-24",
         "dSrc": "2022-11-24",
         "srcSite": "YouTube",
         "srcUrl": "https://youtube.com",
-        "aName": "",
-        "aUrl": "",
-        "spkrs": [],
-        "tags": []
+        "aName": "Zoaib Khan",
+        "aUrl": "https://www.youtube.com/@ZoaibKhan/videos",
+        "spkrs": ["Zoaib Khan"],
+        "tags": ["Google Maps"]
       },
       {
         "slug": "2022-11-24-G",
@@ -54250,7 +54234,7 @@
         "aName": "Gaetan Redin",
         "aUrl": "https://dev.to/gaetanrdn",
         "spkrs": ["Gaetan Redin"],
-        "tags": []
+        "tags": ["Directives"]
       },
       {
         "slug": "2022-11-25-D",
@@ -54611,9 +54595,9 @@
         "dSrc": "2022-11-28",
         "srcSite": "Medium",
         "srcUrl": "https://medium.com",
-        "aName": "",
-        "aUrl": "",
-        "spkrs": [],
+        "aName": "Piyali Das",
+        "aUrl": "https://medium.com/@piyalidas.it",
+        "spkrs": ["Piyali Das"],
         "tags": ["Configuration", "Custom"]
       },
       {
@@ -54695,7 +54679,7 @@
         "aName": "Vijay S",
         "aUrl": "https://medium.com/@vijay310301s",
         "spkrs": [],
-        "tags": []
+        "tags": ["Environments"]
       },
       {
         "slug": "2022-11-29-B",
@@ -54803,7 +54787,7 @@
         "aName": "Ravindra Devrani",
         "aUrl": "https://www.youtube.com/@ravindradevrani/videos",
         "spkrs": ["Ravindra Devrani"],
-        "tags": []
+        "tags": ["Lazy Loading", "Modules"]
       },
       {
         "slug": "2022-11-29-J",
@@ -54912,9 +54896,9 @@
         "dSrc": "2022-11-30",
         "srcSite": "Hashnode",
         "srcUrl": "https://hashnode.com",
-        "aName": "",
-        "aUrl": "",
-        "spkrs": [],
+        "aName": "Dany Paredes",
+        "aUrl": "https://hashnode.com/@danywalls4",
+        "spkrs": ["Dany Paredes"],
         "tags": ["Route Guards"]
       },
       {
@@ -54970,7 +54954,7 @@
         "dur": "11",
         "title": "Angular v15 is out and its a BIG release. What's new?",
         "url": "https://www.youtube.com/watch?v=NhBdqnYEIMg",
-        "desc": "Angular v15 was recently released with a bunch of new features and improvements! ",
+        "desc": "Angular v15 was recently released with a bunch of new features and improvements!",
         "dAdd": "2022-11-30",
         "dSrc": "2022-11-30",
         "srcSite": "YouTube",
@@ -55086,7 +55070,7 @@
         "dSrc": "2022-12-01",
         "srcSite": "Web Rush",
         "srcUrl": "https://webrush.io",
-        "aName": "Web Rush",
+        "aName": "Stephen Cooper",
         "aUrl": "https://twitter.com/scooperdev",
         "spkrs": ["Stephen Cooper"],
         "tags": ["AG Grid"]
@@ -55135,7 +55119,7 @@
         "aName": "Brandon Roberts",
         "aUrl": "https://www.youtube.com/@BrandonRobertsDev/videos",
         "spkrs": ["Brandon Roberts"],
-        "tags": []
+        "tags": ["NgRx"]
       },
       {
         "slug": "2022-12-01-F",
@@ -55161,7 +55145,7 @@
         "slug": "2022-12-02-A",
         "type": "video",
         "dur": "11",
-        "title": "Basic RxJs mergeMap with forkJoin Example",
+        "title": "Basic RxJS mergeMap with forkJoin Example",
         "url": "https://www.youtube.com/watch?v=Ar_hCJBEG2E",
         "desc": "",
         "dAdd": "2022-12-02",
@@ -55171,7 +55155,7 @@
         "aName": "Dotnetist Enterprise",
         "aUrl": "https://www.youtube.com/@DotnetistEnterprise/videos",
         "spkrs": [],
-        "tags": []
+        "tags": ["RxJS", "mergeMap()", "forkJoin()"]
       },
       {
         "slug": "2022-12-02-B",
@@ -55186,7 +55170,7 @@
         "aName": "Huan Nguyen",
         "aUrl": "https://medium.com/@huannx.dev",
         "spkrs": ["Huan Nguyen"],
-        "tags": []
+        "tags": ["Pipes"]
       },
       {
         "slug": "2022-12-02-C",
@@ -55672,7 +55656,7 @@
       {
         "slug": "2022-12-06-D",
         "type": "blog",
-        "title": "Directive Type Checking ",
+        "title": "Directive Type Checking",
         "url": "https://dev.to/this-is-angular/directive-type-checking-45oe",
         "desc": "To support type checking, we will need to work with two handy type guards provided by Angular:",
         "dAdd": "2022-12-06",
@@ -55901,7 +55885,7 @@
         "srcUrl": "https://github.com/angular/angular/releases",
         "aName": "Andrew Kushnir",
         "aUrl": "https://github.com/AndrewKushnir",
-        "spkrs": ["Andrew Kushnir"],
+        "spkrs": [],
         "tags": ["Release"]
       },
       {
@@ -55916,7 +55900,7 @@
         "srcUrl": "https://github.com/angular/angular/releases",
         "aName": "Andrew Kushnir",
         "aUrl": "https://github.com/AndrewKushnir",
-        "spkrs": ["Andrew Kushnir"],
+        "spkrs": [],
         "tags": ["Release"]
       }
     ] 
@@ -55937,7 +55921,7 @@
         "aName": "Danioropezasoria",
         "aUrl": "https://medium.com/@danioropezasoria",
         "spkrs": [],
-        "tags": []
+        "tags": ["Accessibility"]
       },
       {
         "slug": "2022-12-08-B",
@@ -56030,8 +56014,8 @@
         "dSrc": "2022-12-09",
         "srcSite": "YouTube",
         "srcUrl": "https://youtube.com",
-        "aName": "",
-        "aUrl": "",
+        "aName": "Angular",
+        "aUrl": "https://www.youtube.com/@Angular/videos",
         "spkrs": ["Minko Gechev", "Ward Bell", "Mark Thompson"],
         "tags": ["Template Driven Forms"]
       },
@@ -56417,9 +56401,9 @@
         "srcSite": "Medium",
         "srcUrl": "https://medium.com",
         "aName": "Royer Adames",
-        "aUrl": "",
+        "aUrl": "https://royeraadames.medium.com",
         "spkrs": ["Royer Adames"],
-        "tags": []
+        "tags": ["Observables", "Subscriptions"]
       }
     ] 
   },
@@ -56440,7 +56424,7 @@
         "aName": "Bitovi",
         "aUrl": "https://www.youtube.com/@Bitovi/videos",
         "spkrs": ["Eduard Krivanek"],
-        "tags": []
+        "tags": ["Pipes"]
       },
       {
         "slug": "2022-12-13-B",
@@ -56683,7 +56667,7 @@
         "aName": "Oz",
         "aUrl": "https://medium.com/@eugeniyoz",
         "spkrs": [],
-        "tags": []
+        "tags": ["@Input", "Observables"]
       },
       {
         "slug": "2022-12-15-C",
@@ -56705,7 +56689,7 @@
         "type": "blog",
         "title": "Angular Dynamic Component in Material Dialog with Dependencies",
         "url": "https://medium.com/ngconf/angular-dynamic-component-in-material-dialog-with-dependencies-ee90e3192cab",
-        "desc": "In my previous article I discussed how to dynamically lazy-load a standalone component at runtime into an Angular Material dialog. But, what if that standalone component has service dependencies, needs external configuration, or needs to communicate with the host dialog in some way? ",
+        "desc": "In my previous article I discussed how to dynamically lazy-load a standalone component at runtime into an Angular Material dialog. But, what if that standalone component has service dependencies, needs external configuration, or needs to communicate with the host dialog in some way?",
         "dAdd": "2022-12-15",
         "dSrc": "2022-12-15",
         "srcSite": "Medium",
@@ -56726,7 +56710,7 @@
         "dSrc": "2022-12-15",
         "srcSite": "Web Rush",
         "srcUrl": "https://webrush.io",
-        "aName": "Web Rush",
+        "aName": "Feross Aboukhadijeh",
         "aUrl": "https://twitter.com/feross",
         "spkrs": ["Feross Aboukhadijeh"],
         "tags": ["Security"]
@@ -56951,7 +56935,7 @@
         "dur": "11",
         "title": "4 Easy tips to reduce Angular bundle size",
         "url": "https://www.youtube.com/watch?v=-GzhWNoATWs",
-        "desc": "1. Tree Shaking\n2. Lazy Loading\n3. Webpack Bundle Analyzer\n4.\nStandAlone Components in Angular ",
+        "desc": "1. Tree Shaking\n2. Lazy Loading\n3. Webpack Bundle Analyzer\n4.\nStandAlone Components in Angular",
         "dAdd": "2022-12-17",
         "dSrc": "2022-12-16",
         "srcSite": "YouTube",
@@ -57062,7 +57046,7 @@
         "type": "blog",
         "title": "Optimization of Angular apps for dummies: How and Why",
         "url": "https://medium.com/@inesatoroyan/optimization-of-angular-apps-for-dummies-how-and-why-9477112a23b5",
-        "desc": "Performance optimization is very important, when talking about any web application, regardless of the technical stack that was used. Currently, web applications are much more than just landing pages, as they are used in many industries to perform complex tasks, computations and to solve management problems. ",
+        "desc": "Performance optimization is very important, when talking about any web application, regardless of the technical stack that was used. Currently, web applications are much more than just landing pages, as they are used in many industries to perform complex tasks, computations and to solve management problems.",
         "dAdd": "2022-12-18",
         "dSrc": "2022-12-17",
         "srcSite": "Medium",
@@ -57151,7 +57135,7 @@
         "aName": "Ivandztitan",
         "aUrl": "https://medium.com/@ivandztitan",
         "spkrs": [],
-        "tags": []
+        "tags": ["HttpInterceptors"]
       },
       {
         "slug": "2022-12-19-B",
@@ -57206,7 +57190,7 @@
         "type": "blog",
         "title": "Optimizing Angular Form Validation with Lazy Load",
         "url": "https://netbasal.com/optimizing-angular-form-validation-with-lazy-load-61265536a6f2",
-        "desc": "Lazy loading is a technique used to improve the performance of web applications by only loading the necessary code and resources when needed. ",
+        "desc": "Lazy loading is a technique used to improve the performance of web applications by only loading the necessary code and resources when needed.",
         "dAdd": "2022-12-19",
         "dSrc": "2022-12-19",
         "srcSite": "Medium",
@@ -57311,21 +57295,6 @@
         "aUrl": "https://www.telerik.com/blogs/author/dany-paredes",
         "spkrs": ["Dany Paredes"],
         "tags": ["HttpInterceptors"]
-      },
-      {
-        "slug": "2022-12-20-C",
-        "type": "blog",
-        "title": "AnimationFactory: how Angular creates animation renderers",
-        "url": "https://dev.to/this-is-angular/animationfactory-how-angular-creates-animation-renderers-1m6b",
-        "desc": "This article is intended to be the beginning of a short series about Angular transition animations mechanism source code, a niche in Angular codebase often considered confusing and not enough documented.",
-        "dAdd": "2022-12-20",
-        "dSrc": "2022-12-20",
-        "srcSite": "DEV Community",
-        "srcUrl": "https://dev.to",
-        "aName": "Gianpiero Errigo",
-        "aUrl": "https://dev.to/gianpiero_errigo",
-        "spkrs": ["Gianpiero Errigo"],
-        "tags": ["Animations"]
       },
       {
         "slug": "2022-12-20-D",
@@ -57745,7 +57714,7 @@
         "srcSite": "Medium",
         "srcUrl": "https://medium.com",
         "aName": "Tech with ease",
-        "aUrl": "https://medium.com/@techwithease/understanding-templates-in-angular-5fba2b4ddfb1",
+        "aUrl": "https://medium.com/@techwithease",
         "spkrs": [],
         "tags": ["Interpolation", "Attribute Binding", "Event Binding", "Pipes", "Template Reference Variable"]
       },
@@ -58107,7 +58076,7 @@
         "type": "blog",
         "title": "Angular Basics: JavaScript Template Literals",
         "url": "https://www.telerik.com/blogs/angular-basics-javascript-template-literals",
-        "desc": "Template literals are strings that provide an easy way to create multiline strings, string interpolation and even custom functions. Let's take a look! ",
+        "desc": "Template literals are strings that provide an easy way to create multiline strings, string interpolation and even custom functions. Let's take a look!",
         "dAdd": "2022-12-27",
         "dSrc": "2022-12-27",
         "srcSite": "Progress Telerik",
@@ -58166,21 +58135,6 @@
         "aUrl": "https://medium.com/@marekpanti",
         "spkrs": ["Marek Panti"],
         "tags": ["Architecture", "Styles", "Standalone Components"]
-      },
-      {
-        "slug": "2022-12-28-D",
-        "type": "blog",
-        "title": "Angular registering animation triggers",
-        "url": "https://dev.to/this-is-angular/angular-registering-animation-triggers-5gpg",
-        "desc": "This post keeps digging into AnimationRendererFactory creation routine, with a focus on triggers registering logic.",
-        "dAdd": "2022-12-28",
-        "dSrc": "2022-12-27",
-        "srcSite": "DEV Community",
-        "srcUrl": "https://dev.to",
-        "aName": "Gianpiero Errigo",
-        "aUrl": "https://dev.to/gianpiero_errigo",
-        "spkrs": ["Gianpiero Errigo"],
-        "tags": ["Animations"]
       },
       {
         "slug": "2022-12-28-E",
@@ -58302,7 +58256,7 @@
         "aName": "Connie Leung",
         "aUrl": "https://dev.to/railsstudent",
         "spkrs": ["Connie Leung"],
-        "tags": ["Rxjs"]
+        "tags": ["RxJS"]
       },
       {
         "slug": "2022-12-28-N",
@@ -58446,9 +58400,9 @@
         "dSrc": "2022-12-29",
         "srcSite": "DEV Community",
         "srcUrl": "https://dev.to",
-        "aName": "",
-        "aUrl": "",
-        "spkrs": [],
+        "aName": "Dany Paredes",
+        "aUrl": "https://dev.to/danywalls",
+        "spkrs": ["Dany Paredes"],
         "tags": ["ESBuild", "Performance"]
       },
       {
@@ -58625,6 +58579,291 @@
         "aUrl": "https://medium.com/@diwangaamasith",
         "spkrs": [],
         "tags": ["Data Binding"]
+      }
+    ] 
+  },
+  {
+    "date": "2023-01-01",
+    "dailyPosts": [
+      {
+        "slug": "2023-01-01-A",
+        "type": "video",
+        "dur": "6",
+        "title": "Part 47: Child/Nested Route in Angular 15 | Angular 15 tutorials for beginners",
+        "url": "https://www.youtube.com/watch?v=2CsBUSQa7qI",
+        "desc": "",
+        "dAdd": "2023-01-01",
+        "dSrc": "2023-01-01",
+        "srcSite": "YouTube",
+        "srcUrl": "https://youtube.com",
+        "aName": "The DotNet Office",
+        "aUrl": "https://www.youtube.com/@TheDotNetOffice/videos",
+        "spkrs": [],
+        "tags": ["Routing"]
+      },
+      {
+        "slug": "2023-01-01-B",
+        "type": "video",
+        "dur": "8",
+        "title": "Part 48: Named/Multiple Outlets (Auxilary Routes) in Angular 15 |Angular 15 tutorials for beginners",
+        "url": "https://www.youtube.com/watch?v=BiQCnm0lGaY",
+        "desc": "",
+        "dAdd": "2023-01-01",
+        "dSrc": "2023-01-01",
+        "srcSite": "YouTube",
+        "srcUrl": "https://youtube.com",
+        "aName": "The DotNet Office",
+        "aUrl": "https://www.youtube.com/@TheDotNetOffice/videos",
+        "spkrs": [],
+        "tags": ["Routing"]
+      },
+      {
+        "slug": "2023-01-01-C",
+        "type": "blog",
+        "title": "Useful DI Tokens | Angular",
+        "url": "https://medium.com/@suyashshukla1997/useful-di-tokens-angular-bffbeee8a15b",
+        "desc": "I'll be covering a couple of useful DI Tokens which can be incorporated in your app to serve some common usage scenarios. So, without delaying any further, let's run through a set of questions to understand the need of DI Tokens:",
+        "dAdd": "2023-01-01",
+        "dSrc": "2023-01-01",
+        "srcSite": "Medium",
+        "srcUrl": "https://medium.com",
+        "aName": "Suyash Shukla",
+        "aUrl": "https://medium.com/@suyashshukla1997",
+        "spkrs": ["Suyash Shukla"],
+        "tags": ["Dependency Injection", "InjectionToken", "APP_INITIALIZER", "HttpInterceptors"]
+      },
+      {
+        "slug": "2023-01-01-D",
+        "type": "blog",
+        "title": "How to Build a Route Reuse Strategy with Angular",
+        "url": "https://makesh-kumar.medium.com/angular-route-reuse-strategy-c7939ebbf797",
+        "desc": "Before jumping into Route Reuse Strategy, Let's understand what will happen if we navigate from one component to another component by changing the route.",
+        "dAdd": "2023-01-01",
+        "dSrc": "2023-01-01",
+        "srcSite": "Medium",
+        "srcUrl": "https://medium.com",
+        "aName": "Makesh Kumar",
+        "aUrl": "https://makesh-kumar.medium.com",
+        "spkrs": ["Makesh Kumar"],
+        "tags": ["Routing", "ActivatedRouteSnapshot"]
+      },
+      {
+        "slug": "2023-01-01-E",
+        "type": "blog",
+        "title": "Using Services to Share Data and Functionality Across Components in Angular",
+        "url": "https://medium.com/@nicchong/using-services-to-share-data-and-functionality-across-components-in-angular-de3f85d2ea36",
+        "desc": "In this post, we will be discussing the role of services in an Angular application, the different ways in which they can be used to share data and functionality, and best practices for working with services.",
+        "dAdd": "2023-01-01",
+        "dSrc": "2023-01-01",
+        "srcSite": "Medium",
+        "srcUrl": "https://medium.com",
+        "aName": "Nic Chong",
+        "aUrl": "https://medium.com/@nicchong",
+        "spkrs": ["Nic Chong"],
+        "tags": ["Services", "Data Transfer"]
+      },
+      {
+        "slug": "2023-01-01-F",
+        "type": "blog",
+        "title": "Angular the missing piece",
+        "url": "https://medium.com/@brice.prunier.61/angular-the-missing-piece-259dc6994102",
+        "desc": "Why another article on Angular? The answer relies on a simple question: How do you implement Business Objects in Angular",
+        "dAdd": "2023-01-01",
+        "dSrc": "2023-01-01",
+        "srcSite": "Medium",
+        "srcUrl": "https://medium.com",
+        "aName": "Brice Prunier",
+        "aUrl": "https://medium.com/@brice.prunier.61",
+        "spkrs": ["Brice Prunier"],
+        "tags": ["JSON"]
+      },
+      {
+        "slug": "2023-01-01-G",
+        "type": "blog",
+        "title": "Angular lazy loading",
+        "url": "https://medium.com/@lavanya.kakimallaiah/angular-lazy-loading-f9c79e322c55",
+        "desc": "When building an enterprise Angular app, we often need to develop a few different frontends to serve different user types or channels. While they may require different UI styles or have unique features, they still share a lot of common functionalities.",
+        "dAdd": "2023-01-01",
+        "dSrc": "2023-01-01",
+        "srcSite": "Medium",
+        "srcUrl": "https://medium.com",
+        "aName": "Lavanya K",
+        "aUrl": "https://medium.com/@lavanya.kakimallaiah",
+        "spkrs": [],
+        "tags": ["Lazy Loading"]
+      },
+      {
+        "slug": "2023-01-01-H",
+        "type": "blog",
+        "title": "Create whack a mole game using RxJS and Angular",
+        "url": "https://dev.to/railsstudent/create-whack-a-mole-game-using-rxjs-and-angular-1ne2",
+        "desc": "In this blog post, I describe how to create RXJS streams to handle intensive UI tasks described above in a step-by-step manner. Ultimately, we create whack a mole game that does not require to write a lot of codes and RxJS custom operators.",
+        "dAdd": "2023-01-01",
+        "dSrc": "2023-01-01",
+        "srcSite": "DEV Community",
+        "srcUrl": "https://dev.to",
+        "aName": "Connie Leung",
+        "aUrl": "https://dev.to/railsstudent",
+        "spkrs": ["Connie Leung"],
+        "tags": ["RxJS"]
+      },
+      {
+        "slug": "2023-01-01-J",
+        "type": "blog",
+        "title": "Template Reference Variables",
+        "url": "https://medium.com/daily-angular/template-reference-variables-fe54a6b7318b",
+        "desc": "Today's topic is Template Reference Variables. I usually call that feature “the hashtag syntax” because that's how it's used...",
+        "dAdd": "2023-01-01",
+        "dSrc": "2023-01-01",
+        "srcSite": "Medium",
+        "srcUrl": "https://medium.com",
+        "aName": "Alain Chautard",
+        "aUrl": "https://angulartraining.medium.com",
+        "spkrs": ["Alain Chautard"],
+        "tags": ["Template Reference Variable"]
+      },
+      {
+        "slug": "2023-01-01-K",
+        "type": "video",
+        "dur": "5",
+        "title": "What gets called first ngOnChanges or ngOnInit? | Angular ngOnInit and onChanges lifecycle hooks",
+        "url": "https://www.youtube.com/watch?v=WS9ooBWZzuo",
+        "desc": "In Angular two most used lifecycle hooks are ngOnInit and ngOnChanges.",
+        "dAdd": "2023-01-01",
+        "dSrc": "2023-01-01",
+        "srcSite": "YouTube",
+        "srcUrl": "https://youtube.com",
+        "aName": "Geek 97",
+        "aUrl": "https://www.youtube.com/@Geek97/videos",
+        "spkrs": [],
+        "tags": ["Lifecycle Hooks", "ngOnChanges()", "ngOnInit()"]
+      }
+    ] 
+  },
+  {
+    "date": "2023-01-02",
+    "dailyPosts": [
+      {
+        "slug": "2023-01-02-A",
+        "type": "video",
+        "dur": "5",
+        "title": "Directives | Angular Unit Testing",
+        "url": "https://www.youtube.com/watch?v=tcOf1IheknE",
+        "desc": "",
+        "dAdd": "2023-01-02",
+        "dSrc": "2023-01-02",
+        "srcSite": "YouTube",
+        "srcUrl": "https://youtube.com",
+        "aName": "WebTechTalk",
+        "aUrl": "https://www.youtube.com/@WebTechTalk/videos",
+        "spkrs": [],
+        "tags": ["Testing", "Unit Testing", "Directives"]
+      },
+      {
+        "slug": "2023-01-02-B",
+        "type": "blog",
+        "title": "Create a custom Structural Directive to manage permissions",
+        "url": "https://dev.to/this-is-angular/create-a-custom-structural-directive-to-manage-permissions-like-a-pro-5293",
+        "desc": "In this challenge, we will need to display or hide certain information and restrict certain route navigation based on a user's permissions.",
+        "dAdd": "2023-01-02",
+        "dSrc": "2023-01-02",
+        "srcSite": "DEV Community",
+        "srcUrl": "https://dev.to",
+        "aName": "Thomas Laforge",
+        "aUrl": "https://dev.to/achtlos",
+        "spkrs": ["Thomas Laforge"],
+        "tags": ["Directives", "Custom"]
+      },
+      {
+        "slug": "2023-01-02-C",
+        "type": "blog",
+        "title": "4 Ways to Mock Backend Responses in Angular",
+        "url": "https://javascript.plainenglish.io/mock-backend-responses-in-angular-320694a515c",
+        "desc": "Learn 4 different ways to mock backend responses in Angular and pick the solution that best fits your needs.",
+        "dAdd": "2023-01-02",
+        "dSrc": "2023-01-02",
+        "srcSite": "Medium",
+        "srcUrl": "https://medium.com",
+        "aName": "Kagklis Vasileios",
+        "aUrl": "https://kagklis.medium.com",
+        "spkrs": ["Kagklis Vasileios"],
+        "tags": ["Testing", "Mocks"]
+      },
+      {
+        "slug": "2023-01-02-D",
+        "type": "blog",
+        "title": "Help, my Angular bundle is growing",
+        "url": "https://dev.to/this-is-angular/help-my-angular-bundle-is-growing-1jkj",
+        "desc": "The Angular budget is the term employed by Angular to represent the ultimate size of your application that you will still consider 'normal'.",
+        "dAdd": "2023-01-02",
+        "dSrc": "2023-01-02",
+        "srcSite": "DEV Community",
+        "srcUrl": "https://dev.to",
+        "aName": "Pierre Bouillon",
+        "aUrl": "https://dev.to/pbouillon",
+        "spkrs": ["Pierre Bouillon"],
+        "tags": ["Performance"]
+      },
+      {
+        "slug": "2023-01-02-E",
+        "type": "blog",
+        "title": "Angular Internals: How Reactivity Works with Zone.js",
+        "url": "https://dev.to/this-is-angular/angular-internals-how-reactivity-works-with-zonejs-302m",
+        "desc": "his article is an advanced look at how Angular works under-the-hood. The contents within may not be clear if you're not already fairly familiar with JavaScript.",
+        "dAdd": "2023-01-02",
+        "dSrc": "2023-01-02",
+        "srcSite": "DEV Community",
+        "srcUrl": "https://dev.to",
+        "aName": "Corbin Crutchley",
+        "aUrl": "https://dev.to/crutchcorn",
+        "spkrs": ["Corbin Crutchley"],
+        "tags": ["NgZone"]
+      },
+      {
+        "slug": "2023-01-02-F",
+        "type": "video",
+        "dur": "22",
+        "title": "What's new in Angular v15?",
+        "url": "https://www.youtube.com/watch?v=lYPY4aa-gF4",
+        "desc": "Angular 15 was recently released with a bunch of new features. There are nice tools in the functional programming field, improved error debugging, and many other functionalities that provide less boilerplate and more code usability! If you want to know what was changed, created, or improved, watch the video up to the end.",
+        "dAdd": "2023-01-02",
+        "dSrc": "2023-01-02",
+        "srcSite": "YouTube",
+        "srcUrl": "https://youtube.com",
+        "aName": "Lucas Paganini",
+        "aUrl": "https://www.youtube.com/@LucasPaganiniDM/videos",
+        "spkrs": ["Lucas Paganini"],
+        "tags": []
+      },
+      {
+        "slug": "2023-01-02-G",
+        "type": "blog",
+        "title": "Control value accessor under the hood and the debounce directive",
+        "url": "https://medium.com/@adaico/control-value-accessor-under-the-hood-and-the-debounce-directive-329bdabbc6a",
+        "desc": "In this article we'll take a look at how control value accessor works with forms in Angular and do some practice.",
+        "dAdd": "2023-01-02",
+        "dSrc": "2023-01-02",
+        "srcSite": "Medium",
+        "srcUrl": "https://medium.com",
+        "aName": "Andrey Zherikhov",
+        "aUrl": "https://medium.com/@adaico",
+        "spkrs": ["Andrey Zherikhov"],
+        "tags": ["ControlValueAccessor"]
+      },
+      {
+        "slug": "2023-01-02-H",
+        "type": "blog",
+        "title": "Lifecycle hooks in Angular",
+        "url": "https://gautam-balamurali.hashnode.dev/lifecycle-hooks-in-angular",
+        "desc": "Every component in Angular has a lifecycle, and different phases it goes through from the time of creation to the time it's destroyed. Angular provides hooks to tap into these phases and trigger changes at specific phases in a lifecycle.",
+        "dAdd": "2023-01-02",
+        "dSrc": "2023-01-02",
+        "srcSite": "Hashnode",
+        "srcUrl": "https://hashnode.com",
+        "aName": "Gautam Balamurali",
+        "aUrl": "https://hashnode.com/@ashcod",
+        "spkrs": ["Gautam Balamurali"],
+        "tags": ["Lifecycle Hooks"]
       }
     ] 
   }

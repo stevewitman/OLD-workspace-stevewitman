@@ -1,16 +1,6 @@
-
-30th 
-
-
-
-========================
-SUNDAY 01/01
-3 https://www.youtube.com/watch?v=2CsBUSQa7qI
-3 https://www.youtube.com/watch?v=BiQCnm0lGaY
-5 https://medium.com/@nicchong/using-services-to-share-data-and-functionality-across-components-in-angular-de3f85d2ea36
-8 https://dev.to/railsstudent/create-whack-a-mole-game-using-rxjs-and-angular-1ne2
-
-
+1/3
+4 https://www.youtube.com/watch?v=1W0FzQV7uNU
+6 https://www.telerik.com/blogs/best-practices-angular-i18n
 
 $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 footbalL*380220
