@@ -27915,7 +27915,7 @@
         "srcUrl": "https://youtube.com",
         "aName": "GrUSP",
         "aUrl": "https://www.youtube.com/c/GrUSP/videos",
-        "spkrs": ["mma Twersky", "Mark Thompson", "Tracy Lee", "Jessica Janiuk"],
+        "spkrs": ["Emma Twersky", "Mark Thompson", "Tracy Lee", "Jessica Janiuk"],
         "tags": []
       },
       {
@@ -42300,7 +42300,7 @@
         "type": "blog",
         "title": "Angular NgRx Example Sharing Data Between two different components using NgRx (Learn it in 26 Steps)",
         "url": "https://mryenagandula.medium.com/angular-ngrx-example-sharing-data-between-two-different-components-using-ngrx-learn-it-in-26-ecc6004b3d42",
-        "desc": "This article gives you information about how to share data between two different components using the Ngrx concept. Please find the below steps to implement the above criteria.",
+        "desc": "This article gives you information about how to share data between two different components using the NgRx concept. Please find the below steps to implement the above criteria.",
         "dAdd": "2022-09-02",
         "dSrc": "2022-08-30",
         "srcSite": "Medium",
@@ -43560,7 +43560,7 @@
         "srcUrl": "https://www.spreaker.com",
         "aName": "The Angular Plus Show",
         "aUrl": "https://www.spreaker.com/show/angular-show",
-        "spkrs": [""],
+        "spkrs": [],
         "tags": []
       },
       {
@@ -44378,7 +44378,7 @@
         "srcUrl": "https://medium.com",
         "aName": "Midge",
         "aUrl": "https://medium.com/@midgekim10",
-        "spkrs": [""],
+        "spkrs": [],
         "tags": []
       },
       {
@@ -46672,7 +46672,7 @@
         "aName": "Alex Rickabaugh",
         "aUrl": "https://github.com/alxhub",
         "spkrs": [],
-        c
+        "tags": ["Release"]
       },
       {
         "slug": "2022-09-29-E",
@@ -53209,7 +53209,7 @@
         "srcUrl": "https://youtube.com",
         "aName": "Monsterlessons Academy",
         "aUrl": "https://www.youtube.com/@MonsterlessonsAcademy/videos",
-        "spkrs": [""],
+        "spkrs": [],
         "tags": ["Errors"]
       },
       {
@@ -55006,7 +55006,7 @@
         "srcUrl": "https://hashnode.com",
         "aName": "Khairuddin Niam",
         "aUrl": "https://hashnode.com/@khairuddinniam",
-        "spkrs": ["Khairuddin Niam    "],
+        "spkrs": ["Khairuddin Niam"],
         "tags": ["Configuration"]
       },
       {
@@ -55339,7 +55339,7 @@
         "type": "blog",
         "title": "Use Google Map in Angular Project",
         "url": "https://medium.com/@ika.vcc/use-google-map-in-angular-project-4a6fd1a5efab",
-        "desc": "The Angular Team has built among the other libraries, a library for using the Google Maps API called “@angular/google-maps”.",
+        "desc": "The Angular Team has built among the other libraries, a library for using the Google Maps API called '@angular/google-maps'.",
         "dAdd": "2022-12-04",
         "dSrc": "2022-12-04",
         "srcSite": "Medium",
@@ -55419,7 +55419,7 @@
         "type": "blog",
         "title": "Implementing Upsert Form Dialogs in Angular",
         "url": "https://netbasal.com/implementing-upsert-form-dialogs-in-angular-732197d4936b",
-        "desc": "Many applications requires the ability to create and update records through the user interface. Usually, we'll want to utilize the same dialog component for both operations. The term “upsert” is a combination of the words “update” and “insert,” and it refers to the fact that the dialog can be used to either create a new record or update an existing one.",
+        "desc": "Many applications requires the ability to create and update records through the user interface. Usually, we'll want to utilize the same dialog component for both operations. The term 'upsert' is a combination of the words 'update' and 'insert', and it refers to the fact that the dialog can be used to either create a new record or update an existing one.",
         "dAdd": "2022-12-05",
         "dSrc": "2022-12-05",
         "srcSite": "Medium",
@@ -57784,7 +57784,7 @@
         "dur": "52",
         "title": "State Management with RxJS - AiA 363",
         "url": "https://topenddevs.com/podcasts/adventures-in-angular/episodes/state-management-with-rxjs-aia-363",
-        "desc": "Amal Ayyash is a UX Designer and Front-end Developer. and her current main focus is Angular. She joins Chuck and Lucas to discuss her article, “RxJS-based state management in Angular”. She starts the show off by explaining the reason why she chose to use RxJS to create state management instead of using NgRX. She also gives advice to other developers, encouraging them to use their own frameworks or codes rather than third-party solutions.",
+        "desc": "Amal Ayyash is a UX Designer and Front-end Developer. and her current main focus is Angular. She joins Chuck and Lucas to discuss her article, 'RxJS-based state management in Angular'. She starts the show off by explaining the reason why she chose to use RxJS to create state management instead of using NgRX. She also gives advice to other developers, encouraging them to use their own frameworks or codes rather than third-party solutions.",
         "dAdd": "2022-12-24",
         "dSrc": "2022-12-24",
         "srcSite": "Adventures In Angular",
@@ -57865,7 +57865,7 @@
         "type": "blog",
         "title": "What RxJS really is ? Part 1",
         "url": "https://medium.com/@harrish/what-rxjs-really-is-part-1-bf7fd75c6e92",
-        "desc": "This blog will be the first part of “What RxJS really is?” series and will cover: RxJS explained in simple terms, Why use RxJS, and RxJS terms and syntax",
+        "desc": "This blog will be the first part of 'What RxJS really is?' series and will cover: RxJS explained in simple terms, Why use RxJS, and RxJS terms and syntax",
         "dAdd": "2022-12-25",
         "dSrc": "2022-12-25",
         "srcSite": "Medium",
@@ -57940,7 +57940,7 @@
         "aName": "Thomas Laforge",
         "aUrl": "https://dev.to/achtlos",
         "spkrs": ["Thomas Laforge"],
-        "tags": ["Ngrx", "ComponentStore"]
+        "tags": ["NgRx", "ComponentStore"]
       },
       {
         "slug": "2022-12-26-D",
@@ -58111,7 +58111,7 @@
         "type": "blog",
         "title": "Sample test to unit test complex Angular component",
         "url": "https://medium.com/@deepanshurtiwari/sample-test-to-unit-test-complex-angular-component-bd0f46755e4",
-        "desc": "Problem statement: Suppose we have a component called “ProductListComponent” that displays a list of products, and allows users to add new products to the list...",
+        "desc": "Problem statement: Suppose we have a component called 'ProductListComponent' that displays a list of products, and allows users to add new products to the list...",
         "dAdd": "2022-12-28",
         "dSrc": "2022-12-27",
         "srcSite": "Medium",
@@ -58472,7 +58472,7 @@
         "slug": "2022-12-30-G",
         "type": "video",
         "dur": "83",
-        "title": "Nir Kaufmann - 'Advanced Practical Angular Techniques - 2022 Edition' | Angular Meetup",
+        "title": "Nir Kaufman - 'Advanced Practical Angular Techniques - 2022 Edition' | Angular Meetup",
         "url": "https://www.youtube.com/watch?v=cXFgFJATfVA",
         "desc": "Nir will show you some less known techniques and APIs that can both improve your application performance, and build your knowledge of Angular and TypeScript.",
         "dAdd": "2022-12-30",
@@ -58481,7 +58481,7 @@
         "srcUrl": "https://youtube.com",
         "aName": "Angular Love",
         "aUrl": "https://www.youtube.com/@angularlove/videos",
-        "spkrs": ["Nir Kaufmann"],
+        "spkrs": ["Nir Kaufman"],
         "tags": ["Performance"]
       },
       {
@@ -58533,7 +58533,7 @@
     ] 
   },
   {
-    "date": "2022-12-31",
+    "date": "2022-12-31", 
     "dailyPosts": [
       {
         "slug": "2022-12-31-A",
@@ -58712,7 +58712,7 @@
         "type": "blog",
         "title": "Template Reference Variables",
         "url": "https://medium.com/daily-angular/template-reference-variables-fe54a6b7318b",
-        "desc": "Today's topic is Template Reference Variables. I usually call that feature “the hashtag syntax” because that's how it's used...",
+        "desc": "Today's topic is Template Reference Variables. I usually call that feature 'the hashtag syntax' because that's how it's used...",
         "dAdd": "2023-01-01",
         "dSrc": "2023-01-01",
         "srcSite": "Medium",
@@ -58864,6 +58864,195 @@
         "aUrl": "https://hashnode.com/@ashcod",
         "spkrs": ["Gautam Balamurali"],
         "tags": ["Lifecycle Hooks"]
+      }
+    ] 
+  },
+  {
+    "date": "2023-01-03",
+    "dailyPosts": [
+      {
+        "slug": "2023-01-03-A",
+        "type": "blog",
+        "title": "Angular for Junior Developers: Promises vs Observables",
+        "url": "https://itnext.io/angular-for-junior-developers-promises-vs-observables-618f1d26aaa5",
+        "desc": "In this article, you'll learn what is the difference between Observables and Promises.",
+        "dAdd": "2023-01-03",
+        "dSrc": "2022-12-28",
+        "srcSite": "Medium",
+        "srcUrl": "https://medium.com",
+        "aName": "Oz",
+        "aUrl": "https://medium.com/@eugeniyoz",
+        "spkrs": [],
+        "tags": ["Observables", "Promises"]
+      },
+      {
+        "slug": "2023-01-03-B",
+        "type": "video",
+        "dur": "17",
+        "title": "Differences between Angular RxJS Subject - BehaviorSubject - ReplaySubject | Angular 15",
+        "url": "https://www.youtube.com/watch?v=Ydl64Bj181g",
+        "desc": "",
+        "dAdd": "2023-01-03",
+        "dSrc": "2022-12-29",
+        "srcSite": "YouTube",
+        "srcUrl": "https://youtube.com",
+        "aName": "Tapan Dubey",
+        "aUrl": "https://www.youtube.com/@TapanDubey/videos",
+        "spkrs": ["Tapan Dubey"],
+        "tags": ["RxJS", "BehaviorSubject", "ReplaySubject"]
+      },
+      {
+        "slug": "2023-01-03-C",
+        "type": "video",
+        "dur": "11",
+        "title": "SwitchMap, MergeMap, and ConcatMap Operators for RxJS",
+        "url": "https://www.youtube.com/watch?v=U18M1__57Lw",
+        "desc": "This video discusses the difference between the switchMap, mergeMap, and concatMap operators in RxJS.",
+        "dAdd": "2023-01-03",
+        "dSrc": "2022-12-29",
+        "srcSite": "YouTube",
+        "srcUrl": "https://youtube.com",
+        "aName": "Paul Mojica",
+        "aUrl": "https://www.youtube.com/@paulmojica39/videos",
+        "spkrs": ["Paul Mojica"],
+        "tags": ["RxJS", "switchMap()", "mergeMap()", "concatMap()"]
+      },
+      {
+        "slug": "2023-01-03-D",
+        "type": "blog",
+        "title": "Reactive programming in RxJS ft. Angular",
+        "url": "https://ankit-kaushik.medium.com/reactive-programming-in-rxjs-ft-angular-eb0c63b809f7",
+        "desc": "Out of two major programming paradigms i.e Imperative and Declarative, it comes under the later one (an evolving modern day needed approach) that makes things look more predictable (nonetheless to mention that you might want to include it more instead of excluding the former)",
+        "dAdd": "2023-01-03",
+        "dSrc": "2022-12-29",
+        "srcSite": "Medium",
+        "srcUrl": "https://medium.com",
+        "aName": "Ankit Kaushik",
+        "aUrl": "https://ankit-kaushik.medium.com",
+        "spkrs": ["Ankit Kaushik"],
+        "tags": ["RxJS"]
+      },
+      {
+        "slug": "2023-01-03-E",
+        "type": "blog",
+        "title": "Handle concurrency in Cloud Firestore with a single boolean",
+        "url": "https://dev.to/supamiu/handle-concurrency-in-cloud-firestore-with-a-single-boolean-h3f",
+        "desc": "Working with Cloud Firestore really feels amazing, realtime, scalability, easy to use, nice SDKs! Then you stumble on concurrency, and it hurts. Cuncurrency has always been a big issue in many online apps, and there's a lot of ways to handle it, today i'm going to present to you one of the easiest ways I've ever seen, using a boolean that's quite hard to find when you just google 'Firestore concurrency stuff.",
+        "dAdd": "2023-01-03",
+        "dSrc": "2023-01-02",
+        "srcSite": "DEV Community",
+        "srcUrl": "https://dev.to",
+        "aName": "Flavien Normand",
+        "aUrl": "https://dev.to/supamiu",
+        "spkrs": ["Flavien Normand"],
+        "tags": ["Firebase"]
+      },
+      {
+        "slug": "2023-01-03-F",
+        "type": "blog",
+        "title": "How To Use The RxJS From Operator",
+        "url": "https://javascript.plainenglish.io/how-to-use-the-rxjs-from-operator-44b7d707ae76",
+        "desc": "As reported in the documentation, the RxJS from operator, 'Converts almost anything to an Observable.'",
+        "dAdd": "2023-01-03",
+        "dSrc": "2023-01-03",
+        "srcSite": "Medium",
+        "srcUrl": "https://medium.com",
+        "aName": "Lorenzo Zarantonello",
+        "aUrl": "https://medium.com/@lorenzozar",
+        "spkrs": ["Lorenzo Zarantonello"],
+        "tags": ["RxJS", "from()"]
+      },
+      {
+        "slug": "2023-01-03-G",
+        "type": "video",
+        "dur": "6",
+        "title": "Angular Content Projection | Stack MJ",
+        "url": "https://www.youtube.com/watch?v=1W0FzQV7uNU",
+        "desc": "In this video I explained about what is content projection in Angular and how to use single slot content projection and multi slot content projection and how to use events on projected content.",
+        "dAdd": "2023-01-03",
+        "dSrc": "2023-01-03",
+        "srcSite": "YouTube",
+        "srcUrl": "https://youtube.com",
+        "aName": "Stack MJ",
+        "aUrl": "https://www.youtube.com/@StackMJ",
+        "spkrs": [],
+        "tags": ["Content Projection"]
+      },
+      {
+        "slug": "2023-01-03-H",
+        "type": "blog",
+        "title": "Angular: Cancelling Observables when switching between Tabs",
+        "url": "https://medium.com/geekculture/angular-cancelling-observables-when-switching-between-tabs-453ebaf4d58c",
+        "desc": "Consider you have a group of tabs in your application, and you are loading content from an API based on the tab selected.",
+        "dAdd": "2023-01-03",
+        "dSrc": "2023-01-03",
+        "srcSite": "Medium",
+        "srcUrl": "https://medium.com",
+        "aName": "AngularEnthusiast",
+        "aUrl": "https://medium.com/@ramya-bala221190",
+        "spkrs": [],
+        "tags": ["RxJS", "Observables", "Subscriptions"]
+      },
+      {
+        "slug": "2023-01-03-J",
+        "type": "blog",
+        "title": "Best Practices for Angular i18n",
+        "url": "https://www.telerik.com/blogs/best-practices-angular-i18n",
+        "desc": "In this blog post, we will cover best practices that the virtuous Angular developers use when implementing internationalized user interfaces.",
+        "dAdd": "2023-01-03",
+        "dSrc": "2023-01-03",
+        "srcSite": "Progress Telerik",
+        "srcUrl": "https://www.telerik.com/blogs/web-angular",
+        "aName": "Vyom Srivastava",
+        "aUrl": "https://www.telerik.com/blogs/author/vyom-srivastava",
+        "spkrs": ["Vyom Srivastava"],
+        "tags": ["Internationalization"]
+      },
+      {
+        "slug": "2023-01-03-K",
+        "type": "video",
+        "dur": "50",
+        "title": "Angular 15 Component First Architecture",
+        "url": "https://www.youtube.com/watch?v=HO7cZKYvrLk",
+        "desc": "",
+        "dAdd": "2023-01-03",
+        "dSrc": "2023-01-03",
+        "srcSite": "YouTube",
+        "srcUrl": "https://youtube.com",
+        "aName": "Hypertheory Labs",
+        "aUrl": "https://www.youtube.com/@hypertheorylabs9175/videos",
+        "spkrs": [],
+        "tags": ["Nx", "TailwindCSS", "NgRx"]
+      },
+      {
+        "slug": "2023-01-03-L",
+        "type": "blog",
+        "title": "How to unsubscribe Observables in Angular components!",
+        "url": "https://medium.com/@yasharsanaei/how-to-unsubscribe-observables-in-angular-components-f6ca3f3a521f",
+        "desc": "We really have to unsubscribe observables that we subscribe to, it's a must. RxJs library is handy and suggested by Angular, I can't think I'm developing without this library :) But it's sometimes painful and not really enjoyable to handle subscriptions. Let's see how we can unsubscribe from our subscriptions in a better way.",
+        "dAdd": "2023-01-03",
+        "dSrc": "2023-01-03",
+        "srcSite": "Medium",
+        "srcUrl": "https://medium.com",
+        "aName": "Yashar Sanaei",
+        "aUrl": "https://medium.com/@yasharsanaei",
+        "spkrs": ["Yashar Sanaei"],
+        "tags": ["RxJS", "Subscriptions"]
+      },
+      {
+        "slug": "2023-01-03-M",
+        "type": "blog",
+        "title": "RxJS and Angular: Why and how to use",
+        "url": "https://dev.to/educative/rxjs-and-angular-why-and-how-to-use-37a1",
+        "desc": "Today, we will discuss RxJS and Angular, the benefits of using RxJS in Angular, and how to use them together.",
+        "dAdd": "2023-01-03",
+        "dSrc": "2023-01-03",
+        "srcSite": "DEV Community",
+        "srcUrl": "https://dev.to",
+        "aName": "Hunter Johnson",
+        "aUrl": "https://dev.to/huntereducative",
+        "spkrs": ["Hunter Johnson"],
+        "tags": ["RxJS"]
       }
     ] 
   }

@@ -127,3 +127,7 @@ remove duplicate post "2022-05-21-G"
 "2022-10-01-A" add "Google Maps"
 
 2022-03-07-G move , "Brooke Avery", "Erik Slack" from tags to spkrs
+
+"2022-12-04-A",  "2022-12-05-C", "2022-12-24-F", "2022-12-25-D", "2022-12-28-B" change to single quotes in description
+
+"2022-12-26-C" Ngrx to NgRx in tags

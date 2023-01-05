@@ -5,6 +5,8 @@
   <!-- <div *ngFor="let tag of uniqueTags">
 <span>'{{ tag }}', </span>
   </div> -->
+  <!-- <pre>{{ allSpeakers | json }}</pre> -->
+  <!-- <div *ngFor="let spk of allSpeakers">{{spk}}</div> -->
   <ng-container *ngIf="recentPosts; else loading">
     <div *ngFor="let dayGroup of recentPosts.reverse()" class="daily-section">
       <div class="divider-line">
@@ -27,6 +29,7 @@
     <div>L o a d i n g . . .</div>
   </ng-template>
 <!-- <pre>{{ recentPosts | json }}</pre> -->
+
 
 
   

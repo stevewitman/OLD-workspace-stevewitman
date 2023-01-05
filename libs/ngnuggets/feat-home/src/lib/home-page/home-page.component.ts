@@ -23,6 +23,7 @@ export class HomePageComponent implements OnInit {
   uniqueTags;
   uniqueTagsString = 'init';
   uniqueSpeakers;
+  allSpeakers;
 
   constructor(private postService: PostService) {}
 
@@ -32,7 +33,8 @@ export class HomePageComponent implements OnInit {
     // });
     this.getPosts().subscribe((data) => {
       this.recentPosts = data;
-      this.recentPosts
+      // this.recentPosts
+      // this.allSpeakers = this.extractSpeakers(this.recentPosts);
     });
     
   }
