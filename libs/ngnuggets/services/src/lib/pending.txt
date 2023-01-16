@@ -1,11 +1,25 @@
-3rd 21 https://www.youtube.com/watch?v=fcE1yGr_GNU
-3rd https://javascript.plainenglish.io/create-a-multi-page-job-application-form-using-angular-f0b1640f4195
-2 https://www.youtube.com/watch?v=sLUasUQLhLk
-3 https://www.youtube.com/watch?v=BWjGPR2TYD4
-7 https://www.youtube.com/watch?v=XE9dI8gSi9U
-8 https://indepth.dev/posts/1509/overview-of-angulars-change-detection-operations-in-ivy
-9 https://www.thisdot.co/blog/introduction-to-directives-composition-api-in-angular
 
+1 
+3 
+4 
+4 
+10 
+10 
+10 
+11 
+======================
+SATURDAY 01-14
+2 
+10 
+20 
+=============
+SUNDAY  01-15
+14th 
+14th 
+14th 
+14th 
+5 
+20 
 $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 footbalL*380220
 
