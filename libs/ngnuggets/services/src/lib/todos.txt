@@ -133,3 +133,9 @@ remove duplicate post "2022-05-21-G"
 "2022-12-26-C" Ngrx to NgRx in tags
 
 "2022-06-29-L" dates from 60 to 06
+
+2022-05-14-H add WebRTC
+
+"2022-07-13-J" aUrl to https://www.youtube.com/@DevBySeb/videos
+
+"2022-05-30-M" speakers "Philippe De Ryck" instead of "Philippe de Ryck"
